@@ -103,48 +103,114 @@ function build() {
 
   const guideRows = new Set(guides.map(g => g.row));
 
+  /* ---------- plates ----------
+     ⛔ READ FROM plates/, NOT REBUILT HERE. Plates are produced by the python
+     lane (hunt -> fetch -> verify -> build_plates), which is where the
+     public-domain checks live. This publisher's job is to refuse anything that
+     did not come through that lane, never to re-derive it. */
+  const plates = [];
+  const platesDir = path.join(ROOT, 'plates');
+  if (fs.existsSync(platesDir)) {
+    fs.readdirSync(platesDir).filter(f => f.endsWith('.json')).sort().forEach(f => {
+      const bytes = fs.readFileSync(path.join(platesDir, f));
+      plates.push({ row: f.replace(/\.json$/, ''), bytes,
+                    rec: JSON.parse(bytes.toString('utf8')) });
+    });
+  }
+  const plateImages = [];
+  const imgDir = path.join(platesDir, 'img');
+  if (fs.existsSync(imgDir)) {
+    fs.readdirSync(imgDir).filter(f => f.endsWith('.png')).sort().forEach(f => {
+      plateImages.push({ path: 'plates/img/' + f, bytes: fs.readFileSync(path.join(imgDir, f)) });
+    });
+  }
+  const plateRows = new Map(plates.map(p2 => [p2.row, p2.rec]));
+
   /* ---------- index ---------- */
-  const catalog = project.parseCatalog(app.show('www/index.html'));
+  const html = app.show('www/index.html');
+  const catalog = project.parseCatalog(html);
+  /* ⛔ REACHABILITY COMES FROM THE APP'S OWN ROUTING, NOT FROM THE ROW ID. See
+     project.parseRouting — one guide may serve many rows by family. */
+  const routing = project.parseRouting(html);
+  const byId = new Map(guides.map(g => [g.row, g]));
+  const reached = new Set();
+
   const seen = new Set();
   const rows = catalog.map(c => {
     if (seen.has(c.i)) throw new Error('⛔ REFUSING — duplicate catalog row id: ' + c.i);
     seen.add(c.i);
     const r = project.projectCatalogRow(c);
-    const g = guides.find(x => x.row === r.id);
+    const gid = project.guideIdFor(routing, c);
+    const g = gid ? byId.get(gid) : null;
     r.guide = !!g;
-    /* The per-guide digest is what makes "everything since version N" checkable
-       rather than merely answerable — a client can verify what it fetched. */
-    if (g) r.guideSha256 = g.sha256;
+    if (g) {
+      reached.add(g.row);
+      /* Named whenever a guide is reached, even where it equals the row id, so a
+         client never has to know which of the two routes served it. */
+      r.guideId = g.row;
+      /* The per-guide digest is what makes "everything since version N" checkable
+         rather than merely answerable — a client can verify what it fetched. */
+      r.guideSha256 = g.sha256;
+    }
     else if (holds.held.has(r.id)) r.held = true;        // stated, so the absence is not a mystery
-    else if (quarantined.some(q => q.row === r.id)) r.withheld = true;
+    else if (quarantined.some(q => q.row === (gid || r.id))) r.withheld = true;
+
+    /* ⛔ THE PLATE IS INDEPENDENT OF THE GUIDE, AND SO IS ITS FLAG. A row may have
+       a guide and no plate, a plate and no guide, both, or neither — a plate comes
+       from a government TM and a guide from the maker's book, and the two lanes
+       cover different rows. So this sits OUTSIDE the if/else chain above: hanging
+       it off the guide branch would have hidden every plate on a row whose guide
+       is still unwritten, which is exactly the row an owner has least else to go on.
+       ⛔ AND IT IS KEYED ON THE ROW, NEVER ON gid. A guide may be shared across a
+       family by routing; a plate is mapped per row by the row test. */
+    const pl = plateRows.get(r.id);
+    if (pl) {
+      r.plate = true;
+      r.plateSha256 = guards.sha256(Buffer.from(JSON.stringify(pl)));
+    }
     return r;
   });
 
-  /* ⛔ A GUIDE WITHOUT A CATALOG ROW IS A GHOST — it can never be reached in the
-     app, and its presence means the two repos already disagree. */
-  const ghosts = [...guideRows].filter(r => !seen.has(r));
+  /* ⛔ A GUIDE NO CATALOG ROW CAN REACH IS A GHOST — it can never be opened in
+     the app, and its presence means the two repos already disagree. The test is
+     reachability, not id equality: `sg_tx1022` is reached by seven 10/22-pattern
+     rows through their `fm` field and owns no catalog row at all. */
+  const ghosts = [...guideRows].filter(r => !reached.has(r));
   if (ghosts.length) {
-    throw new Error('⛔ REFUSING — ' + ghosts.length + ' guide(s) have no catalog row: ' +
-                    ghosts.slice(0, 12).join(', '));
+    throw new Error('⛔ REFUSING — ' + ghosts.length + ' guide(s) are unreachable from any catalog ' +
+                    'row, by id or by family: ' + ghosts.slice(0, 12).join(', '));
   }
 
   /* ---------- version + changelog ---------- */
   const prevIndex = readJsonIfPresent(path.join(ROOT, 'index.json'));
   const prevLog = readJsonIfPresent(path.join(ROOT, 'changelog.json'));
   const prevVersion = prevIndex && Number.isInteger(prevIndex.version) ? prevIndex.version : 0;
+  /* ⛔ KEYED BY THE GUIDE, NOT BY THE ROW. A family guide is reached by several
+     rows and owns none of them, so keying this on `id` would find no previous
+     entry for it, report it "added" on every run, and bump the version forever —
+     destroying the property that a republish with no upstream change is a
+     zero-byte diff. `guideId` is written on every row that reaches a guide
+     precisely so this comparison has something stable to key on; the `|| r.id`
+     fallback reads an index published before that field existed. */
   const prevGuides = new Map(
     (prevIndex ? prevIndex.rows || [] : [])
       .filter(r => r.guide)
-      .map(r => [r.id, r.guideSha256 || '']));
+      .map(r => [r.guideId || r.id, r.guideSha256 || '']));
 
   const added = guides.filter(g => !prevGuides.has(g.row)).map(g => g.row);
   const changed = guides.filter(g => prevGuides.has(g.row) && prevGuides.get(g.row) !== g.sha256)
                         .map(g => g.row);
   const removed = [...prevGuides.keys()].filter(r => !guideRows.has(r));
 
+  const prevPlates = new Set((prevIndex ? prevIndex.rows || [] : [])
+    .filter(r => r.plate).map(r => r.id));
+  const platesAdded = [...plateRows.keys()].filter(r => !prevPlates.has(r)).sort();
+  const platesRemoved = [...prevPlates].filter(r => !plateRows.has(r));
+
   const catalogChanged = !prevIndex ||
     JSON.stringify((prevIndex.rows || []).map(r => r.id)) !== JSON.stringify(rows.map(r => r.id));
-  const contentChanged = !prevIndex || added.length || changed.length || removed.length || catalogChanged;
+  const contentChanged = !prevIndex || added.length || changed.length || removed.length ||
+    catalogChanged || platesAdded.length || platesRemoved.length;
   const version = contentChanged ? prevVersion + 1 : prevVersion;
 
   const index = {
@@ -159,7 +225,7 @@ function build() {
        a publish that never happened. */
     publishedAt: contentChanged ? localDate() : (prevIndex && prevIndex.publishedAt) || localDate(),
     appCommit: headCommit,
-    counts: { catalogRows: rows.length, guides: guides.length },
+    counts: { catalogRows: rows.length, guides: guides.length, plates: plates.length },
     rows,
   };
 
@@ -167,8 +233,8 @@ function build() {
     version,
     publishedAt: index.publishedAt,
     appCommit: headCommit,
-    counts: { catalogRows: rows.length, guides: guides.length },
-    added, changed, removed,
+    counts: { catalogRows: rows.length, guides: guides.length, plates: plates.length },
+    added, changed, removed, platesAdded,
   };
   const changelog = {
     _doc: 'One entry per published index version, newest first. `added` is the row ids ' +
@@ -181,12 +247,15 @@ function build() {
 
   /* ---------- the byte payload the guards judge ---------- */
   const files = guides.map(g => ({ path: 'guides/' + g.row + '.json', bytes: g.bytes }));
+  plates.forEach(p2 => files.push({ path: 'plates/' + p2.row + '.json', bytes: p2.bytes }));
+  plateImages.forEach(i => files.push(i));
   files.push({ path: 'index.json', bytes: Buffer.from(j(index), 'utf8') });
   files.push({ path: 'changelog.json', bytes: Buffer.from(j(changelog), 'utf8') });
 
   return { headCommit, headSubject: app.headSubject(), holds, guides, rows, index, changelog,
            files, added, changed, removed, contentChanged, version, prevVersion,
-           refusedHeld, quarantined, unknownFields, specCount: specPaths.length };
+           refusedHeld, quarantined, unknownFields, specCount: specPaths.length,
+           plates, plateImages, platesAdded, platesRemoved };
 }
 
 function localDate() {
@@ -211,6 +280,7 @@ function check(payload, operatorNames) {
     'NO SOURCE DOCUMENTS': guards.noSourceDocuments(payload.files),
     'NO HELD ROWS': guards.noHeldRows(entries, payload.holds.held, payload.holds.heldDocs),
     'NO PERSONAL DATA': guards.noPersonalData(payload.files, operatorNames),
+    'NO UNVERIFIED PLATE': guards.noUnverifiedPlates(payload.files),
   };
 }
 
@@ -242,6 +312,8 @@ function main() {
       '   documents held: ' + payload.holds.heldDocs.size);
   log('  guides built           : ' + payload.guides.length);
   log('  catalog rows           : ' + payload.rows.length);
+  log('  plates                 : ' + payload.plates.length + ' row record(s), ' +
+      payload.plateImages.length + ' image(s)');
 
   if (payload.refusedHeld.length) {
     log('');
@@ -296,6 +368,9 @@ function main() {
      withdrawn upstream must disappear here too; merging would leave it served
      forever. MANIFEST-clobbering has already cost this project once — the fix is
      that the whole directory is derived, so there is nothing to merge. */
+  /* ⛔ plates/ IS NOT REBUILT HERE — it is the python lane's output and is already
+     on disk. Deleting it the way guides/ is deleted would erase the very files
+     this publisher was asked to publish. */
   if (fs.existsSync(GUIDES_DIR)) {
     fs.readdirSync(GUIDES_DIR).filter(f => f.endsWith('.json'))
       .forEach(f => fs.unlinkSync(path.join(GUIDES_DIR, f)));
@@ -303,7 +378,9 @@ function main() {
     fs.mkdirSync(GUIDES_DIR, { recursive: true });
   }
   payload.files.forEach(f => {
-    fs.writeFileSync(path.join(ROOT, f.path.replace(/\//g, path.sep)), f.bytes);
+    const dest = path.join(ROOT, f.path.replace(/\//g, path.sep));
+    fs.mkdirSync(path.dirname(dest), { recursive: true });
+    fs.writeFileSync(dest, f.bytes);
   });
   log('\n  ✅ written.');
   return 0;

@@ -1,0 +1,52 @@
+{
+ "row": "seekinsnx15",
+ "plateId": "ar15-bolt-carrier-assembly",
+ "title": "Bolt Carrier Assembly",
+ "image": "plates/img/f1546775fb56718c.png",
+ "imageWidth": 1457,
+ "imageHeight": 1599,
+ "imageSha256": "f1546775fb56718c5df055f61e764117c7cf9d28b8b5e726b147bd7111ffbed5",
+ "labels": [
+  {
+   "item": "1",
+   "name": "PIN,FIRING"
+  },
+  {
+   "item": "2",
+   "name": "PIN,FIRING PIN RETA RETAINING"
+  },
+  {
+   "item": "3",
+   "name": "PIN,GROOVED,HEADED BOLT CAM"
+  },
+  {
+   "item": "4",
+   "name": "BOLT ASSEMBLY  (M16A2)"
+  },
+  {
+   "item": "4A",
+   "name": "BOLT,BREECH  ASSEMBLY (M4 AND M4A1)"
+  },
+  {
+   "item": "5",
+   "name": "KEY AND BOLT"
+  }
+ ],
+ "labelsNote": "No x/y: this plate's callout numbers are part of the scanned drawing and have no text layer, so their positions cannot be known. None is emitted rather than a guess. Render the legend beside the image.",
+ "provenance": {
+  "tm": "ARMY TM 9-1005-319-23&P / AIR FORCE TO 11W3-5-5-42",
+  "edition": "May 1991, Change 5",
+  "figure": "Figure C-2. Bolt Carrier Assembly",
+  "page": 261,
+  "sourceUrl": "https://archive.org/download/16-manuali-duso-e-manutenzione-per-armi-specifiche-use-and-maintenance-manuals-f_20230430/TM%209-1005-319-23%20Technical%20Manual%20%28Maintenance%20%26%20Repair%20Manual%29%20M16A2%20-%20M4%20-%20M4A1.pdf",
+  "documentSha256": "cf55421e8f258fa9b38583ba3b3a58894532afde55b912da50153e6b00ba3dad",
+  "publicDomain": {
+   "distribution": "Distribution A — approved for public release, unlimited",
+   "preparer": "issued by a US Government authority",
+   "reprint": "no commercial reprint matter found",
+   "exportMarking": "no export-control marking on the document",
+   "verifiedBy": "tools/plates/verify.py"
+  }
+ },
+ "rowTest": "PASSES. The plate is the bolt carrier group alone — the assembly an owner has in his hand at every cleaning — and a civilian 5.56 AR-15 carrier, bolt, firing pin, cam pin and carrier key are the same parts in the same arrangement as the M16A2/M4 items drawn here. Nothing in the drawing is M16A2-only: there is no carry handle, no A2 stock, no barrel length and no furniture of any kind, which is exactly what would betray a service rifle on a modern flat-top row. The plate additionally draws BOTH service variants (item 4 M16A2, item 4A M4/M4A1), so it does not present one configuration as the only one."
+}

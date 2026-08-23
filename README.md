@@ -13,6 +13,8 @@ by hand.
 | `index.json` | every catalog row — id, maker, model, chambering, family, tier — plus an integer `version` and, for each row, whether a guide exists and that guide's sha256 |
 | `guides/<rowid>.json` | one authored guide, exactly as the app renders it |
 | `changelog.json` | one entry per version, newest first, naming the row ids added / changed / removed |
+| `plates/<rowid>.json` | an official parts-nomenclature plate for that row: image reference, the manual's own numbered labels, and full provenance |
+| `plates/img/<sha>.png` | the plate image, content-addressed and shared by every row it legitimately serves |
 
 A client holding version *N* reads `changelog.json`, unions the `added` and
 `changed` arrays of every entry above *N*, and fetches only those guides. The
@@ -52,10 +54,26 @@ birth: a mistake here is a disclosure, not a bad commit.
    operator identifiers that would mean an internal note had escaped. A guide
    that trips this is withheld and named, never edited — editing published text
    here is exactly how the library would start disagreeing with the app.
+4. **No unverified plate, and no manufacturer page in the plate path.** A plate
+   ships only with complete provenance and a recorded **Distribution A** finding;
+   UNMARKED and Distribution B–F do not ship. A source that is not a US Government
+   TM/FM designation, or that comes from a manufacturer host, is refused outright —
+   manufacturer manuals sit behind attorney question 6 and the plate lane cannot
+   even represent one. An image no record references is refused as an unaccounted
+   binary.
+
+⛔ **No self-made art, ever.** No hand-drawn plates, no re-rendered diagrams, no
+generated art. Every plate is a page from a US Government manual that passed all
+four checks. A row with no verified official plate has no plate.
 
 ```
 node tools/run_gates.js     # prove the refusals refuse, then check the live payload
 node tools/publish.js       # build, check, write
+
+python tools/plates/hunt.py          # find candidate TMs (ongoing lane; re-runnable)
+python tools/plates/fetch.py <id>    # into .plate-cache/, which is gitignored
+python tools/plates/verify.py        # distribution / preparer / reprint / export markings
+python tools/plates/build_plates.py  # cut plates from SHIP documents only
 ```
 
 `run_gates.js` fires every refusal at a fixture built to trip it **and** at a

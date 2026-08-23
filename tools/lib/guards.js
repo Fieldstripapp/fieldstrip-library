@@ -57,8 +57,18 @@ const FILE_IS_A_DOCUMENT = /(scratchpad[\/\\]manuals|_viewonly|[\/\\]_text[\/\\]
 const CACHE_LEAK = /(scratchpad[\/\\]manuals|_viewonly|[\/\\]_text[\/\\]|\.rawtxt\b|\.ocrtxt\b|manual-drops)/i;
 
 /* What a published tree is allowed to contain, by extension. */
-const ALLOWED_EXT = new Set(['.json', '.md', '.js', '.yml', '.txt']);
-const ALLOWED_BARE = new Set(['CNAME', '.nojekyll', '.gitignore']);
+const ALLOWED_EXT = new Set(['.json', '.md', '.js', '.yml', '.txt', '.py']);
+const ALLOWED_BARE = new Set(['CNAME', '.nojekyll', '.gitignore', '.gitattributes']);
+
+/* ⛔ THE ONE PLACE AN IMAGE MAY LIVE, AND IT IS NARROW ON PURPOSE. Plates are the
+   only binary this repository serves, and admitting them re-opens the door that
+   refusal 1 exists to keep shut. So the opening is as small as it can be made:
+   ONE directory, a content-addressed name, PNG magic bytes, and — enforced in
+   noUnverifiedPlates() — a referencing plate record that carries full provenance.
+   An image nothing points at cannot be published, because an orphan is exactly
+   what a stray manufacturer page would look like. */
+const PLATE_IMAGE = /^plates\/img\/[0-9a-f]{16}\.png$/;
+const PNG_MAGIC = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]);
 
 /* The only keys a published guide may carry. Anything else is either internal
    working matter or something nobody has reviewed for publication. */
@@ -90,12 +100,19 @@ function noSourceDocuments(files) {
     const dot = base.lastIndexOf('.');
     const ext = dot > 0 ? base.slice(dot) : '';
 
-    if (!ALLOWED_BARE.has(base) && !ALLOWED_EXT.has(ext)) {
+    if (!ALLOWED_BARE.has(base) && !ALLOWED_EXT.has(ext) && !PLATE_IMAGE.test(f.path)) {
       v.push(f.path + ': file type "' + (ext || base) + '" is not publishable — ' +
              'only Fieldstrip-authored JSON and repo text may be served');
     }
-    const kind = looksBinary(f.bytes);
-    if (kind) v.push(f.path + ': content is ' + kind + ' — a source document, not authored JSON');
+    const isPlateImage = PLATE_IMAGE.test(f.path);
+    if (isPlateImage) {
+      if (!f.bytes.slice(0, 8).equals(PNG_MAGIC)) {
+        v.push(f.path + ': in the plate image path but not a PNG — refused on its bytes');
+      }
+    } else {
+      const kind = looksBinary(f.bytes);
+      if (kind) v.push(f.path + ': content is ' + kind + ' — a source document, not authored JSON');
+    }
 
     if (FILE_IS_A_DOCUMENT.test(f.path)) {
       v.push(f.path + ': path names the manual cache or an extraction');
@@ -158,6 +175,95 @@ function noHeldRows(entries, held, heldDocs) {
       }
     }
   }
+  return v;
+}
+
+
+/* ---------------------------------------------------------------- refusal 4 */
+
+/* A government technical or field manual designation. A plate may come from
+   nothing else. */
+const GOV_DESIGNATION =
+  /(?:ARMY\s+)?TM\s*\d|FM\s*\d{1,2}[-.]|TO\s*\d|SW\d{3}-|COMDTINST/i;
+
+/* Hosts that are manufacturers, or that redistribute manufacturer material.
+   ⛔ A plate is never sourced from one, whatever the page appears to show. */
+const MANUFACTURER_HOST =
+  /(?:^|\/\/|\.)(?:sigsauer|glock|ruger|smith-wesson|smithwesson|beretta|colt|mossberg|remington|springfield-armory|springfieldarmory|hk-usa|heckler-koch|fnamerica|daniel-?defense|barrett|silencerco|deadair|cz-?usa|taurususa|kimberamerica|wilsoncombat)\.[a-z.]+/i;
+
+const REQUIRED_PROVENANCE = ['tm', 'edition', 'figure', 'page', 'sourceUrl', 'documentSha256'];
+const REQUIRED_PD_CHECKS = ['distribution', 'preparer', 'reprint', 'exportMarking'];
+
+/**
+ * Refusal 4 — NO UNVERIFIED PLATE, AND NO MANUFACTURER PAGE IN THE PLATE PATH.
+ *
+ * ⛔ TWO REFUSALS IN ONE FUNCTION BECAUSE THEY GUARD ONE DOOR. A plate ships only
+ * with complete provenance AND a recorded Distribution A finding; and a page from
+ * a manufacturer can never enter the plate path AT ALL — not verified-and-refused,
+ * not held, not staged. Manufacturer manuals sit behind attorney question 6, and
+ * the plate lane must not even be able to represent one.
+ *
+ * ⛔ AND AN IMAGE NOBODY REFERENCES IS REFUSED. Provenance attaches to the plate
+ * RECORD; an unreferenced PNG carries none, and "a binary in the repo that no
+ * record accounts for" is precisely the shape of an accident.
+ *
+ * files: [{path, bytes}] — the whole publish payload.
+ */
+function noUnverifiedPlates(files) {
+  const v = [];
+  const records = files.filter(f => /^plates\/[^/]+\.json$/.test(f.path));
+  const images = files.filter(f => PLATE_IMAGE.test(f.path));
+  const referenced = new Set();
+
+  for (const f of records) {
+    let p;
+    try { p = JSON.parse(f.bytes.toString('utf8')); }
+    catch (e) { v.push(f.path + ': not valid JSON — ' + e.message); continue; }
+
+    const prov = p.provenance || {};
+    REQUIRED_PROVENANCE.forEach(k => {
+      if (prov[k] === undefined || prov[k] === null || prov[k] === '') {
+        v.push(f.path + ': incomplete provenance — missing ' + k);
+      }
+    });
+
+    const pd = prov.publicDomain || {};
+    REQUIRED_PD_CHECKS.forEach(k => {
+      if (!pd[k]) v.push(f.path + ': no recorded public-domain finding for "' + k + '"');
+    });
+
+    /* ⛔ THE FINDING MUST SAY DISTRIBUTION A. "Verified" is not a state a plate
+       may be in without the statement that made it verifiable. UNMARKED does not
+       ship — absence of a restriction is not a grant of release. */
+    if (pd.distribution && !/Distribution A\b/i.test(pd.distribution)) {
+      v.push(f.path + ': distribution finding is not Distribution A — "' + pd.distribution + '"');
+    }
+
+    if (prov.tm && !GOV_DESIGNATION.test(prov.tm)) {
+      v.push(f.path + ': "' + prov.tm + '" is not a US Government TM/FM designation — ' +
+             'a plate may come from nothing else');
+    }
+    if (prov.sourceUrl && MANUFACTURER_HOST.test(String(prov.sourceUrl))) {
+      v.push(f.path + ': sourceUrl is a manufacturer host (' + prov.sourceUrl + ') — ' +
+             'manufacturer pages may never enter the plate path');
+    }
+
+    if (!Array.isArray(p.labels) || !p.labels.length) {
+      v.push(f.path + ': no numbered-part labels');
+    }
+    if (!p.image || !PLATE_IMAGE.test(p.image)) {
+      v.push(f.path + ': image reference is not a content-addressed plate image');
+    } else {
+      referenced.add(p.image);
+    }
+  }
+
+  images.forEach(img => {
+    if (!referenced.has(img.path)) {
+      v.push(img.path + ': plate image referenced by no plate record — an unaccounted binary');
+    }
+  });
+
   return v;
 }
 
@@ -263,5 +369,6 @@ function personalLeak(guide, extraNames) {
   return hits.length ? hits[0].replace(/^guide: /, '') : null;
 }
 
-module.exports = { noSourceDocuments, noHeldRows, noPersonalData, cacheLeak, personalLeak,
-                  sha256, GUIDE_KEYS, STEP_KEYS, PERSON_CANARIES };
+module.exports = { noSourceDocuments, noHeldRows, noPersonalData, noUnverifiedPlates,
+                  cacheLeak, personalLeak, sha256, GUIDE_KEYS, STEP_KEYS, PERSON_CANARIES,
+                  PLATE_IMAGE };

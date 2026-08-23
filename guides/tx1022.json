@@ -1,0 +1,146 @@
+{
+ "row": "tx1022",
+ "make": "10/22 pattern",
+ "model": "10/22-pattern rimfire rifle",
+ "sourcedFrom": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual (not printed on the cover)",
+ "sourceSha256": "ed63ce35f5df44d6890148368d5ff761c4132cd0f60c7de9d1fa83d4b54dd149",
+ "cleanIntro": "Every 10/22-pattern rifle comes apart the same way because every clone is built to the same interface: one takedown screw holds the barrelled action in the stock, and a V-block under two screws holds the barrel in the receiver. The two places people go wrong are both avoidable — the safety must be centred before the action lifts out, and three small pins want to fall out of the receiver the moment the stock is off.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, bolt open, LOOK in the chamber",
+   "action": "Point it somewhere harmless, drop the magazine, open the bolt and put your eyes on the chamber. Then let the bolt close — the hammer wants to be cocked for the strip, and closing on an empty chamber is what cocks it.",
+   "quote": "With the rifle pointing in a safe direction, remove the magazine, open the bolt and visually make certain there is not a cartridge in the chamber.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.27"
+  },
+  {
+   "phase": "Clear",
+   "title": "Unload before anything — cleaning included",
+   "action": "Ruger states it as its own warning, and on a rimfire it earns the emphasis: a .22 rim crushed by a closing bolt can fire outside the chamber.",
+   "quote": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — WARNING – DISASSEMBLY, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel band forward, if the rifle has one",
+   "action": "Loosen the barrel band screw and slide the band forward over the muzzle. Not every 10/22-pattern rifle has one — many clone stocks are free-floated and have none at all — but where it is fitted it must come forward before the action will lift.",
+   "quote": "If equipped with a barrel band, loosen the barrel band screw and slide the barrel band forward over the muzzle.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ LOOSEN the takedown screw — do not remove it",
+   "action": "A 5/32\" Allen wrench, and loosen only. The screw is captive in the trigger guard on most of these rifles and taking it right out gains you nothing except a part to lose on the floor.",
+   "quote": "Use a 5/32” Allen wrench to loosen (do not remove) the takedown screw.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Centre the safety first — off-centre DAMAGES THE STOCK",
+   "action": "Push the safety so an equal amount protrudes each side before you lift anything. If it is not centred when the barrel-receiver assembly comes out, the safety button catches the stock and splits it. This is the single most common way a 10/22 gets damaged during cleaning.",
+   "quote": "If the safety is not in the middle when the barrel-receiver assembly is lifted out of the stock, the stock may be damaged.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Lift the stock off — and mind THREE loose pins",
+   "action": "Lift the stock away from the barrel-receiver assembly and immediately watch the receiver: two receiver cross pins and the bolt stop pin are now held by nothing. Turn the action pin-side up and they stay put; turn it over and they will not.",
+   "quote": "Be careful to ensure that the two receiver cross pins and bolt stop pin do not fall out of the receiver.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Safety ON, then the trigger housing out",
+   "action": "Put the safety to ON, drift out the two receiver cross pins and lift the trigger housing up and out of the receiver. It comes out as one unit and stays that way.",
+   "aside": "It is recommended that the components of the trigger housing assembly not be disassembled from the trigger guard.",
+   "quote": "Remove the trigger housing by simply drifting out the two receiver cross pins and lifting the trigger housing up and out of the receiver.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "That is the routine strip — Ruger says so",
+   "action": "Stock, trigger housing, barrelled action. Everything past this point is for a barrel change or a deep clean of the receiver, not for ordinary maintenance.",
+   "quote": "This is the extent of disassembly required for routine inspection, cleaning, and lubrication.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.29"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "⛔ The V-BLOCK — two 5/32\" screws, and this is the pattern",
+   "action": "Take the two barrel retainer screws out of the barrel retainer v-block with a 5/32\" Allen wrench.",
+   "prose": "This V-block is what makes a 10/22 a 10/22 and what every clone builds to. It is also why a clone barrel drops into a Ruger receiver and vice versa — the interface is the standard, not the badge.",
+   "quote": "Use a 5/32” Allen wrench to remove the two barrel retainer screws from the barrel retainer v-block.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — To Remove the Barrel, p.29"
+  },
+  {
+   "phase": "Deep",
+   "title": "V-block out, then the barrel",
+   "action": "Lift the V-block away and draw the barrel out of the receiver.",
+   "prose": "Order matters: the block is the clamp. Pulling on the barrel with the block still seated works the barrel shank against it and marks both.",
+   "quote": "Remove the barrel retainer v-block and then remove the barrel.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — To Remove the Barrel, p.29"
+  },
+  {
+   "phase": "Deep",
+   "title": "Bolt out — hammer cocked, safety ON, action inverted",
+   "action": "Cock the hammer if it is not already, set the safety ON, and turn the barrelled action upside down so the bolt is fully accessible.",
+   "prose": "Ruger's own warning is that removing and installing the bolt is simple but must be done correctly to avoid damaging the rifle. The setup is most of the correctness.",
+   "quote": "Manually cock the hammer if not cocked and place the safety in the “ON” position.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — To Remove the Bolt, p.30"
+  },
+  {
+   "phase": "Deep",
+   "title": "Bolt stop pin out, then the bolt handle fully rearward",
+   "action": "With the trigger housing already out, drift the bolt stop pin from the rear of the receiver, then pull the bolt handle fully to the rear.",
+   "prose": "The bolt stop pin is the only thing holding the bolt in. Drift it before the handle moves, not after.",
+   "quote": "Drift out the bolt stop pin located at the rear of the receiver.",
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — To Remove the Bolt, p.30"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE — and the rimfire rule",
+   "tasks": [
+    "Clean from the BREECH with the barrel out, or use a bore guide",
+    "⛔ Keep any rod off the crown — a .22's accuracy lives there",
+    "Solvent, then patches until clean; rimfire fouling is waxy and slow",
+    "A lightly oiled patch last, then a dry one before firing"
+   ],
+   "quote": "To thoroughly clean the inside of the receiver you must first remove the bolt.",
+   "src": "Ruger® 10/22® Autoloading Rifle Instruction Manual, To Remove the Bolt, p.30"
+  },
+  {
+   "name": "BOLT FACE AND CHAMBER — where a .22 actually fails",
+   "tasks": [
+    "Scrape the bolt face; unburnt powder and wax build there",
+    "Extractor claw and its slot",
+    "Chamber mouth — a ring of fouling here is what stops it chambering",
+    "Receiver interior once the bolt is out"
+   ],
+   "quote": "Be aware that although removing and installing the bolt is simple, it must be done correctly to prevent damage to your rifle.",
+   "src": "Ruger® 10/22® Autoloading Rifle Instruction Manual, To Remove the Bolt, p.30"
+  },
+  {
+   "name": "MAGAZINES — rotary or stick, they are consumables",
+   "tasks": [
+    "Wipe the feed lips and the rotor face dry",
+    "⛔ No oil inside a rimfire magazine — it holds grit against the rim",
+    "Check the rotor spins freely before it goes back in the rifle"
+   ],
+   "quote": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly.",
+   "src": "Ruger® 10/22® Autoloading Rifle Instruction Manual, WARNING – DISASSEMBLY, p.27"
+  }
+ ],
+ "reassembly": [
+  "Safety ON, hammer cocked.",
+  "Barrel into the receiver, V-block seated, two 5/32\" screws snugged EVENLY.",
+  "Bolt in, bolt stop pin drifted home.",
+  "Trigger housing down into the receiver, two cross pins drifted flush.",
+  "⛔ Safety centred — equal each side — BEFORE the action goes back into the stock.",
+  "Barrelled action into the stock, takedown screw snug.",
+  "Barrel band back and its screw snug, if the rifle has one.",
+  "Function test before it is loaded."
+ ],
+ "fncheck": "Magazine out, chamber checked by eye. Cycle the bolt several times — it should lock back on an empty magazine where the rifle has that feature, and close cleanly every time. Safety ON, pull the trigger: nothing. Safety off, finger clear: nothing on its own; then the trigger drops the hammer. ⛔ Check the takedown screw and both V-block screws are snug: a loose V-block shifts point of impact and is the usual cause of a 10/22 that suddenly will not group."
+}

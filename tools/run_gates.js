@@ -44,6 +44,33 @@ const cleanGuide = {
 };
 const asFile = (p, o) => ({ path: p, bytes: B(JSON.stringify(o, null, 1)) });
 
+const PNG = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 0x00, 0x00]);
+const plateImg = (name = '0123456789abcdef') =>
+  ({ path: 'plates/img/' + name + '.png', bytes: PNG });
+const cleanPlate = {
+  row: 'fixturerow', plateId: 'fixture-plate', title: 'Bolt Carrier Assembly',
+  image: 'plates/img/0123456789abcdef.png',
+  labels: [{ item: '1', name: 'PIN,FIRING' }],
+  provenance: {
+    tm: 'ARMY TM 9-1005-319-23&P', edition: 'May 1991, Change 5',
+    figure: 'Figure C-2. Bolt Carrier Assembly', page: 261,
+    sourceUrl: 'https://archive.org/download/example/TM.pdf',
+    documentSha256: 'b'.repeat(64),
+    publicDomain: {
+      distribution: 'Distribution A — approved for public release, unlimited',
+      preparer: 'issued by a US Government authority',
+      reprint: 'no commercial reprint matter found',
+      exportMarking: 'no export-control marking on the document',
+    },
+  },
+};
+const plateFile = o => asFile('plates/' + (o.row || 'x') + '.json', o);
+const withProv = patch => {
+  const c = JSON.parse(JSON.stringify(cleanPlate));
+  Object.assign(c.provenance, patch);
+  return c;
+};
+
 /* Each case: the guard, fixtures that MUST be refused, controls that MUST pass. */
 const CASES = {
   'NO SOURCE DOCUMENTS': {
@@ -56,6 +83,12 @@ const CASES = {
       }]],
       ['a PDF committed under its own extension', () => [{
         path: 'guides/ruger-lcp-manual.pdf', bytes: B('%PDF-1.4'),
+      }]],
+      ['a PDF smuggled into the plate image path', () => [{
+        path: 'plates/img/0123456789abcdef.png', bytes: B('%PDF-1.7 not a png at all'),
+      }]],
+      ['an image outside the plate path', () => [{
+        path: 'guides/diagram.png', bytes: PNG,
       }]],
       ['an extraction text file', () => [{
         path: 'scratchpad/manuals/_text/ruger/lcp.rawtxt', bytes: B('SAFETY AND INSTRUCTION MANUAL'),
@@ -76,6 +109,8 @@ const CASES = {
     ],
     mustPass: [
       ['a clean guide', () => [asFile('guides/fixturerow.json', cleanGuide)]],
+      /* The plate path is the one place a binary is allowed — narrowly. */
+      ['a content-addressed plate PNG', () => [plateImg()]],
       /* ⛔ THE ONE THAT MATTERS. Four real guides cite the publisher's OWN
          published filename; an early `\.pdf` content test refused all of them. */
       ['a citation naming the publisher\'s own published PDF', () => [
@@ -158,6 +193,45 @@ const CASES = {
       ]],
     ],
   },
+
+  'NO UNVERIFIED PLATE': {
+    run: files => guards.noUnverifiedPlates(files),
+    mustRefuse: [
+      ['a plate from a manufacturer host', () => [
+        plateFile(withProv({ sourceUrl: 'https://www.sigsauer.com/manuals/p320.pdf' })), plateImg(),
+      ]],
+      ['a plate whose source is not a government TM/FM', () => [
+        plateFile(withProv({ tm: 'Beretta 92 Series Operators Manual' })), plateImg(),
+      ]],
+      ['a plate on an UNMARKED distribution finding', () => [
+        plateFile((() => { const c = JSON.parse(JSON.stringify(cleanPlate));
+          c.provenance.publicDomain.distribution = 'UNMARKED — no distribution statement';
+          return c; })()), plateImg(),
+      ]],
+      ['a plate on a Distribution C document', () => [
+        plateFile((() => { const c = JSON.parse(JSON.stringify(cleanPlate));
+          c.provenance.publicDomain.distribution = 'Distribution C — a release control';
+          return c; })()), plateImg(),
+      ]],
+      ['a plate missing its document digest', () => [
+        plateFile(withProv({ documentSha256: '' })), plateImg(),
+      ]],
+      ['a plate missing a public-domain check', () => [
+        plateFile((() => { const c = JSON.parse(JSON.stringify(cleanPlate));
+          delete c.provenance.publicDomain.exportMarking; return c; })()), plateImg(),
+      ]],
+      ['a plate with no numbered-part labels', () => [
+        plateFile(Object.assign({}, cleanPlate, { labels: [] })), plateImg(),
+      ]],
+      ['a plate image no record references', () => [
+        plateFile(cleanPlate), plateImg(), plateImg('fedcba9876543210'),
+      ]],
+    ],
+    mustPass: [
+      ['a fully provenanced Distribution A plate', () => [plateFile(cleanPlate), plateImg()]],
+      ['no plates at all', () => []],
+    ],
+  },
 };
 
 function main() {
@@ -208,6 +282,29 @@ function main() {
   Object.keys(live).forEach(n => line(live[n].length === 0,
     n + ' — ' + (live[n].length ? live[n].length + ' violation(s): ' + live[n][0] : 'clean')));
   line(payload.guides.length > 0, 'payload is not empty (' + payload.guides.length + ' guides)');
+
+  /* ---- the repository tree itself, not just the payload ----
+     ⛔ THE PAYLOAD GUARDS JUDGE WHAT publish.js WRITES. They cannot see a file
+     somebody committed by hand, and the plate lane now downloads whole manuals to
+     a gitignored cache — one `git add -f` away from publishing a book. This asks
+     git what is actually tracked. */
+  console.log('\nTRACKED TREE');
+  try {
+    const tracked = require('child_process')
+      .execFileSync('git', ['-C', require('path').resolve(__dirname, '..'), 'ls-files'],
+                    { encoding: 'utf8' }).split('\n').filter(Boolean);
+    const docs = tracked.filter(f => /\.(pdf|rawtxt|ocrtxt|djvu|epub)$/i.test(f));
+    line(docs.length === 0, docs.length
+      ? 'source documents are tracked: ' + docs.slice(0, 5).join(', ')
+      : 'no source document is tracked (' + tracked.length + ' files)');
+    const stray = tracked.filter(f => /\.(png|jpg|jpeg|gif|webp)$/i.test(f) &&
+                                      !guards.PLATE_IMAGE.test(f));
+    line(stray.length === 0, stray.length
+      ? 'images outside the plate path are tracked: ' + stray.slice(0, 5).join(', ')
+      : 'no image outside plates/img/');
+  } catch (e) {
+    line(false, 'could not read the tracked tree — ' + e.message);
+  }
 
   /* ---- and the claim the whole design rests on, measured ---- */
   console.log('\nAPP/LIBRARY PARITY');

@@ -1,0 +1,148 @@
+{
+ "row": "sigsauermcxspear",
+ "make": "SIG Sauer",
+ "model": "MCX-SPEAR",
+ "sourcedFrom": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 (not printed on the cover)",
+ "sourceSha256": "06e0b35886df8042c78b1a85af31477325ac0d36ac98e405acc371b37ebaaf9d",
+ "cleanIntro": "The MCX-SPEAR looks like an AR and does not come apart like one. Its recoil spring guide is in the UPPER receiver and it is under load, the op rod comes off the bolt carrier, and the gas valve turns out of the gas block. Two of its sub-assemblies — the firing pin spring and the extractor insert — SIG tells you to leave alone unless you are replacing them, and both are easy to disturb while cleaning.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ The magazine out is NOT the rifle empty",
+   "action": "Unload and clear the rifle before anything else. SIG puts this in capitals at the head of the field strip, and states the reason outright — the chambered round does not care that the magazine is on the bench.",
+   "quote": "REMOVING THE MAGAZINE FROM THE FIREARM DOES NOT PREVENT A CHAMBERED ROUND FROM BEING FIRED.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — FIELD STRIP THE SIG MCX-SPEAR"
+  },
+  {
+   "phase": "Clear",
+   "title": "Release the operating group forward",
+   "action": "Once it is proven empty, press the bolt catch and let the operating group run forward. The rifle comes apart with the action closed.",
+   "quote": "Press the bolt catch to release the operating group forward.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — FIELD STRIP THE SIG MCX-SPEAR"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin left to right, pivot the upper open",
+   "action": "Push the takedown pin out from left to right and pivot the upper away from the lower — the same direction discipline an AR uses, and about the last thing the two rifles share.",
+   "quote": "Push out the takedown pin from left to right and pivot the upper receiver from the lower receiver.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — FIELD STRIP THE SIG MCX-SPEAR"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pivot pin to its detent, then separate the receivers",
+   "action": "Push the pivot pin left to right until the detent stops it, then lift the upper clear of the lower.",
+   "quote": "Push pivot pin from left to right until stopped by detent.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — FIELD STRIP THE SIG MCX-SPEAR"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Recoil spring guide — in the UPPER, and under pressure",
+   "action": "Press the recoil spring guide inward and then slightly downward to release it, and take it out of the UPPER receiver. This is the step that catches every AR shooter: on an AR the spring lives in the buffer tube behind the lower. Here it is in your other hand, loaded, the moment the receivers part.",
+   "aside": "THE RECOIL SPRING GUIDE IS UNDER SPRING PRESSURE. USE CAUTION WHEN REMOVING. WEAR EYE PROTECTION TO PREVENT INJURY.",
+   "quote": "Press recoil spring guide inward then downward slightly to release the recoil spring guide then remove from upper receiver.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — FIELD STRIP THE SIG MCX-SPEAR"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle back, bolt carrier out, handle out",
+   "action": "Pull the charging handle back to expose the bolt carrier, take the carrier assembly out of the upper, then remove the charging handle.",
+   "quote": "Remove the bolt carrier assembly from the upper receiver.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — FIELD STRIP THE SIG MCX-SPEAR"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Op rod off the bolt carrier — the piston gun's step",
+   "action": "Separate the op rod from the bolt carrier. There is no such part on a direct-impingement AR, and its presence is the whole reason this rifle has its own guide.",
+   "quote": "Remove the op rod from the bolt carrier.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — FIELD STRIP THE SIG MCX-SPEAR"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Firing pin retaining pin out to its stop, then the lock",
+   "action": "Pull the firing pin retaining pin out until it stops, then lift the firing pin lock and take the firing pin and its spring out of the carrier.",
+   "prose": "⛔ Leave the SPRING on the pin. SIG says removing it may damage it, and it is not a part you gain anything by separating for cleaning.",
+   "quote": "Lift firing pin lock to remove firing pin and firing pin spring from bolt carrier.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — FIELD STRIP, steps 11-12"
+  },
+  {
+   "phase": "Deep",
+   "title": "Cam pin out, then the bolt out of the carrier",
+   "action": "Take the cam pin out of the bolt carrier, then draw the bolt assembly out.",
+   "prose": "Familiar from an AR in shape, but this carrier has already given up an op rod — check you have not left it in the receiver.",
+   "quote": "Remove bolt assembly from bolt carrier.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — FIELD STRIP, step 14"
+  },
+  {
+   "phase": "Deep",
+   "title": "Extractor pin RIGHT to LEFT, under pressure",
+   "action": "Press down on the extractor over its pin and push the extractor pin from right to left out of the bolt, then lift the extractor assembly off.",
+   "prose": "Hold the extractor down as the pin leaves. ⛔ And leave the insert and its spring in place — SIG says removing them may damage them.",
+   "quote": "Apply pressure to extractor over extractor pin and push extractor pin from right to left to remove from bolt.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — FIELD STRIP, step 15"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ GAS VALVE — only when function degrades, not every clean",
+   "action": "Push the stop pin in, rotate the gas valve 180 degrees until the flange of the valve is visible, pull the valve out of the gas block, then take the piston out.",
+   "prose": "SIG scopes this explicitly: these steps are for carbon buildup that is actually affecting function, not for routine maintenance. Pulling a gas valve every session wears the parts that regulate the rifle.",
+   "quote": "Steps 17-20 should only be done if function degrades, indicating carbon buildup.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — FIELD STRIP, steps 17-20"
+  },
+  {
+   "phase": "Deep",
+   "title": "Magazine — spring under pressure, muzzle it away",
+   "action": "Push the post of the magazine insert until the floorplate slides off, controlling the spring as it comes.",
+   "prose": "A steel-bodied 7.62 magazine spring has real energy in it. Point the open end away from your face and keep a thumb on the floorplate.",
+   "quote": "MAGAZINE SPRING IS UNDER PRESSURE. USE CAUTION WHEN REMOVING. KEEP MAGAZINE POINTED AWAY FROM FACE AND WEAR EYE PROTECTION TO PREVENT SERIOUS INJURY.",
+   "cite": "SIG MCX-SPEAR Operator's Manual — 4200452-01 Rev 02 — MAGAZINE DISASSEMBLY"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Solvent and a bore brush from the chamber end where you can",
+    "Patches until clean, then a lightly oiled one",
+    "Chamber and locking recesses — a short-stroke gun still fouls there",
+    "⛔ Nothing left in the bore"
+   ],
+   "quote": "Remove the bolt carrier assembly from the upper receiver.",
+   "src": "SIG MCX-SPEAR Operator's Manual, FIELD STRIP"
+  },
+  {
+   "name": "BOLT CARRIER AND OP ROD",
+   "tasks": [
+    "Carbon off the bolt, its lugs, the cam pin and the carrier interior",
+    "The op rod's bearing surfaces and the carrier face it strikes",
+    "⛔ Extractor insert and spring stay in the extractor",
+    "⛔ Firing pin spring stays on the firing pin"
+   ],
+   "quote": "Remove the op rod from the bolt carrier.",
+   "src": "SIG MCX-SPEAR Operator's Manual, FIELD STRIP, step 10"
+  },
+  {
+   "name": "GAS BLOCK — only when it needs it",
+   "tasks": [
+    "Leave the valve alone unless function has actually degraded",
+    "When it does come out: carbon off the valve, the piston and the bore they run in",
+    "Reassemble the valve to the same 180-degree indexing it came out of",
+    "No oil in the gas path — it bakes to varnish"
+   ],
+   "quote": "Steps 17-20 should only be done if function degrades, indicating carbon buildup.",
+   "src": "SIG MCX-SPEAR Operator's Manual, FIELD STRIP, steps 17-20"
+  }
+ ],
+ "reassembly": [
+  "Extractor onto the bolt, pin driven LEFT to RIGHT — the reverse of removal.",
+  "Bolt into the carrier, cam pin in and seated.",
+  "Firing pin and spring into the carrier, lock down, retaining pin pushed home.",
+  "Op rod back onto the bolt carrier.",
+  "Charging handle into the upper, then the bolt carrier behind it.",
+  "⛔ Recoil spring guide in against spring pressure — upward and outward, the reverse of inward-then-down — until it latches.",
+  "Upper onto the lower, pivot pin then takedown pin, both flush.",
+  "Function check before the rifle is loaded."
+ ],
+ "fncheck": "Magazine out, chamber checked by eye and finger. Charging handle back and released — the carrier should run into battery and lock. Safety on SAFE, pull the trigger: nothing. To FIRE with the finger clear: nothing on its own; then the trigger drops the hammer. Hold the trigger, cycle the action, release and listen for the disconnector reset. ⛔ If the carrier will not fully seat, suspect the op rod fitted wrong or the recoil spring guide not latched — neither failure mode exists on an AR, so AR habits will not diagnose it."
+}

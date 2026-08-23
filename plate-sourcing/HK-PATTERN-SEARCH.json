@@ -1,0 +1,299 @@
+{
+ "_doc": "Cross-lane search for military manuals covering the HK and piston-AR patterns. A null result here is itself the finding: it distinguishes 'searched, not publicly posted' from 'not searched'.",
+ "ruling": "2026-08-20 — a military manual for a pattern is an admissible secondary source.",
+ "searchedOn": "2026-08-22",
+ "queries": [
+  {
+   "row": "hkmr556",
+   "query": "\"TM 10598A-10/1\"",
+   "why": "USMC M27 IAR operator TM",
+   "error": null,
+   "results": []
+  },
+  {
+   "row": "hkmr556",
+   "query": "\"10598A-10\"",
+   "why": "USMC M27 IAR TM, loose form",
+   "error": null,
+   "results": []
+  },
+  {
+   "row": "hkmr556",
+   "query": "\"M27 IAR\"",
+   "why": "designation",
+   "error": null,
+   "results": [
+    {
+     "identifier": "battlefield-3-multiplayer-noshahr-canals-m-27-iar",
+     "title": "🎮 Battlefield 3 Multiplayer Noshahr Canals M 27 IAR",
+     "year": null
+    },
+    {
+     "identifier": "thingiverse-4735321",
+     "title": "KAC QDSS NT4 Airsoft QD Suppressor (4735321)",
+     "year": 2021
+    },
+    {
+     "identifier": "youtube-cgK75KZVdus",
+     "title": "American-made M27 IAR At Home",
+     "year": 2023
+    },
+    {
+     "identifier": "thingiverse-5538025",
+     "title": "TA11 SDO Modification kit (5538025)",
+     "year": 2022
+    }
+   ]
+  },
+  {
+   "row": "hkmr556",
+   "query": "\"Infantry Automatic Rifle\" AND manual",
+   "why": "spelled-out designation",
+   "error": null,
+   "results": []
+  },
+  {
+   "row": "hkmr556",
+   "query": "\"HK416\" AND (manual OR technical)",
+   "why": "maker designation",
+   "error": null,
+   "results": [
+    {
+     "identifier": "hk-416-.22-manual",
+     "title": "User's Manual: HK416 .22",
+     "year": null
+    }
+   ]
+  },
+  {
+   "row": "hkmr556",
+   "query": "title:(M27) AND title:(automatic)",
+   "why": "title-scoped",
+   "error": null,
+   "results": []
+  },
+  {
+   "row": "hkmr762",
+   "query": "\"M110A1\"",
+   "why": "designation",
+   "error": null,
+   "results": [
+    {
+     "identifier": "youtube-u6xdo-mh2uQ",
+     "title": "UMAREX HK M110A1 電動ガン エアガン レビュー",
+     "year": 2023
+    },
+    {
+     "identifier": "youtube-mcZL49AAuiY",
+     "title": "Texas Plinking 1 MOA At 1,000 Yards Challenge - Episode 15",
+     "year": 2024
+    },
+    {
+     "identifier": "DTIC_ADA046205",
+     "title": "DTIC ADA046205: Systems Analysis Directorate Activities Summary - July 1977",
+     "year": 1977
+    },
+    {
+     "identifier": "micro_IA41152603_0155",
+     "title": "Direct and general support maintenance manual : Gun, field artillery, self-propelled: 175-MM, M107 (2350-00-436-6635) and Howitzer, heavy, self-propelled: 8-inch, M110 (2350-00-439-6243) and Howitzer, heavy, self-propelled: 8-inch, M110A1 (2350-01-013-3914) : Hull and related components",
+     "year": 1977
+    },
+    {
+     "identifier": "DTIC_ADA329507",
+     "title": "DTIC ADA329507: A Dynamic Analysis of the Self-Propelled, 8-Inch, M110A1, Howitzer Utilizing FORMAC.",
+     "year": 1977
+    },
+    {
+     "identifier": "DTIC_ADA056275",
+     "title": "DTIC ADA056275: Interior Temperature Measurements on XM650E4 RA Projectiles at Yuma Proving Ground in June 1976",
+     "year": 1978
+    }
+   ]
+  },
+  {
+   "row": "hkmr762",
+   "query": "\"squad designated marksman rifle\"",
+   "why": "spelled-out designation",
+   "error": null,
+   "results": [
+    {
+     "identifier": "effectivenessofi1094556761",
+     "title": "Effectiveness of the individual riflemen in an infantry squad",
+     "year": 2017
+    }
+   ]
+  },
+  {
+   "row": "hkmr762",
+   "query": "\"HK G28\"",
+   "why": "maker designation",
+   "error": null,
+   "results": [
+    {
+     "identifier": "hk-g-28",
+     "title": "HK G28",
+     "year": null
+    },
+    {
+     "identifier": "thingiverse-4641479",
+     "title": "G28 M4 Hop Adapter (4641479)",
+     "year": 2020
+    }
+   ]
+  },
+  {
+   "row": "hkmr762",
+   "query": "\"G28E\"",
+   "why": "maker variant",
+   "error": null,
+   "results": [
+    {
+     "identifier": "daily_perma_cc_2019-09-22",
+     "title": "2019-09-22 Perma.cc Captures",
+     "year": 2019
+    },
+    {
+     "identifier": "daily_perma_cc_2025-11-13",
+     "title": "2025-11-13 Perma.cc Captures",
+     "year": 2025
+    },
+    {
+     "identifier": "perma_cc_E5MQ-G28E",
+     "title": "E5MQ-G28E: Community-Based Justice Fund",
+     "year": 2022
+    },
+    {
+     "identifier": "englishtouristin00genz",
+     "title": "The English tourist in Italy. A practical and easy method of learning and speaking Italian with a correct pronunciation ..",
+     "year": 1937
+    },
+    {
+     "identifier": "perma_cc_G28E-7RRE",
+     "title": "G28E-7RRE: cdm16110.contentdm.oclc.org",
+     "year": 2020
+    },
+    {
+     "identifier": "electiondelassem00geni",
+     "title": "EÌlection de l'AssembleÌe leÌgislative en 1849 : essai d'une reÌpartition geÌographique des partis politiques en France.",
+     "year": 1921
+    },
+    {
+     "identifier": "daily_perma_cc_2022-04-02",
+     "title": "2022-04-02 Perma.cc Captures",
+     "year": 2022
+    },
+    {
+     "identifier": "daily_perma_cc_2024-09-08",
+     "title": "2024-09-08 Perma.cc Captures",
+     "year": 2024
+    },
+    {
+     "identifier": "daily_perma_cc_2025-06-10",
+     "title": "2025-06-10 Perma.cc Captures",
+     "year": 2025
+    },
+    {
+     "identifier": "perma_cc_G28E-HCEB",
+     "title": "perma_cc_G28E-HCEB",
+     "year": null
+    },
+    {
+     "identifier": "daily_perma_cc_2022-12-29",
+     "title": "2022-12-29 Perma.cc Captures",
+     "year": 2022
+    },
+    {
+     "identifier": "daily_perma_cc_2021-03-24",
+     "title": "2021-03-24 Perma.cc Captures",
+     "year": 2021
+    }
+   ]
+  },
+  {
+   "row": "hkmr762",
+   "query": "\"TM 9-1005-346\"",
+   "why": "plausible TM series",
+   "error": null,
+   "results": []
+  },
+  {
+   "row": "hkmr762",
+   "query": "\"M110\" AND \"sniper system\" AND manual",
+   "why": "predecessor M110 SASS",
+   "error": null,
+   "results": []
+  },
+  {
+   "row": "pwsmk116",
+   "query": "\"Primary Weapons\" AND (MK116 OR \"long stroke\")",
+   "why": "PWS MK116",
+   "error": null,
+   "results": []
+  },
+  {
+   "row": "adamsarmsp2",
+   "query": "\"Adams Arms\" AND piston AND manual",
+   "why": "Adams Arms P2",
+   "error": null,
+   "results": []
+  },
+  {
+   "row": "fightlitescr",
+   "query": "\"Fightlite\" OR \"Ares SCR\"",
+   "why": "Fightlite SCR",
+   "error": null,
+   "results": [
+    {
+     "identifier": "youtube-Ao5MZZ1gvGg",
+     "title": "California Can't ban this AR15 | BEST Featureless Rifle | Fightlite Industries SCR - Legal AR15",
+     "year": 2019
+    },
+    {
+     "identifier": "youtube-BRdaKl1N5mk",
+     "title": "Field Stripping the Fightlite MCR (MCR part 3)",
+     "year": 2019
+    },
+    {
+     "identifier": "youtube-JGK0or_yhhc",
+     "title": "5 Best New Guns Of 2018",
+     "year": 2018
+    },
+    {
+     "identifier": "youtube-sWisr7I-tIg",
+     "title": "Fightlite SCR First Impressions at 300m",
+     "year": 2023
+    },
+    {
+     "identifier": "thingiverse-4775696",
+     "title": "Airsoft HPA SCR Lower and Gearbox (4775696)",
+     "year": 2021
+    },
+    {
+     "identifier": "youtube-NMySKK9vxDs",
+     "title": "You can own a belt fed, (M249S and Fightlite MCR, featuring kit setup)",
+     "year": 2022
+    },
+    {
+     "identifier": "youtube-EvAnI6rjEjo",
+     "title": ".22lr in .223 (CMMG Ciener set): 1:16, 1:12, 1:9, 1:8 twist rates.",
+     "year": 2023
+    },
+    {
+     "identifier": "is-this-gun-legal-720-ytshorts.savetube.me",
+     "title": "Is this gun legal??",
+     "year": 2024
+    },
+    {
+     "identifier": "youtube-nam4cIS85bY",
+     "title": "Fightlite SCR Raider 5.56 Pistol Review",
+     "year": 2018
+    },
+    {
+     "identifier": "thingiverse-3966657",
+     "title": "Fightlite SCR Sporter Rifle Stock Extension (3966657)",
+     "year": 2019
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,385 @@
+{
+ "_doc": "Public-domain verification per cached document. SHIP means every check passed. ROUTE means a human must rule — it does NOT ship. REFUSED is final.",
+ "checks": [
+  "distribution",
+  "preparer",
+  "reprint",
+  "exportMarking"
+ ],
+ "documents": {
+  "ARMY_TM_9-1005-338-13_P_Technical_Manual_for_Mossberg_12-Gauge_Shotgun_Model_500_590_-_May_2005.pdf.pdf": {
+   "verdict": "REFUSED",
+   "pages": 165,
+   "checks": {
+    "distribution": {
+     "verdict": "ROUTE",
+     "why": "UNMARKED — no distribution statement (pre-dates the convention)",
+     "evidence": ""
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "TECHNICAL MANUAL No. TM 9-1005-338-13&P HEADQUARTERS, DEPARTMENT OF THE ARMY WASHINGTON D.C 15 MAY 2005 TECHNICAL MANUAL UNIT AND DIRECT SUPPORT MAINTENANCE (INCLUDIN"
+    },
+    "reprint": {
+     "verdict": "REFUSED",
+     "why": "redistributor watermark 'emilitarymanuals.com' on 164 of 165 pages — every plate cut from this book would carry a third party's mark",
+     "evidence": "emilitarymanuals.com",
+     "watermark": {
+      "domain": "emilitarymanuals.com",
+      "pages": 164,
+      "ofPages": 165
+     }
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "M1911A1-Technical-Manual-9-1005-211-34.pdf": {
+   "verdict": "ROUTE",
+   "pages": 20,
+   "checks": {
+    "distribution": {
+     "verdict": "ROUTE",
+     "why": "UNMARKED — no distribution statement (pre-dates the convention)",
+     "evidence": ""
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "*TM 9-1005-211-34 Technical Manual HEADQUARTERS, DEPARTMENT OF THE ARMY No. 9-1005-211-34 WASHINGTON, D.C., 20315 22 /une 1964 PISTOL, CALIBER .45, AUTOMATIC, MI"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "no commercial reprint matter found",
+     "evidence": ""
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "TM9-1005-211-12.pdf": {
+   "verdict": "ROUTE",
+   "pages": 47,
+   "checks": {
+    "distribution": {
+     "verdict": "ROUTE",
+     "why": "UNMARKED — no distribution statement (pre-dates the convention)",
+     "evidence": ""
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "WITH HOLSTER, SHOULDER (1005-561.2003) HEADQUARTERS, DEPARTMENT OF THE ARMY SEPTEMBER 1968 WARNING Care must be exercised to either have the pistol raised or pointed"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "no commercial reprint matter found",
+     "evidence": ""
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "TM9-1005-222-12.pdf": {
+   "verdict": "ROUTE",
+   "pages": 28,
+   "checks": {
+    "distribution": {
+     "verdict": "ROUTE",
+     "why": "UNMARKED — no distribution statement (pre-dates the convention)",
+     "evidence": ""
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "*TM 9.1005.222.12 TECHNICAL MANUAL HEADQUARTERS, DEPARTMENT OF THE ARMY No. 9-1005-222-12 Washington, DC., 17, March 1969 Operator and Organizationail Maintenanc"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "no commercial reprint matter found",
+     "evidence": ""
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "TM91005317109mmPistol.pdf": {
+   "verdict": "ROUTE",
+   "pages": 120,
+   "checks": {
+    "distribution": {
+     "verdict": "ROUTE",
+     "why": "UNMARKED — no distribution statement (pre-dates the convention)",
+     "evidence": ""
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "TM 9-1005-317-10. TM 9-1005-317-10, C3 By Order of the Secretary of the Army: CARL E. VUONO General, United States Army Chief of Staff Official: By JOHN A. FULMER Col"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "no commercial reprint matter found",
+     "evidence": ""
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "TM_9-1005-223-10_Operator_s_Manual_M14_M14A1_-_1972.pdf.pdf": {
+   "verdict": "ROUTE",
+   "pages": 118,
+   "checks": {
+    "distribution": {
+     "verdict": "ROUTE",
+     "why": "UNMARKED — no distribution statement (pre-dates the convention)",
+     "evidence": ""
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "des current pages from Changes 1 and 2. HEADQUARTERS, DEPARTMENT OF THE ARMY MARCH 1972 WARNING Under no circumstances will a blank cartridge be altered by inclusion"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "government change-page reissue, not a commercial reprint",
+     "evidence": "2-MM, M14A1, W/E (1005-072-501 1) BIPOD, RIFLE, M2 (1005-711-6202) This copy is reprint which includes current pages from Changes 1 and 2. HEADQUARTERS, DEPARTMENT OF THE ARMY MARCH 1972 WARNING Under no circumstances will a blank cartridge be altered by i"
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "TM_9-1005-306-10.pdf": {
+   "verdict": "REFUSED",
+   "pages": 153,
+   "checks": {
+    "distribution": {
+     "verdict": "REFUSED",
+     "why": "Distribution C — a release control",
+     "evidence": "MANUAL 7.62MM M24 SNIPER WEAPON SYSTEM (SWS) (NSN 1005-01-240-2136) (EIC: 4WV) DISTRIBUTION STATEMENT C DISTRIBUTION – Distribution authorized to U.S. Government Agencies and their contractors. This publication is required for administration a"
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "ents or reconstruction of the document. HEADQUARTERS, DEPARTMENT OF THE ARMY JUNE 1989 WARNINGS Always handle this rifle as if it were loaded and ready to fire. Keep"
+    },
+    "reprint": {
+     "verdict": "ROUTE",
+     "why": "commercial domain 'camouflage.com' printed on 1 of 153 pages",
+     "evidence": "camouflage.com",
+     "watermark": {
+      "domain": "camouflage.com",
+      "pages": 1,
+      "ofPages": 153
+     }
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "TM_9-1005-319-10_Operator_s_Manual_M16A2_-_1986.pdf.pdf": {
+   "verdict": "ROUTE",
+   "pages": 176,
+   "checks": {
+    "distribution": {
+     "verdict": "ROUTE",
+     "why": "UNMARKED — no distribution statement (pre-dates the convention)",
+     "evidence": ""
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "e! U.S. ARMY TM 9-1005-319-10 C3 CHANGE HEADQUARTERS DEPARTMENT OF THE ARMY No. 3 Washington D.C., 1 May 1994 Operator’s Manual W/COMPONENTS LIST RIFLE, 5.56-MM, M16"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "no commercial reprint matter found",
+     "evidence": ""
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "TM_9-1005-319-23_Technical_Manual_Maintenance_Repair_Manual_M16A2_-_M4_-_M4A1.pdf.pdf": {
+   "verdict": "SHIP",
+   "pages": 325,
+   "checks": {
+    "distribution": {
+     "verdict": "PASS",
+     "why": "Distribution A — approved for public release, unlimited",
+     "evidence": "ST OF MANUFACTURED ITEMS E-1 ALPHABETICAL INDEX Index-1 DISTRIBUTION STATEMENT. Approved for public release; distribution is unlimited. DEPARTMENTS OF THE ARMY AND AIR FORCE MAY 1991 ARMY TM 9-1005-319-23&P AIR FORCE TO 11W3-5-5-42 CHANGE HEADQUARTERS DEPARTMENTS OF THE ARM"
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "the publication for reference purposes. By Order of the Secretary of the Army: DENNIS J. REIMER General, United States Army Chief of Staff Official: JOEL B. HUDSON Adm"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "no commercial reprint matter found",
+     "evidence": ""
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "manuallib-id-2671392.pdf": {
+   "verdict": "ROUTE",
+   "pages": 176,
+   "checks": {
+    "distribution": {
+     "verdict": "ROUTE",
+     "why": "UNMARKED — no distribution statement (pre-dates the convention)",
+     "evidence": ""
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "e! U.S. ARMY TM 9-1005-319-10 C3 CHANGE HEADQUARTERS DEPARTMENT OF THE ARMY No. 3 Washington D.C., 1 May 1994 Operator’s Manual W/COMPONENTS LIST RIFLE, 5.56-MM, M16"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "no commercial reprint matter found",
+     "evidence": ""
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "milmanual-fm-3-22.9-rifle-marksmanship-m16a1-m16a2-3-m16a4-and-m4-carb.pdf": {
+   "verdict": "SHIP",
+   "pages": 353,
+   "checks": {
+    "distribution": {
+     "verdict": "PASS",
+     "why": "Distribution A — approved for public release, unlimited",
+     "evidence": "ARBINE APRIL 2003 HEADQUARTERS DEPARTMENT OF THE ARMY DISTRIBUTION RESTRICTION: Approved for public release; distribution is unlimited. *FM 3-22.9(FM 23-9) FIELD MANUAL HEADQUARTERS No. 3-22.9 (23-9) DEPARTMENT OF THE ARMY Washington, DC, 24 April 2003 RIFLE MARKSMANSHIP M1"
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "6A2/3, M16A4, AND M4 CARBINE APRIL 2003 HEADQUARTERS DEPARTMENT OF THE ARMY DISTRIBUTION RESTRICTION: Approved for public release; distribution is unlimited. *FM 3-2"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "no commercial reprint matter found",
+     "evidence": ""
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "milmanual-tm-9-1005-249-10---operators-manual-for-m16-m16a1.pdf": {
+   "verdict": "ROUTE",
+   "pages": 154,
+   "checks": {
+    "distribution": {
+     "verdict": "ROUTE",
+     "why": "UNMARKED — no distribution statement (pre-dates the convention)",
+     "evidence": ""
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "9 8 5 TM 9-1005-249-10 C2 CHANGE NO. 2 HEADQUARTERS DEPARTMENT OF THE ARMY Washington, DC 11 May 1990 Operator’s Manual for RIFLE, 5.56-MM, M16 (1005-00-856-6885) R"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "government change-page reissue, not a commercial reprint",
+     "evidence": "This copy is a reprint which includes current pages from Changes 1 and 2. TM 9-1005-249-10 OPERATOR’S MANUAL F O R R I F L E , 5 . 5 6 - M M , M 1 6 ( 1 0 0 5 - 0 0 - 8 5 6 - 6 8 8 5 ) R I F"
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "milmanual-tm-9-1005-317-10---operators-manual-m9-9mm-handgun.pdf": {
+   "verdict": "ROUTE",
+   "pages": 120,
+   "checks": {
+    "distribution": {
+     "verdict": "ROUTE",
+     "why": "UNMARKED — no distribution statement (pre-dates the convention)",
+     "evidence": ""
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "TM 9-1005-317-10. TM 9-1005-317-10, C3 By Order of the Secretary of the Army: CARL E. VUONO General, United States Army Chief of Staff Official: By JOHN A. FULMER Col"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "no commercial reprint matter found",
+     "evidence": ""
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  },
+  "tm-9-1276-carbines-cal.-.-30-m-1-m-1-a-1-m-2-and-m-3-1947.pdf": {
+   "verdict": "ROUTE",
+   "pages": 111,
+   "checks": {
+    "distribution": {
+     "verdict": "ROUTE",
+     "why": "UNMARKED — no distribution statement (pre-dates the convention)",
+     "evidence": ""
+    },
+    "preparer": {
+     "verdict": "PASS",
+     "why": "issued by a US Government authority",
+     "evidence": "WAR DEPARTMENT TECHNICAL MANUAL United States Government Printing January : 1947 WAR DEPARTMENT • JANUAR"
+    },
+    "reprint": {
+     "verdict": "PASS",
+     "why": "no commercial reprint matter found",
+     "evidence": ""
+    },
+    "exportMarking": {
+     "verdict": "PASS",
+     "why": "no export-control marking on the document",
+     "evidence": ""
+    }
+   }
+  }
+ }
+}

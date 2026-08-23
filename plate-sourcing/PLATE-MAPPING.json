@@ -1,0 +1,114 @@
+{
+ "_doc": "Every plate built, the rows it was mapped to, and the reasoning. Row selection is a predicate over the catalog; the row test is a recorded judgement.",
+ "plates": [
+  {
+   "plateId": "ar15-bolt-carrier-assembly",
+   "tm": "ARMY TM 9-1005-319-23&P / AIR FORCE TO 11W3-5-5-42",
+   "figure": "C-2",
+   "title": "Bolt Carrier Assembly",
+   "page": 261,
+   "image": "plates/img/f1546775fb56718c.png",
+   "imagePx": [
+    1457,
+    1599
+   ],
+   "labels": 6,
+   "rowsMapped": 54,
+   "rows": [
+    "radianmodel1",
+    "jpenterprisesjp15",
+    "seekinsnx15",
+    "faxonfx15",
+    "rainierultramatch",
+    "twoaarmamentblr16",
+    "vsevenharbinger",
+    "battlearmsworkhorse",
+    "greyghostcombat",
+    "lantacraven",
+    "centurionarmsc4",
+    "sionicspatrolrifle",
+    "zevcoreelite",
+    "nemobattlelight",
+    "ar15",
+    "rugerar556",
+    "palmettostatearmorypa15",
+    "smithwessonmp15sportiii",
+    "rugerar556mpr",
+    "andersonmanufacturingam15",
+    "springfieldarmorysaint",
+    "danieldefenseddm4v7",
+    "coltle6920",
+    "springfieldarmorysaintvict",
+    "danieldefensemk18",
+    "bcmrecce16",
+    "aeroprecisionac15",
+    "aeroprecisionm4e1",
+    "sigsauerm400tread",
+    "fnfn15",
+    "iwizionz15",
+    "rockriverarmslar15",
+    "radicalfirearmsrf15",
+    "bushmasterxm15",
+    "dpmsoracle",
+    "diamondbackdb15",
+    "atiomnihybrid",
+    "cmmgresolute",
+    "stagarmsstag15",
+    "windhamweaponrysrc",
+    "savagearmsmsr15recon",
+    "mossbergmmr",
+    "springfieldarmorysaintedge",
+    "knightsarmamentsr15",
+    "lmtdefender",
+    "geisselesuperduty",
+    "bearcreekarsenalbc15",
+    "sonsoflibertym489",
+    "noveskegen4",
+    "christensenarmsca15",
+    "lwrcicdi",
+    "pofrenegadeplus",
+    "wilsoncombatprotector",
+    "springfieldarmorysa16a2"
+   ],
+   "select": {
+    "family": "AR15",
+    "chambering": "5.56"
+   },
+   "excludeFamilies": [
+    "AR-PISTON",
+    "AR10",
+    "AK"
+   ],
+   "excludeReason": "A piston AR's carrier has no gas key and carries an operating-rod strike face, so this plate's item 5 (KEY AND BOLT) depicts a part that row does not have — the row test fails on the one component the plate is about. AR10/.308 and 9mm blowback carriers are different parts entirely.",
+   "rowTest": "PASSES. The plate is the bolt carrier group alone — the assembly an owner has in his hand at every cleaning — and a civilian 5.56 AR-15 carrier, bolt, firing pin, cam pin and carrier key are the same parts in the same arrangement as the M16A2/M4 items drawn here. Nothing in the drawing is M16A2-only: there is no carry handle, no A2 stock, no barrel length and no furniture of any kind, which is exactly what would betray a service rifle on a modern flat-top row. The plate additionally draws BOTH service variants (item 4 M16A2, item 4A M4/M4A1), so it does not present one configuration as the only one.",
+   "rejectedAlternatives": [
+    {
+     "figure": "C-1",
+     "what": "whole rifle (M16A2 + M4/M4A1)",
+     "why": "REJECTED TWICE OVER. The scan is degraded — linework broken and dropped out, confirmed by rendering it — and on the row test an M16A2 with its carry handle, fixed stock and 20in barrel is precisely the gun Darren named as failing on a modern flat-top row."
+    },
+    {
+     "figure": "C-10",
+     "what": "(M16A2) rear sight assembly",
+     "why": "REJECTED. A carry-handle A2 sight does not exist on a flat-top row."
+    },
+    {
+     "figure": "C-12",
+     "what": "(M16A2) buttstock assembly",
+     "why": "REJECTED. Fixed A2 stock; most rows here wear a collapsible stock."
+    },
+    {
+     "figure": "C-6/C-7/C-8",
+     "what": "upper receiver and barrel assemblies",
+     "why": "REJECTED as arguable rather than wrong: drawn as a 20in M16A2 or a 14.5in M4, and a 16in civilian carbine is neither. Routed rather than guessed."
+    },
+    {
+     "figure": "C-3, C-4, C-13, C-14",
+     "what": "bolt assembly, carrier key, hammer, trigger",
+     "why": "NOT REJECTED — equally shippable, and verified. Held back only because the order is one plate per row; they are the natural second set when the app can carry more than one."
+    }
+   ]
+  }
+ ],
+ "refused": []
+}
