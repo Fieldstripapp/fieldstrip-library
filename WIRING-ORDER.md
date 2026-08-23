@@ -118,24 +118,38 @@ above is the one to adopt first.
 
 ---
 
-## Before the first push — two clicks that need a human
+## Still to do on the GitHub side
 
-`gh` is not installed on this machine, so the GitHub side could not be done from
-here. The repository is built and committed locally and the first push is ready.
+The repository is created and `main` is pushed. `origin` is
+`https://github.com/Fieldstripapp/fieldstrip-library.git` over HTTPS, matching
+how `fieldstrip-app` authenticates (Git Credential Manager) — no SSH key is
+needed or present on this machine.
 
-1. Create **`Fieldstripapp/fieldstrip-library`**, **public**, with no README, no
-   `.gitignore` and no licence — the local repo already has its first commit and
-   an initialised remote would need a merge.
-2. Push:
-   ```
-   git -C ../fieldstrip-library remote add origin git@github.com:Fieldstripapp/fieldstrip-library.git
-   git -C ../fieldstrip-library push -u origin main
-   ```
-3. **Settings → Pages → Source: Deploy from a branch → `main` / `(root)`**.
-   `CNAME` and `.nojekyll` are already committed, so the custom domain fills in
-   from the `CNAME` file on the first build.
-4. Point DNS: `library` CNAME → `fieldstripapp.github.io`. Then tick **Enforce
-   HTTPS** once the certificate is issued.
+Two settings remain, both in the browser:
+
+1. **Settings → Pages → Source: Deploy from a branch → `main` / `(root)`.**
+   `CNAME` and `.nojekyll` are already committed, so the custom domain fills
+   itself in from the `CNAME` file on the first build.
+2. **DNS:** `library` CNAME → `fieldstripapp.github.io`. Tick **Enforce HTTPS**
+   once the certificate is issued.
 
 Until DNS resolves, the shelf is reachable at
 `https://fieldstripapp.github.io/fieldstrip-library/index.json`.
+
+## One judgement call left to you
+
+The published payload — `guides/`, `index.json`, `changelog.json` — carries no
+personal data of any kind; that is gated. The **tooling** is a different matter,
+and it is public too:
+
+- `tools/lib/guards.js` contains `PERSON_CANARIES = ['Darren', 'Dezrt']`. Those
+  names have to be in the guard for the guard to work, so publishing the guard
+  publishes the names.
+- Several design comments explain rulings as yours by name ("only Darren clears a
+  hold"), which is genuinely useful documentation of how this lane decides things.
+
+Both are mild and neither was scrubbed unilaterally, because the comments carry
+real engineering meaning. If you would rather they were not public, the options
+are to move the canary list to an untracked local file the guard reads, or to make
+this repo's history start from a squashed commit with the names generalised. Say
+which and it is a small change.

@@ -47,6 +47,7 @@ function build() {
   const specPaths = app.lsTree(SPECS_DIR).filter(p => p.endsWith('.json'));
   if (!specPaths.length) throw new Error('⛔ REFUSING — zero authored specs at HEAD');
 
+  const opNames = operatorNames();
   const guides = [];        // {row, bytes, sourceFile, sha256}
   const refusedHeld = [];   // held rows that HAVE a spec — the live catch
   const quarantined = [];   // guides withheld because their own text leaks a cache path
@@ -82,7 +83,13 @@ function build() {
        upstream, in the spec. So the row is withheld, named in the report, and
        marked in the index, and the fix happens where the defect is. */
     const leak = guards.cacheLeak(guide);
-    if (leak) { quarantined.push({ row, leak, spec: p }); continue; }
+    if (leak) { quarantined.push({ row, leak: 'names our internal cache: ' + leak, spec: p }); continue; }
+
+    /* ⛔ AND THE SAME FOR A PERSON NAMED IN OWNER-FACING COPY. Twelve guides
+       carried "(Darren guardrail 2026-08-21)" in deepAbsentReason — an internal
+       note that had escaped into published text. Withheld, named, fixed upstream. */
+    const pleak = guards.personalLeak(guide, opNames);
+    if (pleak) { quarantined.push({ row, leak: pleak, spec: p }); continue; }
 
     guides.push({
       row,
@@ -245,10 +252,9 @@ function main() {
   }
   if (payload.quarantined.length) {
     log('');
-    log('  ⛔ GUIDES WITHHELD — their authored text names our internal cache: ' +
+    log('  ⛔ GUIDES WITHHELD — a publication defect in the authored text: ' +
         payload.quarantined.length);
-    payload.quarantined.forEach(q =>
-      log('     ' + q.row + '  (matched "' + q.leak + '")  spec: ' + q.spec));
+    payload.quarantined.forEach(q => log('     ' + q.row + '  — ' + q.leak));
     log('     Fix belongs in the spec, upstream. This publisher will not edit authored text.');
   }
   if (payload.unknownFields.length) {

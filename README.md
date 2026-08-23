@@ -49,7 +49,9 @@ birth: a mistake here is a disclosure, not a bad commit.
    the block records, never from a list in the source. A held row that acquires
    an authored spec is still held: only Darren clears a hold.
 3. **No personal data.** Email addresses, user-profile paths, credentials, and
-   operator identifiers that would mean an internal note had escaped.
+   operator identifiers that would mean an internal note had escaped. A guide
+   that trips this is withheld and named, never edited — editing published text
+   here is exactly how the library would start disagreeing with the app.
 
 ```
 node tools/run_gates.js     # prove the refusals refuse, then check the live payload

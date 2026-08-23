@@ -176,8 +176,8 @@ const PERSONAL = [
   [/[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}/g, 'email address'],
   /* ⛔ THE SEPARATOR IS DOUBLED IN THE PUBLISHED BYTES AND A SINGLE-SEPARATOR
      PATTERN MISSES IT ENTIRELY. These guards read the JSON text as it will be
-     served, and JSON escapes a backslash — `C:\Users\Dezrt` is stored as
-     `C:\\Users\\Dezrt`. The first draft of this pattern required exactly one
+     served, and JSON escapes a backslash — `C:\Users\<name>` is stored as
+     `C:\\Users\\<name>`. The first draft of this pattern required exactly one
      separator, matched nothing, and reported clean; its fixture is what caught
      it. Hence {1,2}, and hence the fixture stays. */
   [/\b[A-Za-z]:[\\\/]{1,2}Users[\\\/]{1,2}[A-Za-z0-9._-]+/g, 'Windows user-profile path'],
@@ -188,14 +188,30 @@ const PERSONAL = [
   [/\b\d{3}-\d{2}-\d{4}\b/g, 'US SSN pattern'],
 ];
 
+/* ⛔ THE ONE LIST THAT MUST BE TYPED, AND WHY. Everywhere else in this repo a
+   hand-maintained list is a defect — held rows, blocked rows and the catalog are
+   all derived, because a record exists to derive them from. No record anywhere
+   enumerates the humans working on this project, so their names cannot be
+   derived from anything, and the alternative to naming them is not naming them.
+
+   ⚠ AND DERIVING IT FROM GIT WAS ACTIVELY WORSE THAN USELESS. The first version
+   took the canary from `git config user.name` alone — which is "Dezrt" — and
+   reported clean while twelve published guides carried "(Darren guardrail
+   2026-08-21)" in owner-facing copy. A canary pointed at the wrong name is the
+   same failure as a filter pointed at nothing: it makes a green mean nothing.
+   The git identity is still added at call time; it is a supplement to this list,
+   never a substitute for it. */
+const PERSON_CANARIES = ['Darren', 'Dezrt'];
+
 /**
  * Refusal 3 — NO PERSONAL DATA.
- * extraNames: operator identifiers to treat as leak canaries (e.g. the git
- * author name). Their presence means an internal note escaped the projection.
+ * extraNames: further operator identifiers (e.g. the git author name), unioned
+ * with PERSON_CANARIES. Their presence means an internal note escaped.
  */
 function noPersonalData(files, extraNames) {
   const v = [];
-  const canaries = (extraNames || []).filter(Boolean).map(n => String(n));
+  const canaries = [...new Set(PERSON_CANARIES.concat(extraNames || [])
+    .filter(Boolean).map(n => String(n)))];
 
   for (const f of files) {
     const text = f.bytes.toString('utf8');
@@ -232,5 +248,20 @@ function cacheLeak(guide) {
 
 const sha256 = buf => crypto.createHash('sha256').update(buf).digest('hex');
 
-module.exports = { noSourceDocuments, noHeldRows, noPersonalData, cacheLeak, sha256,
-                  GUIDE_KEYS, STEP_KEYS };
+/**
+ * The personal identifier this guide carries, if any, else null.
+ *
+ * ⛔ EXPORTED FOR THE SAME REASON cacheLeak() IS: an authored spec that names a
+ * person in owner-facing copy is a defect in that spec, and the proportionate
+ * answer is to withhold that guide and name it upstream — not to edit published
+ * text here, and not to lose the shelf over it. The guard above remains the
+ * second line and still fails the publish outright if one reaches the payload.
+ */
+function personalLeak(guide, extraNames) {
+  const hits = noPersonalData([{ path: 'guide', bytes: Buffer.from(JSON.stringify(guide), 'utf8') }],
+                              extraNames);
+  return hits.length ? hits[0].replace(/^guide: /, '') : null;
+}
+
+module.exports = { noSourceDocuments, noHeldRows, noPersonalData, cacheLeak, personalLeak,
+                  sha256, GUIDE_KEYS, STEP_KEYS, PERSON_CANARIES };

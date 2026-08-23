@@ -110,16 +110,20 @@ const CASES = {
   },
 
   'NO PERSONAL DATA': {
-    run: files => guards.noPersonalData(files, ['Darren']),
+    /* ⚠ NO extraNames PASSED ON PURPOSE. The canary that matters must come from
+       guards.PERSON_CANARIES itself; passing the name in here would test the
+       fixture rather than the guard, which is exactly how the real leak of
+       twelve guides survived a green run. */
+    run: files => guards.noPersonalData(files, []),
     mustRefuse: [
       ['an email address in guide text', () => [
         asFile('guides/pd1.json', Object.assign({}, cleanGuide, {
-          cleanIntro: 'Questions to dezrtracr33@gmail.com before stripping.',
+          cleanIntro: 'Questions to owner@example.invalid before stripping.',
         })),
       ]],
       ['a Windows user-profile path', () => [
         asFile('guides/pd2.json', Object.assign({}, cleanGuide, {
-          cleanIntro: 'Cached at C:\\Users\\Dezrt\\fieldstrip-app for reference.',
+          cleanIntro: 'Cached at C:\\Users\\operator\\fieldstrip-app for reference.',
         })),
       ]],
       ['a home-directory path', () => [
