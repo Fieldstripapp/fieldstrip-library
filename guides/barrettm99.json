@@ -1,0 +1,122 @@
+{
+ "row": "barrettm99",
+ "make": "Barrett",
+ "model": "M99",
+ "sourcedFrom": "Barrett Model 99 Operator's Manual — P/N 99141, REV B (printed on the back cover) (UNDATED — Barrett prints a part number and revision letter rather than a year)",
+ "sourceSha256": "5718d9f603e354a03f8b485f0d24332eb5a4c4683bb05d5e9e3776d69afaad29",
+ "cleanIntro": "The 99 is a single-shot bolt gun and it comes apart into five groups on three pins plus a bipod pin — no tools. ⛔ The one thing to understand before you start is that the strip RELEASES THE FIRING PIN: Barrett print that as a warning, and it means the chamber check is not a formality here, it is the thing standing between you and a discharge on a workbench. Clean from the breech, and if you have been shooting surplus, read the corrosive-ammunition procedure below before you put it away.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety on, bolt up and back, then look INTO the chamber",
+   "action": "Safety lever to safe. Lift the bolt handle and pull it to the rear to throw out anything in the chamber, then look in and check that it is empty — by eye and by hand. On a single-shot there is no magazine to mislead you, which makes the chamber the only place a round can be, and the only place worth checking.",
+   "quote": "With the bolt pulled fully to the rear, look into the chamber to make sure that the cartridge or shell casing has been removed. Visually and physically ensure the chamber is empty.",
+   "cite": "Barrett Model 99 Operator's Manual — P/N 99141, REV B (printed on the back cover) — UNLOADING AND CLEARING"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ The strip releases the firing pin — a chambered round WILL fire",
+   "action": "Read this before the first pin comes out. Barrett state plainly that following the disassembly steps releases the firing pin and that a cartridge left in the chamber will fire. That is not a caution about damage; it is a discharge on your bench, from a .50 BMG, with the muzzle pointing wherever the rifle happens to lie.",
+   "caution": "FIRING PIN. IF A CARTRIDGE IS IN THE CHAMBER IT WILL FIRE. ENSURE NO LIVE AMMUNITION IS PRESENT DURING DISASSEMBLY OR ASSEMBLY.",
+   "quote": "FOLLOWING THE DISASSEMBLY STEPS WILL RELEASE THE",
+   "cite": "Barrett Model 99 Operator's Manual — P/N 99141, REV B (printed on the back cover) — DISASSEMBLY AND ASSEMBLY — WARNING"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bipod down, bolt handle UP but not withdrawn, then three pins",
+   "action": "Let the rifle rest on its bipod feet and buttplate. Raise the bolt handle but do NOT pull the bolt out yet — raising it is what cocks the firing pin, and Barrett want it cocked while the buttplate comes off. Then take out the two rear assembly pins and the forward one.",
+   "aside": "Remove the two rear assembly pins and the forward assembly pin",
+   "quote": "Raise the bolt handle but do not retract it from the barrel.",
+   "cite": "Barrett Model 99 Operator's Manual — P/N 99141, REV B (printed on the back cover) — DISASSEMBLY INTO MAJOR COMPONENTS"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger housing down and out by the pistol grip",
+   "action": "Pull the pistol grip downward and the whole trigger housing assembly comes out of the receiver. ⛔ Stop there. Barrett's note is explicit that no further disassembly of the trigger housing is recommended or necessary for maintenance, and on a rifle whose trigger group is a sealed unit that is a limit, not advice.",
+   "caution": "NOTE: NO FURTHER DISASSEMBLY OF THE TRIGGER HOUSING ASSEMBLY IS RECOMMENDED OR NECESSARY FOR MAINTENANCE.",
+   "quote": "Remove the trigger housing assembly by pulling the pistol grip downward out of the receiver",
+   "cite": "Barrett Model 99 Operator's Manual — P/N 99141, REV B (printed on the back cover) — DISASSEMBLY INTO MAJOR COMPONENTS"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buttplate STRAIGHT back — twisting it uncocks the firing pin",
+   "action": "Pull the buttplate assembly rearward without twisting. Twisting is how people accidentally uncock the firing pin, and then the strip fights them. If it does happen, the fix is in the book: capture the cocking piece shroud with the end of the buttplate and twist it clockwise a quarter turn to recock, with the bolt still in the receiver.",
+   "caution": "THE FIRING PIN ASSEMBLY CAN BE ACCIDENTALLY UNCOCKED BY TWISTING THE BUTTPLATE ASSEMBLY AS IT IS BEING REMOVED.",
+   "quote": "Without twisting, pull the buttplate assembly rearward to remove it from the receiver assembly",
+   "cite": "Barrett Model 99 Operator's Manual — P/N 99141, REV B (printed on the back cover) — DISASSEMBLY INTO MAJOR COMPONENTS"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out — turn it so the lugs clear the port",
+   "action": "Take the bolt handle and draw the bolt out of the barrel, then rotate the bolt so its locking lugs line up with the cartridge feed and ejection port before you lift it clear. Forcing it out at the wrong clock position marks both the lugs and the port mouth.",
+   "quote": "Orient the bolt so that the locking lugs will pass through the cartridge feed and ejection port.",
+   "cite": "Barrett Model 99 Operator's Manual — P/N 99141, REV B (printed on the back cover) — DISASSEMBLY INTO MAJOR COMPONENTS"
+  },
+  {
+   "phase": "Clean",
+   "title": "Chamber brush, bore brush, brake — all from the breech",
+   "action": "Solvent on a chamber brush, then solvent on a bore brush, and the muzzle brake with a stiff plastic brush at the same time so the bore solvent has already softened its carbon. Everything works from the breech end; the crown is the accuracy and a rod entering at the muzzle is how it goes.",
+   "quote": "The rifle should be cleaned and lubricated after each shooting session. Regular cleaning prevents the corrosive effects of moisture.",
+   "cite": "Barrett Model 99 Operator's Manual — P/N 99141, REV B (printed on the back cover) — CLEANING PROCEDURE"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Fired surplus? Hot soapy water, at once, then rust preventative",
+   "action": "Much of the .50 BMG ammunition in circulation is military surplus and some of it is corrosively primed. If you have fired it — deliberately or by accident — Barrett's procedure is immediate: scrub bore and bolt face with very hot soapy water or a cleaner made for corrosive ammunition, rinse with very hot water, wipe off, and let the residual heat dry it. ⛔ Then oil it AT ONCE — bare metal that has just been rinsed will start rusting while you look at it.",
+   "caution": "RUST WILL BEGIN TO FORM ON BARE METAL RESULTING FROM THE HOT WATER RINSE UNLESS RUST PREVENTATIVE OR LIGHT OIL IS APPLIED IMMEDIATELY.",
+   "quote": "Immediately after firing the corrosive ammunition, thoroughly scrub the bore and bolt face with very hot soapy water or cleaner specifically designed for corrosive ammunition.",
+   "cite": "Barrett Model 99 Operator's Manual — P/N 99141, REV B (printed on the back cover) — CORROSIVE AMMUNITION CLEANING PROCEDURE"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt face, extractor, ejector — and prove they move",
+   "action": "Bore solvent on the bolt face, stiff plastic brush into the extractor and the ejector, then press both by hand and feel them return. A sticky ejector on a single-shot shows up as a case you have to pick out of the action with your fingers, which on a hot .50 barrel is its own hazard.",
+   "aside": "Depress the ejector and extractor by hand to test their smooth function.",
+   "quote": "Clean the bolt face with bore solvent. Use a stiff plastic brush to remove carbon from both the extractor and the ejector.",
+   "cite": "Barrett Model 99 Operator's Manual — P/N 99141, REV B (printed on the back cover) — CLEANING PROCEDURE"
+  }
+ ],
+ "deepAbsentReason": "Barrett publishes NO strip deeper than the five major groups for the Model 99, and marks the boundary itself. The trigger housing carries a printed note — \"NO FURTHER DISASSEMBLY OF THE TRIGGER HOUSING ASSEMBLY IS RECOMMENDED OR NECESSARY FOR MAINTENANCE\" — and the bolt is treated the same way: where the troubleshooting table reaches a broken or damaged firing pin or firing-pin spring, the corrective action it gives is \"Return complete bolt assembly for repair\", not a procedure. ⚠ The one sub-assembly operation the book DOES show is the ejector pin, and it appears as part of ejector replacement with a 3/32 punch rather than as routine maintenance; it is not carried here because Barrett do not present it as cleaning. So the five-group strip above is the whole published job, and nothing deeper has been invented for it.",
+ "cleaning": [
+  {
+   "name": "CHAMBER & BORE",
+   "tasks": [
+    "Chamber brush with solvent, then bore brush with solvent",
+    "⛔ From the BREECH only — never a rod in through the muzzle",
+    "Dry patches until the cleaner is out",
+    "After every shooting session"
+   ]
+  },
+  {
+   "name": "MUZZLE BRAKE",
+   "tasks": [
+    "Stiff plastic brush and bore solvent, while the barrel is wet"
+   ]
+  },
+  {
+   "name": "BOLT",
+   "tasks": [
+    "Bolt face with bore solvent",
+    "Extractor and ejector brushed, then pressed by hand to prove they move",
+    "Cocking piece cleaned and lubricated if it drags"
+   ]
+  },
+  {
+   "name": "⛔ AFTER CORROSIVE (SURPLUS) AMMUNITION",
+   "tasks": [
+    "Very hot soapy water on bore and bolt face, immediately",
+    "Rinse with very hot water; residual heat dries it",
+    "Rust preventative or light oil AT ONCE — bare rinsed metal rusts as you watch",
+    "⚠ Damage from corrosive ammunition is not covered by the warranty"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bolt in with the locking lugs turned to pass the feed and ejection port.",
+  "⛔ Buttplate assembly on WITHOUT twisting, or the firing pin uncocks.",
+  "Trigger housing up into the receiver by the pistol grip.",
+  "Two rear assembly pins and the forward assembly pin home; bipod pin back in.",
+  "Bolt handle raised and lowered to confirm the firing pin cocks and the handle seats fully down."
+ ],
+ "fncheck": "Back together and empty: raise and lower the bolt handle and feel the firing pin cock. Confirm the cocking piece shroud is properly installed in the bolt — Barrett list a shroud that is not as a cause of failure to fire — and that the bolt handle goes fully down. Check the muzzle brake is present and tight; ⛔ a missing brake is listed as a cause of very hard recoil on a rifle that already recoils hard."
+}

@@ -1,0 +1,103 @@
+{
+ "row": "serbubfg50",
+ "make": "Serbu",
+ "model": "BFG-50",
+ "sourcedFrom": "Serbu BFG-50 preliminary manual — preliminary — the document says so on its first line; no edition code printed (UNDATED — no year is printed in the document)",
+ "sourceSha256": "eb460d1f2d324ba8f66a41fa0e46d0bce8c99e771ccc22f371c4e0a782cc58a7",
+ "cleanIntro": "⛔ The hazard on this rifle is the HANGFIRE, and Serbu put it first for a reason. A lot of .50 BMG on the market is military surplus with very hard primers, so a round that does not go off on the first strike is a real event on this gun — and the action is UNLOCKED while the bolt handle is lifted. Wait at least 60 seconds before you touch it. Beyond that the maintenance is short and specific: bore after a day's firing, moly grease on three named surfaces, and dirt shaken out of the trigger group.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ Hangfire: wait 60 seconds before the bolt handle moves",
+   "action": "If the rifle does not fire, wait at least sixty seconds with the muzzle downrange before doing anything. Serbu's own account of the one way this rifle can fire out of battery is a bolt opened during a hangfire — and the action is unlocked from the moment the bolt handle lifts. The round can also simply be ejected rather than tried again.",
+   "quote": "If a hangfire occurs wait at least 60 seconds and follow the procedure below to recock the hammer, and realize that \nthe action is unlocked while the bolt handle is lifted.",
+   "cite": "Serbu BFG-50 preliminary manual — preliminary — the document says so on its first line; no edition code printed — INTRODUCTION/SAFETY WARNINGS"
+  },
+  {
+   "phase": "Clear",
+   "title": "Muzzle blast comes BACK at you — hearing protection is mandatory",
+   "action": "The brake on a .50 sends a large part of an already enormous muzzle blast back towards the shooter. Hearing protection for you and for anyone near you, every time, and pick a backstop that respects what the cartridge actually is.",
+   "caution": "NEVER fire the BFG-50 into the air!",
+   "quote": "A .50 BMG rifle makes a very large \nmuzzle blast and the muzzle brake directs a large portion of this back in the direction of the shooter.",
+   "cite": "Serbu BFG-50 preliminary manual — preliminary — the document says so on its first line; no edition code printed — INTRODUCTION/SAFETY WARNINGS"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore after a day's firing; the rest is periodic",
+   "action": "The BFG-50 does not ask for much. Clean the bore after a day's firing, and give the rest of the rifle periodic cleaning and lubrication rather than a ritual after every string.",
+   "quote": "Aside from cleaning of the bore after a day’s firing, the BFG-50 needs only periodic cleaning and lubrication.",
+   "cite": "Serbu BFG-50 preliminary manual — preliminary — the document says so on its first line; no edition code printed — MAINTENANCE"
+  },
+  {
+   "phase": "Clean",
+   "title": "Moly grease on three named surfaces",
+   "action": "Serbu name exactly where the grease goes: the bolt lugs, the hammer camming surface on the bolt, and the hammer sear notch. They use a molybdenum disulfide grease and say it is not compulsory — but that there must always be SOME lubrication on those three surfaces. Standard gun oil does for the inside of the receiver.",
+   "aside": "The inside of the receiver may be oiled with any standard gun oil",
+   "quote": "A molybdenum disulfide grease is what we use on the bolt lugs, hammer camming surface on the bolt and hammer sear notch.",
+   "cite": "Serbu BFG-50 preliminary manual — preliminary — the document says so on its first line; no edition code printed — MAINTENANCE"
+  },
+  {
+   "phase": "Clean",
+   "title": "Shake the dirt OUT of the trigger group, upside down",
+   "action": "Dirt and dust that get into the receiver tube or the trigger group have to come out, and the published method is to shake the gun upside down and let it fall clear. It sounds crude and it is the maker's instruction. The failure it prevents is specific: a hammer that is not caught by the trigger on cocking, because debris is stopping the trigger springing back to rest.",
+   "caution": "In extreme cases like this, the trigger group may have to be removed for cleaning.",
+   "quote": "Shaking the gun upside \ndown should allow any loose dirt that has entered the trigger group to escape.",
+   "cite": "Serbu BFG-50 preliminary manual — preliminary — the document says so on its first line; no edition code printed — MAINTENANCE"
+  },
+  {
+   "phase": "Clean",
+   "title": "Check the bolt handle is tight — a loose one scrapes the receiver",
+   "action": "Every time: make sure the bolt handle is tight. If it works loose the retaining screw backs out and scrapes down the inside of the receiver, which is damage you cannot polish out. Then a wipe-down with an oiled rag on the parkerized exterior and that is the job.",
+   "quote": "Make sure that \nthe bolt handle is always tight; if it becomes loose, the retaining screw can back out and scrape on the inside of the receiver.",
+   "cite": "Serbu BFG-50 preliminary manual — preliminary — the document says so on its first line; no edition code printed — MAINTENANCE"
+  },
+  {
+   "phase": "Clean",
+   "title": "Expect a tight action for the first few dozen rounds",
+   "action": "A new BFG-50 chambers and extracts stiffly for the first several dozen rounds, and Serbu are candid that a rubber mallet may find a use. Some .50 ammunition is always hard to chamber because of dimensional variation. ⛔ There is no recommended barrel break-in procedure for this rifle — do not import one from another maker's book.",
+   "aside": "We don’t have a recommended procedure for barrel break-in.",
+   "quote": "For the first several dozen rounds fired through the BFG-50, the action may be a bit tight (chambering and extraction).",
+   "cite": "Serbu BFG-50 preliminary manual — preliminary — the document says so on its first line; no edition code printed — BREAK-IN"
+  }
+ ],
+ "deepAbsentReason": "⚠ THIS DOCUMENT IS TWO PAGES AND SAYS SO ON ITS FIRST LINE: \"This is the preliminary manual for the BFG-50 rifle. A full manual will be available in the future, but for now please read this short (but important) document to familiarize yourself with the BFG-50.\" It publishes no disassembly procedure at all. The one thing it says about going inside is conditional and unexplained — that in extreme cases of fouling \"the trigger group may have to be removed for cleaning\" — with no method given, so there is nothing here to present as a procedure. ⛔ AND THE BFG-50A's BOOK IS NOT A SUBSTITUTE. That rifle is a magazine-fed semi-auto with a bolt carrier, a cam pin and a recoil spring in the buttpad; this one is a single-shot bolt-action with a hammer. Borrowing the A's strip would be the sibling-substitution defect in its textbook form. When Serbu publish the full manual, this row is re-authored from it.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Cleaned after a day's firing"
+   ]
+  },
+  {
+   "name": "GREASE — THREE NAMED SURFACES",
+   "tasks": [
+    "Bolt lugs",
+    "Hammer camming surface on the bolt",
+    "Hammer sear notch",
+    "Molybdenum disulfide grease is what Serbu use; some lubrication must always be there"
+   ]
+  },
+  {
+   "name": "RECEIVER & TRIGGER GROUP",
+   "tasks": [
+    "Inside of the receiver tube: any standard gun oil",
+    "Dirt shaken OUT with the gun upside down",
+    "⚠ A hammer not caught on cocking means debris in the trigger group"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Parkerized finish: an occasional wipe with an oiled rag",
+    "⛔ Bolt handle checked TIGHT every time"
+   ]
+  }
+ ],
+ "reassembly": [
+  "⚠ Nothing beyond the bolt comes out in the published routine — the two-page manual documents no strip.",
+  "Bolt lugs, hammer camming surface and hammer sear notch greased before the bolt goes back.",
+  "Bolt handle checked TIGHT.",
+  "Hammer proved caught by the trigger on cocking."
+ ],
+ "fncheck": "Empty and reassembled: cock the bolt back and confirm the hammer is CAUGHT by the trigger. ⛔ If it is not, there is debris in the trigger group stopping the trigger returning to rest — shake it out upside down before you go any further. Check the bolt handle is tight and look through the bore from the breech."
+}
