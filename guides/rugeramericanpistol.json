@@ -13,7 +13,8 @@
    "prose": "Ruger prints this as a standing warning rather than a step, because the American Pistol has no magazine disconnect to save you.",
    "quote": "Remove the magazine from the pistol by pushing in on the magazine latch.",
    "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — TO UNLOAD, step 2, printed p.21",
-   "warn": "Removing the magazine does not unload pistol! Pistol will fire with magazine removed."
+   "warn": "Removing the magazine does not unload pistol! Pistol will fire with magazine removed.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
@@ -22,7 +23,8 @@
    "prose": "Counter-intuitive if you have come from another safety-equipped pistol, and it is Ruger's own sequence — the book warns the unloading sequence must be followed exactly as printed.",
    "quote": "Move the manual safety lever down to the fire (\"F\") position.",
    "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — TO UNLOAD, step 3, printed p.21",
-   "warn": "This sequence must be followed exactly as outlined. Failure to do so can result in the chamber being unintentionally loaded with a live cartridge!"
+   "warn": "This sequence must be followed exactly as outlined. Failure to do so can result in the chamber being unintentionally loaded with a live cartridge!",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
@@ -66,7 +68,8 @@
    "aside": "This action will both move the barrel locking surface out of the way of the barrel and decock the striker.",
    "quote": "Once resistance is met, the lever should not be rotated any further.",
    "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — DISASSEMBLY, step 3, printed p.25",
-   "warn": "Do not force the take-down lever past the point where it stops."
+   "warn": "Do not force the take-down lever past the point where it stops.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -112,6 +115,7 @@
    "quote": "Do not attempt to further disassemble your firearm. The firearm can now be cleaned and lubricated. There are no user serviceable parts below this level.",
    "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — DISASSEMBLY — NOTE after step 7, printed p.27",
    "warn": "If further disassembly is required contact Ruger Customer Service or a Ruger certified technician.",
+   "warnSrc": "maker",
    "branch": true
   },
   {
@@ -176,7 +180,8 @@
    "prose": "Toward the front, not the rear. Keep a thumb over the plate as it goes — there is a compressed spring behind it.",
    "quote": "Use a punch to press in on the magazine spring seat where it protrudes into the hole in the magazine floorplate.",
    "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — MAGAZINE INSPECTION AND CARE, printed p.32",
-   "warn": "Be careful to prevent the forcible ejection of the magazine spring seat and compressed magazine spring."
+   "warn": "Be careful to prevent the forcible ejection of the magazine spring seat and compressed magazine spring.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -201,7 +206,8 @@
    "prose": "Improper reassembly of a magazine causes failures to feed, which Ruger classes as a potentially dangerous malfunction rather than an inconvenience.",
    "quote": "Reassemble in the reverse order, being careful to insert the magazine spring leg in the correct orientation in the magazine spring seat",
    "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — MAGAZINE INSPECTION AND CARE, printed p.32",
-   "warn": "DAMAGED, NON-STANDARD OR IMPROPERLY ASSEMBLED MAGAZINES SHOULD NOT BE USED."
+   "warn": "DAMAGED, NON-STANDARD OR IMPROPERLY ASSEMBLED MAGAZINES SHOULD NOT BE USED.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",

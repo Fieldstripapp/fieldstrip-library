@@ -79,6 +79,14 @@ const GUIDE_KEYS = new Set([
 const STEP_KEYS = new Set([
   'phase', 'title', 'action', 'prose', 'caution', 'aside',
   'quote', 'cite', 'quoteLang', 'quoteEnglish', 'warn', 'branch',
+  /* ⛔ warnSrc — REVIEWED AND ADMITTED (Darren ruling, vC34 item 17). It carries
+     no text of its own: the only values are the literals "maker" and "ours", and
+     it says whose sentence the `warn` beside it is. 714 of the app's 1,637
+     warnings were measured to be the manufacturer's own words and were rendering
+     unattributed; the app now quotes his and leaves ours plain. A reader of THIS
+     shelf is the same reader, so the flag travels. It leaks nothing — it is not
+     free text and cannot carry a cache path, a person or a document. */
+  'warnSrc',
 ]);
 
 function looksBinary(buf) {

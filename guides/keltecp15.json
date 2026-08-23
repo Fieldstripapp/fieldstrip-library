@@ -21,7 +21,8 @@
    "prose": "Do the magazine first, always — the magazine disconnect is a feature you may have switched off, so it cannot be part of your clearing logic. The loaded chamber indicator on top of the slide is a useful glance and nothing more; the manual's own instruction is never to rely on your memory or on the chamber indicator to decide whether the pistol is loaded. On a double-stack carry gun the last round in the chamber after a magazine change is the one that hurts people, so eyes and finger both go in.",
    "quote": "Never rely on your memory or the chamber indicator to determine whether the P15 is loaded or unloaded.",
    "cite": "NO COVER PLATE — the book opens on its TABLE OF CONTENTS; self-described on p.2 as the manual for the P15, footed REV2022OCT — REV2022OCT — Breakdown — I. Disassembly, opening warning, p.12",
-   "warn": "Visually and physically ensure your pistol is now safely unloaded before the striker-release step. That step requires pulling the trigger."
+   "warn": "Visually and physically ensure your pistol is now safely unloaded before the striker-release step. That step requires pulling the trigger.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
@@ -39,7 +40,8 @@
    "prose": "This is the step that makes the P15 different from every other pistol in the Kel-Tec line, and it is also the step that punishes a sloppy chamber check. The empty magazine goes back in because the magazine disconnect will otherwise block the trigger bar from reaching the sear; the slide has to be closed because a striker at rest is what lets the slide come off. If the slide later refuses to leave the receiver, the striker is still cocked and you have missed this step — go back and do it rather than pulling harder.",
    "quote": "Insert the empty magazine into the unchambered pistol and then pull the trigger to release the striker. The slide must be closed in order to do this.",
    "cite": "NO COVER PLATE — the book opens on its TABLE OF CONTENTS; self-described on p.2 as the manual for the P15, footed REV2022OCT — REV2022OCT — Breakdown — I. Disassembly, step 1, p.12",
-   "warn": "Never have live ammunition in your work space when disassembling your gun."
+   "warn": "Never have live ammunition in your work space when disassembling your gun.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -65,6 +67,7 @@
    "quote": "This is as far as Kel-Tec CNC Industries, Inc. recommends field stripping the P15. From this point, the cleaning procedure can be implemented if necessary.",
    "cite": "NO COVER PLATE — the book opens on its TABLE OF CONTENTS; self-described on p.2 as the manual for the P15, footed REV2022OCT — REV2022OCT — Breakdown — I. Disassembly, step 5, p.12",
    "warn": "Further disassembly should only be performed by a certified gunsmith or Kel-Tec CNC Industries, Inc. Attempting further disassembly may void your warranty.",
+   "warnSrc": "maker",
    "branch": true
   }
  ],

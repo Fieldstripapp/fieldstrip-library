@@ -12,7 +12,8 @@
    "action": "If the hammer is back, decock it before anything else — thumb firmly on the hammer, squeeze the trigger only far enough to break it free, then release the trigger immediately and walk the hammer down. A thumb slipping here with the trigger held back is a discharge. Make a record of the serial number while you are handling it; Magnum Research asks for it on any return, and this manual's instructions apply only to the BFR, so knowing exactly which revolver you have matters.",
    "quote": "If the hammer is cocked, it must be decocked.",
    "cite": "Magnum Research BFR Instruction Manual — 0914 — Unloading or Ejecting Cartridge Cases, step 1, p.13",
-   "warn": "USE EXTREME CARE WHEN ATTEMPTING TO DECOCK THE REVOLVER AS THE THUMB SLIPPING DURING THIS PROCESS MAY RESULT IN AN ACCIDENTAL DISCHARGE IF THE TRIGGER IS HELD TO THE REAR."
+   "warn": "USE EXTREME CARE WHEN ATTEMPTING TO DECOCK THE REVOLVER AS THE THUMB SLIPPING DURING THIS PROCESS MAY RESULT IN AN ACCIDENTAL DISCHARGE IF THE TRIGGER IS HELD TO THE REAR.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
@@ -27,7 +28,8 @@
    "action": "Go round the cylinder once more with your eyes on each chamber mouth. This is the check that licenses everything after it, and the manual repeats it as its own numbered step for that reason.",
    "quote": "Re-Check all cylinder chambers to make sure they are empty.",
    "cite": "Magnum Research BFR Instruction Manual — 0914 — Unloading or Ejecting Cartridge Cases, step 4, p.13",
-   "warn": "NEVER ATTEMPT TO REMOVE OR REPLACE A LOADED CYLINDER."
+   "warn": "NEVER ATTEMPT TO REMOVE OR REPLACE A LOADED CYLINDER.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -50,6 +52,7 @@
    "quote": "Remove cylinder from loading gate side of frame.",
    "cite": "Magnum Research BFR Instruction Manual — 0914 — Cylinder Removal and Installation, step 4, p.14",
    "warn": "Never install or remove a loaded cylinder. A loaded cylinder can discharge if dropped or struck.",
+   "warnSrc": "maker",
    "branch": true
   }
  ],

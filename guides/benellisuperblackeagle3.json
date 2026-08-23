@@ -35,7 +35,8 @@
    "action": "Before a single part comes off, confirm all three: the chamber, the carrier and the magazine. Benelli repeats this instruction at the head of every operation in the book, and it names the carrier specifically because a shell can sit on it with the chamber clear.",
    "quote": "Before starting any operation on your shotgun, make sure that the chamber, carrier and the magazine are unloaded! (Carefully read the instructions on gun loading and unloading).",
    "cite": "SUPER BLACK EAGLE 3 — Warranty | Owner's Manual | Spare Parts — G0681501 - 01/2021 — Shotgun stripping (for cleaning and maintenance) — p.12",
-   "warn": "For safety reasons, check if by opening the bolt the shotgun is unloaded. Then close the bolt again."
+   "warn": "For safety reasons, check if by opening the bolt the shotgun is unloaded. Then close the bolt again.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -75,7 +76,8 @@
    "prose": "This is the step that bites people. The recoil spring is live behind the bolt and the carrier button is what releases it; a hand on the bolt is the whole safety measure.",
    "quote": "6) While holding the bolt assembly with one hand (fig. 5) so as to counter-balance the thrust of the recoil spring, push the carrier button (fig. 16) and ease the bolt forward until the recoil spring no longer pushes it forward (fig. 33).",
    "cite": "SUPER BLACK EAGLE 3 — Warranty | Owner's Manual | Spare Parts — G0681501 - 01/2021 — Stripping procedure — p.13",
-   "warn": "The recoil spring is under compression behind the bolt. Keep a hand on the bolt through this step."
+   "warn": "The recoil spring is under compression behind the bolt. Keep a hand on the bolt through this step.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -124,7 +126,8 @@
    "prose": "On an inertia gun a gummy locking-head stem is the classic cause of short-stroking, because the spring between head and body has to move freely for the action to work at all.",
    "quote": "3) the bolt assembly may also become clogged with the same residuals over mentioned and therefore must be periodically dismantled, cleaned and lubricated;",
    "cite": "SUPER BLACK EAGLE 3 — Warranty | Owner's Manual | Spare Parts — G0681501 - 01/2021 — Maintenance — p.11",
-   "warn": "The slanted surfaces on the locking head’s stem should not be visible when the bolt is correctly reassembled."
+   "warn": "The slanted surfaces on the locking head’s stem should not be visible when the bolt is correctly reassembled.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clean",
@@ -132,7 +135,8 @@
    "action": "Oil the parts exposed to the weather. Use Benelli oil on the receiver, bolt and barrel, and use products made for the job on the stock and fore-end — wood, technopolymer, camo and painted finishes are all damaged by solvent-bearing oils.",
    "quote": "4) to keep the gun in good order, oiling of the parts subject to atmospheric corrosion is recommended.",
    "cite": "SUPER BLACK EAGLE 3 — Warranty | Owner's Manual | Spare Parts — G0681501 - 01/2021 — Maintenance — p.11",
-   "warn": "Avoid that parts get in contact with oils containing solvents or chemical substances in general, which could alter or damage their surfaces."
+   "warn": "Avoid that parts get in contact with oils containing solvents or chemical substances in general, which could alter or damage their surfaces.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
@@ -142,7 +146,8 @@
    "aside": "NOTE: for maintenance of the choke and relative seat, carefully read the instructions in the “Internal choke” paragraph, page 20.",
    "quote": "Correct functioning of the shotgun is only guaranteed with cartridges of a maximum length of 58 mm (2” 3/4 - 70 mm chamber), 66 mm (3” - 76 mm chamber) or 78 mm (3” 1/2 - 89 mm chamber).",
    "cite": "SUPER BLACK EAGLE 3 — Warranty | Owner's Manual | Spare Parts — G0681501 - 01/2021 — Choice of ammunition — p.11",
-   "warn": "CAUTION: never use cartridges with a case longer than the chamber. Non-compliance to this rule would have serious consequences for both the shotgun and the shooter."
+   "warn": "CAUTION: never use cartridges with a case longer than the chamber. Non-compliance to this rule would have serious consequences for both the shotgun and the shooter.",
+   "warnSrc": "maker"
   }
  ],
  "deepAbsentReason": "The strip above IS Benelli's full published teardown for cleaning and maintenance — it already reaches the firing pin, the firing pin spring and the rotating locking head inside the bolt, which on most guides is deep-clean territory. Beyond it the manual documents only the trigger guard assembly's removal (Stripping procedure steps 13-14, printed p.14), and that page is set in two interleaved columns whose text cannot be quoted contiguously from the extraction this project verifies quotes against. Rather than paraphrase a procedure whose exact wording could not be reproduced, no deep branch is offered. Benelli's own framing is that this shotgun \"requires no special maintenance\" (Maintenance, p.11).",

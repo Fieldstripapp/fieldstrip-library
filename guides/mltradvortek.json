@@ -35,6 +35,7 @@
    "quote": "4. Remove Accelerator Breech Plug™ (#46) and inspect Barrel (#50) to be sure your rifle is unprimed, unloaded and free of obstruction. Note: If using Northwest Magnum model use the supplied wrench to remove the musket nipple and breech plug. Refer to the Additional Information on Breech plugs part of this section for specific instructions on this step.",
    "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Field Cleaning & Disassembly Procedure, Step #1 — p.40",
    "warn": "Which plug you have depends on your model. The standard rifle takes the one-piece Accelerator Breech Plug; the Northwest Magnum takes a two-piece musket-nipple plug removed with the supplied wrench. Identify yours before applying force.",
+   "warnSrc": "ours",
    "branch": true
   },
   {
@@ -79,7 +80,8 @@
    "action": "Clean the threads on the plug and inside the barrel, then lubricate the plug threads with breech plug grease before it goes back in.",
    "quote": "Regardless of which breech plug your rifle has you should remove the breech plug and clean the threads of both the breech plug and inside of the barrel. You must lubricate the thread of the breech plug with Traditions™ breech plug grease before you install it back into the barrel. This will help prevent the breech plug from getting stuck inside the barrel after shooting.",
    "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Additional Information on Breech Plugs — p.44",
-   "warn": "Traditions breech plug grease specifically. Reinstalling a dry plug is how it seizes in the barrel."
+   "warn": "Traditions breech plug grease specifically. Reinstalling a dry plug is how it seizes in the barrel.",
+   "warnSrc": "ours"
   }
  ],
  "deepSteps": [
@@ -89,7 +91,8 @@
    "action": "Use the 4mm Allen wrench as a punch and push the safety button from the left side across to the right.",
    "quote": "4. Locate Safety Button (#10). Using your 4mm Allen wrench as a punch slowly push Safety Button (#10) from left to right and remove it from the Butt Stock (#1). Only press this side of safety button to disassemble! CAUTION: Only disassemble the Safety Button from left side to the right. Removing the Safety button from the other direction can damage your Safety Button, Spring and/ or Butt Stock",
    "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly, Step #2 — p.42",
-   "warn": "Direction is not optional. Driving the safety button the wrong way damages the button, its spring, or the stock."
+   "warn": "Direction is not optional. Driving the safety button the wrong way damages the button, its spring, or the stock.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clean",
@@ -111,7 +114,8 @@
    "action": "Do not drift out the pins that hold the receiver together. Detailed disassembly ends with the striker assembly out.",
    "quote": "WARNING: DO NOT ATTEMPT TO DISASSEMBLE RECEIVER. THIS INCLUDES ANY PINS HOLDING THE RECEIVER TOGETHER. 10. Detailed disassembly is now complete.",
    "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly, Step #2 — p.42",
-   "warn": "The receiver pins are not a user-serviceable joint. This is where Traditions stops."
+   "warn": "The receiver pins are not a user-serviceable joint. This is where Traditions stops.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clean",
@@ -148,7 +152,8 @@
    "action": "The safety button goes back in from the opposite side to the one it came out of.",
    "quote": "7. Reinstall Safety Button (#10) from right to left. Only install safety button from this side! CAUTION: Only install the Safety Button from right to left side. Installing the Safety Button from the other direction can damage your Safety Button, Spring and/ or Butt Stock.",
    "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly, Step #4 — p.43",
-   "warn": "Out to the right, back in from the right. Reversing either direction damages the button, spring or stock."
+   "warn": "Out to the right, back in from the right. Reversing either direction damages the button, spring or stock.",
+   "warnSrc": "ours"
   }
  ],
  "cleaning": [

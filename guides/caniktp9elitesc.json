@@ -13,7 +13,8 @@
    "prose": "The release is side-reversible on this pistol, so check which side yours is set up for before you reach for it one-handed.",
    "quote": "While keeping the pistol pointed in a safe direction. hold the pistol with one hand, depress the magazine release button with your thumb and the magazine should fall into your free hand.",
    "cite": "Canik TP9 ELITE SC Owner's Manual — ABSENT — no revision, part or form code is printed anywhere in the document — Unloading the Pistol, printed p.15",
-   "warn": "The pistol will fire if the magazine is removed and the trigger is pulled with a cartridge in the chamber."
+   "warn": "The pistol will fire if the magazine is removed and the trigger is pulled with a cartridge in the chamber.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
@@ -31,7 +32,8 @@
    "prose": "This is a mandatory step, not a tidy-up: the takedown catches on this pistol will not release with the striker cocked, and the manual repeats the instruction word for word at the top of the field strip.",
    "quote": "Allow the slide to go forward on the empty chamber. Pull the trigger to lower the striker.",
    "cite": "Canik TP9 ELITE SC Owner's Manual — ABSENT — no revision, part or form code is printed anywhere in the document — Unloading the Pistol, printed p.15",
-   "warn": "Confirm the chamber is empty before the trigger is touched. There is no manual safety on this pistol."
+   "warn": "Confirm the chamber is empty before the trigger is touched. There is no manual safety on this pistol.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -89,7 +91,8 @@
    "prose": "The Elite SC's fire control, striker channel and firing pin block all stay in the frame and the slide. Everything the cleaning section asks for is reachable from here.",
    "quote": "Your TP9 ELITE SC pistol is disassembled/assembled beyond the instructions in the manual,",
    "cite": "Canik TP9 ELITE SC Owner's Manual — ABSENT — no revision, part or form code is printed anywhere in the document — Limitations of Warranty, printed p.23",
-   "warn": "Altering or modifying parts and/or internal safeties is dangerous and will void the warranty."
+   "warn": "Altering or modifying parts and/or internal safeties is dangerous and will void the warranty.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
@@ -134,7 +137,8 @@
    "prose": "Canik states the consequence plainly: oil or grease even partially obstructing the bore can damage the firearm and injure the shooter.",
    "quote": "Wipe outer surface with a soft cloth dipped in good quality gun oil.",
    "cite": "Canik TP9 ELITE SC Owner's Manual — ABSENT — no revision, part or form code is printed anywhere in the document — Cleaning and Maintenance, printed p.21",
-   "warn": "Firing a firearm with oil, grease or any other material even partially obstructing the bore may result in damage to the firearm and injury to the shooter and those nearby."
+   "warn": "Firing a firearm with oil, grease or any other material even partially obstructing the bore may result in damage to the firearm and injury to the shooter and those nearby.",
+   "warnSrc": "maker"
   }
  ],
  "deepAbsentReason": "Canik publishes NO deeper procedure for the TP9 Elite SC, so this listing has no Deep Clean — the manufacturer's answer, not a gap in ours. Measured across the whole 28-page book, OCR'd end to end: the disassembly chain is Field Stripping (printed p.16) then Disassembly (printed p.17), and it stops with the recoil spring and the barrel out of the slide. The only other procedures in the book are REMOVAL OF OPTIC SIGHT LID (printed p.19) and INSTALLING THE OPTIC SIGHTS (printed p.20), which are optic-mounting jobs rather than cleaning, and both of them route back to the same field strip. Canik bounds it explicitly in the warranty: the warranty is void if \"Your TP9 ELITE SC pistol is disassembled/assembled beyond the instructions in the manual\" (printed p.23), and the alterations warning adds \"Always have a qualified gunsmith work on your gun or at least check any work not performed by a gunsmith\" (printed p.22). Basic clean covers routine care; anything deeper is gunsmith territory by the maker's own instruction.",

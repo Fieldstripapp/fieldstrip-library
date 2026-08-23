@@ -13,7 +13,8 @@
    "prose": "That is a design feature on this pistol, not an omission. Ruger prints a whole procedure for loading and firing it without a magazine at all.",
    "quote": "Remove the magazine from the pistol by pushing in on the magazine latch.",
    "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — TO UNLOAD, step 2, printed p.16",
-   "warn": "Removing magazine does not unload pistol! FIREARM WILL FIRE WITH MAGAZINE OUT."
+   "warn": "Removing magazine does not unload pistol! FIREARM WILL FIRE WITH MAGAZINE OUT.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
@@ -22,7 +23,8 @@
    "prose": "Briskly matters on this little pistol. Hand-cycled slowly, a round can be lifted out and dropped straight back into the magazine well, or held on the breech face by the extractor.",
    "quote": "Hold the pistol firmly and grasp the slide. Retract the slide to its rearmost position briskly to extract and eject any chambered cartridge.",
    "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — TO UNLOAD, step 3, printed p.16",
-   "warn": "This sequence must be followed exactly as outlined. Failure to do so can result in the chamber being unintentionally loaded with a live cartridge!"
+   "warn": "This sequence must be followed exactly as outlined. Failure to do so can result in the chamber being unintentionally loaded with a live cartridge!",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
@@ -101,6 +103,7 @@
    "quote": "Alterations to the pistol or use of non-Ruger magazines and accessories may cause malfunctions.",
    "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — TO MINIMIZE MALFUNCTIONS, printed p.19",
    "warn": "Seven-round extended LCP@ magazines are NOT compatible with the LCP@ II.",
+   "warnSrc": "maker",
    "branch": true
   },
   {
@@ -137,7 +140,8 @@
    "aside": "Before firing, remove all oil and grease from the bore.",
    "quote": "Only a light application of oil is needed to provide adequate lubrication of moving parts and to prevent rust.",
    "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — CARE AND CLEANING, step 4 NOTE, printed p.25",
-   "warn": "Firing a pistol with oil, grease, or any other material even partially obstructing the bore may result in damage to the pistol and serious injury."
+   "warn": "Firing a pistol with oil, grease, or any other material even partially obstructing the bore may result in damage to the pistol and serious injury.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clean",
@@ -164,7 +168,8 @@
    "prose": "Thumb over the plate as it moves. There is a compressed spring behind it and it will leave at speed if it gets the chance.",
    "quote": "Use a punch to press in on the magazine spring seat where it protrudes into the hole in the magazine floorplate.",
    "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — MAGAZINE INSPECTION AND CARE, printed p.24",
-   "warn": "Be careful to prevent the forcible ejection of the magazine spring seat and compressed magazine spring."
+   "warn": "Be careful to prevent the forcible ejection of the magazine spring seat and compressed magazine spring.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -189,7 +194,8 @@
    "prose": "A magazine that has lost tension will not announce itself. It will simply fail to feed, once, at the worst possible moment.",
    "quote": "Improper reassembly of the magazine can cause failure to feed, which is a potentially dangerous malfunction.",
    "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — MAGAZINE INSPECTION AND CARE, printed p.24",
-   "warn": "Use only GENUINE RUGER@ FACTORY magazines designated for your firearm."
+   "warn": "Use only GENUINE RUGER@ FACTORY magazines designated for your firearm.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
@@ -198,7 +204,8 @@
    "prose": "Standard-pressure factory ammunition loaded to U.S. Industry Standards, including hollow points in brass or aluminium cases, is what the book says the pistol is compatible with.",
    "quote": "Do not attempt to load any other cartridges into the magazine or chamber of the pistol.",
    "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — AMMUNITION, printed p.12",
-   "warn": "Do not use \"+P\" ammunition."
+   "warn": "Do not use \"+P\" ammunition.",
+   "warnSrc": "maker"
   }
  ],
  "cleaning": [

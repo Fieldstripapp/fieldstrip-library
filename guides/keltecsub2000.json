@@ -13,7 +13,8 @@
    "prose": "This is the single most important check on this gun and it takes five seconds. Kel-Tec redesigned the SUB2000 substantially for the second generation — the stock, the buffer, the sights and the takedown all changed — and the manual states outright that it will not apply to a first generation weapon. The serial number location is the tell, and it is unambiguous: receiver tube for gen 2, left grip for gen 1. If yours is on the grip, stop here and get the first generation manual from Kel-Tec; nothing below is written for your rifle.",
    "quote": "This manual is for the second generation SUB2000 weapon (serial number on receiver tube). If you have a first generation weapon (serial number on the left grip), this manual will not apply.",
    "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — B. Overview — Description, p.5",
-   "warn": "First generation SUB2000 (serial number on the left grip): do not follow this procedure. Kel-Tec supplies the first generation manual free on request."
+   "warn": "First generation SUB2000 (serial number on the left grip): do not follow this procedure. Kel-Tec supplies the first generation manual free on request.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
@@ -39,7 +40,8 @@
    "prose": "Four conditions, and they are all load-bearing. Barrel forward, because the buffer cannot be pressed with the rifle folded. Bolt forward, because the strip works against a closed bolt. Hammer cocked, because a dropped hammer with the bolt out puts the rifle out of action. Safety engaged, and on this rifle that means pushed until the red o-ring is visible on the fire side is hidden — check it rather than assuming it. Wear eye protection from here: the buffer is on a compressed recoil spring.",
    "quote": "Rotate the barrel assembly into the forward position (if the barrel assembly was folded) and make sure the SUB2000 rifle is unloaded. Make sure the bolt assembly is in the forward (closed) position, hammer is cocked and push-bolt safety is engaged.",
    "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — D. Field Strip, p.15",
-   "warn": "Always wear safety glasses when disassembling the SUB2000 to protect your eyes from components that are under pressure, such as springs."
+   "warn": "Always wear safety glasses when disassembling the SUB2000 to protect your eyes from components that are under pressure, such as springs.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -48,7 +50,8 @@
    "prose": "The stock pin is held captive by the buffer assembly, so it will not come out with the buffer at rest and it will not come out with the buffer pressed hard forward either — it comes out in the small window between. Press in until it stops on the pin, then ease back a fraction. That is the feel: pressure on, hard stop, tiny release. Keep a hand on the buffer throughout, because the recoil spring is behind it and the pin is the only thing containing it.",
    "quote": "Press the buffer assembly in, towards the front of the weapon.",
    "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — D. Field Strip, p.15",
-   "warn": "The stock pin is NOT held captive in the stock once it is removed. DO NOT LOSE THE STOCK PIN."
+   "warn": "The stock pin is NOT held captive in the stock once it is removed. DO NOT LOSE THE STOCK PIN.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -57,7 +60,8 @@
    "prose": "The moment the pin clears, the recoil spring has nothing holding it but your hand — keep positive contact on the buffer and walk it out rather than letting it launch. The stock pin is the part this strip loses: it is not retained once it is out, it is small, and it is the part the rifle cannot be reassembled without. It also sets the stock position, so note which of the three alignment holes it came out of if you want the same length of pull back.",
    "quote": "With a cartridge or other pointed object, press the stock pin from either side until the stock pin is removed.",
    "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — D. Field Strip, p.15",
-   "warn": "The buffer assembly is under tension from the recoil spring. Keep positive contact with the buffer assembly while the stock pin is removed as parts may fly loose."
+   "warn": "The buffer assembly is under tension from the recoil spring. Keep positive contact with the buffer assembly while the stock pin is removed as parts may fly loose.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -75,6 +79,7 @@
    "quote": "We strongly discourage unscrewing the collar or barrel. These parts are assembled with special tools and compounds and may cause damage if removed improperly.",
    "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — D. Field Strip, closing notes, p.16",
    "warn": "Do not release the hammer with the bolt assembly removed. This will make the SUB2000 rifle inoperable.",
+   "warnSrc": "maker",
    "branch": true
   }
  ],

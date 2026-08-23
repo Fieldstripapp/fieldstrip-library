@@ -13,7 +13,8 @@
    "prose": "Lever down first, magazine second. On a traditional double-action S&W the decocking lever is what takes the hammer out of the equation before anything else moves.",
    "quote": "rotate the decocking lever fully down into the \"safe\" position",
    "cite": "Smith & Wesson Metal Frame Autos Safety & Instruction Manual — 10-01-15 — INSPECTING YOUR PISTOL, p.13",
-   "warn": "ALWAYS ENSURE THAT THE FIREARM IS UNLOADED BEFORE INSPECTING, DISASSEMBLING OR ASSEMBLING."
+   "warn": "ALWAYS ENSURE THAT THE FIREARM IS UNLOADED BEFORE INSPECTING, DISASSEMBLING OR ASSEMBLING.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
@@ -56,7 +57,8 @@
    "prose": "S&W restates the clearing at the head of the field-strip section rather than assuming you did it. Do it again anyway.",
    "quote": "Remove the magazine by depressing the magazine release button. Lock the slide open and verify that the chamber is empty.",
    "cite": "Smith & Wesson Metal Frame Autos Safety & Instruction Manual — 10-01-15 — FIELD STRIPPING / DISASSEMBLY, p.26",
-   "warn": "WEAR SAFETY GLASSES EVERY TIME YOU ASSEMBLE OR DISASSEMBLE YOUR FIREARM."
+   "warn": "WEAR SAFETY GLASSES EVERY TIME YOU ASSEMBLE OR DISASSEMBLE YOUR FIREARM.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -89,7 +91,8 @@
    "prose": "One hand holds both, because the spring assembly is what wants to leave first. Let go of it and it goes across the room.",
    "quote": "Pull the slide forward off the frame while grasping the recoil spring assembly and slide together as shown in FIGURE 15.",
    "cite": "Smith & Wesson Metal Frame Autos Safety & Instruction Manual — 10-01-15 — FIELD STRIPPING / DISASSEMBLY, p.27",
-   "warn": "THE RECOIL SPRING IS UNDER PRESSURE. YOU MUST CONTROL THE SPRING AND PLUNGER TO PREVENT IT FROM FLYING OUT AND CAUSING INJURY."
+   "warn": "THE RECOIL SPRING IS UNDER PRESSURE. YOU MUST CONTROL THE SPRING AND PLUNGER TO PREVENT IT FROM FLYING OUT AND CAUSING INJURY.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -107,7 +110,8 @@
    "prose": "The prohibition is stated twice in two different sections, which is the manufacturer being emphatic rather than repetitive.",
    "quote": "FIGURE 17 shows the parts you will have after field stripping",
    "cite": "Smith & Wesson Metal Frame Autos Safety & Instruction Manual — 10-01-15 — FIELD STRIPPING / DISASSEMBLY, p.27",
-   "warn": "NEVER DISASSEMBLE YOUR HANDGUN BEYOND THE FIELD STRIPPING PROCESS OUTLINED IN THIS MANUAL."
+   "warn": "NEVER DISASSEMBLE YOUR HANDGUN BEYOND THE FIELD STRIPPING PROCESS OUTLINED IN THIS MANUAL.",
+   "warnSrc": "maker"
   }
  ],
  "deepAbsentReason": "Smith & Wesson bounds this book twice: \"NEVER DISASSEMBLE YOUR HANDGUN BEYOND THE FIELD STRIPPING PROCESS OUTLINED IN THIS MANUAL\" (p.27) and \"Never disassemble your firearm beyond the instructions in the Field Stripping and Inspection sections of this manual\" (p.31). The only further procedure the book publishes is MAGAZINE disassembly (p.30), which is a magazine job and is carried in the cleaning list below. So this listing has NO deep clean — the manual documents no procedure past the field strip.",

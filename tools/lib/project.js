@@ -46,6 +46,16 @@ const SPEC_INTERNAL = new Set([
 const STEP_EMITTED = new Set([
   'phase', 'title', 'action', 'prose', 'caution', 'aside',
   'quote', 'quoteLang', 'quoteEnglish', 'section', 'warn', 'branch',
+  /* ⛔ warnSrc — WHOSE SENTENCE THE WARNING IS (Darren ruling, vC34 item 17).
+     714 of the app's 1,637 warn values were measured to be the manufacturer's
+     own words, verbatim in the book the row cites, and every one of them was
+     rendering as unattributed prose. The app now draws a maker's warning in
+     quotation marks and ours plain — no label, no badge. This shelf publishes
+     the SAME guides to the same owners, so excluding the flag here would
+     re-create the defect on a public page: a reader unsure whose sentence he is
+     reading. The flag is decided upstream against the repository's own verbatim
+     oracle, never here. */
+  'warnSrc',
 ]);
 
 const STEP_INTERNAL = new Set([
@@ -90,6 +100,8 @@ function projectStep(spec, st, unknown, where) {
   /* no quote -> no cite. citeFor() on a tier (c) row yields "undefined — undefined". */
 
   if (st.warn)   out.warn = st.warn;
+  /* only ever alongside a warn, and only the two values the sweep writes */
+  if (st.warn && (st.warnSrc === 'maker' || st.warnSrc === 'ours')) out.warnSrc = st.warnSrc;
   if (st.branch) out.branch = true;
   return out;
 }

@@ -13,7 +13,8 @@
    "prose": "This is a can built for people who carry a rifle for a living. It goes on and off in circumstances where the habit matters more than the checklist.",
    "quote": "If you are at all unsure as to the proper procedures to ensure that your firearm is unloaded, please consult your firearm user’s manual/instructions and/or contact a properly licensed dealer or the manufacturer of your firearm.",
    "cite": "BANISH SPEED K — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
-   "warn": "The host firearm's manual is the clearing authority."
+   "warn": "The host firearm's manual is the clearing authority.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
@@ -22,7 +23,8 @@
    "prose": "A 2 inch diameter can that is only 4 inches long has very little room inside it. The narrow rating is the design, not a limitation of the paperwork.",
    "quote": "The BANISH® Speed K is a 5.56 caliber silencer with clipped-wall baffles and a finned blast chamber that ensures maximum sound reduction while maintaining optimal performance.",
    "cite": "BANISH SPEED K — OWNER'S MANUAL — NOT PRINTED — SPECS, p.3",
-   "warn": ".223/5.56 and nothing else."
+   "warn": ".223/5.56 and nothing else.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
@@ -32,7 +34,8 @@
    "aside": "'bre removed' is the publisher's typo, quoted as printed.",
    "quote": "The BANISH Speed K is not user-serviceable, it is a solid 3D printed construction and the baffles cannot be removed. The only part that can bre removed for cleaning is the mount interface.",
    "cite": "BANISH SPEED K — OWNER'S MANUAL — NOT PRINTED — CLEANING, p.6",
-   "warn": "Sealed can. Do not attempt to open it."
+   "warn": "Sealed can. Do not attempt to open it.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -41,7 +44,8 @@
    "prose": "A HUB can is only as square as its mount, and this mount is doing the whole job on its own.",
    "quote": "Check the fit between your barrel and silencer before firing! The thread mount must be fully shouldered on the barrel.",
    "cite": "BANISH SPEED K — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
-   "warn": "If there is any gap DO NOT fire the host with the silencer attached."
+   "warn": "If there is any gap DO NOT fire the host with the silencer attached.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -50,7 +54,8 @@
    "prose": "Inconel was chosen partly for lower heat retention, but lower is not low. A 2 inch diameter body has a lot of surface right where your hand goes.",
    "quote": "When removing the silencer, use extreme caution as it may be hot to the touch after firing.",
    "cite": "BANISH SPEED K — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
-   "warn": "Cover or gloves after any sustained string."
+   "warn": "Cover or gloves after any sustained string.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -86,6 +91,7 @@
    "quote": "Silencers must be free of obstructions such as mud, dirt, etc. DO NOT attempt to shoot through an obstructed silencer.",
    "cite": "BANISH SPEED K — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
    "warn": "You cannot inspect the inside of this can by taking it apart. Sight through it.",
+   "warnSrc": "ours",
    "branch": true
   }
  ],
@@ -105,7 +111,8 @@
    "prose": "That rules out a lot of aggressive carbon removers and most paint-stripping degreasers. Read the solvent's label, not just the gun-cleaning aisle it came from.",
    "quote": "Ensure not to use solutions that will strip the Cerakote coating from the silencer.",
    "cite": "BANISH SPEED K — OWNER'S MANUAL — NOT PRINTED — CLEANING, p.6",
-   "warn": "Cerakote-safe solutions only."
+   "warn": "Cerakote-safe solutions only.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clean",
@@ -122,7 +129,8 @@
    "prose": "That last part is unusual and it is deliberate. On a can you cannot open, the pressure IS the final cleaning step.",
    "quote": "Once clean, allow the silencer to dry. Re-install the mount and you are ready to shoot again. Shoot 10 - 15 rounds through the silencer. The high pressure will shoot out any loose debris and buildup that was loosened during cleaning.",
    "cite": "BANISH SPEED K — OWNER'S MANUAL — NOT PRINTED — CLEANING, p.6",
-   "warn": "Fully dry before firing. A can with solvent still in it is obstructed."
+   "warn": "Fully dry before firing. A can with solvent still in it is obstructed.",
+   "warnSrc": "ours"
   }
  ],
  "cleaning": [

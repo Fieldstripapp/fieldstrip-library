@@ -21,7 +21,8 @@
    "prose": "The safety blocks the trigger only. The magazine and chamber are still whatever they were.",
    "quote": "To move the “safety” to the on safe position, slide the “safety” rearward with your thumb so that the red warning dot is covered (Figure 3).",
    "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Operation of the \"Safety\"",
-   "warn": "Red dot covered = safe. And never trust the paint alone."
+   "warn": "Red dot covered = safe. And never trust the paint alone.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
@@ -30,7 +31,8 @@
    "prose": "This is the procedure that makes BPS owners at the range look like they know something — because unloading by cycling puts every live shell through the action for no reason.",
    "quote": "Push inward on the shell stop with your index finger (Figure 11) to release a shell from the magazine. As the shell stop is pressed in, the shell will be forced out of the magazine under spring pressure. Capture the shell as it comes out. Be careful not to pinch your finger.",
    "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Unloading",
-   "warn": "Shells leave under spring pressure. Capture each one and keep the finger clear of the stop."
+   "warn": "Shells leave under spring pressure. Capture each one and keep the finger clear of the stop.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
@@ -39,7 +41,8 @@
    "prose": "Right-handed shooters reach the release under the rear of the trigger guard from the far side; left-handers lift it with the trigger finger. The button moves up and slightly rearward.",
    "quote": "Using your index finger, feel the entry of the magazine to make sure there are no shells that have not been fed from the magazine and ejected. Visually inspect the chamber, feed mechanism and magazine to assure there are no shells remaining.",
    "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Unloading",
-   "warn": "Feel the magazine mouth AND look. A shell that never fed is invisible from the ejection port."
+   "warn": "Feel the magazine mouth AND look. A shell that never fed is invisible from the ejection port.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
@@ -48,7 +51,8 @@
    "prose": "A 3-inch-chambered BPS shoots 2¾ and 3-inch field loads; the 3½-inch gun shoots all three lengths. The barrel inscription, not the box in your bag, is the authority.",
    "quote": "The most certain way to bulge or rupture a shotgun barrel is to load a smaller gauge shell into a larger gauge chamber. The smaller gauge shell will not fall completely through the barrel; its rim is caught by the front of a larger gauge chamber or at the larger gauge’s choke. Your shotgun will misfire (with the chamber appearing to be empty).",
    "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Ammunition",
-   "warn": "Never a smaller-gauge shell in a larger-gauge gun, and never a shell longer than the chamber."
+   "warn": "Never a smaller-gauge shell in a larger-gauge gun, and never a shell longer than the chamber.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -57,7 +61,8 @@
    "prose": "Set the cap, and on a Deer gun the washer and ring, in the tray in removal order — the ring and washer have a stacking order and a bevel orientation that matter at reassembly.",
    "quote": "IMPORTANT: On BPS Deer models it is necessary to first remove the barrel stabilizing lock washer and split ring before removing the barrel (Figure 8).",
    "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Disassembly",
-   "warn": "Deer models: lock washer and split ring off the magazine tube BEFORE the barrel."
+   "warn": "Deer models: lock washer and split ring off the magazine tube BEFORE the barrel.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -84,7 +89,8 @@
    "prose": "Constriction reads twice on each tube — on the side, and as the notch code on the rim so you can read it installed. Rim notches are the lead-shot designations; steel cross-references through the manual's chart.",
    "quote": "CAUTION: BROWNING INVECTOR-DS, INVECTOR-PLUS AND STANDARD INVECTOR CHOKE TUBES ARE NOT INTERCHANGEABLE. DO NOT USE BROWNING INVECTOR-PLUS, STANDARD INVECTOR OR INVECTOR-DS CHOKE TUBES IN ANY SHOTGUN BARREL NOT SUPPLIED BY BROWNING. DO NOT USE ANY OTHER CHOKING DEVICE IN ANY SHOTGUN BARREL SUPPLIED BY BROWNING.",
    "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Unloading > choke tube warnings (procedure: CHOKE TUBE REMOVAL / INSTALLATION)",
-   "warn": "Choke work only on a verified-empty gun, and periodically re-check the tube is tight and seated."
+   "warn": "Choke work only on a verified-empty gun, and periodically re-check the tube is tight and seated.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clean",
@@ -119,7 +125,8 @@
    "prose": "The 'looks similar' warning exists because pump-gun barrels from different makers genuinely do look interchangeable right up until headspace says otherwise.",
    "quote": "Never use a barrel from any other Browning shotgun.",
    "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Extra Barrels (scope screws: Installing A Scope or Optics)",
-   "warn": "Wrong-chamber, other-maker and other-model barrels are all barred. No exceptions for good fit."
+   "warn": "Wrong-chamber, other-maker and other-model barrels are all barred. No exceptions for good fit.",
+   "warnSrc": "ours"
   }
  ],
  "deepAbsentReason": "The BPS Owner's Manual publishes exactly one level of disassembly — removing the magazine cap and sliding the barrel forward out of the receiver (with the Deer models' stabilizing lock washer and split ring coming off the magazine tube first) — and closes that section with the sentence 'No further disassembly is recommended.' There is no published removal of the trigger group, breech block, action bars, shell stops or magazine internals; the three-shot adaptor procedure reaches only the plug lying on top of the magazine spring retainer. The closing notice bars taking the firearm apart further than the manual explains and routes deeper service to a qualified gunsmith or the Arnold, Missouri service facility. There is therefore no deep-clean branch to author, and none has been invented.",

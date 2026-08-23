@@ -13,7 +13,8 @@
    "prose": "Half-cock is the working position on a Single Action Army — it is what frees the cylinder for loading, unloading and everything below.",
    "quote": "Draw hammer back to Half-Cock position.",
    "cite": "Colt Single Action Army Revolver / Sheriff's and Storekeeper's Model Revolvers / New Frontier Single Action Army Revolver — Safety and Instruction Manual — ABSENT — no form or part code printed anywhere the OCR can read — UNLOADING — To Unload Revolvers With Ejector Rods, step 2, p.24",
-   "warn": "Always keep the muzzle pointing in a safe direction, well clear of your body, particularly when unloading."
+   "warn": "Always keep the muzzle pointing in a safe direction, well clear of your body, particularly when unloading.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
@@ -39,7 +40,8 @@
    "prose": "Colt repeats this as its own numbered step at the head of the stripping section, which tells you how it expects the check to be treated.",
    "quote": "Rotate cylinder and ensure all six chambers are empty.",
    "cite": "Colt Single Action Army Revolver / Sheriff's and Storekeeper's Model Revolvers / New Frontier Single Action Army Revolver — Safety and Instruction Manual — ABSENT — no form or part code printed anywhere the OCR can read — STRIPPING FOR CLEANING, step 4, p.32",
-   "warn": "ENSURE THAT THE REVOLVER IS NOT LOADED BEFORE STRIPPING AND CLEANING."
+   "warn": "ENSURE THAT THE REVOLVER IS NOT LOADED BEFORE STRIPPING AND CLEANING.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -82,7 +84,8 @@
    "prose": "It is a short list, and it is the whole list. The lockwork behind the side plate is not owner-serviceable by the manufacturer's own instruction.",
    "quote": "ALWAYS LET A QUALIFIED GUNSMITH WORK ON YOUR GUN",
    "cite": "Colt Single Action Army Revolver / Sheriff's and Storekeeper's Model Revolvers / New Frontier Single Action Army Revolver — Safety and Instruction Manual — ABSENT — no form or part code printed anywhere the OCR can read — SERVICING AND REPAIR, p.37",
-   "warn": "A collector's revolver should not be stripped for cleaning at all — Colt says it should only be wiped gently on the outside with a very soft dust-free cloth."
+   "warn": "A collector's revolver should not be stripped for cleaning at all — Colt says it should only be wiped gently on the outside with a very soft dust-free cloth.",
+   "warnSrc": "ours"
   }
  ],
  "deepAbsentReason": "Colt bounds this book inside its own stripping section: the IMPORTANT note on p.33 tells the owner not to strip the revolver further than removing the cylinder, and directs any additional maintenance to \"Servicing and Repair\", which in turn says to let a qualified gunsmith work on the gun. (That IMPORTANT sentence is quoted here in paraphrase rather than verbatim because the OCR of this scan breaks the word \"cylinder\" across a line as \"cye tinder\" — the sentence is legible, but it cannot be quoted verbatim without transcribing the OCR's error.) The manual publishes no procedure past cylinder removal, so this listing has NO deep clean.",

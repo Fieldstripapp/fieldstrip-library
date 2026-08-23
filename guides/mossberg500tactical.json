@@ -38,7 +38,8 @@
    "prose": "Three separate locations is not padding. A shell can sit on the elevator with the chamber empty and the tube apparently empty, and the next stroke of the forearm chambers it.",
    "quote": "Depress the action lock lever and pull the forearm completely rearward. Visually and physically inspect chamber, elevator and magazine tube to be certain the shotgun is completely unloaded.",
    "cite": "OWNERS MANUAL FOR 500®, 505™, 510™, 535™, 590® AND 835® PUMP ACTION SHOTGUNS — Part No. 12173 (English), typeset 3/5/18 — UNLOADING — p.11",
-   "warn": "Leave the action open and the safety fully rearward in the ON (SAFE) position before going any further."
+   "warn": "Leave the action open and the safety fully rearward in the ON (SAFE) position before going any further.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -89,7 +90,8 @@
    "action": "Draw the barrel forward out of the receiver while rocking it gently back and forth. Do not lever it; the barrel extension is a close fit in the top of the receiver and a rotational wiggle is what releases it.",
    "quote": "Remove the barrel from the receiver with a gentle back-and-forth rotational movement while pulling the barrel out of the receiver assembly.",
    "cite": "OWNERS MANUAL FOR 500®, 505™, 510™, 535™, 590® AND 835® PUMP ACTION SHOTGUNS — Part No. 12173 (English), typeset 3/5/18 — DISASSEMBLY — p.12",
-   "warn": "Never close the action or pull the trigger while the barrel is removed as damage could result to the firearm."
+   "warn": "Never close the action or pull the trigger while the barrel is removed as damage could result to the firearm.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -99,7 +101,8 @@
    "caution": "The trigger housing assembly is a complex assembly and must not be disassembled. Disassembly should only be performed at an authorized Product Service Center or by a qualified gunsmith.",
    "quote": "With a punch (no greater than 3/16” [4.76 mm] diameter), push out the small diameter trigger housing retainer pin located on the side of the receiver, approximately a 1/2” (12.7 mm) below the rear of the trigger guard (Fig. 11). Remove the trigger housing assembly by lifting the rear portion upward first.",
    "cite": "OWNERS MANUAL FOR 500®, 505™, 510™, 535™, 590® AND 835® PUMP ACTION SHOTGUNS — Part No. 12173 (English), typeset 3/5/18 — TRIGGER HOUSING ASSEMBLY REMOVAL — p.12",
-   "warn": "Do not pull the trigger and allow the hammer to fall when the trigger housing assembly is removed from the receiver. To do so may result in personal injury and/or damage to the assembly."
+   "warn": "Do not pull the trigger and allow the hammer to fall when the trigger housing assembly is removed from the receiver. To do so may result in personal injury and/or damage to the assembly.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -148,7 +151,8 @@
    "action": "Scrub the bore and the chamber with solvent, then run patches through until they come out clean. Finish with one lightly oiled patch to leave a protective film — and then make sure nothing is left behind in the bore.",
    "quote": "Scrub bore and chamber with solvent and follow with cleaning patches until barrel is clean. A final pass with a lightly oiled patch will provide a protective coating. A stiff brass bristle brush is useful for removing stubborn deposits.",
    "cite": "OWNERS MANUAL FOR 500®, 505™, 510™, 535™, 590® AND 835® PUMP ACTION SHOTGUNS — Part No. 12173 (English), typeset 3/5/18 — BARREL CLEANING — p.15",
-   "warn": "Be sure not to leave cleaning patches or excessive oil or grease in the bore as they can create dangerous obstructions."
+   "warn": "Be sure not to leave cleaning patches or excessive oil or grease in the bore as they can create dangerous obstructions.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
@@ -171,7 +175,8 @@
    "action": "Brush the loose residue off the trigger housing with a SOFT bristle brush and leave it at that. It is not to be taken apart, and a wire brush will strip its finish.",
    "quote": "Brush loose residue from trigger housing with a soft bristle brush. Never use a brush with metal bristles, as this could remove the protective coating on the trigger housing.",
    "cite": "OWNERS MANUAL FOR 500®, 505™, 510™, 535™, 590® AND 835® PUMP ACTION SHOTGUNS — Part No. 12173 (English), typeset 3/5/18 — TRIGGER HOUSING CLEANING — p.15",
-   "warn": "Never pull the trigger while the trigger housing is removed from the receiver, as damage to the trigger housing and/or personal injury may result."
+   "warn": "Never pull the trigger while the trigger housing is removed from the receiver, as damage to the trigger housing and/or personal injury may result.",
+   "warnSrc": "maker"
   }
  ],
  "deepAbsentReason": "Mossberg publishes no procedure deeper than this field strip for the 500 and forbids going further without a service centre: “Field disassembly is now complete! The shotgun should not be disassembled further for routine cleaning or maintenance. Further disassembly should only be performed by an Authorized Product Service Center or by a qualified gunsmith.” (DISASSEMBLY OF INTERNAL RECEIVER COMPONENTS, p.14). The trigger housing carries its own separate bar: “The trigger housing assembly is a complex assembly and must not be disassembled.” (p.12). A deep-clean branch here would have to be invented, so there is none.",

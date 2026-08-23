@@ -13,7 +13,8 @@
    "prose": "A magazine dropped onto concrete is a bent feed lip and a gun that stops working. Catch it.",
    "quote": "Place hand under magazine to prevent it from falling and press magazine catch to release and eject magazine.",
    "cite": "Colt MK IV/Series 80 and 90 Pistols Safety and Instruction Manual — MK IV/Series 80 and 90 Pistols — UNLOADING — To Unload, step 2, p.27",
-   "warn": "ALWAYS UNLOAD YOUR PISTOL IMMEDIATELY AFTER USE AND BEFORE CLEANING AND STORAGE to minimize the risk of accidental"
+   "warn": "ALWAYS UNLOAD YOUR PISTOL IMMEDIATELY AFTER USE AND BEFORE CLEANING AND STORAGE to minimize the risk of accidental",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
@@ -55,7 +56,8 @@
    "prose": "Colt restates the clearing at the head of its own stripping section rather than assuming you did it. Do it again anyway.",
    "quote": "Ensure magazine is removed and pistol is NOT loaded.",
    "cite": "Colt MK IV/Series 80 and 90 Pistols Safety and Instruction Manual — MK IV/Series 80 and 90 Pistols — STRIPPING FOR CLEANING, step 1, p.34",
-   "warn": "ENSURE THAT MAGAZINE IS REMOVED AND THE PISTOL IS NOT LOADED BEFORE STRIPPING AND CLEANING, so that pistol will not fire."
+   "warn": "ENSURE THAT MAGAZINE IS REMOVED AND THE PISTOL IS NOT LOADED BEFORE STRIPPING AND CLEANING, so that pistol will not fire.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -138,7 +140,8 @@
    "prose": "Anything past this line is a gunsmith's job by the manufacturer's own instruction, not a matter of confidence.",
    "quote": "Do not strip your pistol further than previously described. Do not remove or alter parts, particularly safety parts.",
    "cite": "Colt MK IV/Series 80 and 90 Pistols Safety and Instruction Manual — MK IV/Series 80 and 90 Pistols — STRIPPING FOR CLEANING — IMPORTANT, p.38",
-   "warn": "NEVER DRY FIRE THE PISTOL WHEN THE SLIDE IS REMOVED FROM THE RECEIVER, and do not after parts as the level of safety could be reduced."
+   "warn": "NEVER DRY FIRE THE PISTOL WHEN THE SLIDE IS REMOVED FROM THE RECEIVER, and do not after parts as the level of safety could be reduced.",
+   "warnSrc": "maker"
   }
  ],
  "deepAbsentReason": "Colt bounds this book on the last page of its stripping section: \"Do not strip your pistol further than previously described. Do not remove or alter parts, particularly safety parts.\" (p.38), and directs anything beyond it to \"Service and Repair\". The only further procedure the manual publishes is magazine disassembly (pp.48–50), which is a magazine job and is carried in the cleaning list below. So this listing has NO deep clean — the manual documents no procedure past the field strip, and inventing one is not an option.",

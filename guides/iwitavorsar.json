@@ -29,7 +29,8 @@
    "aside": "Pull back on the cocking handle and release, or depress the rear of the bolt carrier stop, to close the bolt for storage.",
    "quote": "Check visually that the barrel chamber is empty (“CLEAR”).",
    "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 10.1.1 Unloading and Safety Check, step 7, printed p.32 (PDF page 37)",
-   "warn": "You must not “think” the chamber is empty, you must KNOW it is empty, because if you are wrong, death or serious injury may result."
+   "warn": "You must not “think” the chamber is empty, you must KNOW it is empty, because if you are wrong, death or serious injury may result.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -38,7 +39,8 @@
    "caution": "Do not release the hammer when the sear mechanism is removed from the rifle. This will damage the housing.",
    "quote": "DO NOT PULL THE LOCKING PINS OUT COMPLETELY.",
    "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 14.1.3 Sear Mechanism, Removal, step 1, printed p.62 (PDF page 67)",
-   "warn": "Remove the sear mechanism (see pp. 62-63)."
+   "warn": "Remove the sear mechanism (see pp. 62-63).",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
@@ -47,7 +49,8 @@
    "aside": "DO NOT PULL THE PIN OUT COMPLETELY.",
    "quote": "Sear mechanism removed (see p. 62).",
    "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 14.1.4 Recoil Mechanism, Initial Setup, printed p.64 (PDF page 69)",
-   "warn": "The X95 manual has no such precondition on this step. Do not read across from an X95 guide, and do not read this one across to an X95."
+   "warn": "The X95 manual has no such precondition on this step. Do not read across from an X95 guide, and do not read this one across to an X95.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -56,7 +59,8 @@
    "aside": "all the way to the rear.",
    "quote": "The rear of the bar will protrude 5/16 of an inch through the back of the buffer.",
    "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 14.2.1.1 Gas-Operated Recoil mechanism, Disassembly, step 1, 5.56 NATO configuration, printed p.77 (PDF page 82)",
-   "warn": "The figure is configuration-specific. In 300 BLK configuration the same manual gives 1.43 inch, and there is no plastic-buffer pull in that branch. Use the number for the rifle in your hands."
+   "warn": "The figure is configuration-specific. In 300 BLK configuration the same manual gives 1.43 inch, and there is no plastic-buffer pull in that branch. Use the number for the rifle in your hands.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
@@ -81,6 +85,7 @@
    "quote": "armorers can result in damage to or destruction of",
    "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — STOP! / WARNING! preceding section 15 Exploded View Diagrams, printed p.93 (PDF page 98)",
    "warn": "After the installation of a new bolt the rifle must be checked for correct headspace with GO and NO-GO gauges before it is fired.",
+   "warnSrc": "ours",
    "branch": true
   }
  ],
