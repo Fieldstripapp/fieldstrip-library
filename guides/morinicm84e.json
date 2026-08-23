@@ -1,0 +1,87 @@
+{
+ "row": "morinicm84e",
+ "make": "Morini",
+ "model": "CM 84E",
+ "sourcedFrom": "Morini CM 84E Instruction Manual — Manual CM84E EN-DE-IT-FR (file title on morini.ch's downloads index) (UNDATED — Morini prints no edition code or year in this book)",
+ "sourceSha256": "015f38dd7198c9674ca1e5e9d525a38a489b0de55218b01067cbb79e111fd810",
+ "cleanIntro": "⛔ This pistol is NOT stripped for cleaning, and Morini says so in as many words. The CM 84E is an electronic-triggered .22 Short free pistol; the cleaning routine is done with it assembled, through the breech, with the electronics switched OFF and compressed air as the only tool anywhere near the trigger unit and the optical sensors. There is one movement worth learning — turning the pistol upside down before you use an air line, so the dust you shift goes away from the mechanism rather than into it.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Electronics OFF and the pistol unloaded, in that order",
+   "action": "Switch the electronic unit off before anything else, then confirm the pistol is unloaded. Morini puts the switch-off first because on this pistol the trigger is an optical sensor: a finger crossing the beam with the electronics live can release the shot, and the book warns about exactly that during loading.",
+   "quote": "Before cleaning procedure, the pistol must be switched off. The pistol must be unloaded for the cleaning process.",
+   "cite": "Morini CM 84E Instruction Manual — Manual CM84E EN-DE-IT-FR (file title on morini.ch's downloads index) — 5. CLEANING AND STORAGE THE PISTOL, printed p.7"
+  },
+  {
+   "phase": "Clear",
+   "title": "Cocking lever UP to extract, and turn the electronics off first if the round is live",
+   "action": "Pull the cocking lever up to its top position to extract the case. ⛔ If the cartridge has NOT been fired, switch the electronics off BEFORE you unload — Morini prints that instruction in capitals in the repetition paragraph, and it is the one sequence on this pistol where getting the order wrong has a live round in the chamber and a light-set optical trigger armed.",
+   "quote": "If the cartridge has not been fired, TURN OFF the electronic BEFORE unloading the pistol.",
+   "cite": "Morini CM 84E Instruction Manual — Manual CM84E EN-DE-IT-FR (file title on morini.ch's downloads index) — 2.3 Repetition, printed p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Breech open, rod in through the grip — no strip needed",
+   "action": "With the breech in the open (loading) position, the chamber and barrel are reached by passing the supplied cleaning rod through the opening in the GRIP, which lines up with the aperture in the breech block. That is the designed cleaning path on a free pistol with the action buried in the grip, and it is why no disassembly is called for.",
+   "aside": "When the breech is in the open (\"loading\") position, it is possible to clean the chamber and barrel by passing the cleaning rod provided through the opening in the grip coinciding with the aperture in the breech block",
+   "quote": "It is not necessary to dismantle the pistol for regular cleaning.",
+   "cite": "Morini CM 84E Instruction Manual — Manual CM84E EN-DE-IT-FR (file title on morini.ch's downloads index) — 5. CLEANING AND STORAGE THE PISTOL, printed p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Turn it upside down BEFORE the air line",
+   "action": "Rotate the pistol 180° so the grip base plate faces upward before you use an air cleaner. Blowing dust off a free pistol the right way up drives it straight into the trigger unit and the optical sensors; inverted, gravity takes it out. This is Morini's own instruction and it is the difference between cleaning the pistol and packing it with grit.",
+   "quote": "In order to avoid that the dirt or dust penetrates into the trigger unit and into the mechanism, it is recommended that the pistol is rotated 180°, with the grip base plate turned facing upwards, before using an air cleaner.",
+   "cite": "Morini CM 84E Instruction Manual — Manual CM84E EN-DE-IT-FR (file title on morini.ch's downloads index) — 5. CLEANING AND STORAGE THE PISTOL, printed p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Compressed air ONLY around the trigger and the sensors",
+   "action": "Dust collects around the trigger and the optical sensors and it comes off with a jet of compressed air — nothing else. No spray oil, no cleaning fluid, no solvent of any kind near the electronic mechanism. On an optical trigger, a film of oil on a sensor face is a misfire or a runaway, not a smear.",
+   "quote": "Clean these parts using a jet of compressed air only.",
+   "cite": "Morini CM 84E Instruction Manual — Manual CM84E EN-DE-IT-FR (file title on morini.ch's downloads index) — 5. CLEANING AND STORAGE THE PISTOL, printed p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Electronics out and the battery removed for storage",
+   "action": "After every session: switch off, remove the electronics from the pistol, clean it, and put it away empty in its case somewhere dry. Take the battery out of the electronics. A cell left in a match pistol over a close season is how you find a leaked cell against a circuit board that is not sold separately.",
+   "quote": "After every shooting session, turn-off and remove electronic from the pistol, unloaded, clean the pistol and keep it empty without cartridges in the protective safe case provided and store in a safe and not humid place. Remove battery from electronic.",
+   "cite": "Morini CM 84E Instruction Manual — Manual CM84E EN-DE-IT-FR (file title on morini.ch's downloads index) — 5. CLEANING AND STORAGE THE PISTOL, printed p.7"
+  }
+ ],
+ "deepAbsentReason": "Morini publishes NO owner disassembly of the CM 84E at all, and says so twice on the same page. First: \"It is not necessary to dismantle the pistol for regular cleaning\", followed by the through-the-grip cleaning path that exists precisely so the pistol does not have to come apart. Second, in capitals at the foot of the section: \"FURTHER DISMANTLING AND REPAIR SERVICES SHOULD ONLY BE UNDERTAKEN BY AN APPROVED GUNSMITH. SPARE PART NUMBERS ARE SHOWN ON THE EXPLODED DRAWINGS IN THIS HANDBOOK.\" The exploded drawings are there to order parts from, not to work from. ⛔ So the correct result for this pistol is that there is no deeper procedure to show, and none has been borrowed from a sibling Morini that does come apart — the CM 22M RF in this same catalog publishes a full strip, and it is a different gun with a different action.",
+ "cleaning": [
+  {
+   "name": "CHAMBER & BARREL",
+   "tasks": [
+    "Breech in the open (loading) position",
+    "Supplied rod in through the grip opening, which lines up with the breech-block aperture",
+    "⚠ No disassembly — Morini states none is necessary"
+   ]
+  },
+  {
+   "name": "⛔ TRIGGER UNIT & OPTICAL SENSORS",
+   "tasks": [
+    "Compressed air ONLY",
+    "Pistol inverted, grip base plate up, before the air line goes anywhere near it",
+    "No spray oil, no cleaning fluid, ever"
+   ]
+  },
+  {
+   "name": "ELECTRONICS & STORAGE",
+   "tasks": [
+    "Switched off, then removed from the pistol after every session",
+    "Battery out of the electronics",
+    "Stored empty, in the supplied case, dry"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Nothing was taken apart — the routine is done assembled.",
+  "Electronics refitted and the battery in, if they were removed for storage.",
+  "Switched on and the LED self-check watched: 3 red then 2 blue.",
+  "Breech closed on an empty chamber before the pistol leaves the bench."
+ ],
+ "fncheck": "Electronics back in and switched on, pistol unloaded and pointed safely: watch the LED self-check — three red blinks then two blue means the board is functioning, and the blink count after that is the battery level. ⛔ One blink means the trigger contacts are open, two means the solenoid is not working and three means the board is not working; any of those goes to Morini or the reseller, not to a screwdriver."
+}

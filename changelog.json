@@ -2,6 +2,44 @@
  "_doc": "One entry per published index version, newest first. `added` is the row ids whose guide first appeared at that version, so a client holding version N can ask for everything since N without a redesign.",
  "versions": [
   {
+   "version": 3,
+   "publishedAt": "2026-08-22",
+   "appCommit": "09847d51a6677b3ca81e1c929715313f87ecbee8",
+   "counts": {
+    "catalogRows": 906,
+    "guides": 656,
+    "plates": 54
+   },
+   "added": [
+    "deadairmaskhd",
+    "mlpedsxsflint",
+    "mlpedsxsperc",
+    "morinicm162ei",
+    "morinicm22m",
+    "morinicm84e",
+    "pardinihp",
+    "pardinik12",
+    "pardinispnew",
+    "pardinisprapidfire",
+    "ruggedalaskan360",
+    "silencercochimera300",
+    "silencercoharvester300",
+    "silencercoharvesterevo",
+    "silencercohybrid46",
+    "silencercohybrid46m",
+    "silencercoomega300",
+    "silencercoomega36m",
+    "silencercoomega9k",
+    "silencercosakerasr556",
+    "silencercoscytheti",
+    "silencercospectre9",
+    "silencercoveloslbp"
+   ],
+   "changed": [],
+   "removed": [],
+   "platesAdded": []
+  },
+  {
    "version": 2,
    "publishedAt": "2026-08-22",
    "appCommit": "d6d2c273dbd40500a8ea3ae844e27307ddd32754",

@@ -1,0 +1,189 @@
+{
+ "row": "ruggedalaskan360",
+ "make": "Rugged",
+ "model": "Alaskan360",
+ "sourcedFrom": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document (UNKNOWN — no copyright line is printed anywhere in the document)",
+ "sourceSha256": "76d73726becb2968e503edecaea81fd3405b00dda30f6fdcee84e63216d85bb9",
+ "cleanIntro": "The Alaskan360 is a sealed can on a universal 1.375x24 thread, and it ships in a configuration that CANNOT BE FIRED: the multi-tool is installed inside the suppressor and the front cap is not on. Rugged prints that in capitals across the page — tool removal and front cap installation is required before use — and it is the first thing to check on a can that has just come out of the box or back from a mount change. Beyond that it is a limited-service suppressor: Rugged states that its construction and exotic materials mean the maintenance is clean mounting threads and a clear bore, and publishes no way into the body. Note also that this book does NOT contain the muzzle device installation procedure; it sends you to Rugged's website for it. The Alaskan360 is a suppressor and not a firearm, so clearing the host is the host's own manual's job.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host, and never clean an Alaskan360 that is still on it",
+   "action": "Confirm the firearm is unloaded — magazine out, action open, chamber checked by eye and by finger — and take the can off before any solvent, brush or compressed air comes near it. Rugged states the second half as a death-risk warning: cleaning means gripping and twisting a tube locked to a muzzle with a chamber behind it. This manual describes no host firearm at all, so how yours clears is answered only by its own operator's manual.",
+   "prose": "Put the gun down clear and open where you can see it, and work the suppressor as a separate object on the bench.",
+   "quote": "Never attempt to clean a suppressor while it’s attached to a host weapon, as this could lead to personal injury or death.",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "warn": "Host confirmed clear and the can off it before any cleaning begins."
+  },
+  {
+   "phase": "Clear",
+   "title": "Protective equipment before any service work",
+   "action": "Put on eye protection and gloves before you start. Rugged makes this a stated requirement of service and maintenance rather than a suggestion, and on a big-bore can it earns its place: you are working with solvent, compressed air and a heavy steel body, and the residue you are dislodging is combustion fouling you do not want on your hands or in your eyes.",
+   "prose": "Do this work where there is real ventilation, not in a closed room.",
+   "quote": "Always wear proper protective equipment while performing service/maintenance. Failure to do so could result in personal injury or death.",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "warn": "Eye protection and gloves for service work."
+  },
+  {
+   "phase": "Clear",
+   "title": "AS SHIPPED IT CANNOT BE FIRED — remove the tool, install the front cap",
+   "action": "Look into the front of the Alaskan360 before it goes on a gun. It leaves the factory with the multi-tool installed inside the suppressor and no front cap fitted, and Rugged states in capitals that tool removal and front cap installation is required before use. Firing it as shipped means firing into a tool sitting in the bore. Take the tool out, thread the front cap on, and only then treat the can as a suppressor.",
+   "prose": "The same trap returns every time you use the multi-tool for a mount change — it goes back in the suppressor to be stored. Check the front cap again afterwards.",
+   "quote": "TOOL REMOVAL AND FRONT CAP INSTALLATION IS REQUIRED BEFORE USE",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — As Shipped Configuration, p.2",
+   "warn": "Never fire an Alaskan360 with the multi-tool still inside it or the front cap off."
+  },
+  {
+   "phase": "Clear",
+   "title": "The muzzle device installation procedure is NOT in this manual",
+   "action": "If you are fitting the muzzle device to the barrel, stop: this book does not carry that procedure. Under its own MUZZLE DEVICE INSTALLATION heading Rugged prints a single line sending you to the Rugged Suppressors website for the instructions. Do not substitute the procedure from another Rugged model's manual — mounting hardware differs between their lines and the Alaskan360 runs a universal thread with the Rugged Universal Mount rather than a fixed Dual Taper Lock device.",
+   "prose": "Get the current instructions from Rugged before you commit a device to a barrel with thread locker.",
+   "caution": "Muzzle device installation is published on Rugged's website, not in this manual.",
+   "quote": "SEE THE RUGGED SUPPRESSORS’ WEBSITE FOR INSTALLATION INSTRUCTIONS.",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Muzzle Device Installation, p.2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Host thread concentricity is the operator's problem",
+   "action": "Before an Alaskan360 goes on a firearm, satisfy yourself that the muzzle threads run true to the bore. Rugged calls this imperative and states the consequence plainly: concentric threads are what guarantee no misalignment between the bore and the suppressor. Threads cut off-axis point the can off-axis and nothing about the mount can correct it — the whole assembly simply hangs crooked in front of a bore it is supposed to be coaxial with.",
+   "prose": "A barrel threaded off its outside diameter rather than off the bore is the usual cause, and it is invisible without measuring.",
+   "quote": "It is imperative that the host weapon’s threads are concentric to the bore. This ensures there is no misalignment between the bore and the suppressor.",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Concentricity, p.1",
+   "warn": "Off-axis muzzle threads put the can off-axis. Have them checked if you are unsure."
+  },
+  {
+   "phase": "Clear",
+   "title": "Ammunition — the projectile-to-twist decision is yours",
+   "action": "Rugged asks for quality factory-loaded ammunition of the correct grain weight in an Alaskan360, and puts the projectile-to-barrel-twist match explicitly on the operator. A bullet too long for the barrel's twist leaves the muzzle unstable, and an unstable projectile entering a can's bore is how a strike happens even on a perfectly mounted suppressor. Only you know your barrel's twist rate and what you are feeding it.",
+   "prose": "This is stated as the operator's determination, not the manufacturer's. There is no chart to fall back on.",
+   "caution": "Match the projectile to your barrel's twist. The manual will not do it for you.",
+   "quote": "Rugged Suppressors recommends that only quality factory loaded ammunition of the correct grain weight be used. It is up to the operator to determine the correct projectile/ barrel twist to ensure proper stabilization in the host weapon.",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Ammunition, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Follow the mounting sequence exactly — Rugged says the cost is damage",
+   "action": "Read the mounting steps and do them in order rather than by feel. Rugged states that failure to follow the instructions WILL result in damage to your suppressor, which is unusually definite language and worth taking at face value on a friction-taper mount. The sequence is: open the collar clockwise until it stops, thread the can on by the main body until fully seated, turn the collar clockwise a half turn until tight, then verify with the go gauge.",
+   "prose": "Every one of those four steps exists to make the can concentric and keep it there. Skipping the collar step leaves it seated on thread alone.",
+   "quote": "It is important to read the owners manual entirely and follow the following steps to ensure your suppressor is properly mounted prior to shooting. Failure to follow instructions will result in damage to your suppressor.",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Alaskan360 Installation, p.2",
+   "warn": "Not following the mounting sequence is stated as causing damage, not risking it."
+  },
+  {
+   "phase": "Strip",
+   "title": "Let it cool before removal, and keep it off everything",
+   "action": "Never take a hot Alaskan360 off without proper protective gear — let it cool first. Rugged also rules out letting a hot suppressor touch anything at all, because a can that has just been fired will set light to what it lands on. Put it somewhere it can cool in air, on nothing flammable, and come back to it.",
+   "prose": "A .360-bore can carries a lot of heat in a lot of steel. It stays hot longer than it looks like it should.",
+   "quote": "Never attempt to remove a hot suppressor without the proper protective gear. Allow the suppressor to cool before removal. Failure to do so could result in personal injury or death.",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Alaskan360 Removal, p.2",
+   "warn": "Cool it, and never let a hot can rest against anything."
+  },
+  {
+   "phase": "Strip",
+   "title": "Collar back a half turn, then two and a half turns off",
+   "action": "Turn the locking collar counter-clockwise half a rotation — that half turn disengages the rear locking taper rather than merely loosening anything. Then take hold of the body of the Alaskan360, not the collar, and rotate the whole can counter-clockwise two and a half turns before sliding it forward off the muzzle device. Gripping the body matters because the collar is spring-loaded and turning the can by it drives the load through the spring arms instead of the thread.",
+   "prose": "If it comes free in fewer than two and a half turns it was not fully seated when you were shooting it.",
+   "quote": "Step 1/2 Turn the locking collar counter-clockwise a 1/2 rotation; this disengages the rear locking taper. Step 2/2 With the rear locking collar disengaged, hold the body of the Alaskan360 and rotate the suppressor counter clockwise 2.5 turns and slide the suppressor over the muzzle device.",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Alaskan360 Removal, steps 1–2, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "The universal thread runs on anti-seize — put it back",
+   "action": "The Alaskan360's universal thread leaves the factory lightly coated with anti-seize, and Rugged requires that coating to be present every time the mount is removed and re-installed. This is a galling and seizing problem, not a lubrication preference: a dry universal thread carrying a mount under repeated heat cycles will pick up and weld. Clean the debris out of the threads first, then re-apply anti-seize before the mount goes back on.",
+   "prose": "Solvent removes anti-seize as thoroughly as it removes carbon, so this is a step that follows every clean.",
+   "quote": "To prevent galling and seizing, the suppressor’s universal thread is lightly coated with anti-seize. Ensure any time the mount is removed and re-installed, that the threads are clean of debris and anti-seize is present to prevent unnecessary issues.",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Alaskan360 Installation, p.2",
+   "warn": "Clean threads plus anti-seize present, every time the mount is removed and refitted."
+  },
+  {
+   "phase": "Clean",
+   "title": "1.375x24 third-party mounts — Rugged qualifies this, so read it on your copy",
+   "action": "The Alaskan360's 1.375x24 thread is a common universal pattern and Rugged acknowledges that other manufacturers' mounting options fit it — and then immediately qualifies that with a 'however'. Treat a non-Rugged mount as unverified until you have read Rugged's own qualification and their website's installation instructions, which the same book already directs you to for the muzzle device. A mount that threads on is not the same as a mount that holds this can concentric.",
+   "prose": "Thread compatibility and mount compatibility are two different claims. Only the first is settled by the thread spec.",
+   "caution": "Rugged's compatibility statement carries a qualification. Read it before fitting a third-party mount.",
+   "quote": "The 1.375x24 thread is compatible with other manufacturers mounting options, however,",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Alaskan360 Installation, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Front cap threads take white lithium grease",
+   "action": "The interior front cap threads come coated with white lithium grease from the factory, and Rugged recommends adding more throughout the life of the can. The front cap is a joint you open and close far more often than any other on this suppressor, and it is a joint that lives directly in the blast path — a greased thread comes off by hand, a dry carboned one needs the multi-tool and eventually will not come off at all.",
+   "prose": "Grease it when you refit the cap after cleaning, not only when it starts feeling tight.",
+   "quote": "It is recommended to apply additional white lithium grease to the front cap threads",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Alaskan360 Installation, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Mounting threads clean, then all the solvent back out",
+   "action": "The published maintenance is the mounting threads: a small amount of gun cleaning solvent and a brush, into the taper seat as well as the thread. Then get every trace of solvent back out — hot soapy water, let the can fully drain, and compressed air to finish. On a suppressor you cannot open, solvent that has run inside has nowhere to go and firing it wet is how you find out where it pooled.",
+   "prose": "Check the bore for debris and obstructions before any use and after every maintenance cycle. Stand it muzzle-down to drain and give it longer than feels necessary.",
+   "quote": "All solvent should be fully removed from the suppressor prior to use. This can be accomplished with hot soapy water taking care to let the suppressor fully drain before use. The use of compressed air is highly recommended.",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "warn": "No solvent left inside before firing."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You should have the Alaskan360 off the muzzle device, with the mount, the front cap and the multi-tool accounted for. That is as far as this can goes and it is a published outcome rather than a gap — Rugged states that its construction and exotic materials mean it requires only limited service, and defines that service as keeping the mounting threads clean and free from debris. There is no baffle stack to lay out and no way into the body. Before it goes back on a gun, confirm the multi-tool is OUT and the front cap is ON.",
+   "prose": "Do not go looking for a way in. No internal disassembly is published for this model at any level.",
+   "quote": "Due to the construction and use of exotic materials, the Alaskan360™ requires limited service/maintenance. It is important to keep all the mounting threads clean and free from debris.",
+   "cite": "RUGGED SUPPRESSORS | ALASKAN360 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Rugged publishes NO internal disassembly of the Alaskan360. The manual's Service/Maintenance section states that because of its construction and its exotic materials the Alaskan360 requires limited service/maintenance, defined as keeping the mounting threads clean and free from debris plus confirming the bore is free of obstructions. The only take-apart operations described anywhere in the document are removing the suppressor from the muzzle device, removing and refitting the front cap, and removing the multi-tool and its retainer — all of which are in the field strip above. There is no baffle stack removal and no user-serviceable interior in this book, so nothing deeper is presented and none has been invented. ⚠ AND ONE WARNING THAT IS NOT THIS CAN'S. The line \"Do not use without retainer!\" is sometimes quoted against the Alaskan360. It does not appear in the Alaskan360's manual at all — Rugged prints it in the manual for the AXIAL, a different suppressor with a different retainer — so it is not carried here and no step rests on it.",
+ "cleaning": [
+  {
+   "name": "BEFORE EVERY USE — SHIPPING CONFIGURATION CHECK",
+   "tasks": [
+    "Confirm the multi-tool has been removed from inside the suppressor",
+    "Confirm the front cap is installed — the can ships without it and cannot be fired as shipped",
+    "Re-check both after any mount change, because the multi-tool is stored inside the suppressor"
+   ]
+  },
+  {
+   "name": "MOUNTING THREADS & UNIVERSAL THREAD",
+   "tasks": [
+    "A small amount of gun cleaning solvent and a brush on all mounting threads",
+    "Clean the rear locking taper as well as the thread — it is a locating surface",
+    "Clean threads of debris and make sure anti-seize is present every time the mount is removed and re-installed",
+    "White lithium grease on the interior front cap threads, topped up throughout use"
+   ]
+  },
+  {
+   "name": "AFTER ANY SOLVENT",
+   "tasks": [
+    "Remove all solvent before the can is fired again",
+    "Hot soapy water, then let the suppressor fully drain",
+    "Compressed air is highly recommended to finish drying"
+   ]
+  },
+  {
+   "name": "BORE CHECK",
+   "tasks": [
+    "Check the bore is free of debris and obstructions before any use",
+    "Check it again after every maintenance cycle",
+    "Confirm nothing has been left inside — including the multi-tool"
+   ]
+  },
+  {
+   "name": "HOST-SIDE CHECKS (per firearm, not per can)",
+   "tasks": [
+    "Muzzle threads must be concentric to the bore",
+    "Quality factory ammunition of the correct grain weight, projectile matched to your barrel's twist",
+    "Muzzle device installation instructions are on Rugged's website, not in this manual"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Remove the multi-tool from inside the suppressor and install the front cap — the can cannot be fired without this.",
+  "Grease the interior front cap threads with white lithium grease.",
+  "Confirm the mounting threads are clean of debris and that anti-seize is present on the universal thread.",
+  "Confirm the bore is clear and that all solvent has been removed and the can is dry.",
+  "Open the locking collar by twisting it clockwise until it stops, using the engraved lock/unlock arrows on the collar.",
+  "Hold the suppressor by the main body and thread it onto the muzzle device until it is fully seated.",
+  "Turn the locking collar clockwise half a turn until tight.",
+  "Verify the suppressor is fully seated via the go gauge on the muzzle device: you should only be able to see GO."
+ ],
+ "fncheck": "First, confirm the multi-tool is out of the suppressor and the front cap is installed — as shipped the Alaskan360 has the tool in and the cap off, and that configuration cannot be fired. Look through the bore against a light and confirm it is clear of debris and obstructions. Check the go gauge on the muzzle device: properly mounted you can only see GO, and any sight of NO-GO means it is not seated. Confirm the locking collar is tight after its half turn and that the can will not move by hand. Confirm anti-seize is present on the universal thread and that no solvent remains inside before firing."
+}

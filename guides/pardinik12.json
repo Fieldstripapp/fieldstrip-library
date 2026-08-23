@@ -1,0 +1,80 @@
+{
+ "row": "pardinik12",
+ "make": "Pardini",
+ "model": "K12 Absorber",
+ "sourcedFrom": "Pardini Armi Instruction Manual — K12 / LSH20 — K12 - LSH20 (title block on the cover; no edition code printed) (UNDATED — Pardini prints no date code on this book)",
+ "sourceSha256": "e2992f2b4e3a5fb030213875fc2797aaaf50530095af85f99beff9928f341c3f",
+ "cleanIntro": "⛔ The K12's recoil absorber must be BONE DRY, and that single fact governs the whole cleaning routine. Pardini prints \"NO OIL INSIDE ABSORBER\" as a running footer on every page of this book — not a caution buried in a maintenance chapter, a line they put in front of you on every page you turn to. The corollary is the second prohibition: no felt cleaning pellets shot through the barrel, because their residue ends up in the absorber. Bore brush, patch, and a wipe of the contact points; that is the published job.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Air off the gun before anything else",
+   "action": "Unscrew the compressed-air cylinder from under the barrel and set it aside before you clean anything. An unscrewed cylinder is the only state in which this pistol cannot fire, and the barrel is about to have a brush in it.",
+   "aside": "⚠ The book states the model line here rather than a separate unload drill; the cylinder is the propellant and removing it is what makes the pistol inert.",
+   "quote": "PISTOLS cal. 4,5 MM (.177) <7,5 J - MODELS K12 / K12 J SHORT / K12 BASIC / K12 BASIC J SHORT / K12 KID",
+   "cite": "Pardini Armi Instruction Manual — K12 / LSH20 — K12 - LSH20 (title block on the cover; no edition code printed) — FEATURES, printed p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Brass brush at 500 shots, then a patch — and never a felt pellet",
+   "action": "Every 500 shots, run a properly sized brass brush down the bore and follow it with a patch. ⛔ Do NOT use the shoot-through felt cleaning pellets that most air-pistol shooters reach for. Pardini bans them on the K12 by name, because what the felt leaves behind travels into the absorber and the absorber only works dry.",
+   "caution": "Do not use felt pellets to clean  the K12 barrel ( the ones shot through the barrel)",
+   "quote": "It is recommended to clean the bore no later than 500 shots using first a properly sized brass brush and then cleaning the bore with a patch.",
+   "cite": "Pardini Armi Instruction Manual — K12 / LSH20 — K12 - LSH20 (title block on the cover; no edition code printed) — PULIZIA E MANUTENZIONE / cleaning and maintenance, printed p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Contact points only, and the lubricant has to be plain",
+   "action": "Lubricate the contact points shown in the book's drawing, using a lubricant with no additives and no solvents. \"Periodically\" is Pardini's word and it means what it says on a pistol that sees dry-fire training between matches — a film, wiped on, not a bath.",
+   "aside": "using a solvent- and additive-free lubricant.",
+   "quote": "Periodically lubrificate the contact points indicate in the drawing",
+   "cite": "Pardini Armi Instruction Manual — K12 / LSH20 — K12 - LSH20 (title block on the cover; no edition code printed) — PULIZIA E MANUTENZIONE / cleaning and maintenance, printed p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ The absorber stays dry, inside and out",
+   "action": "Nothing goes into the recoil absorber. Not oil, not solvent, not the residue of a felt pellet. Pardini's requirement is that it be completely dry AND clean inside to work, and this is the device the whole model is named for — oil it and you have spent the price of a match pistol on a heavier air pistol.",
+   "quote": "The absorber must be completely dry and clean inside to work properly.",
+   "cite": "Pardini Armi Instruction Manual — K12 / LSH20 — K12 - LSH20 (title block on the cover; no edition code printed) — FEATURES, printed p.7"
+  }
+ ],
+ "deepAbsentReason": "Pardini publishes NO disassembly of any kind for the K12 — not a field strip, not a barrel removal, nothing. The whole of the book's maintenance content is one short paragraph: brass brush the bore at 500 shots, follow with a patch, and periodically lubricate the contact points with an additive- and solvent-free lubricant. Everything else in the 32 pages is adjustment — trigger screws, rear sight, grip, absorber setting. ⛔ AND ONE THING IS FORBIDDEN OUTRIGHT: the absorber must never be lubricated, and the felt cleaning pellets that would normally be the easy answer for an air-pistol bore are banned on this model because their residue reaches it. So there is nothing deeper to present, and nothing deeper has been invented. Work past a bore brush and a wipe-down belongs with Pardini, whose warranty says all warranty interventions must be done at Pardini Armi or by a firm they authorise.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Properly sized brass brush at 500 shots",
+    "Patch through afterwards",
+    "⛔ NEVER shoot-through felt cleaning pellets — banned by name on the K12"
+   ]
+  },
+  {
+   "name": "CONTACT POINTS",
+   "tasks": [
+    "Additive- and solvent-free lubricant, periodically",
+    "Only the points shown in the book's drawing"
+   ]
+  },
+  {
+   "name": "⛔ ABSORBER",
+   "tasks": [
+    "Nothing. No oil, no solvent, no felt residue",
+    "Kept completely dry and clean inside — that is the published requirement"
+   ]
+  },
+  {
+   "name": "AIR CYLINDER",
+   "tasks": [
+    "Unscrewed and set aside before any cleaning",
+    "Unscrewed for long storage to spare the seals"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bore dry and clear of brush bristles and patch fibres before the cylinder goes back.",
+  "Compressed-air cylinder screwed on by hand, not forced.",
+  "⛔ Absorber confirmed dry — no oil anywhere near it.",
+  "Grip screws checked, since the grip carries the trigger settings on this frame."
+ ],
+ "fncheck": "Cylinder back on hand-tight, pistol pointed somewhere safe: cock and dry-fire once and listen. The K12's absorber gives a distinct, damped report; a sharp, hard note where a soft one used to be is the first sign something has got into it. ⛔ If that happens, stop using it and speak to Pardini — there is no published owner service for the absorber."
+}

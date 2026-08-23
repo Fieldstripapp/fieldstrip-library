@@ -1,0 +1,217 @@
+{
+ "row": "deadairmaskhd",
+ "make": "Dead Air",
+ "model": "Mask HD",
+ "sourcedFrom": "THE MASK — OWNER'S MANUAL — Rev121323 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "9bc5cdda3055a3df3c2a5e2f573b2ccf3f485478d55e114039e8002e467f15df",
+ "cleanIntro": "The Mask is a user-serviceable .22 can and it is meant to come apart: front cap off, back cap off, baffle stack pushed out of the tube. That matters more here than on a centrefire can, because rimfire ammunition leaves lead behind and a stack left too long can seize solid. Dead Air's own numbers are the ones to work to — service at 500 to 1000 rounds to keep the job easy, even though the can will run to 2000. And the cleaning chemistry has a hard exclusion attached to it that is easy to get wrong.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host — and use the host's own manual to do it",
+   "action": "Before the suppressor is touched, drop the magazine, lock the action open and both look and feel into the chamber. Dead Air is explicit that clearing procedure belongs to the firearm's book, not to this one, and that the can never goes on or comes off a closed action.",
+   "prose": "A suppressor manual can only speak for the can. If there is any doubt about how your host unloads, that answer lives in the host's manual.",
+   "quote": "CHECK YOUR WEAPON’S CHAMBER AND MAKE CERTAIN THAT THE WEAPON IS UNLOADED AND THE MAGAZINE REMOVED BEFORE PROCEEDING ANY FURTHER. IF THERE IS ANY QUESTION OR DOUBT, CONSULT THE OPERATOR’S MANUAL APPLICABLE TO YOUR FIREARM AS TO THE PROPER PROCEDURE FOR CLEARING AND/OR UNLOADING YOUR WEAPON. DO NOT INSTALL YOUR NEW SUPPRESSOR ON A FIREARM WITH A CLOSED ACTION!",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 1. Product Overview, printed p.4",
+   "warn": "Never fit or remove this suppressor on a firearm with a closed action."
+  },
+  {
+   "phase": "Clear",
+   "title": "The ceiling — .22 bore, and no centrefire pressure",
+   "action": "Confirm the host before anything else. This is a .22 can and Dead Air bounds it two ways at once: nothing above FN 5.7x28mm chamber pressure, and nothing above a .22 bore diameter. What overrides that sentence is the marking on the suppressor itself and on its packaging, so read your own can. Do not put a high-pressure centrefire round through it.",
+   "prose": "Two separate limits, and passing one does not pass the other. A .22 Hornet is inside the bore limit and nowhere near inside the pressure limit.",
+   "quote": "OUR PRODUCTS ARE CALIBER SPECIFIC. UNLESS STATED OTHERWISE ON THE SUPPRESSOR ITSELF OR ON THE PACKAGING, THE .22 SUPPRESSOR WILL NOT FUNCTION SAFELY WITH ANY CARTRIDGE WITH PRESSURES HIGHER THAN FN 5.7X28MM. THIS PRODUCT CANNOT BE USED WITH ANY CALIBER GREATER THAN A .22 BORE DIAMETER.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 2. Installation — Step One: Preparation, printed p.5",
+   "warn": "DO NOT FIRE HIGH PRESSURE CENTERFIRE CARTRIDGES THROUGH YOUR .22 SUPPRESSOR."
+  },
+  {
+   "phase": "Clear",
+   "title": "Ammunition drives how often you will be doing this",
+   "action": "Use good quality factory-new ammunition. Dead Air names one load specifically as a problem — Aguila SSS 60 grain .22 LR increases how often the can needs servicing and is not generally recommended — and warns that wildcat or reloaded ammunition may void the warranty.",
+   "prose": "On a rimfire can the ammunition is most of the story. Heavily lubricated or heavy subsonic bullets are what fill a stack fastest.",
+   "aside": "The same paragraph reads: \"Aguila SSS 60 grain .22 LR ammunition will increase the need for more frequent service to your suppressor and is not generally recommended with our products.\"",
+   "quote": "Ammunition: Ammunition will have a huge influence on how your new suppressor functions. Use good quality factory new ammunition in your firearm.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 2. Installation — General Considerations, printed p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Service interval — the number that keeps this easy",
+   "action": "Work to 500 to 1000 rounds even though the can will go further. Dead Air's stated service interval is over 2000 rounds, and in the same breath it recommends cleaning every 500 to 1000 rounds specifically to keep the job simple. On a rimfire can that difference is the difference between a stack that pushes out and a stack that has to be soaked free.",
+   "prose": "The service life figure is separate and much larger — the can itself should exceed 100,000 rounds with normal care.",
+   "aside": "Immediately after: \"We recommend that you clean the suppressor every 500-1000 rounds in order to simplify the cleaning effort.\"",
+   "quote": "Service intervals between disassembly and cleaning should exceed 2000 rounds or more depending on the type of ammunition that you shoot.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 1. Product Overview, printed p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take it off the host — cool, or with gloves",
+   "action": "Rotate the body of the suppressor counter-clockwise until it unthreads off the muzzle. Wait for it to cool, or use protective gloves: a suppressor that has just been fired will burn you, and this is the point in the job where people forget.",
+   "prose": "If the back cap unthreads out of the tube instead of the whole can coming off the barrel, that is the back cap being looser than the barrel joint — see the note about tightening it with a hand tool.",
+   "quote": "To remove the suppressor simply rotate the body / end cap of the suppressor counterclockwise until it begins to unthread from the muzzle of the host weapon.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 2. Installation — Step Three: Removing the Suppressor, printed p.6",
+   "warn": "The suppressor may become extremely hot after use. Never grab a hot suppressor as it can result in burns and injury."
+  },
+  {
+   "phase": "Strip",
+   "title": "Front cap off with the provided tool, fully engaged",
+   "action": "With the can off the gun, fit the provided tool into the tool features on the front cap and make sure it is fully inserted before you turn anything. Then turn counter-clockwise to take the cap off. A tool sitting proud or half engaged rounds out the features and then the cap has to be cut off.",
+   "prose": "This is the cap that takes the bullet's exit. If the bore of it is marked, that is a baffle strike and the whole can needs looking at rather than cleaning.",
+   "caution": "Ensure the tool is fully inserted into the tool features on the cap before turning counter-clockwise.",
+   "quote": "STEP ONE To disassemble your suppressor, first remove it from the host weapon and then remove the front cap with the provided tool.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 4. Disassembly & Cleaning, Step One, printed p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Back end cap off — the same tool if you tightened it with one",
+   "action": "Turn the back end cap counter-clockwise to remove it. If you had tightened it into the tube with a hand tool — which Dead Air recommends when the barrel sits recessed under a shroud or handguard — use that same tool to loosen it.",
+   "prose": "That recommendation exists so the can does not come apart in the handguard when you unthread it from the barrel. If yours has ever done that, this is the fix.",
+   "quote": "STEP TWO Remove the back end cap by turning counter-clockwise.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 4. Disassembly & Cleaning, Step Two, printed p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Baffle stack out — a wooden rod, never a screwdriver",
+   "action": "With both caps off, push the baffle stack out of the tube. A wooden rod or something similar is the right tool. Do not use a screwdriver: Dead Air states it can damage the baffles and, worse, damage the bore of a baffle, which induces baffle strikes and a general loss of accuracy.",
+   "prose": "If the stack will not move, it is fouled in rather than stuck — that is what the service interval above exists to prevent, and it wants soaking, not force.",
+   "quote": "STEP THREE With both caps removed, simply push the baffle stack out of the tube. A wooden rod or similar instrument may be helpful.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 4. Disassembly & Cleaning, Step Three, printed p.8",
+   "warn": "Do NOT use a screw driver for this step as it may damage your baffles."
+  },
+  {
+   "phase": "Clean",
+   "title": "Threads clean and the outside wiped down — the routine job",
+   "action": "Most of the time this is all the maintenance the can needs: keep the threads clean and wipe the outside down with a good quality gun oil. The exterior is Nitride and Cerakote and it is durable, but test any solvent on a small area before you put it on the whole can.",
+   "prose": "Threads first. A .22 can lives on a direct thread and a fouled thread is what makes it come off canted next time.",
+   "quote": "Typically there is very little maintenance needed with respect to your suppressor other than to keep the threads clean and to wipe down the outside with good quality gun oil.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 4. Disassembly & Cleaning, printed p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The can is off the host, both caps are off and the baffle stack is out of the tube. That is the strip. Deep Clean covers what the baffles may actually be cleaned in, the hazards of the peroxide-and-vinegar dip, the one component that must never go in it, and how the stack keys back together.",
+   "prose": "Lay the baffles out in the order they came out. They key to each other with a tab and slot, and the last one in the stack is the odd one — it has no tab.",
+   "quote": "STEP FOUR With the baffles removed, they can now be cleaned in a commercial firearm’s solvent bath, tumbling in stainless steel media, ultrasonically cleaned, or by using of the “dip” previously discussed.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 4. Disassembly & Cleaning, Step Four, printed p.8",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Four permitted methods, and they are the only four named",
+   "action": "Dead Air names exactly four ways to clean the baffles once they are out: a commercial firearm solvent bath, tumbling in stainless steel media, ultrasonic cleaning, or the hydrogen-peroxide-and-vinegar dip described in the installation section. Pick one of those.",
+   "prose": "The dip is the traditional rimfire answer because it dissolves lead. That is also exactly why it is dangerous — see the next two steps before mixing any.",
+   "quote": "STEP FOUR With the baffles removed, they can now be cleaned in a commercial firearm’s solvent bath, tumbling in stainless steel media, ultrasonically cleaned, or by using of the “dip” previously discussed.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 4. Disassembly & Cleaning, Step Four, printed p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ NOTHING ALUMINIUM, AND NOT THE TUBE, GOES IN THE DIP",
+   "action": "Before any dip is mixed, understand what must stay out of it. Dead Air's instruction is absolute: no aluminium component, and not the tube itself, goes into the dip. The Mask is built from titanium, steel and aluminium together, so this is not a hypothetical — some of what you are holding will be attacked by it.",
+   "prose": "A peroxide-and-vinegar dip strips lead by dissolving it. It does not distinguish between the lead and the aluminium.",
+   "quote": "NOTE: DO NOT PLACE ANY ALUMINUM COMPONENTS OR THE TUBE ITSELF INTO THE “DIP”.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 2. Installation — Solvents and Lead Exposure, printed p.5",
+   "warn": "No aluminium components and not the tube. The Mask is titanium, steel AND aluminium."
+  },
+  {
+   "phase": "Clean",
+   "title": "The dip is a lead-exposure hazard, handled as one",
+   "action": "Treat the dip as toxic waste from the moment it starts working. Dead Air warns that unprotected skin contact can cause serious health issues including lead poisoning, and asks for protective eyewear and nitrile gloves. Dispose of the used solvent and the dissolved lead properly under your local rules, and see a doctor if you are exposed.",
+   "prose": "Wash hands and exposed skin after any session with this can, dip or no dip. Rimfire fouling is lead in a form that transfers easily.",
+   "quote": "Consult a physician if you are exposed and take all necessary safety steps to avoid exposure including protective eyewear, and nitrile gloves.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 2. Installation — Solvents and Lead Exposure, printed p.5",
+   "warn": "Ensure any solvent or dissolved lead is disposed of properly in accordance with local ordinances."
+  },
+  {
+   "phase": "Clean",
+   "title": "Grease before it goes back together",
+   "action": "Before reassembly, make sure every thread and every baffle contact point is clean and free of debris, then put a light coat of grease on the threads and on the baffle contact points — including the outside of the baffles where they touch the inside of the tube.",
+   "prose": "The grease on the outer surface is what stops a stack seizing in the tube next time. Skip it and the next service is the hard one.",
+   "caution": "It is recommended that a light coat of grease goes on the threads and baffle contact points, including the exterior of the baffle where it contacts the inside of the tube.",
+   "quote": "NOTE: ENSURE ALL THREADS AND BAFFLE ASSEMBLY CONTACT POINTS ARE CLEAN AND FREE OF DEBRIS.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 5. Reassembly, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Blast shroud and blast baffle — tab into slot",
+   "action": "Start the stack at the back. Push the blast shroud fully into the back cap, then nest the blast baffle into the blast shroud. There is a tab protruding from the shroud and a matching slot in the blast baffle — get them aligned and fully home before anything else goes in.",
+   "prose": "Everything downstream keys off this joint. If the first tab is not seated, the whole stack sits proud and the front cap will not reach the last baffle.",
+   "quote": "STEP ONE Fully insert the blast shroud into the back cap and then nest the blast baffle into the blast shroud.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 5. Reassembly, Step One, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Primary baffles, tab to slot, ending on the one with no tab",
+   "action": "Insert a primary baffle into the blast baffle with its tab aligned into the slot, and carry on the same way with the remaining primary baffles. The last baffle in the stack is the one that has no tab — that is how you know the stack is complete and which way round it goes.",
+   "prose": "The tab-and-slot indexing is what keeps every bore in the stack on the same axis. A baffle turned out of index is a baffle strike.",
+   "quote": "STEP TWO Insert a primary baffle into the blast baffle, ensuring the tab aligns into the slot of the baffle.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 5. Reassembly, Step Two, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Tube on the right way round — flats nearest the edge go over the stack",
+   "action": "The tube is not symmetrical. Slip the end whose flats sit closest to its edge over the assembled baffle stack and thread that end onto the back cap. If the can lives on a host where the muzzle is recessed under a shroud or handguard, lightly tighten the back cap into the tube with an adjustable wrench.",
+   "prose": "That light tightening is what stops the can unscrewing itself apart in the handguard when you take it off the barrel.",
+   "quote": "STEP THREE Slip the end of the tube with the flats closest to its edge over the baffle assembly and thread onto the back cap.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 5. Reassembly, Step Three, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front cap on — and the check that proves the stack is complete",
+   "action": "Thread the front cap into the other end of the tube and lightly hand tighten it with the provided tool. You should feel it make contact with the final baffle. Then look at where it sits: anywhere from close to flush up to an eighth of an inch proud of the tube is correct. If the cap's threads are fully visible, the baffle stack is not fully assembled — take it apart and count again.",
+   "prose": "This is the only self-check the can gives you, and it is a good one: a missing or mis-indexed baffle shows up as a front cap that sits too deep.",
+   "quote": "STEP FOUR Thread the front cap into the other side of the tube. Use the provided tool to lightly hand tighten it into place.",
+   "cite": "THE MASK — OWNER'S MANUAL — Rev121323 — 5. Reassembly, Step Four, printed p.9",
+   "warn": "If threads are fully visible, then the baffle stack may not be assembled completely."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BAFFLE STACK",
+   "tasks": [
+    "One of four named methods only: commercial solvent bath, stainless media tumbling, ultrasonic, or the peroxide-and-vinegar dip",
+    "Keep the baffles in order — tab into slot, and the last one has no tab",
+    "Check each baffle bore for strike marks while they are apart",
+    "Light grease on the contact points and on the outer surface before reassembly"
+   ]
+  },
+  {
+   "name": "THE DIP — WHAT MUST STAY OUT",
+   "tasks": [
+    "NO aluminium components and NOT the tube — Dead Air's own exclusion",
+    "Protective eyewear and nitrile gloves; skin contact risks lead poisoning",
+    "Dispose of the used solution and dissolved lead per local ordinances",
+    "Wash hands and exposed skin afterwards, every time"
+   ]
+  },
+  {
+   "name": "TUBE & CAPS",
+   "tasks": [
+    "Wipe the outside down with a good quality gun oil",
+    "Test any solvent on a small area first — the finish is Nitride and Cerakote",
+    "Clean the cap threads and the tool features on both caps",
+    "Confirm the front cap seats between flush and 1/8\" proud when reassembled"
+   ]
+  },
+  {
+   "name": "HOST THREADS",
+   "tasks": [
+    "Keep the 1/2-28 barrel threads clean and lubed",
+    "Check tightness periodically — a direct thread can loosens with use",
+    "Hand tightening onto the barrel is sufficient; do not use tools on the barrel joint",
+    "The back of the can must bottom squarely on the barrel shoulder"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Clean every thread and baffle contact point, then apply a light coat of grease to them and to the outside of the baffles where they meet the tube.",
+  "Push the blast shroud fully into the back cap and nest the blast baffle into it with the shroud's tab in the baffle's slot.",
+  "Add the primary baffles one at a time, each tab into the slot ahead of it, ending with the baffle that has no tab.",
+  "Slip the tube over the stack with the end whose flats sit nearest the edge going on first, and thread that end onto the back cap.",
+  "If the host's muzzle sits under a shroud or handguard, lightly tighten the back cap into the tube with an adjustable wrench.",
+  "Thread the front cap into the other end and hand tighten it with the provided tool until you feel it contact the final baffle.",
+  "Check the front cap sits between close to flush and 1/8 inch from the end of the tube; fully visible threads mean the stack is incomplete.",
+  "Clean and lube the host's barrel threads, then thread the can on by hand until the back of it bottoms squarely on the barrel shoulder."
+ ],
+ "fncheck": "With the can assembled and off the gun, look through it end to end against a light: the bore path must be straight, centred and clear, with no baffle showing off-axis. Confirm the front cap sits between flush and about an eighth of an inch from the end of the tube — visible threads mean a baffle is missing or mis-indexed and the can must not be fired. Mount it on the host by hand until it bottoms squarely on the barrel shoulder, then visually inspect it: it must be in line with the centreline of the bore and not canted. If it is not, stop and contact Dead Air rather than firing it. Expect reduced first-shot performance for the first 15 to 20 rounds after a clean — that is normal break-in on this can, not a fault."
+}

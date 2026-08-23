@@ -1,0 +1,78 @@
+{
+ "row": "silencercoharvesterevo",
+ "make": "SilencerCo",
+ "model": "Harvester EVO",
+ "sourcedFrom": "SilencerCo Harvester EVO Field Manual — ⛔ No form or revision code is printed in this book. (UNDATED)",
+ "sourceSha256": "1c30e11d1856ae58b7a87e291a98fc0fe439bd7840b14b2dc772dda7f1ca0a97",
+ "cleanIntro": "⛔ The Harvester EVO is a sealed can. SilencerCo publishes no way to take it apart, and the maintenance it does publish is short: keep the mount clean, keep the threads clean, and if the bore needs anything at all it gets a BRUSH — never a patch. The whole job is the mounting interface, because that is the part that can fail dangerously.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Firearm unloaded and the action OPEN before the can moves",
+   "action": "Open the action and see that the firearm is visibly clear of ammunition — before the silencer goes on and before it comes off. A suppressed gun is quieter, not safer.",
+   "quote": "Before installing the silencer on the host firearm, be sure the firearm is unloaded and the action is opened so the firearm is visibly clear of any ammunition.",
+   "cite": "SilencerCo Harvester EVO Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Re-check tightness every 30 rounds",
+   "action": "Silencers back off under recoil, and a partly-unthreaded can is how baffle strikes happen. SilencerCo names an interval rather than leaving it to feel.",
+   "quote": "To ensure your silencer remains secure while firing, it is of the utmost importance that you frequently verify the silencer is securely tightened onto the barrel. We recommend checking the security of the attachment after 30 discharges of the firearm.",
+   "cite": "SilencerCo Harvester EVO Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Clean",
+   "title": "Mounts get the solvent and the brush",
+   "action": "The mount is where carbon collects and where a loose fit turns into a baffle strike. Standard gun cleaning solvent and a brush, periodically — that is the maintenance this can actually needs.",
+   "quote": "The Harvester Evo typically requires limited maintenance.",
+   "cite": "SilencerCo Harvester EVO Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Bore: a brush if it needs one, NEVER a patch",
+   "action": "If the bore has light fouling, run a cleaning BRUSH through it. Do not run patches: a patch can come off inside the silencer, sit there invisibly, and cause damage the next time the gun is fired. This is the single most important don't in the whole book.",
+   "quote": "Do not run cleaning patches through the bore as the patches might become lodged in the silencer and cause damage upon firing.",
+   "cite": "SilencerCo Harvester EVO Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  }
+ ],
+ "deepAbsentReason": "SilencerCo publishes NO disassembly for the Harvester EVO. Its maintenance section is one paragraph — \"The Harvester Evo typically requires limited maintenance.\" — plus a bore brush and an explicit ban on patches. ⛔ AND A NEARBY SILENCERCO PROCEDURE DOES NOT TRANSFER TO THIS CAN. Some SilencerCo silencers — the rimfire and pistol-calibre models — do publish a full baffle-stack strip, and those instructions are easy to find. They are not instructions for the Harvester EVO. Following them here would mean forcing apart an assembly SilencerCo never documents coming apart, and the likely results are a damaged silencer and a warranty that no longer covers it. A sealed can stays sealed: clean the mount, the threads and the outside, brush the bore, and leave the inside to SilencerCo.",
+ "cleaning": [
+  {
+   "name": "MOUNT & THREADS",
+   "tasks": [
+    "Standard gun solvent and a brush on the mount, periodically",
+    "Carbon and fouling off the threads and shouldering surface",
+    "⛔ Check for a gap at the shoulder before every session"
+   ]
+  },
+  {
+   "name": "BORE",
+   "tasks": [
+    "A cleaning BRUSH only, and only for light fouling",
+    "⛔ NEVER a patch — it can lodge inside and cause damage on firing"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wiped down; carbon off the outside of the tube",
+    "⛔ Solvents used with ventilation, skin and eye protection"
+   ]
+  },
+  {
+   "name": "⛔ WHAT YOU DO NOT DO",
+   "tasks": [
+    "This can does not come apart — no disassembly is published for an owner",
+    "Anything wrong with it goes back to SilencerCo under the lifetime warranty"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Threads and shouldering surface clean and dry before it goes back on.",
+  "Silencer threaded on by hand, taking care not to cross-thread, until firmly secured.",
+  "⛔ No visible gap between the barrel shoulder and the face of the mount.",
+  "Bore checked clear of obstructions.",
+  "Tightness re-verified after about 30 discharges."
+ ],
+ "fncheck": "Back on the host: thread it on until firmly secured with no barrel thread still visible, then check the shoulder for a gap by eye and by fingernail. ⛔ If there is any gap, do not fire it. Re-check tightness after about 30 rounds, and look through the bore for obstructions before the first shot of any session."
+}

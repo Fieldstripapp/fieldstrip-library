@@ -1,0 +1,78 @@
+{
+ "row": "silencercoomega9k",
+ "make": "SilencerCo",
+ "model": "Omega 9K",
+ "sourcedFrom": "SilencerCo Omega K Field Manual — ⛔ No form or revision code is printed in this book. (UNDATED)",
+ "sourceSha256": "aa136cf471a7adcbd16fcacc98a1ef72c09d2b5e5e42507d14d3c7df082a6c8a",
+ "cleanIntro": "⛔ The Omega 9K is a sealed can. SilencerCo publishes no way to take it apart, and the maintenance it does publish is short: keep the mount clean, keep the threads clean, and if the bore needs anything at all it gets a BRUSH — never a patch. The whole job is about the mounting interface, because that is the part that can fail dangerously.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ NO GAP at the shoulder — check the fit before firing",
+   "action": "This is the check that prevents a baffle strike. The thread mount must be FULLY shouldered against the barrel with no visible gap between the barrel shoulder and the face of the mount. If there is a gap, the silencer does not go on the gun that day.",
+   "quote": "The thread mount must be fully shouldered on the barrel. There should be no visible gap between the barrel shoulder and the face of the suppressor thread mount.",
+   "cite": "SilencerCo Omega K Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Off the host firearm before anything comes apart",
+   "action": "Completely remove the silencer from the firearm before assembly or disassembly is attempted. A can still on a muzzle device does unexpected things when its end caps come loose.",
+   "quote": "Assembly and disassembly should never be performed while the suppressor is affixed in any manner to a host firearm.",
+   "cite": "SilencerCo Omega K Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Clean",
+   "title": "Mounts get the solvent and the brush",
+   "action": "The mount is where carbon and fouling collect and where a loose fit turns into a baffle strike. Standard gun cleaning solvent and a brush, periodically — that is the maintenance this can actually needs.",
+   "quote": "The Omega K typically requires limited maintenance. Mounts should periodically be cleaned with any standard gun cleaning solvent and a brush to remove any carbon or fouling.",
+   "cite": "SilencerCo Omega K Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Bore: a brush if it needs one, NEVER a patch",
+   "action": "If the bore has light fouling, run a cleaning BRUSH through it. Do not run patches: a patch can come off inside the silencer, sit there invisibly, and cause damage the next time the gun is fired. This is the single most important don't in the whole book.",
+   "quote": "Do not run cleaning patches through the bore as the patches might become lodged in the silencer and cause damage upon firing.",
+   "cite": "SilencerCo Omega K Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  }
+ ],
+ "deepAbsentReason": "SilencerCo publishes NO disassembly for the Omega 9K. Its maintenance section is one paragraph — \"The Omega K typically requires limited maintenance. Mounts should periodically be cleaned with any standard gun cleaning solvent and a brush to remove any carbon or fouling.\" — plus a bore brush and an explicit ban on patches. ⛔ AND A NEARBY SILENCERCO PROCEDURE DOES NOT TRANSFER TO THIS CAN. Some SilencerCo silencers — the rimfire and pistol-calibre models — do publish a full baffle-stack strip, and those instructions are easy to find. They are not instructions for the Omega 9K. Following them here would mean forcing apart an assembly SilencerCo never documents coming apart, and the likely results are a damaged silencer and a warranty that no longer covers it. A sealed can stays sealed: clean the mount, the threads and the outside, brush the bore, and leave the inside to SilencerCo.",
+ "cleaning": [
+  {
+   "name": "MOUNT & THREADS",
+   "tasks": [
+    "Standard gun solvent and a brush on the mount, periodically",
+    "Carbon and fouling off the threads and shouldering surface",
+    "⛔ Check for a gap at the shoulder before every session"
+   ]
+  },
+  {
+   "name": "BORE",
+   "tasks": [
+    "A cleaning BRUSH only, for light fouling",
+    "⛔ NEVER a patch — it can lodge inside and cause damage on firing"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wiped down; carbon off the outside of the tube",
+    "⛔ Solvents used with ventilation, skin and eye protection"
+   ]
+  },
+  {
+   "name": "⛔ WHAT YOU DO NOT DO",
+   "tasks": [
+    "This can does not come apart — no disassembly is published for an owner",
+    "Anything wrong with it goes back to SilencerCo under the lifetime warranty"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Threads and shouldering surface clean and dry before it goes back on.",
+  "Silencer threaded on by hand, taking care not to cross-thread, until firmly secured.",
+  "⛔ No visible gap between the barrel shoulder and the face of the mount.",
+  "Bore checked clear of obstructions.",
+  "Tightness re-verified after about 30 discharges."
+ ],
+ "fncheck": "Back on the host: thread it on until it is firmly secured with no barrel thread still visible, then check the shoulder for a gap by eye and by fingernail. ⛔ If there is any gap, do not fire it. Re-check tightness after about 30 rounds, and look through the bore for obstructions before the first shot of any session."
+}
