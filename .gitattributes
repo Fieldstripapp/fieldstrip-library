@@ -1,0 +1,7 @@
+# ⛔ LF EVERYWHERE, INCLUDING THE WORKING COPY.
+# publish.js writes LF. Without this, Git checks these files out as CRLF on
+# Windows, so the working copy no longer matches the bytes the publisher
+# produces — and every republish shows 645 files as modified when nothing has
+# actually changed. That noise is how a real change gets missed in a diff.
+* text=auto eol=lf
+*.json text eol=lf
