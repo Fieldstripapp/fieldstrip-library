@@ -1,0 +1,237 @@
+{
+ "row": "winchestermodel70",
+ "make": "Winchester",
+ "model": "Model 70",
+ "sourcedFrom": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "b2bce95a4782087d01f3424433a1ee710009247e8080769c9a9aa95700a90b91",
+ "cleanIntro": "The Model 70 is one of the few bolt rifles whose maker publishes a field strip of the bolt itself, and Winchester calls it that in so many words. The routine is therefore two levels: the bolt comes out of the receiver, and then the breech bolt sleeve and the firing pin assembly unscrew out of the bolt body so the striker channel can be cleaned and re-oiled. Three things bound everything below and all three are Winchester's own. This book covers Model 70s made from 1992 onward and no earlier gun. The bolt is headspaced to this rifle and to no other. And the firing pin assembly has a published stopping point that is a figure in the manual, not a judgement call. Your rifle may have a controlled round feed, controlled round push feed or push feed bolt; Winchester states the operation, removal and disassembly are the same for all three, so nothing below forks on that.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Bolt to the rear and prove the rifle empty by eye",
+   "action": "Open the bolt, draw it fully back and then look into the chamber, down the barrel, at the feed mechanism and into the magazine before anything else happens. Winchester spells out that an open bolt is not a clearance on this rifle — the Model 70 feeds from a magazine below the bolt and a cartridge can still be sitting on the follower with the action open. Look at all four places every time, and put a finger into the chamber if the light is poor. Then leave the bolt back while you work.",
+   "prose": "The controlled round feed claw holds about a quarter of the case rim, which means a partly chambered round can stay with the bolt rather than dropping clear. Look, do not assume.",
+   "quote": "EVEN WITH THE BOLT OPEN AFTER SHOOTING, DO NOT ASSUME THE RIFLE IS UNLOADED. ALWAYS INSPECT THE CHAMBER, BARREL, FEED MECHANISM AND MAGAZINE TO BE CERTAIN THE RIFLE IS COMPLETELY UNLOADED.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Firing",
+   "warn": "Chamber, barrel, feed mechanism and magazine — all four, every time."
+  },
+  {
+   "phase": "Clear",
+   "title": "This book is the 1992-and-later Model 70 — check which one you own",
+   "action": "Before you use any of this on your rifle, establish that your Model 70 was made in 1992 or later. Winchester bounds this owner's manual to that production window and directs owners of earlier rifles to customer service for the correct book, because the pre-1992 guns differ in the parts this procedure touches. A catalog entry that says nothing more than Model 70 cannot answer that question for you — the serial number on the right side of the receiver, just forward of the loading and ejection port, is where you start.",
+   "prose": "This is the one check nobody can do on your behalf. An earlier Model 70 is not covered by a single line below.",
+   "caution": "Pre-1992 Model 70? This manual does not cover your rifle.",
+   "quote": "IMPORTANT: This owner’s manual pertains to the Model 70 manufactured from 1992 to present. If you have an earlier model, please contact our Customer Service Department at (800) 954-6427 for an earlier owner’s manual.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Front matter — IMPORTANT, before General Description of Operation"
+  },
+  {
+   "phase": "Clear",
+   "title": "Floorplate or enclosed magazine — and the DBM is a separate case",
+   "action": "Identify which magazine your Model 70 has before you unload it, because Winchester scopes the loading and unloading instructions to hinged-floorplate and enclosed-magazine rifles only. If yours has a hinged floorplate, press the floorplate release forward of the trigger guard and let the cover swing down so the cartridges fall into your hand. If yours is a DBM — a detachable box magazine model — that release does not exist and Winchester gives it its own procedure: press the magazine release latch and draw the box out. Removing that box does not unload the chamber.",
+   "prose": "The abbreviation DBM in the model name is the tell. On those rifles the chamber is still cleared by cycling the bolt, magazine out or not.",
+   "caution": "Hinged floorplate, enclosed magazine, or detachable box — they unload differently.",
+   "quote": "These instructions apply only to Model 70 rifles with conventional hinged magazine floorplates or enclosed magazine designs.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Loading"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety to the intermediate position — not to fire, not to full safe",
+   "action": "Push the three-position safety to its middle detent, at a right angle to the bolt, and leave it there for the whole strip. Winchester requires this position for bolt removal and bolt disassembly, and the reason is mechanical: the rear position locks the bolt as well as the firing pin, so the bolt cannot be drawn out, while the forward position releases the striker. The middle position keeps the firing pin locked and frees the bolt, which is exactly the combination you need. The safety only works at all when the firing pin is cocked, so lift and lower the bolt handle first if the cocking indicator is not standing proud at the rear of the bolt.",
+   "prose": "About an eighth of an inch of indicator protruding from the bolt sleeve is Winchester's stated cocked reading. Below that, cycle the handle before you try to move the safety.",
+   "quote": "Intermediate Position: This is when the “safety” is in the middle position (visually at a right angle to the bolt). In the intermediate position the firing pin remains locked but not the bolt (Figure 9), allowing you to open the bolt and unload an unfired cartridge from the chamber.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Operation of the \"Safety\"",
+   "warn": "Intermediate position, and it stays there through the whole strip."
+  },
+  {
+   "phase": "Clear",
+   "title": "The M.O.A trigger adjusts — the rest of the firing mechanism does not",
+   "action": "Do not modify the trigger, the safety or any other part of the Model 70's firing mechanism except where this manual itself describes it. Winchester carves out exactly one exception on rifles made in 2008 and later: the M.O.A Trigger System has published pull-weight and overtravel screws with a 3 to 5 pound range, factory set near 3.5 pounds. Everything else — stoning a sear, bending a spring, fitting an aftermarket trigger — is outside what the maker will stand behind, and Winchester states it may refuse service on an altered rifle.",
+   "prose": "Even for the adjustment it does publish, Winchester recommends a qualified gunsmith do it.",
+   "quote": "DO NOT, UNDER ANY CIRCUMSTANCES, ALTER THE TRIGGER, \"SAFETY\", OR OTHER PARTS OF THE FIRING MECHANISM OF THIS OR ANY OTHER FIREARM EXCEPT AS OTHERWISE DESCRIBED IN THIS MANUAL.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Firearm Safety, rule 25",
+   "warn": "No alteration of the trigger, safety or firing mechanism beyond what the manual prints."
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt stop at the left rear of the receiver — depress and draw the bolt out",
+   "action": "With the safety at intermediate and the firing pin cocked, raise the bolt handle, pull the bolt fully to the rear, then press the bolt stop on the left rear of the receiver and slide the bolt out the back. The bolt stop is what your bolt has been hitting on every rearward stroke; depressing it drops that shoulder out of the lug track. The bolt should come free with no force at all — if it fights you, the firing pin is not cocked or the safety is still fully rearward, and both of those lock the bolt rather than the striker.",
+   "prose": "On a left-hand Model 70 the handle and ejection port are on the other side, but Winchester states operation is otherwise identical. The illustrations are all right-hand rifles.",
+   "quote": "Depress the bolt stop located at the left rear of the receiver and remove the bolt (Figure 12).",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Installing and Removing the Bolt — BOLT REMOVAL, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "This bolt belongs to this rifle — never swap one in",
+   "action": "Keep the bolt with the rifle it came out of and never fit a bolt from another Model 70. Winchester fits each bolt at the factory to set that rifle's headspace, so a bolt that drops in and closes smoothly on another gun can still be sitting on the wrong headspace, which is a pressure and case-head problem you find out about at the shot. If your bolt is lost or damaged the manual's remedy is to return the rifle so a replacement can be fitted to it — not to buy a bolt.",
+   "prose": "This bites hardest in a household with two Model 70s on the bench at once. Strip one at a time.",
+   "quote": "The bolt has been fitted at the factory to ensure correct headspace. Never interchange bolts, as they may not have the proper headspace.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Installing and Removing the Bolt",
+   "warn": "One bolt, one rifle. Bolts are not interchangeable between Model 70s."
+  },
+  {
+   "phase": "Strip",
+   "title": "Breech bolt sleeve lock in, then about six turns counter-clockwise",
+   "action": "Hold the bolt with the rear facing you, press the small breech bolt sleeve lock in with your thumb, and unscrew the breech bolt sleeve counter-clockwise. It takes roughly six full turns before the sleeve and the firing pin assembly attached to it come out of the bolt body, so expect a long unscrew rather than a quarter turn and a pop. Once the lock clears its notch you can let go of it and keep turning. Draw the whole assembly straight out of the rear of the breech bolt and set it down in the order it came apart.",
+   "prose": "The assembly is under spring tension the whole way, which is why the manual asks for eye protection and a clean flat place to work. It can be done in the field, but not in tall grass.",
+   "quote": "Depress the small breech bolt sleeve lock with your thumb (Figure 21) and turn the breech bolt sleeve to the left (counterclockwise looking from the rear of the bolt). It takes about six turns for the breech bolt sleeve (and the connected firing pin assembly) to unscrew from the breech bolt. Carefully pull the entire assembly out of the breech bolt.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Bolt Maintenance — DISASSEMBLY, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "The firing pin assembly stops here — Figure 22 is the published limit",
+   "action": "Stop stripping the firing pin assembly at the point Winchester illustrates in Figure 22 and go no further. That assembly holds the mainspring under compression between the sleeve and the striker collar, and taking it past the published break puts a live spring, a collar and a pin loose on the bench with nothing to reassemble them against. There is nothing to gain: the whole reason the Model 70 bolt strips at all is to get lubricant and grit out of the striker channel, and at Figure 22 that channel is already open. Leave the safety in the intermediate position while the assembly is out.",
+   "prose": "Winchester adds a specific consequence of getting that wrong — if the safety is pushed forward with the firing pin removed, the pin releases and locks forward, and getting it back in becomes much harder.",
+   "quote": "Do not disassemble the firing pin assembly any further than shown in Figure 22.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Bolt Maintenance — DISASSEMBLY, step 6",
+   "warn": "Figure 22 is the end of the published strip. No further."
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe and very lightly oil the striker parts — aerosol, not a bath",
+   "action": "With the assembly out, wipe every firing pin part clean and put the lightest possible film of oil back on. Winchester specifically recommends an aerosol lubricant here because it drives dirt, grit and moisture out of the blind recess in the bolt body that a patch cannot reach. Resist a heavy oiling: the striker channel is the one place on a bolt rifle where surplus oil turns to a cold-weather glue and gives you a light primer strike, which is precisely the failure this strip exists to prevent.",
+   "prose": "This is the whole point of the exercise on a wet or dusty hunt. Clean and lightly oiled beats generously oiled every time.",
+   "quote": "Carefully wipe clean and very lightly oil the assembly. Aerosol lubricants are excellent for forcing out any dirt, grit or moisture.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Bolt Maintenance — DISASSEMBLY, step 7"
+  },
+  {
+   "phase": "Clean",
+   "title": "A BOSS-equipped Model 70 has its own cleaning supplement",
+   "action": "If your rifle carries the BOSS accuracy device on the muzzle, stop and get the BOSS supplement before you clean the bore. Winchester does not print the BOSS cleaning instructions in this manual at all — it refers you out to a separate supplement, so anything this book says about running a rod and patch is written for a rifle without that device on the end of the barrel. A missing supplement is replaceable: customer service will send one, and it can be downloaded.",
+   "prose": "This is a per-rifle check, not a per-model one. Two Model 70s in the same chambering can differ here.",
+   "caution": "BOSS fitted? Its cleaning instructions live in a separate supplement, not here.",
+   "quote": "If your Model 70 is equipped with the BOSS accuracy device, please refer to special instructions on cleaning found in the BOSS special supplement manual.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — SPECIAL NOTE ON THE BOSS ® SYSTEM"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt out, bore and receiver — the published limit on going deeper",
+   "action": "With the bolt out and the firing pin assembly stripped to Figure 22, you have reached the end of what Winchester publishes for this rifle. Anything past that — the trigger housing internals, the ejector, the extractor, the bolt stop — is not disassembled in this book and the manual states plainly that you may permanently damage the rifle by opening the inner mechanism. If the rifle needs to go deeper than this, the published route is a qualified gunsmith or the Arnold, Missouri service facility.",
+   "prose": "That limit is what makes the rest of this guide honest: everything above is printed, and there is nothing hidden behind it.",
+   "quote": "NOTICE: NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL. YOUR FIREARM IS A SPECIALIZED, FINELY FITTED MECHANISM. YOU MAY PERMANENTLY DAMAGE IT BY ATTEMPTING TO DISASSEMBLE THE INNER MECHANISM.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Bolt Maintenance — closing NOTICE",
+   "warn": "No disassembly beyond what this manual prints."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "In front of you should be the rifle with an empty receiver, the breech bolt body, and the breech bolt sleeve with the firing pin assembly still joined to it at the Figure 22 break. That is the Model 70 field strip as Winchester defines it — and note that the maker itself calls the bolt teardown a field strip, which is why it sits here and not behind the Deep Clean branch. Keep the parts in the order they came off. Deep Clean covers the bore regimen including copper solvent, the receiver interior, and getting the barreled action out of the stock.",
+   "prose": "The firing pin assembly is the part to keep track of. It is the only thing on the bench still under spring load.",
+   "quote": "One of the unique advantages of a Model 70 is the ability to fieldstrip the bolt for cleaning the firing pin mechanism.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Bolt Maintenance",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Rod in from the breech — the crown is what you are protecting",
+   "action": "With the bolt out, run a snug-fitting patch on a cleaning rod into the barrel from the breech end and work it back and forth. Going in from the breech is possible on a Model 70 precisely because the bolt comes out, and it is the whole reason the manual asks you to remove it first. Guard the muzzle crown: the rod exits there under your hand and a rod tip dragged across the crown lifts a burr on the last surface the bullet touches, which shows up as a group that has opened up for no visible reason.",
+   "prose": "Use a rod guide if you have one. Winchester's warning is about the crown, and a guide protects the chamber mouth at the other end for the same reason.",
+   "quote": "Use a cleaning rod with a tip and patch large enough for a snug fit in the bore. Insert the rod and patch into the barrel at the breech end and run it back and forth several times. Care should be exercised to ensure that the cleaning rod does not strike the crown of the muzzle, as damage to this area can affect the accuracy of your rifle.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Brass brush all the way through before you pull it back",
+   "action": "When fouling is heavy enough to need a brush, dip or spray a brass bore brush with nitro solvent and scrub, but push the brush completely out of the muzzle before reversing it. Reversing a brass brush inside the bore folds the bristles back against their own set and snaps them off, and a broken bristle in a rifle bore is a copper-coloured obstruction that looks exactly like the fouling you were removing. Push through, then pull back, one stroke at a time.",
+   "prose": "This is also why a brush belongs on a one-piece rod. A jointed rod flexes at the joint and rides the lands.",
+   "quote": "To prevent brass bristles from breaking off, the brush should be pushed completely through the barrel before being withdrawn.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Copper solvent, and magnums get it more often",
+   "action": "For accuracy work, follow the nitro solvent with a copper solvent used to its own maker's instructions. Jacket material plates onto the bore over a string of shots, and that copper is not what a powder solvent is formulated to lift — this is a second, separate cleaning, not a stronger version of the first. Winchester calls out magnum calibers as needing inspection and cleaning more often, which follows from the higher velocity and the greater length of bore the jacket is being dragged through.",
+   "prose": "Watch the patches rather than the clock: a blue-green patch means there is still copper in there.",
+   "quote": "To maintain the utmost accuracy of your rifle it is recommended you clean the bore with a copper solvent. Modern bullet jackets are made mainly of copper. Residues from copper bullet jackets stick to the barrel and require more frequent cleaning. Magnum calibers will require more frequent inspection and cleaning.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver interior — a brush, a rag, and a film of oil at most",
+   "action": "Brush or wipe the powder residue and grit out of the inside of the receiver and the lug tracks, then put back nothing more than a light film of a quality gun oil on the moving surfaces. Winchester is explicit that oil must not be poured into the receiver, and the reason on a Model 70 is the stock: the barreled action sits in a wood inlet, oil runs downhill into that inlet, and oil-soaked wood softens and loosens, which changes how the action beds and therefore where the rifle shoots.",
+   "prose": "The two surfaces worth a drop are named in the manual: along the breech bolt where the sleeve contacts it, and along the receiver's bolt tracks.",
+   "quote": "NOTICE: DO NOT POUR LARGE QUANTITIES OF OIL INTO THE RECEIVER OR OTHER PARTS. IT CAN DRAIN INTO THE WOOD AND SOFTEN IT, CAUSING PERMANENT DAMAGE AND LOOSENING OF THE STOCK.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 5",
+   "warn": "Never pour oil into the receiver. It ends up in the stock wood."
+  },
+  {
+   "phase": "Strip",
+   "title": "Barreled action out of the stock — two action screws, 5/32 inch",
+   "action": "The Model 70 manual does publish taking the barreled action out of the stock, though it prints it inside the trigger adjustment procedure rather than as a cleaning step. Bolt out first, then back out the two action screws with a 5/32 inch Allen wrench, lift the bottom metal away from the stock, and lift the barreled action out. The magazine box does not have to come out with it — but note how it is oriented before it does, because it can fall free and it only fits one way round.",
+   "prose": "This is worth doing after a season in wet weather, to dry and inspect the inlet. It is not part of routine cleaning.",
+   "caution": "Note the magazine box orientation before it comes out of the stock.",
+   "quote": "Remove the two action screws with a 5/32\" Allen wrench (Figure 17).",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Trigger Adjustment — ADJUSTING TRIGGER PULL WEIGHT, step 3"
+  },
+  {
+   "phase": "Clean",
+   "title": "Trigger pull weight is adjustable on 2008-and-later rifles — by a gunsmith",
+   "action": "If your rifle has the M.O.A Trigger System, the two screws ahead of the trigger housing are now exposed: the one further from the action sets pull weight, the one closer sets overtravel. Winchester's position is that adjustment should be unnecessary and that a qualified gunsmith should do it, and there are two traps printed alongside — the pull weight screw falls out at the 3 pound minimum, and screwing it in too far limits trigger travel and can leave the trigger inoperative. Finish any adjustment with a drop of serviceable thread locker on the screw.",
+   "prose": "Measure with a proper scale or pull weights afterwards, and check the rifle unloaded and the bolt closed. A trigger you adjusted by feel is not a measured trigger.",
+   "caution": "The pull weight screw falls out at the 3 pound minimum.",
+   "quote": "Though trigger adjustments should be unnecessary, the trigger pull weight and overtravel can be tuned to your specifications. We recommend this procedure be performed by a qualified gunsmith.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Trigger Adjustment"
+  },
+  {
+   "phase": "Strip",
+   "title": "Getting the firing pin assembly back in — the cocking ramp fights you",
+   "action": "Screwing the breech bolt sleeve back into the bolt body is harder than taking it out, and Winchester explains why: the cocking ramp has to compress and decompress several times over those six turns, so the resistance comes and goes rather than climbing steadily. Stand the breech bolt on a flat hard surface, brace it using the bolt handle and the bolt head, and turn the sleeve clockwise firmly until it snaps into place with the sleeve lock in its notch. Do not try this holding the bolt in mid-air.",
+   "prose": "The striker will not be cocked until the bolt has been put back in the rifle and the action cycled once. That is expected, not a fault.",
+   "quote": "As the breech bolt sleeve/firing pin assembly is screwed back into the breech bolt, the cocking ramp of the firing pin must compress, then decompress several times before the assembly is fully screwed in. Place the breech bolt on a flat, hard surface, and using the breech bolt handle and the head of the bolt as a support, firmly turn the breech bolt sleeve clockwise until it snaps into position.",
+   "cite": "Model 70 Owner's Manuals — UNKNOWN — not printed in the document — Bolt Maintenance — REASSEMBLY, step 1"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Bolt out first — the Model 70 cleans from the breech end",
+    "Snug patch on a rod, in from the breech, and keep the rod off the muzzle crown",
+    "Brass brush with nitro solvent only when fouling is heavy; push it fully out of the muzzle before withdrawing",
+    "Copper solvent for accuracy; magnum calibers need it more often",
+    "Wipe the bore dry, then one lightly oiled patch for preservation",
+    "Check no patch has been left in the bore or chamber",
+    "BOSS device fitted? Use the BOSS supplement's cleaning instructions instead of these"
+   ]
+  },
+  {
+   "name": "BOLT & FIRING PIN ASSEMBLY",
+   "tasks": [
+    "Wipe the breech bolt body and the sleeve contact surfaces clean",
+    "Wipe the firing pin assembly clean and very lightly oil it; aerosol lubricant drives out grit and moisture",
+    "Do not strip the firing pin assembly past the point shown in Figure 22",
+    "Keep the safety in the intermediate position while the assembly is out",
+    "A few drops of oil along the breech bolt surface and where the sleeve contacts it"
+   ]
+  },
+  {
+   "name": "RECEIVER & ACTION",
+   "tasks": [
+    "Small brush or rag to lift dirt from inside the receiver and the lug tracks",
+    "Light film of quality gun oil on the moving surfaces only — never pour oil in",
+    "Oil that drains into the stock wood softens it and loosens the bedding",
+    "A light film along the receiver's bolt contact surfaces is all that is needed"
+   ]
+  },
+  {
+   "name": "EXTERIOR & STOCK",
+   "tasks": [
+    "Wipe all exposed metal with a lightly oiled cloth and remove every fingerprint",
+    "Re-oil the metal any time the rifle has been out in weather or handled a lot",
+    "Wood: a lightweight gun oil OR a quality furniture wax — not both",
+    "Avoid DEET insect repellent and sunscreen contact; they attack the finishes"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Stand the breech bolt on a flat hard surface and screw the breech bolt sleeve and firing pin assembly back in clockwise, bracing on the bolt handle and bolt head, until the sleeve lock snaps into its notch.",
+  "Confirm the safety is still in the intermediate position.",
+  "If the barreled action was out of the stock: replace it, refit the magazine box in its original orientation and the bottom metal, then torque the two action screws to 35 inch pounds.",
+  "Line the claw extractor up with the right-hand locking lug and align the bolt lugs with the lug tracks in the receiver.",
+  "Push the bolt fully forward and lower the handle to the locked position.",
+  "Cycle the action once so the firing pin cocks, then put the safety in the on safe position.",
+  "Wipe down every external surface to remove the fingerprints you just left on it."
+ ],
+ "fncheck": "With the rifle unloaded, look through the bore against a light and confirm it is clear and that no patch has been left in the barrel or chamber. Cycle the bolt fully several times and confirm it runs the lug tracks without catching and that the bolt stop arrests it at the rear. Lift and lower the bolt handle to cock the firing pin and confirm the cocking indicator stands proud of the bolt sleeve by at least 1/8 inch — below that the striker is not cocked and the safety cannot go on safe. Work the safety through all three positions and confirm the middle position frees the bolt while the rearward position locks both bolt and firing pin. Confirm the hinged floorplate, if fitted, latches closed and does not drop under its own weight. Leave the safety on safe."
+}

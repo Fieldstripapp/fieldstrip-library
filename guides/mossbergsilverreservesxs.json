@@ -1,0 +1,101 @@
+{
+ "row": "mossbergsilverreservesxs",
+ "make": "Mossberg",
+ "model": "Silver Reserve SxS",
+ "sourcedFrom": "RESERVE™ SERIES SIDE X SIDE BREAK ACTION SHOTGUN — Mossberg International owner's manual — Reserve™ Series Side x Side owner's manual (not printed)",
+ "sourceSha256": "3c6ee927cf25eca923b47c7a5af2d1fdb6be4d6061c29a8d9962301d96694e98",
+ "cleanIntro": "The side-by-side Reserve comes apart in the same two movements as any break gun, but the forearm is released by a BUTTON rather than a latch — the single detail that most often has an over/under owner prying at the wrong part. Its extractors lift shells for removal by hand rather than throwing them, so both chambers get checked by eye and finger every time.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety fully rearward to ON",
+   "action": "Push the tang safety fully back before anything else and keep the muzzle pointed somewhere harmless.",
+   "quote": "Move the safety button fully rearward to the “ON” (SAFE) position",
+   "cite": "RESERVE™ SERIES SIDE X SIDE BREAK ACTION SHOTGUN — Mossberg International owner's manual — Reserve™ Series Side x Side owner's manual — UNLOADING"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Open it — the extractor LIFTS the shells, it does not throw them",
+   "action": "Open the gun and look at what the extractor does: it positions live or spent cartridges for removal by hand. Nothing flies out. If you are used to an ejector gun, this is exactly where a live round gets left sitting proud in a chamber and the gun gets called empty.",
+   "quote": "The extractor will position live or spent cartridges for removal by hand",
+   "cite": "RESERVE™ SERIES SIDE X SIDE BREAK ACTION SHOTGUN — Mossberg International owner's manual — Reserve™ Series Side x Side owner's manual — UNLOADING"
+  },
+  {
+   "phase": "Clear",
+   "title": "Both chambers, by eye and by finger",
+   "action": "Check both. On a side-by-side the chambers sit apart and it is genuinely possible to clear one and glance past the other.",
+   "quote": "Visually and physically check both chambers to be certain the firearm is unloaded.",
+   "cite": "RESERVE™ SERIES SIDE X SIDE BREAK ACTION SHOTGUN — Mossberg International owner's manual — Reserve™ Series Side x Side owner's manual — UNLOADING"
+  },
+  {
+   "phase": "Strip",
+   "title": "Re-prove it empty at the bench",
+   "action": "Before any work, inspect the chambers again and keep the muzzle in a safe direction. The book asks for this at the head of its own assembly section.",
+   "quote": "Before assembly and/or performing any work on your firearm, visually and physically inspect the chambers to be sure that the firearm is completely unloaded.",
+   "cite": "RESERVE™ SERIES SIDE X SIDE BREAK ACTION SHOTGUN — Mossberg International owner's manual — Reserve™ Series Side x Side owner's manual — ASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forearm off — PUSH the release button",
+   "action": "Find the forearm latch release button at the END of the forearm, push it, and pull the forearm away from the barrels. ⛔ A button that is pushed — not the over/under's latch that is lifted. This is the one step where the sibling gun's procedure actively misleads.",
+   "quote": "Push the release button and pull the forearm away from the barrels.",
+   "cite": "RESERVE™ SERIES SIDE X SIDE BREAK ACTION SHOTGUN — Mossberg International owner's manual — Reserve™ Series Side x Side owner's manual — ASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Top lever right, barrels off the hinge pin",
+   "action": "With the forearm off, push the top lever fully right and lift the barrels off the hinge pin — the reverse of the way the book has you put them on, hooking the half-round on the barrel lug onto the receiver's hinge pin at about 45 degrees.",
+   "quote": "Hook the half-round on the barrel lug onto the hinge-pin in the receiver",
+   "cite": "RESERVE™ SERIES SIDE X SIDE BREAK ACTION SHOTGUN — Mossberg International owner's manual — Reserve™ Series Side x Side owner's manual — ASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — and the maker's boundary",
+   "action": "Barrels, forearm, stock and receiver. The book names exactly this much as the owner's share and assigns everything past it to Mossberg International or a gunsmith.",
+   "quote": "but further disassembly should be performed by the manufacturer, Mossberg International and/or a qualified gunsmith only.",
+   "cite": "RESERVE™ SERIES SIDE X SIDE BREAK ACTION SHOTGUN — Mossberg International owner's manual — Reserve™ Series Side x Side owner's manual — CLEANING AND LUBRICATION"
+  }
+ ],
+ "deepAbsentReason": "This book publishes no deeper procedure. Its own scope line stops at barrels, forearm and stock and assigns anything further to Mossberg International or a qualified gunsmith. ⛔ No deeper path is invented for it.",
+ "cleaning": [
+  {
+   "name": "BOTH BORES",
+   "tasks": [
+    "Solvent and brush through each barrel, then patches until clean",
+    "A final lightly oiled patch as a protective film",
+    "⛔ Leave NOTHING in either bore — a patch is an obstruction"
+   ],
+   "quote": "Scrub the bores and chambers with solvent and follow with cleaning patches until the barrels are clean.",
+   "src": "RESERVE™ SERIES SIDE X SIDE BREAK ACTION SHOTGUN — Mossberg International owner's manual, CLEANING AND LUBRICATION"
+  },
+  {
+   "name": "METAL — lightly, and the right lubricant",
+   "tasks": [
+    "Solvent on the metal, then a light film of gun oil",
+    "Over-lubrication avoided — it creeps into the stock head",
+    "Firearm-specific lubricants only",
+    "No abrasives anywhere near the finish"
+   ],
+   "quote": "All metal parts should be cleaned with an appropriate gun cleaning solvent and lightly lubricated with gun oil.",
+   "src": "RESERVE™ SERIES SIDE X SIDE BREAK ACTION SHOTGUN — Mossberg International owner's manual, CLEANING AND LUBRICATION"
+  },
+  {
+   "name": "⛔ CAMO FINISHES — solvent discipline",
+   "tasks": [
+    "Keep strong solvents off a camouflage pattern",
+    "Wipe the outside with an oiled rag rather than flooding it"
+   ],
+   "quote": "Camo guns: Caution should be exercised to avoid exposure of camouflage pattern to strong solvents.",
+   "src": "RESERVE™ SERIES SIDE X SIDE BREAK ACTION SHOTGUN — Mossberg International owner's manual, CLEANING AND LUBRICATION"
+  }
+ ],
+ "reassembly": [
+  "Safety ON. Both bores checked clear of patches and oil.",
+  "Barrels at roughly 45 degrees to the stock/receiver, half-round onto the hinge pin.",
+  "Top lever fully right, swing the barrels up, release the lever and let it centre.",
+  "Forearm plate mated to the receiver, forearm swung up firmly under the barrels.",
+  "Press the forearm home until the latch engages.",
+  "Open and close a few times, then function test."
+ ],
+ "fncheck": "Both chambers proven empty, muzzle safe. Open and close the gun several times to check the barrel assembly moves freely. Closed, safety fully rearward on ON, pull the trigger: the hammer must NOT fall. Finger off, safety fully forward to FIRE: it must not fall on its own. ⛔ If the top lever does not return toward centre when the gun closes, it is not locked up and must not be fired."
+}

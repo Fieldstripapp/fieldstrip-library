@@ -1,0 +1,75 @@
+{
+ "row": "rugeramericanrimfire",
+ "make": "Ruger",
+ "model": "American Rimfire",
+ "sourcedFrom": "Ruger American Rimfire Bolt-Action Rifle Instruction Manual — PM300 (2016)",
+ "sourceSha256": "31eac3caac385c8e249a34803a96abf19a34948c620346cab2430aab6ae079fc",
+ "cleanIntro": "Bolt out is all routine cleaning needs, and Ruger says so plainly. Taking the barrelled action out of the stock is documented too, on the Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safe direction, safety on",
+   "action": "Keep the rifle pointed in a safe direction and put the safety in the \"Safe\" position if the firing pin is cocked.",
+   "prose": "Whether it is cocked decides whether the safety will engage at all.",
+   "quote": "Keep the rifle pointed in a safe direction!",
+   "cite": "Ruger American Rimfire Bolt-Action Rifle Instruction Manual — PM300 — Disassembly, step 1, p.11",
+   "warn": "Rifle must be unloaded prior to disassembly."
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber and magazine empty",
+   "action": "Check that the chamber and magazine are empty, then remove the magazine.",
+   "prose": "Both, and in that order.",
+   "quote": "CHECK TO BE CERTAIN THAT THE CHAMBER AND MAGAZINE ARE EMPTY. Remove the magazine.",
+   "cite": "Ruger American Rimfire Bolt-Action Rifle Instruction Manual — PM300 — Disassembly, step 2, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out — and that is the routine strip",
+   "action": "Open the bolt and pull it rearward while pressing the rear of the bolt stop. On a right-handed rifle the stop is on the left of the receiver; on a left-handed rifle it is on the right.",
+   "prose": "Ruger states outright that this is as far as routine cleaning goes.",
+   "quote": "This is as far as you need to dismantle the rifle for a routine cleaning. It is rarely necessary to proceed further.",
+   "cite": "Ruger American Rimfire Bolt-Action Rifle Instruction Manual — PM300 — Disassembly, step 3, p.11",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Barrelled action out of the stock",
+   "action": "Loosen and remove the two hex-head screws in the bottom of the stock, then lift the barrelled action out.",
+   "prose": "Two screws, and note how they were torqued — a bolt rifle’s accuracy lives in how the action sits back down.",
+   "quote": "Loosen and remove the two hex-head screws in the bottom of the stock. Lift the barreled-action out of the stock.",
+   "cite": "Ruger American Rimfire Bolt-Action Rifle Instruction Manual — PM300 — Disassembly, step 4, p.11"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent patch, correctly sized brush, then dry patches until clean",
+    "Rimfire fouling is waxy and builds fast — the chamber needs as much attention as the bore",
+    "Clean from the chamber end where the design allows"
+   ]
+  },
+  {
+   "name": "BOLT / ACTION",
+   "tasks": [
+    "Wipe the bolt face and around the extractor",
+    "Clean the receiver raceways and the magazine well",
+    "Light oil on bearing surfaces only"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Wipe magazine bodies dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the bolt with the bolt stop depressed, then release the stop.",
+  "If the action was out of the stock, seat it and tighten both hex-head screws evenly."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, check the safety blocks the trigger and the bolt cycles and locks cleanly."
+}

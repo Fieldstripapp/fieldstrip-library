@@ -1,0 +1,196 @@
+{
+ "row": "stoegerstr9",
+ "make": "Stoeger",
+ "model": "STR-9",
+ "sourcedFrom": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document (UNKNOWN — no copyright line is printed in the document)",
+ "sourceSha256": "008b06a7236b2678a03d4ad18cbcec2c73b08726c5340e668cd9ff22ace19673",
+ "cleanIntro": "The STR-9 is a short-recoil, cam-operated tilting-barrel striker pistol, and its field strip is the familiar four pieces: slide, barrel, recoil spring assembly, frame. This one book covers the whole STR family -- STR-9, STR-9C, STR-9SC, STR-9F, STR-9FA, STR-9S and the 9x21 STR-9L -- so check the designation on your slide before taking a capacity or a chambering from it. Stoeger states that field strip is as far as routine maintenance goes; the two things to be careful about are keeping oil out of the striker window and never cleaning the barrel while it is still in the pistol.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, slide back, look and feel in the chamber",
+   "action": "Drop the magazine with the release button, then retract the slide and inspect the chamber both by eye and with a finger. Removing the magazine proves nothing on this pistol -- there is no magazine disconnect, and a chambered round will still fire with the magazine out. Lock the slide open by retracting it while pressing up on the slide stop with no magazine fitted.",
+   "quote": "Remove the magazine by depressing the magazine release button. Retract the slide then visually and physically inspect the cartridge chamber. The pistol is unloaded when there is no cartridge present in the chamber.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — LOAD CHECK, p.22",
+   "warn": "WARNING: This pistol can fire whenever a live round is in the chamber, even if the magazine is empty or has been removed."
+  },
+  {
+   "phase": "Clear",
+   "title": "What this book covers — the STR pistols, and which one is yours",
+   "action": "Before you take a single number out of this book, note what it says about itself: this manual covers the Stoeger STR pistols as a family and nothing outside it, so it is not a source for an M3000, a Condor or any other Stoeger. Then read the model marking on your own slide, because the family is seven pistols and they differ in the ways that matter. The STR-9's own line in the specification table gives a 4.17 in / 106 mm barrel and 10/15/17/20 round magazines, while the C, SC, F, FA and S rows carry different barrel lengths and capacities, and the STR-9L is chambered 9x21 rather than 9x19 with ammunition that is not interchangeable with the rest.",
+   "prose": "The caliber is stamped on the back of the barrel, visible through the ejection port. The specification table on p.35 is where the per-variant figures live.",
+   "aside": "STR-9L 9x21 4,17 in / 106 mm",
+   "quote": "This manual and its figures refer to the Stoeger STR pistols.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — Introduction, p.4",
+   "warn": "This manual covers the STR pistols only. STR-9L is 9x21; every other row in the table is 9x19."
+  },
+  {
+   "phase": "Clear",
+   "title": "Ammunition limits that apply across the STR family",
+   "action": "Use commercial 9x19 ammunition made to SAAMI or CIP spec, in the caliber stamped on your barrel. Sub-machine gun loads are prohibited outright because their chamber pressure can reach or exceed proof-load pressure, and sustained +P or +P+ use shortens component life even though the pistol will fire it. If you have shot lead, de-lead the bore before putting jacketed bullets through it -- lead build-up raises discharge pressure sharply.",
+   "quote": "WARNING: The extended use of +P or +P+ ammunition may decrease component part service life expectancy. DO NOT use sub-machine gun ammunition because the chamber pressure may reach or exceed proof load pressure.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — AMMUNITION, p.12",
+   "warn": "No sub-machine gun ammunition in any STR pistol."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide back 1/16 inch, both sides of the takedown latch down",
+   "action": "With the magazine out and the chamber confirmed empty, pull the slide back about 1/16 inch -- one millimetre, no more -- and hold it there while you pull down on both sides of the takedown latch together. Then let the slide run forward until it stops. Pulling the latch on one side only, or with the slide fully forward, is why it feels stuck; the small rearward movement is what unloads the latch so it can rotate.",
+   "caution": "It is advisable to perform field stripping and assembly operations over a table to catch components should they drop.",
+   "quote": "Pull the slide approximately 1/16” (1 mm) to the rear, then pull down on both sides of the takedown latch and let the slide move forward until it stops.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — FIELD STRIPPING, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger press, then the slide runs off the front of the frame",
+   "action": "Point the pistol in a safe direction, keep your hand clear of the muzzle, and press the trigger -- the STR requires the striker to be released before the slide will come off. Then push the slide assembly forward off the frame rails. Keep a thumb over the recoil spring assembly as the slide clears, because it is captive only until the slide is free and will otherwise leave with it.",
+   "prose": "This is the moment the earlier chamber check earns its keep: the trigger press is unavoidable, so the gun must genuinely be empty.",
+   "quote": "With the pistol pointed in a safe direction and your hand clear of the muzzle, pull the trigger, then pull the 23 STR slide assembly forward off of the frame. Be careful to retain the recoil spring and guide rod assembly (See Illustration 9.3 & 9.4).",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — FIELD STRIPPING, pp.23-24",
+   "warn": "The trigger must be pressed to strip. Confirm the chamber is empty first."
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring assembly out of the slide",
+   "action": "Lift the recoil spring and guide rod assembly out of its seat in the slide. It comes out as one captive unit -- do not try to separate the spring from the guide rod, which is not a serviceable joint on this pistol. Note which end is which: the large flat end engages the recess in the barrel cam lug when it goes back.",
+   "quote": "The recoil spring assembly can now be lifted out of the slide.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — FIELD STRIPPING, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Tilt the barrel out by its cam lug",
+   "action": "Grasp the barrel by the cam lug underneath, tilt the muzzle up slightly and draw the barrel back and out of the slide. The tilt is what disengages the locking shoulders from the ejection-port cut; lifting it straight up jams it. That is the end of the strip -- Stoeger states plainly that nothing further comes apart for routine maintenance.",
+   "caution": "Notice: No further disassembly is required for routine maintenance.",
+   "quote": "Tilt the barrel by grasping the cam lug and remove the barrel from the slide. (Illustration 11)",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — FIELD STRIPPING, p.24"
+  },
+  {
+   "phase": "Clean",
+   "title": "Barrel from the chamber end -- and never in the assembled pistol",
+   "action": "Clean the barrel only with it out of the slide. Push a solvent-charged bore brush in from the chamber end and all the way through before drawing it back, then dry with patches until they come out clean. Working from the chamber protects the crown, and cleaning a barrel while the pistol is assembled drives fouling and solvent into the frame and striker channel where they have no way out.",
+   "prose": "Wipe the barrel locking lug with an oiled cloth and give the whole barrel a light film before it goes back.",
+   "quote": "WARNING: Do not clean the barrel with the pistol assembled.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — MAINTENANCE (Cleaning and Lubrication), p.28",
+   "warn": "Excess oil obstructing the bore, even partially, can rupture the barrel."
+  },
+  {
+   "phase": "Clean",
+   "title": "Slide and frame -- keep oil out of the striker window",
+   "action": "Wipe the slide with an oiled cloth, paying attention to the breech face, extractor, slide rails and locking shoulders, using a nylon brush if needed, then dry it and lightly oil the guide rails only. Do not put oil on the striker, and keep it out of the striker window while you work -- oil there collects dust and lint and is the usual cause of a sluggish or light strike on a polymer striker gun. Do the same on the frame: clean the cocking lever area, ejector and rails, dry, then a light film on the rails.",
+   "prose": "Use only solvents rated for polymer; some will attack the backstrap, frame and other polymer parts.",
+   "caution": "CAUTION: Some solvents may cause damage to the BACK STRAP, FRAME and POLYMER materials.",
+   "quote": "CAUTION: Do not apply oil on the striker. While oiling the slide prevent oil from entering the striker window. Accumulation of oil attracts dirt and dust, which can interfere with the functioning and reliability of the firearm.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — MAINTENANCE (Cleaning and Lubrication), p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Slide, barrel, recoil spring assembly and frame are the four pieces, and on the STR that is the whole of the routine strip -- the manual says so in as many words. Everything that needs attention after a range session is now in your hands. Deep Clean covers the magazine, which does come apart, and the component-by-component cleaning the book specifies for each part.",
+   "prose": "Nothing in the frame's fire-control group is user-serviceable; altering internal parts voids the warranty and creates an unsafe condition.",
+   "quote": "Notice: No further disassembly is required for routine maintenance.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — FIELD STRIPPING, p.24",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Magazine floor plate -- the spring is waiting behind it",
+   "action": "Put on safety glasses first, then depress the magazine plate through the hole in the magazine floor plate with a pointed tool and slide the floor plate forward off the tube while holding the plate down against spring pressure. The spring is compressed the whole time and will fire the plate and follower across the room if your thumb comes off early. Let it up slowly, then take plate, spring and follower out through the bottom of the body.",
+   "quote": "WARNING: THE MAGAZINE SPRING IS UNDER PRESSURE. CONTROL THE SPRING AND FOLLOWER SO THAT THEY DO NOT FLY OUT AND CAUSE INJURY.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — MAGAZINE DISASSEMBLY, p.29",
+   "warn": "WARNING: WEAR SAFETY GLASSES EVERY TIME YOU ASSEMBLE OR DISASSEMBLE YOUR MAGAZINE."
+  },
+  {
+   "phase": "Clean",
+   "title": "Magazine body dry, follower free, no oil left inside",
+   "action": "Dry the internal walls of the magazine box with a cloth and check the follower slides down freely when pressed. Leave no oil in the magazine at all -- oil in a magazine body traps the powder residue that blows back down the well and turns into a paste that binds the follower. A follower that hesitates is the most common cause of a failure to feed on this pistol.",
+   "quote": "MAGAZINE Make sure the magazine is thoroughly clean and that the follower slides easily downward if pressed. Dry the internal walls of the magazine box with a cloth. Do not leave any oil in the magazine.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — MAINTENANCE (Cleaning and Lubrication), p.29"
+  },
+  {
+   "phase": "Clean",
+   "title": "Magazine back together in the same orientation",
+   "action": "Put the spring, follower and magazine plate back in exactly the orientation they came out in -- the plate and follower are both handed, and a reversed follower will feed nose-down. Hold the plate down in the body and slide the floor plate onto the base so the plate's projection engages it. Prove it by pushing on the floor plate as though sliding it off; it should not move.",
+   "quote": "MAGAZINE ASSEMBLY: Install magazine spring, follower and magazine plate into the body in exactly the same orientation as they were in when they were removed during disassembly.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — MAGAZINE ASSEMBLY, p.30"
+  },
+  {
+   "phase": "Clean",
+   "title": "Load it back to YOUR variant's capacity, not the family's",
+   "action": "When the magazine goes back into service, fill it only to the count printed for your own pistol. The specification tables give different capacities across the family -- the STR-9 line lists 10/15/17/20 round magazines, the STR-9C 10/13/15, the STR-9SC 10 -- so a magazine body that physically accepts another round is not permission to seat it. Forcing rounds past the stated maximum crushes the spring stack and is a documented cause of the magazine not functioning properly.",
+   "prose": "Use the witness holes in the back of the body to count rather than judging by feel.",
+   "caution": "An overloaded magazine may not function properly.",
+   "quote": "CAUTION: Do not try to force more than the maximum number of rounds indicated for your particular pistol into the magazine.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — LOADING THE MAGAZINE, p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Barrel locking lug and bore, out of the pistol",
+   "action": "With the barrel still out, scrub chamber and bore from the chamber end and push the brush fully through before drawing back, then dry with patches until clean. Clean the barrel locking lug with an oiled cloth -- that lug and the cam are where the tilt-barrel lockup actually happens, and carbon there changes how the barrel unlocks. Give the whole barrel a light coat of oil before reassembly.",
+   "caution": "Notice: Cleaning the barrel from the breech (chamber) end will avoid damaging the muzzle or bore.",
+   "quote": "Clean the barrel locking lug with a cloth soaked in gun oil. Lightly oil the entire barrel prior to reassembly.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — MAINTENANCE - BARREL, p.28"
+  },
+  {
+   "phase": "Clean",
+   "title": "Frame: cocking lever, ejector, rails",
+   "action": "Take a cloth lightly soaked in gun oil to the cocking lever area, the ejector and the frame rails, using a brush where carbon has built up, then dry the parts and put a light film on the rails only. The ejector is a small blade standing in the path of every case that leaves the gun and it collects residue faster than anything else in the frame. Do not go past this into the fire-control group.",
+   "prose": "Altering or removing internal parts of the firing mechanism creates an unsafe condition and voids the warranty.",
+   "quote": "FRAME ASSEMBLY Using a cloth lightly soaked in gun oil, clean the areas of the cocking lever, the ejector, and the slide rails. If necessary, use a cleaning brush. Dry the parts and lightly oil the frame rails.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — MAINTENANCE - FRAME ASSEMBLY, p.29"
+  },
+  {
+   "phase": "Clean",
+   "title": "Recoil spring assembly and guide",
+   "action": "Lightly oil the spring guide assembly. After a lot of use it may need cleaning with a nylon brush first, because carbon works its way forward under the barrel and packs around the guide rod head. Keep it to a film -- a wet recoil assembly picks up grit that then rides between the spring coils.",
+   "quote": "RECOIL SPRING AND SPRING GUIDE ASSEMBLY Lightly oil the spring guide assembly with gun oil. After extensive use it may be necessary to first clean these parts using a NYLON cleaning brush.",
+   "cite": "STR SERIES — PISTOL USER MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — MAINTENANCE, p.29"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Clean only with the barrel OUT of the pistol",
+    "Brush chamber and bore from the chamber end; push the brush fully through before drawing back",
+    "Dry with patches until they emerge clean",
+    "Clean the locking lug with an oiled cloth and lightly oil the whole barrel"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Wipe breech face, extractor, slide rails and locking shoulders with an oiled cloth; nylon brush if needed",
+    "Dry, then lightly oil the guide rails only",
+    "No oil on the striker, and none into the striker window",
+    "Use only polymer-safe solvents near the backstrap and frame"
+   ]
+  },
+  {
+   "name": "FRAME & RECOIL ASSEMBLY",
+   "tasks": [
+    "Clean the cocking lever area, the ejector and the slide rails; dry and lightly oil the rails",
+    "Lightly oil the spring guide assembly; nylon brush it first after extensive use",
+    "Do not open or alter the fire-control group"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Safety glasses on before the floor plate moves",
+    "Dry the internal walls; confirm the follower slides freely",
+    "Leave NO oil in the magazine",
+    "Reassemble spring, follower and plate in their original orientation and prove the floor plate is locked"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Fit the barrel into the slide: tip it to pass the muzzle through the hole in the front of the slide, then lower the rear into position.",
+  "Install the recoil spring assembly with the large flat end engaged in the recess in the barrel cam lug.",
+  "Holding slide and recoil spring guide firmly in one hand, place the rear of the slide onto the front frame rails.",
+  "Run the slide back until it is fully rearward, then let it move forward to the closed position and check the takedown latch has returned to fully engaged.",
+  "Function-check before loading, and confirm the firing pin is not protruding from the breech face."
+ ],
+ "fncheck": "With the pistol empty and pointed in a safe direction, check the takedown latch is fully engaged after reassembly -- a latch left down is the one reassembly error that lets the slide leave the frame under recoil. Cycle the slide by hand several times and confirm it returns fully into battery under its own spring. Insert an empty magazine, retract the slide and confirm it locks open on the slide stop, then remove the magazine and confirm the slide stays locked. Verify the firing pin is not protruding from the breech face, and check the bore is clear and free of excess oil before any live round is chambered."
+}

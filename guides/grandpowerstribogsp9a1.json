@@ -1,0 +1,108 @@
+{
+ "row": "grandpowerstribogsp9a1",
+ "make": "Grand Power",
+ "model": "Stribog SP9A1",
+ "sourcedFrom": "THE STRIBOG — Instructions for use, maintenance and safety (EN) — Instructions for use, maintenance and safety, English edition — undated (UNKNOWN — not printed in the document)",
+ "sourceSha256": "da3ab1e08da8b83c7cb4d1c8f39fe33829bb5a33584352cef035100118526fb8",
+ "cleanIntro": "A Stribog strip out of Grand Power's own book: the rear assembly pin driven PART way out, the lower hinged back, then the stock mount released under spring tension. That spring is the one thing to respect here — the manual warns about it before it tells you to move anything.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Point it somewhere safe and take the magazine out before anything else.",
+   "quote": "Remove the magazine",
+   "cite": "THE STRIBOG — Instructions for use, maintenance and safety (EN) — Instructions for use, maintenance and safety, English edition — undated — Instructions for Maintenance — Disassembly for cleaning, step 1, p.7"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber and magazine well both checked",
+   "action": "Verify there is no round in the chamber or in the magazine well. Grand Power asks for both — on this pattern a round can sit in the well after the magazine is out and feed on the next cycle.",
+   "caution": "Do not attempt to pull on the charging handle when the safety is engaged (safety lever is in safe position) as this may result in damage to the weapon.",
+   "quote": "Verify that there is no round in the chamber or magazine well.",
+   "cite": "THE STRIBOG — Instructions for use, maintenance and safety (EN) — Instructions for use, maintenance and safety, English edition — undated — Instructions for Maintenance — Disassembly for cleaning, step 2, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear assembly pin driven PARTLY out — and no further",
+   "action": "Drive the rear assembly pin partially out of the lower receiver with a punch. It is not meant to come all the way out: you will hear a click when it reaches its disassembly position, and that click is the stop. Keep the punch under control so you do not drive it straight through.",
+   "caution": "You will hear a click as a pin rests in proper disassembly position, so use caution when using",
+   "quote": "Using appropriate punch, drive the rear assembly pin partially out of the lower receiver of the gun. Do not remove",
+   "cite": "THE STRIBOG — Instructions for use, maintenance and safety (EN) — Instructions for use, maintenance and safety, English edition — undated — Instructions for Maintenance — Disassembly for cleaning, step 3, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lower hinged back off the upper",
+   "action": "Pull on the handle and separate the rear of the lower receiver from the upper. The partly-driven pin is what it pivots on.",
+   "quote": "By pulling on the handle, separate the rear part of the lower receiver from the upper receiver.",
+   "cite": "THE STRIBOG — Instructions for use, maintenance and safety (EN) — Instructions for use, maintenance and safety, English edition — undated — Instructions for Maintenance — Disassembly for cleaning, step 4, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stock mount released under spring tension",
+   "action": "This is the step that bites. The stock mount is under spring load: hold the upper receiver and the stock mount firmly, press or lightly tap the mount downwards, and let the spring push it out of the upper. If it does not come, pull it gently rather than levering — it should not need force.",
+   "caution": "Make sure that you are holding the upper receiver and the stock mount firmly while doing this.",
+   "quote": "There is spring tension on the stock mount, so be careful while performing next steps.",
+   "cite": "THE STRIBOG — Instructions for use, maintenance and safety (EN) — Instructions for use, maintenance and safety, English edition — undated — Instructions for Maintenance — Disassembly for cleaning, step 5, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer, guide rod and spring out",
+   "action": "With the stock mount clear, take the buffer, the spring guide rod and the spring out of the upper receiver.",
+   "quote": "Remove the buffer, spring guide rod and the spring from the upper receiver.",
+   "cite": "THE STRIBOG — Instructions for use, maintenance and safety (EN) — Instructions for use, maintenance and safety, English edition — undated — Instructions for Maintenance — Disassembly for cleaning, step 6, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle aligned to its slot and drawn out",
+   "action": "Pull the charging handle along its travel until it lines up with the opening cut in the upper receiver, then pull it straight away from the receiver to remove it. It only releases at that one point.",
+   "quote": "When the charging handle is properly aligned with the slot, pull the charging handle away from the receiver in",
+   "cite": "THE STRIBOG — Instructions for use, maintenance and safety (EN) — Instructions for use, maintenance and safety, English edition — undated — Instructions for Maintenance — Disassembly for cleaning, steps 7-8, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt assembly tipped out of the upper",
+   "action": "With the charging handle out, tilt the upper receiver and let the bolt assembly come out. That is the gun stripped for cleaning — and Grand Power stops you there in the next line.",
+   "quote": "When the charging handle is fully removed, you can remove the bolt assembly from the gun by tilting the upper",
+   "cite": "THE STRIBOG — Instructions for use, maintenance and safety (EN) — Instructions for use, maintenance and safety, English edition — undated — Instructions for Maintenance — Disassembly for cleaning, step 9, p.7",
+   "warn": "Do not disassemble any other part of the weapon. If you believe that your firearm requires adjustment or a repair, take it",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Grand Power publishes the strip above and then stops in its own words: no other part of the weapon is to be disassembled, and anything needing adjustment or repair goes to a gunsmith. There is no bolt, firing pin, extractor or trigger procedure in the 16 pages. That is the manufacturer's published DON'T and it stands; nothing deeper was invented from it.",
+ "cleaning": [
+  {
+   "name": "BARREL BORE & CHAMBER",
+   "tasks": [
+    "Insert the rod and brush through the CHAMBER, never the muzzle — muzzle damage is the reason Grand Power specifies the direction",
+    "Push the brush all the way through; never reverse direction with it inside the bore",
+    "For heavy carbon, wet the bore and chamber and let the solvent stand at least 10 minutes before brushing",
+    "Patch until the last patch comes out clean, then dry the bore and chamber"
+   ]
+  },
+  {
+   "name": "RECEIVERS & OTHER PARTS",
+   "tasks": [
+    "Clean the receivers and other parts with a dry cloth and a suitable brush or a wooden scraper",
+    "⛔ Keep BORE solvent off these parts — Grand Power warns it is highly corrosive and sits in the joints between components, causing serious corrosion later",
+    "Preservation oil or kerosene may be used on these parts instead"
+   ]
+  },
+  {
+   "name": "BOLT & RECOIL PARTS",
+   "tasks": [
+    "Wipe the bolt assembly, the bolt face and the extractor recess",
+    "Wipe the buffer, spring guide rod and spring; check the spring is not kinked",
+    "Wipe the charging handle and its travel path in the upper receiver"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Grand Power's own instruction: assembly takes place in reverse order of disassembly.",
+  "Bolt assembly back into the upper, then the charging handle in at its slot and run back along its path.",
+  "Buffer, spring and guide rod back into the upper receiver.",
+  "Stock mount back into the upper — pressing on the red buffer with the thumb of the hand holding the upper receiver makes this easier, which is the manual's own tip.",
+  "Close the lower onto the upper and push the rear assembly pin back to its seated position.",
+  "Check the action cycles before a magazine goes anywhere near it."
+ ],
+ "fncheck": "With the gun confirmed empty and no magazine fitted, check the rear assembly pin is fully seated, cycle the charging handle and confirm the bolt runs fully into battery, and check the safety operates before the gun is stored. Do not work the charging handle with the safety engaged."
+}

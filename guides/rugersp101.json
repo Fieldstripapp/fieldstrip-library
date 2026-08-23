@@ -1,0 +1,54 @@
+{
+ "row": "rugersp101",
+ "make": "Ruger",
+ "model": "SP101",
+ "sourcedFrom": "Ruger SP101 Instruction Manual — PM053 (2025)",
+ "sourceSha256": "458cccaa22a96715764c0f9657840dbc59059e39a4c8a716e60d1aa6b5790b8f",
+ "cleanIntro": "Ruger publishes no disassembly for the SP101 — it states the mechanism is lubricated without taking anything apart. This guide is the cleaning it does document.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Swing the cylinder out and empty it",
+   "action": "Open the cylinder and confirm every chamber is empty, by eye and by finger.",
+   "prose": "Five chambers on this revolver. Check all five.",
+   "quote": "To clean the revolver after firing, swing the cylinder out and clean the barrel from the muzzle",
+   "cite": "Ruger SP101 Instruction Manual — PM053 — Care and Cleaning, p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Nothing comes apart — and that is the instruction",
+   "action": "There is no field strip to perform. Ruger states the SP101 mechanism can be lubricated without disassembly.",
+   "prose": "A few drops of light firearm oil applied periodically about the frame openings work their way into the mechanism. That is the whole internal maintenance the manual describes.",
+   "quote": "The internal mechanism of the SP101",
+   "cite": "Ruger SP101 Instruction Manual — PM053 — Care and Cleaning, p.15",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The SP101 manual documents no disassembly at all — it states the internal mechanism can be lubricated without disassembly (Care and Cleaning, p.15). With no field strip published there is nothing \"past\" it, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Swing the cylinder out and clean the barrel from the muzzle with a solvent-coated patch, several passes",
+    "Push a correctly sized bronze wire brush the full length of the bore several times",
+    "Swab with a solvent patch again, then wipe the rod and swab with dry patches until clean",
+    "Examine the bore to be sure no fouling remains"
+   ]
+  },
+  {
+   "name": "CHAMBERS",
+   "tasks": [
+    "Repeat the bore procedure for each of the five chambers"
+   ]
+  },
+  {
+   "name": "EXTERIOR & MECHANISM",
+   "tasks": [
+    "Apply a few drops of light firearm oil periodically about the various frame openings and let it work into the mechanism",
+    "Wipe the exterior, bore and chambers, then wipe with an oily cloth if the revolver is going into storage",
+    "Do not apply excess lubrication"
+   ]
+  }
+ ],
+ "fncheck": "With the revolver confirmed empty, check the cylinder swings out and indexes freely, and dry fire pointed in a safe direction."
+}

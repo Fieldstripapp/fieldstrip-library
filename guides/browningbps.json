@@ -1,0 +1,176 @@
+{
+ "row": "browningbps",
+ "make": "Browning",
+ "model": "BPS",
+ "sourcedFrom": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "b136834565a4eaaf82f3dd25cc1ff7b720b5ee652ff327c2a212b9c457a06109",
+ "cleanIntro": "The BPS is Browning's bottom-load, bottom-eject pump gun — everything goes in and comes out through the one port under the receiver, which makes it ambidextrous and gives it an unloading procedure most pump owners have never seen: shells are released from the magazine one at a time by pressing the shell stop inside the loading port, without cycling them through the chamber. Its published strip is exactly one joint deep — magazine cap off, barrel forward out of the receiver — and the manual closes that section with 'No further disassembly is recommended.' The variant map matters more on this gun than most: Deer barrels carry a stabilizing ring and washer that must come off before the barrel does, Trap models add a magazine cut-off, Micro and Micro Midas stocks take extra spacers, and pre-1983 guns have fixed chokes where current guns take Invector tubes. This guide walks the manual's own order and flags each variant where the book does.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Which BPS is on the bench — the variants change the procedures",
+   "action": "Identify your gun before following anything: the manual covers the BPS line, and several procedures fork by variant. A Deer barrel carries a stabilizing split ring and lock washer on the magazine tube that changes both disassembly and assembly; a Trap model has a magazine cut-off lever with its own operating logic; Micro and Micro Midas stocks ship with longer screws for extra length-of-pull spacers; and the choke system depends on the gun's age — pre-1983 barrels are conventionally choked, current ones take Invector tubes. Read the barrel-side inscription now; it names the gauge, chamber and choke system this specific gun was built for.",
+   "prose": "Everything below assumes the plain field gun and calls out the forks where they happen.",
+   "quote": "Pre-1983 BPS models are conventionally choked. Current BPS shotguns have barrels that are threaded to accept either the Standard Invector™ or Invector-Plus™ choke tube systems.",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Interchangeable Choke Tube System"
+  },
+  {
+   "phase": "Clear",
+   "title": "Tang safety rearward — the red dot disappears",
+   "action": "Slide the safety, on the top rear of the receiver, rearward with your thumb until the red warning dot is covered. Forward exposes the dot and means ready to fire. The tang position is why the BPS is genuinely ambidextrous — both thumbs reach it identically — and the manual's caveat applies here as everywhere: do not depend on the red paint alone, because weather and solvents can erase it. On safe, muzzle safe, and fingers off the trigger before anything else happens.",
+   "prose": "The safety blocks the trigger only. The magazine and chamber are still whatever they were.",
+   "quote": "To move the “safety” to the on safe position, slide the “safety” rearward with your thumb so that the red warning dot is covered (Figure 3).",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Operation of the \"Safety\"",
+   "warn": "Red dot covered = safe. And never trust the paint alone."
+  },
+  {
+   "phase": "Clear",
+   "title": "Empty the magazine at the shell stop — the BPS way",
+   "action": "With the forearm fully forward, turn the gun trigger-guard-up and push the carrier down as far as it goes. Inside the receiver on the left side of the loading port (to your right as you look down into it) is the shell stop — the catch holding the shells in the tube by their rims. Press it inward with your index finger and the magazine spring pushes a shell out into your hand; capture it, mind your finger, and press again for the next until the tube is empty. This empties the magazine without a single shell passing through the chamber.",
+   "prose": "This is the procedure that makes BPS owners at the range look like they know something — because unloading by cycling puts every live shell through the action for no reason.",
+   "quote": "Push inward on the shell stop with your index finger (Figure 11) to release a shell from the magazine. As the shell stop is pressed in, the shell will be forced out of the magazine under spring pressure. Capture the shell as it comes out. Be careful not to pinch your finger.",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Unloading",
+   "warn": "Shells leave under spring pressure. Capture each one and keep the finger clear of the stop."
+  },
+  {
+   "phase": "Clear",
+   "title": "Then the chamber — slide release, forearm back, and a finger in the magazine mouth",
+   "action": "With the safety on, press the slide release button — left side of the trigger guard, at the rear, behind the trigger — and slowly pull the forearm fully rearward to eject the chambered shell out the bottom. Slide the forearm forward again, then finish the way the manual does: feel the entry of the magazine with your index finger for any shell that never fed, and visually inspect the chamber, feed mechanism and magazine until you can see all three are empty. Bottom ejection means the chambered shell drops at your feet, not across the bench.",
+   "prose": "Right-handed shooters reach the release under the rear of the trigger guard from the far side; left-handers lift it with the trigger finger. The button moves up and slightly rearward.",
+   "quote": "Using your index finger, feel the entry of the magazine to make sure there are no shells that have not been fed from the magazine and ejected. Visually inspect the chamber, feed mechanism and magazine to assure there are no shells remaining.",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Unloading",
+   "warn": "Feel the magazine mouth AND look. A shell that never fed is invisible from the ejection port."
+  },
+  {
+   "phase": "Clear",
+   "title": "Gauge and length off the barrel side, and why the wrong one is a burst",
+   "action": "Use only shells of the gauge and length inscribed on the side of the barrel. The manual spells out the failure this rule prevents: a smaller-gauge shell dropped into a larger-gauge chamber does not fall through — its rim hangs up ahead of the chamber or at the choke, the gun misfires with the chamber looking empty, and the correct shell then loads behind it. Firing that stack is the classic 12-16 or 12-20 burst. Chamber length is its own limb of the same rule: no 3-inch or 3½-inch shells in a 2¾-inch chamber, and no 3½-inch shells in a 3-inch chamber.",
+   "prose": "A 3-inch-chambered BPS shoots 2¾ and 3-inch field loads; the 3½-inch gun shoots all three lengths. The barrel inscription, not the box in your bag, is the authority.",
+   "quote": "The most certain way to bulge or rupture a shotgun barrel is to load a smaller gauge shell into a larger gauge chamber. The smaller gauge shell will not fall completely through the barrel; its rim is caught by the front of a larger gauge chamber or at the larger gauge’s choke. Your shotgun will misfire (with the chamber appearing to be empty).",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Ammunition",
+   "warn": "Never a smaller-gauge shell in a larger-gauge gun, and never a shell longer than the chamber."
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel off: magazine cap, then ease it forward — Deer guns shed their ring first",
+   "action": "With the slide in its forward position, unscrew the magazine cap and remove it. Hold the receiver in one hand and the barrel in the other, and ease the barrel forward off the magazine tube and out of the receiver. On BPS Deer models there is a step before any of that: the barrel stabilizing lock washer and split ring on the magazine tube come off first — they are what makes the Deer barrel's rigid mounting work, and the barrel will not come free over them. That is the entire published disassembly of a BPS.",
+   "prose": "Set the cap, and on a Deer gun the washer and ring, in the tray in removal order — the ring and washer have a stacking order and a bevel orientation that matter at reassembly.",
+   "quote": "IMPORTANT: On BPS Deer models it is necessary to first remove the barrel stabilizing lock washer and split ring before removing the barrel (Figure 8).",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Disassembly",
+   "warn": "Deer models: lock washer and split ring off the magazine tube BEFORE the barrel."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the manual stops here on purpose",
+   "action": "Barrel off, magazine cap in the tray, and that is the whole teardown: the manual's next line is 'No further disassembly is recommended.' The trigger group, breech block, action bars and magazine internals all stay where they are — the closing notice bars going further than the book explains and routes deeper work to a qualified gunsmith or Browning's Arnold, Missouri facility. Everything the cleaning routine needs is now reachable: the bore from the breech end, the choke threads at the muzzle, and the receiver track through the open action.",
+   "prose": "Two parts on the mat — cap and barrel — plus ring and washer on a Deer gun. More than that and you are past the book.",
+   "quote": "No further disassembly is recommended.",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Disassembly, closing line",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the breech, and read the streaks before you scrub",
+   "action": "With the barrel off, run a shotgun rod with a slotted tip or jag and a snug, lightly oiled patch in at the breech end and back and forth through the bore. Then inspect from both ends for leading and plastic wad residue — longitudinal streaks, usually worst near the muzzle and just ahead of the chamber. A normal amount is common and not serious; if it is excessive, soak a brass brush with powder solvent and scrub, pushing the brush fully through before drawing it back so bristles do not fold and break off. Finish with a dry patch, then one lightly oiled patch.",
+   "prose": "Solvents are flammable and this is eye-protection work — the same warning the manual prints beside this exact step.",
+   "caution": "Push the brush fully through before pulling back. Check for forgotten patches before reassembly.",
+   "quote": "4. Inspect the bore from both ends for leading and plastic residue that often remain in the bores from the shot cups in modern shells. Leading and plastic residue will appear as longitudinal streaks and are usually more predominant near the muzzle and just forward of the chamber. A normal amount of either is common and not serious.",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING THE BARREL, steps 3-6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Choke tubes: wrench out, clean and oil the threads, never mix systems",
+   "action": "Remove the choke tube with the supplied Invector T-wrench turning counterclockwise, finger-twist it out, and wipe tube, tube threads and barrel threads with a nylon brush before oiling them lightly — the manual is blunt that unoiled threads are how a tube seizes in the barrel. Then the system rule, which is absolute: Invector-DS, Invector-Plus and Standard Invector are not interchangeable, no Browning tube goes in a non-Browning barrel, no other choking device goes in a Browning barrel, and the gun is never fired without the correct tube installed or the muzzle threads take the damage.",
+   "prose": "Constriction reads twice on each tube — on the side, and as the notch code on the rim so you can read it installed. Rim notches are the lead-shot designations; steel cross-references through the manual's chart.",
+   "quote": "CAUTION: BROWNING INVECTOR-DS, INVECTOR-PLUS AND STANDARD INVECTOR CHOKE TUBES ARE NOT INTERCHANGEABLE. DO NOT USE BROWNING INVECTOR-PLUS, STANDARD INVECTOR OR INVECTOR-DS CHOKE TUBES IN ANY SHOTGUN BARREL NOT SUPPLIED BY BROWNING. DO NOT USE ANY OTHER CHOKING DEVICE IN ANY SHOTGUN BARREL SUPPLIED BY BROWNING.",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Unloading > choke tube warnings (procedure: CHOKE TUBE REMOVAL / INSTALLATION)",
+   "warn": "Choke work only on a verified-empty gun, and periodically re-check the tube is tight and seated."
+  },
+  {
+   "phase": "Clean",
+   "title": "A drop in the receiver track, films everywhere else",
+   "action": "Reassemble, wipe every exposed metal surface with an oiled cloth until the finger marks are gone, and give the action its one specific lubrication point: occasionally, a small drop of light gun oil inside the receiver track that the breech block and action bars ride on. That drop is what keeps a BPS pump stroke smooth. The quantity rule is printed beside it for a wooden reason — excess oil in the action runs back into the stock, softens the wood and loosens the stock permanently.",
+   "prose": "Ported barrels collect carbon in the ports: powder solvent and pipe cleaners, when your gun has them. Wood gets light gun oil or furniture wax — one, not both.",
+   "caution": "A drop in the track, not a pour in the action — excess oil ends in the stock wood.",
+   "quote": "Occasionally a small drop of light gun oil may be placed inside the receiver track on which the breech block and action bars ride during operation (Figure 18). This will help relieve friction and ensure smooth operation.",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > PERIODIC OILING"
+  },
+  {
+   "phase": "Clean",
+   "title": "Trap guns: know which way the magazine cut-off points",
+   "action": "If yours is a BPS Trap, the lever at the base of the magazine just ahead of the receiver is the magazine cut-off, and it has two positions: S locks the carrier so the magazine cannot feed — you single-load the chamber straight through the port, and ejection slows so fired hulls stay controllable — and R returns the gun to a normal repeater. A cut-off left in S is the classic Trap-gun 'malfunction': the gun feeds nothing from a full magazine and nothing is wrong with it. Check the lever's position whenever the gun's feeding behaviour surprises you.",
+   "prose": "The cut-off is a Trap-model feature; if your BPS does not have the lever, this step does not apply to it.",
+   "quote": "BPS Trap models feature a magazine cut-off that makes single-shot loading of the chamber possible without first loading a shell into the magazine.",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Magazine Cut-Off"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stock length: spacers by variant, and one stock that cannot be cut",
+   "action": "BPS stocks with the Inflex pad adjust length of pull by ¼-inch spacers behind the recoil pad — screws out through the greased access slits with a #2 Phillips, spacers added or removed, pad back on without overtightening. The variant map governs how far this goes: standard guns take one spacer with the provided screws, while Micro and Micro Midas models include longer screws for up to three spacers and ¾ inch of extension. Shortening runs the other way through a gunsmith — wood stocks get cut and refitted, composite stocks with the integrated sling eyelet can lose up to ¾ inch, and composite stocks without the eyelet cannot be shortened at all.",
+   "prose": "Replacement screws, where needed, are common No. 7 panhead Phillips self-tappers; spacers come from a Browning dealer or Customer Service.",
+   "caution": "Composite stocks without the integrated eyelet cannot be shortened.",
+   "quote": "Micro and Micro Midas models include a set of longer screws, allowing a maximum of three ¼\" spacers to be added to extend length of pull up to ¾\".",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Length of Pull Adjustment"
+  },
+  {
+   "phase": "Clean",
+   "title": "Extra barrels swap within gauge and chamber — with three hard nevers",
+   "action": "BPS barrels interchange within gauge and chamber length with no fitting, which is most of why the gun earns its versatility reputation — but the restrictions around that freedom are absolute. Never a 3½-inch-chambered barrel on a gun built for 3-inch barrels, never a 3-inch barrel on a 3½-inch gun, never any other manufacturer's barrel however similar it looks, and never a barrel from any other Browning shotgun model. Scope work on the drilled-and-tapped models has its own screw rule: the base screws must be at least 11/32 inch for thread engagement, checked from inside the receiver so they cannot interfere with the bolt.",
+   "prose": "The 'looks similar' warning exists because pump-gun barrels from different makers genuinely do look interchangeable right up until headspace says otherwise.",
+   "quote": "Never use a barrel from any other Browning shotgun.",
+   "cite": "Browning BPS Pump Shotgun Owner's Manual — UNKNOWN — not printed in the document — Extra Barrels (scope screws: Installing A Scope or Optics)",
+   "warn": "Wrong-chamber, other-maker and other-model barrels are all barred. No exceptions for good fit."
+  }
+ ],
+ "deepAbsentReason": "The BPS Owner's Manual publishes exactly one level of disassembly — removing the magazine cap and sliding the barrel forward out of the receiver (with the Deer models' stabilizing lock washer and split ring coming off the magazine tube first) — and closes that section with the sentence 'No further disassembly is recommended.' There is no published removal of the trigger group, breech block, action bars, shell stops or magazine internals; the three-shot adaptor procedure reaches only the plug lying on top of the magazine spring retainer. The closing notice bars taking the firearm apart further than the manual explains and routes deeper service to a qualified gunsmith or the Arnold, Missouri service facility. There is therefore no deep-clean branch to author, and none has been invented.",
+ "cleaning": [
+  {
+   "name": "BARREL & BORE (barrel off, from the breech end)",
+   "tasks": [
+    "Shotgun rod, slotted tip or jag, snug lightly-oiled patch, entered at the breech",
+    "Inspect from both ends for leading and plastic wad streaks — worst near muzzle and ahead of the chamber; a normal amount is not serious",
+    "Excessive residue: brass brush soaked in powder solvent, pushed fully through before withdrawing",
+    "Dry patch, then a final lightly oiled patch",
+    "Inspect barrel and chamber for forgotten patches before reassembly"
+   ]
+  },
+  {
+   "name": "CHOKE TUBES (Invector-equipped guns)",
+   "tasks": [
+    "T-wrench counterclockwise to loosen, fingers the rest of the way",
+    "Tube, tube threads and barrel threads wiped with a nylon brush and lightly oiled — dry threads seize",
+    "Correct system only: DS, Plus and Standard Invector never interchange",
+    "Install tapered end first, finger-tight, then firmly seat with the wrench",
+    "Periodically confirm the installed tube is tight and firmly seated"
+   ]
+  },
+  {
+   "name": "ACTION & EXTERIOR (assembled)",
+   "tasks": [
+    "Small drop of light gun oil in the receiver track the breech block and action bars ride on — occasionally, not every wipe-down",
+    "Never large quantities of oil in the action: it runs back and softens the stock wood",
+    "All exposed metal wiped with an oiled cloth; finger marks hold moisture",
+    "Ported barrels: powder solvent and pipe cleaners through the ports",
+    "Keep solvents, insect repellents and sunscreen off the finishes"
+   ]
+  },
+  {
+   "name": "STOCK & WOOD",
+   "tasks": [
+    "Oil-finish wood: rubbing alcohol on dull spots, then a linseed-oil-based finish; checkering worked in with a soft brush",
+    "Wood surfaces take light gun oil or furniture wax — never both"
+   ]
+  }
+ ],
+ "reassembly": [
+  "The assembly sequence notice binds: steps 1 and 2 in their exact order, or the barrel extension binds against the carrier.",
+  "Magazine cap off, slide release depressed, forearm completely rearward — then, ejection port DOWN, forearm pushed forward until its rear is even with the front of the receiver. The bolt now holds the carrier low enough to admit the barrel.",
+  "Do not squeeze hard on the open rear end of a wood forearm — the wood can split.",
+  "Glance through the bore for obstructions before the barrel goes on.",
+  "Insert the barrel extension into the receiver, guide ring over the magazine tube, and align the barrel tab on the rearmost rib post with the recess in the front upper receiver.",
+  "Deer models: stabilizing split ring back on the magazine tube with its bevel matched to the guide ring's bevel, lock washer on top, then the magazine cap.",
+  "Replace the magazine cap and confirm it is snug.",
+  "Cycle the action slowly once, on an empty gun, and confirm the forearm locks fully forward."
+ ],
+ "fncheck": "With the gun verified empty, cycle the forearm through a full stroke: it should unlock with the slide release, run smoothly on the freshly oiled track, and lock up fully forward. Confirm the tang safety slides positively both ways and covers the red dot on safe. Confirm the magazine cap is tight and, on a Deer gun, that ring and washer are stacked bevel-to-bevel under it. Check the choke tube is seated with the wrench. Look through the bore from the breech against a light for patch material. On a Trap gun, confirm the magazine cut-off is in R if you expect it to feed. Never test the mechanical function with live ammunition."
+}

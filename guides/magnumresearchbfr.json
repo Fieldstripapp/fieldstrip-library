@@ -1,0 +1,91 @@
+{
+ "row": "magnumresearchbfr",
+ "make": "Magnum Research",
+ "model": "BFR",
+ "sourcedFrom": "Magnum Research BFR Instruction Manual — 0914 (undated — no copyright line is printed)",
+ "sourceSha256": "c812bb8968cbe28d33863104412f74d9ae851b21ab0352059861b77ee75083a9",
+ "cleanIntro": "A big single action. The published strip is exactly one thing — the cylinder — and Magnum Research asks you to phone them before going any further than that.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Decock first if it is cocked",
+   "action": "If the hammer is back, decock it before anything else — thumb firmly on the hammer, squeeze the trigger only far enough to break it free, then release the trigger immediately and walk the hammer down. A thumb slipping here with the trigger held back is a discharge. Make a record of the serial number while you are handling it; Magnum Research asks for it on any return, and this manual's instructions apply only to the BFR, so knowing exactly which revolver you have matters.",
+   "quote": "If the hammer is cocked, it must be decocked.",
+   "cite": "Magnum Research BFR Instruction Manual — 0914 — Unloading or Ejecting Cartridge Cases, step 1, p.13",
+   "warn": "USE EXTREME CARE WHEN ATTEMPTING TO DECOCK THE REVOLVER AS THE THUMB SLIPPING DURING THIS PROCESS MAY RESULT IN AN ACCIDENTAL DISCHARGE IF THE TRIGGER IS HELD TO THE REAR."
+  },
+  {
+   "phase": "Clear",
+   "title": "Gate open, every chamber under the ejector rod",
+   "action": "Open the loading gate and turn the cylinder by hand to bring each chamber in line with the ejector rod, pushing the rod back against each case in turn. Work all the way round — on a five- or six-shot big-bore it is easy to lose count, and the BFR's long cases hide in deep chambers.",
+   "quote": "Turn the cylinder in either direction by hand to align a chamber with the ejector rod.",
+   "cite": "Magnum Research BFR Instruction Manual — 0914 — Unloading or Ejecting Cartridge Cases, step 3, p.13"
+  },
+  {
+   "phase": "Clear",
+   "title": "Re-check every chamber",
+   "action": "Go round the cylinder once more with your eyes on each chamber mouth. This is the check that licenses everything after it, and the manual repeats it as its own numbered step for that reason.",
+   "quote": "Re-Check all cylinder chambers to make sure they are empty.",
+   "cite": "Magnum Research BFR Instruction Manual — 0914 — Unloading or Ejecting Cartridge Cases, step 4, p.13",
+   "warn": "NEVER ATTEMPT TO REMOVE OR REPLACE A LOADED CYLINDER."
+  },
+  {
+   "phase": "Strip",
+   "title": "Gate open, hammer down",
+   "action": "Open the loading gate again and confirm the hammer is not cocked. Both conditions have to hold before the cylinder pin will come out — the gate opening drops the latch, and a cocked hammer holds the bolt up into the cylinder.",
+   "quote": "Open gate (make sure hammer is not cocked).",
+   "cite": "Magnum Research BFR Instruction Manual — 0914 — Cylinder Removal and Installation, step 2, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cylinder-pin screw four turns, then the pin out",
+   "action": "Back the cylinder-pin screw out four turns — four, not all the way — and withdraw the cylinder pin. The screw is a captive stop for the pin, and running it right out is how it goes missing on a range floor.",
+   "quote": "Unscrew cylinder-pin screw 4 turns and withdraw the cylinder-pin.",
+   "cite": "Magnum Research BFR Instruction Manual — 0914 — Cylinder Removal and Installation, step 3, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cylinder out through the gate",
+   "action": "Take the cylinder out the loading-gate side of the frame. It only comes out that way; the BFR has no crane and nothing swings.",
+   "quote": "Remove cylinder from loading gate side of frame.",
+   "cite": "Magnum Research BFR Instruction Manual — 0914 — Cylinder Removal and Installation, step 4, p.14",
+   "warn": "Never install or remove a loaded cylinder. A loaded cylinder can discharge if dropped or struck.",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Magnum Research publishes no teardown past cylinder removal, and says so as an instruction rather than by omission: 'The user of a revolver should contact Magnum Research Customer Service at 218-746-3459 BEFORE attempting to take the gun apart beyond cylinder removal for normal cleaning.' (p14). The book also states that the internal mechanism 'can be lubricated without disassembly' (p16), so there is nothing deeper to document. Two absolute bars stand alongside it: the BFR must not be dry fired, and must never be fanned.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBERS",
+   "tasks": [
+    "With the cylinder out, run a solvent-coated patch through the bore from the muzzle several times until all metal fouling is gone",
+    "Wipe the rod clean and swab the bore with a dry patch until it comes out clean",
+    "Repeat the same procedure for every chamber in the cylinder",
+    "Leave the chambers DRY — the manual states they must be dry for proper function"
+   ]
+  },
+  {
+   "name": "FRAME & MECHANISM",
+   "tasks": [
+    "Apply a few drops of suitable gun oil about the various frame openings and let it work into the mechanism",
+    "Clean the exterior with solvent, wipe with an oily patch, then a clean dry patch",
+    "Do not apply excess lubrication, and do not put oil on the grips"
+   ]
+  },
+  {
+   "name": "STAINLESS CARE",
+   "tasks": [
+    "Inspect frequently — stainless steel will rust if not cared for properly",
+    "Clean and wipe dry after exposure to moisture, humidity, salt or chemicals",
+    "If storing, coat with a light film of oil or preservative"
+   ]
+  }
+ ],
+ "reassembly": [
+  "To reinstall the cylinder - simply reverse the above procedure.",
+  "Holding the gun with the barrel pointed away from you, rotate the cylinder a quarter turn clockwise so the pawl sits correctly on the cylinder ratchet.",
+  "Cylinder pin (base pin) should be replaced with no binding.",
+  "Be sure the set screw in the cylinder pin is FLUSH when installed. If NOT installed correctly revolver will not function properly."
+ ],
+ "fncheck": "With the revolver confirmed unloaded, check the cylinder indexes as the hammer is thumbed back and that the cylinder pin set screw sits flush. Do not dry fire it to test — this revolver should not be dry fired."
+}

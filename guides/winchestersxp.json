@@ -1,0 +1,257 @@
+{
+ "row": "winchestersxp",
+ "make": "Winchester",
+ "model": "SXP",
+ "sourcedFrom": "SXP Owner's Manuals — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "3dd55ac06b6fd2acae17a148c63bd2d224d006fca7ea9907716da623b129dc53",
+ "cleanIntro": "The Super X Pump strips further than most pump guns, and Winchester publishes all of it: barrel off, trigger group out on one pin, slide arms and bolt out the front, and the firing pin and its spring out of the bolt. The manual sets three levels — wiping down with the barrel on, cleaning the bore with the barrel off, and a complete clean with the bolt and trigger group out — and everything below is the third. Two model-specific facts decide what you do. Your safety is either the fixed 2009-2020 button or the reversible post-2020 one, and only the reversible book applies to reversible guns. And on a 3½ inch SXP the bolt shroud has to be run forward before the bolt slide or firing pin will come apart, which is a step 3 inch guns do not have. The published strip ends at Figure 21, and going past it can void the warranty.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Cycle the tube empty, then put a finger in the magazine entry",
+   "action": "Safety on safe, press the disconnector release button, and run the forearm through full strokes until nothing more comes out of the ejection port, catching each shell. Then leave the action open and physically feel the magazine entry with your index finger. A shotgun magazine tube is a blind hole with a shell stop part way in — you cannot see to the end of it, and a shell hung on the stop looks exactly like an empty tube. That finger check is the only way to know, and it is what the manual asks for.",
+   "prose": "There is a second published route: turn the gun over, push the carrier down, and press the shell stop on the inside-right of the ejection port to release shells one at a time.",
+   "quote": "Using your index finger, feel the entry of the magazine to make sure there are no longer any shells in the magazine.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Unloading — UNLOADING BY CYCLING THE ACTION, step 5",
+   "warn": "Feel the magazine entry. Do not judge a tube by eye."
+  },
+  {
+   "phase": "Clear",
+   "title": "This book is the Super X Pump — 12 and 20 gauge, all of them",
+   "action": "Confirm you are holding a Super X Pump and not another Winchester pump gun. This manual states its own coverage as all 12 and 20 gauge Super X Pump shotguns, which is a whole-line bound rather than a per-model one — field, defence, turkey and deer SXPs all follow the same strip. What it does NOT cover is the Model 1300, the pump gun the SXP replaced, and the two are close enough in outline to be confused on a rack. The serial number is on the left side of the receiver just above the trigger guard.",
+   "prose": "The rotary bolt whose lugs lock straight into the barrel extension is the SXP's signature and the reason the barrel comes off the way it does.",
+   "caution": "Super X Pump only. A Model 1300 is a different shotgun.",
+   "quote": "This owner’s manual covers all 12 and 20 gauge Super X Pump shotguns.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — General Description"
+  },
+  {
+   "phase": "Clear",
+   "title": "Two different safeties — and only one of them reverses",
+   "action": "Look at the trigger guard shape and work out which safety your SXP has, because the two generations are not the same part. Guns built between 2009 and 2020 have a crossbolt safety button that is NOT reversible — it can only be operated from the right-hand position, and trying to swap it is not an owner operation. Guns built after 2020 have a reversible button, factory-fitted for a right-handed shooter, and reversing it is a job for an authorised repair centre or the Arnold service facility. All the instructions in the manual assume the right-hand position.",
+   "prose": "On safe is the button pressed to the right, with the red warning band hidden. Do not rely on the red alone — the manual notes it wears off with time and cleaning agents.",
+   "caution": "Pre-2021 SXP safeties do not reverse. Do not attempt it.",
+   "quote": "Super X Pump shotguns produced between 2009 and 2020 are equipped with a \"safety\" button that is not reversible (Figure 4).",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Operation of the \"Safety\""
+  },
+  {
+   "phase": "Clear",
+   "title": "Disconnector release button — unlock the slide without dropping the hammer",
+   "action": "The button at the rear of the trigger guard on the LEFT side is what frees the forearm when the action is closed on a fired or unfired shell. Push it and the slide unlocks, but the hammer stays where it is — this is not a decocker and it does not release anything at the striker end. That distinction matters during a strip, because the trigger group has to come out with the hammer COCKED, so you want a way to open the action that leaves the hammer alone. Learn where it is by feel now; you will use it at every stage below.",
+   "prose": "It is also the button that lets you unload the chamber without cycling a live shell through the action under a cocked hammer.",
+   "quote": "Depress the disconnector release button, found behind the trigger guard on the left side (Figure 8) to unlock the action without releasing the hammer.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Disassembly, step 1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine cap off, barrel forward out of the receiver",
+   "action": "With the action open and the safety on safe, point the magazine tube in a safe direction and unscrew the magazine cap. Take the barrel just ahead of the barrel bracket with one hand and hold the buttstock with the other, then pull the barrel FORWARD to draw the barrel extension out of the receiver and slide the barrel bracket off the magazine tube. It comes with steady pressure, not force — the rotary bolt's lugs sit in recesses in the barrel extension, so if the bolt is not fully rearward the barrel is still locked in and pulling harder achieves nothing.",
+   "prose": "Point the magazine somewhere safe as the cap comes off: the magazine spring and its retainer live under that cap, and on a gun where the retainer has been disturbed they can leave with it.",
+   "quote": "Pull the barrel forward to disengage it from the receiver. Slide the barrel bracket off the magazine. Do not use excessive force.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Disassembly, step 5"
+  },
+  {
+   "phase": "Strip",
+   "title": "SXP barrels only — and a 1300 barrel is not one",
+   "action": "If you swap barrels, take a moment on the barrel you are about to fit. Winchester allows barrels to interchange within a gauge and chamber length with no fitting, and then bounds it hard: only barrels designed for the Super X Pump, never a Model 1300 barrel, and never another maker's. It also bars mixing chamber lengths in either direction — a 3½ inch barrel does not go on a gun built for 3 inch barrels, and a 3 inch barrel does not go on a 3½ inch gun. The chamber length is inscribed on the side of the barrel; read it rather than measuring a shell against it.",
+   "prose": "A Model 1300 barrel can look right, thread onto the same magazine tube and still be wrong at the barrel extension and the chamber.",
+   "quote": "Use only barrels designed for Winchester Super X® Pump shotguns. Barrels for the Model 1300 are not compatible.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Extra Barrels",
+   "warn": "Never a Model 1300 barrel, another maker's barrel, or a mismatched chamber length."
+  },
+  {
+   "phase": "Strip",
+   "title": "Hammer cocked, then the trigger guard pin out from the LEFT",
+   "action": "Cycle the forearm rearward and forward once to cock the hammer, put the safety on safe, and lay the shotgun trigger-guard-up on something that will not mar the finish. Now drive the trigger guard pin out from the LEFT side — the side away from the ejection port — using a punch or drift slightly SMALLER in diameter than the pin. Direction is not optional: the pin is retained to be driven one way, and starting from the ejection-port side works against that. Push it far enough to grip with your fingers and pull it the rest of the way.",
+   "prose": "The trigger group must come out before the bolt does. Winchester states that order plainly, and reversing it is how the trigger group gets damaged.",
+   "caution": "Left side to right, punch smaller than the pin, hammer cocked first.",
+   "quote": "Remove the trigger guard pin by pushing it out from the left side of the receiver, the side opposite the ejection port.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — ADDITIONAL DISASSEMBLY, REMOVAL OF THE TRIGGER GROUP, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger group forward a fraction, then up and back",
+   "action": "With the pin out, nudge the trigger group slightly FORWARD to disengage its front tabs from the slots in the magazine throat, then lift the rear upward and draw the whole group rearward out of the receiver. It is a two-motion release, not a straight lift — trying to pull it out vertically binds the tabs at the front and feels like the pin is still in. Once it is out you are looking into an open-bottomed receiver, which is what makes the SXP genuinely cleanable.",
+   "prose": "Keep the group flat and the hammer cocked while it is out. It carries the hammer, sear, trigger and their springs in one carrier.",
+   "quote": "With the pin removed, push the trigger group forward slightly and lift it out of the receiver by lifting upward and pulling rearward (Figure 22).",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — ADDITIONAL DISASSEMBLY, REMOVAL OF THE TRIGGER GROUP, step 6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide arms and bolt forward out the FRONT of the receiver",
+   "action": "Leave the magazine cap off for this one, and pull the forearm, slide arms and bolt assembly forward together and out of the front of the receiver as a unit. Expect a check as the bolt passes the ejection port — that is the ejector spring bearing on the bolt body, and it is normal. Ease it past rather than snatching, because the ejector is a light spring-loaded part sitting in the receiver wall and it is the one thing here that a hard pull can bend.",
+   "prose": "This is the step the manual barred you from doing in the wrong order: the trigger group has to be out first.",
+   "quote": "With the bolt assembly attached to the slide arm, simultaneously slide both assemblies forward and out of the front of the receiver. Note that as the bolt assembly passes by the ejection port, there may be some resistance from the ejector spring. Carefully work it past the resistance.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — ADDITIONAL DISASSEMBLY, REMOVAL OF THE SLIDE AND BOLT, step 2"
+  },
+  {
+   "phase": "Strip",
+   "title": "3½ inch SXP? The bolt shroud goes forward first",
+   "action": "Check your chamber length before you touch the bolt assembly. On 3½ inch models there is a bolt shroud that must be slid to its FORWARD-most position before the bolt slide assembly will separate from the slide arms or the firing pin will come out. This step simply does not exist on a 3 inch gun, and skipping it on a 3½ inch gun means the parts will not release and you will be applying force to a bolt that is mechanically blocked. The chamber length is inscribed on the side of the barrel you have just taken off.",
+   "prose": "The same instruction applies in reverse on the way back together, so remember which gun you are working on.",
+   "caution": "3½ inch models only: bolt shroud fully forward first.",
+   "quote": "On 3½\" models, slide the bolt shroud to the forward-most position before attempting to remove the bolt slide assembly from the slide arms or removing the firing pin.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — ADDITIONAL DISASSEMBLY, REMOVAL OF THE FIRING PIN, step 2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin under spring tension — keep a thumb on it",
+   "action": "Hold the bolt assembly flat side up, push the rear of the firing pin forward with your forefinger and keep it there. With your other hand tilt the front of the slide arm and move it slightly forward, then lift to disengage the curved tongue on the slide arm from the groove in the firing pin — that is what joins the slide arm to the bolt slide. The moment your forefinger comes off, the firing pin and its spring will launch out of the rear of the bolt. Release it under control and into your hand, over a bench and not over a carpet.",
+   "prose": "Either end of the firing pin spring can go back on first, so there is nothing to mark. Losing the pin is the only real risk here, and it is entirely avoidable.",
+   "quote": "The firing pin is under spring tension and will snap out the rear of the bolt when your forefinger releases it. Control the pin as you remove the firing pin and spring.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — ADDITIONAL DISASSEMBLY, REMOVAL OF THE FIRING PIN, step 5",
+   "warn": "The firing pin is spring-launched. Control it or lose it."
+  },
+  {
+   "phase": "Strip",
+   "title": "Figure 21 is the published end of the strip",
+   "action": "Stop here. Winchester states that no further disassembly is necessary or recommended for cleaning, and that going past what Figure 21 shows may void the warranty. What that leaves untouched is the trigger group's own internals, the extractor and ejector, the shell stops and the magazine spring retainer — all of them small, sprung and fitted. If a repair genuinely needs them out, the published route is an authorised service centre or a qualified gunsmith.",
+   "prose": "Everything that fouls on a pump gun is now exposed. There is nothing behind Figure 21 that a cleaning session needs.",
+   "quote": "For cleaning purposes no further disassembly is necessary or recommended. Do not disassemble your Super X® Pump further than shown in Figure 21. Doing so may void your warranty.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — ADDITIONAL DISASSEMBLY, after REMOVAL OF THE FIRING PIN",
+   "warn": "Figure 21 is the limit. Past it may void the warranty."
+  },
+  {
+   "phase": "Clean",
+   "title": "Nothing else comes apart on this shotgun",
+   "action": "The same limit is restated at the close of the manual as a flat prohibition rather than a warranty note: do not take the shotgun apart further than the book explains, because the inner mechanism can be permanently damaged by the attempt. Read that alongside the Figure 21 line — one tells you what it costs, the other tells you not to. The service route is a qualified gunsmith or the Arnold, Missouri facility, and that is also the published answer after extended heavy use.",
+   "prose": "This is why the strip above is worth doing properly: it is the whole of what an owner is meant to reach.",
+   "quote": "NOTICE: NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL. YOUR FIREARM IS A SPECIALIZED, FINELY FITTED MECHANISM. YOU MAY PERMANENTLY DAMAGE IT BY ATTEMPTING TO DISASSEMBLE THE INNER MECHANISM.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — closing NOTICE"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench you should have the barrel, the receiver and stock, the trigger group, the forearm with its slide arms and bolt assembly, the trigger guard pin, and the firing pin with its spring. That is the complete published Super X Pump strip and it matches Figure 21. Keep the pin and the firing pin somewhere they cannot roll, and note whether yours is a 3½ inch gun with a bolt shroud, because that decides how it goes back together. Deep Clean covers the bore work, the receiver interior you can now reach, the choke tube threads, and the reassembly order that must not be broken.",
+   "prose": "Winchester frames this whole strip as an advantage of the design — the action is meant to be opened for cleaning in bad conditions.",
+   "quote": "One of the advantages of a Super X® Pump is the ability to disassemble the action for cleaning.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — ADDITIONAL DISASSEMBLY",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Look down the bore from BOTH ends for leading and plastic",
+   "action": "With the barrel off, inspect it from the breech and from the muzzle. What you are hunting is not powder soot but longitudinal streaks of lead and of plastic left by the shot cups in modern shells, and they concentrate in two places: near the muzzle and just forward of the chamber. Looking from one end only hides one of those two zones. A normal amount of both is expected on a shotgun and is not a problem — what matters is noticing when it stops being normal.",
+   "prose": "Plastic wad residue is glossy and streaky rather than sooty. Once you have seen it you never mistake it for fouling again.",
+   "quote": "Inspect the bore from both ends for leading and plastic residue that often remain in the bores from the shot cups in modern shells. Leading and plastic residue will appear as longitudinal streaks and are usually more predominant near the muzzle and just forward of the chamber.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 3"
+  },
+  {
+   "phase": "Clean",
+   "title": "Brass brush with powder solvent, pushed fully through each time",
+   "action": "When leading or plastic is excessive, wet the bore or the brush with a powder solvent first and scrub with a brass brush until it is clean — solvent first matters, because a dry brush burnishes plastic rather than lifting it. Push the brush completely out of the far end before pulling it back through; reversing it inside the barrel folds the bristles against their set and sheds them into the bore. Solvents are highly flammable and the manual says so, so ventilate and keep eye protection on.",
+   "prose": "A shotgun bore is smooth and forgiving compared with a rifle's, but a shed bristle still sits in it looking like the fouling you came to remove.",
+   "quote": "If leading or plastic residue seems excessive you can remove it by brushing the bore with a brass brush. Soak the brush or spray the bore with a powder solvent first. Scrub until clean. To prevent bristles from breaking off, push the brush fully through the barrel each time before pulling it back through.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry patch, then one oiled patch, then look for a patch you left behind",
+   "action": "Once the residue is out, run a clean dry patch through and follow it with a single lightly oiled one for preservation. Then check both the barrel and the chamber for a patch that separated from the jag — this is a real failure mode on a shotgun because the bore is wide enough for a loose patch to sit unnoticed against the wall, and a bore obstruction in a shotgun barrel is a bulged barrel at best. Hold it up to a light and look through, both ways.",
+   "prose": "Do this before the choke tube goes back in, so you are inspecting the whole tube and not the tube past a constriction.",
+   "quote": "Inspect the barrel and chamber to be certain no patches have inadvertently been left in them. Remove any that remain.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 6",
+   "warn": "A patch left in a shotgun barrel is a bore obstruction."
+  },
+  {
+   "phase": "Clean",
+   "title": "The whole point of the strip — wipe the receiver out",
+   "action": "With the trigger group and bolt assembly out you can reach the inside of the receiver for the first time, and this is what the additional disassembly exists for. Wipe out the debris and moisture that collect in the bottom of the receiver and along the slide arm tracks — a pump gun draws water and grit in through the open ejection port every time it is cycled in the rain. Get the dried oil out of the corners while you are in there; old oil plus dust is what makes an SXP action feel tight.",
+   "prose": "A tight action when working the forearm is the symptom Winchester names, and a thorough clean is the first thing it asks you to try.",
+   "quote": "With both the trigger group and bolt assembly removed, it is easy to wipe out any debris or moisture that sometimes accumulates in the receiver.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — ADDITIONAL DISASSEMBLY, REMOVAL OF THE TRIGGER GROUP"
+  },
+  {
+   "phase": "Clean",
+   "title": "Choke tube threads — clean and oil them or the tube seizes",
+   "action": "Take the choke tube out with the supplied wrench, turning counter-clockwise, and clean the threads in the muzzle and on the tube itself before it goes back. Winchester is blunt about the consequence of skipping it: an unoiled tube can seize in the barrel, and a seized tube is a gunsmith job. Lightly oil both sets of threads with a quality light gun oil, fit the tube threaded end first with the notches outward, and seat it firmly with the wrench once it is finger tight. Use only the wrench that came with the gun — anything else can damage the barrel threads.",
+   "prose": "Remember which system you are on: Standard Invector, WinChoke and Invector-Plus tubes are not interchangeable, and the SXP's threaded barrels take Invector-Plus.",
+   "quote": "NOTICE: FAILURE TO CLEAN AND OIL THE THREADS ON THE CHOKE TUBE COULD RESULT IN THE CHOKE TUBE SEIZING IN THE BARREL.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Interchangeable Choke Tube System — CHOKE TUBE INSTALLATION, step 2 NOTICE",
+   "warn": "Never fire the shotgun without a correct choke tube installed."
+  },
+  {
+   "phase": "Strip",
+   "title": "Reassembly order is fixed — bolt in BEFORE the trigger group",
+   "action": "Going back together, the bolt assembly, slide arms and forearm must be in the receiver before the trigger group goes anywhere near it. Winchester states this as a notice with a damage consequence: never force parts into position, and never try to install the bolt assembly after the trigger group is in. Hold the trigger group at roughly 45 degrees, engage its front tabs in the slots at the magazine throat, then lower the rear in until it lies parallel. Sliding the forearm to different positions is often what lets it drop flush.",
+   "prose": "The test is the pin: it should pass through with little force. Significant resistance means the group is not seated, and the cure is to take it out and start again rather than to push harder.",
+   "quote": "NOTICE: BE CAREFUL WHEN REINSTALLING THE TRIGGER GROUP. NEVER FORCE PARTS INTO POSITION. DO NOT ATTEMPT TO INSTALL THE BOLT ASSEMBLY AFTER THE TRIGGER GROUP IS INSTALLED. FAILURE TO FOLLOW THESE INSTRUCTIONS MAY DAMAGE YOUR FIREARM.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — REINSTALLATION OF THE TRIGGER GROUP, step 4 NOTICE",
+   "warn": "Bolt first, trigger group second. Never the other way round."
+  },
+  {
+   "phase": "Clean",
+   "title": "Light oil often beats heavy oil rarely",
+   "action": "Put oil back only at the points the manual indicates and keep it to a film. Winchester ties regular light oiling directly to the durability and reliable operation of the shotgun, and on a pump gun that is literal: the slide arms run in tracks the length of the receiver and a dry track is what makes the forearm feel gritty. Wipe every exposed metal surface with an oiled cloth afterwards and take the fingerprints off, because that is where moisture collects and rust starts.",
+   "prose": "Excessive oil should be wiped off, particularly in cold weather, where it thickens and slows the action.",
+   "quote": "Lightly oil your firearm at the points described above. Regular, light oiling is extremely important to the durability and reliable operation of your shotgun.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 8"
+  },
+  {
+   "phase": "Clean",
+   "title": "After a hard season, the action goes to a gunsmith",
+   "action": "Beyond the strip above, the manual's deepest published level is professional service. After extended periods of heavy use, the action should be disassembled by a qualified gunsmith for cleaning and lubrication — that means the parts left inside the trigger group and the receiver, which are outside Figure 21 and outside what any owner should be opening. Book it rather than exploring it.",
+   "prose": "For a gun that shoots a few boxes a season, the strip and clean above is genuinely the whole of the maintenance.",
+   "quote": "After extended periods of heavy use, your firearm should be taken to a qualified gunsmith to have the action disassembled for professional cleaning and lubrication.",
+   "cite": "SXP Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — OTHER CLEANING SUGGESTIONS"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL, BORE & CHOKE",
+   "tasks": [
+    "Barrel off the gun before the bore is cleaned properly",
+    "Inspect from BOTH ends for lead and plastic streaks — worst near the muzzle and just forward of the chamber",
+    "Powder solvent first, then a brass brush pushed fully through before pulling back",
+    "Dry patch, then one lightly oiled patch",
+    "Check that no patch has been left in the barrel or chamber",
+    "Choke tube out with the supplied wrench only; clean and lightly oil both sets of threads or it will seize",
+    "Never fire the shotgun without the correct choke tube fitted"
+   ]
+  },
+  {
+   "name": "RECEIVER, BOLT & TRIGGER GROUP",
+   "tasks": [
+    "With the trigger group and bolt out, wipe debris and moisture from inside the receiver",
+    "Clear dried oil from the receiver area and the slide arm tracks",
+    "Wipe the bolt body, the locking lugs and the bolt face",
+    "Clean the firing pin and its spring; either end of the spring goes on first",
+    "Light film of oil on the slide arms and bearing surfaces — wipe off any excess, especially in cold weather",
+    "Do not disassemble the trigger group itself; Figure 21 is the published limit"
+   ]
+  },
+  {
+   "name": "MAGAZINE TUBE",
+   "tasks": [
+    "Point the magazine in a safe direction whenever the cap comes off",
+    "The magazine spring retainer is under spring pressure — control it if the three-shot adaptor is being changed",
+    "Refit the magazine cap hand tight, at least three full turns, whenever the barrel is on",
+    "Confirm the spring retainer's grooves line up with the protrusions inside the tube before locking it"
+   ]
+  },
+  {
+   "name": "EXTERIOR & STOCK",
+   "tasks": [
+    "Wipe all exposed metal with an oiled cloth and remove every finger mark",
+    "Re-oil after exposure to weather or heavy handling",
+    "Keep DEET insect repellent and sunscreen off the finishes",
+    "Check length-of-pull spacers and comb screws are still tight if your model has them"
+   ]
+  }
+ ],
+ "reassembly": [
+  "On 3½ inch models, slide the bolt shroud to its forward-most position before the firing pin goes in or the bolt slide is attached to the slide arms.",
+  "Fit the firing pin spring over the firing pin — either end first — and insert the assembly into the rear opening of the bolt slide, pin end first.",
+  "Compress the knob end of the firing pin into the bolt slide until the space between the grooved knob and the flange is centred in the round hole, drop the slide arm's curved tongue into that space, and release slowly so the flange draws the tongue rearward.",
+  "Remove the magazine cap, hold the slide arms and bolt assembly together and slide the forearm onto the magazine tube.",
+  "Guide the slide arms and bolt into the front of the receiver and run them fully rearward.",
+  "Cock the hammer by pushing it back until it locks, and put the safety on safe.",
+  "Turn the shotgun bottom-up, hold the trigger group at about 45 degrees, engage its front tabs in the slots at the magazine throat, then lower the rear in until it lies parallel — never force it, and never fit the bolt after the trigger group.",
+  "Push the trigger guard pin through until flush on both sides; it should pass with little force. Significant resistance means the group is not seated — take it out and start again.",
+  "Open the action slightly, present the barrel over and in line with the magazine tube, guide the barrel bracket onto the tube and the barrel extension into the receiver with the barrel slot aligned to the ejector, and slide it rearward until it seats.",
+  "Fit the magazine cap and hand-tighten at least three full turns.",
+  "Confirm the safety is on safe and wipe the exterior down."
+ ],
+ "fncheck": "With the shotgun unloaded, look through the bore from both ends against a light and confirm it is clear and that no patch remains. Confirm the magazine cap is hand tight with at least three full turns of engagement and that the barrel does not move fore and aft in the receiver. Cycle the forearm through several full strokes and confirm it runs smoothly to both stops and that the bolt locks up closed. Press the disconnector release button and confirm it unlocks the slide without dropping the hammer. Work the safety both ways and confirm the trigger cannot be pulled with the button pressed to the right and the red band hidden. Confirm the choke tube is present, correct for your ammunition and firmly seated. Leave the safety on safe."
+}

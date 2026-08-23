@@ -1,0 +1,151 @@
+{
+ "row": "marlinmodel795",
+ "make": "Marlin",
+ "model": "Model 795",
+ "sourcedFrom": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) (not printed on the document)",
+ "sourceSha256": "d84c3e3407a890fa50e381c937aed710fe217bfd65e0c8ad42093cacb9b81941",
+ "cleanIntro": "The Model 795 is a simple blowback .22 self-loader and the whole strip is two screws, an assembly post and a bolt. What makes it worth doing carefully is the recoil spring, which is live and compressed the moment the action leaves the stock, and the order of the bolt removal — the MUZZLE end of the bolt lifts first, never the rear. The 795 feeds from a detachable clip magazine, so the magazine comes out first and the automatic last-shot hold-open will not work once it is gone — you hold the bolt open manually. Marlin's own view is that the bore rarely needs cleaning on modern ammunition; what needs cleaning is the action, every 250 rounds or so, because .22 rimfire loads the receiver with wax and carbon. Further disassembly of the action beyond this strip is not recommended by the maker, so there is no Deep Clean branch here.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out first — it is a detachable clip",
+   "action": "Safety on SAFE, muzzle in a safe direction, fingers off the trigger. Depress the magazine release latch and pull the clip magazine out of the rifle. The magazine comes out FIRST on this model: leave it in and every cycle of the bolt just feeds another round out of it.",
+   "quote": "1. Depress the magazine release latch\nas shown in C, on page 4, and pull\nthe magazine out of the rifle.",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — How to Unload — p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt back and locked open, then inspect chamber and magazine well",
+   "action": "With the magazine out, pull the bolt to the rear and lock it open using the manual bolt hold-open, then inspect the chamber and the magazine well. If the bolt was closed when you started, pulling the charging handle back manually is what ejects the round that was left in the chamber — expect one to come out.",
+   "prose": "The automatic last-shot hold-open only works with the empty magazine still in the rifle, so with the magazine out you must hold the bolt open yourself.",
+   "quote": "2. Pull the bolt to the rear and lock it in\nthe open position (see “Manual” Bolt\nHold-Open Feature.)\n3.  Inspect the chamber and magazine well.",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — How to Unload — p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Clear the action several times, then close the bolt",
+   "action": "Before a screw is turned, run the action several more times with the magazine out and the safety on SAFE, so anything hiding on the feed ramp or under the extractor is thrown clear. Then close the bolt. Marlin asks for this a second time at the head of the disassembly, and it is worth doing exactly as written.",
+   "quote": "Step #1 — With the safety on SAFE, remove the magazine and clear the action \nseveral times to be sure the chamber is empty. Close the bolt (See H, page 6).",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — Cleaning the Action, Step #1 — p.7",
+   "warn": "Never attempt to wipe down or clean a loaded firearm. Follow instructions under “How to Unload” before cleaning."
+  },
+  {
+   "phase": "Strip",
+   "title": "Safety glasses on before the action comes apart",
+   "action": "Put safety glasses on before you undo anything. There is a compressed recoil spring inside this receiver and the step that frees it is two moves away. Marlin asks for glasses specifically for the disassembly, not just for shooting.",
+   "quote": "We recommend that you wear safety glasses while disassembling this rifle.",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — Cleaning the Action — p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown screws out, trigger guard off, rifle into two halves",
+   "action": "Unscrew takedown screws A and B, lift the trigger guard assembly away, and separate the rifle into two pieces: the stock, and the barrelled action. Keep the two screws identified — front and rear are not the same part. Watch the magazine release lever as the trigger guard comes clear; it passes through a slot and bends easily if it is forced.",
+   "aside": "The spanner-wrench remark in that sentence is a Model 70PSS instruction. The Model 795 has no takedown nut and no spanner wrench — a plain screwdriver is the whole toolkit.",
+   "quote": "Step #2  — Unscrew takedown screws A and B as shown in I, on page 8. (For the 70PSS,\none end of the spanner wrench is a screw driver.) Remove the trigger guard assembly.\nSeparate the rifle into two segments, the stock and the barreled action.",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — Cleaning the Action, Step #2 — p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Squeeze the assembly post and pull it free, then slide the action out",
+   "action": "Squeeze the slotted end of the assembly post and push it in — the slot lets it collapse enough to pass through its hole — then pull the post free of the action. With the post out, slide the action to the REAR and then up out of its channel. Rearward first, then up: try to lift it straight out and it will not clear.",
+   "quote": "Release assembly post by squeezing and\npushing in slotted end.",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — Cleaning the Action — p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle back, lift the MUZZLE end of the bolt out",
+   "action": "This is the step that bites. Pull the charging handle back slightly and, with the forefinger of the other hand, lift the MUZZLE end of the breech bolt up out of the receiver — the front of the bolt, not the back. As the front comes up the charging handle goes slack and can be pulled straight out. Keep control of the bolt while you do it: the recoil spring is compressed behind it and can throw itself out of the receiver.",
+   "prose": "Lifting the rear of the bolt first jams it against the receiver rails and people then pull harder, which is how the bolt and the receiver both get marked.",
+   "quote": "Pull the charging handle back slightly\nand, with the forefinger of your other\nhand, lift the muzzle end of the bolt from\nthe receiver",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — Cleaning the Action — p.8",
+   "warn": "Recoil spring is compressed at this point and, if not handled properly, can fly from the receiver."
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and spring guide out — field strip complete",
+   "action": "With the bolt and charging handle out, the recoil spring and its guide are loose and lift straight out of the receiver. That is the Model 795 stripped: stock, barrelled action, assembly post, breech bolt, charging handle, recoil spring and spring guide. Marlin stops here, and so should you — further disassembly of the action is not recommended and is a gunsmith's or the factory's job.",
+   "quote": "Step #4 — The barrel, receiver and action are now ready for thorough cleaning.",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — Cleaning the Action, Step #4 — p.8",
+   "warn": "Further disassembly of the action is not recommended and should only be attempted by a qualified gunsmith or the factory.",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore, but only when it needs it",
+   "action": "Marlin's position on this rifle is that modern .22 ammunition burns clean enough that routine bore cleaning is not necessary. Clean the bore if the rifle got wet, or if anything foreign found its way into the action or barrel. Use a standard .22 rod and patches, powder solvent through it, then a light wipe of gun oil.",
+   "quote": "To clean the bore and barrel, use any standard .22 caliber commercial cleaning rod and\ncleaning patches. Clean the barrel with powder solvent and wipe lightly with gun oil after\ncleaning.",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — Cleaning the bore — p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "The 250-round interval: receiver, bolt face, extractors, chamber end",
+   "action": "The interval that actually matters on this rifle is the action, not the bore. Clean the inside of the receiver, the bolt face, both extractors and the breech end of the barrel around the chamber every 250 rounds or so, more often with dirtier ammunition. A toothbrush and gun solvent is the whole kit.",
+   "prose": ".22 rimfire is a filthy, waxy round and this is a blowback action — carbon and bullet lube pack into the bolt face and around the extractors, and that is what causes the failures to feed and eject people blame on the magazine.",
+   "caution": "Be sure to follow manufacturer of gun cleaner’s directions, as some chemicals may\ndamage the synthetic trigger guard.",
+   "quote": "We recommend cleaning the inside of the receiver, bolt face, extractors, and breech end\nof the barrel (around the chamber) after firing each 250 rounds.",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — Cleaning the Action — p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Action in solvent, dried, then oiled sparingly",
+   "action": "With the barrel, receiver and action out of the stock, clean the action in solvent, dry it, and oil it sparingly before it goes back together. Sparingly is the operative word on a rimfire: oil left standing in a blowback receiver mixes with the wax off the bullets and turns into a paste that stops the bolt short.",
+   "quote": "The action should be cleaned in\nsolvent, dried, and oiled sparingly\nprior to reassembly.",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — Cleaning the Action — p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "Solvent check before it touches the finish",
+   "action": "Read the label of any solvent or cleaning product before it goes near this rifle and check it will not attack the finish or the parts. That is not boilerplate here — the trigger guard on these rifles is synthetic and some gun-cleaning chemicals will craze it. Test in an inconspicuous place if you are not sure.",
+   "quote": "CAUTION: Before using any solvent or other gun cleaning product, read the label\ncarefully to be sure it will not damage either the finish, or any parts of this firearm.",
+   "cite": "SELF-LOADING RIMFIRE Rifle (22 L.R. and 17 Mach 2) With Clip Magazine — Owner's Manual — 20201222 (the date code in the published filename; no printed edition line) — How to Clean Your Rifle — p.7"
+  }
+ ],
+ "deepAbsentReason": "Marlin publishes no procedure beyond this strip for the Model 795. Its own words at the end of the disassembly sequence are that further disassembly of the action is not recommended and should only be attempted by a qualified gunsmith or the factory. The book's remaining pages are the parts list and warranty; there is no trigger-group, extractor or firing-pin teardown in it, and inventing one would be inventing a deep clean.",
+ "cleaning": [
+  {
+   "name": "Receiver and action",
+   "tasks": [
+    "Every ~250 rounds: inside the receiver, the bolt face, the extractors and the breech end of the barrel around the chamber.",
+    "Toothbrush and commercial gun solvent; check the solvent will not attack the synthetic trigger guard.",
+    "Clean the action in solvent, dry it, oil it sparingly before reassembly."
+   ]
+  },
+  {
+   "name": "Bolt and springs",
+   "tasks": [
+    "Bolt face and both extractor cuts scrubbed clear of wax and carbon.",
+    "Recoil spring and spring guide wiped clean — do not stretch the spring to 'restore' it.",
+    "Charging handle and its slot in the bolt wiped clean."
+   ]
+  },
+  {
+   "name": "Bore",
+   "tasks": [
+    "Not routinely required on modern ammunition.",
+    "Clean if the rifle got wet or if foreign material entered the action or barrel.",
+    "Standard .22 rod and patches, powder solvent, light gun oil after."
+   ]
+  },
+  {
+   "name": "Exterior and storage",
+   "tasks": [
+    "Wipe external metal with a lightly oiled cloth.",
+    "Stainless models: stainless can still rust — remove moisture and wipe down with oil or a rust inhibitor.",
+    "Below freezing: a very thin coat of light oil only, and remove all condensation afterwards.",
+    "Long-term storage: lightly oil bore, barrel and action; store unloaded in a dry area, never in a carrying case."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Recoil spring guide into one end of the recoil spring; the other end of the spring into the breech bolt.",
+  "Recoil spring guide into the hole at the rear of the receiver.",
+  "Hold bolt and spring in one hand and support the spring with the other while compressing it, so the spring cannot kink.",
+  "Charging handle in through the ejection port and into its slot in the bolt.",
+  "Pull the charging handle fully back and lock the action open, then reverse the action removal to seat it.",
+  "Assembly post back through the action until it latches.",
+  "Barrelled action into the stock with the receiver seated as far REARWARD in the stock as it will go before the takedown screws are tightened — otherwise the rifle may not fire.",
+  "Takedown screws in and tightened.",
+  "Trigger guard assembly refitted and the takedown screws tightened; take care not to bend the magazine release lever as it goes through its slot in the trigger guard."
+ ],
+ "fncheck": "With the rifle proven empty and the muzzle safe: pull the charging handle fully rearward and confirm the action locks open, then release it and confirm the bolt runs fully home under spring pressure with no hesitation. Push the safety to SAFE and back to FIRE and confirm both positions are positive. Cycle the action several times by hand and listen for the bolt seating fully — a bolt that stops short means the receiver was not seated fully rearward in the stock when the takedown screws were tightened, and Marlin's own warning is that the rifle may then not fire. Check the bore is clear before loading."
+}

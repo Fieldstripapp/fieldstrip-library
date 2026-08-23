@@ -1,0 +1,74 @@
+{
+ "row": "ruger1022target",
+ "make": "Ruger",
+ "model": "10/22 Target",
+ "sourcedFrom": "Ruger 10/22 Autoloading Rifle Instruction Manual — PM1269 (2026)",
+ "sourceSha256": "ed63ce35f5df44d6890148368d5ff761c4132cd0f60c7de9d1fa83d4b54dd149",
+ "cleanIntro": "Routine cleaning of a fixed-barrel 10/22 is done through the action and the bore — the takedown screw is only loosened if the barrelled action is coming out of the stock.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check this manual applies to your rifle",
+   "action": "Ruger restricts this book by model number, not by model name. Confirm yours is in range before following it.",
+   "prose": "A 10/22 older than that range is a different document. The app cannot read your model number — you can.",
+   "quote": "This manual applies only to 10/22",
+   "cite": "Ruger 10/22 Autoloading Rifle Instruction Manual — PM1269 — Cover note, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Clear it completely",
+   "action": "Point the rifle in a safe direction, remove the magazine, lock the bolt back and confirm the chamber is empty by sight and by finger.",
+   "prose": "The 10/22 rotary magazine sits flush — look for it, do not assume it is out.",
+   "quote": "lock the bolt to the rear",
+   "cite": "Ruger 10/22 Autoloading Rifle Instruction Manual — PM1269 — Disassembly, p.20",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel band first, if it has one",
+   "action": "If your rifle has a barrel band, loosen the barrel band screw and slide the band forward over the muzzle.",
+   "prose": "The band has to clear before the action will lift, and forcing it bends the band.",
+   "quote": "If equipped with a barrel band, loosen the barrel band screw and slide the barrel band forward over the muzzle.",
+   "cite": "Ruger 10/22 Autoloading Rifle Instruction Manual — PM1269 — Disassembly, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Loosen — do not remove — the takedown screw",
+   "action": "With a 5/32 inch Allen wrench, loosen the takedown screw. Ruger says loosen, not remove.",
+   "prose": "It stays captive in the stock. Backing it all the way out just loses it.",
+   "quote": "Use a 5/32\" Allen wrench to loosen (do not remove) the takedown screw.",
+   "cite": "Ruger 10/22 Autoloading Rifle Instruction Manual — PM1269 — Disassembly, p.20",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "PM1269 documents loosening the takedown screw and lifting the barrelled action for cleaning. It publishes no further disassembly, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent patch, correctly sized brush, then dry patches until clean",
+    "Rimfire fouling is waxy and builds fast — the chamber needs as much attention as the bore",
+    "Clean from the chamber end where the design allows"
+   ]
+  },
+  {
+   "name": "BOLT / ACTION",
+   "tasks": [
+    "Wipe the bolt face and around the extractor",
+    "Clean the receiver raceways and the magazine well",
+    "Light oil on bearing surfaces only"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Wipe magazine bodies dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Seat the barrelled action back in the stock and hand tighten the takedown screw with a 5/32\" Allen wrench.",
+  "If fitted, slide the barrel band back and snug its screw."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, check the safety blocks the trigger and the bolt cycles freely."
+}

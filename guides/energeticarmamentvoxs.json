@@ -1,0 +1,179 @@
+{
+ "row": "energeticarmamentvoxs",
+ "make": "Energetic Armament",
+ "model": "Vox S",
+ "sourcedFrom": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 (2019)",
+ "sourceSha256": "fe0c9e691263e186601d9211e026cf58461f97a208e3308ec07400ce6d2d7af2",
+ "cleanIntro": "The VOX-S is a two-page instruction sheet's worth of gun: a welded core (SUP03-11 Core Weldment, Vox S), a Vox front cap, a Vox-S ID ring, a 5/8-24 direct thread mount, a wipe retainer and a silicone wipe. That parts list is the whole of what comes apart. Energetic Armament says outright that a centerfire rifle can in normal use needs no cleaning, so most of what follows is checking, not scrubbing — the DT adapter's torque, the bore's clearance, and whether the wipe should be in the can at all for the ammunition you are shooting. This is the VOX-S sheet, not the VOX-K sheet; do not carry a K figure onto an S.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host firearm before the can is touched",
+   "action": "Drop the magazine, lock the action open, and confirm the chamber empty by eye and by finger before your hands go anywhere near the suppressor. The instruction sheet opens and repeats this order and gives no clearing procedure of its own, which means the host firearm's own manual is the document that tells you how yours unloads. A can that comes off a hot rifle also comes off a loaded one if you skipped this.",
+   "prose": "The sheet states the rule twice on one page — once at the top and again above the mounting instructions. That repetition is the whole of its clearing content.",
+   "quote": "ALWAYS check to ensure firearm is unloaded and safe before installing or removing silencer!",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — WARNING – Read Carefully, p.1",
+   "warn": "The VOX-S sheet gives no clearing procedure. Use the host firearm's own manual."
+  },
+  {
+   "phase": "Clear",
+   "title": "VOX-S ceiling — .30 calibre, up to 300 RUM",
+   "action": "Check the host cartridge against the rating before anything is threaded on. The VOX-S is a 30-calibre (7.62 mm) can rated up to 300 RUM, and Energetic Armament lists 5.56 NATO and 308 Win as full-auto rated and 300 Win Mag as rated. Nothing above 300 RUM pressure and nothing above .30 bore goes behind this can, and the rating is printed for the VOX-S — the VOX-K sheet is a separate document with its own figures.",
+   "prose": "The F/A notations sit against 5.56 NATO and 308 Win specifically. They are not a blanket full-auto rating for every cartridge in the list.",
+   "quote": "The VOX™ silencer is rated for 30 caliber (7.62mm) up to 300RUM including 5.56 NATO (F/A), 308WIN (F/A), 300WM.",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Rating, p.1",
+   "warn": "Ceiling: .30 calibre, up to 300 RUM. F/A rated for 5.56 NATO and 308 Win."
+  },
+  {
+   "phase": "Clear",
+   "title": "Barrel thread length — .625 maximum",
+   "action": "Before the can goes on a barrel you have not used it on, measure the muzzle thread. The assembly drawing calls .625 inch the maximum thread length the direct thread mount will swallow, and a longer thread bottoms the mount on the thread run rather than on the shoulder. The drawing's own note is that a longer thread may need a spacer; the felt symptom of ignoring it is a can that stops turning while it is still loose and rocking.",
+   "prose": "The drawing shows the silencer seated against the barrel shoulder, not against the end of the threads. That shoulder is what holds alignment.",
+   "caution": "A thread longer than .625 in needs a spacer, not more torque.",
+   "quote": ".625 MAX THREAD LONGER THREAD MAY REQUIRE A SPACER",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Assembly drawing SUP03-34, EXAMPLE FIREARM BARREL note, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the can off the muzzle, and check it seated hard first",
+   "action": "With the host clear, unscrew the VOX-S off the barrel threads by turning the body. Before it comes off, note how it was sitting: the drawing requires the silencer to thread tightly against the barrel shoulder, and the sheet requires no rocking and no movement when mounted. If you can feel play now, the fault was there while you were shooting and the alignment was never right.",
+   "prose": "The can is direct thread only in this configuration — there is no mount to release, no detent, no lever. It simply unscrews.",
+   "quote": "The silencer should be firmly attached to the barrel with no rocking or movement when properly attached to the host firearm.",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Maintenance, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the DT adapter has not backed out of the can",
+   "action": "With the can in hand, try the direct thread adapter against the body. It is a separate part (SUP03-07, Direct Thread Mount, Vox, 5/8-24) that lives in the rear of the tube, and Energetic Armament wants it checked periodically at 35-45 ft-lb. A loosening adapter is the failure that lets the can unscrew off the barrel as a unit while the adapter stays behind, and you will feel it as a can that suddenly turns further than it used to.",
+   "prose": "The adapter is meant to be secured with Rocksett before use; grease instead of Rocksett is the maker's own instruction if you intend to remove it later.",
+   "quote": "Periodically check to ensure the DT adapter is tightly secured to the silencer with approx. 35-45 ft.-lb. torque",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Maintenance, p.1",
+   "warn": "DT adapter torque: approximately 35-45 ft-lb."
+  },
+  {
+   "phase": "Clean",
+   "title": "Look through the bore before it goes back on",
+   "action": "Hold the unmounted VOX-S up to light and look straight through it. You are checking that the bore is clear and that nothing inside is deformed, cracked or bulged — a strike, a lodged wipe fragment or a swollen baffle all show as an off-centre or obstructed light path. Energetic Armament's instruction is to stop using it immediately if there is damage of any kind, not to shoot it once more to see.",
+   "prose": "This is the one inspection the sheet requires every time the can is off, and it takes about two seconds.",
+   "quote": "ALWAYS inspect the unmounted silencer to ensure the bore is clear and immediately discontinue use if the silencer is damaged in any way.",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Maintenance, p.1",
+   "warn": "Any damage at all means stop using it."
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe the outside only — and never wet the inside",
+   "action": "The exterior gets a cloth and a good gun oil, and that is the whole of routine cleaning. Do not pour solvent, water, gel or any wet-can product down the tube: the VOX-S is designed to be operated dry and adding liquid changes what happens to the first round through it. On a centerfire rifle can in normal use Energetic Armament asks for no interior cleaning at all.",
+   "prose": "A .30 rifle can does not carbon-lock the way a rimfire can does. The sheet's silence on interior cleaning is deliberate, not an omission.",
+   "quote": "The silencer is designed to be operated dry. Do not add liquids or gels to the silencer.",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Maintenance, p.1",
+   "warn": "No liquids. No gels. No wet-can shooting."
+  },
+  {
+   "phase": "Clean",
+   "title": "Re-mount, then check alignment before it is fired",
+   "action": "Thread the can back down until it seats firmly against the barrel shoulder, then confirm it is concentric with and in line with the bore. Energetic Armament recommends an alignment rod run through the suppressor into the barrel as the method — not a look down the tube by eye. A can that is square in the threads but tipped by a burr on the shoulder will still put a projectile into a baffle.",
+   "prose": "Re-check the mounted can after the first few rounds too; the sheet asks for periodic checking that both the silencer and the muzzle brake are still threaded securely.",
+   "quote": "Use of alignment rods is always recommended to ensure mounted silencer is properly aligned to barrel.",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Maintenance, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The VOX-S is off the host, the bore has been looked through, the DT adapter has been checked at 35-45 ft-lb and the outside has been wiped. That is the whole of the routine service this sheet publishes. Deep Clean covers the one teardown Energetic Armament does document — the nose cap and the silicone wipe — and the decision about whether the wipe should be in the can at all.",
+   "prose": "The core itself is a welded assembly. There is no baffle stack behind the front cap to take out.",
+   "quote": "No cleaning is required for centerfire rifle silencers in normal use. The outside of the silencer may be wiped with a cloth and high quality gun oil.",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Maintenance, p.1",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Nose cap off with the supplied 1-1/4 inch wrench",
+   "action": "The front cap (SUP03-06, Front Cap, Vox) unscrews with the 1-1/4 inch wrench that shipped with the can, and taking it off is what gives access to the wipe. Use the supplied wrench rather than an adjustable — the flats are the only purchase, and rounding them is how a cap becomes permanent. Expect resistance from anti-seize and carbon on a can that has been fired.",
+   "prose": "This is the only threaded joint on a VOX-S the owner is invited to open. Everything behind it is the welded core.",
+   "quote": "The nose cap may be removed using the included 1 -1/4” wrench to access the wipe.",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Wipe, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Wipe retainer out with a 9/16 inch wrench",
+   "action": "Behind the nose cap sits the wipe retainer (SUP03-10) holding the wipe (SUP03-13) against the front of the core. It comes out with a 9/16 inch wrench or socket. Note which way round the wipe sat before it leaves the can — a silicone disc that has been shot through has a bullet-side and a muzzle-side, and reversing it does nothing useful.",
+   "prose": "The wipe is a 1/8 inch, 70A reinforced silicone disc cut to 1-1/8 inch diameter; Energetic Armament prints the McMaster-Carr part number so you can replace it.",
+   "quote": "The wipe retainer is removed and installed with a 9/16” wrench/socket.",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Wipe, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Decide whether the wipe belongs in your VOX-S at all",
+   "action": "The wipe earns its place on subsonic ammunition — .300 Blackout is the example Energetic Armament gives — where it controls muzzle gas leaving the can. On supersonic, higher-energy rounds it buys nothing acoustically and is simply consumable material in the bullet's path, so the maker's instruction is to take it out. If your VOX-S lives on a 308 or a 5.56, that is a supersonic host and the wipe should not be in it.",
+   "prose": "This is a VOX-S limit read off the VOX-S sheet. Do not reason across from the VOX-K.",
+   "caution": "Wipe in for subsonic. Wipe out for supersonic.",
+   "quote": "It should be removed when used for higher energy, supersonic rounds as it will not increase the sound attenuation for those rounds.",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Wipe, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Anti-seize on the retainer and cap threads, then 30 in-lb",
+   "action": "Put a small amount of anti-seize on the wipe retainer threads and on the nose cap threads before either goes back. Start both by hand and feel them pick up square — the cap is a fine thread on a thin-wall front cap and cross-threading it is the realistic way to ruin a VOX-S at the bench. Bring the nose cap to about 30 in-lb, which is wrist-tight with a torque driver, not spanner-tight.",
+   "prose": "Energetic Armament even prints the anti-seize part number, McMaster-Carr 1288K12, so there is no guessing what belongs on those threads.",
+   "quote": "Apply a small amount of anti-seize compound to silencer nose cap threads before re-assembly. Be cautious to avoid cross threading and tighten the nose cap to approx. 30 in.-lb when reassembling.",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — Wipe, p.1",
+   "warn": "Nose cap torque: approximately 30 in-lb — inch-pounds, not foot-pounds."
+  },
+  {
+   "phase": "Clean",
+   "title": "Rocksett or grease on the DT adapter — the choice is permanent",
+   "action": "If the direct thread adapter has been out, decide before it goes back whether you ever intend to remove it again. Energetic Armament's instruction is Rocksett before use for a permanent fit, and a small amount of grease instead if you want it to come out later. Then torque it to 35-45 ft-lb and check that figure periodically, because that joint is what stops the can walking off the adapter in service.",
+   "prose": "Rocksett is water-releasable but it is a soak, not a wrench job. Choosing it is choosing not to swap mounts casually.",
+   "quote": "The direct thread (DT) adapter should be secured to the silencer with Rocksett™ before use. If it is intended to remove the DT adapter in the future apply a small amount of grease to the threads rather than Rocksett™.",
+   "cite": "VOX-S™ w/ Direct Thread Instructions — WARNING– Read Carefully — Rev. 6 May 2019 (VOX-S™ Silencer (DT) Instruction Sheet); page 2 drawing SUP03-34 REV 1, INITIAL RELEASE 8/10/2018 — WARNING, p.1",
+   "warn": "DT adapter: 35-45 ft-lb."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "EXTERIOR — THE WHOLE OF ROUTINE CLEANING",
+   "tasks": [
+    "Wipe the outside of the tube with a cloth and a high quality gun oil",
+    "No interior cleaning is required for a centerfire rifle silencer in normal use",
+    "PROHIBITED: do not add liquids or gels to the silencer — the VOX-S runs dry"
+   ]
+  },
+  {
+   "name": "MOUNT — DIRECT THREAD, 5/8-24",
+   "tasks": [
+    "Check the DT adapter is secure in the tube at approximately 35-45 ft-lb, periodically",
+    "Rocksett the adapter for a permanent fit, or grease it if you intend to remove it later",
+    "Confirm the barrel thread is no longer than .625 in, or fit a spacer",
+    "Confirm the can seats tight against the barrel shoulder with no rocking or movement"
+   ]
+  },
+  {
+   "name": "NOSE CAP AND WIPE",
+   "tasks": [
+    "1-1/4 in wrench for the nose cap; 9/16 in wrench or socket for the wipe retainer",
+    "Anti-seize on the retainer and cap threads (McMaster-Carr 1288K12)",
+    "Nose cap back to approximately 30 in-lb, started by hand to avoid cross threading",
+    "Wipe fitted for subsonic use; wipe REMOVED for supersonic rounds",
+    "Replacement wipe: 1/8 in 70A reinforced silicone, cut 1-1/8 in diameter, McMaster-Carr 3635K17"
+   ]
+  },
+  {
+   "name": "INSPECTION",
+   "tasks": [
+    "Look through the unmounted can and confirm the bore is clear",
+    "Discontinue use immediately if the silencer is damaged in any way",
+    "The core is a welded assembly (SUP03-11) — the baffles do not come out"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Fit the wipe (only if your host is subsonic) and run the wipe retainer in with a 9/16 in wrench, anti-seize on the threads.",
+  "Anti-seize the nose cap threads, start the cap by hand, and torque it to approximately 30 in-lb with the supplied 1-1/4 in wrench.",
+  "Seat the DT adapter in the rear of the tube at 35-45 ft-lb — Rocksett for permanent, grease if it must come out again.",
+  "Thread the VOX-S onto a clean 5/8-24 muzzle until it seats firmly against the barrel shoulder, with no rocking and no movement.",
+  "Run an alignment rod through the suppressor into the barrel and confirm it is concentric with the bore before any round is chambered."
+ ],
+ "fncheck": "With the host still clear, check the mounted VOX-S is concentric to and in line with the barrel bore using an alignment rod — the maker's recommended method, not an eyeball down the tube. Take hold of the can and try to move it: firmly attached means no rocking and no movement. Look through the unmounted can beforehand and confirm the bore is clear and undamaged. Anything that rocks, anything that will not align, or any damage at all, and it does not get fired."
+}

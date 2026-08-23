@@ -1,0 +1,67 @@
+{
+ "row": "weatherbyorionsxs",
+ "make": "Weatherby",
+ "model": "Orion SxS",
+ "sourcedFrom": "ORION® SIDE BY SIDE SHOTGUNS — Weatherby owner's manual — Orion Side by Side owner's manual (not printed)",
+ "sourceSha256": "d0de18347b34aca53e97cb0dc8a40c34174e4278681547c2e934c26919b6374e",
+ "cleanIntro": "An Orion side-by-side comes apart in two movements, but Weatherby is unusually specific about where your hands go: buttstock behind the tang, barrels just forward of the forend lug. Take the forend off the barrels first, then the top lever hard right and ease the muzzles down until the barrels come away.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety slide to SAFE first",
+   "action": "Move the manual safety slide to SAFE before anything else, then open the gun and check both chambers by eye and by finger.",
+   "quote": "Move the manual safety slide to the “SAFE” position (refer to Manual Safety Operation, page 9).",
+   "cite": "ORION® SIDE BY SIDE SHOTGUNS — Weatherby owner's manual — Orion Side by Side owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forend off the barrel assembly",
+   "action": "Take the forend off the barrels before you try to separate anything else.",
+   "quote": "Remove the forend from the barrel assembly (refer to Removing Forend from Barrel Assembly, page 13).",
+   "cite": "ORION® SIDE BY SIDE SHOTGUNS — Weatherby owner's manual — Orion Side by Side owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Hands where the book says — tang and forend lug",
+   "action": "One hand grasps the buttstock immediately behind the receiver tang; the other grasps the barrel assembly just forward of the forend lug. Anywhere else and you are levering on the hinge as the barrels come free.",
+   "quote": "Hold the shotgun with one hand grasping the buttstock immediately behind the receiver tang and the other hand",
+   "cite": "ORION® SIDE BY SIDE SHOTGUNS — Weatherby owner's manual — Orion Side by Side owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "Top lever hard right, and HOLD it",
+   "action": "With the thumb of the hand on the buttstock, push the top lever to its extreme right position and hold it there. Letting it return mid-operation traps the barrels half off.",
+   "quote": "With the thumb of the hand grasping the buttstock, push the top lever to its extreme right position and hold.",
+   "cite": "ORION® SIDE BY SIDE SHOTGUNS — Weatherby owner's manual — Orion Side by Side owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "Ease the muzzles down until the barrels separate",
+   "action": "Apply downward pressure with the hand on the barrels and ease the muzzle down until the barrel assembly separates from the receiver and buttstock. Ease — the whole weight of the barrels is in one hand the moment they come free.",
+   "quote": "Applying downward pressure with the hand grasping the barrel assembly, ease the muzzle down until the barrel assembly separates from the receiver and buttstock assembly.",
+   "cite": "ORION® SIDE BY SIDE SHOTGUNS — Weatherby owner's manual — Orion Side by Side owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  }
+ ],
+ "deepAbsentReason": "Weatherby publishes forend and barrel removal for the Orion and stops there. ⛔ No deeper path is invented.",
+ "cleaning": [
+  {
+   "name": "BOTH BORES, AND CLEAN IT IMMEDIATELY AFTER USE",
+   "tasks": [
+    "Solvent and brush through each barrel separately",
+    "Patches until clean, then one lightly oiled patch each",
+    "Wipe the standing breech, the hinge and the barrel lug",
+    "⛔ Neither bore keeps a patch"
+   ],
+   "quote": "it is very important that you clean it immediately after each",
+   "src": "Orion owner's manual, CLEANING YOUR WEATHERBY® SIDE BY SIDE SHOTGUN"
+  }
+ ],
+ "reassembly": [
+  "Safety ON. Both bores checked clear.",
+  "Top lever hard right and held; barrel lug onto the hinge.",
+  "Ease the barrels up until they seat, then release the lever to centre.",
+  "Forend back onto the barrels.",
+  "Open and close a few times, then function test."
+ ],
+ "fncheck": "Both chambers proven empty by eye and finger. Open and close several times — the barrels should move freely and the top lever return toward centre each time. Closed and on SAFE, pull the trigger: nothing. Safety off, finger clear: nothing on its own. ⛔ If the top lever does not return toward centre on closing, the gun is not locked up and must not be fired."
+}

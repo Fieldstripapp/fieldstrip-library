@@ -1,0 +1,174 @@
+{
+ "row": "diamondbackdb10",
+ "make": "Diamondback",
+ "model": "DB10",
+ "sourcedFrom": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. (ABSENT — no copyright line printed.)",
+ "sourceSha256": "e68c1832355ebef7247705c2170a5e58e78a51dd2a0307b3d1497893607acb19",
+ "cleanIntro": "One book covers the DB-15, the DB-10, the DB1065C and the DB-9R, with its per-model notes woven into the numbered disassembly steps. For a .308 DB10 there is one annotation you must resolve before you touch the bolt: step 9 says to turn the cam pin 90 degrees, and then prints 'FOR DB308 ONLY: DO NOT TURN CAM PIN'. The book gives the .308 rifle as 'DB-10' on its specification page and never reconciles the two designations, so check the marking on your own receiver before you decide which half of that step applies to you. Everything else is the standard large-frame AR sequence, and Diamondback stops you hard after it.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, bolt back, chamber clear",
+   "action": "Drop the magazine, pull the charging handle back and lock the bolt to the rear, then look AND feel into the chamber and the magazine well. Diamondback's disassembly section opens with the single instruction to make sure the firearm is unloaded and the chamber is clear, and everything after it assumes you have done it.",
+   "prose": "Put the selector on SAFE while you do it. It will only go to safe with the hammer cocked, which is where it is once the bolt has been run back.",
+   "quote": "Make sure the firearm is unloaded and chamber is clear. (Fig. 9)",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Field Stripping/Disassembly, p.18",
+   "warn": "PROJECTILE LODGED IN BORE WARNING: If an audible “POP” or reduced recoil is experienced during firing, IMMEDIATELY cease fire, remove the magazine and lock the bolt to the rear."
+  },
+  {
+   "phase": "Clear",
+   "title": "DB10 — what this four-model book says is yours",
+   "action": "Confirm what you have and read the marking on your receiver. This book's Ammunition Specifications page gives the DB-10 as .308 Winchester — a large-frame AR, not an AR-15 — while the DB1065C is the 6.5 Creedmoor and the DB-9R is a 9mm blowback with six steps marked as not applying to it. Do not run a DB-15 procedure on a DB-10 or the reverse; the two are different receiver sets.",
+   "prose": "Reloaded or non-SAAMI-spec ammunition voids the warranty, and on a .308 gas gun that also means pressure the rifle was never proofed for.",
+   "caution": "DB-10: .308 Winchester. The use of reloaded and Non SAAMI spec ammunition will void this firearm’s warranty.",
+   "quote": "Ammunition Specifications\n\nDB-15:\n\n5.56mm NATO\n\n.223 Remington\n\nDB-10:\n\n.308 Winchester",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Ammunition Specifications, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear takedown pin out to its stop",
+   "action": "Press the takedown pin in from the LEFT side of the lower receiver and pull it out the right side until it reaches a positive stop. It is captive and does not come all the way out. If the upper-to-lower fit is tight, Diamondback expects you to start it with a punch rather than lever at it with a screwdriver.",
+   "prose": "The positive stop is a detent, not the end of the pin. You will feel it catch.",
+   "quote": "1. Press the takedown pin from left of the lower receiver (it may be necessary to\n\nFIG.9\n\nuse a punch as the fit between upper and lower may be tight) Pull it out the right\n\nside until it comes to a positive stop. (Fig. 10)",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Field Stripping/Disassembly, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hinge open, then the front pivot pin",
+   "action": "Pivot the lower receiver down and away from the upper. Then press the front pivot pin in from the left and pull it out the right until it too hits its positive stop, and separate the two halves. Hinging first takes the spring load off the pivot pin and is why the pins come out in this order.",
+   "prose": "If the pivot pin fights you, the receivers are not hanging square. Let the lower swing free first.",
+   "quote": "3. Press the front pivot pin in from the left side of the lower receiver and pull it\n\nout the right side until it comes to a positive stop.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Field Stripping/Disassembly, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier group out, then the charging handle",
+   "action": "Pull the charging handle to the rear and draw the bolt and carrier assembly out of the upper. Then take the charging handle out by pulling it back to its key slot and dropping it down and out of the receiver. That order is not optional — the handle cannot clear its slot until the carrier is gone.",
+   "prose": "The carrier comes out heavy and greasy. Have somewhere to put it before you start.",
+   "quote": "5. Pull the charging handle to the rear and remove the bolt and carrier assembly.\n\n6. Remove the charging handle by pulling it backwards to key slot and down and",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Field Stripping/Disassembly, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin, then the firing pin",
+   "action": "Push the firing pin retaining pin through the carrier RIGHT to LEFT and pull it out the left side. Then tilt the bolt face upward and let the firing pin slide out of the back of the bolt body under its own weight. Do not shake it out — a firing pin that lands on concrete is a replacement part.",
+   "prose": "The retaining pin is small and springy. Work over a tray.",
+   "quote": "7. Push in the firing pin retaining pin right to left of the bolt carrier and remove it\n\nby pulling it out to the left.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Field Stripping/Disassembly, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Cam pin — check your receiver marking FIRST",
+   "action": "Step 9 tells you to push the bolt into the carrier until it rotates and comes to a stop and then turn the cam pin 90 degrees — and in the same breath prints 'FOR DB308 ONLY: DO NOT TURN CAM PIN'. Diamondback does not say anywhere in this book whether a DB-10 is a DB308. So look at the marking rolled on your own receiver before you turn anything: if it reads DB308, the turn is prohibited and you lift the cam pin straight out; if it reads DB-10 and nothing else, the standard turn applies.",
+   "prose": "This is not us hedging — it is a genuine gap in the document, and a cam pin turned against a prohibition is a broken cam pin or a damaged carrier. If your receiver marking does not settle it, ask Diamondback rather than guessing.",
+   "quote": "9. (n/a for DB-9R) Push the bolt in towards the carrier until it rotates and comes\n\nto a stop, then turn the cam pin 90 degrees. FOR DB308 ONLY: DO NOT TURN\n\nCAM PIN",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Field Stripping/Disassembly, p.18",
+   "warn": "FOR DB308 ONLY: DO NOT TURN CAM PIN — resolve which designation your rifle carries before proceeding."
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and spring — under real tension",
+   "action": "Depress the buffer and KEEP the pressure on it, because it is under spring load and will launch if the retainer lets go unopposed. Depress the buffer retainer to release the buffer and spring forward, depress the hammer so they can pass, and ease them out of the buffer tube.",
+   "prose": "This is the one step on an AR that actually fires something across the room. Hand over the retainer, not beside it.",
+   "caution": "Eye protection on before the retainer is touched.",
+   "quote": "12. Depress the buffer, maintaining pressure on it as the buffer is under spring tension, to prevent it from being ejected when the buffer retainer is depressed.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Field Stripping/Disassembly, p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore cleaner on the upper, and nothing abrasive on aluminium",
+   "action": "Work rifle bore cleaner over everything showing powder fouling in the upper — the bore and chamber, the locking lugs, the bolt body, and the gas tube protrusion inside the receiver, for which a worn-out bore brush is the right tool. Do NOT take a wire brush or any abrasive to the aluminium: the receiver's anodising is a surface treatment and once it is through, that area corrodes.",
+   "prose": "The gas tube protrusion is the part everyone misses because you cannot see it without looking in.",
+   "quote": "All areas that show powder fouling, including the bore and chamber; the\n\nlocking lugs and bolt body and the gas tube protrusion inside the upper\n\nreceiver. Use a worn bore brush to get the outside surface of the gas\n\ntube protrusion and the sides and bottom of the receiver.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Cleaning Procedure, p.20",
+   "warn": "CAUTION: Do not use a wire brush or any type of abrasive material to clean aluminum surfaces."
+  },
+  {
+   "phase": "Clean",
+   "title": "Carrier key, firing pin hole, under the extractor lip",
+   "action": "On the bolt and carrier, clean the carrier's outer AND inner surfaces, the carrier key, the firing pin recess and the pin itself, the firing pin hole — best done with a pipe cleaner — the areas behind the bolt ring, and under the lip of the extractor. Those last two are where carbon packs hardest and where an AR starts failing to extract.",
+   "prose": "Diamondback's own instruction is to clean the rifle twice on consecutive days after firing. That is not fussiness — it is because solvent needs a second pass to lift set carbon.",
+   "aside": "After firing, clean your firearm twice on consecutive days with rifle bore cleaner.",
+   "quote": "Bolt & Carrier Group – Clean the following with Rifle Bore Cleaner: The cleaning should include the outer and inner surfaces of the bolt carrier, the carrier key; firing pin recess and firing pin; the firing pin hole (best cleaned with pipe cleaner) the areas behind the bolt ring and under the lip of the extractor.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Cleaning Procedure, p.20"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lightly here, generously there",
+   "action": "Diamondback splits lubrication into two grades and means it. LIGHTLY — a film barely visible — goes on the bore and chamber (patch worked chamber to muzzle, never reversed inside the bore), the barrel exterior, the charging handle and the firing pin and its recess. GENEROUSLY — heavy enough to spread with a finger — goes on the outside of the bolt and carrier, the cam pin area, the gas rings, the takedown and pivot pins, the action spring and the inside of the buffer tube.",
+   "prose": "Remember to get the excess back out of the bore before you fire it.",
+   "caution": "CAUTION: Only lightly lube the firing pin and firing pin recess in the bolt.",
+   "quote": "Lightly lube – A film of oil barely visible to the eye. Generously lube – Heavy enough so that it can be spread with the finger. Remember to remove excess oil from the bore before firing.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Lubrication Guide, p.21"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stop here — and never swap bolts between rifles",
+   "action": "Do not strip further than the steps above. Diamondback states that further disassembly should only be performed by them and that going further WILL void the warranty. And while the bolt is out: never fit it to a different rifle. A bolt is headspaced to the barrel it came with, and swapping one is how a case head separates.",
+   "prose": "Inspect it instead. Cracks around the cam pin hole, pitting in the firing pin hole, a bent or blunted firing pin, a chipped cam pin — all are replace-not-clean findings.",
+   "quote": "NOTE: DO NOT strip your firearm further than previously described. Further disassembly should only be performed by Diamondback Firearms. Disassembling this rifle any further WILL void the warranty.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Field Stripping/Disassembly, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper, lower, bolt carrier group with the bolt and firing pin out of it, charging handle, buffer and action spring. That is exactly the extent Diamondback describes and exactly where they stop you. Reassembly is the same procedure in reverse — with two things that must not be skipped.",
+   "prose": "Stagger the gas ring gaps, and make certain the cam pin is back in before the carrier goes in the gun.",
+   "quote": "Your firearm is now field stripped for cleaning. To reassemble, repeat the procedure in reverse.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Field Stripping/Disassembly, p.19",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Diamondback publishes NO deeper procedure and forbids one in the manual's own words: 'DO NOT strip your firearm further than previously described. Further disassembly should only be performed by Diamondback Firearms. Disassembling this rifle any further WILL void the warranty.' (p.19). The sixteen disassembly steps already include the extractor and its spring, which on most AR books is deep-clean territory, so there is nothing left that the field strip does not reach. Anything beyond it — gas block, gas tube, barrel nut, fire control group — is Diamondback's work by their own instruction, and walking it here would be invention against an explicit prohibition.",
+ "cleaning": [
+  {
+   "name": "UPPER RECEIVER",
+   "tasks": [
+    "Rifle bore cleaner on every area showing powder fouling",
+    "Bore and chamber; locking lugs; bolt body",
+    "Gas tube protrusion inside the receiver — use a worn-out bore brush",
+    "NO wire brush and nothing abrasive on aluminium surfaces"
+   ]
+  },
+  {
+   "name": "BOLT & CARRIER GROUP",
+   "tasks": [
+    "Outer and inner surfaces of the carrier, and the carrier key",
+    "Firing pin recess and the firing pin",
+    "Firing pin hole — pipe cleaner",
+    "Behind the bolt ring and under the lip of the extractor",
+    "Inspect for cracks around the cam pin hole and pitting in the firing pin hole"
+   ]
+  },
+  {
+   "name": "LOWER RECEIVER GROUP",
+   "tasks": [
+    "Powder fouling, corrosion and dirt off the lower",
+    "Wipe dirt from the trigger mechanism",
+    "Clean the buffer and the inside of the receiver extension",
+    "Generously lube the takedown and pivot pins, the action spring and inside the buffer tube"
+   ]
+  },
+  {
+   "name": "DB10 SPECIFICS",
+   "tasks": [
+    ".308 Winchester only",
+    "⛔ Cam pin: the book prints a DB308-only prohibition on turning it — check your receiver marking",
+    "Extractor pin, extractor and spring come out; do NOT separate the spring from the extractor",
+    "Never interchange bolts between firearms — a large-frame bolt is headspaced to its own barrel",
+    "Handguard removal by the delta ring does not apply to free-float models"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Insert the action spring and buffer, depressing the buffer retainer to capture them.",
+  "Fit the extractor and its spring — new extractors carry a silicone insert with a spring, do not lose it.",
+  "Push the extractor pin home, then slide the bolt into the carrier. NEVER interchange bolts between firearms.",
+  "Stagger the gas ring gaps to minimise gas loss.",
+  "Replace the bolt cam pin. Without it the rifle can still fire and WILL explode.",
+  "Drop the firing pin in and seat it, pull the bolt back and replace the retaining pin; the firing pin must not fall out when the carrier is held vertical.",
+  "Engage the charging handle part way, then slide the carrier group in and push both home together.",
+  "Join the receivers, engage the pivot pin, close them and push the takedown pin in — selector on SAFE before the upper closes."
+ ],
+ "fncheck": "Before anything else, confirm the cam pin is installed — the manual's own warning is that without it the rifle can still fire and will explode. Hold the assembled carrier group vertical and check the firing pin does not fall out; if it does, the retaining pin is not seated. With the rifle assembled and empty, put the selector on SAFE, pull the charging handle and let the bolt run home under its own spring, then press the trigger and confirm the hammer does NOT fall. Switch to FIRE and confirm it does. Check both takedown pins are pushed fully home and that the upper and lower have no play between them."
+}

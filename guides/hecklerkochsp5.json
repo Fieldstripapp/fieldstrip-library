@@ -1,0 +1,194 @@
+{
+ "row": "hecklerkochsp5",
+ "make": "Heckler & Koch",
+ "model": "SP5",
+ "sourcedFrom": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL (2026)",
+ "sourceSha256": "475eb998678fb5f88223f77ec36f4148071dfa1e6805c3b776df97dc4918da6a",
+ "cleanIntro": "HK's civilian MP5: a 9x19 roller-delayed blowback with an 8.86 inch barrel, fluted chamber, paddle and button magazine releases, and ambidextrous safety levers. HK builds and documents it as a semi-automatic civilian sporting PISTOL — the SP prefix — though it lives among the rifles in this catalog. Nothing about its maintenance resembles an HK handgun: the strip is push-pins and assembly groups, the bolt is a two-piece roller-locked group with a rotating locking piece, and the chamber flutes mean some brass discoloration is the system working as designed.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "SP5, SP5K, SP5K-PDW — and the NFA line you must not cross",
+   "action": "The book covers the SP5 series: the full 8.86 inch SP5 and the short SP5K models. Before anything mechanical, absorb its one legal-configuration warning: adding an HK stock to a pistol with a barrel under 16 inches manufactures a short-barreled rifle under the NFA — and merely possessing the pistol together with the butt stock counts, registered in advance or unlawful. This spec covers cleaning and maintenance only; configuration is between you, the law, and nobody else.",
+   "prose": "The warning is printed in the introduction, ahead of the safety rules — that placement is HK telling you which mistake it considers easiest to make with this gun.",
+   "quote": "Even if the pistol is not assembled into the butt stock, possession of the pistol and the butt stock would constitute a short barrel rifle (SBR) which may not be lawfully possessed unless it is registered to the possessor in the National Firearms Registration and Transfer Record in advance.",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 1 — INTRODUCTION, p.5",
+   "warn": "ALL NFA RULES APPLY."
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety on: the lever with the crossed-out cartridge",
+   "action": "Point the muzzle safe, fingers off the trigger and outside the guard, and place the safety lever — present on BOTH sides of the receiver — in the SAFE position, the white cartridge symbol with the X through it. Unlike many designs, the SP5's selector goes to SAFE whether or not the gun is cocked.",
+   "prose": "The pictogram markings replace the old S/F letters: white crossed-out cartridge is safe, red cartridge is fire. Either side's lever moves both.",
+   "quote": "1. Point the muzzle of the pistol in a safe direction and place the safety lever in the safe position. Ensure the muzzle of the firearm is pointed in a safe direction and that the operator’s fingers are off the trigger and outside the trigger guard. Place the safety lever in the SAFE position (white cartridges symbol with white “X” through it). Safety lever is located on both sides of the receiver.",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 7 — CLEARING PROCEDURE, p.19"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out — by hand, not by gravity",
+   "action": "Depress the magazine release — the button on the right side of the receiver or the paddle behind the magazine well on the SP5 — and remove the magazine from the well with your hand. HK specifically warns against dropping magazines free: an impact on the magazine lips causes malfunctions.",
+   "prose": "MP5-pattern magazines feed off lips that are precision steel, and speed-dropping them onto concrete is how a reliable gun learns to double-feed.",
+   "quote": "NOTE: Risk of material damage from dropping the magazine! Dropping a magazine can damage the magazine lips and cause malfunctions. Remove the magazine by hand and avoid impacts on the magazine lips.",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 7 — UNLOADING, p.22"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt locked back on the charging handle notch",
+   "action": "Grasp the charging handle on the left of the receiver beside the front sight, pull the bolt fully rearward with the muzzle safe, and rotate the handle UP into the locking recess notch. The bolt is now held open. Watch the ejection port through the stroke — a chambered round comes out here.",
+   "prose": "This is the famous HK notch. There is no last-round bolt hold-open on the SP5; the notch is the only open-bolt state the gun has, and every clearing and loading operation runs through it.",
+   "quote": "3. Open and lock the bolt to the rear. Grasping the charging handle on the left side of the receiver (located adjacent of the front sight) and move the bolt to the rear while keeping the muzzle pointed in a safe direction (Fig. 20). Place the charging handle in the upward, locking recess notch (Fig. 21 A and B ). The bolt should be locked in the rear position. Watch for a cartridge or empty case to be ejected out through the ejection port.",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 7 — CLEARING PROCEDURE, p.19"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber checked — through the port by eye, through the magwell by finger",
+   "action": "Visually inspect the chamber through the open ejection port, then insert a finger up through the MAGAZINE WELL and sweep the chamber and feed ramp area, removing anything found.",
+   "prose": "The finger goes through the magwell on this platform, not the port — the receiver tube leaves no room for a finger from the side.",
+   "quote": "1. Visually inspecting the chamber through the open ejection port. 2. Physically inserting a finger through the magazine well and sweeping the chamber",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 7 — CLEARING PROCEDURE, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Back plate off: push in the locking pin, pull it out",
+   "action": "With the firearm cleared and checked, push in the locking pin for the back plate and pull it out — the SP5 has one pin where the SP5K carries two — then remove the back plate rearward off the receiver.",
+   "prose": "HK's push-pins are captive-friendly: they push through and pull free, no punch needed, and they go back in from either side. Park them in the stowage holes if your handguard has them, or a cup — never the bench-mat void.",
+   "caution": "Only disassemble the SP5 to the extent described in the manual — improper assembly compromises safety and function.",
+   "quote": "2. Push in locking pins for back plate and pull it out (Fig. 35). Note: SP5 has only one pin. 3. Remove back plate to the rear.",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 8 — DISASSEMBLY INTO ASSEMBLY GROUPS, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pistol grip down and off",
+   "action": "Remove the pistol grip downwards off the receiver. On the SP5 the grip assembly houses the entire trigger mechanism, and it comes away as one sealed unit — the book's disassembly of it ends here deliberately.",
+   "prose": "The trigger pack is the one assembly HK later names as not necessary and not recommended to open. Off the gun for cleaning access: yes. Apart: no.",
+   "quote": "4. Remove pistol grip downwards (Fig. 36).",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 8 — DISASSEMBLY INTO ASSEMBLY GROUPS, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt group and recoil spring out the back",
+   "action": "Pull the bolt group and recoil spring rearward out of the receiver — ease the charging handle out of its notch first and ride the bolt back if it is still forward. The group comes out as bolt head, bolt head carrier, locking piece and recoil spring together.",
+   "prose": "This is the heart of the roller-delay system leaving the gun: the two rollers on the bolt head and the wedge-shaped locking piece between them are what stood in for a locked breech.",
+   "quote": "5. Pull bolt group and recoil spring rearwards out of the receiver (Fig. 37).",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 8 — DISASSEMBLY INTO ASSEMBLY GROUPS, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Handguard off: pin out, forward and down",
+   "action": "Push in the handguard locking pin and pull it out, then pull the handguard toward the muzzle and downward to remove it. The gun is now in its assembly groups: receiver with barrel, bolt group and recoil spring, back plate, pistol grip mechanism, handguard, magazine.",
+   "prose": "Forward-then-down is the trick — the handguard hooks at its rear and unhooks by sliding toward the muzzle first.",
+   "quote": "7. Pull handguard towards muzzle A and downwards B to remove it (Fig. 38).",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 8 — DISASSEMBLY INTO ASSEMBLY GROUPS, p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt group apart: rotate the locking piece, free the firing pin",
+   "action": "Turn the locking piece clockwise and bring it forward out of the bolt head carrier, then remove the firing pin and its pressure spring forward out of the carrier. Six components: bolt head, locking piece, firing pin pressure spring, firing pin, bolt group carrier, recoil spring.",
+   "prose": "The clockwise turn unhooks the locking piece's lugs from the carrier. Nothing here needs force — the parts index on machined surfaces and either drop free or are not yet aligned.",
+   "quote": "2. Turn locking piece clockwise (Fig 39 A ) 3. Remove locking piece from bolt head carrier by bringing in forward (Fig. 39 B ) 4. Remove firing pin and pressure spring for firing pin forwards out of the bolt head",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 8 — Disassemble bolt group, p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the end of recommended disassembly",
+   "action": "The book draws its line here in so many words: further disassembly, including the pistol grip and trigger mechanism, is not necessary and not recommended. Clean each time the gun is fired and at intervals of 1000 rounds, or whenever it has been through sand, dust or water — especially salt water.",
+   "prose": "Note the interval: 1000 rounds, not the 500-600 of HK's handgun books — the roller-delay system and fluted chamber shed fouling differently than a Browning-action pistol.",
+   "quote": "End of recommended disassembly procedure Further disassembly, including disassembly of the pistol grip and the trigger mechanism is not necessary or recommended. For more information, please contact HK Customer Service.",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 8 — DISASSEMBLY, p.26",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Bolt group and firing pin bore — the rag pass",
+   "action": "Clean fouled parts and surfaces with a cleaning rag: the inside of the receiver, the pistol grip, the recoil spring, the firing pin, and the bolt head — including the firing pin bore inside the bolt head, which is its own line item in the book. Then the magazine well, magazine and follower, and finish with a visual damage check of the whole gun.",
+   "prose": "The firing pin bore is where roller-gun fouling hides: gas from the fluted chamber works back into the carrier, and a plugged pin channel turns into light strikes a thousand rounds later.",
+   "quote": "CLEAN ASSEMBLY GROUPS Required auxiliary materials: cleaning rag 1. Clean fouled parts and surfaces using cleaning rag. 2. Clean inside of receiver using cleaning rag. 3. Clean pistol grip, recoil spring, firing pin and bolt head using cleaning rag. 4. Clean firing pin bore in bolt head using cleaning rag. 5. Clean magazine well, magazine and follower using cleaning rag. 6. Visually check SP5 Series pistol for damage.",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 10 — CLEAN ASSEMBLY GROUPS, p.31"
+  },
+  {
+   "phase": "Clean",
+   "title": "Barrel: chamber brush first, then the bore, chamber-to-muzzle",
+   "action": "Assemble the cleaning rod and clean the CHAMBER and locking piece area with the chamber brush first, then swap to the barrel brush and pull it, lubricated, through the bore several times — inserting from the chamber toward the muzzle to protect the crown. Follow with clean pull-throughs until the bore comes out clean, then a final pass with the oil brush.",
+   "prose": "The chamber brush is not optional on this gun: the flutes that float the case on gas also collect carbon in lines, and a bore-only cleaning leaves the chamber to slowly close up on the brass.",
+   "quote": "1. Screw together handle rod, extension rods and chamber cleaning brush. 2. Clean chamber and locking piece using chamber cleaning brush. 3. Replace chamber cleaning brush with barrel cleaning brush. 4. Pull lubricated barrel cleaning brush through the barrel several times. To protect the",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 10 — CLEAN BARREL, p.31"
+  },
+  {
+   "phase": "Clean",
+   "title": "Major cleaning: magazine apart, parts immersed",
+   "action": "Major cleaning is the normal routine plus the magazine disassembled and all parts rinsed or immersed in solvent, scrubbed with a nylon brush and dried with compressed air or rag and swabs — though for routine care HK says magazine disassembly is not necessary at all, just light lubrication against corrosion.",
+   "prose": "MP5-pattern magazines are famously indifferent to neglect; HK's own maintenance ask is nearly nothing. Take them apart when Major cleaning calls for it and otherwise leave them be.",
+   "quote": "Disassembly of mag­a­zines Disassembly of magazines for maintenance is not necessary. Light lubrication for corrosion protection should be the only maintenance required..",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 8 — MAGAZINE MAINTENANCE, p.26"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Excessive force is a named hazard — and so is over-disassembly",
+   "action": "Two of the book's own cleaning warnings: do not use excessive force when cleaning (it damages the gun), and only disassemble to the extent the manual describes, because improper assembly compromises the safety and functioning of the pistol. The trigger pack and grip stay closed.",
+   "prose": "Roller guns attract detail-strippers. The book's answer is structural: everything the owner needs to reach is reachable in the assembly-group strip above, and nothing past it is.",
+   "quote": "WARNING! Risk of injury from improperly assembled SP5 Series pistol! Improper assembly can compromise the safety and functioning of the SP5 Series pistol. Only disassemble the pistol to the extent described in this manual.",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 10 — CLEANING & MAINTENANCE, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt group back together: the counter-clockwise indexing",
+   "action": "Push the pressure spring onto the firing pin and set both into the bolt head carrier. Press the locking piece fully into the carrier, hold it, and turn it ANTI-CLOCKWISE to its assembly position. Then place the bolt head onto the locking piece with the extractor UP, and turn the bolt head counter-clockwise until the connecting piece snaps into place audibly and tangibly.",
+   "prose": "Both rotations run counter-clockwise on assembly — the mirror of the clockwise strip — and the snap you can hear and feel is the only acceptance test. A bolt head that did not click is not attached.",
+   "quote": "5. Place bolt head with extractor upwards A onto locking piece (Fig. 47). 6. Turn bolt head counter-clockwise B until the connecting piece audibly and tangibly",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 9 — Assemble bolt group, p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "SP5K scope mount: leave it alone unless damaged, torque to 3 Nm",
+   "action": "The SP5K's Picatinny scope mount is removed only if damaged. The job takes a Torx TX15 and, on installation, a torque wrench set to 3 Nm: clamps depressed, mount pivoted onto the receiver's mounting points until it clicks, screws tightened to torque.",
+   "prose": "That 3 Nm figure is the one printed torque value in the book — respect it, because the clamps bear on a stamped receiver that does not forgive gorilla hands.",
+   "quote": "Only remove the Picatinny rail scope mount if it is damaged. Removal and installation of the rail scope mount requires a Torx TX15 insert. For installation, use of a torque wrench is recommended. Torque setting of 3 Nm/.67 pounds-force (lbf).",
+   "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 8 — Removal of Picatinny Rail Scope Mount, p.25"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "RECEIVER AND BOLT GROUP",
+   "tasks": [
+    "Rag out the inside of the receiver",
+    "Clean the recoil spring, firing pin and bolt head — and the firing pin bore inside the bolt head",
+    "Visually check the pistol for damage as you go"
+   ]
+  },
+  {
+   "name": "BARREL AND CHAMBER",
+   "tasks": [
+    "Chamber brush over the chamber and locking-piece area FIRST — the fluted chamber collects carbon in lines",
+    "Lubricated barrel brush through the bore several times, inserted chamber-to-muzzle to protect the crown",
+    "Clean pull-throughs until they come out clean, then one pass with the oil brush"
+   ]
+  },
+  {
+   "name": "GRIP, MAGAZINE WELL AND MAGAZINE",
+   "tasks": [
+    "Rag the pistol grip assembly clean — never open it",
+    "Clean the magazine well, magazine and follower",
+    "Magazines need no disassembly for maintenance — light lubrication against corrosion only"
+   ]
+  },
+  {
+   "name": "INTERVALS",
+   "tasks": [
+    "Clean each time the gun is fired and at intervals of 1000 rounds",
+    "Thorough cleaning after any exposure to sand, dust or water — especially salt water",
+    "No excessive force anywhere — it is a named hazard in this book"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Assemble the bolt group: spring onto firing pin, both into the carrier; locking piece pressed in and turned anti-clockwise to its assembly position; bolt head on with the extractor up, turned counter-clockwise until the connecting piece snaps audibly into place.",
+  "Place the handguard onto the receiver from below, press it rearward, and push its locking pin in from either side.",
+  "Insert the bolt group and recoil spring into the receiver from the rear.",
+  "Insert the pistol grip into the receiver and rotate it upward.",
+  "Insert the back plate and push its locking pin(s) in — one pin on the SP5.",
+  "Perform the function check."
+ ],
+ "fncheck": "After assembly, pull the cocking lever to the rear and release. On SAFE the trigger must be dead. On FIRE the hammer must fall. Hold the trigger to the rear, cycle the cocking lever, and release the trigger to confirm the reset. Repeat the cycle several times to make certain the pistol functions correctly — the book's own closing instruction — and confirm both selector levers move together and reach SAFE even uncocked."
+}

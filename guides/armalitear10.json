@@ -1,0 +1,249 @@
+{
+ "row": "armalitear10",
+ "make": "ArmaLite",
+ "model": "AR-10",
+ "sourcedFrom": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 (2011)",
+ "sourceSha256": "5bea9ee47d176dec9d226426301e9c33457bdc4d2237508749be3f1db87cb8f8",
+ "cleanIntro": "This is ArmaLite's own owner's manual for the AR-10 — a full operating, disassembly, maintenance and reassembly book, not a component or build sheet. One thing has to be settled before you touch it: an AR-10 is either an AR-10A or an AR-10B, and the two take completely different magazines. The A family runs Waffle-pattern and PMAG 20LR magazines, the B family runs ArmaLite's M-14-derived steel magazines, and neither will feed the other's. Beyond that they strip identically: takedown pin, pivot pin, bolt carrier group out the back of the upper. ArmaLite is unusual in telling you to lubricate generously and to stop cleaning at certain places — the gas tube interior and the carbon in the carrier's gas cylinder groove are both left alone deliberately.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Which AR-10 do you have — A or B?",
+   "action": "Settle this before you strip, because it decides what magazine goes back in. The AR-10A and AR-10B are functionally identical to operate, control and maintain, but the A family is built around early ArmaLite AR-10 Waffle magazines and copies of them, and the B family around ArmaLite's proprietary M-14-derived steel magazines. ArmaLite ships PMAG 20LRs with the AR-10A. The bolt stop, magazine catch and both receivers differ between the families, so a magazine that fits loose or will not lock is telling you something.",
+   "prose": "This is the single most consequential fact in the book for an AR-10 owner, and it is stated as an absolute, not a preference.",
+   "quote": "The AR-10A family of ArmaLite® firearms is functionally identical to our AR-10B family. Operation, controls, and maintenance are the same. However, the AR-10A family is designed to accept early ArmaLite AR-10 \"Waffle\" magazines and good quality magazines copied from them, instead of ArmaLite's proprietary steel magazines that are used in our AR-10B family. Neither family of firearms will function correctly with the other family's magazines.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — General Information, p.8",
+   "warn": "Neither family of firearms will function correctly with the other family's magazines."
+  },
+  {
+   "phase": "Clear",
+   "title": "Selector to SAFE — and it will only go there cocked",
+   "action": "Put the safety selector on SAFE first. On the AR-10 the selector physically cannot rotate to SAFE unless the hammer is cocked, so a lever that refuses to move is telling you the rifle is uncocked rather than that it is broken. If that happens, retract the charging handle to cock the hammer, then set SAFE.",
+   "prose": "Doing this before the magazine comes out means the trigger is blocked for the whole of the rest of the clearing sequence.",
+   "quote": "1. Place safety selector (L-24) on \"SAFE\". NOTE: If the rifle is not cocked, the lever cannot be pointed toward SAFE.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Clearing / Unloading the Firearm, step 1, p.29"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out BEFORE the chamber — the order is not negotiable",
+   "action": "Press the magazine catch button and take the magazine out, catching it rather than letting it drop onto concrete. Only then do you go near the chamber. ArmaLite states the order as a mandatory sequence and explains exactly why: clear the chamber first and the closing bolt simply strips a fresh round off the magazine, leaving you with a rifle you believe is empty and is not.",
+   "prose": "Rifles sold into some jurisdictions have an inset magazine catch that needs a bullet nose or similar tool to release — that is a legal fitment, not a fault.",
+   "caution": "CAUTION: THE MAGAZINE WILL FALL FREE WHEN THE MAGAZINE CATCH IS PRESSED. DON'T ALLOW THE MAGAZINE TO FALL ONTO A HARD SURFACE. DOING SO MAY DAMAGE THE MAGAZINE.",
+   "quote": "WARNING: THE STEPS IN UNLOADING YOUR FIREARM MUST BE FOLLOWED IN THE EXACT ORDER GIVEN. THE MAGAZINE MUST BE REMOVED BEFORE THE CHAMBER IS INSPECTED.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Clearing / Unloading the Firearm, Warning, p.30"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the bolt back and look inside",
+   "action": "Pull the charging handle fully rearward, press the bottom of the bolt stop, then ease the carrier forward until the stop catches it and return the charging handle home. Now put your eye into the ejection port and look at the chamber and the receiver — not a glance, a look. Return the charging handle forward every time; a handle left half out fouls the upper when you go to separate the receivers.",
+   "prose": "The AR-10 will fire with no magazine in it at all, so an empty magazine well proves nothing about the chamber.",
+   "quote": "3. Extract the cartridge (if any) from the chamber. To lock the bolt open, pull the charging handle rearward, press the bottom of the bolt stop (L-13), and allow the bolt to move forward until the bolt stop restrains it. Return the charging handle forward.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Clearing / Unloading the Firearm, step 3, p.30",
+   "warn": "WARNING: THIS FIREARM WILL FIRE WITHOUT A MAGAZINE IN IT. ALWAYS ASSURE THAT THE CHAMBER IS EMPTY."
+  },
+  {
+   "phase": "Strip",
+   "title": "Confirm SAFE, magazine gone, chamber checked — then start",
+   "action": "The disassembly section opens by repeating the whole clearing sequence rather than assuming you did it, and that repetition is the right instinct: the rifle you are about to pivot open is the one you last put down. Selector SAFE, magazine out, charging handle back, chamber checked. Take the sling off too — it turns a two-hand job into a three-hand job the moment the receivers hinge apart.",
+   "prose": "Eye protection from here on. The operating spring behind the buffer is under real compression and it is the part that gets away from people.",
+   "quote": "IMPORTANT: Put the safety selector (L-24) on \"SAFE\". Remove the magazine, THEN pull back the charging handle (U-2) and check the chamber.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Disassembly — Clear the Rifle, p.33",
+   "warn": "WARNING: ALWAYS WEAR SAFETY GLASSES WHEN DISASSEMBLING, MAINTAINING, OR ASSEMBLING YOUR FIREARM. IN PARTICULAR, THE OPERATING SPRING IS UNDER HIGH COMPRESSION. IF IT SLIPS FROM YOUR GRASP, IT COULD CAUSE INJURY."
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin, hinge open, pivot pin, separate",
+   "action": "Push the rear takedown pin across as far as it goes — it is captive and stays in the lower — then hinge the upper away from the lower. Push the front pivot pin across the same way and lift the two receivers apart. Both pins should move under thumb pressure or a light tap; if one fights you, something is misaligned. ArmaLite's warning here is about force, because these are aluminium forgings and a driven pin swages the lug it passes through.",
+   "prose": "Normal forging variation means the receivers may sit with slight play or a small step where they meet. That is not a defect and not something to correct.",
+   "caution": "CAUTION: EXCESS FORCE CAN SEVERELY DAMAGE THE RECEIVER. TAKE IT EASY!",
+   "quote": "2. Pivot the upper receiver (U-1) from the lower receiver (L-1). 3. Push the receiver pivot pin (L-20) as far as it will go. Take it easy!",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Disassembly — Upper and Lower Receivers, p.34"
+  },
+  {
+   "phase": "Strip",
+   "title": "Carrier group and charging handle out of the upper",
+   "action": "Draw the charging handle and bolt carrier back together, lift the carrier group out, then pull the charging handle back to the notch and drop it down out of its track. Order matters: the handle cannot come out until the carrier has cleared it, and the carrier will not come out unless the handle has pulled it far enough back. Neither part needs force.",
+   "prose": "That is the field strip finished on an AR-10. Everything after this is bolt work.",
+   "quote": "1. Pull back the charging handle (U-2) and bolt carrier assembly (U-3).",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Disassembly — Charging Handle and Bolt Carrier Assembly, step 1, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out of the carrier — retaining pin, firing pin, cam pin, bolt",
+   "action": "Push the bolt forward in the carrier to the unlocked position and pull the firing pin retaining pin out sideways. Do not squeeze or spread its split end — it is a spring pin that holds by tension and a pinched one will not hold again. Push the bolt back to locked, tip the carrier and let the firing pin drop out of the rear, then lift the cam pin, then withdraw the bolt.",
+   "prose": "The firing pin spring stays on the firing pin. There is no reason to take it off and a real reason not to.",
+   "quote": "4. Move the bolt assembly (BC-8) forward to the unlocked position and remove the firing pin retaining pin (BC-1). Do not open or close the split end of the firing pin retaining pin.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Disassembly — Charging Handle and Bolt Carrier Assembly, step 4, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "A tight cam pin gets a lever, never a file",
+   "action": "On a new or freshly refinished AR-10 the cam pin can sit tight under the bolt carrier key and refuse to lift by hand. ArmaLite's answer is to gently pry it past the key with a flat screwdriver tip or similar. What is never acceptable is taking material off the cam pin to make it clear — that pin is the part that rotates and locks the bolt, and a modified one is a headspace and lockup problem.",
+   "prose": "It loosens as the rifle breaks in. Tight now is not tight forever.",
+   "quote": "NOTE: Until parts are broken in, tight tolerances sometimes require use of a flat tipped screwdriver or other suitable object to gently pry the cam pin past the bolt carrier key. The cam pin must never be altered to provide clearance.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Disassembly — Charging Handle and Bolt Carrier Assembly, note at step 7, p.36"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lubricate generously — but never with graphite",
+   "action": "ArmaLite wants the AR-10 wet, especially the bolt and carrier, which are the most heavily stressed parts in the rifle. Use a quality firearms lubricant; CLP works, but the manual prefers a dedicated bore cleaner plus a proper lubricant. What it rules out absolutely is anything containing graphite: graphite in contact with the aircraft-grade aluminium receivers sets up galvanic corrosion, and that damage is not something a later clean undoes.",
+   "prose": "The receivers, not the steel, are what the graphite rule is protecting.",
+   "quote": "Under NO conditions should any lubricant containing graphite be used with your rifle. Graphite can encourage rapid corrosion to the aircraft-grade aluminum used in your rifle.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Maintenance — Cleaning Solvents and Lubricants, p.40"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore and chamber — one direction, and leave the gas tube's inside alone",
+   "action": "Run the bore brush and solvent through the chamber and out the muzzle, and never reverse the brush while it is inside the bore — turning it round in there is how bristles are torn off and how a bore gets scored. Use a chamber brush with a push-and-twist in the chamber and locking lugs. Clean the OUTSIDE of the protruding gas tube with a worn-out bore brush, and stop there: ArmaLite states the inside of the gas tube neither needs nor benefits from cleaning.",
+   "prose": "Gas tubes discolour from heat. That colour is not fouling and trying to polish it off just bends the tube.",
+   "caution": "CAUTION: DO NOT BEND THE GAS TUBE. IF THE TUBE IS BENT, IT WILL SLOW OR BLOCK FORWARD MOVEMENT OF THE BOLT CARRIER ASSEMBLY.",
+   "quote": "CAUTION: DO NOT TRY TO CLEAN THE INSIDE OF THE GAS TUBE. IT IS NOT NEEDED WITH GOOD QUALITY PROPELLANT, NOR IS IT EFFECTIVE WITH BAD PROPELLANT.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Maintenance — Upper Receiver and Barrel Assembly, p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt carrier group — key, lugs, ejector, and don't over-clean",
+   "action": "Swab the carrier inside and out, clean the bolt carrier key with a worn bore brush and dry it with a pipe cleaner, and scrub the carbon off the locking lugs and out from behind the bolt ring and under the extractor lip. Press the ejector in repeatedly until it moves freely — brass shavings collect in its hole and a sticky ejector is the first sign. Then leave the carbon ring in the groove at the bottom of the carrier's gas cylinder alone.",
+   "prose": "ArmaLite is explicit that this particular deposit never builds up enough to matter and that removing it does more harm than leaving it.",
+   "caution": "WARNING: DO NOT INTERCHANGE BOLTS BETWEEN RIFLES.",
+   "quote": "Note: Carbon in the groove at the bottom of the gas cylinder in the carrier cannot accumulate enough to become a problem. Efforts to remove it cause more damage than leaving it. Avoid the instinct to over-clean your rifle.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Maintenance — Charging Handle and Bolt Carrier Assembly, p.45"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper and lower separated, carrier group and charging handle out, bolt out of the carrier. ArmaLite states outright that nothing beyond that point has to come apart for service, so the strip ends here. Deep Clean covers the handguards, the buffer and operating spring, the extractor, and the two magazine patterns — plus the lower receiver cleaning that has its own abrasive prohibition.",
+   "prose": "Do not dry fire the AR-10 with the carrier group out of the upper while you work: the firing pin is what arrests the hammer, and without it the hammer lands on the aluminium lower.",
+   "quote": "NO FURTHER DISASSEMBLY OF THE FIREARM IS REQUIRED.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Disassembly — Disassembling the Magazine, p.39",
+   "warn": "CAUTION: NEVER DRY FIRE YOUR RIFLE WITHOUT THE BOLT CARRIER ASSEMBLY INSTALLED. THE FIRING PIN STOPS THE FALL OF THE HAMMER. WITHOUT THE BOLT CARRIER ASSEMBLY INSTALLED, THE HAMMER CAN IMPACT ON THE LOWER RECEIVER, DAMAGING IT.",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Two-piece handguards need a second pair of hands",
+   "action": "Stand the rifle on its buttstock, one hand on the stock and the other around the bottom of the handguard. Someone else pushes the slip ring down against its spring — it takes both of their hands — and you pull the handguard free of the handguard cap. Repeat for the other half. ArmaLite calls it the buddy system because the slip ring spring on an AR-10 is stiff enough that solo attempts usually end with a cracked handguard.",
+   "prose": "There is no reason to remove handguards for routine cleaning; do it when you need at the barrel or gas tube.",
+   "quote": "1. Stand the rifle on its buttstock with one hand gripping the buttstock (L-2) and the other gripping the lower end of the handguard (U-10). 2. While your buddy presses down on the slip ring (U-8), which is a two-hand job, pull the hand guard free.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Disassembly — Two Piece Hand Guards, p.33"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and operating spring out — hammer cocked first",
+   "action": "Cock the hammer with your thumb so it is out of the buffer's path, then push the buffer in against the spring and depress the buffer detent to release it. Let the buffer come out under control. The operating spring behind it is long and strongly compressed, and letting it drive the buffer out unrestrained is the injury ArmaLite's eye-protection warning is about.",
+   "prose": "Buffer and spring come out as a pair and go back the same way, spring first.",
+   "quote": "1. Cock the hammer with your thumb. Push in the buffer (L-5) and depress the buffer detent (L-8) to release the buffer.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Disassembly — Lower Receiver Assembly, p.37"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor comes out; its spring assembly does not",
+   "action": "Press the rear of the extractor first to check the spring still pushes back — that is a live test worth doing before you take it apart. Drive the extractor pin out with a punch or the nose of a dummy round, then lift the extractor and spring out together. Do not separate the spring assembly, its insert, or the O-ring from the extractor: on an AR-10 that stack sets extractor tension and reassembling it wrong costs you extraction.",
+   "prose": "The silicone insert inside the spring is easy to lose and is not optional.",
+   "quote": "11. Remove the extractor and spring assembly. Do not remove the spring assembly (B-4), its insert (B-3) or the O-ring (B-5) from the",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Disassembly — Charging Handle and Bolt Carrier Assembly, step 11, p.37"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazines — and the two patterns come apart differently",
+   "action": "An AR-10B steel magazine opens by prying the rear of the floorplate up slightly with a cartridge tip until it slides off; the spring lifts out easily but the follower has to be twisted and drawn out rear-first, and the spring stays attached to it. An AR-10A PMAG opens by pushing the tab in the centre of its floorplate instead. Getting these two the wrong way round is how floorplates get bent.",
+   "prose": "Do not exceed the marked capacity when you reload them — ArmaLite sells 5, 10, 15, 20 and 25 round magazines and forcing an extra round in damages the feed lips.",
+   "quote": "Similarly, AR-10A PMAGs can be disassembled by pushing in the tab in the center of the floorplate.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Disassembly — Disassembling the Magazine, p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lower receiver — swabs and brushes only, no abrasives",
+   "action": "Swab the trigger, the fire control area, the buffer, the operating spring and the inside of the lower with solvent, and use a pipe cleaner in the buttstock screw vent hole. Nothing abrasive touches this receiver — no wire brush, no scouring pad — because the anodising on the aluminium is the corrosion protection and once it is scratched through, it is gone. Then generously lubricate the takedown and pivot pins and the internals.",
+   "prose": "While you are in there, look for a bent trigger, a cracked grip, a deformed receiver or a bent safety. This is the only time you will see them.",
+   "quote": "CAUTION: DO NOT USE A WIRE BRUSH OR ANY TYPE OF ABRASIVE MATERIAL TO CLEAN ALUMINUM SURFACES",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Maintenance — Lower Receiver Assembly, p.45"
+  },
+  {
+   "phase": "Clean",
+   "title": "Rebuild the bolt: cam pin before the bolt goes deep",
+   "action": "Seat the extractor and its pin, then slide the bolt into the carrier only far enough to drop the cam pin in. This is the one place on an AR-10 where doing it in the wrong order costs a part: push the bolt fully home without the cam pin and the bolt ring can jam behind the carrier, and freeing it may take a brass rod through the front and destroy the ring. With the cam pin in, the bolt physically cannot go too deep.",
+   "prose": "The cam pin does not need rotating as it would on an M16 — it drops in and stays.",
+   "quote": "CAUTION: ONLY INSERT THE BOLT INTO THE CARRIER FAR ENOUGH TO INSERT THE CAM PIN. IF YOU INSERT THE BOLT TOO DEEPLY WITHOUT THE CAM PIN IN PLACE, THE BOLT RING MAY JAM IN THE BACK OF THE CARRIER.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Reassembly — Charging Handle and Bolt Carrier, p.47"
+  },
+  {
+   "phase": "Clean",
+   "title": "Firing pin in, retaining pin in, then shake it",
+   "action": "Drop the firing pin into its opening, press it forward about an eighth of an inch past where you feel spring resistance, hold it there and slide the firing pin retaining pin in behind the firing pin's large flange. Never pound or force that retaining pin. Then turn the whole carrier group muzzle-up and shake it: the firing pin must not fall out. If it does, the retaining pin is not through behind the flange and the group is not assembled.",
+   "prose": "The firing pin spring is a safety part on the AR-10 — it must not be loose, reversed, removed or lost.",
+   "quote": "8. Turn the bolt carrier assembly up and try to shake out the firing pin. The firing pin must not fall out.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Reassembly — Charging Handle and Bolt Carrier, step 8, p.49"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receivers back together — hammer cocked, port cover shut",
+   "action": "The hammer has to be cocked before the two halves will close; a forward hammer fouls the carrier and you will feel it resist. Close the ejection port cover first, or the upper's cover catches on the lower as they come together and gets bent. Then join the receivers, push the pivot pin home, close them and push the takedown pin in.",
+   "prose": "Slight overhang or play where the two receivers meet is normal forging variation and does not affect function or accuracy.",
+   "caution": "CAUTION: TO AVOID DAMAGE TO THE EJECTION PORT COVER, CLOSE THE EJECTION PORT COVER BEFORE THE RECEIVERS ARE JOINED.",
+   "quote": "Note: The hammer must be in cocked position to join the receivers.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Reassembly — Upper and Lower Receivers, p.50"
+  },
+  {
+   "phase": "Clean",
+   "title": "Cleaning interval and the break-in period",
+   "action": "ArmaLite's routine interval for the AR-10 is a clean after each range session, and it repeats the old rule of one brush stroke per shot fired for the barrel. A new rifle also has a 200-round break-in during which the machined and phosphated surfaces bed in — run it well lubricated through that period rather than dry.",
+   "prose": "ArmaLite builds these tighter than similar rifles, which is why the break-in exists at all.",
+   "quote": "A break-in period of 200 rounds allows machined or phosphate-coated surfaces to smooth out the rifle's action. Lubricate the rifle well before firing.",
+   "cite": "ARMALITE®, INC OWNER'S MANUAL FOR AR-10A® & AR-10B® RIFLES AND CARBINES — July 2013 Rev 31 — Initial Assembly, Inspection, and Cleaning — Initial Cleaning, p.22"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "UPPER RECEIVER & BARREL",
+   "tasks": [
+    "Bore brush and solvent through the chamber and out the muzzle — NEVER reverse the brush in the bore",
+    "Chamber brush pushed and twisted into the chamber and locking lugs",
+    "Worn bore brush on the OUTSIDE of the gas tube only",
+    "Do not clean inside the gas tube; do not try to remove heat discolouration; do not bend it",
+    "Light lubricant on bore, chamber, barrel exterior, front sight and under the handguards"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Swab all carrier surfaces; clean the bolt carrier key with a worn bore brush, dry with a pipe cleaner, one drop of lubricant inside",
+    "Carbon off the locking lugs; clean behind the bolt ring and under the extractor lip",
+    "Work the ejector repeatedly to clear brass shavings, then lubricate generously",
+    "Leave the carbon in the carrier gas-cylinder groove alone",
+    "Inspect bolt for cracks especially at the cam pin hole; never swap bolts between rifles"
+   ]
+  },
+  {
+   "name": "LOWER RECEIVER",
+   "tasks": [
+    "Swabs, brushes and pipe cleaners only — NO wire brush, NO abrasives on aluminium",
+    "Clean buffer, operating spring and the inside of the receiver",
+    "Lightly lubricate buffer and spring; generously lubricate takedown and pivot pins",
+    "Inspect for bent trigger, cracked grip, bent safety, deformed receiver"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "AR-10B steel: pry the rear of the floorplate slightly and slide it off; twist the follower out rear-first",
+    "AR-10A PMAG: push the tab in the centre of the floorplate",
+    "Keep them clean and dry; do not pound them into the rifle",
+    "Never load past the marked 5/10/15/20/25 round capacity"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Insert the operating spring and buffer into the lower, hammer cocked.",
+  "Seat the extractor with its spring assembly, insert and O-ring intact, and drive the extractor pin home.",
+  "Slide the bolt into the carrier ONLY as far as the cam pin, drop the cam pin in, then push the bolt home.",
+  "Drop the firing pin in, press it forward about 1/8 inch past spring resistance, and slide the firing pin retaining pin in behind the flange — never force it.",
+  "Turn the carrier group up and shake it: the firing pin must not fall out.",
+  "Feed the charging handle into its track, slide the carrier group in behind it, and push both home together.",
+  "Close the ejection port cover, join the receivers with the hammer cocked, push in the pivot pin, close them and push in the takedown pin.",
+  "Refit the handguards with a second person on the slip ring, then the sling."
+ ],
+ "fncheck": "ArmaLite's own functional check (§14.5, p.51), run on an empty AR-10 with an empty magazine fitted: the magazine must be caught solidly by the catch; pull the charging handle back and return it manually and the bolt must stay to the rear on the bolt stop; remove the magazine and press the bolt stop and the carrier must be driven forward by the operating spring. Then \"3. Place the safety (L-24) on \"SAFE\". Squeeze the trigger. The trigger should not fall.\" Put the safety to FIRE, squeeze and hold, and the hammer should fall; cycle the charging handle, release the trigger and you should hear the disconnector click, then squeeze again and the hammer should fall. ArmaLite says to call them if the rifle fails either test. Do NOT dry fire with the bolt carrier assembly out — the firing pin is what stops the hammer, and without it the hammer strikes the aluminium lower."
+}

@@ -1,0 +1,103 @@
+{
+ "row": "rugerprecisionrifle",
+ "make": "Ruger",
+ "model": "Precision Rifle",
+ "sourcedFrom": "Ruger Precision Rifle Instruction Manual — PM924 (RPR G4 12/2025 R2) (2025)",
+ "sourceSha256": "bdb44e8d338af745e13649c03af308200778ffdd509865bc2bd72cd6d568ec6c",
+ "cleanIntro": "Routine cleaning on the Precision Rifle is one part: the bolt. Getting it out means folding the stock first, because the folded stock is what clears the bolt's path out of the receiver. Check your serial number against the cover range before you use this procedure — Ruger bounds this manual by serial, not by model name.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check your serial number first",
+   "action": "Read the serial number off your rifle and check it against the range printed on this manual's cover. If your rifle falls outside it, stop — Ruger publishes a different book for earlier rifles, and separate ones again for Magnum calibers and Custom Shop rifles.",
+   "prose": "A catalog listing knows the model name and nothing about the serial, so this is a check only you can make, standing at the safe.",
+   "quote": "FOR USE WITH RIFLES BEARING SERIAL NUMBERS: 1806-00000 AND ABOVE AND CS14-00000 AND ABOVE",
+   "cite": "Ruger Precision Rifle Instruction Manual — PM924 (RPR G4 12/2025 R2) — Cover, serial number range, p.1",
+   "warn": "Note that this manual applies only to certain serial numbers, which are listed on the cover of this manual."
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety on, magazine out, chamber checked",
+   "action": "Muzzle in a safe direction, fingers outside the trigger guard. Move the safety selector to SAFE if the firing pin is cocked, remove the magazine, then raise the bolt handle and draw the bolt fully back to extract and eject anything in the chamber. Look into the chamber and confirm it is empty.",
+   "prose": "Ruger spells out why the order matters — the magazine coming out does not empty the chamber.",
+   "quote": "Remove the magazine. REMEMBER that even though the magazine has been removed, a cartridge remaining in the chamber can still be fired!",
+   "cite": "Ruger Precision Rifle Instruction Manual — PM924 (RPR G4 12/2025 R2) — Disassembly, step 3, p.41",
+   "warn": "Always unload a firearm before cleaning, lubricating, disassembling, or assembling it."
+  },
+  {
+   "phase": "Strip",
+   "title": "Fold the stock and lock it there",
+   "action": "Close the bolt and push the stock pivot lock button, fold the stock to the left, then rotate the tab end of the stock pivot latch clockwise a quarter turn to lock the stock in the folded position.",
+   "prose": "The folded stock is not for convenience here — it is what gets out of the bolt's way. Locking the latch stops it swinging back into the path.",
+   "quote": "To remove the bolt: Close the bolt and push the stock pivot lock button (see Figure 35).",
+   "cite": "Ruger Precision Rifle Instruction Manual — PM924 (RPR G4 12/2025 R2) — Disassembly, step 7, p.41"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out past the bolt stop",
+   "action": "Lift the bolt handle and retract the bolt while pressing on the rear of the bolt stop on the left side of the receiver. The bolt comes straight out.",
+   "prose": "Two hands, one at each end of the receiver. That is the whole routine strip — Ruger says so in the same breath.",
+   "quote": "This is as far as you need to disassemble the rifle for routine cleaning.",
+   "cite": "Ruger Precision Rifle Instruction Manual — PM924 (RPR G4 12/2025 R2) — Disassembly, step 7, p.41",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Bolt shroud off to reach the cocking cams",
+   "action": "Start with the lobe of the firing pin back resting in the notch on the cam. Grasp the outside of the bolt shroud and firing pin back together and rotate them clockwise, viewed from the rear of the bolt, about 30 degrees until the firing pin back lobe lines up with the centre of the bolt handle base. Then pull the bolt shroud rearward and off.",
+   "prose": "Clockwise only, and only as far as the instruction says. Overturn the firing pin back and it falls to the bottom of the cams and is a real job to recover.",
+   "caution": "If the firing pin back is turned too far, it will “fall down” to the bottom of the cocking cams and will take significant effort, and possibly the use of hand tools or a gripping aid, to return the firing pin back to the correct cam notches.",
+   "quote": "Do not rotate the firing pin back beyond the positions shown in the instructions.",
+   "cite": "Ruger Precision Rifle Instruction Manual — PM924 (RPR G4 12/2025 R2) — Disassembly of Bolt for Cleaning, note, p.42"
+  },
+  {
+   "phase": "Deep",
+   "title": "Grease the cocking cams — and stop there",
+   "action": "Lightly grease the cam surfaces and the firing pin shaft with a grease-type firearm lubricant, and lightly grease the lug surfaces of the bolt. Then reassemble; nothing beyond this point comes apart.",
+   "prose": "Grease, not oil, and only occasionally — Ruger says this is not something normal use should require.",
+   "quote": "Note that further disassembly of the bolt is not required for lubrication. Some parts are under spring tension and may dislodge abruptly if removal is attempted.",
+   "cite": "Ruger Precision Rifle Instruction Manual — PM924 (RPR G4 12/2025 R2) — Disassembly of Bolt for Cleaning, step d, p.43"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Clean from the breech with a rod guide — with the bolt out the bore is straight through",
+    "Solvent-wet patch, then a correctly sized brush, then dry patches until clean",
+    "Protect the crown; a precision rifle earns nothing back from a damaged one"
+   ]
+  },
+  {
+   "name": "BOLT",
+   "tasks": [
+    "Wipe the bolt body, the lugs and the bolt face",
+    "Grease the lug surfaces lightly",
+    "Lubricate the cocking cams only occasionally, and with grease rather than oil"
+   ]
+  },
+  {
+   "name": "RECEIVER & CHASSIS",
+   "tasks": [
+    "Wipe the raceways and the bolt stop",
+    "Check the action screws and the handguard fasteners are still tight"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Check follower travel and feed lips",
+    "Magazines go back dry"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Refit the bolt shroud to the bolt body and rotate the firing pin back into its cam notches — clockwise only, and never past the position shown.",
+  "Slide the bolt back into the receiver past the bolt stop and close it.",
+  "Rotate the stock pivot latch back, unfold the stock and confirm it locks.",
+  "Cycle the bolt several times and check the safety before loading."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, check the safety selector blocks the trigger, the bolt closes and locks, and the stock is unfolded and latched — pointed in a safe direction throughout."
+}

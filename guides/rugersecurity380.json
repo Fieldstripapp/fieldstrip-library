@@ -1,0 +1,100 @@
+{
+ "row": "rugersecurity380",
+ "make": "Ruger",
+ "model": "Security-380",
+ "sourcedFrom": "Ruger Security-380 Lite Rack Instruction Manual — PM1186 (2025)",
+ "sourceSha256": "8482408ff93f54ee41d8e49ca42cc461a87ded062d46b927f58f8676a9d829bf",
+ "cleanIntro": "Ruger’s field strip for the Security-380. It reads like the Security-9’s, with one number that is not the same — read step 5.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out first",
+   "action": "Keep the pistol pointed in a safe direction, press the magazine latch and withdraw the magazine from the frame.",
+   "prose": "Feeding source, then chamber. Always that order.",
+   "quote": "Keep the pistol pointed in a safe direction. Press the magazine latch and withdraw the magazine from the frame",
+   "cite": "Ruger Security-380 Lite Rack Instruction Manual — PM1186 — Disassembly, step 1, p.21",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide back",
+   "action": "Pull the slide to the rear and lock it open by pushing upward on the slide stop.",
+   "prose": "The Lite Rack slide is deliberately easy to run — it still locks back the same way.",
+   "quote": "and lock it in the open",
+   "cite": "Ruger Security-380 Lite Rack Instruction Manual — PM1186 — Disassembly, step 2, p.21"
+  },
+  {
+   "phase": "Clear",
+   "title": "Verify the chamber",
+   "action": "Inspect the chamber and verify that it is empty.",
+   "prose": "By sight, then by feel.",
+   "quote": "Inspect the chamber and verify that it is empty",
+   "cite": "Ruger Security-380 Lite Rack Instruction Manual — PM1186 — Disassembly, step 3, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Let the slide run forward",
+   "action": "Retract the slide slightly and release it.",
+   "prose": "That short pull drops the slide stop out of the way.",
+   "quote": "This will disengage the slide stop and allow the slide to move fully forward.",
+   "cite": "Ruger Security-380 Lite Rack Instruction Manual — PM1186 — Disassembly, step 4, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Retract 3/16 inch — not 1/16",
+   "action": "Retract the slide approximately 3/16 inch until the takedown pin aligns with the cutout in the slide, then pry the pin loose with a non-marring armorer’s tool or other flat, blunt tool.",
+   "prose": "This is the number that differs from the Security-9. Line the pin up with the cutout and it lifts; guess the distance and it will not.",
+   "caution": "Be careful not to scratch the slide.",
+   "quote": "Retract the slide approximately 3/16\" until the takedown pin aligns with the cutout in the slide.",
+   "cite": "Ruger Security-380 Lite Rack Instruction Manual — PM1186 — Disassembly, step 5, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin out",
+   "action": "Remove the takedown pin completely.",
+   "prose": "All the way out.",
+   "quote": "Remove the takedown pin",
+   "cite": "Ruger Security-380 Lite Rack Instruction Manual — PM1186 — Disassembly, step 6, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly off",
+   "action": "Move the slide assembly forward and separate it from the grip frame.",
+   "prose": "Straight off the rails.",
+   "quote": "Move the slide assembly forward and separate it from the grip frame",
+   "cite": "Ruger Security-380 Lite Rack Instruction Manual — PM1186 — Disassembly, step 7, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring assembly out",
+   "action": "Compress the recoil spring assembly slightly to disengage it from its seat against the barrel lug, then remove it completely.",
+   "prose": "Under tension against the lug — control it.",
+   "caution": "Spring under tension. Keep it pointed away from your face.",
+   "quote": "Compress the recoil spring assembly slightly to disengage it from its seat against the barrel lug, and remove it completely",
+   "cite": "Ruger Security-380 Lite Rack Instruction Manual — PM1186 — Disassembly, step 8, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out",
+   "action": "Move the barrel forward slightly, then down and back, to extract it from the slide.",
+   "prose": "Forward, down, back.",
+   "quote": "It will be necessary to move the barrel forward slightly and then down and back to extract it from the slide",
+   "cite": "Ruger Security-380 Lite Rack Instruction Manual — PM1186 — Disassembly, step 9, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel, recoil spring assembly, magazine.",
+   "prose": "The manual stops here and so does this guide.",
+   "quote": "The pistol is now disassembled for cleaning",
+   "cite": "Ruger Security-380 Lite Rack Instruction Manual — PM1186 — Disassembly, step 10, p.24"
+  }
+ ],
+ "deepAbsentReason": "PM1186 ends its disassembly at step 10, \"The pistol is now disassembled for cleaning\" (p.24). Nothing past the field strip is documented, so this listing has NO deep clean.",
+ "reassembly": [
+  "Be certain the chamber and magazine are empty.",
+  "Replace the barrel in the slide, then seat the recoil spring assembly against the barrel lug.",
+  "Run the slide assembly onto the grip frame and reinstall the takedown pin."
+ ],
+ "fncheck": "Function-check per the manual, pointed in a safe direction with the pistol and magazine confirmed empty."
+}

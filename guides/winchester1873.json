@@ -1,0 +1,206 @@
+{
+ "row": "winchester1873",
+ "make": "Winchester",
+ "model": "1873",
+ "sourcedFrom": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "a105d6f3c6fd88fc2bde961801a755f34e43c09c0ab220f533e133b11b66e9ba",
+ "cleanIntro": "Read this before you start, because it decides whether there is a strip at all. Winchester publishes NO disassembly of the Model 1873 — no side plates off, no bolt out, no toggle links exposed. The published routine is done entirely through the open action: unload by cycling the lever, clean the bore from the muzzle with the crown protected, wipe the receiver and bolt through the openings, and oil three named points. After heavy use, the maker's own instruction is that the action strip belongs to a gunsmith. What this rifle asks of you instead is hammer discipline. The 1873 has no manual safety of any kind — the exposed hammer's half-cock notch is the carry position, moving the hammer down from full-cock requires a deliberate trigger press with your thumb cushioning the fall, and the manual bans hammer extensions outright. Those procedures are the heart of this guide, exactly as the maker prints them.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "This book covers the Model 1873 only — and special editions add a supplement",
+   "action": "Confirm your rifle is a current-production Winchester Model 1873 before applying any of this, and check whether it is a special edition: those ship with supplemental instructions that must be read alongside this manual, not instead of it. If your supplement is missing, Winchester replaces it free. The serial number is stamped on the bottom of the receiver, toward the front.",
+   "prose": "A missing supplement is replaceable paper. The procedures below are the base manual's and apply to every 1873; the supplement is where a special edition's differences live.",
+   "caution": "Special edition? Its supplement is required reading alongside this manual.",
+   "quote": "This owner’s manual is for Winchester® Model 1873 lever-action rifles only. Supplemental instructions for special edition Model 1873 rifles must be used in conjunction with the instructions found in this owner’s manual.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Front matter"
+  },
+  {
+   "phase": "Clear",
+   "title": "There is no safety on this rifle — the hammer is the whole system",
+   "action": "Understand what you are holding: the Model 1873 has no manual safety to switch on before you work. The exposed hammer is your status indicator and your only control — full-cock (fully rearward) means any pull on the trigger fires the rifle; half-cock is the carry and storage position; dropped is where the hammer lands after firing and is never a position to carry in. Every clearing and cleaning step below is built around where that hammer sits.",
+   "prose": "On a gun with no safety lever, the discipline moves into your hands: muzzle direction and hammer position are the two things doing all the safety work.",
+   "quote": "Like many classic lever-action rifles with an exposed hammer, the Model 1873 does not have a separate manual “safety.”",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Operation of the Hammer",
+   "warn": "No manual safety exists. Hammer position and muzzle direction are the controls."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lowering the hammer: thumb in the V, then a brief, deliberate trigger press",
+   "action": "To bring the hammer from full-cock down to half-cock, use exactly the maker's procedure: place the point of your thumb in the V-shaped space between the hammer and the firing pin so it cushions any slip, squeeze the trigger just enough to release the hammer, then immediately take your finger OFF the trigger and ease the hammer slowly down with your thumb until it seats in the half-cock notch. With a scope mounted, the thumb goes into the V from the side.",
+   "prose": "The reason the finger comes off the trigger matters: with the trigger still depressed, the half-cock notch cannot catch a slipping hammer. The thumb in the V is your cushion; releasing the trigger re-arms the notch that would save you.",
+   "quote": "WARNING: WHEN THE TRIGGER IS DEPRESSED, THE HALF-COCK NOTCH WILL NOT CATCH THE HAMMER IF IT SHOULD ACCIDENTALLY SLIP DURING THIS OPERATION.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Operation of the Hammer — LOWERING THE HAMMER",
+   "warn": "Finger off the trigger the instant the hammer releases — the notch cannot catch while the trigger is held."
+  },
+  {
+   "phase": "Clear",
+   "title": "Never fit a hammer extension to this rifle",
+   "action": "Do not install a hammer extension or hammer spur on a Model 1873, whatever a scope's clearance seems to suggest. Winchester bans the accessory outright for this rifle — it can cause a malfunction and create a hazardous condition. The manual's scope answer is different: the thumb enters the V between hammer and firing pin from the side.",
+   "prose": "The extension changes the geometry of exactly the thumb-controlled hammer work this rifle depends on. That is why the ban is unconditional.",
+   "quote": "NEVER USE A HAMMER EXTENSION (HAMMER SPUR) ON YOUR MODEL 1873. USING A HAMMER EXTENSION CAN RESULT IN A MALFUNCTION AND POSSIBLY CREATE A HAZARDOUS CONDITION.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Operation of the Hammer — LOWERING THE HAMMER",
+   "warn": "No hammer extensions, ever."
+  },
+  {
+   "phase": "Clear",
+   "title": "Unload by cycling — every cartridge in the tube passes through the chamber",
+   "action": "There is no gate or plug to dump the 1873's tubular magazine: unloading means working every round through the action. Swing the finger lever fully down to extract and eject whatever is chambered, capture the cartridge, close the lever, and repeat until nothing more ejects. Then prove it: open the action and look at the chamber, the feed mechanism and the magazine follower before you believe the rifle is empty. Finish by lowering the hammer to half-cock with the thumb-and-V procedure.",
+   "prose": "Cycling live rounds demands unbroken muzzle discipline — every cartridge spends a moment chambered on its way out, and the hammer is cocked by every stroke of the lever.",
+   "quote": "When cartridges no longer eject when you cycle the action, further assure that no cartridges remain by opening the action and visually checking the chamber, feed mechanism and magazine follower to be certain that the rifle is completely unloaded (Figure 16).",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Unloading, step 3",
+   "warn": "The lever cocks the hammer on every stroke. Keep fingers off the trigger and the muzzle safe throughout."
+  },
+  {
+   "phase": "Clear",
+   "title": "Flat-nose bullets only — the tube stacks primers against bullet tips",
+   "action": "Feed this rifle only flat nose, hollow point, round nose flat point or similar bullets, never pointed or conical ones. In a tubular magazine the cartridges stand nose-to-primer under spring pressure, so a pointed bullet rests exactly where recoil can turn it into a firing pin against the round ahead of it. The caliber inscribed on the barrel just in front of the receiver is the only ammunition this rifle takes, and modern factory cartridges only.",
+   "prose": "This is the one ammunition rule unique to tube-fed rifles, and it is absolute: the shape of the bullet is a safety property, not a ballistic preference.",
+   "quote": "USE ONLY FLAT NOSE, HOLLOW POINT, ROUND NOSE FLAT POINT OR SIMILAR BULLETS. NEVER USE POINTED OR CONICAL POINT BULLETS IN A CENTERFIRE RIFLE WITH A TUBULAR MAGAZINE.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Ammunition",
+   "warn": "Pointed bullets in a tubular magazine can detonate the round ahead under recoil."
+  },
+  {
+   "phase": "Clear",
+   "title": "Trigger stop and lever lock — two interlocks worth understanding before you clean",
+   "action": "Know the two small mechanisms on the lower tang before working the action on the bench. The trigger stop is an interlock, not a safety: the rifle cannot fire until the finger lever is held up, depressing the stop — which also means a glove bunched between lever and tang can block firing until you squeeze the lever upward. The lever lock is the turn-latch that secures the lever closed for carry; turn it 90 degrees either way to free the lever before cycling.",
+   "prose": "Winchester adds a subtle warning about the pair: the lever lock holds the lever tight enough to depress the trigger stop, so a locked lever removes that interlock — one more reason the chamber stays empty except when shooting is imminent.",
+   "caution": "The lever lock must be turned 90° open before the action will cycle.",
+   "quote": "The trigger stop is not a “safety.” It is an interlock to assure that the breech is fully closed before a cartridge can be fired. Never rely on the trigger stop to prevent accidental discharge.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Trigger Stop"
+  },
+  {
+   "phase": "Strip",
+   "title": "Open the action fully — on the 1873 this IS the strip",
+   "action": "With the rifle proven empty and the hammer at half-cock, unlock the lever lock and swing the finger lever completely down. The bolt draws rearward, the dust cover slides open, and every access the published cleaning uses is now available: the chamber mouth, the bolt face, the carrier, and the receiver interior through the top and side openings. Nothing comes off and nothing comes out — Winchester publishes no further disassembly of this rifle.",
+   "prose": "The toggle-link action that made the 1873 famous lives sealed behind its side plates, and the maker keeps it that way: the manual's cleaning procedure starts and ends with the action open.",
+   "quote": "1. Open the action by completely lowering the lever.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the muzzle — a guard on the rod, and mind the crown",
+   "action": "Clean the bore from the muzzle end — on the 1873 the closed-breech geometry gives you no other way in. Use a rod with slotted tip or jag and a caliber-correct patch that fits snug, and run it back and forth the full length. Everything depends on keeping the rod and its handle off the muzzle crown: that edge is the last thing the bullet touches, and Winchester suggests a muzzle guard, purchased separately, to protect it while you work.",
+   "prose": "Muzzle-end cleaning is the one place this rifle demands more care than a modern bolt gun, and the guard is cheap compared to a re-crowned barrel.",
+   "quote": "Care should be exercised to ensure that neither the cleaning rod nor the handle strikes the crown of the muzzle, as damage to this area can adversely affect the accuracy of the rifle.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 2",
+   "warn": "Use a muzzle guard if you have one — the crown decides your accuracy."
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver and bolt — wipe the dried oil out, then a fresh light film",
+   "action": "Through the open action, wipe the interior of the receiver and the bolt with a clean rag, paying attention to dried, gummed oil — on this design it collects on the carrier and the magazine follower and stiffens the feeding. Remove it all, then re-apply only a very light film of oil on the affected parts. The three factory oiling points then get their drops: along the striker assembly's surface, along the sides of the hammer, and on the finger lever pivot.",
+   "prose": "The polished, hand-fitted surfaces of this action are what you are feeling when the lever runs like glass. A thin film keeps them that way; a pour turns to glue and dust flypaper.",
+   "quote": "The interior of the receiver and the bolt should periodically be wiped with a clean rag. Any dried oil in these areas or on the magazine follower should be removed. Follow this cleaning by applying a very light film of oil on the affected parts.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Never pour oil into this receiver — the stock is directly beneath it",
+   "action": "Apply oil to the 1873 by the drop and never by the pour. The receiver sits directly over the wrist of the stock, and oil poured into the action drains straight down into the wood, softening it — on a rifle whose buttstock bears against the lower tang, softened wood means a loosening stock, and that damage is permanent. Wipe off anything more than a film.",
+   "prose": "Vintage-pattern rifles ruined by oil-soaked wrists outnumber the ones ruined by rust. The damage takes years and shows up as cracks at the tang.",
+   "quote": "NOTICE: DO NOT POUR LARGE QUANTITIES OF OIL INTO THE RECEIVER OR OTHER PARTS. IT CAN DRAIN DOWN TO THE WOOD AND SOFTEN IT, CAUSING PERMANENT DAMAGE AND LOOSENING OF THE STOCK.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 7 NOTICE",
+   "warn": "Drops, not pours — the stock wood is directly under the action."
+  },
+  {
+   "phase": "Clean",
+   "title": "Past the open action, the 1873 belongs to a gunsmith",
+   "action": "Everything deeper than the open-action routine — the side plates, the toggle links, the carrier mechanism, the tube — is off limits by the maker's own line: never take the firearm apart further than this manual explains, and after extended heavy use, the action goes to a qualified gunsmith for professional disassembly, cleaning and lubrication. That is not a gap in this guide; it is the published boundary.",
+   "prose": "The 1873's action is hand-fitted in a way modern rifles are not, which is exactly why the maker routes its disassembly to a professional.",
+   "quote": "After extended periods of heavy use, your gun should be taken to a qualified gunsmith to have the action disassembled for professional cleaning and lubrication.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Cleaning and Maintenance Suggestions — ADDITIONAL SUGGESTIONS",
+   "warn": "No side plates, no action disassembly — heavy-use internal cleaning is gunsmith work."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Nothing is detached, and that is correct: the Model 1873 field strip is the rifle itself with the action open, the bore cleaned from the muzzle, the receiver wiped through its openings, and the hammer resting at half-cock when you close up. Slide the dust cover forward once the rifle is clean — closed is its storage position, and it opens itself on the first lever stroke. Deep Clean covers the solvent-and-brush bore regimen, the oiling points, and the wood care.",
+   "prose": "A rifle design from 1873 with no user disassembly is not a limitation — it is why so many originals still run. The routine is short; do it often instead of deep.",
+   "quote": "Slide the dust cover forward, which is the closed position, when the rifle is not in use. The dust cover does not need to be manually slid to the rearward, open position prior to shooting the rifle, it will open when the lever is cycled.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Dust Cover",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Brass brush for heavy fouling — push it right through before pulling back",
+   "action": "When patches alone stop lifting the fouling, dip or spray a brass bore brush with solvent and scrub the chamber and bore from the muzzle until the fouling releases. Push the brush completely through the bore before withdrawing it — reversing mid-bore folds the bristles against their set and breaks them off. The rifle feeds and fires noticeably smoother with a genuinely clean bore and chamber, which is the maker's own observation.",
+   "prose": "On a rifle that headspaces short pistol-length cartridges, a dirty chamber shows up as sticky extraction long before accuracy suffers.",
+   "quote": "If, or when, fouling should become heavy, it can be removed with a brass bore brush. Dip or spray the brush with solvent and scrub the chamber and bore until the fouling is removed. To prevent brass bristles from breaking off, the brush should be pushed completely through the bore before being withdrawn.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 3"
+  },
+  {
+   "phase": "Clean",
+   "title": "Copper or lead solvent, matched to what you shoot",
+   "action": "For accuracy work, follow the powder solvent with a dedicated copper or lead solvent used per its own maker's instructions — the choice tracks your ammunition, since 1873s in .357 and .45 Colt digest both jacketed and cast lead. Lead wash and copper plating are different deposits and neither yields to nitro solvent; each needs its own chemistry.",
+   "prose": "Cast-bullet shooters: lead builds fastest just ahead of the chamber, exactly where a muzzle-entry rod reaches last. Give that section its own patience.",
+   "quote": "To maintain the utmost accuracy of your rifle, clean the bore with a copper or lead solvent. Swab the bore of your rifle with solvent using the product manufacturer’s recommended procedure.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry the bore, one oiled patch, then prove nothing stayed inside",
+   "action": "Wipe the bore dry after the solvents, then pass one lightly oiled patch of fine, light gun oil through for preservation. Then the check that catches the classic error: inspect the barrel and the action thoroughly to be certain no cleaning patch has been left in them. On a muzzle-cleaned rifle a lost patch tends to sit at the breech end, out of casual sight.",
+   "prose": "Open the action and look from the breech with light at the muzzle. Five seconds, and the one bore obstruction you can create yourself is ruled out.",
+   "quote": "After fouling has been removed, wipe the bore dry. Then pass a lightly oiled patch through the barrel for preservation. A fine, light gun oil is recommended. The barrel and action should be inspected thoroughly to be certain no cleaning patches have been inadvertently left in them.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 5"
+  },
+  {
+   "phase": "Clean",
+   "title": "Exterior metal — every fingerprint wiped away, then a film of oil",
+   "action": "Wipe the receiver, forearm metal and barrel with a clean rag to lift the dried oil and every finger mark — prints hold moisture against blued steel and etch it. Then give all exposed metal a light film of oil, renewed any time the rifle is handled or out in weather. The finely fitted surfaces of the receiver and action mechanisms must always carry that thin film.",
+   "prose": "A case-hardened or blued 1873 shows neglect faster than any modern finish. The wipe-and-film habit after every handling is what keeps it honest.",
+   "quote": "Remember, the polished, finely fitted surfaces of the receiver and action mechanisms must always have a thin film of oil.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 7"
+  },
+  {
+   "phase": "Clean",
+   "title": "The wood: fine oil or furniture polish — one, not both",
+   "action": "Treat the stock and forearm with either a light wipe of fine gun oil or a quality wood/furniture polish — pick one method and stay with it, never layering both. Keep bore solvents off the wood entirely, and remember the standing rule about the receiver: nothing pours, because the wrist of the stock is directly below.",
+   "prose": "Oil and wax fight each other on wood — wax over oil clouds, oil over wax lifts. One system, consistently, is the whole trick.",
+   "quote": "The wood surfaces of your rifle can also be wiped lightly with fine oil, or you can apply a quality wood or furniture polish to the stock and forearm. Using one of these methods (not both), will enhance the beauty and durability of your rifle.",
+   "cite": "Model 1873 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-030 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 10"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Action open, rifle proven empty — the 1873 cleans from the MUZZLE",
+    "Snug caliber-correct patch on a rod; keep rod and handle off the crown (muzzle guard recommended)",
+    "Solvent-saturated patch for powder fouling; brass brush pushed fully through when heavy",
+    "Copper or lead solvent per your ammunition",
+    "Wipe dry, one lightly oiled patch, then confirm no patch remains"
+   ]
+  },
+  {
+   "name": "RECEIVER & ACTION (through the openings)",
+   "tasks": [
+    "Wipe receiver interior and bolt with a clean rag — remove all dried oil",
+    "Clean the magazine follower face of gummed oil",
+    "Very light film of oil on the wiped parts",
+    "Oil drops at the three factory points: striker assembly surface, hammer sides, finger lever pivot",
+    "Never pour — the stock wrist is directly below the action"
+   ]
+  },
+  {
+   "name": "EXTERIOR & WOOD",
+   "tasks": [
+    "Wipe all exposed metal free of fingerprints, then a light oil film",
+    "Re-oil after every day of handling or weather",
+    "Wood: fine oil OR furniture polish — never both",
+    "Slide the dust cover closed for storage"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Nothing was detached — closing up is the reassembly. Return the finger lever fully upward until the action closes and the trigger stop is felt to seat.",
+  "Lower the hammer to half-cock using the published procedure: thumb in the V between hammer and firing pin, brief trigger press, finger off the trigger, ease the hammer down to the half-cock notch.",
+  "Slide the dust cover forward to its closed position.",
+  "If the lever lock is wanted for transport, turn it 90° to secure the lever — remembering the chamber must be empty whenever the lock is engaged.",
+  "Wipe every external surface to lift the fingerprints you just left."
+ ],
+ "fncheck": "With the rifle proven completely unloaded — chamber, feed mechanism and magazine follower checked by eye — cycle the finger lever several times and confirm the action runs smoothly, the dust cover self-opens on the first stroke, and the lever seats fully closed. Confirm the trigger stop interlock: with the lever hanging slightly open the trigger must not release the hammer, and with the lever held up it must. Bring the hammer to full-cock with your thumb, then lower it to half-cock by the published thumb-and-V procedure and confirm the half-cock notch holds firmly. Check the lever lock turns 90° to secure the lever and back to free it. Look through the bore from the open breech against light and confirm it is clear with no patch left behind. Leave the hammer at half-cock, the chamber empty, and the dust cover closed."
+}

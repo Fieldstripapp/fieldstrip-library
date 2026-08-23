@@ -1,0 +1,269 @@
+{
+ "row": "savagerascalyouth",
+ "make": "Savage",
+ "model": "Rascal (youth)",
+ "sourcedFrom": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" (UNKNOWN — no copyright line is printed anywhere in the document; the only date is the 3/19 code in the part number line)",
+ "sourceSha256": "331b532c3d5c08cb76d39d28b971fdc35d9385ab9cb6ced85b2ef65087c66b68",
+ "cleanIntro": "Two things about this book decide what applies to a Rascal. First, it covers five rifles and splits itself down the middle: SECTION 2 through SECTION 6 are the MARK I, RASCAL, MARK II and MODEL 93, and SECTION 7 through SECTION 11 belong to the B.Mag alone. The Rascal is in the first group and nothing from the B.Mag half reaches it. Second, within that first group the manual prints procedures for both single-shot and detachable-magazine rifles side by side, and its own model table in SECTION 12 lists the Rascal as a single shot — so the SINGLE SHOT loading and unloading are the branch that applies here and the detachable-magazine steps are somebody else's rifle. Savage also singles the Rascal out by name for the one place its hardware differs from the rest of the group: it has a one-piece bolt with nothing to align. What the manual publishes as owner disassembly is the bolt out and the stock off with two screws — and it prints no bolt REMOVAL procedure at all, which is stated below rather than filled in.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Half this book is not your rifle",
+   "action": "Check which half of the manual a numbered step came from before you follow it. Savage states its own split on the opening page: sections 2 through 6 describe the MARK I, RASCAL, MARK II and MODEL 93, and sections 7 through 11 are dedicated to the B.Mag. The Rascal is in the first group. The two halves are not variations on one procedure — the bolt verification mark sits in a different place and the AccuTrigger has a different prerequisite — so a step borrowed from the B.Mag sections will read plausibly and be wrong.",
+   "prose": "Everything outside those two ranges — ammunition, scope bases, maintenance, warranty — is common to all five rifles.",
+   "caution": "Sections 2–6 are your rifle. Sections 7–11 are the B.Mag and do not apply.",
+   "quote": "For your convenience, SECTION 2 through SECTION 6 describe the following models: MARK I, RASCAL, MARK II, and MODEL 93. SECTION 7 through SECTION 11 is dedicated to the B.Mag. All of the other sections are common for both.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Introduction, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Two positions only — rearward covers the red dot",
+   "action": "Find the safety and move it fully rearward before anything else happens. On this group it has two positions and nothing between them: fully rearward covers the red dot and blocks the trigger, fully forward exposes the dot and the rifle will fire. There is no middle detent, so a safety that feels like it has stopped halfway has simply not been pushed far enough. Confirm by looking — the red dot should be hidden, not partly hidden. On a rifle meant to be handed to a young shooter this is the first thing worth teaching and the first thing worth checking yourself.",
+   "quote": "The safety is in the FULL SAFE position when it has been moved fully rearward, covering the red “dot” (See FIGURE 1).",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 2, Two Position Safety, p.5",
+   "warn": "Red dot visible means the rifle is off safe."
+  },
+  {
+   "phase": "Clear",
+   "title": "Hand over the ejection port, and lift the bolt slowly",
+   "action": "Place one hand over the ejection port, keep your finger completely away from the trigger and outside the guard, then lift the bolt handle and draw it slowly rearward to bring out whatever is in the chamber. Slowly matters here: the extractor and spring ejector will flick a live .22 several feet if the bolt is snatched back, and on a single-shot rifle that round is the only one there was, so losing sight of it is the whole problem. The hand over the port catches it into your palm instead. Do this even when you are certain the rifle was never loaded.",
+   "prose": "This is the SINGLE SHOT branch of the unloading section. Savage's Section 12 table lists the Rascal as a single shot, which is why the detachable-magazine branch beside it does not apply.",
+   "quote": "Placing one hand over the ejection port, your finger completely away from the trigger and out of the trigger guard, slowly lift the bolt handle and pull fully rearward to extract the cartridge (if there is one) from the chamber.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 4, Unloading – Single Shot, p.10"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look, then feel — the manual says do not assume",
+   "action": "With the bolt back, look into the chamber and then check it with a finger. Savage prints this in capitals and the reason a rimfire makes it concrete: a .22 case is small, dull and sits low in a dark receiver, so a glance across the top of the action can miss one entirely. Feel is what confirms what the eye reported. Only once both checks are done is the rifle a thing you can work on rather than a loaded firearm.",
+   "quote": "LOOK AND FEEL! BE SURE THE CHAMBER AND MAGAZINE ARE COMPLETELY EMPTY DO NOT ASSUME!",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 4, Unloading – Single Shot, p.10",
+   "warn": "By eye and by finger. Do not assume."
+  },
+  {
+   "phase": "Clear",
+   "title": "The loading platform is the second place a round can hide",
+   "action": "Check the loading platform as well as the chamber. On a single-shot Rascal the cartridge is laid on a feed ramp and loading platform rather than into a magazine, and that shelf sits below the line of sight through the ejection port — a round resting there is not in the chamber and is not gone either. Savage names both places in the same instruction. Run a finger along the platform with the bolt fully back, and only then treat the rifle as empty.",
+   "quote": "LOOK AND FEEL! BE SURE THE CHAMBER AND LOADING PLATFORM ARE COMPLETELY EMPTY -- DO NOT ASSUME!",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 4, Firing, p.10",
+   "warn": "Chamber AND loading platform. Both, every time."
+  },
+  {
+   "phase": "Strip",
+   "title": "Read the four digits on the bottom of the bolt",
+   "action": "With the bolt out, turn it over and find the four digits engraved on the bottom, then compare them with the last four digits of the serial number on the receiver. That engraving is what records that this bolt was fitted to this barrel, and Savage puts the check before installation rather than after. Do it while the bolt is in your hand and the receiver is in front of you. If the two do not match, that bolt does not belong in that rifle and must not be fitted.",
+   "prose": "Note the location: on the BOTTOM for the Mark I group. The B.Mag's digits are on the side — one of several reasons the halves of this book do not interchange.",
+   "quote": "BEFORE INSTALLING THE BOLT, VERIFY THAT THE 4 DIGITS ENGRAVED ON THE BOTTOM MATCH THE LAST 4 DIGITS OF THE SERIAL NUMBER ON THE RECEIVER.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 3, Installing the Bolt Assembly, p.5",
+   "warn": "Four digits on the bottom of the bolt = last four of the receiver serial number."
+  },
+  {
+   "phase": "Strip",
+   "title": "One bolt, one rifle — never swap them",
+   "action": "Never fit a bolt from another Savage into this receiver, even from another Rascal in the same chambering. Savage says the assemblies are specifically matched to a firearm and names the outcome — extensive damage to the rifle, serious injury to the shooter or bystanders. On a rimfire the clearance that matters is measured from the bolt face against the case rim, and a foreign bolt sets it wrong in one direction or the other. This is worth extra care on a Rascal because these rifles get shared around a family and the bolts look identical.",
+   "quote": "BOLT ASSEMBLIES ARE SPECIFICALLY MATCHED TO A FIREARM. USING ANY OTHER BOLT ASSEMBLY MAY CAUSE EXTENSIVE DAMAGE TO THE FIREARM AND/OR SERIOUS INJURY TO THE SHOOTER OR BYSTANDER.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 3, Installing the Bolt Assembly, p.5",
+   "warn": "Never interchange bolt assemblies between firearms."
+  },
+  {
+   "phase": "Strip",
+   "title": "The Rascal bolt is one piece — there is nothing to align",
+   "action": "This is the one place Savage singles the Rascal out by name inside the shared section. The other rifles in this group have a bolt whose handle must be aligned with the front of the bolt before it will go in; the Rascal's is a single piece and needs no such alignment. So if the bolt resists going home, do not go looking for a handle that has rotated out of position — there is not one. Check instead that the handle is lined up with the bolt arm slot in the receiver and that the trigger is being held back.",
+   "prose": "Knowing which of the two designs you have in your hand is the difference between a five-second refit and an afternoon.",
+   "quote": "The RASCAL is a one piece bolt and does not need to be aligned (see FIGURE 4 – BOTTOM VIEW).",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 3, Installing the Bolt Assembly, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Savage says remove the bolt, and never says how",
+   "action": "The maintenance section tells you to take the bolt out before inspecting, and again before cleaning and oiling, and the cleaning routine below assumes it is out. What this manual does not contain, anywhere in its forty pages, is a bolt REMOVAL procedure for the Mark I, Rascal, Mark II and Model 93 group — Section 3 is titled Installing the Bolt Assembly and gives installation only. Take the bolt out the way your rifle's release works and stop there; nothing below rests on any particular method of releasing it, and none has been invented here. The installation sequence tells you what mechanism the rifle uses without telling you the reverse of it.",
+   "prose": "This is a real hole in the book, not an omission in this guide. It is stated rather than filled in.",
+   "caution": "No bolt removal procedure is published for this model. Do not follow one from another Savage.",
+   "quote": "Remove the bolt, look down the barrel to be sure it is clear of any obstruction and that there are no signs of damage (nicks, scratches, etc.), rust, or pitting.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 14, Routine Maintenance, p.34"
+  },
+  {
+   "phase": "Strip",
+   "title": "The stock does not come off a rifle you have not proved empty",
+   "action": "Before any screw is turned, prove the rifle empty again: bolt open and pulled fully back, chamber checked by eye and finger, loading platform clear. Savage attaches this as a precondition to removing the stock rather than to shooting, because the stock procedure has you turn the rifle upside down with both hands on tools, and there is no sensible way to keep watch on a chamber while doing that. The clause about a detachable magazine in the same sentence is for the magazine-fed rifles in this group; on a Rascal there is no box to take out.",
+   "quote": "BE SURE THE BOLT IS OPEN AND THERE IS NO LIVE AMMUNITION IN EITHER THE CHAMBER OR DETACHABLE MAGAZINE BEFORE REMOVING THE STOCK AND ADJUSTING THE ACCUTRIGGER.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 5, AccuTrigger Adjustment, p.11",
+   "warn": "Bolt open and chamber proved clear before the stock comes off."
+  },
+  {
+   "phase": "Strip",
+   "title": "Two screws, 9/64-inch Allen",
+   "action": "Turn the rifle upside down with the muzzle pointed away from you and back out the two screws securing the stock. A 9/64-inch Allen wrench fits the standard stocks; the 5/32 in the same sentence is for a Thumbhole stock, which is not a Rascal fitting. Seat the key fully before you apply any force — a loose key rounds the socket, and a rounded action screw on a small rimfire turns a five-minute job into a gunsmith visit. Support the barrelled action with your free hand as the second screw comes out.",
+   "prose": "That is the whole of the published owner disassembly beyond taking the bolt out: barrelled action, stock, two screws.",
+   "caution": "9/64\" Allen. Seat the key fully before turning.",
+   "quote": "Using a 9/64” Allen wrench (5/32” for a ‘Thumbhole’ stock), loosen and remove the two screws securing the stock (see FIGURE 16).",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 5, Removing the Stock, p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Never clean a loaded rifle, and only one rifle on the bench",
+   "action": "Check the chamber and loading platform are empty once more before solvent appears, and keep this to one firearm at a time. Savage prints both instructions together at the head of the cleaning section, and the second one bites hardest on a rifle like this: these bolts are serial-matched, a Rascal bolt looks much like its stablemates, and two rimfires stripped side by side on the same bench is exactly how two bolts change places. If another rifle is waiting its turn, it waits with its own bolt in it.",
+   "quote": "NEVER ATTEMPT TO DISASSEMBLE, CLEAN, OR OIL A LOADED FIREARM!",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 14, Cleaning and Care of Your Firearm, p.35",
+   "warn": "One firearm at a time. Never clean or oil a loaded firearm."
+  },
+  {
+   "phase": "Clean",
+   "title": "Port facing down, rod in at the chamber",
+   "action": "Lay the rifle horizontally with the ejection port facing down before the rod comes near it. Port down lets loosened fouling and solvent fall out of the receiver rather than run back into the trigger inletting underneath the action. Then push the correct-calibre rod in from the chamber end and out the muzzle. With the bolt out there is never a reason to rod a Rascal from the muzzle — the crown on a short rimfire barrel is easy to damage and it is what your accuracy rests on.",
+   "caution": "Chamber end to muzzle. Ejection port facing down.",
+   "quote": "ALWAYS STARTING FROM THE CHAMBER END, PUSH THE CLEANING ROD THROUGH THE BORE AND OUT THE MUZZLE END.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 14, Cleaning and Care of Your Firearm, p.35"
+  },
+  {
+   "phase": "Clean",
+   "title": "A small amount of solvent, several passes, then patches",
+   "action": "Put a small amount of powder solvent on the brush and push the rod through the barrel several times, then swap the brush for a patch tip and push clean patches through from the chamber end until they come out clean. Finish with one oiled patch and one dry patch behind it to take the excess off. A .22 bore fouls with lead and bullet wax rather than copper, so it answers to repeated passes rather than to more solvent — flooding it just carries the residue back into the chamber and the action.",
+   "quote": "Using a small amount of powder solvent on the brush, push the cleaning rod through the barrel several times.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 14, Cleaning and Care of Your Firearm, p.35"
+  },
+  {
+   "phase": "Clean",
+   "title": "The bolt is cleaned whole and never taken apart",
+   "action": "Clean the bolt as one unit — wipe the body, work solvent around the head, extractor and ejector, dry it — and stop there. Savage bars the teardown in four words with no qualification, and publishes no reassembly order to go with it. The Rascal's bolt is a single piece with the firing pin, its spring and the cocking mechanism held under compression inside; those parts leave under their own power and do not go back by inspection. Inspect the outside while it is in your hand and leave the internals fitted.",
+   "quote": "DO NOT DISASSEMBLE THE BOLT ASSEMBLY.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 14, Protecting Metal Surfaces, p.35",
+   "warn": "Bolt exterior only. There is no published bolt teardown for this rifle."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "In front of you should be the barrelled action, the stock, the two action screws and the bolt. That is the whole of what Savage publishes as owner disassembly for a Rascal. Use the access while you have it: with the bolt out, inspect the bolt head, extractor and every other surface for damage or excessive wear, look down a clear barrel, and run your fingers along the outside of it feeling for bulges. Deep Clean covers the AccuTrigger adjustment that this stripped state exists to allow, the rear sight, the interior metal surfaces, and getting the action back into the stock without over-tightening anything.",
+   "quote": "While the bolt is out, inspect the bolt head, extractor, and all other surfaces for signs of damage or excessive wear.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 14, Routine Maintenance, p.34",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "On this rifle the AccuTrigger cannot be reached with the stock on",
+   "action": "If your Rascal carries an AccuTrigger and you intend to adjust it, the stock has to come off first — Savage states it as a requirement, and it is one of the points where this half of the book differs from the B.Mag half, where no stock removal is needed. Do the adjustment with the barrelled action out on the bench where you can see the trigger return spring protruding below the trigger from underneath. Reaching through the trigger guard with the stock on is how the spring tail gets bent.",
+   "prose": "The spring you are looking for is the one that may protrude below the bottom surface of the trigger.",
+   "caution": "Stock off before the AccuTrigger is touched.",
+   "quote": "ADJUSTING THE ACCUTRIGGER REQUIRES THE STOCK TO BE REMOVED.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 5, Adjusting the AccuTrigger, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Clockwise for a heavier pull — the click is the ceiling",
+   "action": "Insert the supplied AccuTrigger tool into the bottom of the trigger return spring so it engages the spring, and turn it clockwise to move toward the higher range of pull, about four and a half pounds at the top. The maximum announces itself — the spring clicks as it rotates, and that click is the end of the range rather than a step toward more. Stop there. The tool turns the spring itself, which is exactly why a screwdriver in its place slides off the tail and deforms it. On a youth rifle, going heavier is usually the wrong direction anyway.",
+   "quote": "To adjust towards the higher range of pull (approximately 4 1/2 pounds), insert the AccuTrigger supplied tool (A) into the bottom of the trigger return spring (B) and turn the tool clockwise. The maximum trigger pull is at the point where the spring “clicks” when rotated (see FIGURE 17).",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 5, Adjusting the AccuTrigger, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Counter-clockwise for a lighter pull — resistance is the floor",
+   "action": "Turning the tool counter-clockwise takes the pull down toward about two and a half pounds, which is where the rifle left the factory. The bottom of the range is defined mechanically rather than by a number: the large coil sets deep within the trigger, the small coil stands well below it, and you feel resistance. That is the minimum, and it is where a Rascal already sits when it arrives. Work in small increments and re-check the feel rather than running the tool to a stop.",
+   "quote": "To adjust for a lower pull (approximately 2 1/2 pounds), insert the AccuTrigger supplied tool (A) into the bottom of the trigger return spring (B) and turn the tool counter-clockwise.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 5, Adjusting the AccuTrigger, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Do not force the spring past either end",
+   "action": "Savage sets both limits and then says plainly that the spring is not to be forced beyond them. Past the click at the top you are twisting a spring with nowhere left to go; past first resistance at the bottom you are driving the large coil into the trigger and unhooking the tail. Neither failure shows itself with the stock back on — the trigger just stops returning properly — so the discipline has to happen while the action is on the bench. If you cannot feel a definite click or a definite resistance, stop and have it looked at rather than turning further.",
+   "quote": "The spring should not be forced beyond these limits.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 5, Adjusting the AccuTrigger, p.11",
+   "warn": "Never force the spring past the click or past first resistance."
+  },
+  {
+   "phase": "Strip",
+   "title": "The Rascal's rear sight has its own adjustment",
+   "action": "The Rascal gets a sight adjustment of its own in this manual, separate from the target-sight procedures given for the Mark I and the Mark II FVT. For elevation, loosen the rear sight locking screw so the aperture can be raised or lowered; for windage, loosen the rear sight aperture so it can move left and right. Do the adjustment with the rifle empty and the bolt out, and snug the screw back down afterwards — a sight that moves under recoil is worse than one that is a little off, because it is off differently every shot.",
+   "prose": "Note that the front sight blade is fixed on this rifle: elevation and windage both live at the rear.",
+   "quote": "Elevation – Loosen the REAR SIGHT LOCKING SCREW to enable the elevation to be raised or lowered (see FIGURE 9).",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 4, Sight Adjustment – Rascal, p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "The bolt comes out to reach the inside, not just the bore",
+   "action": "Savage gives exactly one reason for removing the bolt before cleaning and oiling, and it is access: with it in place you cannot reach the raceways, the underside of the action or the locking surfaces at all. Take mud, twigs and grass off with a soft cloth first so you are not grinding grit into the metal, then work on the interior. This is the only point in the whole procedure where those surfaces are reachable, so do the job properly rather than wiping what shows.",
+   "quote": "In order to be able to reach all surfaces, remove the bolt prior to cleaning and oiling.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 14, Protecting Metal Surfaces, p.35"
+  },
+  {
+   "phase": "Clean",
+   "title": "A thin coat, rubbed in where rust is starting",
+   "action": "Apply a thin coat of gun oil to all cleaned metal, rubbing where there are signs of rust so you lift them rather than seal them under the film. Where you can reach interior metal, clean and lightly oil that too. Keep it thin — Savage's own line is that a very thin film is sufficient protection and not to over-oil — and on this rifle the reason is directly underneath: the trigger group sits in an open inletting under the action, and oil that runs off the receiver pools there and turns to paste with powder residue.",
+   "prose": "That is the same inletting the AccuTrigger's adjustment spring lives in, which is why the maintenance list asks you to inspect it for debris while the stock is off.",
+   "caution": "A very thin film is sufficient. Do not over oil.",
+   "quote": "Apply a thin coat of gun oil on all cleaned metal surfaces. Rubbing may be necessary to remove any signs of rust.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 14, Protecting Metal Surfaces, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Both screws in, and only tight enough to secure the stock",
+   "action": "Put the action back into the stock and start both screws, then bring them to about eighteen inch pounds — enough to secure the stock and no more. The instruction is written for all four rifles in this group, so it also warns about indenting the magazine retaining plate; a single-shot Rascal has no such plate, and the part of the warning that applies to it is the stock itself. On a hardwood or polymer youth stock, over-tightening crushes the bedding under the screw heads and the action then sits differently every time it goes back.",
+   "caution": "About 18 inch pounds. Enough to secure the stock, no more.",
+   "quote": "Replace both screws, tightening only to secure the stock (approximately 18 inch pounds) but not enough to indent the stock or MAGAZINE RETAINING PLATE.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 5, Installing the Stock, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cycle it, then prove both safety positions",
+   "action": "With the stock back on, cycle the bolt several times and confirm it runs and locks without catching. Then, with the chamber empty, the bolt open and the muzzle pointed somewhere safe, check both safety positions: full rearward should block the trigger completely, and pulling the trigger in that position should produce no movement at all — not a little, none. Full forward should expose the red dot. A safety that gives slightly in the safe position sends the rifle to a gunsmith, not back to a young shooter.",
+   "quote": "With the chamber and detachable magazine (if so equipped) empty, the bolt open, and the muzzle pointed in a safe direction, verify that both positions of the safety function normally. With the SAFETY in the FULL SAFE position, the trigger should have no movement when pulled.",
+   "cite": "MARK I, RASCAL, MARK II, MODEL 93 AND B.MAG — Rev. 3 (3/19) — printed as \"110084 (3/19) Rev. 3\" — Section 5, Installing the Stock, p.12",
+   "warn": "No trigger movement at all in FULL SAFE."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Bolt out, rifle horizontal, ejection port facing DOWN",
+    "Correct-calibre rod from the CHAMBER end and out the muzzle — never from the muzzle",
+    "Small amount of powder solvent on the brush, several passes through the barrel",
+    "Patch tip on the rod; clean patches from the chamber end until they come out clean",
+    "One oiled patch, then one dry patch to take the excess back off",
+    "Check the bore afterwards for pieces of cleaning patch or any other obstruction"
+   ]
+  },
+  {
+   "name": "BOLT ASSEMBLY (exterior only)",
+   "tasks": [
+    "DO NOT DISASSEMBLE THE BOLT ASSEMBLY — Savage bars it outright",
+    "Wipe the body; work solvent around the bolt head, extractor and ejector, then dry",
+    "Inspect the bolt head, extractor and all other surfaces for damage or excessive wear",
+    "Verify the four digits engraved on the BOTTOM against the last four of the receiver serial number before refitting",
+    "Never fit a bolt from another firearm — they are specifically matched"
+   ]
+  },
+  {
+   "name": "ACTION, STOCK & FEED",
+   "tasks": [
+    "Soft cloth first for mud, twigs and grass; then a thin coat of oil on cleaned metal",
+    "Where accessible, clean and lightly oil interior metal surfaces with the bolt out",
+    "Clear the loading platform and feed ramp of wax, lead flakes and grit",
+    "With the stock removed, inspect the AccuTrigger and its adjustment spring for debris",
+    "Examine the stock and the studs that secure the carrying strap; check the action screws are tight once it is back on"
+   ]
+  },
+  {
+   "name": "BEFORE THE NEXT SESSION",
+   "tasks": [
+    "Check the TWO POSITION SAFETY before loading live ammunition, every time",
+    "Be sure the bolt handle does not hit the safety when the bolt is closed",
+    "Look down the barrel for obstructions, damage, rust or pitting with the bolt out",
+    "Run your fingers down the outside of the barrel feeling for bulges",
+    "A very thin film of oil is sufficient protection — do not over oil"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Confirm the chamber and loading platform are empty and the bore is clear of patch material.",
+  "Place the action into the stock and start both screws before tightening either.",
+  "Tighten to approximately 18 inch pounds — only enough to secure the stock, never enough to indent it.",
+  "Fitting the bolt: the Rascal's bolt is one piece and needs no alignment of the handle to the bolt body.",
+  "Hold the bolt so the firing pin is top centre and line the bolt handle up with the bolt arm slot in the receiver.",
+  "Verify the four digits on the bottom of the bolt match the last four of the receiver's serial number before it goes in.",
+  "With the safety in the OFF – READY TO FIRE position and no ammunition present, pull the trigger firmly while sliding the bolt into the rear of the receiver.",
+  "If the bolt will not enter, remove it and recheck the alignment rather than forcing it.",
+  "Cycle the bolt several times, then verify both safety positions function with the bolt open and the chamber empty."
+ ],
+ "fncheck": "Cycle the bolt several times and confirm it runs and locks without binding. With the chamber empty, the bolt open and the muzzle pointed in a safe direction, verify both safety positions work — fully rearward covering the red dot with the trigger blocked, fully forward exposing it — and confirm that with the safety FULL SAFE the trigger has no movement at all when pulled. Close the bolt and be sure the bolt handle does not hit the safety on the way down; Savage asks for that check every time the rifle is prepared for use. Check the rear sight locking screw is snug after any sight adjustment. Finally look through the bore against a light for obstructions including pieces of cleaning patch, and verify the two action screws are tight now the stock is back on."
+}

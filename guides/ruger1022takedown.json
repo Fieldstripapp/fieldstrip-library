@@ -1,0 +1,74 @@
+{
+ "row": "ruger1022takedown",
+ "make": "Ruger",
+ "model": "10/22 Takedown",
+ "sourcedFrom": "Ruger 10/22 Autoloading Rifle Instruction Manual — PM1269 (2026)",
+ "sourceSha256": "ed63ce35f5df44d6890148368d5ff761c4132cd0f60c7de9d1fa83d4b54dd149",
+ "cleanIntro": "The Takedown separates into two halves without tools. Ruger documents the sequence and the tension adjustment that goes with it.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check this manual applies to your rifle",
+   "action": "Ruger restricts this book by model number, not by model name. Confirm yours is in range before following it.",
+   "prose": "A 10/22 older than that range is a different document. The app cannot read your model number — you can.",
+   "quote": "This manual applies only to 10/22",
+   "cite": "Ruger 10/22 Autoloading Rifle Instruction Manual — PM1269 — Cover note, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Clear it completely",
+   "action": "Point the rifle in a safe direction, remove the magazine, lock the bolt back and confirm the chamber is empty by sight and by finger.",
+   "prose": "The 10/22 rotary magazine sits flush — look for it, do not assume it is out.",
+   "quote": "lock the bolt to the rear",
+   "cite": "Ruger 10/22 Autoloading Rifle Instruction Manual — PM1269 — Disassembly, p.20",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt back, locking lever forward, rotate, pull",
+   "action": "Lock the bolt to the rear. Push the locking lever forward toward the muzzle. Rotate the barrel assembly, then pull it forward away from the receiver.",
+   "prose": "All four in that order — the bolt has to be back before the lever will release anything.",
+   "quote": "To remove the barrel assembly, first lock the bolt to the rear. Second, push the locking lever forward, towards the muzzle.",
+   "cite": "Ruger 10/22 Autoloading Rifle Instruction Manual — PM1269 — Takedown, step 6, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel assembly off",
+   "action": "Pull the barrel assembly forwards, away from the receiver.",
+   "prose": "That is the rifle in two halves — as far as routine cleaning needs.",
+   "quote": "pull the barrel assembly forwards, away from the receiver.",
+   "cite": "Ruger 10/22 Autoloading Rifle Instruction Manual — PM1269 — Takedown, step 6, p.20",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "PM1269 documents the takedown separation and the barrel-fit adjustment. It publishes no disassembly past that, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent patch, correctly sized brush, then dry patches until clean",
+    "Rimfire fouling is waxy and builds fast — the chamber needs as much attention as the bore",
+    "Clean from the chamber end where the design allows"
+   ]
+  },
+  {
+   "name": "BOLT / ACTION",
+   "tasks": [
+    "Wipe the bolt face and around the extractor",
+    "Clean the receiver raceways and the magazine well",
+    "Light oil on bearing surfaces only"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Wipe magazine bodies dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Reinstall the barrel assembly. You should feel some resistance when turning it, but it should not be difficult.",
+  "If the fit needs adjusting, remove the barrel assembly and tighten or loosen the adjustment knob accordingly."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, confirm the halves lock together with the expected resistance and the bolt cycles freely."
+}

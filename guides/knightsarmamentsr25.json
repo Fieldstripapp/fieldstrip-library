@@ -1,0 +1,167 @@
+{
+ "row": "knightsarmamentsr25",
+ "make": "Knights Armament",
+ "model": "SR-25",
+ "sourcedFrom": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 (ABSENT — no copyright line printed. The document carries a proprietary-data legend and REV 3; the published filename adds '05-06-2021' but that is a filename, not a printed date, and is not treated as one.)",
+ "sourceSha256": "451adf563c622c6bbc2b7f197e77632ed195bbe45f461c117228ea78dc493086",
+ "cleanIntro": "Knight's publishes this as the M110/SR-25 operators manual — one book covering the military M110 and the commercial SR-25 as one product line, with its exploded diagrams titled M110A2. Its bolt procedure is specific to this rifle and differs from the SR-15 book in four places: the firing pin retaining pin is CAPTIVE and is pushed IN rather than pulled out, the cam pin is pulled away with no rotation instruction, the spring stays with the firing pin, and the extractor has ONE spring rather than two. The ejector is armorer-level, and so is the fire control group.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear it personally, and never on someone else's word",
+   "action": "Before any inspection or maintenance, clear the rifle yourself using the manual's own clearing procedure — magazine out, bolt back, chamber inspected. Knight's is explicit that you never squeeze the trigger until you have cleared it, and that you check the chamber before touching the trigger at all. Get live ammunition out of the cleaning area entirely.",
+   "prose": "This is a technical-manual style book and it means the sequence literally. Chamber first, trigger second.",
+   "quote": "Before starting an inspection or performing any maintenance procedures, personally ensure the rifle is clear. (See Clearing Procedures on page 5-7.) Never squeeze the trigger until you have cleared the rifle. Always check the chamber to ensure it is empty before touching the trigger. Check for obstructions in the bore before loading and chambering a round. Never keep or allow live ammunition near administrative, cleaning or maintenance areas.",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Warning, p.2",
+   "warn": "Never open or separate the upper receiver from the lower if a round is in the chamber or the rifle is loaded, as serious injury or death may occur as in the case of a hang-fire or cook-off with the receivers open or separated."
+  },
+  {
+   "phase": "Clear",
+   "title": "M110/SR-25 — and this is not the SR-15 book",
+   "action": "Check which document you are holding. This is SR25-UM-0011 REV 3, the operators manual for the M110/SR-25, and its exploded diagrams are titled M110A2. Knight's publishes a separate book for the STONER SR-15 E3 MOD 2, and the two print DIFFERENT bolt procedures. Following the SR-15's wording here will have you trying to pull out a retaining pin that is captive, rotating a cam pin the SR-25 book never tells you to rotate, and looking for a second extractor spring this bolt does not have.",
+   "prose": "Same company, same layout, different rifle and a different calibre class. The document number is the tell.",
+   "caution": "SR25-UM-0011 REV 3 is this rifle's book. SR15-UM-0001 REV 3 is a different rifle.",
+   "quote": "M110/SR-25",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Cover, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pins to the right, receivers apart — and mind the hammer",
+   "action": "With the rifle clear and the bolt carrier fully forward, push the takedown and pivot pins to the RIGHT until their internal detents stop them — they are captive and do not come out — then hinge the lower down and separate the receivers. While they are open, never let the hammer spring forward against the receiver wall or the bolt catch; if it has to be lowered, ride it down against the trigger pull.",
+   "prose": "A hammer released into an open receiver on this rifle damages the receiver and the bolt catch. It is a repair, not a scratch.",
+   "quote": "When receivers are open or separated, never allow the hammer to spring forward against receiver wall/bolt catch, as this can damage the receiver and bolt catch. When it is necessary to lower the hammer, retard it from springing forward as the trigger is pulled. • Ensure rifle is clear and the bolt carrier group is in the fully forward position. • Pull takedown and pivot pins to the right, until the pins are stopped by the internal detents, and separate the upper and lower receivers.",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Rifle Disassembly, p.16",
+   "warn": "Never open or separate the receivers with a round in the chamber."
+  },
+  {
+   "phase": "Strip",
+   "title": "Carrier group out, then the charging handle",
+   "action": "Turn the upper over so the muzzle points away from you and the receiver lugs face up. Pull the charging handle fully to the rear and draw the bolt carrier assembly back and up out of the charging handle channel. Then, with the handle still fully rearward, lift it upward so its slider ears come out of the channel through the relief slots.",
+   "prose": "The order is fixed by the geometry — the handle's ears only align with their relief slots at the rear of the channel, and the carrier has to be gone first.",
+   "aside": "• Ensure the charging handle is fully to the rear, lift upward, freeing the slider ears of the charging handle from the channel in the upper receiver through the relief slots.",
+   "quote": "• Remove the bolt carrier assembly by pulling it to the rear and lifting it clear of the charging handle channel.",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Upper Receiver Disassembly, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin is CAPTIVE — push IN, pull the stop away",
+   "action": "Use a finger to relieve the spring pressure first. Then retract the firing pin retaining pin by pushing IN on its small protrusion while pulling the large conical stop away from the carrier. It is held captive by a pin so it cannot be lost during cleaning — which also means it does not simply come off the way an SR-15's does. Then invert the carrier bolt-upward and tap the bottom lightly so the firing pin drops out of the rear.",
+   "prose": "The spring should remain with the firing pin as it comes out. If it stays behind in the carrier, stop and find it before anything goes back together.",
+   "caution": "NOTE: Spring should be remain with firing pin.",
+   "quote": "Removing the Bolt from the Carrier • Use finger to relieve spring pressure. Retract\nfiring pin retaining pin by pushing in on the small protrusion of the firing pin retaining pin and pulling the large conical stop away from the bolt carrier. The firing pin retainer is held captive by a pin to prevent loss during cleaning.",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Upper Receiver Disassembly, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin: push the bolt in and pull the pin away — no rotation instruction",
+   "action": "Push the bolt into the carrier and remove the cam pin by pulling it away from the carrier, making sure it is aligned to clear the gas key on the way out. This book gives no instruction to rotate it, unlike the SR-15's, so do not introduce a turn the manual does not call for. With the cam pin out, pull the bolt forward out of the carrier.",
+   "prose": "The alignment to clear the gas key is the part that matters here. Forcing it past at an angle marks the pin and the key both.",
+   "quote": "• Push bolt into the carrier and remove cam pin by pulling away from the carrier. Ensure that the cam pin is aligned properly to fit past the gas key.",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Upper Receiver Disassembly, p.18",
+   "warn": "This book prints no 90-degree rotation. Do not carry the SR-15's wording across."
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor — only if it needs it, and there is ONE spring",
+   "action": "Leave the extractor alone unless it is dirty or damaged; Knight's marks these steps conditional. If it must come out, push the extractor pivot pin out with a correctly sized punch and lift the extractor away, taking care not to lose the extractor spring — ONE on this bolt, where the SR-15 carries two. The ejector is armorer-level and stays in the bolt.",
+   "prose": "Count what comes out and count what goes back. A large-frame bolt running without its extractor spring properly seated will extract until it does not.",
+   "caution": "NOTE: Ejector removal is an armorer level repair procedure.",
+   "quote": "NOTE: The following steps are only necessary if the extractor is dirty or damaged. Be careful not to lose extractor spring (1 ea.).",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Upper Receiver Disassembly, p.18"
+  },
+  {
+   "phase": "Clean",
+   "title": "Muzzle DOWN while the bore is cleaned",
+   "action": "Push a bore brush in at the chamber and out through the muzzle, repeating as needed, then patch it. Keep the muzzle pointed DOWNWARDS and the sights up the whole time: that is what stops bore cleaner collecting in the bolt locking recesses of the chamber area or seeping into the gas port. Finish with a lightly lubricated patch to leave a trace coating.",
+   "prose": "Solvent in the gas port is a slow problem — it does not announce itself until the rifle starts short-stroking.",
+   "caution": "NOTE: The chamber is much larger in diameter than the bore; double-up the patches when wiping the chamber if not using a chamber mop.",
+   "quote": "• When cleaning the bore, keep muzzle pointed downwards and the sights orientated up to prevent bore cleaner from collecting in bolt locking recesses of the chamber area or seeping into the gas port.",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Cleaning, p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "Behind the locking lugs, and the cam-pin slot",
+   "action": "Two places carry the hard fouling on this rifle. In the barrel extension, get behind the locking lugs and into the locking recess with cotton swabs or a rag — a brush alone rides over it. On the carrier, take the carbon off the exterior with cleaner/lubricant and a soft-bristled brush, then clear the cam-pin slot with carbon remover or cleaner/lubricant and a soft brush, cloth or cotton swab.",
+   "prose": "Soft-bristled, everywhere. This book never asks for a wire brush on any surface.",
+   "aside": "Remove carbon fouling from the cam-pin slot with carbon remover or cleaner/lubricant and a • soft bristled brush, absorbent cloth, or cotton swab.",
+   "quote": "• Remove carbon/fouling from the exterior of the bolt carrier with cleaner/lubricant and a softbristled brush.",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Cleaning, p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "The fire control group is cleaned IN PLACE",
+   "action": "Do not take the trigger, hammer, pins and springs out. Knight's says the fire control group should not be removed except by an armorer, and that it is cleaned where it sits with cleaner/lubricant, a soft-bristled brush and an absorbent cloth. Build-up in the floor of the recess is flushed out with hot water, pressurised air or a pressurised firearm cleaning liquid.",
+   "prose": "Flush and dry, then re-lubricate. What you must not do is disassemble it to get at what the flush would have reached.",
+   "quote": "• The fire control group (trigger, hammer, and associated pins and springs) should not be removed except by an armorer. The parts should be cleaned in place with a cleaner/lubricant, soft bristled brush, and an absorbent cleaning cloth.",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Cleaning, p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light to medium — and never over-lubricate the outside",
+   "action": "A light to medium coat on the operating parts and the exposed exterior metal is all that is wanted; over-lubricating the exterior is to be avoided at all times. Knight's defines LIGHTLY LUBRICATED precisely — a thin film barely visible, produced by wetting a patch with five to ten drops of oil and wiping the area over several times with that same patch.",
+   "prose": "Note that the lubrication instructions in this book are for before operations and firing, not for storage. Storage is a different regime.",
+   "quote": "• LIGHTLY LUBRICATED: A thin film of oil barely visible to the eye. Wetting a cleaning patch with 5-10 drops of oil and then wiping the area over several times with the same patch should produce this effect and spread the oil thinly and evenly.",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Lubrication, p.30",
+   "warn": "Over-lubrication of the exterior of the rifle should be avoided at all times."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper, lower, bolt carrier group with the bolt, firing pin and cam pin out of it, and the charging handle. The buffer and action spring come out of the lower separately if you are cleaning them. That is the operator-level strip for an M110/SR-25: the ejector and the fire control group stay in the rifle by Knight's own instruction, and there is no deeper published operator procedure.",
+   "prose": "Do not leave cleaning patches in the bore, and inspect it for obstructions before the rifle goes back into service.",
+   "quote": "Clear and field strip rifle to ensure there are no missing parts.",
+   "cite": "SR25-UM-0011 REV 3 M110/SR-25  OPERATORS MANUAL — SR25-UM-0011 REV 3 — Warning, p.2",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Knight's publishes no deeper OPERATOR procedure for the M110/SR-25 and names the components that would constitute one as armorer work: 'NOTE: Ejector removal is an armorer level repair procedure.' (Upper Receiver Disassembly, p.19), and the same fire-control restriction the SR-15 book carries. Everything else the book covers — the receivers, the bolt and carrier, the extractor, the buffer and action spring, the magazine — is already in the operator-level strip above. Walking an ejector or fire-control teardown would be authoring against an explicit armorer-level restriction, and importing the SR-15 book's bolt wording would be substitution between two rifles whose procedures the manufacturer prints differently.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Muzzle pointed DOWNWARDS, sights up, throughout",
+    "Bore brush in at the chamber and out at the muzzle, repeated as necessary",
+    "Double up patches for the chamber if you have no chamber mop",
+    "Finish with a lightly lubricated patch to leave a trace coating",
+    "Do not leave cleaning patches in the bore"
+   ]
+  },
+  {
+   "name": "BARREL EXTENSION",
+   "tasks": [
+    "General purpose brush with bore cleaner on the locking lugs",
+    "Cotton swabs or a rag BEHIND the locking lugs and in the locking recess"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Soft-bristled brush and cleaner/lubricant on the carrier exterior",
+    "Cam-pin slot and expansion chamber with carbon remover and a soft brush",
+    "Extractor out only if dirty or damaged — ONE spring on this bolt",
+    "Firing pin retaining pin is captive; the spring stays with the firing pin",
+    "Ejector stays in: armorer-level"
+   ]
+  },
+  {
+   "name": "LOWER RECEIVER",
+   "tasks": [
+    "Takedown and pivot pins free of fouling and rust",
+    "Selector lever clean and free of corrosion",
+    "Magazine well, magazine catch and both magazine releases",
+    "Bolt catch and bolt release free of carbon and corrosion",
+    "Fire control group cleaned IN PLACE — never removed except by an armorer",
+    "Wipe the buffer, action spring and the interior of the buffer tube"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Fit the extractor into its recess with its single spring, align the pivot pin holes and insert the pivot pin tapered end first.",
+  "Seat the pivot pin with a non-marring tool to equal depth on both sides of the bolt.",
+  "Slide the bolt into the carrier, push it in and drop the cam pin through, aligned to clear the gas key.",
+  "Drop the firing pin in at the rear with its spring, and let the captive retaining pin snap back over the conical stop.",
+  "Refit the charging handle into its channel, engage it part way, then run the carrier group in behind it and push both home.",
+  "Join the receivers and push the takedown and pivot pins back to the left until they seat."
+ ],
+ "fncheck": "Run the manual's function check on the assembled, clear rifle. Confirm the cam pin is in and that the firing pin does not fall out when the carrier group is held vertical — on this rifle also confirm the captive retaining pin has snapped back over the conical stop. With the rifle clear, charge it, put the selector on SAFE and press the trigger: the hammer must not fall. Move to FIRE and press: it must fall. Hold the trigger back, cycle the charging handle, release the trigger and listen for the reset, then press again and confirm the hammer falls. Check the bore for obstructions and that no patch has been left in it."
+}

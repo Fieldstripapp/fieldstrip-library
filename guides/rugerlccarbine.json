@@ -1,0 +1,101 @@
+{
+ "row": "rugerlccarbine",
+ "make": "Ruger",
+ "model": "LC Carbine",
+ "sourcedFrom": "Ruger LC Carbine Instruction Manual — LCC 1/2023 R1 (2023)",
+ "sourceSha256": "ef7394c990ca3946962254f89abe077138954128a1cfb2aa1a185236f6dae890",
+ "cleanIntro": "The LC Carbine strips like an AR at the front end and nothing like one inside: a single takedown pin drops the grip frame off, and the bolt is a two-piece unit that comes out in pieces under heavy spring tension. Ruger publishes a separate manual for LC Carbines in .45 Auto and 10mm Auto.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Unload, bolt forward, then think about the stock",
+   "action": "Clear the rifle completely — magazine out, bolt back, chamber checked — then let the bolt go forward before you remove the grip frame.",
+   "prose": "The bolt forward requirement is specific to this rifle and Ruger states it as a precondition of the very first step.",
+   "quote": "NOTE: After ensuring your LC CARBINE™ is unloaded (see pages 26 - 27), be sure the bolt is in the forward position before removing the grip frame.",
+   "cite": "Ruger LC Carbine Instruction Manual — LCC 1/2023 R1 — Disassembly — Grip Frame Removal, note, p.31",
+   "warn": "Always remove the grip frame prior to removing or swapping butt stock assemblies."
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin out — and keep it",
+   "action": "Using a punch or a similar tool, push the takedown pin out of the receiver from either side, and put it somewhere you will not lose it.",
+   "prose": "Either side works. It is not captive — that is why Ruger says to retain it.",
+   "quote": "Using a punch or similar tool, push the takedown pin out of the receiver from either side. Be sure to retain the takedown pin.",
+   "cite": "Ruger LC Carbine Instruction Manual — LCC 1/2023 R1 — Disassembly — Grip Frame Removal, step 1, p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Grip frame rearward, down and off",
+   "action": "With the muzzle in a safe direction and your fingers clear of the trigger guard, grasp the handguard and pull rearward on the grip, then slide the grip frame assembly rearward, then down and off the receiver assembly.",
+   "prose": "Rearward first, then down. It will not drop straight out.",
+   "quote": "Slide the grip frame assembly rearward, then down and off of the receiver assembly.",
+   "cite": "Ruger LC Carbine Instruction Manual — LCC 1/2023 R1 — Disassembly — Grip Frame Removal, step 3, p.31",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Rear bolt out — hold the charging handle",
+   "action": "Turn the receiver assembly upside down and use the charging handle to slide the two-piece bolt all the way rearward until the rear bolt is past the breech of the barrel. Hold the charging handle there and slide the rear bolt straight out of the receiver cavity, then let the front bolt slide slowly forward.",
+   "prose": "This is the step that bites fingers. The spring is doing real work and the only thing restraining it is your grip on the charging handle.",
+   "caution": "The bolt is under heavy spring tension while retracted.",
+   "quote": "CAUTION: Hold the charging handle all the way to the rear to avoid pinching your fingers while removing the rear bolt. The bolt is under heavy spring tension while retracted.",
+   "cite": "Ruger LC Carbine Instruction Manual — LCC 1/2023 R1 — Disassembly — Bolt and Return Spring Removal, step 1, p.32"
+  },
+  {
+   "phase": "Deep",
+   "title": "Buffer pad up and out with the recoil spring",
+   "action": "Tilt the buffer pad forward to get a finger behind it, press towards the front of the rifle and pull the buffer pad up and out. The recoil spring and guide rod assembly come out with it.",
+   "prose": "One movement takes three parts out together. Do not go looking for them separately.",
+   "quote": "Tilt the buffer pad forward to get your finger behind it. While putting pressure towards the front of the rifle, pull the buffer pad up out of the firearm. The recoil spring and guide rod assembly will come with it.",
+   "cite": "Ruger LC Carbine Instruction Manual — LCC 1/2023 R1 — Disassembly — Bolt and Return Spring Removal, step 4, p.33"
+  },
+  {
+   "phase": "Deep",
+   "title": "Front bolt out",
+   "action": "Slide the front bolt back past the breech of the barrel and pull it out of the receiver cavity.",
+   "prose": "With the spring gone this is loose. Same exit as the rear bolt, past the breech.",
+   "quote": "Slide the front bolt back past the breech of the barrel and pull it out of the receiver cavity.",
+   "cite": "Ruger LC Carbine Instruction Manual — LCC 1/2023 R1 — Disassembly — Bolt and Return Spring Removal, step 5, p.34"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent-wet patch, then a correctly sized brush, then dry patches until clean",
+    "5.7x28 fouling is hard and sits in the chamber mouth — check it against the light"
+   ]
+  },
+  {
+   "name": "BOLT & RECEIVER",
+   "tasks": [
+    "Scrub both bolt sections, the bolt face and the extractor",
+    "Wipe the receiver cavity and the bolt raceways",
+    "Light oil on bearing surfaces only"
+   ]
+  },
+  {
+   "name": "GRIP FRAME",
+   "tasks": [
+    "Wipe the grip frame, trigger guard area and magazine well dry",
+    "Check the takedown pin and its hole are clean before reassembly"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Check follower travel and that the lips are undamaged",
+    "Magazines go back dry"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Front bolt in past the breech, then the recoil spring and guide rod with the buffer pad pressed back down into place.",
+  "Rear bolt in with the charging handle held rearward, then let the bolt run forward under control.",
+  "Grip frame up and forward onto the receiver, then the takedown pin back through from either side.",
+  "Cycle the action several times and confirm the safety works before loading."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, check both safety levers block the trigger, the bolt cycles and holds open, and the takedown pin is fully seated — pointed in a safe direction throughout."
+}

@@ -1,0 +1,214 @@
+{
+ "row": "yhmnitron20",
+ "make": "YHM",
+ "model": "Nitro N20",
+ "sourcedFrom": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet (UNKNOWN — no copyright line is printed)",
+ "sourceSha256": "d82952b8bf65c1a2b7f5d9fb50990336ee7abc3a5651fcedfe021944ef386da6",
+ "cleanIntro": "This is the one YHM can in the range that its own book tells you to take apart. The NITRO is a two-piece titanium body: a main body and an upper extension that unscrew from each other with two supplied spanner wrenches, so the can runs 7.5 inches long or 5.4 inches short depending on which you fit, and the end cap moves between them. YHM also publishes an optional rubber wipe that goes behind the muzzle cap. The baffle stack itself still does not come out — but everything up to it does, and the tools to do it came in the box. Anti-seize on every thread, every time; the book repeats that instruction on four separate pages.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Firearm unloaded and pointed somewhere safe before the can is touched",
+   "action": "Clear the host and keep the muzzle in a safe direction throughout. Everything below happens with the can off the gun, and the first instruction in each of YHM's own disassembly procedures is to get the suppressor separated from the firearm before a wrench comes out.",
+   "quote": "ONLY A LICENSED GUNSMITH EXPERIENCED WITH YOUR MODEL OF FIREARM SHOULD INSTALL THIS PRODUCT.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — INSTALLATION AND USE, PDF p.5 (the booklet prints no folio on any page)",
+   "warn": "This book covers the can. There is no host-firearm procedure anywhere in its twelve pages — your firearm's own manual has that."
+  },
+  {
+   "phase": "Clear",
+   "title": "Know which spelling you are looking at — N2O and N20 are the same can",
+   "action": "YHM spells this model two ways in one booklet. The headings and the specification block use N2O with a letter O; the numbered disassembly steps use N20 with a digit zero. The product page on yhm.net says n2o while the manual it links is titled N20. Same suppressor, part number YHM-2105 — but it matters when you are searching for spares or a wrench.",
+   "aside": "The disassembly steps on PDF pages 6-8 spell the same can \"nitro® n20\".",
+   "quote": "CONGRATULATIONS ON THE PURCHASE OF YOUR YHM NITRO® N2O",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — greeting line, PDF p.3"
+  },
+  {
+   "phase": "Clear",
+   "title": "Anti-seize on all threads, before anything is assembled",
+   "action": "Put a small amount of anti-seize on every thread before it goes together. YHM prints this instruction four times — on the installation page, at the head of both configuration-change pages and on the wipe page — which is what a manufacturer does when a titanium thread has already seized on somebody.",
+   "prose": "Titanium galls. That is why this can ships with two spanner wrenches and why YHM sells anti-seize as a suppressor accessory.",
+   "quote": "*NOTE: APPLY SMALL AMOUNT OF ANTI-SEIZE TO ALL THREADS PRIOR TO USE*",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — repeated at PDF pp.5, 6, 7 and 8",
+   "warn": "A galled titanium thread on the extension joint is not a repair you make at the bench."
+  },
+  {
+   "phase": "Strip",
+   "title": "Can off the barrel — 25 ft-lbs is the ceiling going back on",
+   "action": "The NITRO direct-threads onto the barrel. Back it off anticlockwise. Going on, it lines up with the barrel threads, starts by hand to avoid cross-threading, and screws down until firmly secured with no barrel thread still showing — and YHM caps it at 25 ft-lbs.",
+   "prose": "That 25 ft-lb limit is the number for the can onto the barrel. It is not the figure for anything else on this suppressor.",
+   "aside": "*LIMIT TO 25 FT/LBS TORQUE*",
+   "quote": "AFTER CONFIRMING THAT YOUR FIREARM IS UNLOADED, PLACE THE THREADED END OF THE Nitro® N2O (1A) IN LINE WITH THE THREADS OF THE BARREL (2A.) TAKING CARE NOT TO CROSS-THREAD, SCREW THE SUPPRESSOR ONTO THE BARREL UNTIL IT IS FIRMLY SECURED AND NO ADDITIONAL BARREL THREADING IS VISIBLE.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — Attach Suppressor to Firearm, PDF p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the barrel threads match before it ever goes on",
+   "action": "Before the NITRO goes onto a barrel it has not been on before, check that barrel's threads against YHM's published thread specification. The spec itself is on YHM's website rather than in the booklet.",
+   "quote": "Before attaching your Nitro® N2O Sound Suppressor you should check to ensure that the threads of the barrel meet our thread specifications.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — INSTALLATION AND USE, PDF p.5"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe the outside down with a damp cloth",
+   "action": "Wipe oil, dirt and fouling off the outside of the tube with a damp cloth. That is the whole of the routine external service — nothing abrasive on the matte black cerakote over titanium.",
+   "quote": "Excess oil, dirt, and other contaminants should be wiped from the outside surface using a damp cloth.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — Care, PDF p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Take the can off the rifle when you are done shooting",
+   "action": "Do not store it mounted. Condensation trapped inside is the most common problem YHM sees with suppressors, and taking the can off lets it evaporate. If it must stay on, store the rifle muzzle-down with the bolt open so the inside can drain and breathe.",
+   "aside": "If the sound suppressor is to remain on the rifle, it is recommended that the rifle be stored in a muzzle-down position with the bolt left open.",
+   "quote": "The most common problem encountered when using a sound suppressor is corrosion caused by condensation buildup inside the suppressor.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — Care, PDF p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Nothing wet or loose goes inside the tube",
+   "action": "Never fire the can with water, gel, grease or anything else inside it. A suppressor with its volume filled is a pressure vessel, and YHM's stated consequence is damage to the can, damage to the host, or serious injury. It also voids the warranty outright.",
+   "quote": "Do not use this Sound Suppressor with water or any other media inside the sound suppressor.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — WARNING!, PDF p.3",
+   "warn": "If you have soaked the can, it must be fully drained and blown dry before it goes back on a rifle."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — and unusually for a YHM can, there is more",
+   "action": "Can off the barrel, threads checked, outside wiped. Where every other YHM suppressor book stops here, this one carries on: Deep Clean has the published procedure for separating the body from the upper extension, moving the end cap between them, and fitting the optional wipe. Those are YHM's own instructions with YHM's own supplied wrenches, not a teardown invented for this guide.",
+   "prose": "The published interval for the interior is 2000 to 3000 rounds, and the internals rarely need doing at all.",
+   "quote": "we recommend cleaning the sound suppressor after every 2000 to 3000 rounds.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — Care, PDF p.9",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Off the gun first, and fully separated from it",
+   "action": "Before either spanner wrench is picked up, the NITRO comes off the host and away from it. YHM makes this step one of its own numbered configuration-change procedure rather than assuming it.",
+   "quote": "ensure the nitro® n20 is safely removed and separated from the firearm.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — CHANGING BETWEEN LONG AND SHORT CONFIGURATION, step 1, PDF p.6",
+   "warn": "Anti-seize goes on every thread you are about to open or close. Titanium galls."
+  },
+  {
+   "phase": "Strip",
+   "title": "Two spanner wrenches — one on the extension, one on the main body",
+   "action": "The can came with two spanner wrenches and this is what they are for. Fit one into the notches on the upper extension and the other into the lower main body. Both must be seated before any force goes on, because a spanner that slips off a titanium notch swages it out.",
+   "prose": "One wrench holds, the other turns. Never try this joint with a single wrench and a hand on the tube.",
+   "quote": "using the supplied 2 spanner wrenches, fit one into the upper extension notches and the other into the lower main body. (image 1)",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — CHANGING BETWEEN LONG AND SHORT CONFIGURATION, step 2, PDF p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Twist the upper body off anticlockwise while the lower half is held",
+   "action": "With a firm grip on both, turn the upper body anticlockwise while the second wrench stabilises the bottom half. Keep going until the body and the extension come apart. Expect the torque to break suddenly and keep your fingers out of the gap between the two handles.",
+   "quote": "with a firm grip, twist the upper body of the nitro® n20 in a counter clockwise motion while stabilizing the bottom half of the body with the other spanner wrench to seperate the body and extension of the suppressor.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — CHANGING BETWEEN LONG AND SHORT CONFIGURATION, step 3, PDF p.6",
+   "warn": "*DO NOT LOSE THE UPPER EXTENSION. IT CANNOT BE REPLACED*"
+  },
+  {
+   "phase": "Strip",
+   "title": "End cap out with the curved edge of the spanner",
+   "action": "With the two halves apart, take one of the supplied spanner wrenches and put its curved edge into one of the slots on the end cap. Then turn it anticlockwise and take the cap off. The curved edge is the correct feature for these slots — nothing else belongs in them.",
+   "aside": "rotate counter clockwise and remove end cap.",
+   "quote": "with the bodies of the suppressor seperated, take one of the supplied spanner wrenches and insert the curved edge into one of the slots on the end cap. (image 3)",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — CHANGING BETWEEN LONG AND SHORT CONFIGURATION, step 4, PDF p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "End cap into the short body, and back on the gun",
+   "action": "Take the end cap you have just removed and screw it into the suppressor body clockwise, using the backside of the suppressor wrench the same way you used it to take the cap off. Then the can goes back onto the host. To go the other way — short back to full length — every step above runs in reverse.",
+   "prose": "Anti-seize on the cap thread before it goes in. This is one of the four places the book repeats that instruction.",
+   "aside": "reverse all steps to swap from shortened body suppressor to full body suppressor.",
+   "quote": "take the now separated end cap (image 4) and install it into the suppressor body, using the same method as removal with backside of suppressor wrench. screw in clockwise. (image 5)",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — CHANGING BETWEEN LONG AND SHORT CONFIGURATION, step 6, PDF p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Optional rubber wipe — what it changes, before you fit one",
+   "action": "The front cap is built to hold a rubber wipe. Fitting one improves sound and flash reduction, but YHM is explicit that it also raises back pressure into the action and can shift your point of impact. Decide with all three consequences in front of you, not just the first.",
+   "prose": "YHM's own recommendation is 70A durometer neoprene, about 1.250 inches across, and a small centred hole to minimise the impact shift.",
+   "quote": "NOTE THAT THE USE OF A WIPE WILL AFFECT THE FOLLOWING: ·IMPROVE SOUND AND FLASH REDUCTION · INCREASED BACK-PRESSURE TO THE ACTION · POSSIBLE POINT OF IMPACT SHIFT.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — INSTALLATION OF WIPE (OPTIONAL), PDF p.8",
+   "warn": "A wipe is media in the bore path. Check it has not shredded before every session it stays fitted for."
+  },
+  {
+   "phase": "Strip",
+   "title": "Fitting the wipe — muzzle cap off, wipe in, cap back on",
+   "action": "Take the can off the host, then unscrew the muzzle cap with the back side of one of the included suppressor wrenches. Lay the wipe into the end of the suppressor where the cap was, then put the cap back over it and tighten with the same backside of the wrench. Centre the wipe as you tighten — an off-centre hole is where the point-of-impact shift comes from.",
+   "prose": "reinstall muzzle cap over wipe and tighten using the backside of the suppressor wrench.",
+   "aside": "place wipe in the end of the suppressor where cap was removed.",
+   "quote": "using the back side of one of the included suppressor wrenches, unscrew the muzzle cap.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — INSTALLATION OF WIPE (OPTIONAL), step 2, PDF p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Universal Rifle Suppressor Mount coupler out of the base",
+   "action": "The coupler in the bottom of the can comes out with a 3/4\" wrench turned anticlockwise while the NITRO body is held firm. Going back in it is reversed and hand-started, so the thread does not cross.",
+   "aside": "The book lists the mounting systems this can accepts: the Phantom Q.D. Adapter YHM-3060, the Universal Rifle Suppressor Mounts YHM-2145's, Kurz Kits YHM-3050, the 3-Lug Mount Assembly YHM-2045 and the Nielsen Booster Assembly YHM-2055.",
+   "quote": "HOLD THE Nitro® N2O BODY (1A) WITH A FIRM GRIP AND USE A 3/4” WRENCH (3A) IN A COUNTER-CLOCKWISE DIRECTION TO LOOSEN THE COUPLER INTO THE BOTTOM OF THE SUPPRESSOR.",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — Removal and Installation of Universal Rifle Suppressor Mount, PDF p.5"
+  },
+  {
+   "phase": "Clean",
+   "title": "Solvent flush — done through the can, never into it",
+   "action": "The inside rarely needs anything. When it does, submerge the whole suppressor in a hydrocarbon-based gun cleaning solvent, let it drain, and blow the remainder out with high-pressure air. Kroil, or one part transmission fluid to two parts mineral spirits, are the mixes YHM names.",
+   "prose": "Even here the baffle stack stays where it is. Separating the body from the extension is a length change, not a route into the core.",
+   "quote": "Cleaning of the internals is rarely necessary but can be accomplished by submerging the suppressor in a hydrocarbon based gun cleaning solvent (Such as Kroil or a mixture of 1 part transmission fluid and 2 parts mineral spirits).",
+   "cite": "The NITRO® N2O Sound Suppressor System YHM-2105 — UNKNOWN — no revision, edition or document number is printed in the booklet — Care, PDF p.9",
+   "warn": "Allow the solvent to drain out of the suppressor and blow out any remaining solvent using a high pressure air hose."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "OUTSIDE OF THE TUBE",
+   "tasks": [
+    "Wipe excess oil, dirt and other contaminants off the outside with a damp cloth",
+    "Let the can reach a temperature you can hold before touching it",
+    "Do not abrade the matte black cerakote over titanium"
+   ]
+  },
+  {
+   "name": "THREADS — ANTI-SEIZE EVERY TIME",
+   "tasks": [
+    "Apply a small amount of anti-seize to all threads prior to use",
+    "Clean the barrel threads and the threaded end of the can before assembly",
+    "Confirm the barrel threads meet YHM's published thread specification before first fitting",
+    "Hand-start every thread; the can onto the barrel is capped at 25 ft-lbs"
+   ]
+  },
+  {
+   "name": "BODY, EXTENSION & END CAP",
+   "tasks": [
+    "Separate the body and upper extension only with the two supplied spanner wrenches, both seated",
+    "Clean and re-anti-seize the extension thread and the end cap thread whenever they are opened",
+    "Do not lose the upper extension — YHM states it cannot be replaced",
+    "Do not attempt to remove the baffle stack; no procedure for it is published"
+   ]
+  },
+  {
+   "name": "INTERIOR — 2000 TO 3000 ROUNDS",
+   "tasks": [
+    "Rarely necessary; when it is, submerge the whole can in a hydrocarbon-based gun cleaning solvent",
+    "Drain fully, then blow out the remaining solvent with high-pressure air",
+    "Never fire the can with water or any other media inside it",
+    "If a wipe is fitted, inspect it before each session and treat it as a consumable"
+   ]
+  },
+  {
+   "name": "STORAGE",
+   "tasks": [
+    "Take the suppressor off as soon as you have finished shooting so condensation can evaporate",
+    "If it stays on, store the rifle muzzle-down with the bolt open"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Anti-seize on every thread before anything goes back together — YHM repeats this on four pages.",
+  "Fit the end cap into whichever body half you are running, clockwise, with the backside of the suppressor wrench.",
+  "If going back to full length, seat both spanner wrenches and screw the upper extension back onto the main body clockwise.",
+  "Hand-start the mount coupler into the base of the can, then snug it with the 3/4\" wrench.",
+  "Line the can up with the barrel threads, start by hand, and screw down until no barrel thread is visible — 25 ft-lbs maximum.",
+  "Account for the upper extension before you put the tools away. It cannot be replaced."
+ ],
+ "fncheck": "With the firearm confirmed unloaded, check the NITRO is firmly seated with no barrel thread showing, that the body and extension joint is fully closed with no gap, and that the end cap is tight. Then keep checking as you shoot: YHM asks for a periodic check because firing can walk the can loose, and the suppressor coming loose from the host is the first item on its own list of what causes baffle strikes, ahead of poor barrel threads, incorrect mount installation and poor ammunition. If a wipe is fitted, confirm it is centred and intact before the first shot."
+}

@@ -1,0 +1,96 @@
+{
+ "row": "keltecp3at",
+ "make": "Kel-Tec",
+ "model": "P3AT",
+ "sourcedFrom": "KEL-TEC P-3AT PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "dae89bc025cafb8f44b946d781b372f1a6c03e6e19100e28094c20a03b567c43",
+ "cleanIntro": "The .380 pocket sibling of the P-32, and the strip is nearly the same one pin — with one difference that catches people out: the P-3AT's ejector is a loose part that falls out of the frame the moment the slide is off. Kel-Tec publishes the strip and then stops, so there is no Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm the chambering: this is the .380, not the .32",
+   "action": "Read the caliber marking on the pistol and confirm .380 Auto before you go any further. Treat +P as an occasional load, not a standard one.",
+   "prose": "The P-3AT and the P-32 are the same size, the same shape and take the same one-pin strip, and their manuals were set from one another — so the chambering is the one thing you settle by looking at the gun rather than by recognising the outline. Kel-Tec's instruction is that no other ammunition is to be used. The +P allowance is explicitly qualified: the gun will accept it, but not with continuous use, and this is a 8.3-ounce aluminium-framed .380 whose locking surfaces are what pay for a steady diet of it.",
+   "aside": "\"ammuntion\" is Kel-Tec's spelling in this revision, quoted as printed.",
+   "quote": "The P-3AT Pistol is designed and chambered for the .380 Auto cartridge. Do not use any other ammuntion. The P-3AT will accept +P ammuntion, however not with continuous use.",
+   "cite": "KEL-TEC P-3AT PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Safety Instructions and Warnings — Ammunition, p.3"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, slide back briskly, then look and feel",
+   "action": "Muzzle in a safe direction, press the magazine catch and remove the magazine, then pull the slide fully back in one brisk stroke to extract the chambered round. Inspect the chamber by eye and by finger.",
+   "prose": "Brisk is the operative word — a slow stroke on this short slide lets the extractor lift a live .380 partway and set it back down, and there is no slide stop on the P-3AT to hold the action open for you while you check. Keep the ejection port clear and keep the support hand behind the muzzle, which on a gun this small is barely a hand's width away. The book's standing rule for every Kel-Tec pistol applies: do not trust the extractor, look and feel.",
+   "quote": "To unload the P-3AT remove the magazine and briskly pull the slide back to extract the round in the chamber. Do not obstruct the ejector port and keep fingers away from trigger and muzzle. Visually inspect the chamber to make sure it is empty.",
+   "cite": "KEL-TEC P-3AT PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Instruction for Use — Unloading, p.11"
+  },
+  {
+   "phase": "Clear",
+   "title": "No manual safety, and the hammer is never fully cocked",
+   "action": "Accept that there is nothing to put on safe. Finger stays outside the trigger guard for the whole procedure, and never on the trigger while the slide is being worked.",
+   "prose": "The P-3AT is double-action-only: the hammer rests held by the hammer block, away from the firing pin, and only a deliberate trigger pull disengages it. That is why the pistol carries safely in a pocket with no lever — and also why nothing on the outside tells you its condition. The only condition you can trust is the one you just checked. Note too that the book says not to dry fire this pistol, so do not 'test' the trigger as part of clearing it.",
+   "quote": "To achieve highest operator safety, combined with ease of handling, the pistol is \"DOUBLE ACTION ONLY\". It has no manual safety and the hammer is never fully cocked.",
+   "cite": "KEL-TEC P-3AT PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Safety, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Squeeze the grip around the pin hole, then pull the assembly pin",
+   "action": "Close your hand so it presses the polymer grip in all around the assembly pin, and pull the pin out of the frame while keeping that pressure on.",
+   "prose": "An assembly spring sits under the grip shell right where the pin passes through, and it is what holds the pin against walking out under recoil. Release the grip pressure as the pin clears and the spring can jump its seat and disappear. Hand pressure all around the hole traps it in place while the pin travels. Do this over a tray — this is the first of two small parts this strip can lose.",
+   "quote": "Pull the assembly pin from the pistol, making sure you keep pressure on the grip surrounding the assembly pin to prevent the assembly pin spring from dislodging.",
+   "cite": "KEL-TEC P-3AT PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Disassembly, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel back, slide off the front — and catch the ejector",
+   "action": "Push the barrel rearward, hold the slide and pull it slowly forward off the frame, then remove the recoil spring, the barrel and the ejector. Expect the ejector to be loose.",
+   "prose": "The barrel must travel back before the slide will clear, because the assembly pin is what unlocks the tilting barrel from the slide — force the slide without doing that and you are levering on the locking lug. The part that surprises people is next: on the P-3AT the ejector, part #115, is not pinned into the frame, and once the slide is off it simply falls out. If it lands in a carpet you have a gun that extracts and does not eject. Work over a tray and account for it before you move on.",
+   "quote": "CAUTION: Once the slide is removed, the Ejector (part #115) will easily fall out.",
+   "cite": "KEL-TEC P-3AT PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Disassembly, p.13",
+   "warn": "The ejector is a loose part on the P-3AT. It must be back in the frame before the slide goes on, or the pistol will not eject."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel, recoil springs on their guide, the loose ejector, the assembly pin and the magazine. That is Kel-Tec's whole published strip for the P-3AT — the firing pin, extractor and fire control stay in the gun.",
+   "prose": "Everything the maintenance section reaches is now open: bore, chamber, breech face, extractor from the outside, frame rails, and the underside of the slide. The firing pin screw sets firing pin protrusion and is a factory adjustment — the book says not to rotate it, and no cleaning task needs it turned. If a problem survives a clean and a change of ammunition, Kel-Tec's own instruction is to stop firing, unload and return the pistol to their service department rather than to go further in.",
+   "quote": "No further disassembly is recommended. Do not rotate the firing pin screw, it is factory adjusted.",
+   "cite": "KEL-TEC P-3AT PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Disassembly, p.13",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The P-3AT manual publishes exactly one disassembly and closes it in the same paragraph: no further disassembly is recommended, and the firing pin screw is factory adjusted and must not be rotated. The Maintenance section then points back at that same procedure for \"a more detailed cleaning\", so in this book the detailed clean and the field strip are one operation. There is no deeper published procedure to walk; anything beyond it goes to the Kel-Tec service department.",
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER & BREECH",
+   "tasks": [
+    "Brush the bore and chamber with a powder-removing solvent and bore brush, then wipe clean with patches or a swab",
+    "Small brush and solvent around the breech of the barrel, the chamber and the extractor, and every adjacent surface that has taken powder or primer residue",
+    "Check the loose ejector while it is out — a bent or burred ejector face is a common cause of the stovepipes this pistol is accused of"
+   ]
+  },
+  {
+   "name": "FRAME & SLIDE",
+   "tasks": [
+    "Light brushing and solvent on the aluminium frame to lift residue; do not soak the polymer grip",
+    "Wipe the inside of the slide, the rails and the recoil springs and guide clean and dry",
+    "Leave the firing pin screw untouched — it is factory adjusted"
+   ]
+  },
+  {
+   "name": "OIL & MAGAZINE",
+   "tasks": [
+    "Apply a light coating of high quality gun oil to all external surfaces with a cloth and wipe it back to a film",
+    "Wipe the 6-round magazine body and follower — pocket lint, not fouling, is what stops these",
+    "Dry-patch the bore before the pistol is carried or fired again"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Put the ejector back in the frame FIRST — it is the part this strip loses, and the slide will go on happily without it.",
+  "Make certain the barrel and recoil springs are well centered in the slide before the slide goes anywhere near the frame.",
+  "Push the slide onto the frame, hold the slide back, and allow the barrel to slide forward.",
+  "Look into the assembly pin hole and align it with the cut in the barrel; insert the pin at a slight angle so it depresses the assembly pin spring, then push it completely in.",
+  "Work the slide a few times to check the action — and do not dry fire the P-3AT to prove it works."
+ ],
+ "fncheck": "With the magazine out and the chamber checked empty: the assembly pin should sit flush and stay put when the pistol is shaken; the slide should travel its full stroke and return fully into battery on spring pressure alone; pushing the barrel rearward should show it free to tilt, and closing the slide should cam it up and lock it; and the ejector should be visible and solid in the frame window, not missing or loose."
+}

@@ -1,0 +1,154 @@
+{
+ "row": "windhamweaponrysrc",
+ "make": "Windham Weaponry",
+ "model": "SRC",
+ "sourcedFrom": "Windham Weaponry Operator's Manual — 2021 Digital Version (2021)",
+ "sourceSha256": "729fc4babf6c57b31aa88e3b835cd66fa266add0addf6598a0fe5f7c1a342433",
+ "cleanIntro": "A standard AR strip from Windham's own operator's manual — pins, carrier, handle — and then a full bolt carrier group teardown on the deeper path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Bolt locked open, chamber plug out, eyes in",
+   "action": "Lock the bolt open on the bolt catch and return the charging handle forward, then take the chamber plug or tool out and look into the upper receiver and firing chamber. The plug is Windham's own chamber flag — it comes out for the check, not before it.",
+   "aside": "NOTE: Be sure a magazine is not inserted in the rifle.",
+   "quote": "Remove the chamber plug/tool",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — RIFLE DISASSEMBLY, CLEANING & MAINTENANCE, step 2, p.13"
+  },
+  {
+   "phase": "Clear",
+   "title": "Selector on SAFE, then let the bolt go",
+   "action": "With the chamber confirmed empty and the selector on SAFE, press the upper part of the bolt catch — or cycle the charging handle — and let the bolt run forward. Windham calls the rifle clear at exactly this point and not before. Take a moment to record the serial number and to confirm the caliber marked on your barrel: this one book covers Windham models across several chamberings, and the .308 rifles have their own addendum with a different cam pin procedure.",
+   "quote": "THE RIFLE IS NOW “CLEAR”.",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — RIFLE DISASSEMBLY, CLEANING & MAINTENANCE, step 3, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin through with the chamber tool",
+   "action": "Use the chamber plug or a punch to push the takedown pin in as far as it goes, then pull on the head of the pin from the right side until it stops. If you have a carbon fibre lower, Windham notes you will need a tool to reach that pin at all — a thumb will not do it.",
+   "aside": "REMEMBER:  Carbon Fiber lower receivers will require a tool to reach the Takedown Pin.",
+   "quote": "Push the pivot pin in as far as it will go",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — RIFLE DISASSEMBLY, CLEANING & MAINTENANCE, steps 4-5, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle back, carrier comes with it",
+   "action": "Pull the charging handle back and the bolt carrier assembly will ride out with it. Lift the carrier back and up until it is clear of the upper receiver. Watch how the carrier key sits in the slot in the bottom of the handle as it comes — that is the relationship you have to recreate on the way back in.",
+   "quote": "Pull the charging handle back. The bolt carrier assembly will come out with it",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — RIFLE DISASSEMBLY, CLEANING & MAINTENANCE, step 6, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Handle back until its side tabs clear the cutouts",
+   "action": "Pull the charging handle to the rear until its side tabs line up with the cutouts in the upper receiver, then lift it out. On a carbon fibre upper there are no cutouts and the handle simply slides straight out — Windham warns it can fall out and be damaged, so keep a hand under it.",
+   "caution": "On the Carbon Fiber upper receivers, the Charging Handle simply slides straight into the receiver. There are no cutouts as in the aluminum receiver, and the handle can fall out and be damaged.",
+   "quote": "To remove charging handle, pull it to the rear",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — RIFLE DISASSEMBLY, CLEANING & MAINTENANCE, step 7, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper and lower are apart and the carrier group and charging handle are out. That is the routine strip. The bolt carrier group comes apart further — firing pin, cam pin, bolt, extractor — and that is the Deep Clean path.",
+   "prose": "The next step past the strip is the retaining pin, which is where Deep Clean picks up.",
+   "quote": "Remove the firing pin retaining pin",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — RIFLE DISASSEMBLY, CLEANING & MAINTENANCE, step 8, p.15",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Retaining pin out — and do not touch its split end",
+   "action": "Push the firing pin retaining pin out of the carrier. It is a split pin and Windham is emphatic: do not open or close the split end, and never put a common cotter pin in its place on reassembly. That pin retains the firing pin against every shot the rifle fires.",
+   "quote": "Remove the firing pin retaining pin",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — RIFLE DISASSEMBLY, CLEANING & MAINTENANCE, step 8, p.15",
+   "warn": "Do not open or close the split end of the firing pin retaining pin, and NEVER substitute a common cotter pin on reassembly."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Bolt pushed in, firing pin out the back",
+   "action": "Push the bolt into its locked position within the carrier, then tip the carrier and let the firing pin drop out of the rear. Bolt in first — with the bolt forward the firing pin's collar will not clear.",
+   "quote": "Drop the firing pin out of rear of the bolt carrier",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — RIFLE DISASSEMBLY, CLEANING & MAINTENANCE, step 10, p.15"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Cam pin — and read the caliber note before you rotate",
+   "action": "With the bolt still pushed in, rotate the cam pin a quarter turn and lift it out. Windham prints a caliber-specific exception here: on their .308 rifles the cam pin pulls straight out instead. This row is the 5.56 SRC, so the quarter turn is yours — but if the pin resists rotating, check what you are actually holding before you force it.",
+   "prose": "Remove the cam pin by rotating it a quarter turn and lifting it out, per step 11.",
+   "quote": "If you have a .308 rifle, the cam pin pulls straight out. See .308 Addendum",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — RIFLE DISASSEMBLY, CLEANING & MAINTENANCE, note to step 11, p.15"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Bolt straight out of the carrier",
+   "action": "Pull the bolt assembly straight forward out of the carrier. Everything that fouls is now in your hand; the carrier body is the part that cleans itself.",
+   "quote": "Remove the bolt assembly from the bolt carrier by pulling it straight out",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — RIFLE DISASSEMBLY, CLEANING & MAINTENANCE, step 12, p.15"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Clean and inspect the four small parts",
+   "action": "Clean and inspect the bolt, cam pin, firing pin and firing pin retaining pin together, then work the locking lugs, the bolt rings, the firing pin hole and the cam pin itself. Inspect as you clean — a cracked locking lug is found here or it is found the hard way.",
+   "aside": "Clean the bolt locking lugs, bolt rings, firing pin, firing pin hole and cam pin",
+   "quote": "Clean and inspect the bolt, cam pin, firing pin and firing pin retaining pin thoroughly.",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — CLEANING THE BOLT, BOLT CARRIER & COMPONENTS, step 13B, p.16"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Extractor out, with its spring, insert and O-ring",
+   "action": "Press the extractor pin out with the tip of the firing pin or a punch and take the extractor out with its spring, insert and O-ring. There is a rubber insert inside that spring and it is easy to lose — Windham says so twice. Check the extractor lip for chips or broken edges while it is out.",
+   "caution": "It is unlikely, but if the extractor spring should pop out of its recess, reset the spring by pressing it back in its recess with a punch.",
+   "quote": "Remove the extractor with its spring, insert and o-ring",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — CLEANING THE BOLT, BOLT CARRIER & COMPONENTS, step 15, p.16"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Do not pull the ejector",
+   "action": "Leave the ejector alone. Windham does not recommend taking it out for cleaning; a few drops of CLP on it with the bolt out of the carrier is the whole prescribed service, and it is enough.",
+   "quote": "NOTE: Windham Weaponry does not recommend disassembly of the ejector for cleaning.",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — LUBRICATING THE EJECTOR, p.17"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "If it is a .308, this is a different rifle",
+   "action": "One boundary worth knowing even on a 5.56 rifle: Windham's .308 SRC is a separate product whose parts are not interchangeable, with its own addendum, its own cam pin behaviour and its own extractor internals. Do not take parts or procedure across between the two.",
+   "aside": "Record the serial number before shipping, in case you wish to check on the repair status of your Firearm.",
+   "quote": "A CAUTION ABOUT PARTS INTERCHANGEABILITY:  The Windham Weaponry .308 SRC has been developed as a unique product",
+   "cite": "Windham Weaponry Operator's Manual — 2021 Digital Version — ADDENDUM: INFORMATION ON .308 CALIBER RIFLES, p.29"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Clean the gas key with a pipe cleaner or cotton swab, then lightly oil it",
+    "Clean carbon and powder residue from the vent holes and the outer and inner surfaces of the carrier",
+    "Clean the bolt locking lugs, bolt rings, firing pin, firing pin hole and cam pin"
+   ]
+  },
+  {
+   "name": "EXTRACTOR",
+   "tasks": [
+    "Check the extractor for chips and for broken edges on the lip that engages the cartridge rim",
+    "Confirm the rubber insert is inside the extractor spring",
+    "Use CLP on carbon buildup in the extractor pocket and channel of the bolt"
+   ]
+  },
+  {
+   "name": "UPPER, LOWER & MAGAZINE",
+   "tasks": [
+    "Lightly lubricate inside the lower receiver extension, the buffer and the action spring",
+    "Generously lubricate the takedown and pivot pins and their detents",
+    "Clean the inside of the magazine body with a rod and patch, then lightly lubricate the spring"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Reinsert the extractor in the bolt and press it down to reinsert the extractor pin.",
+  "Insert the bolt into the carrier, fit the cam pin and rotate it, then drop the firing pin in from the rear.",
+  "Fit the firing pin retaining pin — the original split pin, never a common cotter pin.",
+  "Run the charging handle back into the receiver so its side tabs clear the cutouts, then the carrier behind it.",
+  "Close the receivers and push the pivot and takedown pins home."
+ ],
+ "fncheck": "With the rifle confirmed clear, cycle the charging handle and confirm the bolt runs and locks on the catch, then confirm the selector moves between SAFE and FIRE."
+}

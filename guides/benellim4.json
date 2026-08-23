@@ -1,0 +1,233 @@
+{
+ "row": "benellim4",
+ "make": "Benelli",
+ "model": "M4",
+ "sourcedFrom": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 (02/2011 (printed as the document code G0093602 - 02/2011; no separate © line))",
+ "sourceSha256": "2ef2fe51bfdb9e236ab0a47def40ea8ee67b6f7e29b366ee55ae3eb285f85aeb",
+ "cleanIntro": "Benelli's own strip for the M4, in Benelli's order and no further. The M4 is the one Benelli in this catalog that is NOT inertia-driven: it runs the ARGO twin gas system — two short pistons in two cylinders tapped off the barrel — and that is the part that actually gets dirty. Benelli's cleaning schedule names dismantling the gas valves as a distinct job whose frequency depends on your ammunition, and then tells you NOT to lubricate the cylinder bores or the pistons. Twenty steps take it to bare parts, including the telescoping stock and the pistol grip, and the book then says the gun is completely stripped.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Know what you are working on: ARGO twin gas, not inertia",
+   "action": "Read the operating principle before you start. The M4 is gas operated with two pistons, two cylinders and two ports, and a rotating bolt head with dual locking lugs.",
+   "prose": "Every other Benelli semi-auto in this catalog — SBE3, M2, Montefeltro — is inertia-driven and has no gas system at all, which means none of their procedures transfer here and none of this transfers there. The twin pistons are why this gun has a cleaning job the others do not, and they are the reason the strip below runs to twenty steps rather than fourteen.",
+   "quote": "The M4 shotgun is a semi-automatic, tubular magazine fed weapon chambered for the 12 gauge (18.4 mm) shotshell cartridge. The operating system employed in this weapon is the improved ARGO (Auto-Regulating Gas Operated) Twin (two gas pistons/cylinders/ ports) System with rotating bolt head with dual locking lugs.",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Operation — p.36"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety catch on — the red ring must disappear",
+   "action": "Press the safety button on the trigger guard until the red ring is no longer visible.",
+   "prose": "Benelli defines the safe state by what you cannot see rather than by which way the button points. One second, done before the action is worked.",
+   "quote": "Press the safety button on the trigger guard until its red ring, indicating firing position, is no longer visible (figs. 12-13).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Gun safety catch — p.52"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chambered round out, then the bolt eased closed",
+   "action": "With the safety engaged and the muzzle safe, open the bolt — the chambered cartridge is extracted and ejected. Close the bolt by gently releasing the cocking lever.",
+   "prose": "Gently. And remember the tube: on the M4 the magazine is a separate reservoir from the chamber, so an empty chamber tells you nothing about the gun until the tube has been emptied too.",
+   "quote": "1) Open the bolt: the cartridge in the cham-\nber will be extracted and ejected (fig. 23). 2) Close the bolt: gently releasing the cock-\ning lever (fig. 24).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Unloading, steps 1-2, p.66"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cocking lever back",
+   "action": "Pull the cocking lever back.",
+   "prose": "The strip opens with the bolt to the rear. This is a positioning step, not a clearing step — you have already cleared the gun, and pulling the lever back now is what lets the next step's drop lever do its job.",
+   "quote": "Stripping procedure 1) Pull the cocking lever back (fig. 26).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, step 1, p.74"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cartridge drop lever, then the fore-end cap off",
+   "action": "Move the cartridge drop lever. Unscrew the fore-end cap.",
+   "prose": "The drop lever sets the feed system so the action will release, and the cap is what holds the fore-end halves and the barrel on the magazine tube. Both are done before anything is pulled.",
+   "quote": "2) Move the cartridge drop lever (fig. 27). 3) Unscrew the fore-end cap (fig. 28).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, steps 2-3, p.76"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel forward along the magazine tube, then the twin forearms DOWNWARD",
+   "action": "Move the barrel forward along the magazine tube, then slide the two forearm halves down and off.",
+   "prose": "The M4's fore-end is in two halves and Benelli's word is \"down\", not forward — that is the detail that separates this gun from the one-piece fore-ends on the rest of the line, and trying to slide them forward jams them against the gas cylinders hanging under the barrel.",
+   "quote": "4) Remove the barrel along the magazine\ntube (fig. 29). 5) Slide down the twin forearms (fig. 30).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, steps 4-5, p.76"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel-breech unit forward off the magazine tube",
+   "action": "Grip the barrel and move it forward to take the whole barrel-breech unit off the receiver.",
+   "prose": "Straight along the tube. The barrel extension is a close fit in the receiver and the gas cylinders are hanging off the underside of the barrel — angle it and you are levering on the gas system, which is the last thing on this gun you want to strain.",
+   "quote": "6) Grip the barrel and move it forward to remove the whole barrel-breech unit from the receiver (figs. 31-32).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, step 6, p.78"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt eased forward under control on the carrier button",
+   "action": "Hold the cocking lever firmly and press the carrier button at the same time, allowing the bolt to move a little way forward until it stops.",
+   "prose": "Two hands, two jobs. You are lowering the bolt off its catch against spring pressure, not releasing it — and the manual's phrase is \"a little way forward\", because it stops at a position where the cocking lever can be twisted out.",
+   "quote": "7) Hold the cocking lever firmly and press the carrier button (fig. 33), allowing the bolt to move a little way forward until it stops (fig. 34).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, step 7, p.78"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cocking lever TWISTED and pulled off, then the bolt out the front",
+   "action": "Twist the cocking lever and pull it off. Then remove the bolt assembly from the receiver, pulling it forward.",
+   "prose": "Note the difference from the rest of the Benelli line: on the M2 and Montefeltro the handle comes off with a straight tug, on the M4 it TWISTS first. Force it straight out and you will be fighting the retention rather than releasing it. Keep the lever to hand — it is the tool for two later steps.",
+   "quote": "8) Twist and pull off the cocking lever (fig. 35).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, step 8, p.80"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin out, holding the pin and its spring",
+   "action": "Remove the firing pin retaining pin while making sure the firing pin and its return spring stay inside the bolt, then remove the firing pin and the firing pin spring.",
+   "prose": "Hold before you pull — the firing pin sits on a compressed spring and the retaining pin is the only thing containing it. Benelli's own reassembly notes for this gun are emphatic that the spring must be refitted and that the pin goes in with fingers, no tools.",
+   "quote": "10) Remove the firing pin, ensuring that the firing pin and the relative return spring remain inside the bolt (fig. 37).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, step 10, p.80"
+  },
+  {
+   "phase": "Strip",
+   "title": "Locking head pin out, then the locking head off",
+   "action": "Remove the locking head pin from its seat, then remove the locking head.",
+   "prose": "This is the head with the dual locking lugs that turn into the barrel extension. Its pin carries a reference line that has to be visible and aligned with the bolt's long axis when it goes back — check that on reassembly rather than trusting feel.",
+   "quote": "12) Remove the locking head pin from its seat (fig. 39).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, step 12, p.82"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger guard pin driven out with the cocking lever as the tool",
+   "action": "Pull the trigger guard pin out using the tip of the cocking lever, then finish driving it out from the left side using the cocking lever end.",
+   "prose": "Benelli nominates the cocking lever you removed at step 8 as the punch, at both ends — tip first, then the head to finish. It is already in your hand and it is the right size, so there is no reason for a screwdriver anywhere near that pin.",
+   "quote": "14) Pull out the trigger guard pin using the cocking lever tip (fig. 41).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, step 14, p.82"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger guard assembly out toward the front",
+   "action": "Press the carrier button and draw the trigger guard assembly out toward the front.",
+   "prose": "The carrier button has to be held or the group will not clear. Do not lever it out against a held carrier.",
+   "quote": "16) Press the carrier button and extract the trigger guard assembly towards the front (fig. 44).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, step 16, p.84"
+  },
+  {
+   "phase": "Strip",
+   "title": "Telescoping stock off — extended first, then a rotate-push-rotate sequence",
+   "action": "Start with the stock extended. Depress the locking button, rotate the stock clockwise viewed from the rear, push it forward to the line marked on the recoil tube, rotate it counter-clockwise, and pull it to the rear off the recoil tube.",
+   "prose": "Five moves in one step, and they only work in that order: the marked line on the recoil tube is where the second rotation lines up with the cut that lets the stock leave. Miss the mark and the stock will not turn; force the turn and you damage the tube it indexes on. Skip this step entirely on a fixed-stock M4.",
+   "quote": "17) Starting with the telescoping stock extended:\na) Depress locking button.\nb) Rotate the stock clockwise (rear view).\nc) Push it forward till the line marked on the recoil tube (fig. 45).\nd) Rotate the stock counter-clockwise.\ne) Pull it to the rear off the recoil tube (figs. 46-47).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, step 17, p.86"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pistol grip unscrewed off the receiver",
+   "action": "Hold the receiver in one hand and unscrew the pistol grip counter-clockwise with the other until it is free.",
+   "prose": "The grip is threaded onto the receiver on this gun rather than bolted through it, which is why it comes off by hand and why it must be run down properly on the way back.",
+   "quote": "18) Take the receiver with a hand and with the other unscrew the pistol grip in a counter-clockwise direction until free (fig. 48).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, step 18, p.88"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gas cylinder plugs out with the cocking lever, then the two pistons forward",
+   "action": "Using the cocking lever, remove the gas cylinder plugs. Then remove the gas pistons from the front end.",
+   "prose": "This is the M4's real cleaning job. There are TWO of everything — two plugs, two pistons, two cylinders — and Benelli's cleaning schedule lists dismantling the gas collection valves as its own item whose frequency depends on the ammunition you shoot. The cocking lever is again the specified tool. Keep each piston with its own cylinder.",
+   "quote": "19) Using the cocking lever, remove the gas cylinder plugs (fig. 49).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, step 19, p.88"
+  },
+  {
+   "phase": "Strip",
+   "title": "Strip complete — Benelli says so in as many words",
+   "action": "You have the barrel-breech unit with its two gas cylinders opened, the two gas pistons and plugs, the two fore-end halves and the cap, the bolt broken down to body, locking head and pin, firing pin and spring, the cocking lever, the trigger guard assembly and its pin, the stock and pistol grip, and the receiver.",
+   "prose": "There is no deeper published user-level procedure in this book. The trigger group comes out and goes back as an assembly and is not taken apart at this level.",
+   "quote": "The gun is now completely stripped: the parts to be inspected and cleaned are all separated.",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Stripping procedure, after step 20, p.88",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Barrel and trigger group cleaned and lubricated after use",
+   "action": "After using the gun, clean and lubricate the barrel, then clean and lubricate the trigger guard assembly — hammer, trigger and the rest.",
+   "prose": "Benelli's cleaning criteria for the M4 are a numbered list of four, and these are the first two. CLP-type oil applied in uniform doses on the metal surfaces is the specification; this is not a place for improvisation with whatever is on the bench.",
+   "quote": "The following must also be carried out after using the gun: 1) clean and lubricate the barrel; 2) clean and lubricate the trigger guard\nassembly (hammer, trigger, etc.);",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Criteria for gun cleaning and lubrication, items 1-2, p.92"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt assembly, then the gas valves — on an ammunition-dependent interval",
+   "action": "Clean and lubricate the bolt assembly. Dismantle the gas collection valves and clean the pistons; how often depends on what you have been shooting.",
+   "prose": "This is the item that makes the M4 different from every other Benelli in the catalog, and Benelli explicitly refuses to give you a round count for it — dirty ammunition fouls the pistons faster. If the gun starts short-stroking, this is the first place to look, not the last.",
+   "quote": "3) clean and lubricate the bolt assembly; 4) dismantle the gas collection valves to\nclean the various pistons (frequency of cleaning will depend on the type of ammunition used).",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Criteria for gun cleaning and lubrication, items 3-4, p.94"
+  },
+  {
+   "phase": "Clean",
+   "title": "DO NOT lubricate the gas cylinders or the pistons",
+   "action": "Clean the cylinder bores and the pistons — and leave them dry. No oil goes inside the cylinder or on the gas collector pistons.",
+   "prose": "This reverses the instinct that everything metal wants a film of oil. Oil in a gas cylinder bakes onto hot carbon and turns loose fouling into a hard varnish that seizes a piston, which is exactly the failure the dry finish is there to prevent. Benelli prints this warning twice in the maintenance pages.",
+   "quote": "IMPORTANT: the inside of the cylinder and gas collector pistons do not require lubricating.",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Criteria for gun cleaning and lubrication — note, p.94"
+  },
+  {
+   "phase": "Clean",
+   "title": "Interval: every 250 shots, and at the end of any shooting session",
+   "action": "Remove dirt and residue at the end of each firing session and in any case once every 250 shots, applying a homogenous layer of CLP-type oil to the metal parts afterwards.",
+   "prose": "A named number is rare in a shotgun manual and worth honouring on a gas gun. Note also what Benelli bans from the cleaning bench: no water-based detergents, and nothing with abrasive, alkaline or acidic additives — gun-specific detergents applied on a soft or chamois cloth only.",
+   "quote": "Frequency of cleaning and function maintenance During gun use, at the end of each fire test, and in any case once every 250 shots, you will need to remove any residues of dirt and/or dust.",
+   "cite": "M4 — Uso • Manutenzione | Use • Maintenance (Benelli multilingual owner's manual) — G0093602 - 02/2011 — Frequency of cleaning and function maintenance — p.94"
+  }
+ ],
+ "deepAbsentReason": "This book publishes ONE teardown, headed \"Stripping procedure\", and closes it with \"The gun is now completely stripped\". It already reaches the two gas pistons and their cylinder plugs, the rotating locking head, the firing pin, the trigger group, the telescoping stock and the pistol grip. There is no further published user-level disassembly for the M4 to promote into a deep clean.",
+ "cleaning": [
+  {
+   "name": "Barrel",
+   "tasks": [
+    "Cleaned and lubricated after use.",
+    "Barrel extension locking recesses, while the barrel is off — the surfaces the dual lugs turn into.",
+    "Gun-specific detergent on a soft or chamois cloth. NO water-based detergents and nothing with abrasive, alkaline or acidic additives."
+   ]
+  },
+  {
+   "name": "Gas system (ARGO twin)",
+   "tasks": [
+    "Both gas cylinder plugs out with the cocking lever; both pistons out the front.",
+    "Carbon cleaned off both pistons and out of both cylinder bores.",
+    "⛔ LEAVE THEM DRY — the inside of the cylinder and the gas collector pistons do not require lubricating.",
+    "Interval depends on the ammunition used; Benelli gives no round count for this item."
+   ]
+  },
+  {
+   "name": "Bolt assembly",
+   "tasks": [
+    "Cleaned and lubricated after use.",
+    "Locking head, its lugs and the locking head pin seat.",
+    "Firing pin, firing pin spring and the firing pin bore."
+   ]
+  },
+  {
+   "name": "Trigger group",
+   "tasks": [
+    "Hammer, trigger and the rest of the assembly cleaned and lubricated after use.",
+    "Cleaned as an assembly; not taken apart at this level."
+   ]
+  },
+  {
+   "name": "All metal surfaces",
+   "tasks": [
+    "A homogenous layer of CLP (Cleaning, Lubricant, Protective) type oil, in uniform doses.",
+    "Re-checked monthly in storage, or every 6 months in the original packing."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Gas pistons back into their own cylinders, dry; gas cylinder plugs run home with the cocking lever.",
+  "Pistol grip screwed clockwise onto the receiver until seated.",
+  "Telescoping stock onto the recoil tube, reversing the rotate-push-rotate sequence against the marked line.",
+  "Trigger guard assembly in from the front with the hammer cocked; trigger guard pin driven back through.",
+  "Locking head onto the bolt and its pin into the seat — the reference line on top of the pin must be VISIBLE and aligned with the bolt assembly's longitudinal axis.",
+  "Firing pin spring must be fitted; firing pin into the bolt carrier BY FINGERS ONLY, no tools, then the retaining pin.",
+  "Bolt assembly into the receiver from the front; cocking lever twisted back into place.",
+  "Barrel-breech unit onto the magazine tube and into the receiver — check the breech extension does not strike the bolt locking head as it goes in.",
+  "Fore-end halves back up onto the barrel, then the fore-end cap screwed down."
+ ],
+ "fncheck": "With the gun proven empty and the muzzle safe: check the locking head pin's reference line is visible and aligned with the bolt's long axis — it is the one assembly error you can see from the outside. Confirm the firing pin spring is in and the retaining pin is seated. Press the safety button until the red ring disappears and confirm it does. Work the cocking lever to confirm the bolt runs and locks back and that the lever does not come out in your hand. Confirm both gas cylinder plugs are fully run down, the pistol grip is tight on the receiver, and the fore-end cap is fully screwed onto the magazine tube."
+}

@@ -1,0 +1,84 @@
+{
+ "row": "weatherbysa08",
+ "make": "Weatherby",
+ "model": "SA-08 / SA-459",
+ "sourcedFrom": "SA-08™ SA-459™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — SA-08 / SA-459 owner's manual (not printed)",
+ "sourceSha256": "9b079d6d0e7d733306faea99613a8f5624344923974ea15215675539298d0940",
+ "cleanIntro": "The SA-08 strips with the bolt closed and in a specific order: forearm off the magazine tube first, then the barrel forward until its shroud clears the receiver. Taking the barrel first binds it, which is the difference between this and Weatherby's Element that comes off as one assembly.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, fingers out of the trigger guard — the whole time",
+   "action": "Weatherby repeats this at the head of every disassembly section in every one of its books, and it is the instruction people skip because it sounds generic. It is not: the next step involves working a bolt on a gun you have not yet proven empty.",
+   "quote": "Keep the muzzle of the shotgun pointed in a safe direction, and keep your fingers out of the trigger guard and away from the trigger at all times.",
+   "cite": "SA-08™ SA-459™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — SA-08 / SA-459 owner's manual — DISASSEMBLY INSTRUCTIONS"
+  },
+  {
+   "phase": "Strip",
+   "title": "Close the bolt with the release button",
+   "action": "Depress the bolt release button to close the bolt before anything comes off.",
+   "quote": "Close the bolt by depressing the bolt release button.",
+   "cite": "SA-08™ SA-459™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — SA-08 / SA-459 owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine cap off",
+   "action": "Unscrew the magazine cap counter-clockwise until it detaches easily.",
+   "quote": "Unscrew the magazine cap by turning it in a counter clock-wise direction until easily detached.",
+   "cite": "SA-08™ SA-459™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — SA-08 / SA-459 owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ FOREARM first, off the magazine tube",
+   "action": "Slide the forearm forward toward the muzzle until it is clear of the magazine tube — before the barrel moves. This is the order that separates the SA-08 from the Element.",
+   "quote": "Remove the forearm by sliding it forward (toward the muzzle), until clear of",
+   "cite": "SA-08™ SA-459™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — SA-08 / SA-459 owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "Then the barrel, until the SHROUD clears the receiver",
+   "action": "Grasp the barrel firmly and push it forward until the barrel shroud is clear of the receiver.",
+   "quote": "Remove the barrel by grasping firmly and pushing forward (in the direction of the muzzle) until the barrel shroud is clear of the receiver.",
+   "cite": "SA-08™ SA-459™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — SA-08 / SA-459 owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Hammer COCKED before the trigger group comes out",
+   "action": "Pull the bolt to the rear and release it so the hammer is cocked, and set the safety to SAFE. A trigger group taken out with the hammer down fights you going back in, and one whose trigger is pulled while it is out of the receiver lets the hammer fall on nothing.",
+   "quote": "Have the safety in the “ON” (“SAFE”) position while cleaning the trigger assembly. Do not pull the trigger while the trigger assembly is outside of the receiver.",
+   "cite": "SA-08™ SA-459™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — SA-08 / SA-459 owner's manual — DISASSEMBLY OF TRIGGER ASSEMBLY FROM RECEIVER"
+  }
+ ],
+ "deepAbsentReason": "Weatherby publishes forearm, barrel and trigger assembly and stops there. ⛔ No deeper path is invented.",
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER AND CHOKES",
+   "tasks": [
+    "Solvent and brush through bore and chamber, patches until clean",
+    "A final lightly oiled patch as a protective film",
+    "Chokes out, threads and seats cleaned before they go back",
+    "⛔ Nothing left in the bore — a patch is an obstruction"
+   ],
+   "quote": "Keep the muzzle of the shotgun pointed in a safe direction, and keep your fingers out of the trigger guard and away from the trigger at all times.",
+   "src": "SA-08/SA-459 owner's manual, DISASSEMBLY INSTRUCTIONS"
+  },
+  {
+   "name": "TRIGGER GROUP — dry, and with the safety ON",
+   "tasks": [
+    "Safety ON while the group is out and being cleaned",
+    "⛔ Never pull the trigger while the group is outside the receiver",
+    "Solvent on a brush, then blow or wipe dry — do not soak it",
+    "A trace of oil only where metal slides on metal"
+   ],
+   "quote": "Have the safety in the “ON” (“SAFE”) position while cleaning the trigger assembly. Do not pull the trigger while the trigger assembly is outside of the receiver.",
+   "src": "SA-08/SA-459 owner's manual, DISASSEMBLY OF TRIGGER ASSEMBLY FROM RECEIVER"
+  }
+ ],
+ "reassembly": [
+  "Safety ON, hammer cocked, trigger assembly back in the receiver.",
+  "Barrel back until the shroud seats in the receiver.",
+  "Forearm onto the magazine tube, then the magazine cap, finger tight.",
+  "Cycle the bolt several times, then function test."
+ ],
+ "fncheck": "Prove it empty at chamber and magazine tube. Cycle the bolt several times. Safety ON, trigger: nothing. Safety off, finger clear: nothing on its own; then the trigger drops the hammer. ⛔ Check the barrel shroud is fully seated and the magazine cap is tight before the gun is loaded."
+}

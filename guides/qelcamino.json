@@ -1,0 +1,169 @@
+{
+ "row": "qelcamino",
+ "make": "Q",
+ "model": "El Camino",
+ "sourcedFrom": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet (2021)",
+ "sourceSha256": "6b557ebc299de88a4c1c8e99f296617c7cb62a0d5719fadcb87636bf9cc58857",
+ "cleanIntro": "Q's .22 can: 5.95 inches, .99 in diameter, 4.3 oz of stainless and titanium on a 1/2-28 direct thread. It IS user-serviceable, but only from one end — the front cap unscrews and seven baffles come out the front, and Q bars the rear cap outright. Rimfire fouling is what drives the schedule here: Q asks for a clean every 1,000 rounds.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host — bolt or slide locked back",
+   "action": "Magazine out, bolt or slide locked to the rear, then inspect the chamber and magazine well by eye and by finger. Q writes the rule to cover both a .22 rifle and a .22 pistol because the El Camino is rated for both, so the wording names either a bolt or a slide.",
+   "prose": "A .22 rifle's chamber is small, dark and easy to misread. The finger check is not optional.",
+   "quote": "•BEFORE REMOVING ANY SILENCER FROM ITS HOST FIREARM: REMOVE THE MAGAZINE FROM YOUR FIREARM, MAKE SURE THE BOLT OR SLIDE IS LOCKED TO THE REAR AND THE FIREARM IS UNLOADED BY PERFORMING A PHYSICAL AND VISUAL INSPECTION OF CHAMBER AND MAGAZINE WELL.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — DISASSEMBLY, p.1",
+   "warn": "Physical AND visual, on both the chamber and the magazine well."
+  },
+  {
+   "phase": "Clear",
+   "title": "The FINE PRINT sheet ships with the can",
+   "action": "Q requires this sheet and the accompanying FINE PRINT sheet to be read and understood before the silencer is used. Neither of them tells you how to clear your host firearm — use that firearm's own manual for the clearing sequence and this sheet only for the can.",
+   "prose": "One page of tech data plus a legal sheet is Q's whole documentation set for this product. Treat it as two documents, not one.",
+   "caution": "Two documents. Both required.",
+   "quote": "•BEFORE USING THIS SILENCER: BE CERTAIN YOU HAVE READ AND UNDERSTAND THIS MANUAL AND THE ACCOMPANYING “FINE PRINT” SHEET.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — MORE LAWYER SHIT, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "El Camino cartridge whitelist — three cartridges, not a class",
+   "action": "Confirm the host cartridge against Q's list before mounting. The El Camino is licensed for exactly three: 22 LR, 17 HMR and 5.7 X 28MM. That is a whitelist, not a bore-diameter class — anything else, including other .22 centrefires that fit the bore, is outside what Q rates the can for.",
+   "prose": "5.7x28 is the outlier on that list and the reason the El Camino, and not the aluminium Erector, is the Q .22 can that takes it.",
+   "aside": "The three bullets printed immediately beneath that line are 22 LR, 17 HMR and 5.7 X 28MM.",
+   "quote": "•THE Q EL CAMINO IS ONLY FOR USE WITH:",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — MORE LAWYER SHIT, p.1",
+   "warn": "Three cartridges only: 22 LR, 17 HMR, 5.7x28mm."
+  },
+  {
+   "phase": "Clear",
+   "title": "Factory SAAMI or C.I.P. approved ammunition only",
+   "action": "Q restricts the El Camino to factory certified SAAMI or C.I.P. approved ammunition. Rimfire is the category where bulk and remanufactured ammunition is most tempting and where an underpowered round leaving a bullet in the bore is most likely.",
+   "prose": "A squib in a .22 with a can on the end puts the next bullet into a stack of stainless baffles at a dead stop.",
+   "quote": "•ONLY USE FACTORY CERTIFIED SAAMI/C.I.P. APPROVED AMMUNITION WITH THIS Q SILENCER.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — MORE LAWYER SHIT, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the barrel thread length before it goes back on",
+   "action": "Look at how far the 1/2-28 threads run on your barrel. Q supplies a spacer with the can, and it is required if the threads are longer than .525 inches or if you can still see thread with the silencer fitted. Without it the can bottoms on the thread rather than pulling up square, which is a direct alignment problem.",
+   "prose": "Visible thread with the can screwed home is the tell. If you can see it, the spacer belongs in there.",
+   "caution": ".525 inches is the published thread-length limit for this can.",
+   "quote": "If your barrel threads are longer than .525 inches or you can see barrel threads when the silencer is attached, install the provided spacer for proper ﬁt.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — INSTALLATION ONTO THE HOST FIREARM, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the El Camino off the muzzle",
+   "action": "With the host cleared, unthread the can counter-clockwise off the 1/2-28 muzzle threads. It is a 4.3 oz can on a fine thread, so it will usually come off by hand — never force it with a strap or pliers on the .99 in tube.",
+   "prose": "Q's step one for disassembly is exactly this and nothing more: get it off the gun before anything else happens.",
+   "quote": "1. Remove silencer from ﬁrearm.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — DISASSEMBLY, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The El Camino is off the host and the strip Q publishes for routine handling ends here. Everything past this point — front cap off, baffles out — is the Deep Clean, and Q sets its own trigger for it: a clean every 1,000 rounds. That interval is not arbitrary on a rimfire can, because unjacketed lead builds up faster than carbon does.",
+   "prose": "Between deep cleans, the useful habit is checking that the can is still tight on the barrel and that the exit hole is unmarked.",
+   "quote": "•NOTE: Q, LLC RECOMMENDS CLEANING YOUR SILENCER EVERY 1,000 ROUNDS.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — CLEANING & MAINTENANCE, p.1",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Front end cap off — 1/2 inch socket, counter-clockwise",
+   "action": "Stand the can on the bench and put a standard 1/2 in socket on the FRONT end cap, then turn counter-clockwise. Q names the tool and the direction explicitly. The cap is the only threaded joint on this can you are allowed to break, and it should move without heat or leverage — if it will not, the can is fouled harder than a socket will fix.",
+   "prose": "Do this with the can off the gun and the host still locked open on the bench behind you, so there is no moment where a partly-open can is on a live rifle.",
+   "quote": "2. Remove the front end cap of the silencer with a standard 1/2 in socket in a counter-clockwise direction.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — DISASSEMBLY, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ The rear end cap does not come off",
+   "action": "Do not touch the rear cap. Q prints this as a WARNING in its own right, and it is the boundary between servicing the can and destroying it — the rear cap carries the barrel threads and the datum the whole baffle stack indexes off. There is no published procedure for removing it and no reason to.",
+   "prose": "If the baffles will not clear the tube from the front, the answer is more soak time and a wooden dowel, not the other end.",
+   "quote": "WARNING - DO NOT ATTEMPT TO REMOVE REAR END CAP FROM SILENCER.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — DISASSEMBLY, p.1",
+   "warn": "Rear end cap: prohibited by the manufacturer."
+  },
+  {
+   "phase": "Strip",
+   "title": "Seven baffles out the front, muzzle down",
+   "action": "Turn the can so the front is pointing DOWN and let the baffles come out of the tube into your hand. There are seven. Orienting the can front-down is Q's instruction and it matters: gravity does the work, so nothing has to be poked or levered against a .99 in tube wall.",
+   "prose": "Lay them out in the order they leave the tube even though Q allows any order on reassembly — it makes it obvious if one is missing or if one has been struck.",
+   "caution": "Seven baffles. Count them out and count them back.",
+   "aside": "Quoted as the text extraction renders it — the ffl ligature in 'baffles' is dropped throughout this sheet.",
+   "quote": "3. Orient front of the silencer down and remove 7 ba es from the tube.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — DISASSEMBLY, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrub carbon and lead off baffles, tube and front cap",
+   "action": "Work a piece of solvent-moistened Scotch-Brite or a nylon brush over the baffles, the inside of the tube and the front cap. On a rimfire can the deposit is lead as much as carbon, so it comes off by abrasion and soak rather than by solvent alone — but nothing metal goes near it.",
+   "prose": "Q's tool prohibition is absolute and it is about the stainless and titanium surfaces: a steel pick leaves a scratch that fouling then keys into.",
+   "quote": "Using a piece of solvent-moistened Scotch-Brite™ or a nylon brush, clean carbon deposits from ba es, tube, and front cap.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — CLEANING & MAINTENANCE, p.1",
+   "warn": "•DO NOT USE METAL TOOLS FOR CLEANING."
+  },
+  {
+   "phase": "Clean",
+   "title": "Baffles back in — concave side toward the front",
+   "action": "Feed the baffles back into the tube with their CONCAVE sides facing the front of the silencer. Q allows any order among the seven, so the only thing you can get wrong is the direction — and a reversed baffle is a bullet strike waiting to happen.",
+   "prose": "Check each one as it goes in rather than at the end. Once the stack is in the tube you cannot see which way any of them face.",
+   "caution": "Order is free. Direction is not.",
+   "quote": "1.Insert the ba es into the silencer tube with concave sides of ba es facing toward the front of the silencer, in any order, as shown below.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — ASSEMBLY, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Front cap back on — 50 in-lbs ceiling",
+   "action": "Start the front cap by hand to be certain the thread has picked up straight, then run it clockwise with a standard 1/2 inch socket to NO MORE THAN 50 in-lbs. That is a low figure and it is a ceiling, not a target — this is a small-diameter can and the cap threads are shallow.",
+   "prose": "Q warns about cross-threading in the same breath. Fifty inch-pounds through a cross-threaded cap will strip it.",
+   "quote": "2.Reattach the front end cap clockwise using a standard 1/2 inch socket with no more than 50 in-lbs torque.",
+   "cite": "EL CAMINO BY Q™ — NOT PRINTED — no REV line on this sheet — ASSEMBLY, p.1",
+   "warn": "•USE CARE NOT TO CROSS THREAD"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BAFFLE STACK",
+   "tasks": [
+    "Clean carbon and lead off all seven baffles with solvent-moistened Scotch-Brite or a nylon brush",
+    "Never use metal tools on them",
+    "Check each baffle's bore for a strike mark before it goes back in",
+    "Reinstall with the concave side facing the FRONT of the can"
+   ]
+  },
+  {
+   "name": "TUBE AND FRONT CAP",
+   "tasks": [
+    "Clean the inside of the tube and the front cap the same way",
+    "Inspect the front cap's exit hole for eccentric wear",
+    "Reattach the front cap at no more than 50 in-lbs, taking care not to cross thread"
+   ]
+  },
+  {
+   "name": "MUZZLE INTERFACE",
+   "tasks": [
+    "Clean the 1/2-28 barrel threads before the can goes back on",
+    "Fit the supplied spacer if the barrel threads exceed .525 inches or thread is visible with the can fitted",
+    "Leave the rear end cap alone — Q prohibits removing it"
+   ]
+  },
+  {
+   "name": "SCHEDULE",
+   "tasks": [
+    "Q recommends cleaning this silencer every 1,000 rounds",
+    "Wear proper personal protective equipment for all cleaning and maintenance"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Insert the seven baffles into the tube with their concave sides facing toward the front, in any order.",
+  "Start the front end cap by hand, then tighten it clockwise with a standard 1/2 inch socket to no more than 50 in-lbs, taking care not to cross thread.",
+  "Leave the rear end cap fitted — Q prohibits removing it.",
+  "Fit the supplied spacer if your barrel threads exceed .525 inches, then thread the can back onto the 1/2-28 muzzle."
+ ],
+ "fncheck": "With the front cap torqued and the can back on the muzzle, confirm it has pulled up square with no visible barrel thread showing behind it — if thread is visible, the supplied spacer is missing. Sight through from the front and check the baffle bores line up as one clear channel with no step or shadow. Any misalignment, or any baffle that felt loose going in, and the cap comes off and the stack gets re-seated before it is fired."
+}

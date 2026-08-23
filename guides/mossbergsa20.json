@@ -1,0 +1,101 @@
+{
+ "row": "mossbergsa20",
+ "make": "Mossberg",
+ "model": "SA-20 / SA-28",
+ "sourcedFrom": "20 GAUGE AUTOLOADING SHOTGUN — Mossberg owner's manual — Part No. 18478 (not printed)",
+ "sourceSha256": "4becffdbc8bc5f6a596083c639154e8ea1adbe4ca8db88edde99c2a1faf47b77",
+ "cleanIntro": "The SA is a gas autoloader that comes apart in three movements: magazine cap, forearm forward, barrel out with the gas piston still in its cylinder. The one step worth slowing down for is the bolt — the operating handle only comes out at one point in the action's travel, and forcing it anywhere else marks the bolt.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety button protruding on the RIGHT — that is ON",
+   "action": "On an SA the safety is a crossbolt at the trigger guard: pushed through so it protrudes out the RIGHT side is ON. Check it by looking and by feeling for the protrusion, then check the chamber, elevator and magazine tube.",
+   "quote": "Position the safety button so it is protruding fully out the right side of the trigger guard indicating the “ON” (SAFE) position, and visually and physically check the chamber, elevator and magazine tube to be certain the shotgun is unloaded before disassembling the firearm.",
+   "cite": "20 GAUGE AUTOLOADING SHOTGUN — Mossberg owner's manual — Part No. 18478 — DISASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Eye protection on",
+   "action": "Glasses before the magazine cap turns.",
+   "quote": "Wear eye protection during disassembly and cleaning.",
+   "cite": "20 GAUGE AUTOLOADING SHOTGUN — Mossberg owner's manual — Part No. 18478 — DISASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt back and locked, magazine cap off",
+   "action": "Pull the bolt operating handle back as far as it goes — it should stay locked back — then unscrew the magazine cap counterclockwise.",
+   "quote": "Pull the bolt operating handle back as far as it will go— it should stay locked back. Unscrew the magazine cap (counter clockwise) and remove it.",
+   "cite": "20 GAUGE AUTOLOADING SHOTGUN — Mossberg owner's manual — Part No. 18478 — REMOVING THE FOREARM"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forearm forward off the tube",
+   "action": "Slide the forearm toward the muzzle and take it off.",
+   "quote": "Slide the forearm toward the muzzle, and remove it.",
+   "cite": "20 GAUGE AUTOLOADING SHOTGUN — Mossberg owner's manual — Part No. 18478 — REMOVING THE FOREARM"
+  },
+  {
+   "phase": "Strip",
+   "title": "Ride the bolt forward, then the barrel out",
+   "action": "Hold the operating handle, press the bolt release, and let the bolt travel slowly fully forward. With it forward, draw the barrel out of the receiver with the gas piston still assembled in the gas cylinder portion of the barrel.",
+   "aside": "Note: If the gas piston remains on the magazine tube after the barrel is removed slide the gas piston forward to remove it.",
+   "quote": "With the bolt fully forward, pull the barrel out of the receiver with the gas piston assembled in the gas cylinder portion of the barrel",
+   "cite": "20 GAUGE AUTOLOADING SHOTGUN — Mossberg owner's manual — Part No. 18478 — REMOVING THE BARREL"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Bolt out — the handle only clears at one point in the travel",
+   "action": "Push the action back about a third of its travel and hold it there, then move the bolt so its notch lines up with the raised protrusion on the operating handle. Only then does the handle pull straight out. Anywhere else and you are levering against the protrusion.",
+   "quote": "Hold the action in this position and move the bolt to align the notch in the bolt with the raised protrusion on the operating handle",
+   "cite": "20 GAUGE AUTOLOADING SHOTGUN — Mossberg owner's manual — Part No. 18478 — REMOVING THE BOLT"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide and bolt out through the barrel hole",
+   "action": "Let the action travel slowly fully forward, then take the bolt action slide and bolt assembly out through the barrel hole in the receiver.",
+   "quote": "Remove the bolt action slide and bolt assembly through the barrel hole in the receiver.",
+   "cite": "20 GAUGE AUTOLOADING SHOTGUN — Mossberg owner's manual — Part No. 18478 — REMOVING THE BOLT"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger housing pin — 1/8\", either direction",
+   "action": "Push the trigger housing retaining pin out with a blunt object no larger than 1/8\". It goes either way, which is unusual enough that the book says so.",
+   "quote": "Push out the trigger housing retaining pin using a blunt object no larger than 1/8\" diameter (See Figure 12). The pin can be pushed out from either direction.",
+   "cite": "20 GAUGE AUTOLOADING SHOTGUN — Mossberg owner's manual — Part No. 18478 — REMOVING THE TRIGGER HOUSING ASSEMBLY"
+  }
+ ],
+ "deepAbsentReason": "The SA book publishes one teardown and stops at the trigger housing. ⛔ No deeper path is invented for it.",
+ "cleaning": [
+  {
+   "name": "GAS SYSTEM AND BARREL",
+   "tasks": [
+    "Piston and gas cylinder with solvent and a brass brush",
+    "Bore and chamber, patches until clean",
+    "Light oil, wiped back",
+    "Chokes out, threads cleaned"
+   ],
+   "quote": "Wear eye protection during disassembly and cleaning.",
+   "src": "20 GAUGE AUTOLOADING SHOTGUN — Mossberg owner's manual, DISASSEMBLY"
+  },
+  {
+   "name": "BOLT, SLIDE AND RECEIVER",
+   "tasks": [
+    "Bolt face, extractor and locking recesses",
+    "The receiver's slide tracks",
+    "The magazine tube where the slide rides",
+    "Sparing oil — an autoloader runs cleaner dry than wet"
+   ],
+   "quote": "Remove the bolt action slide and bolt assembly through the barrel hole in the receiver.",
+   "src": "20 GAUGE AUTOLOADING SHOTGUN — Mossberg owner's manual, REMOVING THE BOLT"
+  }
+ ],
+ "reassembly": [
+  "Safety ON. Bolt and slide back through the barrel hole.",
+  "Action held a third back, bolt notch to the operating-handle protrusion, handle pushed straight in.",
+  "Trigger housing in, retaining pin flush.",
+  "Barrel in with the gas piston in its cylinder, seated fully.",
+  "Forearm on, magazine cap finger tight.",
+  "Function test before it is put away."
+ ],
+ "fncheck": "Safety ON — protruding out the right side — and prove the chamber, elevator and tube empty. Lock the bolt back and release several times; it should return to battery and lock each time. Safety ON, trigger: nothing. Safety off, finger clear: nothing on its own; then the trigger drops the hammer. ⛔ Short-stroking on an SA is nearly always the gas piston or a barrel not fully seated."
+}

@@ -1,0 +1,132 @@
+{
+ "row": "iwitavorsar",
+ "make": "IWI",
+ "model": "Tavor SAR",
+ "sourcedFrom": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A (2022)",
+ "sourceSha256": "0194c5c39863f1b9645f273ffea368021f80265ee58bbc803eb93448c00efd02",
+ "cleanIntro": "The Tavor SAR's own book, not the X95's. They look alike and they are not the same procedure: on the SAR the SEAR MECHANISM COMES OUT FIRST — it is a stated precondition of removing the recoil mechanism, and a CAUTION on the installation page repeats it — and the SAR's cleaning routines remove the sear on every trip, before and after firing.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety lever to SAFE, magazine out",
+   "action": "Thumb the safety lever to S first, then press the magazine release lever and draw the magazine down and out of the butt. Hold the grip with your strong hand and keep the trigger finger straight along the frame. On this bullpup the magazine well is behind the trigger group, so nothing about the order is optional — the chamber sits close to your face and the safety goes on before your hand goes near the cocking handle.",
+   "aside": "Press the magazine release lever and pull the magazine down and out of the rifle.",
+   "quote": "Using your thumb, ensure that the safety lever is positioned to S, “SAFE” (see Safety Lever Positions on p. 28).",
+   "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 10.1.1 Unloading and Safety Check, step 1, printed p.31 (PDF page 36)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Muzzle up 60°, cocking handle worked three times, bolt locked back",
+   "action": "Raise the muzzle sixty degrees and cycle the cocking handle fully three times, releasing it each time so the carrier runs forward hard. Then lean forward, turn the rifle so the butt lies horizontal with its right side uppermost, brace it, pull the cocking handle fully back and push in the front end of the bolt carrier stop, easing the bolt forward a fraction to catch it. Riding the handle forward defeats the whole point of the three cycles.",
+   "prose": "Pull and hold the cocking handle fully to the rear with support hand and move your strong hand to push in the front end of the bolt carrier stop, letting the bolt then move slightly forward to lock the bolt back (to the rear).",
+   "quote": "Cock and release the cocking handle fully three times releasing the cocking handle to let the bolt carrier move forcefully each time (do not “RIDE” the cocking handle forward).",
+   "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 10.1.1 Unloading and Safety Check, step 5, printed p.32 (PDF page 37)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Muzzle down 45°, chamber checked with a light",
+   "action": "Lower the muzzle forty-five degrees below horizontal and look into the barrel chamber. It is deep in the receiver behind the grip and it is dark; the manual's instruction is to bring a flashlight rather than guess. Then close the bolt — cocking handle back and release, or depress the rear of the bolt carrier stop — drop the hammer on FIRE, and put the lever back to SAFE.",
+   "aside": "Pull back on the cocking handle and release, or depress the rear of the bolt carrier stop, to close the bolt for storage.",
+   "quote": "Check visually that the barrel chamber is empty (“CLEAR”).",
+   "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 10.1.1 Unloading and Safety Check, step 7, printed p.32 (PDF page 37)",
+   "warn": "You must not “think” the chamber is empty, you must KNOW it is empty, because if you are wrong, death or serious injury may result."
+  },
+  {
+   "phase": "Strip",
+   "title": "Sear mechanism out FIRST — this is the SAR's own order",
+   "action": "Press the two sear locking pins from the RIGHT side and pull them through to the LEFT until they stop; they are captive and must not come out. Open the bolt carrier stop lever and lift the sear mechanism out of the rifle. On the SAR this is step 2 of both the pre-firing and the post-firing routine and it is a stated precondition of removing the recoil mechanism. Do NOT let the hammer fall once it is out — with the housing gone the hammer damages the frame.",
+   "caution": "Do not release the hammer when the sear mechanism is removed from the rifle. This will damage the housing.",
+   "quote": "DO NOT PULL THE LOCKING PINS OUT COMPLETELY.",
+   "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 14.1.3 Sear Mechanism, Removal, step 1, printed p.62 (PDF page 67)",
+   "warn": "Remove the sear mechanism (see pp. 62-63)."
+  },
+  {
+   "phase": "Strip",
+   "title": "Butt locking pin across, butt open, recoil mechanism out",
+   "action": "Push the butt locking pin in from the right and draw it across to the left until it stops — captive again, so it stays in the rifle. Swing the butt open and pull the recoil mechanism straight out of the rear. The bolt carrier, bolt, firing pin, return spring and buffer all leave as one unit. The 14.1.4 initial setup for this on the SAR reads \"Sear mechanism removed (see p. 62).\" as well as the unloading check.",
+   "aside": "DO NOT PULL THE PIN OUT COMPLETELY.",
+   "quote": "Sear mechanism removed (see p. 62).",
+   "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 14.1.4 Recoil Mechanism, Initial Setup, printed p.64 (PDF page 69)",
+   "warn": "The X95 manual has no such precondition on this step. Do not read across from an X95 guide, and do not read this one across to an X95."
+  },
+  {
+   "phase": "Strip",
+   "title": "Return spring back, bolt rotation control bar into its notch",
+   "action": "Set the recoil mechanism into its rearward position before it comes apart. On a 5.56 NATO SAR that means pulling on the plastic buffer and running the return spring subassembly all the way to the rear, then pulling the bolt rotation control bar back until it stops and sits flush with the buffer. Keep pulling past the little resistance and it snaps into the removal notch — the bar's rear then stands 5/16 of an inch proud of the buffer.",
+   "aside": "all the way to the rear.",
+   "quote": "The rear of the bar will protrude 5/16 of an inch through the back of the buffer.",
+   "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 14.2.1.1 Gas-Operated Recoil mechanism, Disassembly, step 1, 5.56 NATO configuration, printed p.77 (PDF page 82)",
+   "warn": "The figure is configuration-specific. In 300 BLK configuration the same manual gives 1.43 inch, and there is no plastic-buffer pull in that branch. Use the number for the rifle in your hands."
+  },
+  {
+   "phase": "Strip",
+   "title": "5 mm punch on the bolt guiding pin, bolt and firing pin unit out",
+   "action": "Use a 5 mm punch to push out the bolt guiding pin, then draw the bolt assembly and the firing pin unit out of the carrier and slide the firing pin spring off the firing pin. The SAR book calls the punch size explicitly for this pin; going at it with whatever is to hand is how the carrier's pin bore gets belled. Going back in, the guiding pin is seated with thumb pressure only.",
+   "aside": "Separate the bolt guiding pin, bolt assembly, firing pin and spring from the bolt carrier (see pp. 77-78).",
+   "quote": "Using a 5 mm punch, push out the bolt guiding pin",
+   "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 14.2.1.1 Gas-Operated Recoil mechanism, Disassembly, step 2, printed p.78 (PDF page 83)"
+  },
+  {
+   "phase": "Strip",
+   "title": "If yours is a 300 BLK, the gas regulator comes out as well",
+   "action": "A SAR in 300 Blackout has a two-position gas regulator built into the barrel, and the post-firing routine adds two steps: pull the regulator and clean the gas ports of the barrel and of the regulator. The 5.56 NATO and 9mm Para rifles do not have one — 9mm is blowback and has no gas system at all — so on those the steps simply do not exist. Check the barrel marking before hunting for a part that was never fitted.",
+   "aside": "Clean the gas ports of the barrel and gas regulator.",
+   "quote": "Steps 4 and 5 are only applicable to 300 BLK models.",
+   "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — 12.3 Post-Firing Maintenance, NOTE, printed p.44 (PDF page 49)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the book stops here",
+   "action": "Sear mechanism out, recoil mechanism out and broken down to bolt, firing pin, spring and carrier, and on a 300 BLK the gas regulator out too. That is IWI's whole operator-level strip for the SAR. Section 14 closes with a STOP notice: anything further is armorer work, and the penalties the manual names for ignoring it are not warranty penalties alone.",
+   "quote": "armorers can result in damage to or destruction of",
+   "cite": "IWI TAVOR® SAR Semi-Automatic Rifle Operator Manual — P/N: 08011011300, Rev.: A — STOP! / WARNING! preceding section 15 Exploded View Diagrams, printed p.93 (PDF page 98)",
+   "warn": "After the installation of a new bolt the rifle must be checked for correct headspace with GO and NO-GO gauges before it is fired.",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The SAR book publishes deeper procedures — 14.1.5 through 14.1.11 and all of 14.2 reach the flattop rail, swivel sleeve and lock, foregrip, cocking group, barrel group, dust protection plate, magazine adapter and body assembly — but it never presents them as cleaning. Its three cleaning routines (12.2 Pre-Firing, 12.3 Post-Firing, 12.4 Maintenance Before Storing, printed pp.44-48) call for exactly three removals: the sear mechanism, the recoil mechanism, and on 300 BLK models the gas regulator, all of which are walked above. Section 14 then closes with a STOP notice against disassembling the rifle further unless you are a factory-trained and certified TAVOR SAR armorer, and any bolt change requires a GO/NO-GO headspace check by a competent gunsmith or by IWI US, Inc. Nothing deeper was constructed from the section 15 exploded views, which are parts-identification drawings.",
+ "cleaning": [
+  {
+   "name": "BARREL & CHAMBER",
+   "tasks": [
+    "Pass the cleaning rod with a cleaning patch through the barrel, always from the chamber end towards the muzzle",
+    "Use the brass barrel bore brush and let it clear the muzzle before pulling back through, several times",
+    "Use the chamber and barrel extension brush on the chamber and on the barrel extension's locking lugs"
+   ]
+  },
+  {
+   "name": "RECOIL MECHANISM",
+   "tasks": [
+    "Clean bolt, firing pin, spring and carrier thoroughly and inspect them for cracks and fractures",
+    "One drop of the factory-supplied oil on each bolt carrier rail where it meets the insert receiver rails, both sides",
+    "Oil the bolt locking lugs and the bolt locking helix",
+    "Verify the extractor and ejector springiness before it goes back together"
+   ]
+  },
+  {
+   "name": "BODY & SEAR MECHANISM",
+   "tasks": [
+    "Clean the exterior body with the general cleaning brush",
+    "Use the internal receiver cleaning brush on the interior body",
+    "Clean the metal surfaces of the sear mechanism with the general cleaning brush",
+    "With the hammer cocked, lightly lubricate the hammer spring coils"
+   ]
+  },
+  {
+   "name": "GAS SYSTEM — 300 BLK MODELS ONLY",
+   "tasks": [
+    "Remove the gas regulator and clean the gas ports of the barrel and of the regulator",
+    "Leave 5.56 NATO and 9mm Para rifles alone here — neither carries this part"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Put the firing pin spring on the firing pin, insert the firing pin unit into the bolt carrier, fit the bolt assembly, then seat the bolt guiding pin with thumb pressure only.",
+  "Set the recoil mechanism into its forward position and slide it forward into the body through the rear.",
+  "Close the butt and press the butt locking pin across to lock it.",
+  "Place the sear mechanism in the body with the hammer COCKED, close the bolt carrier stop lever, and push both locking pins fully home.",
+  "On a 300 BLK, install the gas regulator and set it to the correct position for the ammunition — 1 supersonic, 2 subsonic.",
+  "Before inserting the recoil mechanism the manual's own check is that the sear mechanism has been removed; on the way back the sear goes in after the recoil mechanism, not before."
+ ],
+ "fncheck": "Run IWI's Complete Function Test before treating the rifle as ready: check it for completeness, pull the cocking handle to the rear and release it and verify proper and free movement of the parts, then on FIRE cock and release the trigger slowly until the hammer drops, cock again with the trigger held and confirm it does not release, release the trigger and listen for the reconnection click, then confirm the hammer releases. Last, hook a dummy round or spent case under the extractor claw, let the bolt close on it, and cycle the cocking handle to confirm it ejects through the port."
+}

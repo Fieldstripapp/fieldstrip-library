@@ -1,0 +1,112 @@
+{
+ "row": "cgshyperion",
+ "make": "CGS",
+ "model": "Hyperion",
+ "sourcedFrom": "CGS Hyperion Suppressor Manual — Rev 1 (10.28.20 R1) (undated — no copyright line is printed)",
+ "sourceSha256": "476783c2d5dfd9ae51d2301717e16a4f83122476e85c3e3dd4c6fba253f5d870",
+ "cleanIntro": "A 3D-printed 7.62 can with a modular front cap. The front cap is the only thing that unthreads; the core is serviced by soaking, not by taking apart.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host firearm first",
+   "action": "Take the magazine out of the rifle, then check and clear the action and chamber both by eye and by hand. CGS makes this step 1 of mounting for a reason — the whole procedure happens with your hands at the muzzle end of a rifle, which is the one place a chambered round is unforgiving. For the host's own safety features and handling, read that firearm's manual.",
+   "quote": "Remove the magazine from the firearm, then visually and manually check and clear the action and chamber of the firearm. Make sure the host firearm is unloaded at all times.",
+   "cite": "CGS Hyperion Suppressor Manual — Rev 1 (10.28.20 R1) — INSTALLATION, step 1, p.6",
+   "warn": "The host firearm's own manual governs how that rifle is cleared. This suppressor manual does not teach it."
+  },
+  {
+   "phase": "Clear",
+   "title": "Let it cool, and weigh it while you are here",
+   "action": "A suppressor off a rifle it has just been fired through is hot enough to burn. While it cools, put it on a scale: CGS's whole maintenance schedule is weight-based, and the number only means something if you have been recording it from new.",
+   "quote": "It is recommended that the suppressor be weighed prior to use and recorded, and at intervals of 1000-3000 rounds depending on the ammunition being used record the weight and round count.",
+   "cite": "CGS Hyperion Suppressor Manual — Rev 1 (10.28.20 R1) — MAINTENANCE, step 1, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Unthread the Hyperion from the barrel",
+   "action": "Reverse the mounting: unthread the can counterclockwise off the barrel. If it was torqued on for extended use, hold the rifle with an armorer's tool at the receiver rather than twisting against the gas system — the manual names that risk explicitly when it tells you how to tighten it.",
+   "aside": "Thread the assembled Hyperion clockwise onto the barrel threads, being careful not to cross thread, until hand tight and secure against the shoulder of the barrel.",
+   "quote": "To uninstall, simply reverse Steps 3 and 4.",
+   "cite": "CGS Hyperion Suppressor Manual — Rev 1 (10.28.20 R1) — INSTALLATION, note, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front cap off — that is the strip",
+   "action": "Unthread the front cap from the front of the Hyperion, reversing the assembly steps. It goes on at 20-25 ft/lb with a torque wrench on the 7/8\" flats, so expect it to want a wrench coming off too. This cap is the whole of the user-serviceable disassembly and it is what makes the can modular between standard-function and flow-bypass.",
+   "aside": "Front Caps should be tightened to the Hyperion at 20-25ft/lb.",
+   "quote": "To disassemble, simply reverse Steps 1 through 3.",
+   "cite": "CGS Hyperion Suppressor Manual — Rev 1 (10.28.20 R1) — ASSEMBLY / DISASSEMBLY, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the taper shoulders and the threads",
+   "action": "With the cap off, check the taper shoulders are clean and that the threads are greased. The shallow taper joints are what hold this can concentric — carbon on a taper shoulder is not cosmetic, it is a can that no longer sits square to the bore.",
+   "quote": "Prior to use, ensure all taper shoulders are clean, threads are greased, and that components are properly shouldered against their corresponding surfaces and tightly secured to correct torque values.",
+   "cite": "CGS Hyperion Suppressor Manual — Rev 1 (10.28.20 R1) — ASSEMBLY / DISASSEMBLY, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The can is off the rifle and its front cap is off. That is as far as the Hyperion comes apart. CGS's proprietary coating is designed to keep build-up out of the core in the first place, and the deeper service is a solvent soak rather than a teardown.",
+   "quote": "Proprietary coating prevents copper/carbon/lead/etc build up within the silencer, but the silencer can still be serviced if and when necessary.",
+   "cite": "CGS Hyperion Suppressor Manual — Rev 1 (10.28.20 R1) — PRODUCT FEATURES, p.1",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Only clean it if the scale says so",
+   "action": "Do not clean this can on a schedule. Weigh it and compare against the base weight you recorded when it was new; an ounce or two over is CGS's threshold. Cleaning a titanium can that does not need it costs you more than leaving it alone.",
+   "quote": "Once the Hyperion is an extra ounce or two over the base weight, it is a good time to clean the silencer. Only clean if actually necessary.",
+   "cite": "CGS Hyperion Suppressor Manual — Rev 1 (10.28.20 R1) — MAINTENANCE, step 1, p.7"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Front cap off, core into a titanium-safe solvent",
+   "action": "With the front cap removed, put the Hyperion core into a titanium-safe solvent and leave it for a day or two. Titanium-safe is the operative word — the wrong dip will attack this can rather than the fouling in it, and there is no way back from that.",
+   "quote": "If cleaning becomes necessary, disassemble, and dunk the Hyperion Core in a titanium safe solvent for 24-48 hours.",
+   "cite": "CGS Hyperion Suppressor Manual — Rev 1 (10.28.20 R1) — MAINTENANCE, step 2, p.7",
+   "warn": "Use a titanium-safe solvent only. CGS names the material because the wrong chemistry damages the core."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Reassemble to torque, and check alignment",
+   "action": "After the soak, put the front cap back on with clean taper shoulders and greased threads, torqued to 20-25 ft/lb on the 7/8\" flats. Then look down it: if anything appears misaligned, stop. CGS asks you to call them rather than shoot it.",
+   "quote": "If the suppressor parts appear to be misaligned when assembled, stop the installation process and contact CGS.",
+   "cite": "CGS Hyperion Suppressor Manual — Rev 1 (10.28.20 R1) — ASSEMBLY / DISASSEMBLY, note, p.5"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "If joints keep loosening, degrease and lock them",
+   "action": "If threaded joints work loose while shooting, degrease the threads and use a quality thread locker, then reasonably increase the torque. Do not simply crank harder on greased threads — that is how taper joints get galled.",
+   "quote": "If you experience loosening of threaded joints during shooting it is recommended to degrease the threads and use a quality thread locker such as Vibra-Tite 123 and reasonably increase torque value.",
+   "cite": "CGS Hyperion Suppressor Manual — Rev 1 (10.28.20 R1) — ASSEMBLY / DISASSEMBLY, note, p.5"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "MOUNTING SURFACES",
+   "tasks": [
+    "Check the barrel threads are clean and free of debris before the can goes back on",
+    "Ensure all taper shoulders are clean and the threads are greased",
+    "Confirm every component is properly shouldered against its mating surface"
+   ]
+  },
+  {
+   "name": "CORE (ONLY WHEN THE WEIGHT SAYS SO)",
+   "tasks": [
+    "Weigh the can and compare against its recorded base weight",
+    "An extra ounce or two over base weight is CGS's cleaning threshold",
+    "Soak the core in a titanium-safe solvent for 24-48 hours — nothing more aggressive"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Thread the Front Cap into the front of the Hyperion until hand tight.",
+  "Using a torque wrench on the 7/8\" wrench flats and holding the core, tighten to 20-25 ft/lb.",
+  "Thread the assembled Hyperion clockwise onto the barrel threads until hand tight and secure against the barrel shoulder.",
+  "Visually inspect that the suppressor is mounted straight to the centerline of the bore, not tilted or canted."
+ ],
+ "fncheck": "With the host firearm confirmed unloaded, sight down the can and confirm it is not tilted or canted and is fully shouldered on the barrel. If it looks misaligned, stop and contact CGS."
+}

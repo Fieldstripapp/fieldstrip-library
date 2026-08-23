@@ -1,0 +1,218 @@
+{
+ "row": "sigsauerp226",
+ "make": "SIG Sauer",
+ "model": "P226",
+ "sourcedFrom": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "f4ca5f81d26ccbbd89203ea932c28ec447acce7b159cde6f9459c7ff4a19013a",
+ "cleanIntro": "SIG's Classic Line strip as it applies to the P226 — hammer-fired, takedown lever to six o'clock, slide off the front. This one book covers seven pistols, and it carries two statements that restrict who a procedure belongs to. Both are dealt with in the first step, because one of them changes the strip itself.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Find out whether your P226 has an SRT before you strip it",
+   "action": "Establish which trigger your P226 has. If it is an Elite Series pistol with the Short Reset Trigger, SIG's standard disassembly steps 5 and 6 do not apply to it and there is a supplemental procedure instead. Look for the SRT marking or the noticeably short trigger reset; if you are not sure, treat the pistol as SRT and use the fork step later in this guide.",
+   "prose": "This matters mechanically, not administratively: on an SRT pistol the safety lever will not retract far enough for the slide to come off the frame unless the pistol is decocked as the slide reaches its closed position. Force the slide instead and you are levering on that lever. The book's other scope statement is worth knowing but does not affect you — the single-action-only trigger system is offered in the P220 only, so no P226 uses the SAO procedures or Appendix B.",
+   "aside": "SIG lists DAO, DAK and DA/SA as the trigger systems common to these pistols, and states that the fourth system, single action only, is available in the P220 only (Appendix A, p.72).",
+   "quote": "Note: Steps 5 and 6 below are not applicable to SRT (Short Reset Trigger) models.  See Appendix C.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.1 Pistol Disassembly, note, p.35"
+  },
+  {
+   "phase": "Clear",
+   "title": "What this manual covers — and the two things it does not cover for a P226",
+   "action": "Understand the scope of the book these steps come from before you rely on it. This manual covers seven Classic Line pistols together — P220, P224, P225, P226, P227, P229 and P239 — and it bounds itself in two places that matter to a P226 owner. First, the single-action-only trigger system is available in the P220 only, so the SAO procedures and the SAO supplemental appendix do not cover your pistol at all. Second, the standard disassembly does not cover SRT-equipped pistols: those are carved out into a separate appendix with its own steps.",
+   "prose": "Neither of these is bookkeeping. Following the P220 SAO instructions on a P226 means working a thumb-safety mechanism your pistol does not have, and following the standard steps on an SRT pistol means forcing a slide against a safety lever that has not retracted. If a procedure in the source manual carries a model qualifier, that qualifier is the instruction — read it before the step, not after.",
+   "quote": "A fourth system, single action only (SAO) is available in the P220 only.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — Appendix A: Trigger Systems, p.72",
+   "warn": "A procedure printed next to yours in a multi-model manual is not automatically yours. Check the heading it sits under."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Muzzle in a safe direction, finger outside the trigger guard. Depress the magazine catch behind the trigger guard and draw the magazine out of the frame, then move it away from the bench.",
+   "prose": "The P226 has no magazine disconnect. A chambered round will still fire with the magazine gone, which is exactly why unloading is written as two separate jobs in this manual.",
+   "quote": "Depress the magazine catch and remove the magazine.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 6.1 Unloading the Pistol (Magazine Not Empty), step 2, p.28",
+   "warn": "The magazine being out is not the pistol being unloaded."
+  },
+  {
+   "phase": "Clear",
+   "title": "Eject the chambered round and lock the slide open",
+   "action": "Pull the slide back to its stop and engage the slide catch lever so the slide stays open. Any chambered round is ejected as you do it — watch it go and find it on the bench.",
+   "prose": "Do this whether or not you think the chamber is empty. On a DA/SA P226 the hammer position tells you nothing about the chamber, and a decocked hammer on a loaded chamber looks identical to a decocked hammer on an empty one.",
+   "quote": "Pull the slide back to the stop and engage the slide catch lever. The round is ejected and the slide is locked open.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 6.1 Unloading the Pistol (Magazine Not Empty), step 3, p.28"
+  },
+  {
+   "phase": "Clear",
+   "title": "Check the chamber by eye and by hand",
+   "action": "With the slide locked open, look into the ejection port and down the magazine well, then put a finger into the chamber mouth.",
+   "prose": "SIG asks for a manual check as well as a visual one. The P226's ejection port is long and gives a good view, which is precisely why the finger gets skipped — brass in shadow at the rear of the chamber reads as metal.",
+   "quote": "Visually and manually check the chamber to ensure the pistol is completely free of ammunition.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 6.1 Unloading the Pistol (Magazine Not Empty), step 4, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide locked open, chamber confirmed empty again",
+   "action": "With the pistol unloaded, retract the slide to its stop and lock it open on the slide catch lever, then confirm once more — visually and physically — that there is no round in the chamber.",
+   "prose": "SIG builds a second chamber check into the disassembly procedure itself rather than relying on the one you did while unloading. Do it as a fresh check, not as a formality.",
+   "quote": "Verify visually and physically that there is no round in the chamber.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.1 Pistol Disassembly, step 3, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown lever clockwise to six o'clock",
+   "action": "Rotate the takedown lever above the trigger, on the left side of the frame, clockwise until it points straight down at six o'clock.",
+   "prose": "Six o'clock is a definite position, not an approximate one — the lever's shaft has to clear the slide before anything moves. If it will not rotate, the slide is not locked fully back.",
+   "quote": "Rotate the takedown lever clockwise to a vertical (6 o’clock) position.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.1 Pistol Disassembly, step 4, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "SRT models fork here",
+   "action": "If your P226 has the Short Reset Trigger, stop following the standard sequence now and use SIG's supplemental steps: pull the slide back slightly to disengage the slide catch lever, hold it firmly and let it move forward slowly, and as the slide reaches its closed position decock the pistol. Then run the whole assembly forward off the frame. If your pistol is not SRT, continue with the next step instead.",
+   "prose": "The decocking is the whole point of the fork: it lets the SRT safety lever retract completely so the slide can clear the frame. Skipping it on an SRT pistol leaves the slide hard against that lever, and the natural reaction — pulling harder — is what damages it.",
+   "quote": "As the slide reaches its closed position, decock the pistol. This will allow the SRT safety lever to completely retract so the slide can be fully removed from the frame.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — Appendix C: SRT Supplemental Instructions, p.75"
+  },
+  {
+   "phase": "Strip",
+   "title": "Non-SRT: release the catch and let the slide run forward under control",
+   "action": "On a P226 without the SRT, pull the slide back slightly to disengage the slide catch lever, then let it travel forward in a controlled fashion. Keep a hand on it the whole way.",
+   "prose": "Controlled means your hand slows it, not the frame. Once the catch lever is down the slide is held on by nothing but the recoil spring's tension and your grip, and the spring wants it forward.",
+   "caution": "Eye protection on. The recoil spring is compressed and the guide is not firmly attached to the slide.",
+   "quote": "Retract the slide slightly to disengage the slide catch lever. Allow the slide to move forward in a controlled fashion.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.1 Pistol Disassembly, step 5, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly forward off the frame",
+   "action": "Run the complete slide assembly — slide, barrel, recoil spring and guide together — straight forward off the frame rails.",
+   "prose": "It leaves as one unit. Keep it square to the frame; lifting the rear of the slide as you pull binds it on the rails, and the P226's rails are long enough that a bound slide can jam hard.",
+   "quote": "Move the complete slide assembly (slide, barrel, recoil spring and guide)",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.1 Pistol Disassembly, step 6, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and guide out",
+   "action": "Turn the slide upside down, push the recoil spring guide forward slightly to unseat it, then lift it out from the rear.",
+   "prose": "Forward, then lift from the rear. The guide is not captive in the slide — SIG says so explicitly — so it will move on its own the moment it is unseated if you are not holding it.",
+   "caution": "Keep the muzzle end of the slide pointed away from your face while the guide unseats.",
+   "quote": "Push the recoil spring guide forward slightly and lift from rear to remove the recoil spring and guide from the slide.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.1 Pistol Disassembly, step 7, p.36"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out of the slide",
+   "action": "Lift the barrel slightly and draw it rearward out of the slide.",
+   "prose": "Up a fraction so the locking lug clears the slide's recess, then straight back. If it will not move, the recoil spring guide is still in the slide.",
+   "quote": "Remove the barrel from the slide by pulling upward slightly and to the rear.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.1 Pistol Disassembly, step 8, p.36"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Four pieces: slide, barrel, recoil spring and guide, and the frame. That is the whole of SIG's owner-level P226 strip.",
+   "prose": "Nothing past this is an owner job in this manual — the decocking mechanism, the hammer and sear, and the extractor all stay where they are. The P226 keeps its own parts diagram and specification tables in this book if you need to identify a component without taking anything further apart.",
+   "quote": "This level of disassembly is sufficient to allow a thorough cleaning after shooting.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.1 Pistol Disassembly, step 8, p.36",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Magazine floorplate off — the spring is compressed",
+   "action": "Empty the magazine. Find the bottom of the floorplate, then with a punch or cleaning rod depress the magazine insert through it and push the floorplate forward until it is clear of the tube. Keep a thumb over the insert as it releases.",
+   "prose": "The insert is holding a spring compressed the full length of the tube, and SIG's instruction is explicitly to guard it with your thumb. Depress just far enough to clear, and slide — do not lever the floorplate off.",
+   "quote": "Using a punch, cleaning rod, or similar tool, depress the magazine insert and push the magazine floorplate forward until it is clear of the magazine tube.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.2 Magazine Disassembly, step 2, p.37",
+   "warn": "Eye protection. This is the only step in this guide where a part can leave under its own power."
+  },
+  {
+   "phase": "Strip",
+   "title": "Follower and spring out",
+   "action": "Draw the follower and spring out of the tube, noting the follower's orientation before it clears.",
+   "prose": "The follower is handed and will not feed inverted. This is as far as the magazine goes for cleaning — lay the parts out in removal order and leave them that way.",
+   "quote": "Remove the magazine follower and magazine spring from the magazine tube. This level of disassembly is sufficient to allow a thorough cleaning after shooting.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.2 Magazine Disassembly, step 3, p.37"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore brush in from the chamber end",
+   "action": "With the barrel out of the slide, oil the cleaning brush and enter the bore from the chamber end — never from the muzzle. Push it through and out.",
+   "prose": "Entering from the chamber keeps the rod off the crown, which is the surface that governs how the bullet leaves the muzzle. Use a brush of the correct caliber and never a steel wire brush.",
+   "quote": "Lubricate the cleaning brush with gun oil and insert it into the barrel via the chamber (opposite the muzzle end).",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.3 Cleaning the Pistol, step 1, p.38"
+  },
+  {
+   "phase": "Clean",
+   "title": "Patch the bore and chamber dry",
+   "action": "Push cleaning patches through the bore and chamber until they come out clean of powder residue and oil.",
+   "prose": "Patches after the brush, not instead of it — the brush breaks the fouling loose and the patches carry it out. Keep going until a patch comes out clean rather than to a fixed count.",
+   "quote": "Wipe powder residues and oil from the barrel bore and chamber with cleaning patches.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.3 Cleaning the Pistol, step 2, p.38"
+  },
+  {
+   "phase": "Clean",
+   "title": "Frame guides, slide interior and the recoil assembly",
+   "action": "Work a brush or cleaning patch over the frame guides, the inside and outside of the slide, and the recoil spring and its guide, then lightly lubricate the same surfaces with an oiled cloth.",
+   "prose": "These are the bearing surfaces the pistol runs on, and they are where fouling actually costs you function. Light is the standard here — SIG's caution against over-lubrication applies to exactly these parts.",
+   "quote": "Remove dirt from guides of the frame, inside and outside of slide, recoil spring guide and recoil spring with a brush or cleaning patch.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.3 Cleaning the Pistol, step 4, p.38"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light oil in the bore, then take the excess back out",
+   "action": "Lightly oil the bore of the barrel and the chamber, then remove any excess.",
+   "prose": "Oil left standing in a chamber raises pressure on firing and can strip a case head. Oil it, then wipe it back out — and always run a dry patch through before you shoot the pistol.",
+   "quote": "Lightly oil bores of the barrel and chamber. Remove any excess lubricant.",
+   "cite": "P220\n®\nP224\n®\nP225\n™ \nP226\n®\nP227\n®\nP229\n®\nP239\n®\n...\nOWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8501154 REV 03 — 8.3 Cleaning the Pistol, step 5, p.38"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Oiled brush of the correct caliber, entered from the chamber end only",
+    "Never a steel wire brush — it damages the bore surface",
+    "Patches through until they come out clean",
+    "Brush the exterior of the barrel with an oiled brush",
+    "Light oil in bore and chamber, then wipe the excess back out"
+   ]
+  },
+  {
+   "name": "SLIDE AND FRAME",
+   "tasks": [
+    "Brush or patch the frame guides and the inside and outside of the slide",
+    "Light film of gun oil or gun grease on the same surfaces, applied with a cloth",
+    "Wipe the breech face and around the extractor",
+    "All-stainless models take a lubricant intended for stainless steel",
+    "Do not over-lubricate — SIG cautions against it by name"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING AND GUIDE",
+   "tasks": [
+    "Brush or patch the spring and the guide clean",
+    "Light lubrication only",
+    "Check the spring for kinks and the guide for bends while it is out"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Wipe the tube inside and out and the follower",
+    "Check the follower moves freely down the full length of the tube",
+    "Keep oil off the inside of the tube — cartridges sit there"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Verify the pistol is clear of all foreign matter, then insert the barrel into the slide.",
+  "Insert the recoil spring guide assembly into the slide — it is under spring tension and is not firmly attached, so keep control of it.",
+  "Make sure the takedown lever is rotated clockwise to the vertical six o'clock position.",
+  "Guide the slide onto the frame rails from the front, retract it fully to the rear, and engage the slide catch lever to lock it open.",
+  "Rotate the takedown lever counter-clockwise until horizontal, then depress the slide catch lever to release the slide.",
+  "Decock the hammer with the decocking lever. SIG notes this step is not applicable to DAO or DAK pistols, which have no decocking lever."
+ ],
+ "fncheck": "Magazine out and the pistol confirmed unloaded, muzzle in a safe direction. First check the recoil spring and slide travel: retract the slide fully and release it, verify it locks fully in the closed position, and repeat. Then check the trigger mechanism: pull the trigger fully to the rear and watch the hammer cock as the trigger travels back; at the end of travel the hammer should fall forward firmly."
+}

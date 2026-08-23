@@ -1,0 +1,82 @@
+{
+ "row": "silencercosalvo12",
+ "make": "SilencerCo",
+ "model": "Salvo 12",
+ "sourcedFrom": "SilencerCo Salvo 12 Field Manual — ⛔ No form or revision code is printed in this book. (UNDATED)",
+ "sourceSha256": "c5f9f6039ddc15ff8e1c28bc957351ae8661006dae294a63a31a577fff147082",
+ "cleanIntro": "⛔ A shotgun suppressor fouls differently from everything else: what builds up is PLASTIC from the wads, not carbon. That changes the whole job — the stainless rods get soaked in shotgun wad solvent, and the aluminium baffles must NOT be soaked at all. SilencerCo's interval is 1,200 rounds or fewer.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Firearm unloaded and the action OPEN before the can moves",
+   "action": "Open the action and see that the firearm is visibly clear of ammunition — before the silencer goes on and before it comes off. A suppressed gun is quieter, not safer.",
+   "quote": "Before installing the silencer on the host firearm, be sure the firearm is unloaded and the action is opened so the firearm is visibly clear of any ammunition.",
+   "cite": "SilencerCo Salvo 12 Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Re-check tightness every 30 rounds",
+   "action": "Silencers back off under recoil, and a partly-unthreaded can is how baffle strikes happen. SilencerCo names an interval rather than leaving it to feel.",
+   "quote": "To ensure your silencer remains secure while firing, it is of the utmost importance that you frequently verify the silencer is securely tightened onto the barrel. We recommend checking the security of the attachment after 30 discharges of the firearm.",
+   "cite": "SilencerCo Salvo 12 Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Clean",
+   "title": "Interval: 1,200 rounds or fewer",
+   "action": "SilencerCo names the number. On a shotgun can the debris is plastic and it accumulates on the mating surfaces where it stops the parts seating properly, so letting it run long makes the next clean much harder.",
+   "quote": "SilencerCo recommends cleaning the Salvo 12 after firing 1,200 or fewer rounds.",
+   "cite": "SilencerCo Salvo 12 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "Plastic off the rods, and a pick on the baffle mating faces",
+   "action": "Clean the plastic debris off the stainless steel rods, then make sure the MATING SURFACES of the baffles are clean — a pick or similar tool gets the debris out of the joints. Those faces are what hold the stack in alignment.",
+   "quote": "Clean plastic debris from the stainless steel rods. Ensure the mating surfaces of the baffles are clean by using a pick or similar tool to remove any debris.",
+   "cite": "SilencerCo Salvo 12 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Rods may soak overnight — the ALUMINIUM baffles may not",
+   "action": "The stainless rods can sit overnight in a shotgun cleaning solution such as a wad solvent, which loosens the plastic without trouble. ⛔ The aluminium parts — the baffles — must NOT be soaked: it damages the finish. Damp cloth or a brush, gently, for those.",
+   "aside": "To clean the baffles, we recommend using a damp cloth or brush to gently wipe or scrub away debris .",
+   "quote": "Soaking the rods overnight in shotgun cleaning solution (such as Brownells Shotgun Wad Solvent) should loosen and remove plastic debris without issue.",
+   "cite": "SilencerCo Salvo 12 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  }
+ ],
+ "deepAbsentReason": "SilencerCo publishes ONE level of disassembly for the Salvo 12 and it is the routine cleaning — the modular stack comes apart to be cleaned, which is the maintenance, not a deeper service. Nothing further is published.",
+ "cleaning": [
+  {
+   "name": "STAINLESS RODS",
+   "tasks": [
+    "Plastic wad debris cleaned off",
+    "May soak OVERNIGHT in shotgun wad solvent"
+   ]
+  },
+  {
+   "name": "⛔ ALUMINIUM BAFFLES",
+   "tasks": [
+    "⛔ NEVER soaked in solvent — it damages the finish",
+    "Damp cloth or brush, gently",
+    "Mating surfaces picked clean of debris"
+   ]
+  },
+  {
+   "name": "INTERVAL",
+   "tasks": [
+    "1,200 rounds or fewer"
+   ]
+  },
+  {
+   "name": "MOUNT & THREADS",
+   "tasks": [
+    "Kept clean; no gap at the shoulder before firing"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Rods and baffles fully dry, mating surfaces picked clean.",
+  "Stack reassembled square, nothing forced through debris.",
+  "Threaded onto the barrel until firmly secured, no gap at the shoulder."
+ ],
+ "fncheck": "Reassembled with clean, dry mating faces so the baffle stack seats square. Mounted: no barrel thread visible and no gap at the shoulder. ⛔ If anything still feels gritty as it goes together, that is plastic on a mating face — take it apart again rather than tightening through it."
+}

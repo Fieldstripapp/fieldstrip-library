@@ -1,0 +1,197 @@
+{
+ "row": "sigsauerm18",
+ "make": "SIG Sauer",
+ "model": "M18",
+ "sourcedFrom": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 (2025)",
+ "sourceSha256": "28e2f196de50de0ac2bfc27d92d576734079b1f49c2b0adac37568dddef37003",
+ "cleanIntro": "SIG's operator-level strip for the P320-M18. Four pieces and no further. This book covers the M17 and the M18 together, and there is one instruction in it that belongs to the M18 alone — it is on reassembly, it concerns how the recoil spring guide sits in the slide, and getting it wrong is a real assembly fault rather than a cosmetic one.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm you have the M18, not the M17",
+   "action": "Check the slide length and the markings before you start. This manual runs the two pistols together and the procedures are shared everywhere except one reassembly instruction, so which pistol you have decides whether that instruction is yours.",
+   "prose": "SIG describes the M17 and M18 together as striker-fired, mechanically locked, short-recoil pistols with an interchangeable grip module, a reversible magazine catch and ambidextrous controls. The strip below is written for both. The M18-only instruction — rotating the recoil spring guide assembly so its flats are vertical — appears in the reassembly list, and skipping it on an M18 means the guide will not seat as SIG intends.",
+   "quote": "The SIG SAUER P320 M17 and M18 pistols are modern handguns incorporating the latest technical advances in firearm design for military and law enforcement.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 8.1 Description – P320-M17 and M18, p.21"
+  },
+  {
+   "phase": "Clear",
+   "title": "Manual safety on, magazine out",
+   "action": "Muzzle in a safe direction, engage the ambidextrous manual safety, then release the magazine and pull it clear of the grip module. Put it aside.",
+   "prose": "SIG puts the safety on first in the unloading sequence, before the magazine comes out — the pistol is at its most loaded at that moment, and that is when the safety earns its place.",
+   "quote": "REMOVING THE MAGAZINE FROM THE FIREARM DOES NOT PREVENT A CHAMBERED ROUND FROM BEING FIRED.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 9.8 Unloading and Clearing the Pistol, p.34",
+   "warn": "The magazine being out proves nothing about the chamber. There is no magazine disconnect on this pistol."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide back and check twice",
+   "action": "Lock the slide rearward to open the chamber, verify by eye that chamber and barrel are clear, then check the whole firearm a second time — looking and feeling.",
+   "prose": "Two checks, visual and physical. The M18's shorter slide means a shorter ejection port and less light on the chamber than the M17 gives you, so the finger check does more work here.",
+   "quote": "Check the firearm twice, both visually and physically.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 9.8 Unloading and Clearing the Pistol, step 6, p.34"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lock the slide back on the catch/release lever",
+   "action": "Pull the slide rearward and push up on the slide catch/release lever until the slide locks open against it. Ease forward and feel it stop hard.",
+   "prose": "The takedown lever only turns from this position, because its cam must line up with a relief cut in the slide. If the lever feels immovable at the next step, this one was not completed.",
+   "quote": "Lock the slide to rear by pulling the slide rearward and pushing up on the slide catch/release lever.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.1 Pistol Disassembly, step 2, p.44"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown lever clockwise until it will not rotate further",
+   "action": "Rotate the takedown lever on the left of the frame clockwise until it physically stops — about a quarter turn from horizontal, under fingertip pressure.",
+   "prose": "SIG's wording is until it can no longer rotate, not until it feels about right. Stopping short lets the slide begin to move and then jams it part way off the receiver.",
+   "quote": "Rotate the takedown lever clockwise until the takedown lever can no longer rotate.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.1 Pistol Disassembly, step 3, p.44"
+  },
+  {
+   "phase": "Strip",
+   "title": "Retract slightly to drop the catch lever",
+   "action": "Grip the slide firmly and retract it just far enough to unload the slide catch lever, then let the lever drop.",
+   "prose": "Slightly — only enough to unweight the lever. After that the slide is free on the receiver with a compressed recoil spring inside, and your hand is the only thing controlling either of them.",
+   "caution": "Eye protection on. The slide is under spring tension for the rest of the strip.",
+   "quote": "Retract the slide slightly to disengage the slide catch lever.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.1 Pistol Disassembly, step 4, p.44"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide off the receiver, controlling the spring",
+   "action": "Run the slide straight forward off the receiver while keeping positive control of the recoil spring guide assembly inside it.",
+   "prose": "SIG's warning names the recoil spring guide assembly specifically. It is not captive in the slide, and on the M18's short slide there is less room in front of it — tip the slide muzzle-down as it clears and the guide can go on its own.",
+   "quote": "Remove the slide from the receiver, maintaining control of the recoil spring guide assembly.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.1 Pistol Disassembly, step 5, p.44",
+   "warn": "Keep the muzzle end of the slide pointed away from your face and from anyone nearby."
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and guide out",
+   "action": "Invert the slide, push the recoil spring guide forward slightly to unseat its head from the barrel lug, then lift it out from the rear. Note how the guide is oriented as it comes out.",
+   "prose": "Forward, then lift from the rear. Take a good look at the guide's flats now — on the M18 those flats have a required orientation going back in, and the easiest way to get it right later is to have seen it come out.",
+   "quote": "Push the recoil spring guide forward slightly and lift from rear to remove the recoil spring and guide assembly from the slide.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.1 Pistol Disassembly, step 6, p.46"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ M18-only — the flats go vertical, and note them now",
+   "action": "With the recoil spring guide assembly out, look at its flats and register their orientation. The note quoted here names the M18 pistol specifically: on reassembly the assembly must be rotated so the flats are vertical.",
+   "prose": "This is the single instruction in this shared book that belongs to one of the two pistols and not the other — there is no equivalent sentence for the M17, whose guide simply goes in against the barrel lug. Establishing it while the part is in your hand is worth more than reading it later, because the flats are easy to see out of the slide and hard to judge once the assembly is seated.",
+   "quote": "When installing the recoil spring guide assemblyon the M18 pistol, the assembly must be rotated so the flats are vertical.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.5 Pistol Assembly, note at step 3, p.55",
+   "warn": "If the pistol on your bench is actually an M17, this rotation is not called for — use the M17 guide."
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out of the slide",
+   "action": "Lift the barrel slightly and draw it rearward out of the slide.",
+   "prose": "Up a fraction so the locking lug clears the slide's recess, then straight back. If it resists, the recoil spring guide is still in the slide — nothing here is a press fit.",
+   "quote": "Remove the barrel from the slide by pulling upward slightly and to the rear.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.1 Pistol Disassembly, step 7, p.46"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Slide, barrel, recoil spring and guide assembly, and the receiver in its grip module. That is the whole operator-level strip.",
+   "prose": "The recoil spring guide assembly is a single serviced unit and must not be taken apart. Striker, extractor and fire control unit are all past what this manual authorises at operator level.",
+   "quote": "This level of disassembly is sufficient to allow a thorough cleaning after firing.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.1 Pistol Disassembly, note, p.46",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Magazine floorplate off — the insert is holding the spring",
+   "action": "Empty the magazine. Push the magazine insert slightly forward and then down until the floorplate can be pushed forward off the tube, with a thumb over the insert as it releases.",
+   "prose": "Forward, then down, then the floorplate goes forward — three separate movements, in that order. The insert is the only thing containing a spring compressed down the whole tube.",
+   "quote": "Push the magazine insert slightly forward then down until the magazine floorplate can be pushed forward off the magazine tube.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.2 Magazine Disassembly, step 1, p.46",
+   "warn": "Eye protection. This is the only step in the guide where a part can leave under its own power."
+  },
+  {
+   "phase": "Strip",
+   "title": "Follower, spring and insert out",
+   "action": "Draw the follower, spring and insert out of the tube, noting the follower's orientation before it clears.",
+   "prose": "The follower is handed and will not feed upside down. Keep the four parts laid out in removal order — insert and floorplate are easy to reverse end for end and look right doing it.",
+   "quote": "Remove the magazine follower, magazine spring, and insert from the magazine tube.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.2 Magazine Disassembly, step 2, p.46"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrub the tube and follower",
+   "action": "Wipe the tube inside and out and the follower with a cloth, then run a soft brush wet with CLP down the tube and over the follower to lift residue from the follower rails and the feed lips.",
+   "prose": "Residue drag shows up in the top rounds, where the spring is doing least work. Soft brush only — nothing steel inside the tube.",
+   "quote": "Wipe the magazine tube and follower with a cloth. Clean the magazine tube and follower with a soft brush and CLP.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.3 Cleaning and Lubricating, Magazine, step 1, p.53"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light coat on the spring and tube",
+   "action": "Light coat of CLP or LSA on the spring and the magazine tube, then wipe the inside so no film is left where the cartridges sit.",
+   "prose": "SIG's own definition of a light coat is a film barely visible to the naked eye. More than that inside the tube gathers grit and ends up on the ammunition.",
+   "aside": "CLP, LSA and LAW are the only lubricants this manual authorises for the pistol; CLP and LSA are interchangeable.",
+   "quote": "Apply a light coat of CLP/LSA to the spring and magazine tube.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.3 Cleaning and Lubricating, Magazine, step 3, p.53"
+  },
+  {
+   "phase": "Strip",
+   "title": "Back together — floorplate locked by the insert",
+   "action": "Install the follower onto the spring, insert them fully into the tube until the magazine insert is flush with the tube bottom, then hold the insert down and slide the floorplate onto the tube lips until the insert locks it.",
+   "prose": "Flush first, floorplate second. A floorplate that slides fully on without the insert snapping up into it is held by friction alone and will come off the first time the magazine is dropped.",
+   "quote": "Holding the magazine insert in place, slide the magazine floorplate onto the magazine tube lips until the magazine floorplate is locked in place by the magazine insert.",
+   "cite": "P320-M17\nP320-M18\nPISTOL, SEMI-AUTOMATIC, 9MM\nOPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1302517-01 REV05 — 12.6 Magazine Assembly, step 3, p.58",
+   "warn": "The spring is being compressed again — keep a thumb on the insert throughout."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "SLIDE ASSEMBLY",
+   "tasks": [
+    "Strip all old lubricant off before applying new",
+    "Cloth first, then a soft brush with CLP on heavy carbon",
+    "Extractor, rail slots and breech face free of dirt and residue",
+    "Light coat of CLP or LSA in the frame rail slots of the slide",
+    "Lightly oil external parts",
+    "Nothing on the striker and nothing allowed to run into the striker channel"
+   ]
+  },
+  {
+   "name": "BARREL",
+   "tasks": [
+    "CLP patch from the chamber end out past the muzzle — never from the muzzle back",
+    "Soak to loosen residue and soften carbon",
+    "Correct-caliber bronze brush on a rod, then dry patches until they come out clean",
+    "Wipe the exterior with a CLP cloth",
+    "Oil bore and chamber only for storage; patch the oil back out before firing"
+   ]
+  },
+  {
+   "name": "RECEIVER AND GRIP MODULE",
+   "tasks": [
+    "Soft cloth over the frame and grip module",
+    "Cotton swabs into the corners — frame rails, takedown lever and slide catch lever",
+    "Light coat of CLP or LSA on the frame rails and accessible moving parts",
+    "Wipe the magazine well clear of dirt, dust and residue"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING AND GUIDE ASSEMBLY",
+   "tasks": [
+    "CLP and a soft brush, then a light coat back on",
+    "Do not disassemble it — it is serviced as a single unit",
+    "Check the spring for kinks and the head for play while it is out"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Verify the pistol is clear of foreign matter, then insert the barrel into the inverted slide.",
+  "Insert the recoil spring guide assembly into the slide and up against the barrel lug.",
+  "⚠ M18-ONLY: SIG's note at this step states that on the M18 pistol the recoil spring guide assembly must be rotated so the flats are VERTICAL. This instruction does not appear for the M17 — it is the one place in the book where the two pistols diverge, so do not skip it on an M18.",
+  "Ensure the takedown lever is rotated completely clockwise to its stop, then guide the slide onto the receiver rails from the front.",
+  "Retract the slide completely to the rear and engage the slide catch lever to lock it open — SIG warns that failing to fully engage the catch lever here can leave the trigger non-functioning.",
+  "Rotate the takedown lever counterclockwise until it locks horizontal, then depress the slide catch lever to release the slide fully forward."
+ ],
+ "fncheck": "Magazine out and the pistol confirmed unloaded and cleared, muzzle in a safe direction throughout. Insert an empty magazine and confirm the catch locks it in. Fully retract the slide and release; the follower should push the slide catch lever up and hold the slide open. Press the magazine catch — the magazine must fall free under its own weight. Press the slide catch lever; the slide should release and lock fully forward. Engage the manual safety on either ambidextrous lever and press the trigger — the striker must NOT release. Disengage the safety, press and hold the trigger for an audible click, and while still holding it fully retract and release the slide. Release the trigger for a reset click, then press again for a second click."
+}

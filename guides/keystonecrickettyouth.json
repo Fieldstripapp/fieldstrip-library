@@ -1,0 +1,208 @@
+{
+ "row": "keystonecrickettyouth",
+ "make": "Keystone",
+ "model": "Crickett (youth)",
+ "sourcedFrom": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet (UNDATED — no copyright year is printed anywhere in the document)",
+ "sourceSha256": "19024252b52ec1bc0b334deacbd0be2111872ed930be89acf6e5abf025baddb6",
+ "cleanIntro": "Keystone's own procedure for the Crickett. The booklet is titled as safety and operating instructions and it is an image-only scan with no text layer, read here by OCR under the 2026-08-20 ruling — hash, tool and date on record. It carries no printed page numbers, so every citation below names the section heading and the PDF sheet. Read the bolt-removal step carefully: this rifle wants the trigger held back while the bolt comes out, which is the opposite of most bolt guns.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Bolt open, chamber checked",
+   "action": "Open the bolt and keep it open with the bolt handle raised, then look into the chamber and confirm there is no cartridge in it.",
+   "prose": "Keystone's own habit for this rifle is to leave the bolt open whenever it is not being fired — an open bolt is the only thing anybody standing near a youth rifle can read at a glance.",
+   "quote": "open the bolt of the rifle and be sure to keep it open with the bolt handle raised. Check the chamber to make sure there is no cartridge in the chamber.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Unloading, PDF p.6",
+   "warn": "A rifle with an open bolt cannot be fired. Leave it open when the rifle is handed to anyone."
+  },
+  {
+   "phase": "Clear",
+   "title": "If there is a live round, work the bolt crisply",
+   "action": "If you find an unspent round in the chamber, lower the bolt handle, raise it again and pull it back crisply so the cartridge extracts and ejects. Fingers stay outside the trigger guard and the muzzle stays pointed somewhere safe throughout.",
+   "prose": "Crisply is the operative word — a slow pull on a rimfire extractor is how a live round gets left half out of the chamber.",
+   "quote": "Make sure the cocking piece is fully to the forward position. Then lift the bolt handle and pull it to the rear.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Unloading the Rifle, PDF p.10"
+  },
+  {
+   "phase": "Clear",
+   "title": "Uncock it before anything else",
+   "action": "If the rifle is cocked, point it in a safe direction, take the cocking piece between thumb and forefinger and pull it to the rear; with your other hand slowly pull the trigger, and then let the cocking piece move forward under control until it stops.",
+   "prose": "The Crickett cocks by pulling the striker back by hand, so uncocking it is the same motion in reverse. Never carry or transport this rifle cocked.",
+   "aside": "While holding the cocking piece and pulling the trigger, allow the cocking piece to slowly move forward until it stops.",
+   "quote": "Making sure the rifle is pointed in a safe direction, grasp the cocking piece with your thumb and forefinger and pull to the rear.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Uncocking the Rifle, PDF p.9"
+  },
+  {
+   "phase": "Clear",
+   "title": "Confirm it is completely unloaded before you clean it",
+   "action": "Before any cleaning, make sure the rifle is completely unloaded, following the unloading procedure above.",
+   "prose": "Keystone repeats the unloading procedure by reference rather than restating it, which is a good sign it means the whole of it.",
+   "quote": "Before cleaning, make sure the rifle is completely unloaded.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Cleaning and care, PDF p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out — trigger HELD BACK",
+   "action": "Lift the bolt handle up and pull it to the rear, which opens the action. Then pull the trigger to the rear and, at the same time, slide the bolt the rest of the way back and out of the receiver.",
+   "prose": "That is the whole trick on this rifle: the sear will not let the bolt leave the receiver until the trigger is held. Muzzle in a safe direction and nothing in the chamber before your finger goes anywhere near it.",
+   "quote": "Removing the Bolt Lift the bolt handle up and pull to the rear. This will open the action. Pull the trigger to the rear and at the same time slide the bolt to the rear, removing it from the receiver.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — OPERATING CLEANING INSTRUCTIONS, PDF p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "That is as far as an owner goes",
+   "action": "Bolt out is the extent of owner disassembly. Keystone states that anything beyond normal cleaning belongs to a factory recommended gunsmith, and that the rifle goes back to the factory for replacement of worn or damaged parts.",
+   "prose": "The stock does come off for cleaning the action — that is in Deep Clean below, and it is the manufacturer's own instruction — but no part of the bolt, trigger or sear is an owner job.",
+   "aside": "The rifle should be returned to the factory for any necessary replacement of worn or damaged parts.",
+   "quote": "Disassembly, other than normal cleaning should only be done by a factory recommended gunsmith.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Safety rules, PDF p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Bolt and rifle. Everything routine can be done from here: the bore is open from the breech, the chamber and the bolt face are both in the open, and the bolt itself can be wiped down off the gun. Deep Clean covers taking the stock off to wash the action, which is Keystone's own procedure.",
+   "prose": "Do not dry fire it while it is apart or after it is back together — Keystone says excessive dry firing damages the firing pin and the chamber rim and voids the warranty.",
+   "quote": "Take note that excessive dry-firing without protection can cause damage to both the firing pin and chamber rim of your rifle and will also void all warranties.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Dry Firing, PDF p.5",
+   "warn": "If you must dry fire, use a spent case in the chamber and rotate it after each trigger pull.",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Breech to muzzle, until the patches come out clean",
+   "action": "With the bolt out, run a patch through the bore on a good quality cleaning rod from the breech end to the muzzle, and keep repeating until the patches stop picking up residue.",
+   "prose": "Breech to muzzle on this rifle is not just about the crown — it is what keeps the residue out of the action, which is open at the back with the bolt gone.",
+   "quote": "using a good quality cleaning rod, pass a patch through the bore from the breech end to the muzzle, and repeat this procedure until the patches no longer pick up any barrel residues and come out clean.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Cleaning and care, PDF p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Solvent only if the fouling calls for it",
+   "action": "If there has been a lot of shooting, or the ammunition is a dirty one, wet a patch with a non-corrosive, non-abrasive barrel solvent and follow it with dry patches. Where a brush is needed, use a wire brush with powder solvent.",
+   "prose": "Keystone is specific about the chemistry — nothing corrosive, nothing abrasive, and follow whatever the cleaning rod maker says about their own equipment.",
+   "quote": "Run a lightly-oiled patch through the bore in the same direction. If necessary, use a wire brush with powder solvent.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Cleaning and Care of the Rifle, PDF p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "One oiled patch, then wipe the bolt and the outside",
+   "action": "When the bore is clean, put one slightly oiled patch through it in the same direction — one pass is enough. Then wipe the bolt, the breech and every external metal surface so they carry a light coat of oil.",
+   "prose": "A very light film is what Keystone asks for and all a rimfire needs. More than that collects grit in the bolt raceway.",
+   "aside": "Now wipe the bolt breech and all external metal surfaces so they are covered with a light coat of oil.",
+   "quote": "When you are satisfied that the bore is clean, put a slightly oiled patch through the bore using a cleaning rod in the same manner as above. One pass with the oiled patch should be sufficient.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Cleaning and care, PDF p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Gun oil only — nothing else",
+   "action": "Use only a non-acid, resinous, recognised quality gun oil, especially in the barrel bore. Keystone rules out other chemicals outright.",
+   "prose": "It is a short sentence with a lot in it: no household penetrants, no brake cleaner, no automotive oil.",
+   "quote": "Use only a non-acid resinous recognized quality gun oil, especially when cleaning the barrel bore. Other chemicals should not be used.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Cleaning and care, PDF p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean it every time it is used",
+   "action": "Clean the rifle each time it has been used, and at least monthly in a humid climate whether it has been shot or not.",
+   "prose": "Handling alone leaves moisture prints that rust the metal, which is why the wipe-down matters as much as the bore work on a rifle that gets passed around.",
+   "aside": "if you live in a humid climate you should clean it at least every month.",
+   "quote": "Handling the rifle leaves prints of moisture that can cause rusting of the metal parts.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Cleaning and Care of the Rifle, PDF p.10"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Stock off at the takedown screw",
+   "action": "To get at the action itself, take the stock off by unscrewing the takedown screw. This is Keystone's own instruction and the only disassembly beyond the bolt that the booklet publishes.",
+   "prose": "One screw. Support the barrelled action as it comes free rather than letting it drop out of the stock.",
+   "quote": "To clean the action the stock should be removed by unscrewing the takedown screw. Wash the action with petroleum solvent, then clean and lightly re-oil.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Cleaning and Care of the Rifle, PDF p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wash the action, then re-oil it lightly",
+   "action": "Wash the action with petroleum solvent, then clean it and lightly re-oil. A very light film of oil on all the metal is what Keystone wants — enough for protection against rust and no more.",
+   "prose": "Quick temperature changes cause condensation inside the action, which is exactly what this wash-and-oil is protecting against on a rifle stored in an unheated space.",
+   "quote": "A very light film of oil is acceptable and desirable on all metal parts of the rifle for good maintenance and protection against rust.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Note, PDF p.5"
+  },
+  {
+   "phase": "Clean",
+   "title": "Extractor area — the fix for cases that will not come out",
+   "action": "If the rifle stops removing empty cases, the cause is a dirty chamber or an extractor stuck in the up position. Remove the bolt, clean and oil the extractor area, put the bolt back in and work it several times with no shell in the chamber.",
+   "prose": "This is Keystone's own troubleshooting entry, and it is the one piece of bolt-level maintenance the booklet does hand to the owner.",
+   "quote": "Remove bolt, clean and oil Extractor area, install bolt and work several times without shell in chamber",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Trouble Shooting, PDF p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Firing pin protrusion — almost flush with the bolt face",
+   "action": "If the rifle strikes cartridges but does not fire them and fresh ammunition does not cure it, the firing pin may be sticky and giving a light primer hit. Clean it and make sure the firing pin comes out almost flush with the bolt face.",
+   "prose": "Almost flush is the check Keystone gives. If it will not come out that far after cleaning, the rifle goes back to the factory rather than any further apart on your bench.",
+   "quote": "Clean and make sure firing pin come out almost flush with bolt face",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Trouble Shooting, PDF p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stock back on, and check it is tight",
+   "action": "Put the stock back on and tighten the stock screw. A rifle that feels loose in its stock is Keystone's own listed symptom of a stock screw that is not tight.",
+   "prose": "Check it again after the next range session — a youth rifle that gets handled a lot works its stock screw loose faster than most.",
+   "quote": "Problem: Gun loose in stock Cause: Stock screw not tight Remedy: Tighten stock screw",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Trouble Shooting, PDF p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore examined before the rifle is fired again",
+   "action": "Before the rifle is fired, examine the barrel to be sure it is clean and free of heavy oil, grease or any other obstruction.",
+   "prose": "After a deep clean this is the step that matters most, because it is the one time the bore is guaranteed to have oil in it.",
+   "quote": "Before the rifle is fired the barrel should be examined to be sure it is clean, does not have heavy oil, grease or any other obstruction.",
+   "cite": "Keystone Sporting Arms Single Shot Rifle Safety and Operating Instructions — ABSENT — no revision, part or form code is printed anywhere in the booklet — Warning, PDF p.8",
+   "warn": "It is very dangerous to fire a rifle if there are any obstructions in the barrel."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Bolt out first, so the bore can be worked from the breech end",
+    "Patch on a good quality cleaning rod, breech to muzzle, repeated until the patches come out clean",
+    "Barrel solvent on the patch only if fouling calls for it — non-corrosive and non-abrasive, followed by dry patches",
+    "Wire brush with powder solvent if necessary",
+    "One slightly oiled patch through in the same direction to finish"
+   ]
+  },
+  {
+   "name": "BOLT AND EXTERNAL METAL",
+   "tasks": [
+    "Wipe the bolt, the breech and all external metal surfaces with a light coat of oil",
+    "Clean and oil the extractor area if empty cases are not being removed",
+    "A very light film of oil on all metal parts, no more"
+   ]
+  },
+  {
+   "name": "CHEMISTRY",
+   "tasks": [
+    "Non-acid, resinous, recognised quality gun oil only",
+    "No other chemicals, especially in the barrel bore",
+    "Follow the directions of the cleaning rod manufacturer"
+   ]
+  },
+  {
+   "name": "INTERVAL AND STORAGE",
+   "tasks": [
+    "Clean the rifle each time it has been used",
+    "At least monthly in a humid climate",
+    "Before storing, be sure the rifle is uncocked and unloaded",
+    "Store the rifle and the ammunition separately"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Place the bolt into the receiver while pulling the trigger, exactly as it came out.",
+  "Move the bolt all the way forward and rotate the handle down to lock.",
+  "If the stock was removed, refit it and tighten the takedown screw.",
+  "Examine the barrel and confirm it is clean and free of heavy oil, grease or any other obstruction before the rifle is fired."
+ ],
+ "fncheck": "With the chamber empty, work the bolt several times and confirm it closes and locks with the handle down. Check the cocking piece pulls back to its stop and that the action will not open while the rifle is cocked. Confirm the rifle is not loose in the stock. Look through the bore one last time for patch material or oil. Do not dry fire to test it — use a spent case in the chamber if a trigger check is needed."
+}

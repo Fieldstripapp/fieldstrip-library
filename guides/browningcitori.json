@@ -1,0 +1,279 @@
+{
+ "row": "browningcitori",
+ "make": "Browning",
+ "model": "Citori",
+ "sourcedFrom": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "a7b61837d2fa4b6db3b1ce65efb13642f4396e1b76b7891d4968869086c835c9",
+ "cleanIntro": "The Citori is a boxlock over-and-under with a single selective trigger, automatic ejectors, and a locking bolt hand-fitted to the barrel lugs — which is why a new one feels stiff and why the whole gun lives or dies on grease at three surfaces: the barrel lugs, the hinge pin and the forearm bracket. Its field strip is two moves, forearm then barrels, and it stops there; Browning publishes no receiver work at all. Two boundaries have to be settled before you follow anything below. This manual covers every Citori EXCEPT the Citori 725, which has its own book — if yours is a 725, stop and get that one. And the choke system is decided by gauge, not by fitment: Invector-Plus, Standard Invector and Invector-DS tubes are not interchangeable, and the inscription on the right side of your barrel is what says which yours takes.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "This manual does NOT cover the Citori 725",
+   "action": "Check the model before you follow one line of this procedure. Browning states that this owner's manual pertains to all Citori shotguns except Citori 725 models, and directs 725 owners to Customer Service on (801) 876-2711 or to a download at browning.com for their own book. The 725 is a different gun under the wood — a lower-profile receiver with its own mechanism — so its assembly, disassembly and adjustment procedures are published separately for a reason. If the barrel or receiver of the shotgun in front of you reads 725, none of what follows is sourced for it.",
+   "prose": "The exclusion is printed in the General Description section, before any procedure, which is Browning putting it where it has to be read first.",
+   "quote": "IMPORTANT: This owner’s manual pertains to all Citori shotguns except Citori 725 models. If you have a Citori 725 and need an owner’s manual, please contact our Customer Service Department at (801) 876-2711 or download one online at browning.com",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — General Description and Operation",
+   "warn": "Citori 725 owners: this manual does not apply to your shotgun. Get the 725 manual."
+  },
+  {
+   "phase": "Clear",
+   "title": "One book, five bores — read your own barrel inscription",
+   "action": "Everything illustrated here is drawn for the whole Citori family: Browning states that all figures in this manual apply to Citori shotguns in 12, 16, 20 and 28 gauge and .410 bore. That means the pictures show the mechanism, not your gauge — the parts move identically, but chamber length, choke system and shell selection all differ across those five bores. The gauge or bore and the chamber length are inscribed on the side of your barrel, and that inscription, not the figure, is what governs what you feed it and which choke tubes fit.",
+   "prose": "The serial number is under the top lever if you need to record it.",
+   "caution": "The figures cover all five bores. Your barrel inscription is what identifies your gun.",
+   "quote": "All figures in this owner’s manual apply to Citori shotguns in 12, 16, 20 and 28 gauge, and .410 bore.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — General Description and Operation > NOMENCLATURE"
+  },
+  {
+   "phase": "Clear",
+   "title": "Top lever fully right, and open the action completely",
+   "action": "Push the top lever fully to the right with your thumb and let the barrels drop. Open it all the way — a partially opened Citori has not reset its firing mechanism, and on a tightly fitted gun you may need to pull down slightly on the forearm to get the breech completely open. Keep the receiver level as the barrels fall so the empty hulls stay in full contact with the ejectors, then look into both chambers and both bores and confirm they are clear of shells and obstructions. Put the tang safety rearward, to the \"S\", before you handle it further.",
+   "prose": "Barrel selection can only be made with the safety on safe, so the safety goes back before anything else in any case.",
+   "quote": "Using your thumb, move the top lever fully to the right to open the action. The action must be opened completely to reset the firing mechanism.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Unloading, step 1",
+   "warn": "Check BOTH chambers. An over-and-under holds two."
+  },
+  {
+   "phase": "Clear",
+   "title": "The ejectors throw fired hulls — cant the gun before you open it",
+   "action": "A Citori's ejectors are automatic, and that changes how you open it in company. Fired shells are thrown completely clear of the gun when the action opens, while unfired shells are merely lifted above the chambers so you can pick them out. Cant the shotgun to the right — left if you are left-handed — so the breech points the ejected hulls away from your face and body rather than up into it. This is also why you never open a Citori casually across a bench with people beside you.",
+   "prose": "If a shell rises but does not fly, it is unfired. Take it out by hand and account for it before the gun goes anywhere.",
+   "quote": "It is important to point the breech, by canting the shotgun to the right (left for left-handed shooters), so empty hulls eject clear of your body and face. Citori shotguns feature automatic ejectors.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Unloading, step 2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Shell length is a pressure limit, not a fit question",
+   "action": "Read the chamber length off the side of the barrel and use only that. A 3\" shell will physically enter a 2¾\" chamber and the action will close on it, because a shotshell only reaches its full length once the crimp opens — and it then opens into the forcing cone instead of into the chamber, which builds dangerously high pressures. Browning states the limit both ways: no 3\" or 3½\" shells in a 2¾\" or 2½\" chamber, and no 3½\" shells in a 3\" chamber. Never put a 20-gauge shell in a 12-gauge gun either; the smaller shell hangs up at the choke and a correct shell loaded behind it produces the classic 12-20 burst.",
+   "prose": "Examine every shell as it goes in. Mixed gauges in one bag is how the wrong one gets chambered.",
+   "quote": "USE SHELLS OF THE CORRECT LENGTH. DO NOT USE 3\" OR 3½\" SHELLS IN A BARREL WITH A 2¾\" OR 2½\" CHAMBER, OR 3½\" SHELLS IN A BARREL WITH A 3\" CHAMBER.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Ammunition",
+   "warn": "Shells longer than the inscribed chamber length build dangerously high pressures."
+  },
+  {
+   "phase": "Strip",
+   "title": "Forearm off — close the action first",
+   "action": "Close the action before the forearm comes off; on a break gun the forearm latch works against the barrels and taking it off with the action open leaves the barrels loose on the hinge. Anchor the buttstock against your upper leg, lift outward on the forearm takedown latch at the front of the forearm, and at the same time pivot the forearm down and away from the barrels. It comes away as one piece with the ejector mechanism in it. Handle it by the wood, not by the bracket, and put it down where the projecting steel tab cannot get knocked.",
+   "prose": "The audible click you hear on refitting is the forearm engaging the barrels — remember it, it is the check later.",
+   "quote": "1. Close the action, anchor the buttstock against your upper leg and lift outward on the forearm takedown latch. At the same time, grasp the forearm and pivot the forearm away from the barrels, removing the forearm.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Disassembly, step 1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrels off the hinge pin — lift, do not pull",
+   "action": "Open the action, then carefully disengage the barrel lug from the hinge pin and lift the barrels upward and out. The motion is a rotation off the pin, not a pull forward: the lug's circular recess sits over the pin and comes free only when the barrels are rotated past their open position. These are hand-fitted, polished bearing surfaces, so let them separate rather than forcing them, and never let the lug drag across the pin. You now have the barrel-and-rib assembly in one hand and the receiver-and-buttstock in the other, which is the whole of the Citori field strip.",
+   "prose": "For storage, put the forearm back onto the barrels — that gives two compact units instead of three loose pieces.",
+   "quote": "2. Open the action. Carefully disengage the barrel lug from the hinge pin and lift the barrels upward and out of the action.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Disassembly, step 2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Never force a Citori closed — alignment, not pressure",
+   "action": "When the barrels go back on, the top lever must be held fully to the right and the barrel lug's hinge pin recess must be mated squarely to the receiver's hinge pin before the barrels rotate up. If there is any resistance, stop and start the mating again rather than pushing through it. Browning is explicit that undue force on a misaligned Citori only grinds the two surfaces together and scores or mars the finely fitted metal — the same hand-fitted surfaces that keep the breech tight for the life of the gun. Force does not close a Citori; alignment does, and the action then closes with very little effort.",
+   "prose": "Let the top lever snap back on its own spring when the action closes. Do not retard it with your thumb.",
+   "quote": "NOTICE: WHEN ASSEMBLING YOUR SHOTGUN, DO NOT USE UNDUE FORCE WHEN CLOSING THE ACTION.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Assembly, after step 5",
+   "warn": "Forcing a misaligned Citori closed scores the hand-fitted lug and hinge surfaces permanently."
+  },
+  {
+   "phase": "Strip",
+   "title": "The receiver does not open — that is the published limit",
+   "action": "Three pieces is as far as a Citori comes apart in this book: barrels, forearm, and receiver with buttstock. Browning publishes no procedure for opening the receiver, no trigger-group removal, no ejector or locking-bolt work, and states that attempting to disassemble the inner mechanism assemblies may permanently damage the firearm. This is a boxlock whose lockwork is hand-fitted and whose locking surfaces are made to wear in rather than be adjusted; there is nothing in there an owner is meant to reach. If the action is tight after a full clean and lubrication, that is when it goes to a Browning service centre or a qualified gunsmith.",
+   "prose": "Sand or debris on the breech faces is the usual cause of an action that will not close, and that is cleaned from outside.",
+   "quote": "NOTICE: NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL. YOUR FIREARM IS A SPECIALIZED, FINELY FITTED MECHANISM. YOU MAY PERMANENTLY DAMAGE IT BY ATTEMPTING TO DISASSEMBLE THE INNER MECHANISM ASSEMBLIES.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, closing notice",
+   "warn": "No disassembly beyond forearm and barrels is published for the Citori."
+  },
+  {
+   "phase": "Clean",
+   "title": "Both bores, rod in at the breech",
+   "action": "With the barrels off, clean them the easy way — rod entered at the breech end, following the shot's direction, with a slotted tip or jag and a patch big enough to be a snug fit in the bore. Run it back and forth several times in each barrel, and treat them as two separate jobs: the over and the under foul differently, and on a selective-trigger gun one of them often gets fired far more than the other. Watch the patch as it comes out; a patch that suddenly loosens is telling you it has passed into the choke tube's larger thread relief.",
+   "prose": "Wear eye protection and keep the solvent away from the wood and the receiver's polished flats.",
+   "quote": "Using a shotgun cleaning rod with a slotted tip or cleaning jag and a patch large enough for a snug fit in the bores, insert the rod and a lightly oiled patch in the breech end of the barrels and run back and forth several times in each barrel.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, step 3"
+  },
+  {
+   "phase": "Clean",
+   "title": "Look for leading and plastic streaks from both ends",
+   "action": "Hold each barrel up to a light and look through it from both ends. Leading and plastic wad residue show as longitudinal streaks and they collect in two predictable places — near the muzzle where the shot column swages down into the choke, and just forward of the chamber where the wad first seals. A normal amount of either is common and is not serious. When it looks excessive, wet the bore with powder solvent, scrub with a brass brush, and push the brush fully out the far end each time before pulling it back so the bristles do not fold and break off.",
+   "prose": "Finish with a clean dry patch and then a lightly oiled one, and check no patch was left behind in either barrel.",
+   "quote": "Inspect the bores from both ends for leading and plastic residue that often remains in the bores from the shot cups in modern shotshells.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, step 4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean the chambers promptly — plastic hulls sweat",
+   "action": "Do the chambers on the day you shoot, not the following week, and never leave fired hulls sitting in them. Plastic shotshell bodies hold moisture that sweats out onto the chamber walls, and a Citori chamber is a polished, close-tolerance surface where the resulting corrosion shows as pitting that makes extraction sticky forever after. Swab both chambers with solvent, dry them, and leave a light film of oil. This is the single most common avoidable corrosion problem on a break gun, precisely because the empties sit right there and are easy to forget.",
+   "prose": "The same applies to a gun cased wet after a day in the rain — empty it, dry it and oil the chambers before it goes away.",
+   "quote": "NOTICE: IT IS VERY IMPORTANT THAT THE CHAMBERS OF YOUR SHOTGUN BE CLEANED THOROUGHLY AND PROMPTLY AFTER SHOOTING PLASTIC SHOTSHELLS. DO NOT LEAVE DISCHARGED (EMPTY) SHELLS IN THE CHAMBERS FOR ANY LENGTH OF TIME.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES",
+   "warn": "Never store a Citori with fired hulls in the chambers."
+  },
+  {
+   "phase": "Clean",
+   "title": "Grease — not oil — on the lugs, the hinge pin and the forearm bracket",
+   "action": "This is the maintenance point a Citori will not tolerate being skipped. The barrel lugs, the hinge pin and the forearm bracket are broad, polished, hand-fitted steel surfaces bearing directly on each other every time the gun opens, and Browning requires a film of high-quality grease on them at all times. Oil is not a substitute — it thins, migrates and leaves the surfaces to gall, which on a hand-fitted breech means metal picked up and transferred rather than simple wear. Wipe the old grease off with a rag, look for bright galling marks, and re-apply a thin film. Keep the bulk oil out of the action while you are there: excess runs back into the stock wood, softens it and loosens the head of the stock.",
+   "prose": "The notice is printed three times in this manual — under Initial Cleaning, inside the Assembly steps and again at the end of Cleaning. That repetition is the point.",
+   "caution": "Grease the lugs, hinge pin and forearm bracket. Oil there is not enough and will let them gall.",
+   "quote": "NOTICE: THE BROAD, POLISHED, FINELY FITTED SURFACES OF THE RECEIVER AND FOREARM MECHANISMS (BARREL LUGS, HINGE PIN AND FOREARM BRACKET) MUST ALWAYS BE COATED WITH A FILM OF HIGH QUALITY GREASE.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES (repeated at Initial Cleaning and Assembly)"
+  },
+  {
+   "phase": "Clean",
+   "title": "Which Invector system your Citori has is decided by gauge",
+   "action": "Before you touch a choke tube, establish which system your barrels are threaded for, because Browning assigns it by gauge: current production 12 and 20 gauge Citori barrels take Invector-Plus, and current production 16, 28 gauge and .410 bore Citori barrels take Standard Invector. Confirm it by reading the specifications inscribed on the right side of the barrel rather than by trying tubes for fit — a wrong-system tube can start into the thread and then bind. Note the word \"current production\": an older Citori may be conventionally choked with no tubes at all, and nothing screws into those barrels.",
+   "prose": "Flush tubes are read by the notch code on the top rim; extended tubes carry an abbreviation at the muzzle end.",
+   "caution": "12 and 20 gauge: Invector-Plus. 16, 28 gauge and .410: Standard Invector.",
+   "quote": "Current production 12 and 20 gauge Citori shotgun barrels are threaded to accept the Invector-Plus™ choke system. Current production 16, 28 gauge and .410 bore Citori Shotgun barrels have been threaded to accept the Standard Invector™ choke system.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Interchangeable Choke Tube System"
+  },
+  {
+   "phase": "Clean",
+   "title": "Invector-DS, Invector-Plus and Standard Invector do not interchange",
+   "action": "Three Browning choke systems share a family name and none of them will substitute for another. Do not put an Invector-Plus, Standard Invector or Invector-DS tube into any shotgun barrel that Browning did not supply, and do not put any other maker's choking device into a Browning barrel. The thread and the seat differ between systems, so a tube from the wrong family may go in far enough to feel seated and then be sitting on partial thread with the shot column driving into a step. Use only the correct gauge of Invector tube, and never fire the shotgun with no tube installed at all — that damages the threads inside the muzzle.",
+   "prose": "Use only the Invector wrench supplied with the gun; another wrench can damage the barrel threads.",
+   "quote": "CAUTION: BROWNING INVECTOR-DS, INVECTOR-PLUS AND STANDARD INVECTOR CHOKE TUBES ARE NOT INTERCHANGEABLE. DO NOT USE BROWNING INVECTOR-PLUS, STANDARD INVECTOR OR INVECTOR-DS CHOKE TUBES IN ANY SHOTGUN BARREL NOT SUPPLIED BY BROWNING.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Interchangeable Choke Tube System",
+   "warn": "Never fire a tube-choked Citori barrel with no choke tube installed."
+  },
+  {
+   "phase": "Clean",
+   "title": "Adjustable comb — only on some Citori stocks, and there are two systems",
+   "action": "Check the buttstock before you go looking for adjustment hardware. Some Citori shotguns have a comb adjustable for both cast and drop, and Browning has offered more than one system: one with Allen holes in the right side of the buttstock, and one with a single hole in the upper left of the recoil pad. They are not adjusted the same way — the first has you lift the comb off and slide or shim its posts, the second has you loosen one screw through the recoil pad three full turns and slide the comb. Identify which you have from the stock itself and follow only that subsection. Both use a 7/64\" Allen wrench, and on the post system the posts must stay inserted at least 3/8\".",
+   "prose": "Cast off is comb to the right for a right-handed shooter; cast on is comb to the left. Adjust a little at a time and shoot between changes.",
+   "caution": "Two different comb systems exist. Identify yours before turning any screw.",
+   "quote": "The buttstock of some Citori shotguns features a comb that can be adjusted for both cast and drop.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Adjustable Comb Systems"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stay inside the comb's adjustment range — 11 increments, 1/16\" each",
+   "action": "The recoil-pad-style adjustable comb has a defined range: 11 increments of 1/16\", about 5/8\" of total height, and roughly 1/4\" of cast either way. Do not drive the posts past the end of that range. Browning's notice is that going beyond the increments leaves the comb not properly secured to the shotgun, and an unsecured comb on a recoiling shotgun is a projectile beside your cheek — the manual names injury as well as damage. Raise or lower both posts equally so they do not bind, then tighten the Allen screw in the recoil pad firmly without overtightening.",
+   "prose": "Sliding the comb up decreases drop; sliding it down increases drop. It reads backwards until you think about where your eye sits.",
+   "quote": "NOTICE: DO NOT GO BEYOND THE RANGE OF ADJUSTMENT INCREMENTS. SHOULD THIS OCCUR, THE COMB WILL NOT BE PROPERLY SECURED TO THE SHOTGUN AND COULD RESULT IN INJURY OR DAMAGE TO THE FIREARM.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — ADJUSTABLE COMB WITH A HOLE IN THE RECOIL PAD > DROP AT COMB ADJUSTMENT",
+   "warn": "Past the last increment the comb is no longer properly secured."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Three pieces on the bench: the barrels, the forearm, and the receiver with the buttstock. That is the entire published strip of a Citori and there is nothing further to take off. Note Browning's own distinction — a minimum clean can be done with the barrels still attached, but a full clean requires them off, which is what you have just done. Before the gun goes back together, wipe every metal surface, re-grease the lugs, hinge pin and forearm bracket, and confirm no patch was left in either bore. The Deep Clean covers the choke tubes, the ported barrels and the trigger shoe.",
+   "prose": "For storage, refit the forearm to the barrels so you have two compact units rather than three loose parts.",
+   "quote": "A minimum cleaning includes wiping down the action and lubricating key parts. This can be accomplished with the barrels still attached. A full cleaning requires that you remove the barrels and forearm.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Choke tubes out — wrench to break them, fingers to finish",
+   "action": "With the barrels off and the gun proven unloaded, take each tube out with the Invector wrench supplied with the shotgun: seat the wrench squarely in the tube's notches, turn counterclockwise to break it loose, then finger-twist it the rest of the way out. Do not run the wrench all the way — a wrench cocked in a partly loosened tube is what rounds the notches. Do both barrels and keep the tubes identified; the over and under are frequently different constrictions and a Citori tells you nothing once they are out on the bench.",
+   "prose": "Read the constriction off the side of the tube while it is out. The rim notch code refers specifically to lead shot.",
+   "quote": "2. Use the choke tube wrench to loosen the tube, turning it counterclockwise (Figure 13). Finger-twist the tube the rest of the way out of the barrel.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Interchangeable Choke Tube System > CHOKE TUBE REMOVAL, step 2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean AND oil both sets of threads, or the tube seizes",
+   "action": "Clean the choke tube threads in the muzzle and the threads on the tube itself with a nylon brush and gun solvent, then oil both lightly with a quality lightweight gun oil. This is not cosmetic: a tube left dry in a fouled muzzle thread seizes in the barrel, and a seized choke tube in a hand-fitted Citori barrel is a gunsmith's job with a real chance of damage to the muzzle. Powder residue works past the tube's seat every time you shoot, so the threads are dirty even when the bore looks clean.",
+   "prose": "Check the seat at the front of the thread as well as the thread itself; that is where the crud packs.",
+   "quote": "NOTICE: FAILURE TO CLEAN AND OIL THE THREADS ON THE CHOKE TUBE COULD RESULT IN THE CHOKE TUBE SEIZING IN THE BARREL.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Interchangeable Choke Tube System > CHOKE TUBE INSTALLATION",
+   "warn": "Dry threads seize. Clean and oil both the tube and the muzzle threads every time."
+  },
+  {
+   "phase": "Strip",
+   "title": "Tubes back in — tapered end first, then seated with the wrench",
+   "action": "Start each tube by hand, tapered end into the muzzle first and the notched end outward, and run it down finger-tight before any wrench touches it. Starting by hand is what prevents a cross-thread in a thin barrel wall. Once it is finger-tight, use the Invector wrench to seat it firmly — firmly, not hard. A tube that is merely finger-tight can back out under recoil and shoot loose, and a tube overtightened into a fouled thread is the one that seizes. Check the tubes periodically for tightness as part of routine maintenance.",
+   "prose": "Use only the Invector wrench that came with the gun; any other wrench may damage the barrel threads.",
+   "quote": "3. Using your fingers, screw the appropriate tube into the muzzle of the barrel, tapered end first, notched end outward. When it becomes finger-tight, use the choke tube wrench to firmly seat the tube (Figure 13).",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Interchangeable Choke Tube System > CHOKE TUBE INSTALLATION, step 3"
+  },
+  {
+   "phase": "Clean",
+   "title": "Ported barrels — pipe cleaners into the ports",
+   "action": "Some Citori target models have ported barrels, and the ports fill with carbon in a way the bore does not — they sit in the gas path near the muzzle and are too small for any brush. Wet them with a good-quality powder solvent, let it work, and scrub each port out with a pipe cleaner until the debris comes away. Do this from the outside and then check the bore side for a raised ring of carbon around each hole. Ports left packed stop venting, which quietly returns the muzzle jump the porting was bought to remove.",
+   "prose": "If your barrels are not ported this step does not apply — it is a target-model feature, not standard on the Citori line.",
+   "quote": "Carbon can build up in the ports after shooting. To clean them use a good quality powder solvent and pipe cleaners to scrub away debris.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Barrel Porting"
+  },
+  {
+   "phase": "Clean",
+   "title": "Check the trigger shoe for looseness while you are in there",
+   "action": "Some Citoris carry an adjustable trigger shoe — either a Three Position Trigger with a single shoe or a Triple Trigger System with three interchangeable shoes — clamped to the trigger plate by one 2mm (5/64\") Allen screw. Browning makes checking it part of routine maintenance rather than a one-off setup task, because a shoe that has crept loose on a single-selective-trigger gun changes where your finger sits between the first and second shot. Put the safety rearward before touching it, so you are not dry firing the gun while the shoe moves. Confirm the shoe's notch is aligned with one of the three notches on the trigger plate and that the screw has seated into its recess.",
+   "prose": "Keep the screw threaded at least one thread into the shoe when loosening it, or it is gone into the carpet.",
+   "quote": "Be certain the trigger shoe is secure before firing, and periodically check the shoe for any looseness as part of your cleaning and general maintenance procedures.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Adjustable Trigger Systems > ADJUSTING THE LENGTH OF PULL, step 3"
+  },
+  {
+   "phase": "Clean",
+   "title": "The four lubrication points, by letter",
+   "action": "Browning names exactly where the grease goes when the gun is put back together, and it is worth doing by the list rather than by feel. After the exposed metal is clean: grease into the hinge pin recess of the forward locking lug (A), grease on both sides of the locking lug (B), grease on both sides of the forearm bracket (C), and a single drop of oil on the tab (D). Note that the tab gets oil and the three bearing surfaces get grease — they are doing different jobs, and the tab is a latch rather than a bearing. Regular lubrication at these points is what keeps a Citori's breech tight over decades of use.",
+   "prose": "A thin, even film. Grease packed into the recess just squeezes out and collects grit.",
+   "quote": "2. After carefully cleaning exposed metal areas, apply a film of grease to surfaces shown in Figure 6: (A) Hinge pin recess of forward locking lug; (B) Both sides of the locking lug; (C) Both sides of the forearm bracket; (D) Apply a drop of oil to the tab.",
+   "cite": "Browning Citori Over and Under Shotgun Owner's Manual — UNKNOWN — not printed in the document — Assembly, step 2"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORES & CHAMBERS (barrels off)",
+   "tasks": [
+    "Rod entered at the breech end with a slotted tip or jag and a snug patch, both barrels",
+    "Inspect from both ends for leading and plastic streaks — worst near the muzzles and just forward of the chambers",
+    "Brass brush with powder solvent only when residue is excessive; push it fully through before pulling back",
+    "Clean, dry patch then a lightly oiled patch",
+    "Clean the chambers thoroughly and PROMPTLY after plastic shells; never leave fired hulls in them",
+    "Confirm no patch has been left in either barrel"
+   ]
+  },
+  {
+   "name": "GREASE POINTS (never oil alone)",
+   "tasks": [
+    "Hinge pin recess of the forward locking lug — grease",
+    "Both sides of the locking lug — grease",
+    "Both sides of the forearm bracket — grease",
+    "A drop of oil on the tab",
+    "A film of high-quality grease must be present on these surfaces at ALL times, or they gall"
+   ]
+  },
+  {
+   "name": "RECEIVER, BREECH FACES & WOOD",
+   "tasks": [
+    "Wipe all metal surfaces of receiver, forearm and barrels with a clean rag",
+    "Keep the polished breech surfaces clean and lightly lubricated — debris there stops the action closing",
+    "Do NOT place large quantities of oil into the action; it runs into the stock wood and loosens it",
+    "Wood may be wiped with lightweight gun oil OR polished with furniture wax — not both"
+   ]
+  },
+  {
+   "name": "CHOKE TUBES",
+   "tasks": [
+    "Only the Invector wrench supplied with the shotgun — any other wrench may damage the barrel threads",
+    "Clean tube and muzzle threads with a nylon brush and solvent, then oil both lightly, or the tube seizes",
+    "Never mix Invector-Plus, Standard Invector and Invector-DS — they do not interchange",
+    "Never fire the shotgun without the correct choke tube installed",
+    "Check tubes periodically for tightness"
+   ]
+  },
+  {
+   "name": "PORTED BARRELS (target models only)",
+   "tasks": [
+    "Good-quality powder solvent into the ports",
+    "Pipe cleaners to scrub the carbon out of each port",
+    "Check the bore side for a carbon ring around each hole"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Clean the exposed metal, then grease the hinge pin recess of the forward locking lug, both sides of the locking lug and both sides of the forearm bracket; a drop of oil on the tab.",
+  "Grasp the buttstock's grip in your right hand, anchor it between your forearm and your side, and hold the top lever fully to the right with your thumb.",
+  "Engage the barrel lug's circular hinge pin recess onto the receiver's hinge pin, keeping pressure on the barrels so it stays aligned.",
+  "Rotate the barrels upward to fully close the action, then release the top lever and let it snap back into place under its own spring.",
+  "If anything resists, STOP and start again at the hinge pin — never force a Citori closed.",
+  "Rest the butt against your upper leg, slide the steel tab on the rear of the forearm bracket into its recess in the receiver bottom, and pivot the forearm up to the barrels until it clicks.",
+  "Push the top lever lightly to the left as a check that nothing is trapped in the breech.",
+  "Set the tang safety rearward to the \"S\" and select the barrel order only with it there."
+ ],
+ "fncheck": "Look through both bores against a light and confirm they are clear and that no patch remains. Close the action and confirm the top lever sits at or near centre — it need not return fully centred, but it must not hang over the right edge of the tang, which says the locking bolt is not home. Push the top lever gently left as a check that nothing is trapped in the breech; the action should feel solid with no movement between barrels and receiver. Confirm the forearm clicked fully onto the barrels and does not rock. Check both choke tubes are seated firmly with the Invector wrench and that the correct gauge and system are fitted. Confirm the tang safety moves to \"S\" and that barrel selection only moves with the safety on safe. If a comb or trigger shoe was adjusted, confirm both are secure and the comb is inside its adjustment range. Never test the mechanical function of the shotgun with live ammunition."
+}

@@ -1,0 +1,79 @@
+{
+ "row": "rugersuperblackhawk",
+ "make": "Ruger",
+ "model": "Super Blackhawk",
+ "sourcedFrom": "Ruger New Model Blackhawk, Super Blackhawk, Hunter & Bisley Hunter Instruction Manual — PM057 (2024)",
+ "sourceSha256": "3148625cfab989f70325e412a41a3b77aa6c878d0d32f7930aed123513e434ae",
+ "cleanIntro": "A single-action strip: gate open, base pin out, cylinder out. Ruger documents a further teardown, which is on the Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Gate open, check every chamber",
+   "action": "Point the revolver in a safe direction, open the gate and rotate the cylinder, examining every chamber. Leave the gate open.",
+   "prose": "The open gate is what drops the cylinder latch out of the way for the base pin.",
+   "quote": "With the revolver pointed in a safe direction, open the gate and rotate the cylinder. Examine every chamber in the cylinder to be certain the revolver is unloaded. Leave the gate open.",
+   "cite": "Ruger New Model Blackhawk, Super Blackhawk, Hunter & Bisley Hunter Instruction Manual — PM057 — Disassembly, step 1, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Withdraw the base pin",
+   "action": "Press in fully on the left side of the base pin latch and, holding it in, withdraw the base pin.",
+   "prose": "Fully in. A partly pressed latch will not release the pin and forcing it marks both.",
+   "quote": "Press in fully on the left side of the base pin latch, and while holding it in that position, withdraw the base pin.",
+   "cite": "Ruger New Model Blackhawk, Super Blackhawk, Hunter & Bisley Hunter Instruction Manual — PM057 — Disassembly, step 2, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cylinder out, gate closed",
+   "action": "Remove the cylinder from the loading gate side of the frame, then close the gate.",
+   "prose": "Note this manual has you close the gate afterwards — not every Ruger single-action manual does.",
+   "quote": "Remove the cylinder from the loading gate side of the frame and close the gate. This is as far as you need to go for routine cleaning.",
+   "cite": "Ruger New Model Blackhawk, Super Blackhawk, Hunter & Bisley Hunter Instruction Manual — PM057 — Disassembly, step 3, p.22",
+   "warn": "Never remove, replace or carry a loaded cylinder that is not installed in a revolver. The cartridges can fire if their primers are struck.",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Ruger allows more, with conditions",
+   "action": "Past the strip above the manual documents the ejector housing and the base pin latch.",
+   "prose": "Permission with conditions, not an invitation.",
+   "quote": "The revolver is, at this stage, disassembled as far as it needs to be for major cleaning and maintenance.",
+   "cite": "Ruger New Model Blackhawk, Super Blackhawk, Hunter & Bisley Hunter Instruction Manual — PM057 — Disassembly, beyond routine, p.22"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Ejector housing off — hold it",
+   "action": "Wrap one hand firmly around the barrel and housing before you loosen the ejector housing screw, then lift the housing away from the barrel.",
+   "prose": "The housing holds a compressed spring and the ejector rod. Your hand around it is the only thing keeping it together when the screw lets go.",
+   "caution": "Spring under tension. Keep it pointed away from your face.",
+   "quote": "Wrap one hand firmly around barrel and housing when loosening the screw.",
+   "cite": "Ruger New Model Blackhawk, Super Blackhawk, Hunter & Bisley Hunter Instruction Manual — PM057 — Disassembly, Ejector/Ejector Housing, p.22"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBERS",
+   "tasks": [
+    "With the cylinder out, run a solvent-coated patch through the bore several times",
+    "Push a correctly sized bronze brush the full length of the bore, then swab and dry-patch until clean",
+    "Clean each chamber the same way, and the face of the cylinder"
+   ]
+  },
+  {
+   "name": "BASE PIN & FRAME",
+   "tasks": [
+    "Wipe the base pin and its bore in the frame clean and dry — grit here is what makes a base pin hard to seat",
+    "Clean the frame window and the recoil shield face",
+    "Light oil only"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the cylinder through the loading gate side of the frame.",
+  "Slide the base pin back in, in line with the barrel, until the latch snaps fully over it.",
+  "If the action feels wrong afterwards, seat the base pin again — Ruger names an unseated base pin as the first thing to check."
+ ],
+ "fncheck": "With every chamber confirmed empty: the cylinder should spin freely with distinct clicks as the pawl indexes it, the hammer should not cock with the gate open, and the gate should not open with the hammer cocked."
+}

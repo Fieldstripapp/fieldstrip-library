@@ -1,0 +1,75 @@
+{
+ "row": "mossberg590s",
+ "make": "Mossberg",
+ "model": "590S",
+ "sourcedFrom": "590S™ Pump Action — Supplement to 590® Pump Action and Shockwave Owner's Manuals — Part No. 104592, Rev B (not printed)",
+ "sourceSha256": "f49b0157fb58fcaaeaaa18d92eb9a9888cba1fb0a9a94cb9a8c86efc68f62f4e",
+ "cleanIntro": "The 590S is a 590 that also feeds 1-3/4\" shells, and everything different about it lives in one small part: a short shell bumper on the front of the trigger housing, plus an elevator marked for the short shells. Mossberg's supplement covers those and sends you to the 590 manual for the rest of the strip — which is exactly how this guide is built.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety ON, action open, all three places checked",
+   "action": "Set the safety button fully rearward to ON, keep the muzzle safe, and open the action. Check chamber, elevator and magazine tube by eye and by finger before any part moves — the supplement points you at your own manual's unloading section for the full sequence, and that is where the tube gets emptied.",
+   "quote": "Open the action, visually and physically check the chamber, elevator and magazine tube to ensure the firearm is completely unloaded",
+   "cite": "590S™ Pump Action — Supplement to 590® Pump Action and Shockwave Owner's Manuals — Part No. 104592, Rev B — 590S Supplement, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Eye protection — disassembly, assembly AND cleaning",
+   "action": "The supplement names all three stages, not just the strip.",
+   "quote": "Wear eye protection during disassembly, assembly and cleaning to protect your eyes from oil spatter or spring-loaded components.",
+   "cite": "590S™ Pump Action — Supplement to 590® Pump Action and Shockwave Owner's Manuals — Part No. 104592, Rev B — 590S Supplement, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Confirm you actually have a 590S — read the RECEIVER, not the barrel",
+   "action": "Check the marking on the receiver before you rely on short-shell feeding. A 590S barrel is marked for 1-3/4\", 2-3/4\" and 3\" and it will fit a standard 590 — but only a 590S can cycle the short shells. The receiver marking is what tells you which gun is in your hands.",
+   "quote": "Please confirm that you have a 590S™ by checking the marking on the receiver before attempting to utilize or cycle 1-3/4” shells.",
+   "cite": "590S™ Pump Action — Supplement to 590® Pump Action and Shockwave Owner's Manuals — Part No. 104592, Rev B — 590S Supplement, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "What makes it a 590S — bumper and marked elevator",
+   "action": "Look at the front of the trigger housing for the short shell bumper, and at the elevator for the extended tab marked 1-3/4\"-3\". Those two parts are the whole difference, and both are visible without tools.",
+   "quote": "Your Mossberg 590S™ ships from the factory with a short shell bumper installed on the front of the trigger housing assembly and the elevator has an extended tab marked with 1-3/4”-3”.",
+   "cite": "590S™ Pump Action — Supplement to 590® Pump Action and Shockwave Owner's Manuals — Part No. 104592, Rev B — 590S Supplement, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Base strip — follow your 590 manual from here",
+   "action": "The standard sequence is the 590's: safety on, action open, magazine cap off, barrel forward, then the trigger housing. The supplement does not reprint it and neither does this guide; it directs you to the owner's manual for your gun.",
+   "quote": "you must first remove the trigger housing assembly, refer to the Disassembly/ Trigger Housing Assembly Removal section of your firearms owner’s manual",
+   "cite": "590S™ Pump Action — Supplement to 590® Pump Action and Shockwave Owner's Manuals — Part No. 104592, Rev B — 590S Supplement, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Short shell bumper off — disconnector down, slide it clear",
+   "action": "With the trigger housing out, depress the disconnector and slide the short shell bumper away from the action lock lever. It lives in a dovetail; nothing else needs to come apart.",
+   "aside": "No further disassembly is required.",
+   "quote": "Once the trigger housing assembly has been removed, depress the disconnector and slide the short shell bumper away from the action lock lever as shown in figure 1.",
+   "cite": "590S™ Pump Action — Supplement to 590® Pump Action and Shockwave Owner's Manuals — Part No. 104592, Rev B — 590S Supplement, p.2"
+  }
+ ],
+ "deepAbsentReason": "The supplement publishes exactly one procedure of its own — the short shell bumper — and assigns anything further to a qualified gunsmith or the Product Service Center. Everything deeper belongs to the base 590 manual, and nothing is invented here.",
+ "cleaning": [
+  {
+   "name": "SHORT SHELL BUMPER — a dry wipe and nothing more",
+   "tasks": [
+    "Wipe with a dry cloth; that is the entire instruction",
+    "⛔ No excessive cleaning and no lubrication",
+    "It can be cleaned in place or off the trigger housing",
+    "Everything else follows the 590 manual's own cleaning section"
+   ],
+   "quote": "To clean your short shell bumper, wipe with a dry cloth to remove any dirt or debris build up. No excessive cleaning or lubrication is necessary.",
+   "src": "590S™ Pump Action — Supplement to 590® Pump Action and Shockwave Owner's Manuals, CLEANING, p.3"
+  }
+ ],
+ "reassembly": [
+  "⛔ ORDER MATTERS: the short shell bumper goes in BEFORE the trigger housing.",
+  "Depress the disconnector and slide the bumper into its dovetail toward the action lock lever until it is CENTERED on the trigger housing.",
+  "Then reinstall the trigger housing per your 590 manual's assembly section.",
+  "No ammunition anywhere on the bench while you assemble.",
+  "Function test per the 590 manual before firing."
+ ],
+ "fncheck": "Follow the Function Testing section of your 590 owner's manual — the supplement directs you there rather than publishing its own. ⛔ Additionally, confirm the short shell bumper sits CENTERED on the trigger housing before the gun is used: off-centre is how short shells stop feeding, which is the one thing this gun exists to do."
+}

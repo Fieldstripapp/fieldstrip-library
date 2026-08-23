@@ -1,0 +1,144 @@
+{
+ "row": "sarusasar9",
+ "make": "SAR USA",
+ "model": "SAR9",
+ "sourcedFrom": "SAR9 SERIES SEMI-AUTOMATIC PISTOL OWNER’S MANUAL MAINTENANCE & SPARE PARTS LIST — 102752 - JULy 2022 - Rev0 (ABSENT — no copyright line printed; the document carries a print/revision code (102752 - JULy 2022 - Rev0) and no separate copyright statement.)",
+ "sourceSha256": "f4646bdb73223a042b5e74ec8000a5b4badd01333ea0616103c5d13e97d34227",
+ "cleanIntro": "One book covers nine guns in the SAR9 series and your base SAR9 is the first name on its cover list — but read the model notes before you follow anything. The base SAR9 has NO safety lever, which the manual states outright, so the function-check step that asks you to put the safety on safe is not yours to perform. The strip itself is short and conventional: unload, press the trigger, push the slide takedown down, slide forward off the frame, recoil spring and guide rod out, barrel out. SAR then draws a hard line — a wipe down of the frame is enough and any further breakdown of slide or frame goes to an approved gunsmith.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, chamber checked by eye",
+   "action": "Make sure the pistol is unloaded and the magazine is out before anything else, then visually check that there is no cartridge in the chamber. SAR's own preamble to this section is blunt about why: many of the faults they see come from mistakes made during maintenance, and accidents mostly happen at cleaning time rather than on the firing line.",
+   "prose": "Look into the chamber with the slide held back, not just at the extractor. A striker gun gives you no other warning.",
+   "quote": "a. Make sure that the firearm is unloaded and the magazine is removed before disassembling the firearm for cleaning and maintenance.",
+   "cite": "SAR9 SERIES SEMI-AUTOMATIC PISTOL OWNER’S MANUAL MAINTENANCE & SPARE PARTS LIST — 102752 - JULy 2022 - Rev0 — 4.2. Disassembling Your Firearm, p.23",
+   "warn": "Past experiences have shown that accidents mostly happen at the time of cleaning the firearm."
+  },
+  {
+   "phase": "Clear",
+   "title": "A base SAR9 has NO safety lever",
+   "action": "Check the frame above the trigger before you read another line of this book. SAR states that there is no safety lever on the SAR9, the SAR9 T METE or the SAR9 C — the ambidextrous safety lever shown in the diagrams belongs to the other models in the series. That matters at the end of this job, because the manual's function check tells you to put the safety on safe and press the trigger, and on a base SAR9 there is nothing to put on safe.",
+   "prose": "Nine models share this one book. The lever, the cooling channel and the suppressor thread are all present on some and absent on others.",
+   "caution": "No manual safety on this model. The trigger safety and striker safety are what you have.",
+   "quote": "Note: SARSILMAZ reserves the right to modify or change the model without any notice. There isn’t a safety lever on SAR9, SAR9 T METE AND SAR9 C",
+   "cite": "SAR9 SERIES SEMI-AUTOMATIC PISTOL OWNER’S MANUAL MAINTENANCE & SPARE PARTS LIST — 102752 - JULy 2022 - Rev0 — 2.4.1, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Muzzle safe, then press the trigger",
+   "action": "With the pistol confirmed empty, point it in a safe direction and press the trigger. This releases the striker, which is what allows the slide takedown to travel. It is a required step in SAR's sequence, not an optional one, and it is exactly the moment a gun that was not properly cleared discharges.",
+   "prose": "Do it deliberately, over something that would stop a bullet. There is no manual safety on this model to fall back on.",
+   "quote": "c. Make sure that the firearm points in a safe direction and then pull the trigger. d. Push down on the slide takedown. (Figure 13)",
+   "cite": "SAR9 SERIES SEMI-AUTOMATIC PISTOL OWNER’S MANUAL MAINTENANCE & SPARE PARTS LIST — 102752 - JULy 2022 - Rev0 — 4.2. Disassembling Your Firearm, p.23",
+   "warn": "Muzzle in a safe direction before the trigger is touched."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide takedown down, slide off the front",
+   "action": "Push the slide takedown lever down on both sides and run the slide forward off the frame rails. It should come off smoothly with the takedown held down; if it binds, the striker has been reset by drawing the slide too far back, and the fix is to reassemble, press the trigger again and repeat.",
+   "prose": "Set the frame aside once the slide is off. Nothing in it comes apart.",
+   "quote": "a. Remove the slide from the frame. (Figure 14)",
+   "cite": "SAR9 SERIES SEMI-AUTOMATIC PISTOL OWNER’S MANUAL MAINTENANCE & SPARE PARTS LIST — 102752 - JULy 2022 - Rev0 — 4.2. Disassembling Your Firearm, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide upside down, recoil spring and guide rod out",
+   "action": "Flip the slide over and lift out the recoil spring and guide rod assembly. It is captive and comes out as one unit — push it slightly forward to unseat its rear end from the barrel lug, then lift it clear. Keep a thumb over it: it is under spring load until it is out of the lug.",
+   "prose": "Note which end faced the muzzle. It goes back the same way round.",
+   "caution": "The assembly is under tension until it clears the barrel lug.",
+   "quote": "b. Set the frame to the side. Flip slide upside down and removes recoil spring and guide rod assembly (Figure 15)",
+   "cite": "SAR9 SERIES SEMI-AUTOMATIC PISTOL OWNER’S MANUAL MAINTENANCE & SPARE PARTS LIST — 102752 - JULy 2022 - Rev0 — 4.2. Disassembling Your Firearm, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out — and one extra part on the SP",
+   "action": "Lift the barrel out of the slide. If yours were the SAR9 SP, the silencer thread guard ring would have to come off first by turning it CLOCKWISE, because it is a reverse thread — but on a base SAR9 there is no thread guard ring and no extra step. That paragraph is one of the several places this nine-model book prints an instruction that is not yours.",
+   "prose": "Four parts on the bench now: slide, barrel, recoil spring and rod, frame. Plus the magazine.",
+   "aside": "The reverse-thread guard ring belongs to the suppressor-ready SP, not to a base SAR9.",
+   "quote": "c. Remove the barrel from the cap. (Figure 16) Before removing the barrel in the SAR9 SP model, remove the silencer thread guard ring by turning it clockwise (opposite thread). Then remove the barrel from the cap. (Fig. 16-A)",
+   "cite": "SAR9 SERIES SEMI-AUTOMATIC PISTOL OWNER’S MANUAL MAINTENANCE & SPARE PARTS LIST — 102752 - JULy 2022 - Rev0 — 4.2. Disassembling Your Firearm, p.24"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore with a copper or bronze brush — not steel",
+   "action": "Clean the barrel from the CHAMBER end with a copper or bronze brush wet with cleaning oil; SAR specifically does not recommend a steel or bristle brush. Follow with the cleaning rod and a cloth through the chamber end, then pass an oiled cloth through to leave a protective film, and put a few drops on the barrel's outer surface.",
+   "prose": "Chamber-to-muzzle keeps fouling travelling the way the bullet went and keeps the brush off the crown.",
+   "quote": "a. Clean the barrel with proper cleaning oil with a copper / bronze made brush (steel and bristle brush not recommended) inserting through chamber opening (Figure 17)",
+   "cite": "SAR9 SERIES SEMI-AUTOMATIC PISTOL OWNER’S MANUAL MAINTENANCE & SPARE PARTS LIST — 102752 - JULy 2022 - Rev0 — Barrel, p.26",
+   "warn": "e. Prior to firing, remove excess oil from chamber with a clean cloth."
+  },
+  {
+   "phase": "Clean",
+   "title": "Slide rails, extractor, and the back of the trigger bar",
+   "action": "Clean the slide rails and the extractor area with a plastic or copper-fibre brush and cleaning oil to get the powder fouling out, then dry and lubricate the slide channels and the joint face. On the frame, lubricate the guide rails and — this is the one people miss — the BACK of the trigger bar, for which SAR asks for a high-viscosity oil or grease rather than thin oil.",
+   "prose": "The trigger bar's back face is a sliding contact that carries the whole trigger pull. Thin oil runs off it in a week.",
+   "caution": "WARNING! ATTENTION: Please avoid excessive lubricating",
+   "quote": "c. Lubricate guide rails. Lubricate the backside of trigger bar with cleaning oil or grease oil (high viscosity required) (Figure 21)",
+   "cite": "SAR9 SERIES SEMI-AUTOMATIC PISTOL OWNER’S MANUAL MAINTENANCE & SPARE PARTS LIST — 102752 - JULy 2022 - Rev0 — Frame, p.28"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stop at a wipe down of the frame",
+   "action": "Do not take the slide or the frame down any further. SAR states that a basic wipe down of the frame is more than efficient, that no further disassembly of slide or frame is necessary, and that any further breakdown should only be done by approved gunsmiths. That covers the striker assembly, the extractor and the whole fire control group.",
+   "prose": "The field strip already reaches every surface that fouls. What is behind the breech face is not user-serviceable on this pistol.",
+   "quote": "WARNING A basic wipe down of the frame is more than efficient. No further disassembly of the slide or frame is necessary. Any further breakdown should only be completed 16 by allowed/approved gunsmiths.",
+   "cite": "SAR9 SERIES SEMI-AUTOMATIC PISTOL OWNER’S MANUAL MAINTENANCE & SPARE PARTS LIST — 102752 - JULy 2022 - Rev0 — 4.2. Disassembling Your Firearm, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Slide, barrel, recoil spring and guide rod, frame, magazine — the five parts the manual itself numbers in its diagram. That is the whole published strip for a SAR9 and SAR draws the line immediately after it. Reassemble by putting the barrel in first, then the recoil assembly, then running the slide on from the front until the takedown clicks home.",
+   "prose": "The magazine can be stripped for cleaning separately; the manual covers that in 4.6 and it is not part of the field strip.",
+   "quote": "1 Slide\n\n2 Barrel\n\n3 Recoil Spring & Rod\n\n4 Frame\n\n5 Magazine",
+   "cite": "SAR9 SERIES SEMI-AUTOMATIC PISTOL OWNER’S MANUAL MAINTENANCE & SPARE PARTS LIST — 102752 - JULy 2022 - Rev0 — 4.3. Maintenance and Cleaning of Your Firearm, p.25",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "SAR publishes NO deeper procedure for the SAR9 and says so in the disassembly section itself: 'A basic wipe down of the frame is more than efficient. No further disassembly of the slide or frame is necessary. Any further breakdown should only be completed by allowed/approved gunsmiths.' (4.2, p.24). The only other teardowns in the book are the magazine (4.6), the back strap and side plates (4.7), and the SAR9 SOCOM's silencer thread protector (4.9) — the last of which is scoped by the manual to a different model. None of them is a deeper clean of the pistol itself, so there is nothing published to walk and a striker or fire-control teardown would be invented.",
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Copper or bronze brush with cleaning oil, inserted through the CHAMBER opening — not a steel brush",
+    "Cleaning rod and cloth through the chamber end",
+    "Oiled cloth through the bore to leave a protective film",
+    "A few drops on the outer surface of the barrel",
+    "Wipe excess oil out of the chamber before firing"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Plastic or copper-fibre brush with cleaning oil on the slide rails and extractor parts",
+    "Compressed air if available, then dry with a cloth",
+    "Lubricate the slide channels and the joint face — sparingly"
+   ]
+  },
+  {
+   "name": "FRAME",
+   "tasks": [
+    "Plastic or copper-fibre brush with cleaning oil or chemical, then dry",
+    "Lubricate the guide rails",
+    "Lubricate the BACK of the trigger bar with a high-viscosity oil or grease",
+    "Wipe down only — no further disassembly of the frame"
+   ]
+  },
+  {
+   "name": "RECOIL ASSEMBLY & MAGAZINE",
+   "tasks": [
+    "Plastic brush with cleaning oil on the recoil assembly, dry, then a light protective oil",
+    "Wipe the magazine body and follower; never spray oil on the cartridges",
+    "Store the pistol in its original case once properly cleaned"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Set the barrel back into the slide in its rearward locked position.",
+  "Insert the recoil spring and guide rod assembly into the slide, flat end toward the chamber.",
+  "Guide the slide onto the frame rails from the FRONT and rack it fully rearward — a click confirms the slide takedown has secured.",
+  "Rack the slide a few times and check it moves freely; do not ride it forward with your hand.",
+  "Check the trigger function on the empty pistol before a magazine goes near it."
+ ],
+ "fncheck": "After cleaning, rack the slide rearwards and release it a few times and confirm it moves freely — do not ride it. Then press the trigger in a safe direction and confirm the striker drops. SAR's printed function check also asks you to set the safety to safe, press the trigger and confirm the firing pin does NOT drop, then switch to fire and confirm it does — but note that this step does not apply to a base SAR9, which the manual states has no safety lever (p.12). On this model, check instead that the trigger safety blade must be depressed for the trigger to move at all, and that the striker status indicator shows correctly."
+}

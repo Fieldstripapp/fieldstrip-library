@@ -1,0 +1,154 @@
+{
+ "row": "tacticalsolutionsaxiom",
+ "make": "Tactical Solutions",
+ "model": "Axiom",
+ "sourcedFrom": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. (ABSENT — no copyright line printed.)",
+ "sourceSha256": "eae6860ee5153b1da4f3d0d653e23812a3533fc28162f652a20a185164e93093",
+ "cleanIntro": "The AXIOM is a genuinely take-apart rimfire can and Tactical Solutions publishes the whole teardown on a two-page sheet it shares with the AERIS and the ASCENT22. That sharing matters in one specific place: the assembly instruction says EIGHT baffles and then carves the AERIS out at three, so the AXIOM is an eight-baffle stack and you must not read the AERIS figure onto it. It runs DRY — no fluids of any kind — mounts on 1/2 x 28 threads with at most 0.500 inches of thread, and wants cleaning every 500 rounds. Everything about clearing your host firearm comes from the host's own manual, which this sheet explicitly says takes precedence over anything printed here.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Unload the host — and go to the host's own manual for how",
+   "action": "Unload the firearm, then visually AND physically check that the chamber is empty and the magazine is out. Tactical Solutions puts a mandatory-use-of-factory-manual warning at the very top of this sheet: where their words and your gun maker's words disagree, the gun maker wins. So the clearing procedure for a 10/22, a Buck Mark or a Ruger Mark IV comes out of that gun's book, not out of this one.",
+   "prose": "Physically means a finger in the chamber, not a glance. Rimfire hosts hold a round in the chamber with nothing but the extractor, and a .22 case is small enough to be missed by eye in poor light.",
+   "quote": "This manual in no way replaces or supersedes information or instructions from your gun manufacturer. In the event of a difference or conflict between your manufacturer’s information and information contained herein, the official manufacture’s instructions shall always take precedence.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Mandatory Use of Factory Manual Warning, p.1",
+   "warn": "NEVER CLEAN, LUBRICATE, DISASSEMBLE, REASSEMBLE OR WORK ON ANY FIREARM WHILE IT IS LOADED."
+  },
+  {
+   "phase": "Clear",
+   "title": "AXIOM calibers — and it is a DRY can",
+   "action": "Confirm what you have been shooting through it. The AXIOM is rated for .22 Long Rifle, .17HMR, .17WSM, .22WMR, .22 Hornet and 5.7x28 — note that .17HM2 is on the AERIS and ASCENT22 lists but NOT on the AXIOM's. It is also a dry suppressor: no water, no gel, no ablative of any kind goes into it, and Tactical Solutions says adding fluid before firing may damage it.",
+   "prose": "The three cans on this sheet have three different caliber lists. Reading the AERIS line because it is the paragraph above is exactly the mistake the shared sheet invites.",
+   "caution": "AXIOM: .22 LR, .17HMR, .17WSM, .22WMR, .22 Hornet, 5.7X28. Dry only.",
+   "quote": "The suppressor is designed to perform best with .22LR subsonic ammunition and to be used “dry” without any fluids added to the suppressor. The addition of any fluids to the suppressor prior to firing the suppressor may damage the suppressor.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Use of Suppressor, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Let it cool, then unscrew it off the barrel",
+   "action": "The can will be hot enough to burn you after firing, so give it time before you put a hand on it. Then unscrew it anticlockwise off the barrel by hand. It went on hand-tight and it should come off hand-tight; if it fights you, the threads are dirty rather than seized, and forcing it is how a 1/2-28 rimfire thread gets galled.",
+   "prose": "Check it periodically while shooting, too — a can that has walked loose on the threads is a baffle strike waiting to happen.",
+   "quote": "Make sure the suppressor is screwed onto the barrel snugly by hand and check periodically to make sure the suppressor is attached tightly when shooting. Caution: the suppressor will be hot after using and can burn the user if proper caution is not used.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Installation of Suppressor, p.1",
+   "warn": "Hot. Let it reach ambient before handling."
+  },
+  {
+   "phase": "Strip",
+   "title": "End cap off with the supplied wrench",
+   "action": "Slide the supplied suppressor wrench over the end cap so its notches drop into the matching grooves in the cap, hold the suppressor body firmly in the other hand, and turn the wrench anticlockwise. Make sure every notch is seated before you load the wrench — a wrench riding on one or two notches rounds the grooves off, and a rounded end cap is a can that never opens again.",
+   "prose": "The wrench is item 1 on the schematic and is the only tool that belongs on these grooves. No pliers, no strap wrench.",
+   "quote": "Slide the suppressor wrench over the end cap aligning the notches on the wrench with the corresponding grooves in the end cap. While holding the suppressor body firmly in one hand turn the suppressor wrench counter clockwise to unscrew the end cap.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Disassembly of Suppressor, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Tip the shield and baffle stack out",
+   "action": "With the cap off, turn the suppressor so the open end points down and let the shield and its baffles slide out. If carbon has locked them in and nothing moves, do not tap or lever it — take the thread adapter off the other end with the same wrench, anticlockwise, and push the stack out from behind instead.",
+   "prose": "The stack comes out as one column. Note which end came out first; the blast baffle is at the rear and it has to go back that way round.",
+   "caution": "Push it out from the rear rather than forcing it out of the front.",
+   "quote": "Once the end cap is unscrewed the suppressor can be turned so the open end is down the baffles and shield slide out. If an excess of carbon has built up within the suppressor and the baffles/shield will not slide out of the suppressor, the thread adapter will need to be removed as well so that the baffles/shield can be pushed out of the suppressor body.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Disassembly of Suppressor, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Soak in mineral spirits, then nylon brush",
+   "action": "Soak the disassembled parts in mineral spirits for 12 to 24 hours, then scrub them with a nylon brush to take off what is left. Wipe every part clean of residual spirits and debris with a cloth before anything goes back together, and clean the barrel threads and the suppressor threads too — carbon on a thread is what makes the next removal a fight.",
+   "prose": "Tactical Solutions' interval is every 500 rounds, which on a rimfire is not long. Leaving it is what turns a slide-out stack into a stuck one.",
+   "quote": "We recommend using mineral spirits to soak the disassembled suppressor for 12-24 hours at a time. Once the disassembled suppressor has soaked, we then recommend scrubbing the parts with a nylon brush to remove any remaining carbon.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Cleaning of Suppressor, p.1",
+   "warn": "Caution: Use protective eyewear and solvent resistant gloves when cleaning your suppressor. Only use cleaning solvents in well ventilated areas and avoid breathing vapors."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You have the body, the end cap, the thread adapter, the shield and the baffle stack. That is the full extent of the AXIOM teardown Tactical Solutions publishes, and it is also its deep clean — there is nothing sealed inside it. Deep Clean walks the baffle-by-baffle separation and the eight-baffle reassembly, which is the part that goes wrong if you rush it.",
+   "prose": "Do not lose the blast baffle's orientation. It is the one part on this can that only fits one way round and will still physically go in backwards.",
+   "quote": "You are now ready to clean your suppressor.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Disassembly of Suppressor, p.1",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Blast baffle out of the shield first",
+   "action": "With the shield and baffles out of the body, pull the blast baffle out of the shield, then push the remaining baffles out behind it. If they will not push out easily, stop pushing and put the shield and the baffles back into the mineral spirits — carbon between a baffle's outside diameter and the shield bore is what is holding them, and soaking releases it where force only jams it harder.",
+   "prose": "The blast baffle is item 6 on the schematic and the rest are item 7. It sits at the rear because it takes the first and hottest gas.",
+   "caution": "If they will not push out, soak again rather than forcing them.",
+   "quote": "Once the shield and baffles have been removed from the suppressor body the blast baffle can be pulled from the shield and the remaining baffles should be able to be pushed out of the shield.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Disassembly of Suppressor, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Thread adapter back into the body",
+   "action": "Screw the thread adapter into the suppressor body, then bring the wrench over the adapter with its notches in the adapter's grooves and turn clockwise. Tighten it firmly to the body — this is the joint that carries the whole can on the barrel, and unlike the end cap it is not a hand-tight fit.",
+   "prose": "Do this before the baffles go in. Getting the adapter in afterwards means taking the stack back out.",
+   "quote": "Screw the thread adapter into the suppressor body. Slide the suppressor wrench over the thread adapter, aligning the notches on the wrench with the corresponding grooves in the thread adaptor. While holding the suppressor body firmly in one hand turn the suppressor wrench clockwise to screw in the thread adaptor. Firmly tighten the thread adapter to suppressor body.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Assembly of Suppressor, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Blast baffle in — gas port AWAY from the slot",
+   "action": "Put the blast baffle into the shield with its gas port facing opposite the slot in the shield. Then turn the shield upright so the blast baffle is at the bottom end and load the remaining baffles in flat side down. Get the blast baffle's clocking wrong here and every baffle behind it is indexed wrong, because you align the whole stack to this one.",
+   "prose": "The slot in the shield is your reference mark for the entire reassembly. Find it before the first baffle goes in.",
+   "quote": "Place blast baffle into the shield with the gas port facing opposite to the slot in the shield.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Assembly of Suppressor, p.2",
+   "warn": "Flat side down for every baffle after the blast baffle."
+  },
+  {
+   "phase": "Clean",
+   "title": "Eight baffles on the AXIOM — not three",
+   "action": "Align all eight baffles so their gas ports line up with one another and face opposite the slot in the shield. Eight is the AXIOM's count: the sheet's own bracket carves the AERIS out at three, and that carve-out is the one place this shared document differs by model. Count them back in and check the ports down the length of the stack before the cap goes on.",
+   "prose": "A misclocked baffle does not announce itself. The can goes back together, sounds worse, and eventually strikes.",
+   "caution": "AXIOM: eight baffles. The three-baffle figure on this sheet is the AERIS only.",
+   "quote": "Align all eight baffles [the AERIS suppresor has a 3 baffle system] so that the gas ports are aligned with one another and facing opposite from the slot in the shield.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Assembly of Suppressor, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stack into the body, end cap back on",
+   "action": "Slide the loaded shield back into the suppressor body and fit the end cap. Bring the wrench onto the cap with every notch seated and turn it clockwise. Before you do, make sure no mineral spirits or carbon residue is left anywhere on the parts or on the barrel and suppressor threads.",
+   "prose": "Wipe the exterior down as well. Spirits left on the outside will lift the finish over time.",
+   "quote": "Use a cloth to wipe any residual mineral spirits or debris from the suppressor before assembling. Wipe any excess off of the exterior of the suppressor with a clean cloth. Make sure to clean any residue off of the barrel and suppressor threads before attaching the suppressor to a firearm.",
+   "cite": "AERIS™ AXIOM™ & ASCENT22™ PREMIUM RIMFIRE SUPPRESSORS — ABSENT — no revision, date code or edition statement anywhere on either page. — Cleaning of Suppressor, p.1"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BAFFLE STACK",
+   "tasks": [
+    "Soak the disassembled parts in mineral spirits, 12-24 hours",
+    "Scrub with a NYLON brush — nothing harder",
+    "Wipe every part free of residual spirits and debris before reassembly",
+    "Cleaning interval: every 500 rounds"
+   ]
+  },
+  {
+   "name": "THREADS",
+   "tasks": [
+    "Clean the barrel threads and the suppressor threads before the can goes back on",
+    "1/2 x 28, maximum thread length 0.500 inches",
+    "If it will not thread on smoothly, back it off and re-check the threads rather than forcing it"
+   ]
+  },
+  {
+   "name": "AXIOM-SPECIFIC",
+   "tasks": [
+    "EIGHT baffles go back in — the three-baffle figure on this sheet is the AERIS",
+    "Gas ports all aligned, all facing opposite the slot in the shield",
+    "Blast baffle at the rear, flat sides down on the rest",
+    "Dry only — no fluids, no ablatives"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Thread adapter into the body, wrench clockwise, tightened firmly.",
+  "Blast baffle into the shield with its gas port opposite the shield slot.",
+  "Shield upright with the blast baffle at the bottom; remaining baffles in flat side down.",
+  "All eight baffles clocked so the gas ports align with one another and face opposite the slot.",
+  "Shield into the body, end cap on with the wrench clockwise, every notch seated.",
+  "Threads cleaned, then the can hand-tight onto a 1/2-28 barrel."
+ ],
+ "fncheck": "Before the can goes back on the host, look straight down the bore of the assembled suppressor against a light — the baffle apertures should form one clean, concentric tunnel with nothing stepped into the path. Check the end cap and the thread adapter are both tight, then thread the can onto a clean barrel by hand until snug. It should start smoothly with no cross-thread resistance; if it does not, take it off, clean both threads and start again. Re-check tightness periodically during the shooting session."
+}

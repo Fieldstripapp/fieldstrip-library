@@ -1,0 +1,251 @@
+{
+ "row": "bergarab14ridge",
+ "make": "Bergara",
+ "model": "B-14 Ridge",
+ "sourcedFrom": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it (UNDATED — no copyright year is printed anywhere in the document. The cached file's name carries 2018, and a file name is not evidence.)",
+ "sourceSha256": "8d9d89b28c370d3fa4588940a98ad53603d5d7f828072387de86033740c71793",
+ "cleanIntro": "Bergara's own field strip and cleaning for the centerfire B-14. This is the B-14 series book — it opens \"Thank you for buying a Bergara B14 bolt action rifle\" — and it names no individual variant anywhere in its 52 pages, so it is the manual for the Ridge as much as for any other B-14; the reasoning is recorded on the row rather than assumed. The whole document is an image-only scan with no text layer, read here by OCR under the 2026-08-20 ruling with hash, tool and date on record. It covers both feed systems the B-14 line is built with — the hinged floorplate and the detachable magazine — in the same sentence of the field strip, which is why one book serves the whole series. ⚠ Do not confuse it with Bergara's B14-manual-3.21.pdf, which is the B-14 R RIMFIRE trainer. Bergara's own headline is the 24-hour rule: a barrel not cleaned within a day of firing starts to corrode.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Empty it — floorplate or magazine",
+   "action": "Unload the rifle before anything else: release the hinged floorplate, or take the detachable magazine out, depending on which system your rifle has. Bergara's own field strip covers both in the same sentence.",
+   "prose": "That single sentence is why this book works for the whole B-14 line — the strip does not depend on which feed system you have.",
+   "quote": "Unload the rifle by releasing the floorplate or remove the detachable magazine.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 16. FIELD STRIP, printed p.15"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look through the barrel from the chamber end",
+   "action": "With the bolt back, verify there is no cartridge in the chamber or the bore by looking through the barrel from the chamber side.",
+   "prose": "From the chamber side, with the bolt out of the way — the only view that shows you both the chamber and the bore in one look.",
+   "quote": "To dismantle the gun for cleaning or inspection, take the following steps",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 16. FIELD STRIP, printed p.15",
+   "warn": "Never dismantle, clean or oil a rifle that has not been confirmed empty."
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt back to an inch short of the stop",
+   "action": "Lift the bolt handle and draw the bolt back until it sits about 25 mm — one inch — short of its stop.",
+   "prose": "Not all the way back. The bolt release only lines up with its catch in that last inch of travel.",
+   "quote": "Position the bolt about 25 mm (1 inch) before the stop.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 16. FIELD STRIP, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Push the retractable stop and draw the bolt out",
+   "action": "Push the release for the retractable bolt stop on the left of the receiver and pull the bolt straight back out of the action.",
+   "prose": "If the bolt will not come, it is too far back or not far enough — reset it to that inch-short position and try again rather than forcing it.",
+   "quote": "Push the release of the retractable stop and remove the bolt.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 16. FIELD STRIP, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Bolt and rifle. That is the whole of the strip Bergara publishes for the B-14, and everything the cleaning section asks for is reachable from here: the bore is open from the breech, the bolt face, extractor, ejector and lugs are all in the open, and the inside of the receiver can be reached with a cloth. Deep Clean below covers taking the stock off, which is Bergara's own published procedure.",
+   "prose": "There is no bolt-disassembly procedure in this book. The bolt body, firing pin, firing pin spring, bushing, lock and shroud appear in the parts description and nowhere in any instruction.",
+   "quote": "Press the release of the retractable stop and insert the bolt. Rotate the bolt until it aligns with the channel.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 16. FIELD STRIP, printed p.15",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "The 24-hour rule",
+   "action": "Clean the rifle after a day of hunting or a session on the range, and do it within 24 hours of firing. Bergara states that corrosion starts to appear on components after that, sooner in a humid environment.",
+   "prose": "Let the barrel cool down before you start cleaning it. That is the same instruction the barrel break-in section gives.",
+   "aside": "Allow the barrel to cool down before you start cleaning.",
+   "quote": "After firing a shot with the rifle, if it is not cleaned properly within 24 hours corrosion will start to appear in some of the components of the firearm.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 17. CLEANING AND MAINTENANCE, printed p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "Chamber to muzzle, one-piece rod",
+   "action": "Clean the barrel from the chamber towards the muzzle and never the other way. Use a quality one-piece cleaning rod if you have one.",
+   "prose": "Bergara puts the consequence in plain terms — cleaning in the opposite direction seriously affects accuracy, and a sectioned rod flexing against the bore is how the damage happens.",
+   "aside": "If possible, use a quality, one piece cleaning rod to avoid damaging the bore.",
+   "quote": "The correct direction for cleaning is from the chamber to the muzzle. Cleaning the barrel in the opposite direction seriously affects the accuracy.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 17. CLEANING AND MAINTENANCE — Barrel, printed p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "High quality brush — and NOT stainless",
+   "action": "Use a high quality brush in the bore and avoid stainless steel brushes. Clean the chamber as well, with a brush suited to it.",
+   "prose": "A stainless brush is harder than the bore it is being pushed through. That is the whole objection, and it applies to every stroke.",
+   "aside": "It is highly recommended to also clean the chamber. Use a suitable brush.",
+   "quote": "Use a high quality brush for cleaning the bore. Avoid stainless steel brushes.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 17. CLEANING AND MAINTENANCE — Barrel, printed p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "Keep the copper down",
+   "action": "Do not let copper accumulate in the bore, and use cleaning products suited to the job so the barrel's life is not shortened.",
+   "prose": "Bergara ties this straight to accuracy rather than to appearance: copper build-up significantly reduces it, so this is a performance item on a precision rifle.",
+   "quote": "Try to avoid the accumulation of too much copper in the bore.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 17. CLEANING AND MAINTENANCE — Barrel, printed p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "Oil in for storage, dry patch out before shooting",
+   "action": "After cleaning the bore, run an oil-soaked patch through it to stop rust. Before you shoot, run a dry cloth through to take that oil back out.",
+   "prose": "Bergara flags the reason as Important in its own right: traces of oil left in the barrel at the moment of firing can cause overpressure.",
+   "quote": "After cleaning the bore, apply a patch (a cloth square) soaked in gun oil to prevent rust. Run a dry cloth through it before shooting to remove the oil and not damage the bore.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 17. CLEANING AND MAINTENANCE — Barrel, printed p.16",
+   "warn": "Important: Traces of oil inside the barrel at the moment of firing can cause overpressure."
+  },
+  {
+   "phase": "Clean",
+   "title": "Check the crown every time",
+   "action": "Inspect the crowning at the muzzle regularly for damage.",
+   "prose": "A knock on the crown is invisible from a metre away and shows up immediately on paper. Check it when the rod comes out, every time.",
+   "quote": "Check the crowning regularly for damage because this can seriously affect the accuracy.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 17. CLEANING AND MAINTENANCE — Barrel, printed p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt and receiver interior",
+   "action": "Wipe the whole bolt and the inside of the receiver with a cloth carrying a suitable residue-removing product. Then take a brush to the bolt face and the extractor, and to the exposed area of the firing mechanism and the bolt head lugs.",
+   "prose": "The bolt face and extractor are where the primer and case residue collect, and the lugs are what the rifle locks up on. Both matter more on a rifle bought for accuracy than on anything else in the strip.",
+   "aside": "Using a brush, clean the bolt face and extractor. Also clean the exposed area of the firing mechanism and the bolt head lugs.",
+   "quote": "Clean the entire bolt and the inside of the receiver with a cloth impregnated with a suitable product to remove residues.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 17. CLEANING AND MAINTENANCE — Receiver and bolt, printed p.17"
+  },
+  {
+   "phase": "Clean",
+   "title": "Grease the lugs, oil the ejector and extractor",
+   "action": "Lubricate or grease the body of the bolt, the lugs, the cocking channel and the safety catch. Put a drop of suitable oil periodically on the ejector and the extractor — just enough for a very thin film.",
+   "prose": "A very thin film is the target. Bergara's own troubleshooting for a stiff bolt or a sticky ejector is exactly this: clean, then lubricate the area.",
+   "aside": "Periodically, a drop of suitable oil should be placed on the ejector and the extractor",
+   "quote": "The body of the bolt, the lugs, the cocking channel and the safety catch must be lubricated or greased.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 17. CLEANING AND MAINTENANCE — Receiver and bolt, printed p.17"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stock, and then the last coat of oil",
+   "action": "Take dust off the outside with a fine brush. A synthetic stock cleans up with a damp microfibre cloth; a wooden one is oil-finished from the factory and generally only needs drying after use, with an occasional application of good stock oil. When everything is clean, lubricate all the exposed metal.",
+   "prose": "Store it in a safe with some means of keeping the humidity down, and take it out from time to time to clean it even when it has not been shot.",
+   "aside": "After cleaning, lubricate all the exposed metal parts of the rifle.",
+   "quote": "The synthetic stock is easily cleaned with a damp microfiber cloth.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 17. CLEANING AND MAINTENANCE — Stock, printed p.17"
+  },
+  {
+   "phase": "Clean",
+   "title": "How it goes away",
+   "action": "Store the rifle in a safe with a method for reducing relative humidity. If it is going into the rack for a long stretch, store it uncocked with the firing pin spring at rest rather than compressed.",
+   "prose": "Bergara also makes the point negatively: a rifle returned dirty or corroded is a rifle whose warranty has been voided, and so is one damaged by not following this manual.",
+   "aside": "Store your gun in a safe including a method for reducing the relative humidity.",
+   "quote": "If you are going to keep the rifle in the gun rack for an extended time, store it uncocked, with the firing pin spring in the resting position, i.e. not compressed.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 18. STORAGE, printed p.17"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Stock off — magazine tray, then the trigger guard screws",
+   "action": "The only disassembly past the bolt that Bergara publishes is taking the stock off. Release the magazine tray, then unscrew the screws of the trigger guard and lift the barrelled action out of the stock.",
+   "prose": "Expect it to be tight. Bergara warns the stock can jam on the receiver and take a while to come off — work it rather than lever it.",
+   "aside": "When removing the stock it can become jammed in the receiver and removing it may take a while.",
+   "quote": "To access the adjustment screw you will have to remove the stock.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 12. TRIGGER PULL ADJUSTMENT, printed p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "The trigger itself is NOT yours to adjust",
+   "action": "The adjustment screw is right there once the stock is off, and Bergara's instruction is that the trigger must be adjusted by a qualified gunsmith or the factory only. Do not fit another maker's trigger either — it may drop in and still not work properly, and replacing the firing mechanism voids the warranty.",
+   "prose": "A trigger set too light causes accidental discharges. That is the reason the prohibition exists and it is the reason to leave the screw alone while the stock is off for cleaning.",
+   "quote": "The trigger must be adjusted by a qualified gunsmith or the factory only.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 12. TRIGGER PULL ADJUSTMENT, printed p.13",
+   "warn": "A trigger that is too light can cause an accidental discharge."
+  },
+  {
+   "phase": "Clean",
+   "title": "Trigger maintenance — thin liquid lubricant only",
+   "action": "The trigger must be lubricated periodically. Spray a thin liquid lubricant into it; do not use solid lubricants such as vaseline.",
+   "prose": "A grease in a trigger group stiffens in the cold and holds grit all year. This is the one place on the rifle where thin is not a compromise.",
+   "aside": "The trigger must be lubricated periodically for proper conservation.",
+   "quote": "We recommend to spray a thin liquid lubricant. Do not use solid lubricants such as vaseline.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 14. MAINTENANCE OF THE TRIGGER, printed p.14"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean the action while it is out of the stock",
+   "action": "With the barrelled action out, clean and lubricate the areas the troubleshooting section keeps pointing at — the ejector, the extractor and the bolt raceway. Bergara's own remedy for a stiff bolt is to remove the bolt and carefully clean the bolt and action, and for a sticky ejector to clean and then lubricate the area with spray-on oil.",
+   "prose": "This is the round where you can actually get at those places properly, which is what makes taking the stock off worth doing.",
+   "aside": "Clean, then lubricate the area with spray-on oil",
+   "quote": "Remove the bolt and carefully clean the bolt and action",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 19. FAQS, CAUSES AND SOLUTIONS, printed p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stock back on — 7 Nm on the screws",
+   "action": "Refit the barrelled action into the stock and tighten the trigger guard screws to 7 Nm. Bergara prints that torque against the screws in the same figure as the stock removal.",
+   "prose": "Under-torqued action screws are on Bergara's own list of reasons a rifle stops grouping, alongside a barrel touching the stock and a badly fitted stock.",
+   "quote": "unscrew the screws of the trigger guard",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 12. TRIGGER PULL ADJUSTMENT, printed p.13",
+   "warn": "Ensure that the screws are secure — a badly fitted stock is one of Bergara's listed causes of a rifle that will not group."
+  },
+  {
+   "phase": "Clean",
+   "title": "Prove the trigger before the rifle is loaded again",
+   "action": "After any work near the trigger, run Bergara's own tests with the rifle EMPTY: close the bolt as fast as you can and confirm the cocking indicator stays visible; check the pull with a trigger pull weight scale and increase it if it is under 1.3 kg (2.8 lb); then simulate a shot and cycle fully, confirming the red cocking indicator is visible. If any of it fails, contact Bergara.",
+   "prose": "The factory setting is about 1.7 kg (3.7 lb) with an adjustment range of 1.3 to 2 kg. Anything below the bottom of that range is not a light trigger, it is an unsafe one.",
+   "aside": "Close the bolt as fast as possible. The cocking indicator should remain visible.",
+   "quote": "Never perform these tests with the firearm loaded.",
+   "cite": "Bergara B14 Owner's Manual / Manual de Usuario — ABSENT — no revision or form code is printed anywhere in the book; it is a bilingual English/Spanish edition running the English text on printed pp.3-24 and the Spanish on the sheets after it — 13. TESTING A TRIGGER SETTING FOR SAFETY, printed p.14"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Clean within 24 hours of firing — sooner in a humid environment",
+    "Let the barrel cool down before starting",
+    "Always chamber to muzzle, never the reverse",
+    "Quality one-piece cleaning rod where possible",
+    "High quality bore brush — never a stainless steel brush",
+    "Clean the chamber too, with a suitable brush",
+    "Keep copper fouling down; it costs accuracy",
+    "Oil-soaked patch through afterwards to prevent rust",
+    "Dry cloth through before shooting — oil left in the bore can cause overpressure",
+    "Check the crowning for damage every time"
+   ]
+  },
+  {
+   "name": "RECEIVER AND BOLT",
+   "tasks": [
+    "Wipe the whole bolt and the inside of the receiver with a residue-removing product",
+    "Brush the bolt face and the extractor",
+    "Brush the exposed area of the firing mechanism and the bolt head lugs",
+    "Lubricate or grease the bolt body, the lugs, the cocking channel and the safety catch",
+    "A drop of oil periodically on the ejector and the extractor, to a very thin film"
+   ]
+  },
+  {
+   "name": "STOCK AND FOREND",
+   "tasks": [
+    "Fine brush for dust on the outside",
+    "Synthetic stock: damp microfibre cloth",
+    "Wooden stock: dry it after use, and occasionally apply a good stock oil",
+    "Lubricate all exposed metal parts after cleaning"
+   ]
+  },
+  {
+   "name": "BARREL BREAK-IN AND STORAGE",
+   "tasks": [
+    "First 5 shots: clean after every shot",
+    "Next 50 shots: clean after every 10 shots",
+    "After that: clean frequently",
+    "Store in a safe with a means of reducing relative humidity",
+    "Take the rifle out from time to time and clean it even if unused",
+    "For long storage, leave it uncocked with the firing pin spring not compressed"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Press the release of the retractable bolt stop and insert the bolt.",
+  "Rotate the bolt until it aligns with the channel and run it home.",
+  "Make sure the floorplate is closed; if it is not, close it.",
+  "If the stock was removed, refit the barrelled action, replace the magazine tray and tighten the trigger guard screws to 7 Nm.",
+  "Run a dry cloth through the bore to take out the storage oil before the rifle is fired."
+ ],
+ "fncheck": "With the rifle empty, cycle the bolt several times and confirm it runs without stiffness and locks down cleanly. Close the bolt as fast as you can and confirm the cocking indicator remains visible. Check that the bolt does not come out without the bolt stop being pressed. Confirm the rear cap has not rotated out of position. Look through the bore from the chamber end for cloth or oil before anything is loaded."
+}

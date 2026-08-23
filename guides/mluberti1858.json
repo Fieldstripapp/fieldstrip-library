@@ -1,0 +1,100 @@
+{
+ "row": "mluberti1858",
+ "make": "Uberti",
+ "model": "1858 New Army",
+ "sourcedFrom": "Uberti Black Powder Revolvers Instruction Manual — undated — no edition code, revision or date is printed anywhere on the leaflet (undated — no copyright line is printed)",
+ "sourceSha256": "4cf285f05c2e80cf5c45d36986208cbd95456e48f37b7c923ece458ae584d6ca",
+ "cleanIntro": "This is the solid-frame gun in Uberti's black powder line, and it comes apart by the leaflet's Remington-pattern procedure — not the Colt one on the same page. There is no wedge and the barrel never comes off. The cylinder leaves sideways through the frame once a T-shaped pin is pulled.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Empty confirmed, every nipple checked",
+   "action": "Treat it as loaded until proven otherwise. Set the hammer at half cock so the cylinder turns inside the frame, then index all six nipples past and look for caps — spent ones as well as live. Take off anything you find. On a closed-top gun the top strap hides part of the cylinder, so turn it rather than looking down at it.",
+   "caution": "Place hammer in the half-cock position.",
+   "aside": "Be sure revolver is unloaded.",
+   "quote": "Rotate the cylinder to see that all the nipples are void of percussion caps. Remove any percussion caps immediately.",
+   "cite": "Uberti Black Powder Revolvers Instruction Manual — undated — no edition code, revision or date is printed anywhere on the leaflet — LOADING AND SHOOTING, item 4, p.1 (single-page leaflet, no printed folio)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Caps off before the cylinder comes out — it can fire loose",
+   "action": "If any chamber is still charged, all caps come off the nipples before you take the cylinder out. A capped chamber will fire perfectly well sitting on the bench with no frame around it. This gun makes it easy to drop a cylinder out and carry it about, which is exactly why the warning matters here.",
+   "quote": "Note: If cylinder with loaded chamber must be removed, be sure all (unfired and fired) caps have been removed from the nipples. It is possible for a chamber to fire even though not in the gun. This could cause serious damage to the shooter.",
+   "cite": "Uberti Black Powder Revolvers Instruction Manual — undated — no edition code, revision or date is printed anywhere on the leaflet — MALFUNCTIONS, note following item 6, p.1",
+   "warn": "Treat a misfire or failure to fire as though the revolver can fire at any time."
+  },
+  {
+   "phase": "Strip",
+   "title": "Confirm the pattern — and rule the other procedure out",
+   "action": "Uberti's leaflet covers its range by pattern and prints two disassemblies side by side. This gun has a solid frame with a top strap over the cylinder and a T-headed pin running in from the front, which is the Remington pattern. It has NO wedge through the barrel lug and the barrel is not meant to come off, so the Colt-pattern procedure on the same page must not be used here — following it means hunting for a wedge that does not exist on this gun.",
+   "aside": "All Colt- and Remington-style revolvers are provided with intermediate pins or slots between the single chambers on the rear face of cylinder.",
+   "quote": "Disassembly of the Remington-style revolver (see fig. 2):",
+   "cite": "Uberti Black Powder Revolvers Instruction Manual — undated — no edition code, revision or date is printed anywhere on the leaflet — PREPARATION BEFORE LOADING, item 3 heading, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Loading lever dropped just clear, not swung down",
+   "action": "Lower the loading lever only part way — far enough to release the pin, but not so far that the rammer plunger enters a chamber. That is the whole point of the half-measure: the plunger and the cylinder pin share the same space at the front of the frame, and driving the plunger in blocks the pin you are about to withdraw. If the lever is hanging fully down, bring it back up a little.",
+   "quote": "Partially lower loading lever so that plunger does not enter cylinder chamber.",
+   "cite": "Uberti Black Powder Revolvers Instruction Manual — undated — no edition code, revision or date is printed anywhere on the leaflet — PREPARATION BEFORE LOADING, item 3a, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "T-shaped cylinder pin drawn straight out the front",
+   "action": "Take hold of the T-head at the front of the frame under the barrel and pull the cylinder pin forward and out. It comes straight, with no twisting and no tapping — this is a sliding pin, not a wedge. If it will not move, the loading lever is still too far down and the plunger is fouling it.",
+   "quote": "Pull out the T-shaped cylinder pin.",
+   "cite": "Uberti Black Powder Revolvers Instruction Manual — undated — no edition code, revision or date is printed anywhere on the leaflet — PREPARATION BEFORE LOADING, item 3b, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Half cock, and the cylinder turns out of the frame",
+   "action": "With the pin out, bring the hammer to half cock — the first audible click — and the cylinder rolls out of the frame window to the right. It does not come forward, because the top strap is in the way; on this pattern the cylinder leaves sideways. Support it as it swings clear so it does not land on its nipples.",
+   "quote": "Place the hammer in the half-cock position (first audible “click”). Cylinder will rotate out of the frame.",
+   "cite": "Uberti Black Powder Revolvers Instruction Manual — undated — no edition code, revision or date is printed anywhere on the leaflet — PREPARATION BEFORE LOADING, item 3c, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Cylinder and cylinder pin are out and the frame and barrel stay together as one piece — that is the strip this leaflet publishes for this pattern, and there is no further teardown in it. Clean it straight away; black powder fouling starts corroding as soon as it forms, and this gun's closed top traps it against the barrel and top strap.",
+   "quote": "Black powder fouling is extremely corrosive and can rust the barrel and cylinder in a short time. All black powder guns must be thoroughly cleaned after firing is completed.",
+   "cite": "Uberti Black Powder Revolvers Instruction Manual — undated — no edition code, revision or date is printed anywhere on the leaflet — CLEANING AND MAINTENANCE, item 1, p.1",
+   "warn": "Warning: Use of smokeless powder in any muzzleloader revolver will result in excessively high presure and can cause serious damage to the firearm and possibly to the shooter.",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The leaflet's deeper procedure is the seven-item CLEANING AND MAINTENANCE wash, carried in the cleaning checklist because the document gives it as a wash routine rather than a parts teardown. ⛔ THE COLT-PATTERN PROCEDURE PRINTED IMMEDIATELY ABOVE THE ONE USED HERE IS DELIBERATELY EXCLUDED IN FULL. Those two disassemblies sit adjacent on a single page and are not interchangeable: the Colt branch removes a wedge and takes the barrel off the cylinder pin, and this revolver has neither a wedge nor a removable barrel. Adjacency on the page is not evidence of applicability, and the tell is a mechanism the model lacks. ⛔ This is also a CATEGORY MANUAL naming no model anywhere, so nothing above is attributed to this gun beyond what the leaflet states generally for the Remington pattern. The nipple wrench and nipple pick appear only inside the MALFUNCTIONS misfire drill and are not presented here as routine maintenance.",
+ "cleaning": [
+  {
+   "name": "CHAMBERS & BORE",
+   "tasks": [
+    "Swab the inside of every chamber with a cotton swab dipped in cleaning solvent",
+    "Stand the cylinder chambers-down to drain rather than letting solvent sit in the chambers",
+    "Run a solvent-soaked patch through the barrel, then clean dry swabs and patches through chambers and barrel"
+   ]
+  },
+  {
+   "name": "POST-FIRING WASH",
+   "tasks": [
+    "Take the gun completely apart and wipe the grips off",
+    "Soak the metal in hot water and dish detergent and wipe the fouling away, or scrub it with a brush and black powder solvent",
+    "Rinse everything in boiling hot water and dry it thoroughly — pay attention to the top strap and the frame window, where fouling collects on this pattern"
+   ]
+  },
+  {
+   "name": "PRESERVE & OIL",
+   "tasks": [
+    "Once cool, wipe all parts with a rust preventative",
+    "Lightly oil the moving parts and grease the grooves of the cylinder pin",
+    "Store the revolver in a dry place with sufficient ventilation"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Grease the grooves of the cylinder pin before anything goes back.",
+  "Roll the cylinder back into the frame window with the hammer at half cock.",
+  "Slide the T-shaped cylinder pin back in through the front of the frame until it is fully home.",
+  "Return the loading lever to its latched position under the barrel.",
+  "Oil moving parts lightly, and leave the chambers and nipples dry if you are shooting again that day."
+ ],
+ "fncheck": "With the revolver empty and uncapped, confirm the cylinder pin is fully seated and the loading lever is latched up under the barrel. Bring the hammer to half cock and confirm the cylinder turns freely with no drag from a fouled pin, then confirm it locks up as the hammer reaches full cock. Confirm the hammer will rest in one of the slots between chambers on the cylinder's rear face, which is the leaflet's own method of blocking the cylinder against rotation for carry."
+}

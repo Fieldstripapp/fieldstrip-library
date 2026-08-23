@@ -1,0 +1,79 @@
+{
+ "row": "rugerchargerpistol",
+ "make": "Ruger",
+ "model": "Charger (pistol)",
+ "sourcedFrom": "Ruger 22 Charger Standard, Takedown, & Takedown Lite Instruction Manual — PM200 (2023)",
+ "sourceSha256": "d19cd78f73e1ffb14e7cabbf4c37dba6e618176364803ce61840e275ef4a424b",
+ "cleanIntro": "The 22 Charger comes out of its stock for cleaning, and there is one detail that will damage the stock if you get it wrong — read step 3.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear it, hammer cocked",
+   "action": "Point the pistol in a safe direction, engage the safety if the hammer is cocked, remove the magazine, fully retract the bolt and look into the chamber. Let the bolt close; the hammer should be cocked.",
+   "prose": "The hammer state matters here — the manual expects it cocked going into the strip.",
+   "quote": "fully retract the bolt and visually make certain there is not a cartridge in the chamber. Then allow the bolt to close. The hammer should be cocked.",
+   "cite": "Ruger 22 Charger Standard, Takedown, & Takedown Lite Instruction Manual — PM200 — Disassembly, step 1, p.20",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Loosen — do not remove — the takedown screw",
+   "action": "On a standard 22 Charger, loosen the takedown screw without removing it. On a Takedown model, first follow the manual’s \"Removing the Barrel Assembly\" procedure, then loosen the takedown screw on the receiver assembly.",
+   "prose": "Two different starting points depending on which Charger you own; the manual covers both.",
+   "quote": "loosen (do not remove) the takedown screw",
+   "cite": "Ruger 22 Charger Standard, Takedown, & Takedown Lite Instruction Manual — PM200 — Disassembly, step 2, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Centre the safety or you will damage the stock",
+   "action": "Position the safety so an equal amount of the button shows on each side before lifting the receiver assembly out.",
+   "prose": "This is not a preference. Ruger states the stock will be damaged if the safety is off-centre when the receiver comes out.",
+   "caution": "If the safety is not in the middle when the receiver assembly is lifted out of the stock, the stock will be damaged.",
+   "quote": "If the safety is not in the middle when the receiver assembly is lifted out of the stock, the stock will be damaged.",
+   "cite": "Ruger 22 Charger Standard, Takedown, & Takedown Lite Instruction Manual — PM200 — Disassembly, step 3, p.20",
+   "warn": "If the safety is not in the middle when the receiver assembly is lifted out of the stock, the stock will be damaged."
+  },
+  {
+   "phase": "Strip",
+   "title": "Swing the receiver up and out",
+   "action": "Swing the receiver assembly upward away from the forearm of the stock, watching that the two receiver cross pins and the bolt stop pin do not fall out.",
+   "prose": "Three small pins, and they will roll off a bench.",
+   "quote": "Be careful the two receiver cross pins and bolt stop pin do not fall out.",
+   "cite": "Ruger 22 Charger Standard, Takedown, & Takedown Lite Instruction Manual — PM200 — Disassembly, step 4, p.20",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Trigger guard out — as a unit",
+   "action": "Drift out the two receiver cross pins and lift the trigger guard away.",
+   "prose": "Keep it as one assembly. Ruger recommends not disassembling the components from the trigger guard.",
+   "caution": "It is recommended that the components of the trigger guard assembly not be disassembled from the trigger guard.",
+   "quote": "Remove the trigger guard by simply drifting out the two receiver cross pins.",
+   "cite": "Ruger 22 Charger Standard, Takedown, & Takedown Lite Instruction Manual — PM200 — Disassembly, step 5, p.20"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent patch, correctly sized brush, then dry patches until clean",
+    "Rimfire fouling is waxy — the chamber needs the same attention as the bore"
+   ]
+  },
+  {
+   "name": "BOLT & RECEIVER",
+   "tasks": [
+    "Wipe the bolt face and around the extractor",
+    "Clean the receiver interior and bolt raceways",
+    "Light oil on bearing surfaces only"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Seat the receiver assembly back into the stock with the safety still centred.",
+  "Hand tighten the takedown screw."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, check the safety blocks the trigger and the bolt cycles freely."
+}

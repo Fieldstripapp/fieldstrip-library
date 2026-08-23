@@ -1,0 +1,196 @@
+{
+ "row": "sigsauerp365xl",
+ "make": "SIG Sauer",
+ "model": "P365 XL",
+ "sourcedFrom": "P365 \n® PISTOLS — P/N 2700116-01 REV12 (2025)",
+ "sourceSha256": "b106aadd6e9834d479e404020b7aac68c069fcef0295fa65582a9a2e9f861ca6",
+ "cleanIntro": "SIG's field strip as printed in the P365 book that carries the P365XL parts diagram. The XL takes the same four-piece strip as the rest of the line — longer slide and barrel, same takedown lever, same order. Where SIG scopes a step or a note to one variant, this guide says which variant, because several of them are not the XL.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check what your P365XL is actually fitted with",
+   "action": "Look for three things before you start: a manual safety lever above the grip, a loaded chamber indicator on top of the slide, and whether the grip module carries a magazine disconnect. Then look at the top of the slide — an XL usually ships optic-cut with either a filler plate or a red dot on it.",
+   "prose": "The magazine disconnect is not a P365XL feature you can assume either way. SIG restricts it to California compliant fire control units, and where it is fitted the trigger will not move with the magazine out — which changes both how you clear the pistol and how the function check reads afterwards.",
+   "aside": "SIG's manual-safety statement covers all P365 models except the SAS, so an XL may or may not have the lever. Check the frame, do not infer it from the model name.",
+   "quote": "Magazine disconnect mechanisms are only available in California compliant FCU’s.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 18.7 P365 California Compliant Parts Diagram, p.122"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out first",
+   "action": "Muzzle in a safe direction, finger off the trigger, press the magazine catch and let the magazine drop clear of the grip module. Put it on the far side of the bench.",
+   "prose": "Unless yours is one of the California compliant fire control units above, the XL will still fire a chambered round with the magazine gone. This step removes the feed source and nothing else.",
+   "quote": "REMOVING THE MAGAZINE FROM THE FIREARM DOES NOT PREVENT A CHAMBERED ROUND FROM BEING FIRED UNLESS THE FIREARM IS EQUIPPED WITH A MAGAZINE DISCONNECT MECHANISM.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 9.5 Unloading and Clearing the Pistol, p.33",
+   "warn": "An XL with the magazine out is not cleared. The chamber has not been looked at yet."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide back and check the chamber twice",
+   "action": "Draw the slide fully rearward, push the slide catch lever up to hold it open, then look into the ejection port and the magazine well and put a finger into each. Then do it again.",
+   "prose": "SIG asks for two passes, by eye and by touch. The XL's longer slide gives you a better look into the port than the short P365 does, which is exactly why people skip the finger — do not.",
+   "quote": "Check the firearm twice, both visually and physically.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 9.5 Unloading and Clearing the Pistol, step 6, p.33"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hold the slide open on the catch lever",
+   "action": "With the pistol cleared, pull the slide rearward again and push the slide catch lever up until the slide locks open against it. Ease forward and feel it stop hard.",
+   "prose": "The takedown lever will only turn from this position. On the XL the slide is longer and heavier, so a slide that has crept a few millimetres forward is less obvious by feel — check that the lever is genuinely holding it before you go on.",
+   "quote": "Lock the slide to the rear by pulling the slide rearward and pushing up on the slide catch lever.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 2, p.50"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rotate the takedown lever clockwise to its stop",
+   "action": "Turn the takedown lever on the left of the frame clockwise until it stops — about a quarter turn. Use a fingertip; it should move under moderate pressure and stop positively.",
+   "prose": "SIG attaches one exception to this step and it is the SAS, not the XL: the SAS lever is cut flush and needs a screwdriver or similar tool. Your XL has a full lever, so if it will not turn by hand the answer is that the slide is not locked fully back, not that you need a tool.",
+   "quote": "Rotate the takedown lever clockwise until it stops (P365 SAS requires a screwdriver or similar tool).",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 3, p.50"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the catch with a hand on the slide",
+   "action": "Grip the slide firmly, pull it slightly rearward to take the load off the slide catch lever, and let the lever drop. Control the slide as it comes forward.",
+   "prose": "Once that lever is down the only thing holding the slide on the frame is your hand. On the XL the recoil spring is working over a longer stroke and the assembly has more mass, so a hand that slips lets a heavier part go.",
+   "caution": "Eye protection from here on. The recoil spring assembly inside the slide is compressed.",
+   "quote": "Pull the slide slightly rearward to disengage the slide catch lever while maintaining control of the slide assembly.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 4, p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward off the frame",
+   "action": "Run the slide assembly straight forward off the frame rails, carrying the barrel and recoil spring with it.",
+   "prose": "Keep it square. Lifting the rear of the slide as you pull binds it on the rails, and the XL's extra length makes a small angle at the muzzle into a big misalignment at the breech.",
+   "quote": "Pull the slide forward and off of the frame.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 5, p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and guide out",
+   "action": "Invert the slide, push the recoil spring and its guide forward toward the muzzle to unseat the guide head from under the barrel lug, then lift the rear of the assembly up and out.",
+   "prose": "Forward, then up. Lifting first traps the guide head under the lug and puts you levering on a loaded spring — the part that then goes somewhere is the one at the muzzle end.",
+   "caution": "Point the muzzle end of the slide away from your face as the guide unseats.",
+   "quote": "Push the recoil spring and spring guide forward, then lift up and away from the slide to remove.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 6, p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out of the slide",
+   "action": "Push the XL's barrel forward in the slide until its lug clears the slide's locking recess, then lift it out. There should be no resistance whatever.",
+   "prose": "If it will not go forward, the recoil spring guide is still in there. Nothing in this assembly is an interference fit, so resistance always means a part is still in place rather than that you need more force.",
+   "quote": "Slide the barrel forward and lift the barrel from the slide.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 7, p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Four pieces on the bench: slide, barrel, recoil spring and guide assembly, and the frame in its grip module. SIG stops here for the owner.",
+   "prose": "The striker, the extractor and the fire control unit are all past the line this manual draws, and going further voids the warranty. The recoil spring guide assembly is sealed and is replaced on interval rather than taken apart.",
+   "quote": "This level of disassembly is sufficient to allow a thorough cleaning.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, note, p.53",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Know which floorplate you have before you pry",
+   "action": "Empty the magazine and look at the top face of the floorplate. SIG's note here splits the line by floorplate type, so check yours against the note rather than against the model name on the slide.",
+   "prose": "This is the one place the manual's magazine note can catch an XL owner out: SIG names XSERIES magazines and standard P365 and SAS magazines, and it does not name the P365XL in that sentence at all. So do not assume your XL magazine is the tabbed kind or the tabless kind — look at the floorplate, because the tab is what the punch has to find.",
+   "aside": "The same note says standard P365 and SAS floorplates carry a tab, and that XSERIES floorplates work in all P365 models while standard ones will not lock into XSERIES grip assemblies.",
+   "quote": "Magazines for XSERIES models must have floor plates without tabs.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.4 Magazine Maintenance, note, p.64"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine floorplate off — the insert is holding a compressed spring",
+   "action": "Stand the empty magazine on the bench, press the tab of the magazine insert inward through the hole in the floorplate with a punch, and slide the floorplate off. Keep a thumb over the insert throughout.",
+   "prose": "The spring under the insert is compressed down the whole tube. The tab only has to move far enough to clear its notch — leaning on the punch and releasing the thumb at the same instant is what launches the insert. This procedure is the one SIG prints for the 10, 12, 15, 17, 21 and 25-round magazines.",
+   "aside": "A 12-round extended magazine takes a different first step — a floorplate retainer that slides off — so identify the floorplate before prying at it.",
+   "quote": "Using a punch or similar tool, push the tab of the magazine insert inward to release and remove the floorplate.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.4.1 Magazine Disassembly, step 1, p.65",
+   "warn": "Eye protection. This is the only step in the guide where a part can leave under spring power."
+  },
+  {
+   "phase": "Strip",
+   "title": "Insert, spring and follower out of the tube",
+   "action": "Let the insert out of the bottom of the tube with the spring still attached, then draw the spring and follower out behind it. Note the follower's orientation before it clears the tube.",
+   "prose": "The follower is handed and only feeds one way up. Lay the parts out in the order they came out; on the XL's longer tube it is easy to lose track of which end of the spring sat where.",
+   "quote": "Remove the insert, magazine spring, and follower from the magazine tube.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.4.1 Magazine Disassembly, step 2, p.66"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrub the tube and follower",
+   "action": "Wipe the tube inside and out and the follower with a cloth, then run a soft brush wet with CLP through the tube and over the follower to lift the residue that builds up along the feed lips and follower rails.",
+   "prose": "A dirty follower drags, and drag in a magazine shows up as the last round or two failing to feed. Soft brush only — a steel brush in an aluminium-alloy or steel tube scores the surfaces the follower rides on.",
+   "quote": "Wipe the magazine tube and follower with a cloth. Clean the magazine tube and follower with a soft brush and CLP.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.4.2 Magazine Cleaning, step 1, p.68"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light oil on the spring and the outside of the tube only",
+   "action": "Put a light coat of CLP on the spring and on the exterior of the tube, then wipe the inside dry.",
+   "prose": "SIG puts oil on the spring and the outside, not down the inside. Oil in the tube gathers grit and ends up on the cartridges themselves, and lubricated ammunition is a hazard in its own right.",
+   "quote": "Apply a light coat of CLP to the spring and outside of magazine tube.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.4.2 Magazine Cleaning, step 3, p.68"
+  },
+  {
+   "phase": "Strip",
+   "title": "Back together — floorplate on until the insert snaps",
+   "action": "Assemble follower and insert onto the spring, feed the follower into the tube and compress the spring, then press the insert down and slide the floorplate on until the insert snaps up into it.",
+   "prose": "That snap is the only confirmation you get. A floorplate that slides fully on without one is held by friction and will come off when the magazine hits the ground.",
+   "quote": "Press the insert and slide the floorplate onto the magazine tube until the insert snaps into the floorplate.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.4.3 Magazine Assembly, step 3, p.70"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "SLIDE ASSEMBLY",
+   "tasks": [
+    "Remove every trace of the old lubricant before applying new",
+    "Cloth first, then a soft brush with CLP on the carbon",
+    "Extractor, rail slots and breech face free of dirt and residue",
+    "Light CLP in the frame rail slots of the slide",
+    "Nothing down the striker channel — a wet channel buys light strikes",
+    "If your XL carries a red dot, work around it; SIG points optic zeroing to the optic's own manual"
+   ]
+  },
+  {
+   "name": "BARREL",
+   "tasks": [
+    "CLP patch from the chamber end out past the muzzle — never from the muzzle back",
+    "Let it soak a few minutes to soften the carbon",
+    "Correct-caliber bronze brush on a rod, then dry patches until clean",
+    "Feed ramp with a soft brush and CLP",
+    "Wipe the exterior with a CLP cloth; pull all oil out of the bore before firing"
+   ]
+  },
+  {
+   "name": "FRAME AND GRIP MODULE",
+   "tasks": [
+    "Soft cloth over the frame and grip module",
+    "Cotton swabs into the recesses; the frame rails get the attention",
+    "Light CLP on the frame rails and the accessible moving parts",
+    "Wipe the magazine well clean of dust and residue"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING GUIDE ASSEMBLY",
+   "tasks": [
+    "CLP and a soft brush, then a light coat back on",
+    "Never take it apart — SIG services it as one unit",
+    "Replacement item at 2,500-round intervals; look for kinked coils or a loose head"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Verify the barrel is clear, then drop it into the inverted slide.",
+  "Put the larger outer spring of the recoil spring guide assembly into the front of the slide and seat the guide head centred on the barrel lug.",
+  "Confirm the takedown lever is still rotated clockwise to its stop; the slide catch lever may need lifting slightly before the takedown lever will turn.",
+  "If your XL has a manual safety, push the safety lever DOWN before installing the slide — fitting it with the lever up damages the pistol.",
+  "Run the slide onto the frame rails to the fully retracted position, lock it there with the slide catch lever, rotate the takedown lever counterclockwise to its stop, then press the catch lever down to release the slide forward."
+ ],
+ "fncheck": "Magazine out, chamber confirmed empty. Insert an empty magazine — audible click, and it stays put. Rack the slide fully back; the follower should push the slide catch lever up and lock the slide open. Press the magazine catch: the magazine must fall free under its own weight. If your XL has a magazine disconnect, the striker must NOT release with the magazine out and must release with an empty magazine in. If it has a manual safety, the striker must NOT release while the safety is engaged. Safety off: pull and hold the trigger for a loud click, hold it back and rack the slide, release the trigger for a light reset click, then pull again for a second loud click."
+}

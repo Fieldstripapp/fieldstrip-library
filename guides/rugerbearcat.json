@@ -1,0 +1,94 @@
+{
+ "row": "rugerbearcat",
+ "make": "Ruger",
+ "model": "Bearcat",
+ "sourcedFrom": "Ruger New Bearcat Instruction Manual — PM047 (2020)",
+ "sourceSha256": "6f59615e2de501261f6624ba54c3da0e047b7f1e4130eff212c50531bddaeac3",
+ "cleanIntro": "The Bearcat clears differently from Ruger’s other single-actions — the hammer comes back one click into a loading notch. Everything after that is familiar.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check the serial range before you trust this guide",
+   "action": "Confirm the serial number on your Bearcat is above 93-00000. Ruger restricts this manual to those revolvers.",
+   "prose": "An earlier Bearcat is a different revolver with a different book. The app cannot read your serial — you can.",
+   "quote": "This manual applies only to NEW BEARCAT",
+   "cite": "Ruger New Bearcat Instruction Manual — PM047 — Cover note, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Gate open, hammer to the loading notch",
+   "action": "Point the revolver in a safe direction, open the loading gate, pull the hammer back one click into the loading notch, and rotate the cylinder a few times to be visually certain it is empty. Leave the gate open.",
+   "prose": "That one click is the difference from the Single-Six — on the Bearcat the hammer position is what frees the cylinder to turn.",
+   "quote": "pull the hammer back one \"click\" into the loading notch and rotate the cylinder a few times to be visually certain the revolver is completely unloaded. Leave the loading gate open.",
+   "cite": "Ruger New Bearcat Instruction Manual — PM047 — Disassembly, step 1, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Withdraw the base pin",
+   "action": "Press in fully on the left side of the base pin latch and, holding it in, pull the base pin forward in line with the barrel until it is removed.",
+   "prose": "Same as the rest of the family.",
+   "quote": "Press in fully on the left side of the base pin latch, and, while holding it in that position, withdraw the base pin by pulling it forward, in line with the barrel, until it is removed.",
+   "cite": "Ruger New Bearcat Instruction Manual — PM047 — Disassembly, step 2, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cylinder out, gate closed",
+   "action": "Remove the cylinder and close the loading gate.",
+   "prose": "Gate closed once the cylinder is out — that is what this manual says.",
+   "quote": "Remove the cylinder and close the loading gate. This is as far as you need to go for routine cleaning.",
+   "cite": "Ruger New Bearcat Instruction Manual — PM047 — Disassembly, step 3, p.18",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Beyond routine, carefully",
+   "action": "The manual documents the ejector housing and base pin latch past the routine strip.",
+   "prose": "Its wording is firmer than the others: the cautions should be carefully followed.",
+   "quote": "The revolver is, at this stage, disassembled as far as it needs to be for major cleaning and maintenance.",
+   "cite": "Ruger New Bearcat Instruction Manual — PM047 — Disassembly, beyond routine, p.18"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Ejector housing off — hold it",
+   "action": "Wrap one hand firmly around the barrel and housing before you loosen the ejector housing screw, then lift the housing away from the barrel.",
+   "prose": "The housing holds a compressed spring and the ejector rod. Your hand around it is the only thing keeping it together when the screw lets go.",
+   "caution": "Spring under tension. Keep it pointed away from your face.",
+   "quote": "Wrap one hand firmly around the barrel and housing when loosening the ejector housing screw.",
+   "cite": "Ruger New Bearcat Instruction Manual — PM047 — Disassembly, Ejector Rod Assembly/Ejector Housing, p.18"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Base pin latch, nut and spring",
+   "action": "Hold the nut firmly with jaw-protected pliers while unscrewing the latch, and do not lose the spring. Nut and spring go back on the LEFT side of the frame.",
+   "prose": "Small parts, easy to lose, and the revolver will not latch without them.",
+   "quote": "The nut must be held firmly (with jaw-protected pliers) while the latch is being unscrewed.",
+   "cite": "Ruger New Bearcat Instruction Manual — PM047 — Disassembly, Base Pin Latch/Nut and Spring, p.18"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBERS",
+   "tasks": [
+    "With the cylinder out, run a solvent-coated patch through the bore several times",
+    "Push a correctly sized bronze brush the full length of the bore, then swab and dry-patch until clean",
+    "Clean each chamber the same way, and the face of the cylinder"
+   ]
+  },
+  {
+   "name": "BASE PIN & FRAME",
+   "tasks": [
+    "Wipe the base pin and its bore in the frame clean and dry — grit here is what makes a base pin hard to seat",
+    "Clean the frame window and the recoil shield face",
+    "Light oil only"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the cylinder through the loading gate side of the frame.",
+  "Slide the base pin back in, in line with the barrel, until the latch snaps fully over it.",
+  "If the action feels wrong afterwards, seat the base pin again — Ruger names an unseated base pin as the first thing to check."
+ ],
+ "fncheck": "With every chamber confirmed empty: the cylinder should spin freely with distinct clicks as the pawl indexes it, the hammer should not cock with the gate open, and the gate should not open with the hammer cocked."
+}

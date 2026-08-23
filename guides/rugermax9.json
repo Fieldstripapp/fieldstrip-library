@@ -1,0 +1,108 @@
+{
+ "row": "rugermax9",
+ "make": "Ruger",
+ "model": "MAX-9",
+ "sourcedFrom": "Ruger MAX-9 Instruction Manual (Manual Safety Model Pistol) — PM1181 (MAX-9 4/2026 R4) (2026)",
+ "sourceSha256": "204acaf607e8d1c351014d1b42e00581d8e8e1057983c33eeef75d91f3527a68",
+ "cleanIntro": "The MAX-9 hides its takedown pin behind a plate and needs the striker released before the slide will come off, so two steps in this strip have no equivalent on most striker pistols. Ruger publishes a separate manual for MAX-9 pistols fitted with a loaded chamber indicator; this guide follows the manual safety model book.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Keep the pistol pointed in a safe direction, press the magazine latch and remove the magazine.",
+   "prose": "First move, always. Nothing downstream is meaningful until the magazine is out of the gun.",
+   "quote": "Keep pistol pointed in a \nsafe direction. Press the \nmagazine latch and \nremove the magazine \n(see Figure 17).",
+   "cite": "Ruger MAX-9 Instruction Manual (Manual Safety Model Pistol) — PM1181 (MAX-9 4/2026 R4) — Disassembly, step 1, p.29",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety to fire, lock the slide open, check the chamber",
+   "action": "With the safety in the fire position, pull the slide to the rear and lock it open by pushing upward on the slide stop, then inspect the chamber and verify it is empty.",
+   "prose": "The safety has to be off for the rest of this procedure, because a later step asks you to pull the trigger.",
+   "caution": "Keep Hand Away From Muzzle!",
+   "quote": "With the safety in the \n“fire” position, pull the \nslide to the rear and lock \nthe slide in the open \nposition by pushing \nupward on the slide stop \n(see Figure 18).",
+   "cite": "Ruger MAX-9 Instruction Manual (Manual Safety Model Pistol) — PM1181 (MAX-9 4/2026 R4) — Disassembly, step 2, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Drop the slide, then release the striker",
+   "action": "Retract the slide slightly and release it so the slide stop disengages and the slide runs fully forward. Then, with the pistol pointed in a safe direction, pull the trigger to release tension on the striker.",
+   "prose": "This is a deliberate trigger pull on a pistol you have just proved empty. Skip it and the slide will not come off the frame at the end.",
+   "quote": "Be sure the pistol is \npointed in a safe direction. \nPull the trigger to release \ntension on the striker.          \n(See Figure 21.)",
+   "cite": "Ruger MAX-9 Instruction Manual (Manual Safety Model Pistol) — PM1181 (MAX-9 4/2026 R4) — Disassembly, steps 4 and 5, pp.30-31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Push the takedown plate down to expose the pin",
+   "action": "Using a finger or a soft tool, push the takedown plate down. That uncovers the takedown pin underneath it.",
+   "prose": "There is no pin visible until the plate moves. This is the step people miss and then look for a takedown lever that does not exist.",
+   "quote": "Using a finger or a “soft” tool, push the takedown plate down to expose the \ntakedown pin (see Figure 22).",
+   "cite": "Ruger MAX-9 Instruction Manual (Manual Safety Model Pistol) — PM1181 (MAX-9 4/2026 R4) — Disassembly, step 6, p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hold the slide back 1/8 inch and push the pin out",
+   "action": "Pull the slide rearward roughly an eighth of an inch and hold it there, then insert a small punch or a paperclip into the slot on the right side of the frame and push the takedown pin out of the left side of the pistol.",
+   "prose": "Both hands are busy at once — that small rearward hold is what lines the pin up with its clearance, and letting the slide forward loses it.",
+   "quote": "The slide must be pulled rearwards approximately 1/8” and held before you \ncan insert a small punch or paperclip into the slot on the right side of the \nframe (see Figure 23a) to push the takedown pin out the left side of the pistol \n(see Figure 23b).",
+   "cite": "Ruger MAX-9 Instruction Manual (Manual Safety Model Pistol) — PM1181 (MAX-9 4/2026 R4) — Disassembly, step 7, p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly forward off the frame",
+   "action": "Move the slide assembly forward and separate it from the grip frame. If it will not move forward, you re-cocked the striker while working the slide — point the pistol in a safe direction, pull the trigger again and repeat.",
+   "prose": "Ruger names that failure mode in the step itself, which tells you how often it happens.",
+   "quote": "Move the slide assembly forward and separate it from the grip frame (see \nFigure 24). NOTE: If the slide assembly will not move forward, you likely \ncocked the striker while manipulating the slide.",
+   "cite": "Ruger MAX-9 Instruction Manual (Manual Safety Model Pistol) — PM1181 (MAX-9 4/2026 R4) — Disassembly, step 8, p.32"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring off the lug, barrel forward, down and back",
+   "action": "Compress the recoil spring assembly slightly to disengage it from its seat against the barrel lug and remove it, then move the barrel forward slightly and then down and back to extract it from the slide.",
+   "prose": "Same three-part barrel movement as the LCP MAX. The pistol is now stripped for cleaning.",
+   "quote": "Remove the barrel. It \nwill be necessary to \nmove the barrel forward \nslightly and then down \nand back to extract it \nfrom the slide (see \nFigure 26).",
+   "cite": "Ruger MAX-9 Instruction Manual (Manual Safety Model Pistol) — PM1181 (MAX-9 4/2026 R4) — Disassembly, steps 9 and 10, p.32",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The MAX-9 manual closes its disassembly with \"NOTE: Do not attempt further disassembly of your firearm. The firearm can now be cleaned and lubricated. There are no user serviceable parts below this level.\" (p.33). Nothing past the strip is published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent-wet patch through the bore, then a solvent-wet bristle brush the full length, then dry patches and examine",
+    "Bore fouling costs accuracy and chamber grease costs feeding — deal with both"
+   ]
+  },
+  {
+   "name": "SLIDE & FRAME",
+   "tasks": [
+    "Solvent on a patch or brush to remove powder residue from every component, then a dry patch and a very lightly oiled one",
+    "Only a light application of oil is needed; excess attracts dust and can congeal in cold weather",
+    "Keep oil out of the striker channel"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Check the follower moves freely and the lips are free of nicks, burrs, cracks or deformation",
+    "Magazines go back dry — no oil where ammunition sits"
+   ]
+  },
+  {
+   "name": "INSPECT",
+   "tasks": [
+    "Look over the pistol and magazine for anything damaged, missing, loose, bent, cracked, chipped or peened",
+    "Never use automotive or paint-stripping products on a firearm"
+   ]
+  }
+ ],
+ "reassembly": [
+  "With the slide upside down, replace the barrel and push it into its locked position.",
+  "Seat the recoil spring assembly against the barrel lug.",
+  "Run the slide assembly onto the frame, press the takedown pin back through from the left and let the takedown plate return over it.",
+  "Work the slide several times before handling further."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, check the manual safety blocks the trigger, the slide locks back on an empty magazine and the trigger resets — pointed in a safe direction throughout."
+}

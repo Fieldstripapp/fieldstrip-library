@@ -1,0 +1,207 @@
+{
+ "row": "browningsa22",
+ "make": "Browning",
+ "model": "SA-22",
+ "sourcedFrom": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) (UNKNOWN — not printed in the document)",
+ "sourceSha256": "33304842a7e089e4c719f296118be375e74f385bbd81781e67c0f5ac2cdb582d",
+ "cleanIntro": "The SA-22 is John Browning's takedown .22 autoloader — a blow-back action that splits into a barrel half and a stock/receiver half with a quarter turn, feeds from an eleven-round tube in the buttstock, and ejects out the bottom. The takedown is not a party trick, it is the cleaning method: the barrel comes off so the bore is cleaned from the action end, and the whole trigger guard slides out of the receiver grooves carrying the breech block with it. Browning marks the boundary inside that job precisely — pulling the trigger guard and breech block is 'ordinarily sufficient disassembly for normal cleaning', and everything past it 'requires some skill'. This guide walks to that line in the standard strip and puts the firing pin, recoil spring and extractor work in the deep branch, exactly where the manual puts them.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check the book against the rifle: SA-22, and only what the barrel names",
+   "action": "Confirm you are holding an SA-22 before following any of this — the manual's own front matter names its subject in one line, and the ammunition rule hangs off the barrel inscription of your individual rifle. The SA-22 is a blow-back autoloader: nothing locks the breech, the mass of the breech block and its spring time the action against the 22 Long Rifle pressure curve, which is why the ammunition question is settled before anything else happens on the bench.",
+   "prose": "A takedown rifle spends its life in two pieces in a case, so the first look also confirms the two halves in front of you belong to the same gun.",
+   "quote": "Important operating instructions for: Browning SA-22 Rifle.",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — Front matter, the line below the title"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety to the right — the red dot must disappear",
+   "action": "Press the crossbolt safety button, in the forward part of the trigger guard, fully to the right. In the off safe position a red warning dot shows on the left side of the trigger guard; on safe hides it. Get this done before your hands go anywhere near the muzzle or the action, and do not let the dot be the only thing you trust — Browning warns that time, weather and cleaning solvents can erase the paint, so learn the button's positions by feel as well.",
+   "prose": "The safety blocks the trigger, nothing more. The chamber has not been proved yet.",
+   "quote": "To place the firearm on safe, press the “safety” button to the right (Figure 3).",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — Operation of the \"Safety\"",
+   "warn": "Do not depend on the red dot alone — the paint can wear away."
+  },
+  {
+   "phase": "Clear",
+   "title": "Unload by cycling — every round comes out through your hand",
+   "action": "Hold the rifle horizontal, muzzle safe, and pull the breech block fully rearward by its finger piece, then ease it forward, repeatedly, catching each ejected cartridge in your hand until nothing more comes out. The tube magazine keeps feeding as long as it holds cartridges, so one cycle proves nothing — keep cycling several times after the last round appears. Then hold the breech open and look: chamber, receiver cavity, and the magazine feed mechanism, all three, by eye.",
+   "prose": "Bottom ejection drops the rounds at your feet if you don't catch them — cup your hand under the receiver as you cycle.",
+   "quote": "Unload the rifle by pulling the breech block fully to the rear and easing it forward repeatedly with your hand until all cartridges in the magazine and chamber have ejected into your hand (Figure 12).",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — Unloading > UNLOADING BY CYCLING THE ACTION",
+   "warn": "Cycle several times after the last cartridge. Then inspect chamber, receiver cavity and feed mechanism visually."
+  },
+  {
+   "phase": "Clear",
+   "title": "Or unload through the buttstock tube",
+   "action": "The alternative empties the magazine at its source: with the barrel pointed slightly downward, turn the serrated magazine tab in the buttplate a quarter turn and draw the tube assembly out — it comes completely free of the buttplate. Hold the rifle butt-down and let the cartridges pour into your free hand through the buttplate hole, then replace and lock the tube. A round may still be chambered after the tube is empty, so the cycling-and-inspection routine from the previous step still finishes the job either way.",
+   "prose": "Emptying the tube first means the action cycles on an empty magazine afterwards — fewer live rounds passing through the ejection path.",
+   "quote": "Hold the rifle butt down and dump the cartridges into your free hand through the hole in the buttplate.",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — Unloading > UNLOADING THROUGH THE MAGAZINE",
+   "warn": "An empty tube does not mean an empty chamber. Cycle and inspect afterwards."
+  },
+  {
+   "phase": "Clear",
+   "title": "22 Long Rifle only, as the barrel says",
+   "action": "The SA-22's magazine holds eleven 22 Long Rifle cartridges and the rifle runs on nothing else. The blow-back action is the reason this is absolute rather than advisory: Shorts and Longs share the case head and will chamber, but they cannot reliably drive a breech block timed for Long Rifle, and a rifle that short-cycles on the bench gets blamed for what the ammunition did. Read the inscription on your barrel and treat it as the whole permitted list.",
+   "prose": "Keep other rimfire lengths in separate marked containers, away from the bench entirely.",
+   "caution": "22 Long Rifle only. Nothing else, even though it chambers.",
+   "quote": "The SA-22 must be used only with 22 Long Rifle rimfire ammunition as designated on the barrel.",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — Ammunition"
+  },
+  {
+   "phase": "Clear",
+   "title": "Never dry fire an SA-22",
+   "action": "Do not snap the trigger on an empty chamber, not to decock it and not to prove the trigger after cleaning. On a rimfire the firing pin strikes the chamber mouth when there is no cartridge rim to cushion it, and Browning states the consequence plainly: dry firing may damage components and can render the firearm inoperable. The notice is printed twice in this manual — in the general description and again under its own Dry Firing heading — which is Browning telling you it is not incidental.",
+   "prose": "If the striker needs to go down for storage, there is no published decock procedure — leave it as the action left it and keep the safety on.",
+   "quote": "NOTICE: DO NOT DRY FIRE THE SA-22. DRY FIRING MAY DAMAGE THE FIREARM COMPONENTS, POSSIBLY RENDERING THE FIREARM INOPERABLE.",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — General Description and Operation (repeated under Dry Firing)",
+   "warn": "Never dry fire. The chamber mouth takes the hit."
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the rifle down — barrel off with a quarter turn",
+   "action": "Hold the rifle upside down and push the barrel lock forward. While holding the receiver, draw the breech block back half an inch or more by its finger piece and hold it there, then rotate the barrel a quarter turn counterclockwise and separate the two halves. This is the SA-22's designed cleaning state, and it is also how the rifle stores: Browning treats barrel removal as both routine and safe. Set the barrel half aside muzzle-up.",
+   "prose": "Retracting the breech block is what frees the barrel to turn — if the barrel will not rotate, the block has crept forward, not the threads seized.",
+   "quote": "While holding the receiver, draw and hold the breech block back ½\" or more using the finger piece (Figure 7).",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — Disassembly"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide the trigger guard forward and lift it out, breech block and all",
+   "action": "Push the trigger guard forward about one and a quarter inches until its rails clear the grooves in the receiver. Then hold the breech block rearward with your thumb and pivot the rear end of the trigger guard up and away from the receiver — the entire trigger assembly and the breech block come out as one unit. Browning states this is ordinarily sufficient disassembly for normal cleaning, and that is exactly where the standard strip stops.",
+   "prose": "No tools, no pins — the whole fire-control group rides on rails. Keep your thumb on the breech block through the pivot or the recoil spring will try to reorganise the bench.",
+   "quote": "While holding the breech block rearward with the thumb, pivot the rear end of the trigger guard upward and away from the receiver (Figure 15). This procedure removes the entire trigger assembly and breech block and is ordinarily sufficient disassembly for normal cleaning.",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — REMOVAL AND MAINTENANCE OF THE BREECH BLOCK, steps 3-4"
+  },
+  {
+   "phase": "Strip",
+   "title": "The cartridge stop is loose in the receiver — do not lose it",
+   "action": "Look into the top of the receiver cavity: the cartridge stop sits there unretained once the trigger guard is out, and it lifts straight out for cleaning. Its orientation is keyed — the smaller rounded pin goes in the hole toward the front of the receiver, the larger squared-off protrusion in the larger round cavity — so look at how it sits before you lift it, and put it back the same way. A cartridge stop that went in backwards or stayed on the bench is a rifle that will not feed.",
+   "prose": "This is the part this strip loses. Put it in the parts tray the moment it comes out, not on the mat.",
+   "quote": "Be careful not to lose the cartridge stop located in the top of the receiver cavity. It can easily be removed for cleaning by simply lifting it out.",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — REMOVAL AND MAINTENANCE OF THE BREECH BLOCK, after step 4",
+   "warn": "The cartridge stop is loose and keyed. Note its orientation before lifting it out."
+  },
+  {
+   "phase": "Clean",
+   "title": "A scope on an SA-22 mounts to the barrel, not the receiver",
+   "action": "If you scope this rifle, the mount is a special base that attaches to the barrel — deliberately, because on a takedown rifle the barrel-to-receiver joint sits between a receiver-mounted scope and the bore, and this mounting lets the rifle be taken down without altering zero. Use the base made for the SA-22 and screws of the correct length: the filler screws come out of the barrel with a thin-bladed gunsmithing screwdriver, the base goes on clean and dry, and the screws must engage the barrel threads properly without bottoming. The rear sight leaves its dovetail first, tapped left-to-right with a wood or fibre dowel.",
+   "prose": "This is why a well-set-up SA-22 keeps its zero through a season of case storage — the sighting system never leaves the barrel half.",
+   "caution": "Only the SA-22's own base pattern, and only correct-length screws.",
+   "quote": "NOTICE: ALWAYS USE THE CORRECT BASE FOR THIS RIFLE AND THE APPROPRIATE LENGTH SCREWS OR DAMAGE COULD OCCUR TO THE RIFLE.",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — Mounting a Scope"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the deeper teardown is its own decision",
+   "action": "The rifle is now in its published cleaning state: barrel half separate, trigger guard and breech block out as a unit, cartridge stop in the tray. Browning marks the boundary here in the manual's own words — additional disassembly beyond this point requires some skill — and the firing pin, recoil spring and extractor work sits behind that line in the Deep Clean branch. Everything the routine clean needs is already reachable: the bore from the action end, the receiver cavity, the breech block's exterior and the trigger group.",
+   "prose": "The parts count so far is deliberately short: barrel half, receiver half, trigger guard/breech block unit, cartridge stop. If there are more parts than that on the mat, you are already past the line.",
+   "quote": "Additional disassembly of the rifle beyond this point requires some skill, but should the need arise, proceed as follows:",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — REMOVAL AND MAINTENANCE OF THE BREECH BLOCK, step 5",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Release the firing pin, then ease the breech block off its rails",
+   "action": "With the trigger assembly and breech block in your hand and away from the receiver, place the safety off safe and pull the trigger to release the firing pin. Draw the breech block back a quarter inch and lift its forward end until the finger piece clears the trigger guard plate, then let the block travel forward slowly with the recoil spring pinched between your thumb and fingers — the spring is captive only as long as you make it so.",
+   "prose": "Do this over the bench, not over carpet. The recoil spring leaving on its own is the classic SA-22 deep-clean failure.",
+   "quote": "With the trigger assembly and breech block in your hand, (removed from the receiver) place the “safety” in the off safe position and release the firing pin by pulling the trigger. Draw the breech block back ¼\", then lift up on the forward end until the finger piece clears the trigger guard plate (Figure 17). Allow the breech block to travel forward slowly, holding the recoil spring between your thumb and fingers to prevent it from coming out.",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — REMOVAL AND MAINTENANCE OF THE BREECH BLOCK, step 5",
+   "warn": "Wear eye protection. The recoil spring is under tension and controlled only by your grip."
+  },
+  {
+   "phase": "Strip",
+   "title": "Springs, guides and firing pin out of the breech block",
+   "action": "Remove the recoil spring, recoil spring guide, firing pin, firing pin spring and the firing pin spring guide from the breech block and trigger guard housing. Lay them out in removal order — two springs, two guides and the pin look alike enough at a glance that order on the mat is what gets them home again. This is the cleaning payoff of the deep strip: the firing pin channel and the spring seats are where a rimfire packs its wax and powder residue.",
+   "prose": "The firing pin's flattened rear edge is its orientation key for reassembly — look at it now, while it is coming out.",
+   "quote": "6. Remove the recoil spring, recoil spring guide, firing pin, firing pin spring and the firing pin spring guide from the breech block, and trigger guard housing for cleaning.",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — REMOVAL AND MAINTENANCE OF THE BREECH BLOCK, step 6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor out — a pinned, tensioned assembly",
+   "action": "To remove the extractor, carefully punch out the extractor spring retaining pin, then take the extractor spring retainer, extractor spring and extractor out of the breech block. The retainer and spring are under tension and leave under power if the pin comes out carelessly — control them with a thumb as the pin clears. Browning's stated reason for going this deep is the slot under the extractor: carbon and residue form there and only come out with the extractor off and a quality solvent in the slot.",
+   "prose": "This is the one step in the whole rifle that needs a punch. If you do not have one, the extractor slot can wait for the bench that does.",
+   "quote": "The extractor spring retainer and spring are under tension, take special care when removing the pin to prevent losing them. Occasionally remove the carbon and residue that forms in the slot underneath the extractor with a quality gun cleaning solvent.",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — REMOVAL AND MAINTENANCE OF THE BREECH BLOCK, step 7",
+   "warn": "Retainer and spring are under tension behind the pin. Thumb over them as the pin clears."
+  },
+  {
+   "phase": "Strip",
+   "title": "Rebuild the breech block: extractor first, then the pin train",
+   "action": "Reassembly runs the teardown in reverse with two orientation gates. Extractor into its slot; spring into the retainer and both into the slot; hold the retainer against its spring while the retaining pin goes home. Then the firing pin goes in pin-end first, aligned so the pin portion meets the firing pin hole at the front of the breech block with the flattened edge on the rear of the firing pin facing downward — get that flat wrong and the block will not sit on its rails. Reposition the firing pin spring and guide behind it.",
+   "prose": "Test the extractor's snap with a fingernail before the block goes back together — a bound extractor spring shows up now or at the range.",
+   "quote": "The firing pin is inserted pin end first. Line up the firing pin so that the pin portion of the firing pin aligns with the firing pin hole located at the front of the breech block with the flattened edge on the rear of the firing pin facing downward (Figure 22).",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — ASSEMBLING AND INSTALLING THE BREECH BLOCK, steps 1-5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Feed the recoil spring back in — the hard part, and the last part",
+   "action": "Hold the trigger guard and breech block top-up with the guard's rear away from you. Insert the recoil spring, guide seated in its far end, into the recoil spring hole of the breech block, then compress it in a little at a time, thumb of the block hand riding the spring for control, until the guide's end can be released against its retaining lug on the trigger guard stud. Browning says outright that this is slightly difficult and takes practice — expect two or three attempts the first time, and keep your eyes protected throughout.",
+   "prose": "Past this point the manual is done with you: the never-go-further notice closes the section, and anything deeper is a gunsmith's bench or the Arnold, Missouri facility.",
+   "quote": "This operation is slightly difficult and requires some practice.",
+   "cite": "Browning SA-22 Owner's Manual — UNKNOWN — not printed in the document (document code 23-BFA-251 on the closing page) — ASSEMBLING AND INSTALLING THE BREECH BLOCK, step 8",
+   "warn": "Never take the rifle apart further than the manual explains — the inner mechanism assemblies are gunsmith territory."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER (from the action end — the takedown's whole point)",
+   "tasks": [
+    "Barrel off the receiver; rod with slotted tip or jag and a snug patch, entered at the action end",
+    "Never let the rod strike the muzzle crown — crown damage costs accuracy permanently",
+    "Nitro solvent on a patch for powder fouling; brass bore brush only when fouling is heavy",
+    "Push a bore brush completely through before withdrawing so bristles do not break off",
+    "Wipe chamber and bore dry, then one lightly oiled patch for preservation",
+    "Inspect that no patch has been left in the barrel or chamber"
+   ]
+  },
+  {
+   "name": "RECEIVER & ACTION",
+   "tasks": [
+    "Small brush or rag for dirt and foreign matter inside the receiver cavity",
+    "Cartridge stop out, cleaned, and back in its keyed orientation — rounded pin forward",
+    "Light film of quality light gun oil on moving parts; sparingly",
+    "Never pour oil into the receiver — it drains into the wood, softens it and loosens the stock"
+   ]
+  },
+  {
+   "name": "BREECH BLOCK (deep branch)",
+   "tasks": [
+    "Firing pin channel and spring seats cleared of wax and residue",
+    "Extractor slot scrubbed with solvent while the extractor is out",
+    "Recoil and firing pin springs wiped, checked straight, lightly oiled"
+   ]
+  },
+  {
+   "name": "EXTERIOR & STOCK",
+   "tasks": [
+    "All exposed metal wiped with a lightly oiled cloth — finger marks hold moisture",
+    "Keep DEET repellents, sunscreen and strong chemicals off the finishes",
+    "Oil-finish stocks: rubbing alcohol on spots, then a linseed-oil-based finish; checkering worked with a soft brush",
+    "Wood gets oil or furniture wax — not both"
+   ]
+  },
+  {
+   "name": "BARREL FIT (as needed, not every clean)",
+   "tasks": [
+    "If the halves are loose when assembled: barrel off, serrated adjusting ring one notch counterclockwise, reassemble and re-check",
+    "One audible click per notch; overtightened (barrel will not assemble) backs off clockwise",
+    "Correct barrel-to-receiver fit is an accuracy item, not cosmetic"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Cartridge stop back into the top of the receiver cavity first, in its keyed orientation: smaller rounded pin in the forward hole, larger squared-off protrusion in the larger round cavity.",
+  "Hold the breech block fully rearward with your thumb, insert the rear of the trigger guard rails into the front of the receiver grooves, press the rear down into position and slide the assembly rearward into place. If it will not seat, draw the breech block rearward while pressing lightly down on the guard.",
+  "Barrel lock forward, breech block retracted about a half inch, barrel into the receiver as far as it goes — holding the RECEIVER, never the stock, while turning.",
+  "Turn the receiver a quarter turn clockwise until it stops aligned — sights up, forearm down — release the breech block, and slide the barrel lock rearward to lock.",
+  "Check the halves for looseness; a loose fit goes to the adjusting-ring procedure, not to more torque.",
+  "Safety stays on safe throughout, and the muzzle stays pointed somewhere that could absorb a mistake."
+ ],
+ "fncheck": "With the rifle assembled and verified empty, look through the bore from the action end against a light for patches or obstructions before the halves close up. Cycle the breech block by its finger piece and feel it run full travel and return under spring power — a gritty or short stroke means the recoil spring seated wrong. Confirm the crossbolt safety moves fully both ways and hides the red dot on safe. Check the barrel lock is fully rearward and the halves have no wobble. Do NOT dry fire to test the trigger — the SA-22's dry-fire prohibition applies exactly here — and never test function with live ammunition."
+}

@@ -1,0 +1,207 @@
+{
+ "row": "qerector",
+ "make": "Q",
+ "model": "Erector",
+ "sourcedFrom": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 (2021)",
+ "sourceSha256": "a4fdc083a520e114a24755bc3c2cc5e02dd767d991e9b7ee4be283a094a1a389",
+ "cleanIntro": "A .22 LR modular can built as a stack of separate screw-together parts rather than a tube with baffles in it: an aluminium rear mount, one stainless blast baffle, up to nine aluminium baffles and an aluminium front cap, 7.9 inches and 2.6 oz assembled on a 1/2-28 direct thread. You choose its length by how many baffles you run. Two plastic tools ship with it and Q makes them mandatory. ⛔ It is NOT full-auto rated and NOT 5.7x28 rated — that is the El Camino, a different can.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host — bolt or slide locked back",
+   "action": "Magazine out, bolt or slide locked to the rear, then inspect the chamber and magazine well by eye and by finger. Q writes it for either a .22 rifle or a .22 pistol, so the rule covers a bolt or a slide, whichever your host has.",
+   "prose": "Do it before anything else. The Erector comes apart in a vice and that is not somewhere to discover a live round.",
+   "quote": "•BEFORE REMOVING ANY SILENCER FROM ITS HOST FIREARM, REMOVE THE MAGAZINE FROM YOUR FIREARM, MAKE SURE THE BOLT OR SLIDE IS LOCKED TO THE REAR AND THE FIREARM IS UNLOADED BY PERFORMING A PHYSICAL AND VISUAL INSPECTION OF CHAMBER AND MAGAZINE WELL.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — DISASSEMBLY, p.1",
+   "warn": "Physical and visual inspection, chamber and magazine well."
+  },
+  {
+   "phase": "Clear",
+   "title": "The FINE PRINT sheet is required reading too",
+   "action": "Q requires this sheet and the FINE PRINT sheet that ships with the can to be read and understood before use, and here it names death among the consequences of not doing so. Neither document tells you how to clear your host firearm — that comes from the firearm's own manual.",
+   "prose": "The Erector's sheet is the densest of Q's tech-data cards because the can has more parts than the others, but it is still one page and still not a full manual.",
+   "caution": "Two documents ship with this can.",
+   "quote": "•BEFORE USING THIS SILENCER: BE CERTAIN YOU HAVE READ AND UNDERSTAND THIS MANUAL AND THE ACCOMPANYING “FINE PRINT” SHEET.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — MORE LAWYER SHIT, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Erector ceiling — rimfire .22 and smaller only",
+   "action": "Check the host's cartridge. Q rates the Erector for rimfire .22 and smaller calibers ONLY. That excludes centrefire .22s outright, and it is a tighter rating than Q's stainless El Camino, which the same maker rates for 22 LR, 17 HMR and 5.7x28.",
+   "prose": "The reason is in the SPECS block: the body and most of the baffles are 7075-T6 aluminium, with only the blast baffle in 17-4 stainless. Aluminium sets the ceiling.",
+   "quote": "•THE ERECTOR IS FOR USE WITH RIMFIRE .22 AND SMALLER CALIBERS ONLY.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — MORE LAWYER SHIT, p.1",
+   "warn": "Rimfire .22 and smaller. Nothing else."
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Not full-auto rated, not 5.7x28 rated",
+   "action": "Do not put this can on a full-auto host and do not put it on a 5.7x28. Q states both prohibitions in one line and names the El Camino as the product to buy instead — which is the clearest possible signal that the two .22 cans are not interchangeable even though they share a 1/2-28 thread and will physically fit the same barrel.",
+   "prose": "A can that threads on is not a can that is rated. Aluminium baffles in a sustained-fire or 5.7 pressure regime is exactly the failure Q is heading off here.",
+   "quote": "•THE ERECTOR IS NOT FULL-AUTO or 5.7x28 RATED. IF THAT’S YOUR THING, PURCHASE AN EL CAMINO by Q.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — MORE LAWYER SHIT, p.1",
+   "warn": "Full-auto: prohibited. 5.7x28: prohibited."
+  },
+  {
+   "phase": "Clear",
+   "title": "Factory SAAMI or C.I.P. approved ammunition only",
+   "action": "Q restricts the Erector to factory certified SAAMI or C.I.P. approved ammunition. In rimfire that rules out bulk remanufactured ammunition, which is also the category most likely to leave a bullet in the bore.",
+   "prose": "A squib followed by a live round drives lead into an aluminium baffle stack. There is nothing in this can hard enough to survive that.",
+   "quote": "•ONLY USE FACTORY CERTIFIED SAAMI / C.I.P. APPROVED AMMUNITION WITH THIS SILENCER by Q.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — MORE LAWYER SHIT, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Give it a moment — and know it is smaller than it looks hot",
+   "action": "Q's warning after the clearing rule is short and to the point: if you have just been shooting, be careful. A 2.6 oz aluminium can heats fast because there is almost no metal in it, and the outside of an Erector component is exactly where the supplied tool has to grip.",
+   "prose": "Aluminium sheds heat quickly too, so a short wait genuinely helps. The tools are plastic and will not save your hand. The manual prints an ellipsis inside this sentence; the citation is cut to the contiguous side so nothing is elided by us. Its other half reads: \"THAT SHIT GETS HOT.\".",
+   "quote": "IF YOU JUST FINISHED SHOOTING, BE CAREFUL",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — DISASSEMBLY, p.1",
+   "warn": "Hot aluminium, plastic tools. Wait."
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the Erector off the host with the supplied tool",
+   "action": "Fit the supplied tool to the REAR MOUNT and unthread the whole assembly counter-clockwise off the 1/2-28 barrel. Q is specific that the tool goes on the rear mount for install and removal so the torque never passes through the baffle joints — turning the can by gripping the body unscrews the stack instead of the mount.",
+   "prose": "That is the single most useful thing to understand about this can: it is a chain of threaded joints, and whichever one you grip is the one that takes the load.",
+   "caution": "Grip the rear mount, never the middle of the stack.",
+   "quote": "WE RECOMMEND USING THE PROVIDED TOOL TO INSTALL FROM THE REAR MOUNT SO YOU DON’T APPLY ADDITIONAL TORQUE TO THE SILENCER ASSEMBLY.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — INSTALLATION ONTO THE HOST FIREARM, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the barrel thread length for the spacer",
+   "action": "Before the can goes back, check how much thread your barrel carries. Q supplies a spacer and it is required if the threads are longer than .625 inches or if thread is still visible with the silencer attached. Note this figure is .625 for the Erector — the El Camino's is .525, and they are different cans.",
+   "prose": "Without the spacer the mount bottoms on the thread instead of the shoulder, which cants the whole stack.",
+   "quote": "IF YOUR BARREL THREADS ARE LONGER THAN .625” OR YOU CAN SEE THE THREADS WHEN THE SILENCER IS ATTACHED, INSTALL THE PROVIDED SPACER FOR PROPER FIT.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — INSTALLATION ONTO THE HOST FIREARM, p.1",
+   "warn": ".625 inches for the ERECTOR. Do not carry the El Camino's .525 figure across."
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean the barrel threads before it goes back on",
+   "action": "Clean the muzzle threads of fouling before reinstalling. On the Erector this is the mount's only locating surface, and the mount is aluminium — grit on the thread galls it, and a galled rear mount is not something a .22 can recovers from.",
+   "prose": "Q lists it as the second half of the cleaning routine, after the components themselves.",
+   "quote": "2. It is also recommended to clean the barrel threads of any fouling prior to reinstalling the silencer onto the ﬁrearm.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — CLEANING & MAINTENANCE, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The Erector is off the host as one assembly, and that is the routine strip. Taking it down into its components is the Deep Clean, and Q sets the interval at every 1,000 rounds — which on a rimfire can with aluminium baffles is a real limit rather than a suggestion, because lead builds up faster than any solvent removes it.",
+   "prose": "Between deep cleans, the check that earns its keep is that every joint is still tight and that the can has not lengthened itself by a joint backing off.",
+   "quote": "Q recommends cleaning your silencer every 1000 rounds.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — CLEANING & MAINTENANCE, p.1",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "The two supplied tools are mandatory, not optional",
+   "action": "Before anything is turned, find both plastic tools that shipped with the can. They interface with the OUTSIDE features of each Erector component and Q is unambiguous that working without them damages the parts, throws them out of alignment and stops them going back together. They are also plastic, so a vice must be closed gently on one.",
+   "prose": "This is the step that decides whether the rest of the teardown is possible. Aluminium components turned by any other grip get marred, and a marred component no longer indexes.",
+   "quote": "•THE CHOICE TO NOT USE THE PROVIDED TOOL IS A TERRIBLE ONE. IT WILL CAUSE DAMAGE TO THE COMPONENTS, BRING THEM OUT OF ALIGNMENT, AND PREVENT THEM FROM REASSEMBLING PROPERLY.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — DISASSEMBLY / ASSEMBLY, p.1",
+   "warn": "•THE TOOLS ARE PLASTIC. USE CARE NOT TO CRUSH THEM WHEN PUTTING THEM IN A VISE."
+  },
+  {
+   "phase": "Strip",
+   "title": "Unthread the components in reverse assembly order",
+   "action": "With the can off the host, use the supplied tools to unthread each component from the next in the same order you put them together — front cap first, then the aluminium baffles one at a time, then the stainless blast baffle out of the rear mount. Q's advice for making it possible is to clamp one tool in a vice and drive the second with a 1 3/4 wrench.",
+   "prose": "Do one joint at a time and keep the tools touching the two components either side of the joint you are turning; that is what stops the torque travelling down the stack.",
+   "caution": "NOTE: USING A VICE TO HOLD ONE OF THE TOOLS IN PLACE AND A 1 ¾ WRENCH ON THE SECOND TOOL WILL MAKE THIS A LOT EASIER.",
+   "quote": "2. Using the provided tool(s), unthread each of the components from the others in the same manner you assembled them.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — DISASSEMBLY, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Know the four component types before they are all loose",
+   "action": "Lay the parts out as they come off and identify them: one aluminium rear mount, one stainless steel blast baffle, up to nine aluminium baffles and one aluminium front cap. Q recommends at least one of each and in that order. The blast baffle is the one that does not look like the others — it is stainless because it takes the muzzle blast.",
+   "prose": "The baffle count is yours to choose: nine ship with the can, all nine give the best suppression, and fewer gives a shorter can. Whatever you choose, it goes back in one order only.",
+   "aside": "The list printed beneath reads: A. Aluminum Rear Mount (x1), B. Stainless Steel Blast Baffle (x1), C. Aluminum Baffles (x9), D. Aluminum Front Cap (x1).",
+   "quote": "The ERECTOR silencer is comprised of 4 components. We highly recommend using at least one of each in this order.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — ASSEMBLY — component list, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Solvent and a nylon brush on every component",
+   "action": "Clean carbon off the rear mount, the baffles and the front cap with cleaning solvent and a NYLON brush. Nothing metal touches these parts — they are 7075-T6 aluminium and a steel brush cuts them. On a rimfire can most of what you are removing is lead, so expect it to take soaking rather than scrubbing.",
+   "prose": "Because the can comes fully apart, every surface is reachable — that is the payoff for the modular design and the reason the 1,000 round interval is achievable at all.",
+   "aside": "Quoted as the text extraction renders it — the ffl ligature in 'baffles' drops out throughout this sheet.",
+   "quote": "1. Using cleaning solvent and a nylon brush, clean carbon deposits from rear mount, ba es and front cap.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — CLEANING & MAINTENANCE, p.1",
+   "warn": "•DO NOT USE METAL TOOLS FOR CLEANING THIS SILENCER."
+  },
+  {
+   "phase": "Clean",
+   "title": "Rebuild from the rear mount out — blast baffle first",
+   "action": "Clamp one tool around the REAR MOUNT and put it in the vice. Thread the stainless steel blast baffle into it — Q's own way of identifying that part is that it is the one that does not look like the others. Start it by hand and feel the thread pick up before any tool goes near it.",
+   "prose": "Cross-threading aluminium into aluminium takes almost no force and is not recoverable. Every joint in this can starts by hand.",
+   "caution": "•USE CARE NOT TO CROSS THREAD COMPONENTS WHEN SCREWING THEM TOGETHER.",
+   "quote": "2. Thread the steel blast ba e into the rear cap. This is the one that doesn’t look like the others.",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — ASSEMBLY, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "6 to 8 ft-lbs per joint, one joint at a time",
+   "action": "With a 1 3/4 wrench on the second Erector tool, torque the blast baffle to 6 to 8 ft-lbs, then repeat for each aluminium baffle — one to nine of them, depending on the length you want. Q's rule for doing it safely is that the tools must always be touching the two components adjacent to the joint being turned, and that the newly torqued component then moves into the vice block before the next one goes on.",
+   "prose": "That marching sequence is what keeps each joint from unwinding the one behind it. Skipping it is how a can comes apart in the middle rather than at the end.",
+   "aside": "The sentence continues on the next line as 'ERECTOR tool, apply 6 to 8 -lbs of torque to the blast baffle' — the ft ligature is dropped by the extraction throughout this sheet.",
+   "quote": "3. Using a 1 ¾ wrench around the 2nd",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — ASSEMBLY step 3, p.1",
+   "warn": "•APPLY TORQUE TO ONE COMPONENT AT A TIME. Do not over-tighten."
+  },
+  {
+   "phase": "Clean",
+   "title": "Front cap on at 6 to 8 ft-lbs",
+   "action": "Install the front cap last and torque it to 6 to 8 ft-lbs with a 1/2 inch socket or wrench — the same figure as every other joint on this can. Then check the whole assembly is straight before it goes anywhere near a muzzle.",
+   "prose": "A modular can is only as concentric as its worst joint, so a final sight through the assembled stack is worth more here than on a one-piece can.",
+   "aside": "Quoted as the extraction renders it — the line completes as 'a 1/2 inch socket or wrench' and the ft ligature is dropped.",
+   "quote": "5. Install front cap and apply 6-8 -lbs using",
+   "cite": "ERECTOR BY Q™ 22 LR MODULAR SILENCER — REV 1.0 — ASSEMBLY step 5, p.1"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "COMPONENTS",
+   "tasks": [
+    "Clean carbon and lead from the rear mount, every baffle and the front cap with solvent and a nylon brush",
+    "Never use metal tools on the 7075-T6 aluminium parts",
+    "Identify the stainless blast baffle — it is the one that does not look like the others — and check its bore for strikes",
+    "Reassemble at 6 to 8 ft-lbs per joint, one joint at a time"
+   ]
+  },
+  {
+   "name": "TOOLS",
+   "tasks": [
+    "Use both supplied plastic tools; Q states that working without them damages and misaligns the components",
+    "Do not crush the plastic tools in a vice",
+    "Keep the tools touching the two components either side of the joint being torqued"
+   ]
+  },
+  {
+   "name": "MUZZLE INTERFACE",
+   "tasks": [
+    "Clean the 1/2-28 barrel threads of fouling before reinstalling",
+    "Fit the supplied spacer if the barrel threads exceed .625 inches or thread is visible with the can fitted",
+    "Install the can from the REAR MOUNT with the supplied tool at 6 to 8 ft-lbs"
+   ]
+  },
+  {
+   "name": "SCHEDULE",
+   "tasks": [
+    "Q recommends cleaning this silencer every 1000 rounds",
+    "Wear proper personal protective equipment for all cleaning and maintenance"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Clamp one supplied tool around the rear mount and set it in a vice, taking care not to crush the plastic.",
+  "Thread the stainless steel blast baffle into the rear mount by hand, then torque it to 6 to 8 ft-lbs with a 1 3/4 wrench on the second tool.",
+  "Repeat with the aluminium baffles, one to nine times, moving each newly torqued component into the vice block before adding the next.",
+  "Install the front cap at 6 to 8 ft-lbs with a 1/2 inch socket or wrench.",
+  "Install the assembled can onto the host from the rear mount with the supplied tool, at 6 to 8 ft-lbs."
+ ],
+ "fncheck": "Sight straight through the assembled Erector from the rear and confirm every baffle bore lines up as one clear channel with no step, shadow or witness mark. Check every joint by hand for movement — a modular can that has one loose joint will lengthen under fire. Confirm no barrel thread is visible behind the rear mount once fitted; if it is, the supplied spacer is missing and the can is not seated."
+}

@@ -1,0 +1,89 @@
+{
+ "row": "rossirm64",
+ "make": "Rossi",
+ "model": "RM64",
+ "sourcedFrom": "REVOLVERS\nINSTRUCTION MANUAL — Rev 2 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "a1364fdc2111cb71042ce7b8eb0f63aed9dbdf0979a94c0a690509343ebda72a",
+ "cleanIntro": "Rossi's revolver book covers three models together — RM64, RM66 and RP63 — and states outright that the revolver is cleaned and lubricated without any disassembly. So this is a cylinder-open clean: swing it out, empty it, work the bore and chambers, and put nothing on the bench that came off the gun.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Your RM64 is one of the three models this book covers",
+   "action": "Confirm you have an RM64 before using anything here: 4-inch barrel, 8.97 inches overall, 29.4 ounces, .357 Magnum, six rounds, with a fully adjustable rear sight. The RM64 is one of exactly three models Rossi names as rated for SAAMI +P ammunition — RM64, RM66 and RP63.",
+   "prose": "This one book serves three revolvers that differ only in barrel length, size, weight and rear sight, so \"it says so on this page\" is not enough — check the heading and check your gun. Rossi also states that .38 Special may be used in any Rossi revolver chambered for .357 Magnum, and that substituting any other caliber can damage the firearm; the correct cartridge is stamped on the underside of your barrel, and that stamp outranks anything printed in a manual.",
+   "caution": "Rossi's +P rating is a permission, not a recommendation: the same page says +P generates pressures well above standard ammunition and that unless you need it, you should not use it — particularly for practice.",
+   "quote": "Firing +P ammunition in other Rossi products may be dangerous and can result in serious bodily injury or death.\nRM64\nRM66\nRP63",
+   "cite": "REVOLVERS\nINSTRUCTION MANUAL — Rev 2 — Ammunition — +P rating, printed p.18 (PDF p.10)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Cylinder release forward, swing it out, check all six",
+   "action": "Muzzle in a safe direction and finger off the trigger. Push the cylinder release on the left side of the frame FORWARD with your thumb, and at the same time press on the right side of the cylinder so it swings out to the left. Then look at all six chambers.",
+   "prose": "Forward, not down and not in — the Rossi release slides toward the muzzle, and a thumb that presses straight down on it will simply hold the cylinder shut. The cylinder should swing out under light finger pressure; if it does not, stop and look at what is holding it rather than forcing it, because a cylinder snapped open or closed damages the crane and the latch.",
+   "quote": "With the thumb of the right hand push the cylinder release forward. Then press on the cylinder to swing it to the left. Visually check that all six (6) chambers are empty.",
+   "cite": "REVOLVERS\nINSTRUCTION MANUAL — Rev 2 — Firearm Safety Systems, printed p.8 (PDF p.5)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Muzzle up, one firm push on the extractor rod",
+   "action": "With the cylinder fully swung out, raise the muzzle and push smartly rearward on the front of the extractor rod. Everything in the cylinder lifts at once on the extractor star and either drops clear or can be picked out.",
+   "prose": "Muzzle up matters — with the barrel down, cases ride back into their chambers as the star returns and you end up believing you unloaded a revolver you did not. One firm stroke beats several timid ones: a partial lift lets a case tip and re-enter, and .357 cases are long enough that a short stroke will not clear them from the RM64's cylinder.",
+   "quote": "To unload, open the cylinder as previously described on page 23. Elevate the muzzle. Then, with the cylinder fully open, push smartly in a rearward motion on the front of the extractor rod. This will extract all cartridges so that they will either drop out or can be pulled out with your fingers.",
+   "cite": "REVOLVERS\nINSTRUCTION MANUAL — Rev 2 — Unloading, printed p.25 (PDF p.13)",
+   "warn": "Spent cases will be hot and can have sharp edges. Let them fall rather than catching them in a cupped palm."
+  },
+  {
+   "phase": "Strip",
+   "title": "Look AND feel every chamber — that is the working state",
+   "action": "Muzzle safe, finger off the trigger, cylinder completely swung out, and now confirm empty by looking into each of the six chambers and running a finger across the rear face. Rossi calls the cylinder release the thumb piece in this section — it is the same control you used a moment ago.",
+   "prose": "Feeling matters as much as looking: under bench light a brass case head in a chamber can read as an empty chamber wall, and a fingertip cannot be fooled that way. Leave the cylinder swung fully out from here on — it is the position every remaining step is done in, and it is the only access this revolver gives you.",
+   "quote": "Before cleaning, (1) keep the muzzle pointed in a safe direction, (2) keep your finger off the trigger, (3) depress the thumb piece and completely swing out the cylinder, (4) ensure the firearm is completely unloaded by looking and feeling each chamber.",
+   "cite": "REVOLVERS\nINSTRUCTION MANUAL — Rev 2 — Care and Maintenance, printed p.24 (PDF p.13)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the RM64 does not come apart",
+   "action": "The cylinder is out, the chambers are empty, and that is the entire strip. Rossi states the revolver is cleaned and lubricated under normal conditions without any disassembly, and asks for a clean and lubrication every 200 rounds, checking at the same time for loose screws and pins.",
+   "prose": "The exploded view later in the book lists a sideplate, a sideplate screw and a yoke screw, and none of that is an invitation — the same book routes any mechanical work to a qualified gunsmith and warns that improperly fitted parts cause dangerous malfunctions. The screws you do check are the ones you can see from outside: the sideplate screw, the yoke screw and, on an RM64, the rear sight screw, which shooting works loose and cleaning solvent finds.",
+   "aside": "The sight-adjustment procedure printed earlier in this book does apply to your RM64 — the specifications table lists its rear sight as fully adjustable — but adjusting sights is a range job, not part of a clean. Do not turn the elevation or windage screws to \"free them up\".",
+   "quote": "Your firearm may be cleaned and lubricated under normal conditions without any disassembly. For optimal performance, we recommend you clean and lubricate your firearm after every 200 rounds fired.",
+   "cite": "REVOLVERS\nINSTRUCTION MANUAL — Rev 2 — Care and Maintenance, printed p.25 (PDF p.13)",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The Rossi revolver book documents a cylinder-open clean and nothing beyond it: a bore and chamber brush, a dry patch, an exterior wipe, a drop of oil on moving parts, and a 200-round interval with a check for loose screws and pins. It states plainly that the revolver may be cleaned and lubricated under normal conditions without any disassembly, and it routes every mechanical repair to a qualified gunsmith or to Braztech, warning that improperly fitted parts can cause a dangerous malfunction. The exploded view is a parts list, not a procedure — no disassembly steps are published, so there is nothing deeper to walk.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBERS",
+   "tasks": [
+    "Remove firing residue from the bore and each chamber with a properly fitted brass brush dipped in gun cleaning solvent",
+    "Finish by running a dry cotton patch through the bore to take out the remaining residue and solvent",
+    "Do the same in all six chambers — .357 cases are long, and a chamber cleaned only at the mouth will stop the next round seating",
+    "Hold the bore up to light afterwards: if you cannot see light through it, do not fire the revolver"
+   ]
+  },
+  {
+   "name": "CYLINDER FACES, EXTRACTOR & FRAME",
+   "tasks": [
+    "Clean the exterior with a non-abrasive cloth and get dust and residue out of the small crevices with a small brush",
+    "The carbon ring on the front face of the cylinder and the fouling behind the extractor star are the two places that actually stop a revolver working — push the extractor rod back and clean in behind the star",
+    "Wipe the barrel/cylinder gap area and the frame window; on a 4-inch RM64 the gap ring builds fast in .357"
+   ]
+  },
+  {
+   "name": "OIL & INTERVAL",
+   "tasks": [
+    "Lubricate moving parts with a drop of oil — a drop, not a flood",
+    "Rub the revolver over with a lightly oiled cloth to leave a light protective film",
+    "At the same 200-round point, check for loose screws or pins: tighten screws and press pins back in as needed",
+    "If the revolver carries a laser, it must not go into a well or ultrasonic machine that submerges the gun"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Nothing came off, so nothing goes back on. Let the extractor rod re-seat fully before you close the cylinder.",
+  "Close the cylinder gently but firmly until it latches — never snap it open or closed, which is how the crane goes out of true.",
+  "Rotate the closed cylinder by hand and feel it index and lock before the revolver is stored or carried."
+ ],
+ "fncheck": "With every chamber confirmed empty: the cylinder should close and latch with light pressure and show no side play when latched; rotating it should index cleanly with the cylinder stop dropping into each notch; the hammer block should keep the hammer off the firing pin until the trigger is pulled all the way through; and both single and double action should reset positively when the trigger is released fully forward. Rossi's own advice is to carry the revolver with an empty chamber under the hammer, and never with the hammer cocked."
+}

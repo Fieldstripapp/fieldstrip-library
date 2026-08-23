@@ -1,0 +1,227 @@
+{
+ "row": "christensenarmsca15",
+ "make": "Christensen Arms",
+ "model": "CA-15",
+ "sourcedFrom": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 (2016)",
+ "sourceSha256": "107296ebed1836496e4069d19f300e286e990aeb7367f17748bc9a3d9070193d",
+ "cleanIntro": "Christensen's own procedure for its AR-pattern rifles. The strip is the familiar one, but three things in this book are Christensen's and not generic AR advice: ⛔ NO GRAPHITE LUBRICANT EVER — it corrodes the aircraft-grade aluminium; the rifle ships with PRESERVATIVE OIL IN THE BORE that must be cleaned out before the first shot; and the trigger group's sear surfaces carry a copper-based anti-seize from the factory that gets re-applied, not scrubbed away.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety glasses, and safety selector to SAFE",
+   "action": "Put safety glasses on, then put the safety selector in the SAFE position. If the rifle is not cocked the lever will not reach SAFE — that is the mechanism telling you the hammer is down, not a fault.",
+   "prose": "Christensen asks for eye protection at the head of the disassembly section, before the first pin moves.",
+   "aside": "if the rifle is not cocked, the lever cannot be pointed toward SAFE.",
+   "quote": "ALWAYS WEAR SAFETY GLASSES WHEN DISASSEMBLING, MAINTAINING OR ASSEMBLING YOUR FIREARM.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — DISASSEMBLY, printed p.16-19"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, THEN charging handle, THEN look",
+   "action": "Remove the magazine first, then pull the charging handle back and check the chamber. Catch the magazine — Christensen warns it drops free and a hard surface will damage it.",
+   "prose": "The order is stated with THEN in capitals: racking before the magazine is out reloads the rifle.",
+   "quote": "Put the safety selector in the \"SAFE\" position. Remove the magazine, THEN pull back the charging handle and check the chamber.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — DISASSEMBLY, printed p.16-19",
+   "warn": "THE MAGAZINE WILL FALL FREE WHEN THE MAGAZINE RELEASE IS PRESSED. DON'T ALLOW THE MAGAZINE TO FALL ONTO A HARD SURFACE. DOING SO MAY DAMAGE THE MAGAZINE."
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin from the LEFT, pull until it stops",
+   "action": "Press the takedown pin from the LEFT side, pull it until it stops, and pivot the upper away from the lower.",
+   "prose": "Both pins on this rifle are pressed from the left and pulled from the right; they are captive and stop on their own.",
+   "quote": "Press takedown pin from the left side then pull until it stops.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — DISASSEMBLY, printed p.16-19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pivot pin too, if you want the receivers apart",
+   "action": "Press the pivot pin from the LEFT side, pull until it stops, and separate the upper and lower receivers.",
+   "prose": "Full separation is not required for a routine clean — hinging the rifle open is enough to get the carrier out.",
+   "quote": "Press pivot pin from the left side then pull until it stops.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — DISASSEMBLY, printed p.16-19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Carrier out, then the charging handle back AND DOWN",
+   "action": "Pull the charging handle and bolt carrier assembly back, remove the carrier, then pull the charging handle back and DOWN to free it.",
+   "prose": "Back and down — the handle's lugs sit in a track and only release at the rearmost point. Forcing it straight back will not work.",
+   "quote": "Pull the charging handle back and down to remove it.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — DISASSEMBLY, printed p.16-19"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Firing pin retaining pin — never open or close its split end",
+   "action": "Move the bolt forward to the unlocked position and remove the firing pin retaining pin.",
+   "prose": "⛔ Christensen's instruction is specific and easy to disregard: do not open or close the split end of that pin. Spreading it to 'make it hold better' destroys its spring temper and it will migrate out under fire.",
+   "quote": "Move the bolt assembly forward to the unlock position and remove the firing pin retaining pin. Do not open or close the split end of the firing pin retaining pin.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — DISASSEMBLY, printed p.16-19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt to locked, catch the firing pin, lift the cam pin",
+   "action": "Push the bolt in to the locked position, catch the firing pin as it drops out of the rear of the carrier, lift out the cam pin, and take the bolt out of the carrier.",
+   "prose": "Catch is the operative word — the firing pin falls the moment the carrier tips, and a dropped one gets a blunted tip.",
+   "quote": "Catch the firing pin as it drops out of the rear of the bolt carrier assembly.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — DISASSEMBLY, printed p.16-19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the extractor spring while it is apart",
+   "action": "Press the rear of the extractor and confirm the spring works.",
+   "prose": "A one-second check that finds the commonest cause of failures to extract, and the only moment it is visible.",
+   "quote": "Press the rear of the extractor to check that the spring works.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — DISASSEMBLY, printed p.16-19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper, lower, bolt carrier group in pieces, charging handle. The buffer and buffer spring come out only for the deeper clean.",
+   "prose": "⛔ The trigger group stays in the lower — Christensen forbids taking it apart, in capitals.",
+   "quote": "Remove the bolt assembly from the bolt",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — DISASSEMBLY, printed p.16-19",
+   "warn": "WARNING DO NOT DISASSEMBLE THE TRIGGER GROUP."
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "⛔ Solvent and lubricant: no graphite, ever",
+   "action": "Use high-quality solvents to strip metal fouling from the bore, and lubricate generously — especially the bolt and carrier. ⛔ Never use a lubricant containing graphite.",
+   "prose": "⛔ This is a Christensen-specific rule with a Christensen-specific reason: graphite drives rapid corrosion in the aircraft-grade aluminium the receivers are made from. Basic kit: rod, brass bore brush, chamber brushes, toothbrush, patches, pipe cleaners and a lint-free cloth.",
+   "quote": "Under NO condition should any lubricant containing graphite be used with your rifle. Graphite can encourage rapid corrosion to the aircraft-grade aluminum used in your rifle.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — MAINTENANCE, printed p.22-27",
+   "warn": "DO NOT APPLY LUBRICANT OR PRESERVATIVE TO YOUR AMMUNITION. DOING SO MAY CAUSE THE CARTRIDGE TO PARTIALLY MALFUNCTION, LEAVING THE BULLET LODGED IN THE BORE, CREATING A BORE OBSTRUCTION."
+  },
+  {
+   "phase": "Deep",
+   "title": "Buffer and spring out — under compression",
+   "action": "Compress the buffer detent and let the buffer and buffer spring come out of the buffer tube under control.",
+   "prose": "⛔ The spring is compressed and will project out of the tube the instant the detent goes down. A hand over the tube mouth, every time.",
+   "quote": "Compress buffer detent",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — REMOVING BUFFER AND BUFFER SPRING, printed p.19",
+   "warn": "CAUTION - Buffer spring is compressed and will project out of tube when buffer detent is compressed."
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Bore brush never reverses in the bore",
+   "action": "Solvent through the bore and chamber, the gas tube, the upper receiver and barrel assembly, the locking lugs and every area of fouling. Run the rod through the chamber and flash suppressor several times. Then the chamber brush, dipped in solvent, pushed and twisted into the chamber and locking lugs.",
+   "prose": "⛔ Never turn the bore brush around while it is inside the bore. Christensen recommends a pull-through cable for breech-to-muzzle cleaning, which sidesteps the problem entirely.",
+   "quote": "Use cleaning solvent on the bore and chamber, the gas tube, the upper receiver and barrel assembly, locking lugs and all areas of powder fouling, corrosion, dirt and dust.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — MAINTENANCE, printed p.22-27",
+   "warn": "CAUTION: DO NOT REVERSE THE DIRECTION OF THE BORE BRUSH WHILE IT IS IN THE BORE."
+  },
+  {
+   "phase": "Deep",
+   "title": "The gas tube gets a worn-out brush — and stays discoloured",
+   "action": "Clean the outside of the protruding gas tube with a WORN OUT bore brush, working the sides and bottom from underneath the upper receiver. Expect the brush to be finished afterwards.",
+   "prose": "⚠ Gas tubes discolour from heat and Christensen says plainly not to try to remove it. Scrubbing at heat colour only removes metal.",
+   "aside": "Gas tubes will discolor from heat. Do not try to remove this discoloration.",
+   "quote": "Use a worn out bore brush to clean the outside surface of the protruding gas tube",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — MAINTENANCE, printed p.22-27"
+  },
+  {
+   "phase": "Deep",
+   "title": "Carrier, key, locking lugs and the ejector hole",
+   "action": "Solvent-saturated swab over the carrier inside and out; a WORN bore brush dipped in solvent through the bolt carrier key, then dry it with a pipe cleaner. Bore brush and solvent on the locking lugs. Clean behind the bolt ring and under the extractor lip. Press the ejector in repeatedly to shake out brass shavings and confirm it moves freely, then lubricate it generously.",
+   "prose": "Brass shavings in the ejector hole are what turn a clean rifle into one that stovepipes, and they only come out by working the plunger.",
+   "quote": "Press the ejector in repeatedly to remove accumulated brass shavings from the ejector hole and assure the ejector moves freely.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — MAINTENANCE, printed p.22-27"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Inspect while it is apart — and never swap bolts",
+   "action": "Inspect the charging handle for cracks, bends or breaks; the bolt for cracks or fractures, ESPECIALLY around the cam pin hole; the firing pin retaining pin for bends, breaks or dents; the cam pin for cracks or chips; the firing pin for bends, cracks, chips or a blunted tip.",
+   "prose": "⛔ Do not interchange bolts between rifles. A bolt is headspaced to its own barrel, and swapping one is how a rifle acquires a headspace problem nobody measured.",
+   "quote": "Inspect the bolt assembly for cracks or fractures, especially in the cam pin-hole area.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — MAINTENANCE, printed p.22-27",
+   "warn": "WARNING! Do not interchange bolts between rifles."
+  },
+  {
+   "phase": "Deep",
+   "title": "Lubricate: light in some places, generous in others",
+   "action": "LIGHT on the firing pin and its recess, on the inner and outer surfaces of the carrier, and on the charging handle. GENEROUS on the outside of the cam pin and the retaining pin, in the cam pin hole, on the bolt ring and the outside of the bolt, and on the side and cam pin area of the carrier. Dry the carrier key with a pipe cleaner and put ONE drop of lubricant inside it.",
+   "prose": "⚠ And leave the gas-cylinder groove at the bottom of the carrier alone. Christensen says the carbon there cannot build up enough to matter and that trying to remove it does more harm than good — \"Avoid the instinct to over-clean your rifle.\"",
+   "aside": "Carbon in the groove at the bottom of the gas cylinder in the carrier cannot accumulate enough to become a problem.",
+   "quote": "Dry the key of the bolt carrier assembly with pipe cleaner. Place one drop of lubricant inside the bolt carrier key.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — MAINTENANCE, printed p.22-27"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Lower receiver: no wire brush, no abrasives",
+   "action": "Swab the dirt off the trigger; swab and brush the fouling out of the lower; a pipe cleaner through the butt stock screw vent hole; swab the buffer, operating spring and lower interior with solvent, then lubricate the buffer and spring LIGHTLY and the takedown pins, pivot pins and internals GENEROUSLY.",
+   "prose": "⛔ Never a wire brush or any abrasive on the aluminium. Inspect for a bent trigger, a cracked grip, a broken hammer spring, a bent safety and corrosion while everything is open.",
+   "quote": "DO NOT USE A WIRE BRUSH OR ANY TYPE OF ABRASIVE MATERIAL TO CLEAN ALUMINUM SURFACES",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — LOWER RECEIVER ASSEMBLY, printed p.27"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ The sear surface: wipe and RE-APPLY anti-seize",
+   "action": "The trigger group ships with a copper-based anti-seize on the sear surfaces. If the pull has become heavy, release the hammer by pulling the trigger — controlling it down — wipe the hammer's sear surface clean with a swab, and apply lubricant liberally to it again. Christensen recommends a copper-based anti-seize.",
+   "prose": "⛔ Two traps in one step. Do NOT let the hammer swing free into the lower — it damages the receiver. And do NOT just degrease the sear and leave it: the anti-seize is factory-applied for a reason and the step is wipe-then-replace.",
+   "quote": "Do not allow the hammer to swing freely and impact the lower receiver as this could damage the lower receiver.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — LOWER RECEIVER ASSEMBLY, printed p.27",
+   "warn": "WARNING DO NOT DISASSEMBLE THE TRIGGER GROUP."
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Rebuilding the BCG: cam pin FIRST, or the bolt ring jams",
+   "action": "Slide the bolt into the carrier — extractor to the RIGHT, ejector to the LEFT — but only far enough to insert the cam pin. Insert the cam pin, drop the firing pin in, press it forward about 1/8 inch after you feel spring resistance, hold it, and insert the retaining pin behind the firing pin's large flange. Do not pound the retaining pin home.",
+   "prose": "⛔ Push the bolt too deep without the cam pin and the bolt ring jams in the back of the carrier — Christensen's own remedy is driving it out with a brass rod and destroying the ring.",
+   "quote": "ONLY INSERT THE BOLT INTO THE CARRIER FAR ENOUGH TO INSERT THE CAM PIN. IF YOU INSERT THE BOLT TOO DEEPLY WITHOUT THE CAM PIN IN PLACE, THE BOLT RING MAY JAM IN THE BACK OF THE CARRIER.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — REASSEMBLY, printed p.28-30",
+   "warn": "BE SURE CAM PIN IS INSTALLED IN THE BOLT GROUP. THE RIFLE CAN STILL FIRE WITHOUT IT AND IT WILL EXPLODE."
+  },
+  {
+   "phase": "Deep",
+   "title": "The shake test, then close it up",
+   "action": "Turn the carrier assembly up and try to shake the firing pin out — it must stay put. Then charging handle part-way in, carrier in with the bolt extended, both pushed home together. Close the ejection port cover BEFORE joining the receivers, with the hammer cocked.",
+   "prose": "The shake test is the one check that proves the retaining pin is actually seated, and it takes a second.",
+   "aside": "TO AVOID DAMAGE TO THE EJECTION PORT COVER, CLOSE THE EJECTION PORT COVER BEFORE THE RECEIVERS ARE JOINED.",
+   "quote": "Turn the bolt carrier assembly up and try to shake out the firing pin. The firing pin should remain in place.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — REASSEMBLY, printed p.28-30"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Preservative out of the bore before firing",
+   "action": "A Christensen rifle ships with preservative oil in the bore. Clean and DRY the bore before the first shot, and after any long-term storage.",
+   "prose": "⛔ Firing on preservative raises pressure. Christensen's own wording runs to firearm damage, personal injury or death. ⚠ Break-in: 200 rounds to smooth the action; clean after every shot for the first 10, then after every five-shot group for the next 50.",
+   "quote": "CLEAN AND DRY THE BORE BEFORE FIRING YOUR CHRISTENSEN ARMS FIREARM.",
+   "cite": "Christensen Arms Modern Sporting Rifles Owner's Manual (08-2016 v03) — 08-2016 v03 — INITIAL CLEANING, printed p.8",
+   "warn": "NEVER DRY FIRE YOUR RIFLE WITHOUT THE BOLT CARRIER ASSEMBLY INSTALLED. THE FIRING PIN STOPS THE FALL OF THE HAMMER, WITHOUT THE BOLT CARRIER ASSEMBLY INSTALLED, THE HAMMER CAN IMPACT ON THE LOWER RECEIVER AND CAUSE DAMAGE TO THE FIREARM."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent on the bore, chamber, locking lugs and gas tube exterior",
+    "Chamber brush pushed and twisted into the chamber and locking lugs",
+    "⛔ Never reverse the bore brush inside the bore; a pull-through cable avoids it"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Swab the carrier; worn bore brush through the key, then dry with a pipe cleaner",
+    "Behind the bolt ring and under the extractor lip; work the ejector to shed brass shavings",
+    "Light on the firing pin and carrier surfaces; generous on the cam pin, bolt ring and bolt exterior. ⛔ No graphite."
+   ]
+  },
+  {
+   "name": "LOWER RECEIVER",
+   "tasks": [
+    "⛔ No wire brush or abrasive on aluminium — swab and cleaning brush only",
+    "Pipe cleaner through the butt stock screw vent hole",
+    "Wipe the hammer's sear surface and RE-APPLY copper-based anti-seize; the trigger group is never taken apart"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Buffer and operating spring back into the tube.",
+  "Bolt into the carrier only as far as the cam pin — extractor right, ejector left — then cam pin, firing pin, and the retaining pin without forcing it.",
+  "Shake test the firing pin; it must stay in.",
+  "Charging handle part-way in, carrier in behind it, push both home together.",
+  "Close the ejection port cover, cock the hammer, join the receivers and seat both pins."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty: with the safety on SAFE pull the trigger and confirm the hammer does not fall; move to FIRE and confirm it does; hold the trigger back, cycle the charging handle, release the trigger and listen for the disconnector reset."
+}

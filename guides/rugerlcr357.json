@@ -1,0 +1,113 @@
+{
+ "row": "rugerlcr357",
+ "make": "Ruger",
+ "model": "LCR .357",
+ "sourcedFrom": "Ruger LCR and LCRx Instruction Manual — PM199 (2025)",
+ "sourceSha256": "cf145481a96edfb3005744cb40538664471a692fbc51325b3367b9fbfcd73dfe",
+ "cleanIntro": "Ruger's own procedure for the LCR .357, from PM199. The strip is short by design — grip off, and no further.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm the revolver is unloaded",
+   "action": "Press the crane latch, swing the cylinder out, and confirm every chamber is empty by eye and by finger.",
+   "prose": "A revolver has as many chambers as it has holes. Check all of them, not just the one under the hammer.",
+   "quote": "BE CERTAIN THE REVOLVER IS UNLOADED BEFORE DISASSEMBLY.",
+   "cite": "Ruger LCR and LCRx Instruction Manual — PM199 — Disassembly, step 1, p.22",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly or assembly. Never remove or install a loaded cylinder - it can fire if dropped or struck."
+  },
+  {
+   "phase": "Clear",
+   "title": "Know what this one is chambered for",
+   "action": "The .357 gun will also chamber .38 Special and .38 Special +P.",
+   "prose": "Same frame, same strip, wider chambering — which means more to clean out of the chambers after a mixed session.",
+   "quote": "357 is chambered for the .357 Magnum cartridge, and can also chamber the .38 Special and .38 Special + P.",
+   "cite": "Ruger LCR and LCRx Instruction Manual — PM199 — General Information and Mechanical Characteristics, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the grip off",
+   "action": "With a properly fitting screwdriver, remove the grip retaining screw from the bottom of the grip, then slide the grip down off the fire control housing.",
+   "prose": "Properly fitting matters — an undersized bit rounds this screw, and it is the only fastener on the gun you will touch.",
+   "quote": "Using a properly fitting screwdriver, remove the grip retaining screw from bottom of grip. Slide the grip down off fire control housing",
+   "cite": "Ruger LCR and LCRx Instruction Manual — PM199 — Disassembly, step 2, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "That is the whole strip",
+   "action": "Stop here. Grip off is the entire disassembly Ruger publishes for this revolver.",
+   "prose": "Nothing else comes apart for cleaning, and Ruger is explicit about who may go further.",
+   "quote": "Further disassembly is not required for normal cleaning purposes. Any further disassembly should only be undertaken by trained factory service personnel.",
+   "cite": "Ruger LCR and LCRx Instruction Manual — PM199 — Disassembly, step 3, p.22",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Why this is a separate job",
+   "action": "Ruger documents one procedure past the field strip: lubricating the hammer and hammer pivot pin, on an interval.",
+   "prose": "This is not part of routine cleaning. It has its own schedule and its own risk.",
+   "quote": "It is recommended that the hammer and hammer pivot pin be lubricated approximately every 1,000 rounds of firing (live or dry fire).",
+   "cite": "Ruger LCR and LCRx Instruction Manual — PM199 — Lubricating Hammer and Hammer Pivot Pin, p.24"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Open it up and orient it",
+   "action": "Check the firearm is unloaded, open the cylinder, remove the grip, then turn the revolver so the shooter's right-hand side is up.",
+   "prose": "The oil goes in from the right side; getting the orientation right before you start is what lets gravity do the work.",
+   "quote": "Orient firearm so the shooter's right hand side of the firearm is up.",
+   "cite": "Ruger LCR and LCRx Instruction Manual — PM199 — Lubricating Hammer and Hammer Pivot Pin, step 4, p.24"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Push the hammer pivot pin — partway",
+   "action": "With a small punch, 1/8 inch or smaller, gently push the hammer pivot pin until it is recessed about .10 inch deep.",
+   "prose": "Partway. The pin is being moved just far enough to clear its pocket, and no further.",
+   "caution": "DO NOT COMPLETELY REMOVE PIN OR YOUR REVOLVER WILL CEASE TO FUNCTION.",
+   "quote": "Using a small (1/8\" or smaller) punch, gently push on hammer pivot pin until the pin is recessed about .10\" deep",
+   "cite": "Ruger LCR and LCRx Instruction Manual — PM199 — Lubricating Hammer and Hammer Pivot Pin, step 5, p.24",
+   "warn": "DO NOT COMPLETELY REMOVE PIN OR YOUR REVOLVER WILL CEASE TO FUNCTION."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Oil it, and let it drain in",
+   "action": "Put 2 to 3 drops of a polymer-safe firearm oil or cleaner-lubricant-protectant into the hammer pivot hole on the shooter's right-hand side.",
+   "prose": "Let it drain down around the pin and into the action. Rotating the exposed pin head on the left side helps it travel.",
+   "quote": "Apply 2 to 3 drops of any standard commercial, polymer-safe firearm oil or standard commercial, polymer-safe cleaner-lubricant-protectant to the hammer pivot hole on the shooter's right hand side of the firearm",
+   "cite": "Ruger LCR and LCRx Instruction Manual — PM199 — Lubricating Hammer and Hammer Pivot Pin, step 6, p.24"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Release and swing out the cylinder, and be sure all cartridges and cases are out",
+    "Clean the barrel from the muzzle end, taking care to avoid damaging the muzzle crown",
+    "Soak the bore: run a properly sized solvent-soaked patch through it several times",
+    "Push a correctly sized bronze wire bore brush completely through the barrel several times, then swab with solvent again and finish with clean dry patches"
+   ]
+  },
+  {
+   "name": "CHAMBERS & EJECTOR",
+   "tasks": [
+    "Clean each chamber the same way you cleaned the barrel, one at a time",
+    "Clean the underside of the ejector (the \"star\") and the seat it drops into — trapped residue here causes hard cylinder closing and interferes with rotation",
+    "If you shoot lead, pay extra attention where the cylinder and crane join, and to the breech end of the barrel"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wipe all other exterior surfaces — frame, cylinder, crane — with a polymer-safe solvent and cloth",
+    "Wipe off all excess cleaner with a clean dry cloth",
+    "Ruger says it is not necessary to leave an oil residue on the frame for storage",
+    "Avoid harsh abrasives; they dull the frame coating over time"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Be certain the revolver is unloaded, and that all components and the inside of the frame are thoroughly clean.",
+  "Slip the grip over the grip post, insert the grip screw into the bottom of the grip and tighten."
+ ],
+ "fncheck": "Run the manual's own function checks (p.22): the cylinder spins free without binding, the trigger is dead with the cylinder open, and the revolver dry fires cleanly several times pointed in a safe direction with every chamber confirmed empty."
+}

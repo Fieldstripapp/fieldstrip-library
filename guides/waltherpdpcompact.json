@@ -1,0 +1,214 @@
+{
+ "row": "waltherpdpcompact",
+ "make": "Walther",
+ "model": "PDP Compact",
+ "sourcedFrom": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c (2022)",
+ "sourceSha256": "d32cab75c1e95e874c6f2d486d8e3630d7933f95362bf64593949a835316d380",
+ "cleanIntro": "The PDP Compact is a striker-fired 9mm on the 135 mm-tall Compact grip, 15 rounds, sold in 4\", 4.5\" and 5\" barrels off one frame. It strips like any Walther take-down-catch pistol — trigger press, catch down, slide off the front — and the book then goes further than most, publishing striker, extractor and magazine disassembly. Two of those are split by whether your slide is optics-ready or open-sight, so read the slide before you pick a procedure.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Establish which PDP you have before anything else",
+   "action": "Read the slide and the frame. The Compact spec block is the one that matters here — 9mm x 19, 15 rounds, Compact frame at 135 mm overall height, in 4\", 4.5\" or 5\" barrel. Then look at the top of the slide: a cover plate or a reflex mount base means this is an OR (optics-ready) gun; a plain milled slide means an open-sight gun.",
+   "prose": "Walther prints two separate specification tables in this one book, PDP Compact and PDP Full Size, and they differ by grip height and magazine capacity, not by anything you will touch during a field strip. The distinction that does bite is OR versus open-sight, because the extractor comes out of those two slides in opposite directions. Settle both questions now, with the gun empty on the bench, rather than halfway through with a punch in your hand. A threaded-barrel Compact is 15 mm longer than the table says, which is worth knowing before you size a cleaning rod.",
+   "aside": "The Compact and Full Size share the same 4\"/4.5\"/5\" barrel lengths and the same 250 mm right-hand polygonal twist. Grip height and capacity are what separate them, so a barrel figure alone will not tell you which frame you are holding.",
+   "quote": "6 TECHNICAL SPECIFICATIONS PDP COMPACT",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 6 Technical Specifications, PDP Compact table, printed p.27 (PDF p.29)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, finger clear of the guard",
+   "action": "Take a firing grip with the trigger finger straight along the frame and outside the guard, point the muzzle somewhere it can do no harm, press the magazine release and draw the magazine out of the well.",
+   "prose": "The PDP's release is a reversible push button on the side of the grip, not a paddle, so it drops the magazine freely and a fifteen-round magazine will fall clear if you do not catch it. Take it out of the gun and set it down away from the bench — the whole rest of this procedure ends with you pressing the trigger, and a magazine still within reach of the well is how a live round finds its way back in. Count the rounds through the witness holes as you set it aside so you know what you are looking for later.",
+   "quote": "Grasp the pistol with your finger off the trigger and outside the trigger guard. Depress the magazine release and remove the magazine from the pistol (2.3.2 Figure 1).",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 2.3.2 Magazine Release, printed p.9 (PDF p.11)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Rack it hard, lock it open, then look and feel",
+   "action": "Grip the rear slide serrations from behind with thumb and fingers, draw the slide fully rearward in one brisk stroke to throw any chambered round clear, then let it ease forward a fraction while pressing up on the slide stop so it locks open. Look into the chamber and down through the empty magazine well.",
+   "prose": "A brisk full stroke matters — a slow one lets the extractor drag the case back into the ejection port instead of throwing it, and the PDP's port is easy to block with the supporting hand. With the slide locked back you get a clear line down through the magazine well as well as into the chamber, and the pair of views is the point: one confirms the chamber, the other confirms nothing is waiting to feed. Run a finger into the chamber if the light is poor. Check the bore is clear while you are here, because an obstruction found now costs nothing.",
+   "quote": "Lock the slide in the open position by allowing the slide to move slightly forward from the rearmost position while pressing upward on the slide stop (3.1 Figure 3).",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 3.1 Inspecting the Pistol, printed p.10 (PDF p.12)",
+   "warn": "Walther's instruction is that this whole inspection runs every time the pistol leaves your hand, is cleaned, is handed to anyone, is transported or is stored — not only before a strip."
+  },
+  {
+   "phase": "Clear",
+   "title": "Do not let the extractor indicator answer the question",
+   "action": "Ignore what the loaded chamber indicator is telling you. Confirm empty by eye and by finger, in the chamber and in the magazine well, with the slide locked back.",
+   "prose": "On the PDP the extractor itself is the indicator: a colour marking shows at its rear when a case is in the chamber. That marking is a strip of paint on a part that lives in solvent and powder residue, and Walther says so plainly — cleaning solvents or wear can darken or remove the red, and fouling can cover it. On a gun you are about to strip it is the least trustworthy thing on the slide, because you have been cleaning it. Treat a missing red dot as no information at all.",
+   "caution": "The same warning applies in reverse after cleaning: a freshly scrubbed extractor may show no colour on a loaded gun.",
+   "quote": "If you do not see the red dot, do not assume the chamber is empty.",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 2.3.1 Loaded Chamber Indicator, warning, printed p.8 (PDF p.10)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Close the slide, then press the trigger — the part everyone rushes",
+   "action": "With the chamber and magazine well confirmed empty, pull the slide slightly rearward and release it slowly so it runs forward into battery. Point the muzzle in a safe direction and squeeze the trigger fully to the rear.",
+   "prose": "The PDP will not release its take-down catch with the striker cocked, so this press is not optional and there is no bypass. That makes it the single most dangerous moment in the procedure: the manual's own warning is that a round left in the chamber will fire here. Let the slide down under control rather than dropping it — slamming it on a stripped chamber is hard on the extractor for no benefit. Then look into the chamber and the magazine well one more time before your finger moves. The trigger will feel like the ordinary Performance Duty Trigger break, because that is exactly what it is.",
+   "quote": "To complete disassembly, you will be required to pull the trigger. If you have failed to properly unload your pistol and a live round is left in the chamber, the pistol will discharge and may cause serious injury or death to yourself or others and damage to property.",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4 Field-Stripping, Cleaning, Lubrication, and Maintenance, warning, printed p.15 (PDF p.17)",
+   "warn": "Walther requires a visual inspection of the chamber AND the magazine well immediately before the trigger is pressed. Two checks, not one."
+  },
+  {
+   "phase": "Strip",
+   "title": "Both sides of the take-down catch, straight down",
+   "action": "Grip the take-down catch from above, thumb one side and forefinger the other, and press it straight downwards. Keep it down while you push the slide forward off the front of the frame.",
+   "prose": "The catch is a two-sided lever and it will not release if you only load one side — a one-handed press cants it and it binds. Pressing from above rather than pinching from the front keeps your hand behind the muzzle as the slide comes off. Once the catch is down the slide runs off the front rails with no spring resistance at all, so control it; there is nothing to stop it landing on the floor. Getting the whole slide assembly clear in one movement is the aim, not walking it forward in stages.",
+   "quote": "Grip the take down catch from above on both sides and press downwards (4.1.1 Figure 1).",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.1.1 Field-Stripping Disassembly, printed p.15 (PDF p.17)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil assembly out under control, then the barrel",
+   "action": "Turn the slide upside down. Lift the recoil guide rod assembly out from below the barrel, taking up the spring pressure as it comes rather than letting it jump. Then lift the barrel out of the slide.",
+   "prose": "The PDP's recoil assembly is captive but still loaded, and the polymer end will flick out of the barrel recess if you simply pull. Take the pressure on your thumb, ease the rear end out of the recess, and it comes away quietly. The barrel then lifts straight out with nothing holding it. That leaves the four field-strip components Walther recognises — frame, slide, barrel, recoil guide rod assembly — and the manual's own figure shows exactly that set, which is your check that you have not left something in the slide.",
+   "aside": "It is normal for the recoil guide rod assembly to flex when it goes back in — Walther says so in the reassembly note. Flex is not a bent rod.",
+   "quote": "Remove the recoil guide rod assembly from below the barrel while taking up the spring pressure (4.1.1 Figure 2).",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.1.1 Field-Stripping Disassembly, printed p.15 (PDF p.17)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cover plate or mount base: this decides the rest of the job",
+   "action": "Look at the top of your slide now that it is off. A PDP OR model carries a cover plate or a reflex sight mount base held by two T10 screws; a PDP Open Sight model has none. Never run the gun, or hand-cycle it hard, with that plate or base removed.",
+   "prose": "This is not cosmetic. On an OR slide the cover plate or mount base is what caps the extractor pin's channel, and Walther warns that operating the gun without it can send the extractor pin and the extractor flying out of the slide. It also decides which extractor procedure applies: the manual publishes one method under the heading PDP OR Models and a completely different one under PDP Open Sight Models, and they push the extractor pin in opposite directions. If you are cleaning under an optic, put the plate or base back before you cycle the slide even once. The screws are M3x6 metric, and Walther is specific that they must not be swapped for whatever came with your red dot.",
+   "quote": "Operating the gun without cover plate or mount base may cause the extractor pin and the extractor to fly out.",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.3 Extractor / 5.4.3 Replacing the Mount Base note, printed p.17 and p.26 (PDF p.19 and p.28)",
+   "warn": "PDP OR Models and PDP Open Sight Models do not share an extractor procedure. Using the wrong one will fight you and can launch the pin."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel and recoil guide rod assembly, in four pieces. That is the whole field strip Walther publishes for the PDP Compact — the striker, extractor and magazine come apart only in the deeper procedure.",
+   "prose": "Check the set against the manual's main-components figure before you start scrubbing: four parts, nothing rattling inside the slide, nothing left on the frame rails. From here the routine clean reaches the bore, the chamber end, the breech face, the extractor and its surroundings, and the frame rails, which is everything that fouls on a range trip. The striker channel is deliberately not on that list. If you want the slide internals out, that is the deep procedure and it needs a 2 mm drift punch.",
+   "quote": "The main components of the pistol are shown in 4.1.1 Figure 3.",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.1.1 Field-Stripping Disassembly, printed p.15 (PDF p.17)",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Slide end cap off with a 2 mm punch",
+   "action": "Stand the slide on its muzzle end on a smooth flat surface, grip it by the rear serrations, and push the pin in through the square opening at the top right of the slide end cap with a 2 mm drift punch. With the pin held in, slide the end cap downwards out of the slide.",
+   "prose": "The end cap is under the striker spring's load, so it wants to leave as soon as the pin frees it — keep a thumb over it and take it down deliberately rather than letting it fly. Standing the slide on its muzzle means the parts fall towards you rather than across the bench. The square opening is small and sits offset to the right; probing the wrong hole with a punch is how the striker safety gets damaged. A 2 mm punch is the correct size and a nail or a drill bit is not.",
+   "quote": "Place the muzzle end of the slide on a smooth, flat surface. Grasp the slide at the rear slide serrations, push in the pin through the square opening located at the top right side of the slide end cap using a 2 mm drift punch (4.2.1 Fig. 1) and remove the slide end cap by sliding it downwards (4.2.1 Fig. 2).",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.2.1 Remove Striker Assembly, printed p.16 (PDF p.18)",
+   "warn": "The striker assembly is spring-loaded behind that cap. Control it as the cap clears."
+  },
+  {
+   "phase": "Strip",
+   "title": "Striker assembly out of the slide",
+   "action": "With the end cap off, draw the striker assembly rearward out of the slide and set it down in the order it came out.",
+   "prose": "It comes out as one unit and should be cleaned as one — this is a channel to be degreased, not a subassembly to be taken further apart. Note which way round the assembly sits before it leaves the slide; it will only go back one way and hunting for the orientation later with a spring under your thumb is unpleasant. Wipe it dry. Nothing on the striker gets oil, and that is the whole reason for taking it out.",
+   "quote": "Remove the striker assembly from the slide (4.2.1 Fig. 3).",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.2.1 Remove Striker Assembly, printed p.16 (PDF p.18)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Striker first, then the safety — the order is fixed",
+   "action": "If you intend to take the striker safety out, remove the striker assembly first, then go on to the extractor and the striker safety. Do not attempt the safety with the striker still in the slide.",
+   "prose": "The striker physically blocks the striker safety, so trying to lift the safety with the striker in place simply will not work and pressing harder damages the plunger. That is why the manual states the order rather than leaving it to be discovered. Once the striker is out the safety plunger drops into reach and the extractor can be pivoted without fighting it. If your job today is only a fouled extractor, you still take the striker out first.",
+   "quote": "The striker interferes with the striker safety. If you want to remove the striker safety, first remove the striker assembly as described in section 4.2, and then continue with the extractor and the striker safety.",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.3 Extractor, note, printed p.17 (PDF p.19)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor — PDP OR Models: drift the pin OUT",
+   "action": "On an optics-ready Compact, first remove the cover plate or the reflex sight and its mount base. Then hold the slide upside down and drift the extractor pin straight out with a 2 mm punch, keeping a finger over the striker safety.",
+   "prose": "On the OR slide the pin passes right through and comes out; there is no spring pushing back on it, which is why this reads so differently from the open-sight method. Keep a finger over the striker safety the whole time — with the pin gone the only thing holding it in is you. Pivot the extractor's rear end out slowly rather than levering it. Then lift the striker safety assembly free and set it with the extractor so the pair goes back together.",
+   "quote": "Hold the slide upside down. Use a 2 mm drift punch to drift the extractor pin out (4.3.1 Fig. 1).",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.3.1 Remove Extractor — PDP OR Models, printed p.17 (PDF p.19)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor — PDP Open Sight Models: force the pin IN",
+   "action": "On an open-sight Compact, lay the slide upside down with the muzzle to the left and drift the extractor pin INTO the slide against its spring, until the rear end of the pin pops out. Withdraw the punch, cover the striker safety and the extractor plunger with a finger, then pivot the extractor out.",
+   "prose": "This is the opposite motion to the OR slide and the reason a mixed-up procedure gets people into trouble: here the pin is spring-loaded and pushing it the wrong way just compresses the spring and mars the pin. Once the rear end pops proud you take the punch away and the pin can be picked out. There are now two sprung parts loose under your finger — the striker safety and the extractor plunger — and they will both leave the slide if you lift your hand. Take them out deliberately and lay them in order.",
+   "quote": "Cover the striker safety and the extractor plunger with a finger while you pivot the extractor out. Remove the striker safety assembly and the extractor plunger assembly from the slide (4.3.1 Fig. 2)",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.3.1 Remove Extractor — PDP Open Sight Models, printed p.18 (PDF p.20)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Leave the extractor spring where it is",
+   "action": "Do not pull the extractor spring out of its seat inside the extractor slot. Clean around it and leave it seated.",
+   "prose": "The spring is retained by an end coil of larger diameter at one end, and that oversize coil is the only thing keeping it in the slot — once you have prised it out it is a fiddly job to get it back and easy to get it in the wrong way round. There is nothing behind it that needs cleaning badly enough to justify the risk. Work solvent into the slot with a brush instead and let it drain. If the spring has come out anyway, note which end carries the larger coil before it goes back.",
+   "quote": "Do not remove the extractor spring from its seat inside the extractor slot. The extractor spring has on one side an end coil of larger diameter which secures it from falling out.",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.3.1 Remove Extractor, printed p.17 (PDF p.19)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine down to its four parts",
+   "action": "Depress the floorplate catch through the hole in the floorplate with a 4 mm drift punch, slide the floorplate forward off the tube while still holding the catch down, then take the catch and spring out through the bottom and turn the tube over to drop the follower out.",
+   "prose": "Fifteen-round PDP magazines run a strong spring and the catch is the only thing holding it, so keep a thumb across the floorplate as it slides — losing a floorplate catch across a workshop is a well-earned lesson. If yours is a +2 magazine the floorplate is released differently: find the metal tab at the rear base, and with the floorplate fully seated rearward push that tab up through its slot with a flat screwdriver until it stands proud of the base. Everything after that is the same. Note the follower's orientation as it drops out; it goes back exactly as it came.",
+   "quote": "Using a 4 mm drift punch, depress the floorplate catch through the hole in the floorplate (4.4.1. Figure 1).",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.4.1 Magazine Disassembly, printed p.20 (PDF p.22)",
+   "warn": "The magazine spring is under pressure. Control the floorplate catch and the spring as the floorplate comes off."
+  },
+  {
+   "phase": "Clean",
+   "title": "Nothing goes into the striker channel",
+   "action": "Clean and dry the striker channel and the striker assembly. Put no gun lubricant into the striker channel at any point.",
+   "prose": "This is the whole reason a PDP owner takes the slide apart. Oil in the striker channel collects unburned powder and carbon, and the resulting paste slows the striker until primers get dented instead of struck — a light-strike misfire that looks like an ammunition problem and is not. Degrease it, run a dry patch or a dry brush through it, and leave it dry. The rest of the slide takes its single drops elsewhere: one on the safety plunger and one in the disconnector cut, and that is all a slide needs.",
+   "caution": "Do not over-lubricate anywhere else either — lubricant that runs down the gun attracts dirt, unburned powder and carbon residue.",
+   "quote": "Do not put any gun lubricant into the striker channel (4.6 Figure 1).",
+   "cite": "SAFETY & INSTRUCTION MANUAL PDP PISTOLS — Rev.c — 4.6 Lubrication, printed p.21 (PDF p.23)"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL & CHAMBER",
+   "tasks": [
+    "Insert a brush from the CHAMBER end and push it through until the bristles fully exit at the muzzle, then pull it back until they fully exit at the chamber end — never reverse a brush inside the bore",
+    "Use a powder-removing solvent and a brass bristle bore brush to lift lead and firing residue out of the 9mm polygonal bore",
+    "Wipe the bore clean with patches or a swab, then a light film of gun lubricant on the barrel's external surfaces and on the ramp where the locking block cams the barrel",
+    "Wipe every trace of preservative or excess oil out of the bore and chamber before the pistol is fired"
+   ]
+  },
+  {
+   "name": "SLIDE, BREECH FACE & EXTRACTOR",
+   "tasks": [
+    "Small brush dipped in solvent around the breech face, the chamber end of the barrel, the extractor and everything adjacent that sees powder or primer residue",
+    "Clean around the extractor without pulling its spring out of the slot",
+    "One drop of lubricant on the safety plunger and one in the disconnector cut — that is the slide's entire oil ration",
+    "Striker channel stays DRY: no lubricant, ever",
+    "OR models: put the cover plate or mount base back on before the slide is cycled, and secure the two M3x6 screws with industrial adhesive"
+   ]
+  },
+  {
+   "name": "FRAME & RAILS",
+   "tasks": [
+    "Light brushing and solvent to lift residue off the frame",
+    "One drop of lubricant on each slide guide and one on the trigger bar — the manual is specific that this is drops, not a coating",
+    "Wipe all external metal surfaces with a light film of high quality gun lubricant and wipe them clean again",
+    "Cold climate: use a lubricant that will not congeal at low temperature"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Light film of high quality gun lubricant on the magazine's external metal surfaces only",
+    "Wipe the inside of the tube dry — oil inside a magazine collects grit and drags the follower",
+    "Check the feed lips and the follower for damage while the magazine is apart"
+   ]
+  },
+  {
+   "name": "SOLVENT LIMITS",
+   "tasks": [
+    "No ammonia-based or strong alkaline solvents on any Walther firearm",
+    "Avoid prolonged solvent immersion and prolonged ultrasonic cleaning; if ultrasonic is used, 50 °C (122 °F) is the ceiling",
+    "Restrict solvent choice to products developed for firearms maintenance"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Hold the slide upside down and lay the barrel in with the locking lugs oriented as the manual's figure shows.",
+  "Put the smaller black end of the recoil rod into the spring mounting at the front of the slide, then press the large polymer end of the recoil spring into the lower barrel recess while taking up the spring pressure. Flex in the assembly as it seats is normal.",
+  "Push the slide onto the frame from the front, far enough for the take down catch to engage, and make sure the slide has also picked up the REAR slide guides — a slide that only caught the front rails will feel loose and will not release the catch.",
+  "Release the slide and let it run fully forward into the locked position.",
+  "OR models: refit the cover plate or reflex mount base and torque its two M3x6 screws to about 2 Nm, pulling the base toward its front stop as you tighten.",
+  "Reassemble the magazine follower, spring and floorplate catch in exactly the orientation they came out, then slide the floorplate on until the catch's round projection snaps audibly into its hole.",
+  "Dry-patch the bore before the pistol is loaded."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty: rack the slide and let it run — it should return fully into battery under its own spring with no drag on the rails. Lock it open on the slide stop and release it with the thumb; it should drop and lock up cleanly. Insert the empty magazine and pull down on the exposed floorplate — it must not move, which tells you the catch has engaged. Press the take-down catch with the striker cocked: it should refuse. Then press the trigger, and the catch should come down freely. Finally check the extractor sits flush and springs back when nudged, and on an OR slide confirm the cover plate or mount base is fitted and its screws are tight before the pistol is carried or fired."
+}

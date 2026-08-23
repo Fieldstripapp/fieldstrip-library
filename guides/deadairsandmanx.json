@@ -1,0 +1,184 @@
+{
+ "row": "deadairsandmanx",
+ "make": "Dead Air",
+ "model": "Sandman-X",
+ "sourcedFrom": "SANDMAN X  OWNERS MANUAL — Rev120924 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "5bc9e99860cdf216ac0b0edf3f3ef23bb42921126a872c6bf298d39faf3d6adc",
+ "cleanIntro": "The SANDMAN X is a printed Haynes 282 body that ships in two configurations — SANDMAN X KM on a KeyMo adapter and SANDMAN X XM on a Xeno adapter — and the two behave differently in your hands. KeyMo has a detent ring that is a declared wear item; Xeno is a LEFT-HAND thread. What you service is the adapter, the muzzle device and the front cap; the Triskelion baffle set inside is not user-serviceable. Note this is not a Sandman-S, L or Ti: different mounts, different pressure ceiling, different book.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host, and go to the firearm's own manual",
+   "action": "Magazine out, action locked open, chamber checked by eye and by finger before the can is handled. Dead Air then refers you to the operator's manual for your own firearm for the clearing procedure itself, and rules out fitting or removing the suppressor on a closed action.",
+   "prose": "The SANDMAN X runs on everything from a 10.3 inch Mk18 to a 24 inch bolt gun. Only the host's own book covers how yours unloads.",
+   "quote": "CHECK YOUR FIREARM’S CHAMBER AND MAKE CERTAIN THAT THE FIREARM IS UNLOADED AND THE MAGAZINE REMOVED BEFORE PROCEEDING ANY FURTHER. IF THERE IS ANY QUESTION OR DOUBT, CONSULT THE OPERATOR’S MANUAL APPLICABLE TO YOUR FIREARM AS TO THE PROPER PROCEDURE FOR CLEARING AND/ORUNLOADING YOUR FIREARM. DO NOT INSTALL YOUR NEW SUPPRESSOR ON A FIREARM WITH A CLOSED ACTION!",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Product Overview, p.5",
+   "warn": "Never mount or unmount on a closed action."
+  },
+  {
+   "phase": "Clear",
+   "title": "SANDMAN X ceiling — .300 Remington Ultra Magnum",
+   "action": "Confirm the host cartridge. The SANDMAN X is capped at .300 Remington Ultra Magnum pressure unless the tube or the packaging states otherwise for your unit. That is a different and higher ceiling than the .300 Win Mag figure printed for the Sandman S, L and Ti — do not read one for the other.",
+   "prose": "It is optimised for 7.62x51 NATO. The RUM figure is the ceiling, not the design point.",
+   "quote": "OUR PRODUCTS ARE CALIBER SPECIFIC. UNLESS STATED OTHERWISE ON THE SUPPRESSOR ITSELF OR ON THE PACKAGING, THE SANDMAN X SUPPRESSOR WILL NOT FUNCTION SAFELY WITH ANY CARTRIDGE WITH PRESSURES HIGHER THAN .300 REMINGTON ULTRA MAGNUM. USE OF YOUR SUPPRESSOR OUTSIDE OF ITS INTENDED SCOPE COULD RESULT IN DAMAGE TO YOUR FIREARM, DAMAGE TO PROPERTY, BODILY INJURY, OR DEATH.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Installation and Removal, Step One, p.9",
+   "warn": "Ceiling: .300 Remington Ultra Magnum pressure."
+  },
+  {
+   "phase": "Strip",
+   "title": "5/8-24 muzzle device — and the crush washer goes in the bin",
+   "action": "Check the barrel threads match the 5/8-24 muzzle device that shipped with your SANDMAN X. Strip off whatever device is currently on the muzzle and throw away the crush washer or shims that came off with it. Dead Air is explicit that reusing them can spoil suppressor alignment and damage the can or worse — a used crush washer has already taken its set.",
+   "prose": "Then torque the new device to 25-35 ft-lbs; past 35 the manual warns of precision issues. Rocksett or Vibra-TITE Hot-Lock make it semi-permanent.",
+   "quote": "Ensure your barrel has threads that match the 5/8-24 muzzle device that shipped with your SANDMAN X. Remove any existing muzzle device that may still be on the host firearm’s barrel. Dispose of any crush washer or shims that were used. Do not reuse as they may have an adverse effect on suppressor alignment, causing damage to the suppressor or worse.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Muzzle Device Installation, Step One, p.7",
+   "warn": "Never reuse a crush washer or shims under a suppressor muzzle device."
+  },
+  {
+   "phase": "Strip",
+   "title": "Torque values — adapter 25-30, muzzle device 25-35",
+   "action": "Two different numbers, two different joints. The adapter into the back of the suppressor takes 25-30 ft-lbs, and the Xeno adapter accepts a 1-1/8 socket for it. The muzzle device onto the barrel takes 25-35 ft-lbs, and going past 35 is what the manual associates with precision problems.",
+   "prose": "Do not carry one figure onto the other joint. They are printed separately because they are different fits.",
+   "quote": "Torque Values: Adapter torque:  25-30 ft-lbs  (Xeno adapter will accept a 1-1/8 socket) Muzzle device torque: 25-35 ft-lbs",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Installation and Removal, Torque Values, p.15",
+   "warn": "Adapter 25-30 ft-lbs. Muzzle device 25-35 ft-lbs."
+  },
+  {
+   "phase": "Strip",
+   "title": "XM configuration — the Xeno is a LEFT-HAND thread",
+   "action": "If your can is a SANDMAN X XM, stop before you turn it the familiar way. The Xeno system is deliberately left-hand threaded so the suppressor always leaves the muzzle device rather than unscrewing the device off the barrel or leaving the adapter behind. It mounts anticlockwise from above and comes off clockwise from above.",
+   "prose": "Get this backwards and you will either back the muzzle device off the barrel or strip a thread finding out. The adapter itself is marked with the direction.",
+   "quote": "NOTE: The Xeno system is designed with LEFT-HAND threads to ensure that when the suppressor is removed, it will always come off the muzzle device without either unscrewing the muzzle device or leaving the adapter behind if not fully tightened into the suppressor.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Installation and Removal, Step Two — Xeno, p.13",
+   "warn": "Xeno is LEFT-HAND thread. Direction reverses."
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the can off the muzzle device",
+   "action": "On a Xeno, turn the body clockwise looking down from above to break the taper, then keep unscrewing until it is free of the muzzle device. On a KeyMo, turn the body counter-clockwise until it stops turning — about three quarters of a turn — and then slide the can off the brake or flash hider.",
+   "prose": "Turn the suppressor body only. There is no reason to grab the compression nut at the rear during installation or removal, and doing so fights the mount.",
+   "quote": "Simply turn in a right hand direction (clockwise when looking down it from above) to break the torque on the tapers and continue to unscrew until free from the muzzle device.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Installation and Removal, Suppressor Removal — Xeno, p.13",
+   "warn": "Let the can reach ambient temperature after firing before removal."
+  },
+  {
+   "phase": "Strip",
+   "title": "KM configuration — the detent ring is a WEAR ITEM",
+   "action": "If your can is a SANDMAN X KM, service the detent ring after every shooting session. Pull the ring back away from its spring and put a drop of lube or high temperature grease on its face at two to four points, then mount and dismount the suppressor a few times to spread it evenly across the plate.",
+   "prose": "It is a clutch plate, not a lock, and Dead Air says outright that it wears. A dry clutch plate is what lets a KeyMo can walk off its taper under vibration and heat.",
+   "caution": "KeyMo only. Replacement detent rings are a stocked part for a reason.",
+   "quote": "MAINTENANCE: NOTE THAT THE DETENT RING IS A CLUTCH PLATE, AND AS SUCH, IS A WEAR ITEM. AFTER EACH SHOOTING SESSION PULL BACK THE DETENT RING AWAY FROM THE SPRING AND APPLY A DROP OF LUBE OR HIGH TEMP GREASE ON AT LEAST 2-4 POINTS TO ITS FACE TO ENSURE COVERAGE AND THEN ACTIVATE THE SUPPRESSOR A FEW TIMES TO EVENLY DISTRIBUTE IT.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Installation and Removal, Step Two — KeyMo, p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Threads and tapers, then check for gaps",
+   "action": "Clean the rear threads, the taper the adapter seats on, the muzzle device taper and the front cap interface, then re-grease. Everything should come back snug with no gaps and no rattle; a joint that will not close means thread damage or debris rather than insufficient torque.",
+   "prose": "On a thread-to-taper mount, grit on the taper is what puts a projectile into a baffle. That is the manual's own reasoning.",
+   "quote": "NOTE: DEBRIS ON THE THREADS AND TAPER SURFACES MAY CAUSE MISALIGNMENT OF SUPPRESSOR PARTS AND ALLOW FOR PROJECTILE STRIKES ON BAFFLES OR THE FRONT CAP.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Inspection Upon Assembly, p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The can is off the muzzle device with its adapter and front cap accounted for, and the detent ring has been lubed if yours is a KM. That is the whole of the strip Dead Air publishes. Deep Clean covers the adapter swap, the front cap and the interior cleaning interval — the Triskelion baffles themselves do not come out.",
+   "prose": "The published interior interval is 4,000 rounds using a commercial suppressor cleaning product.",
+   "quote": "In order to maintain optimum performance from your suppressor, it is recommended that users clean their Sandman X after every 4,000 rounds.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Cleaning, p.16",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Adapter out of the back",
+   "action": "Hook one spanner on the adapter and one on the suppressor so the adapter turns counter-clockwise and the suppressor clockwise, with an inch or two between the handles. Squeeze them together, keep loosening, and draw the adapter out of the rear. Clean the threads before the replacement goes in.",
+   "prose": "When the torque breaks the two handles rush together. Keep fingers out of that gap.",
+   "quote": "STEP TWO: Continue loosening mount and remove from back of suppressor. Clean threads and follow instructions for Mount Installation for the new mount.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Adapter Removal, Step Two, p.7",
+   "warn": "WHEN THE TORQUE BREAKS BETWEEN THE TWO PARTS, THE WRENCHES MAY SWING ENOUGH TO CREATE A PINCH POINT."
+  },
+  {
+   "phase": "Strip",
+   "title": "A heat-cycled adapter may need warming",
+   "action": "If two spanners will not free the adapter, Dead Air's published remedy is to heat the suppressor to loosen the threads. That turns the job into hot-part handling — gloves before the wrenches go back on, and expect surface heat long after the joint has broken.",
+   "prose": "The upstream fix is degreased threads plus a medium strength, high temperature thread locker so heat cycling stops locking it in.",
+   "quote": "YOU MAY NEED TO HEAT THE SUPPRESSOR UP TO LOOSEN THE THREADS. PAY SPECIAL ATTENTION TO THE HEATED SURFACES TO AVOID BURNS!",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Adapter Removal, p.7",
+   "warn": "Heated surfaces burn."
+  },
+  {
+   "phase": "Strip",
+   "title": "Front cap off with the DA208 tool",
+   "action": "Put the pins of the Sandman Front Cap Tool into the holes in the front cap with the tool flat and every pin fully engaged, then apply counter-clockwise torque. A tool that rocks loads one pin and swages the hole out; a rounded hole is a cap that will not come off again.",
+   "prose": "The tool is a separate purchase and is the only thing that belongs in those holes.",
+   "quote": "Ensure tool is flat against the front cap with the pins evenly and fully engaged and apply torque Counter-Clockwise to loosen and remove.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Front Cap Installation, Step One, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Adapter back in, front cap back on",
+   "action": "Grease the adapter threads and run it in until it bottoms out on the rear suppressor face, then torque to 25-30 ft-lbs. Clean and grease the front cap threads and taper and install the cap hand tight — the taper locates it, not torque.",
+   "prose": "A HUB taper adapter is the exception and correctly leaves a gap at the notched flange because it bottoms internally.",
+   "quote": "Clean threads and taper. Apply high-quality grease to the surfaces and install new cap and hand tighten.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Front Cap Installation, Step Two, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "KeyMo start/stop position before it goes back on",
+   "action": "On a KM can, look down at the top of the suppressor and check the start/stop tabs on the compression nut and the detent ring are touching face to face, detent ring on the left, compression nut on the right. That is the condition it must be in before installation, and removal resets it automatically.",
+   "prose": "If it has been disturbed off the host, a twist of the nut in the unthreading direction snaps it back so the tabs touch again.",
+   "quote": "When looking down at the “top” of the suppressor in your hand, ensure the start/stop tabs of the Compression Nut and Detent Ring are touching face-to-face, with the Detent Ring on the left and the Compression Nut on the right.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Installation and Removal, KeyMo Adapter Start/Stop Position, p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Interior cleaning — 4,000 rounds",
+   "action": "Dead Air's interval for the inside of a SANDMAN X is every 4,000 rounds, using one of the commercially available products made to strip built-up material out of a suppressor. Letting it go past that costs acoustic performance and raises back pressure into the host.",
+   "prose": "There is no baffle stack to pull here. The cleaning is done through the can, not to its parts.",
+   "quote": "There are a number of commercially available products designed specifically to remove built-up material from the inside of a suppressor.",
+   "cite": "SANDMAN X  OWNERS MANUAL — Rev120924 — Cleaning, p.16"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "ADAPTER & REAR THREADS",
+   "tasks": [
+    "Clean carbon from the rear threads and the internal taper",
+    "Grease the adapter threads and torque the adapter to 25-30 ft-lbs",
+    "Where heat cycling loosens the mount, degrease and use a medium strength, high temperature thread locker instead"
+   ]
+  },
+  {
+   "name": "KEYMO DETENT RING — KM ONLY",
+   "tasks": [
+    "After every shooting session, pull the detent ring back off its spring",
+    "Apply lube or high temperature grease at 2-4 points on the ring face",
+    "Mount and dismount the can a few times to distribute it evenly",
+    "Treat the ring as a consumable — replacements are available from Dead Air"
+   ]
+  },
+  {
+   "name": "MUZZLE DEVICE & FRONT CAP",
+   "tasks": [
+    "Clean the muzzle device taper and threads; torque the device to 25-35 ft-lbs",
+    "Never reuse a crush washer or shims under it",
+    "Clean and grease the front cap threads and taper, then hand tighten"
+   ]
+  },
+  {
+   "name": "INTERIOR",
+   "tasks": [
+    "Clean the inside every 4,000 rounds with a product made for suppressors",
+    "Do not attempt to remove the Triskelion baffles — they are not user-serviceable"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Grease the adapter threads and thread the adapter in until it bottoms on the rear suppressor face, then torque to 25-30 ft-lbs.",
+  "Grease the front cap threads and taper and fit the cap hand tight with the DA208 tool.",
+  "Fit the 5/8-24 muzzle device to a clean barrel thread at 25-35 ft-lbs — never over 35 — with fresh hardware, never a reused crush washer.",
+  "KM: confirm the compression nut and detent ring start/stop tabs are touching face to face before mounting.",
+  "XM: remember the Xeno mounts left-handed — anticlockwise looking down from above — and torque it two-handed until the tapers meet."
+ ],
+ "fncheck": "Check alignment before shooting: an alignment rod through the bore of the suppressor into the barrel is the recommended method, and the can should be concentric to the bullet path. After mounting, the suppressor should be rock solid on the end of the barrel with no free movement. Anything that moves, or any alignment doubt, and it does not get fired."
+}

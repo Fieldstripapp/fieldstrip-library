@@ -1,0 +1,90 @@
+{
+ "row": "beretta80xcheetah",
+ "make": "Beretta",
+ "model": "80X Cheetah",
+ "sourcedFrom": "Beretta 80X User Manual — MAN0082 000 (form code printed in the running header of every page) (UNDATED — Beretta prints a form code rather than a year in these books)",
+ "sourceSha256": "99d6c030975d8e4d781627c2890d775ed9a2730f74eacf3be7477865a3554d5c",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Unloaded, pointed safe, glasses on",
+   "action": "Prove it empty before the latch is touched, keep the muzzle in a safe direction and your finger away from the trigger. Beretta asks for eye protection for this job — the recoil spring is the reason.",
+   "aside": "CAUTION: It is advisable to carry out the field stripping and the assembly operations over a table to catch components should they drop.",
+   "quote": "WARNING: It is recommended to wear protective glasses when performing maintenance operations.",
+   "cite": "Beretta 80X User Manual — MAN0082 000 (form code printed in the running header of every page) — FIELD STRIPPING, printed p.30-31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine out, then the disassembly latch 90° down",
+   "action": "Drop the magazine, press the disassembly latch release button that protrudes from the RIGHT side of the frame, and while it is held in, rotate the latch on the LEFT side clockwise about 90 degrees downward. Both hands, both sides — that is the trick people miss.",
+   "aside": "While it is held in, rotate the disassembly latch on the left side of the frame with the thumb clockwise approx. 90° downward.",
+   "quote": "Hold the pistol in the right hand and with left forefinger press the disassembly latch release button which protrudes from the right side of the pistol.",
+   "cite": "Beretta 80X User Manual — MAN0082 000 (form code printed in the running header of every page) — FIELD STRIPPING, printed p.30-31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide-barrel assembly forward, off the frame",
+   "action": "Pull the slide and barrel forward off the frame as one assembly, locking block, recoil spring and guide still inside it.",
+   "quote": "Pull the slide-barrel assembly with locking block, recoil spring and spring guide forwards",
+   "cite": "Beretta 80X User Manual — MAN0082 000 (form code printed in the running header of every page) — FIELD STRIPPING, printed p.30-31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Spring and guide off, then the barrel — strip complete",
+   "action": "Press the recoil spring and guide slightly and lift them out of the slide, letting the spring extend under control, then take the barrel out. That is the end of it — Beretta says no further disassembly is recommended unless a competent gunsmith does it.",
+   "aside": "CAUTION: No further disassembly is recommended unless done by a competent gunsmith.",
+   "quote": "Remove the barrel from the slide",
+   "cite": "Beretta 80X User Manual — MAN0082 000 (form code printed in the running header of every page) — FIELD STRIPPING, printed p.30-31"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the breech end, and never with the gun together",
+   "action": "Clean the barrel out of the pistol, brushing from the chamber end so the rod never touches the muzzle crown. Solvent if needed, then patches until one comes out clean, then a light oil.",
+   "aside": "WARNING: Do not clean the barrel with the pistol assembled.",
+   "quote": "Notice: Cleaning the barrel from the breech (chamber) end will avoid damaging the muzzle or bore.",
+   "cite": "Beretta 80X User Manual — MAN0082 000 (form code printed in the running header of every page) — MAINTENANCE — BARREL"
+  }
+ ],
+ "deepAbsentReason": "Beretta stops the owner at the field strip on this pistol and prints it on the page: \"CAUTION: No further disassembly is recommended unless done by a competent gunsmith.\" There is no deeper published procedure to author, and a manufacturer's DON'T outranks every other tier, so nothing is borrowed from elsewhere to fill it.",
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Brush in from the CHAMBER end and all the way through before pulling back",
+    "Solvent first if it needs it, then patches until one comes out clean",
+    "⛔ Never clean the barrel with the pistol assembled",
+    "Light oil on the whole barrel before it goes back"
+   ]
+  },
+  {
+   "name": "SLIDE & BREECH FACE",
+   "tasks": [
+    "Cloth or nylon brush on the breech face, extractor, rails and locking shoulders",
+    "Dry the slide surfaces, then lightly oil the guides"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING ASSEMBLY",
+   "tasks": [
+    "Light gun oil on the spring guide assembly",
+    "Nylon brush first if it is heavily fouled — never a steel one"
+   ]
+  },
+  {
+   "name": "FRAME & MAGAZINE",
+   "tasks": [
+    "Fouling off the frame rails and the magazine well",
+    "Magazine lips and follower cleaned, then wiped with a lightly oiled rag",
+    "⛔ Never spray or apply oil to cartridges"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Barrel into the slide first, muzzle end through the front, rear lowered into place.",
+  "Recoil spring and guide assembly seated in its recess against the barrel lug.",
+  "Slide assembly onto the frame rails and pushed rearward until it locks.",
+  "⛔ Confirm the disassembly latch is back in the LOCKED position before releasing a slide under spring pressure.",
+  "Cycle the slide several times, decock if the model has a decocker, then function check."
+ ],
+ "fncheck": "Reassembled and unloaded, rack the slide several times and confirm it goes fully into battery and that the disassembly latch has returned to its locked position — Beretta warns that a slide released under spring pressure with the latch unlocked can launch off the frame. Check the safety or decocker works as the manual describes, then dry-cycle once more before loading."
+}

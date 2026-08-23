@@ -1,0 +1,181 @@
+{
+ "row": "smithwessonmp57",
+ "make": "Smith & Wesson",
+ "model": "M&P 5.7",
+ "sourcedFrom": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 (2026)",
+ "sourceSha256": "efbe52108c1e6d9ef662079b6e2bf2687130ba93af0814d52dac51091b95d64f",
+ "cleanIntro": "The M&P 5.7 does not strip like the rest of the M&P line: there is no rotating takedown lever, and the slide stop and takedown pin are one part that gets driven out with a punch. The barrel then separates from its own barrel shroud, which is what the routine cleaning path is really about.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Determine which features are present on your specific M&P 5.7",
+   "action": "Before you follow anything below, establish what your particular pistol is fitted with — most importantly whether it has the ambidextrous manual thumb safety lever, which not every M&P 5.7 carries. The model name and serial number are marked on the frame and slide; note the serial number, because Smith & Wesson asks owners to record it before shipping a firearm for service.",
+   "prose": "This decides the order of every step that follows. With the safety lever up in SAFE the slide is locked, so an owner who does not know their pistol has one will conclude the slide has seized rather than that a control is engaged. The lever works identically from either side, and the magazine can be removed and installed whatever position it is in — the slide is the only thing it blocks.",
+   "quote": "YOU MUST DETERMINE WHICH FEATURES ARE PRESENT ON YOUR SPECIFIC M&P®5.7 PISTOL AND HOW THOSE FEATURES OPERATE. VARIOUS MODELS OF THE M&P®5.7 PISTOLS ARE FITTED WITH DISTINCT FEATURES, WHICH MAY INCLUDE A MANUAL THUMB SAFETY. READ THIS ENTIRE MANUAL TO DETERMINE HOW TO OPERATE YOUR PISTOL WITH ITS PARTICULAR FEATURE SET.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Model & Features Identification, WARNING, p.13",
+   "warn": "You must determine which features are present on your specific M&P 5.7 pistol and how those features operate."
+  },
+  {
+   "phase": "Clear",
+   "title": "5.7x28mm to C.I.P. spec — no +P, no +P+, no reloads",
+   "action": "Before anything else, settle what has been through this pistol and what is going back in it. The M&P 5.7 is compatible with new, factory loaded ammunition conforming to C.I.P. standards for 5.7x28mm; no +P or +P+ ammunition should ever be used in it, and no reloaded ammunition should be used in it either.",
+   "prose": "This is a stricter rule than Smith & Wesson applies to its other pistols, which bar +P+ but tolerate +P, and the reason is the cartridge — 5.7x28mm runs at rifle pressures in a small case with a thin neck, and the gas-delayed action is timed to a narrow window. Reloads are called out specifically because a resized 5.7 case is a marginal thing, and a setback bullet in this cartridge is a pressure event rather than a stoppage.",
+   "quote": "THE SMITH & WESSON® M&P®5.7 PISTOL IS COMPATIBLE WITH NEW, FACTORY LOADED AMMUNITION CONFORMING TO C.I.P. STANDARDS FOR 5.7x28mm AMMUNITION. NO \"+P\" OR \"+P+\" AMMUNITION SHOULD EVER BE USED IN THIS FIREARM. NO RELOADED AMMUNITION SHOULD BE USED IN THIS FIREARM. THE USE OF NON-STANDARD OR RELOADED AMMUNITION MAY CAUSE INJURY AND/OR DEATH TO THE SHOOTER OR BYSTANDERS AND DAMAGE TO PROPERTY.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Ammunition, WARNING, p.10"
+  },
+  {
+   "phase": "Clear",
+   "title": "Nothing that changes the rate of fire",
+   "action": "If anything has been added to this pistol that alters how it fires, take it off before you go further and do not put it back. The firearm is designed and tested to function in a semi-automatic configuration only.",
+   "prose": "Smith & Wesson's own statement is that a device increasing the rate of fire beyond factory specifications may be illegal, will void the warranty, and will create an unsafe condition highly likely to result in injury or destruction of the firearm. A cleaning session is exactly when such a part is on the bench in your hands, which is why it belongs at the start of the walk rather than buried in the warranty pages.",
+   "quote": "YOUR FIREARM IS DESIGNED AND TESTED TO FUNCTION IN A SEMI-AUTOMATIC CONFIGURATION. ANY DEVICE THAT INCREASES THE RATE OF FIRE BEYOND FACTORY SPECIFICATIONS MAY BE ILLEGAL, WILL VOID THE WARRANTY, AND WILL CREATE AN UNSAFE CONDITION THAT IS HIGHLY LIKELY TO RESULT IN PERSONAL INJURY, DESTRUCTION OF THE FIREARM OR PROPERTY DAMAGE.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Front matter WARNING, p.2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety up if fitted, magazine out, slide back and locked",
+   "action": "If your pistol has a manual thumb safety, put the lever up in the SAFE position. Press the magazine release and take the magazine out, then grasp the serrated sides of the slide from the rear and draw it briskly fully rearward to extract anything in the chamber. Lock it open by holding it fully back and pressing up on the slide stop lever.",
+   "prose": "Magazine first and then the chamber, in that order, so nothing can feed while you are clearing it. Draw the slide briskly and all the way — a 5.7 case is long and slim, and a half-hearted pull will pluck it from the chamber and drop it back into the port rather than throwing it clear.",
+   "quote": "Lock the slide open by holding it fully rearward and pressing up on the slide stop lever (FIGURE 45).",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Field Stripping / Disassembly, p.27"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber empty, magazine well clear",
+   "action": "With the slide locked open, check the chamber is empty and then look down through the magazine well and confirm it is clear of any ammunition.",
+   "prose": "Two checks, because the answers can differ — a round that failed to eject can be lying in the frame below the feed ramp, out of sight from the chamber. You are about to put a punch through the frame, so this is the check that has to be right.",
+   "quote": "Make certain that the magazine well is clear of any ammunition",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Field Stripping / Disassembly, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Close the slide and align the takedown notch",
+   "action": "Find the slide stop and takedown lever on the right side of the pistol as viewed from the rear. Close the slide by drawing it rearward until the slide stop disengages and letting it forward to its closed position, then look at the takedown notch in the slide and the raised part of the takedown pin that have to line up.",
+   "prose": "This is where the M&P 5.7 stops resembling the rest of the family: there is no lever to rotate to six o'clock, and the pistol is stripped by driving a pin out. Alignment is the whole job — the raised section of the pin only clears the slide through that one notch, and forcing a punch against a misaligned pin will peen its end.",
+   "quote": "(FIGURE 50) and (FIGURE 51) are closeup views that show the takedown notch in the slide and the raised part of the Slide stop/Takedown pin that need to be aligned.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Field Stripping / Disassembly, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hold the slide back a quarter inch and press the pin out from the right",
+   "action": "Grasp the slide and push it back about a quarter of an inch so the takedown notch sits over the pin, hold it there, and use a small punch or drift to press the slide stop and takedown pin out from the right side of the pistol.",
+   "prose": "The quarter inch is measured, not approximate — too little and the notch does not reach the pin, too much and it has gone past. Press rather than hammer, and press from the right side specifically; the pin has a head geometry that only comes out one way, and driving it from the wrong side swells it in its channel.",
+   "quote": "While holding the slide with the takedown notch aligned (FIGURE 52), use a small punch or drift to press the Slide stop/Takedown pin out from the right side (FIGURES 53 and 54).",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Field Stripping / Disassembly, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward off the frame, recoil spring controlled",
+   "action": "With the pin out, relax your grip on the slide and push it forward off the front of the frame. Keep control of the recoil spring as the slide comes free.",
+   "prose": "Nothing is holding the assembly together once the pin is out, and the recoil spring is compressed between the barrel lug and the front of the slide. Keep a hand across the muzzle end as the slide leaves the rails; a spring that escapes on this pistol travels.",
+   "quote": "Once the Slide stop/Takedown pin is removed, loosen your grasp on the slide and remove the slide from the frame by pushing it forward and off the frame (FIGURE 55). Retain control of the recoil spring when the slide is removed from the frame.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Field Stripping / Disassembly, p.29",
+   "warn": "You must control the slide and the recoil spring during removal, to keep them from flying off and causing injury."
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring out, then barrel and shroud together",
+   "action": "Compress the recoil spring assembly slightly and lift it up and out of the slide. Then grasp the barrel and barrel shroud by the lug and lift the pair up and back out of the slide as one unit.",
+   "prose": "The barrel and shroud come out together — do not try to separate them inside the slide. Lift and back, not straight up: the lug has to clear the slide's locking recess before the assembly will come free, and levering it straight upward just wedges it.",
+   "quote": "Remove the barrel and barrel shroud as a unit from the slide by grasping the two parts by the lug and lifting up and back (FIGURE 58).",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Field Stripping / Disassembly, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Turn the barrel out of the shroud",
+   "action": "Once the pair is out of the slide, turn the barrel and withdraw it from the shroud so the two are separate. Both bores get cleaned.",
+   "prose": "This is the part of the M&P 5.7 that has no counterpart anywhere else in the M&P line, and it is the reason routine cleaning on this pistol is more than a barrel and a slide. The barrel rides inside a separate shroud that carries the lug and the muzzle threads, so fouling and unburned powder collect in the annular space between them where no patch down the bore will ever reach.",
+   "quote": "Turn barrel and withdraw from shroud",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Field Stripping / Disassembly, FIGURE 60 caption, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Thread protector off the shroud, if you are cleaning the threads",
+   "action": "If the muzzle threads need cleaning, take the thread protector off the front of the barrel shroud with a 9/16 inch 12-point box-end wrench or socket. It was torqued on at the factory, so it will be tight.",
+   "prose": "A 12-point wrench of the right size is the tool named, and it matters — the protector's flats are shallow and an adjustable spanner or a 6-point that nearly fits will round them off. The threads are 1/2 x 28, and they are worth cleaning because carbon packed into the root of a thread is what makes a muzzle device sit crooked.",
+   "quote": "The thread protector has been torqued into place at the factory. It can be removed using a 9/16˝ 12-point box-end wrench or socket wrench.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Field Stripping / Disassembly, NOTE, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel, barrel shroud, thread protector, recoil spring assembly, the slide stop and takedown pin, and the magazine — that is the M&P 5.7 field stripped for cleaning, and it is as far as Smith & Wesson takes it. Deep Clean covers the magazine, which the manual documents on its own. Do not dry fire the pistol while the slide is off.",
+   "prose": "The takedown pin is a loose part now and it is the one piece this pistol cannot be reassembled without, so put it somewhere deliberate rather than on the bench edge.",
+   "quote": "DO NOT DRY FIRE THE M&P®5.7 PISTOL WHILE THE SLIDE IS REMOVED. DOING SO CAN RESULT IN DAMAGE TO VARIOUS PARTS OF THE PISTOL.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Field Stripping/Disassembly, WARNING, p.26",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Empty the magazine and press the floor plate catch",
+   "action": "Take every cartridge out of the magazine first. Then use a small diameter tool through the hole in the floor plate to depress the floor plate catch.",
+   "prose": "The 5.7 magazine is long and holds a lot of spring, so there is real energy stored under that catch. The manual's own note warns that some of its illustrations show the spring unrestrained purely for clarity — that is not how it should ever look on your bench.",
+   "quote": "Using a small diameter tool, depress floor plate catch through the hole in the floor plate (FIGURE 83).",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Magazine Disassembly, p.35",
+   "warn": "The magazine spring is under pressure in the assembled magazine. Control the spring and other parts of the magazine so they do not fly out and cause injury."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Floor plate forward while the catch stays held",
+   "action": "Slide the floor plate forward off the tube while holding the floor plate catch down in the tube against spring pressure.",
+   "prose": "Forward, not sideways or off the back — the plate rides retaining lips along the tube and only leaves one way. Your thumb takes over from the tool as the plate travels, because the instant the plate stops covering the catch the spring is pushing everything out of the bottom.",
+   "quote": "Slide floor plate forward off of the tube while holding floor plate catch in the tube (FIGURE 84) against spring pressure.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Magazine Disassembly, p.35"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Catch, spring and follower out of the bottom",
+   "action": "Ease the floor plate catch, the spring and the follower out through the bottom of the tube, keeping the spring under control the whole way, and note the orientation of each part as it comes out.",
+   "prose": "They go back in the same order and the same way round, so look before you put them down. Clean the inside of the tube while it is empty — 5.7x28mm is a bottlenecked cartridge and the taper means residue collects along the front wall of the tube where it slows the follower.",
+   "quote": "Remove floor plate catch, the spring, and follower out through bottom of tube.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR SMITH & WESSON® M&P®5.7 PISTOLS — p/n 3015791                                           REV: M&P5.7_PISTOL_062226 — Magazine Disassembly, p.35"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL AND SHROUD",
+   "tasks": [
+    "Remove excessive firing residue from the bore and chamber with a properly fitted brass brush dipped in gun cleaning solvent, finishing with a dry cotton patch",
+    "Clean the outside of the barrel and the inside of the barrel shroud — the space between them is where this pistol's fouling actually collects",
+    "Clean the barrel lug and the locking surfaces on the shroud",
+    "With the thread protector off, clean the 1/2 x 28 muzzle threads and the inside of the protector"
+   ]
+  },
+  {
+   "name": "SLIDE AND FRAME",
+   "tasks": [
+    "Clean the breech face, the extractor and the inside of the slide",
+    "Clean the frame rails and the channel the slide stop and takedown pin passes through",
+    "Clean the pin itself and check its raised section is undamaged before it goes back",
+    "Clean the exterior with a non-abrasive cleaning cloth and remove all solution, oil and fingerprints"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Wipe the tube and feed lips",
+    "If the magazine has been apart, clean the inside of the tube and the follower before reassembly",
+    "Confirm the floor plate is locked by applying forward pressure to it, taking care not to pull it off and eject the spring and catch"
+   ]
+  },
+  {
+   "name": "LUBRICATION",
+   "tasks": [
+    "There are ten lubrication points; a single drop of high-quality firearm lubricant at each",
+    "Some points are applied with the pistol field stripped and one only once the barrel is back inside the shroud — follow the manual's two figures in that order",
+    "Do not over-lubricate: excess collects unburned powder and carbon residue and interferes with proper functioning",
+    "Avoid prolonged solvent immersion and prolonged ultrasonic cleaning"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Turn the barrel back into the barrel shroud until the lugs are aligned for assembly into the pistol, and refit the thread protector if it was removed.",
+  "Set the barrel and shroud unit into the slide, then fit the recoil spring assembly against the barrel lug.",
+  "Slide the slide assembly onto the frame from the front and bring it rearward, then align the takedown notch with the pin channel.",
+  "Press the slide stop and takedown pin back in from the left side until it is fully seated and flush.",
+  "Reassemble the magazine follower, spring and floor plate catch into the tube in the orientation they came out, push the spring down and slide the floor plate fully onto the tube until it locks."
+ ],
+ "fncheck": "With the pistol empty and pointed in a safe direction, confirm the slide stop and takedown pin is fully seated and sits flush — a proud pin means the slide can come off under recoil. Cycle the slide by hand several times and check it runs fully into battery and that the slide stop locks it open and releases cleanly. If your pistol has the manual thumb safety, confirm it moves positively between SAFE and FIRE. Then seat an empty magazine, check it latches and drops free, and confirm the barrel has no play in the shroud."
+}

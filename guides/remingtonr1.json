@@ -1,0 +1,317 @@
+{
+ "row": "remingtonr1",
+ "make": "Remington",
+ "model": "R1",
+ "sourcedFrom": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) (UNKNOWN — no copyright year is printed anywhere in the document)",
+ "sourceSha256": "9436f00342277f2fef1fc1afc50c8f7f0b2ce75345fe74c482b84df627f30b96",
+ "cleanIntro": "Remington's German-language owner's manual is the only owner's manual the company publishes for the 1911 R1, and it is a complete book: unload, full field strip to barrel and bushing, magazine disassembly, component-by-component cleaning and a printed reassembly. Two R1-specific points before you start. This pistol has NO magazine disconnect — Remington says so in bold, and it means a round in the chamber will fire with the magazine out. And the recoil spring plug under the muzzle is under real compression: it is held down while the bushing turns, and released slowly, not let go. Every step below carries the German sentence it came from and the page it is printed on, with an English rendering beside it.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Hammer cocked, thumb safety up and locked into the slide notch",
+   "action": "Confirm the hammer is fully cocked, then push the thumb safety up to its stop until it engages fully in the safety notch in the slide.",
+   "prose": "A 1911's thumb safety only works against a cocked hammer — it blocks the sear, it does not lower anything. If the safety will not go up, the hammer is not back far enough.",
+   "quote": "Stellen Sie sicher, dass der Schlaghebel vollständig gespannt ist und der Sicherheitsmechanismus eingerastet ist, indem Sie den Sicherungsschieber nach oben bis zum Anschlag schieben, bis dieser vollständig in der Sicherheitsraste des Verschlusses einrastet.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entladen der Schusswaffe, step 2, p.18",
+   "quoteLang": "German",
+   "quoteEnglish": "Make sure the hammer is fully cocked and the safety mechanism is engaged by pushing the thumb safety up to its stop until it engages fully in the safety notch in the slide.",
+   "warn": "Keep the pistol pointed in a safe direction throughout the entire unloading procedure."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out — and this pistol has no magazine disconnect",
+   "action": "Press the magazine catch and take the magazine out of the pistol.",
+   "prose": "Read the warning on this step before anything else. The R1 will fire a chambered round with the magazine removed — dropping the magazine is one half of unloading it, never the whole of it.",
+   "quote": "Entfernen Sie das Magazin, indem Sie die Magazinsicherung betätigen.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entladen der Schusswaffe, step 3, p.18",
+   "quoteLang": "German",
+   "quoteEnglish": "Remove the magazine by pressing the magazine catch.",
+   "warn": "Remington's 1911 R1 series pistols do NOT have a magazine disconnect. The pistol can still fire a cartridge in the chamber even with the magazine removed."
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety off, slide fully back — the chambered round comes out",
+   "action": "Push the thumb safety down, then draw the slide fully to the rear. That ejects whatever was in the chamber.",
+   "prose": "The safety has to come off for the slide to move on a 1911 — it locks the slide as well as the sear. Muzzle still downrange while you do it.",
+   "aside": "First: release the safety mechanism by pushing the thumb safety down.",
+   "quote": "Ziehen Sie den Verschluss vollständig nach hinten, wodurch die Patrone im Patronenlager ausgeworfen wird.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entladen der Schusswaffe, step 5, p.18",
+   "quoteLang": "German",
+   "quoteEnglish": "Pull the slide fully rearward, which ejects the cartridge in the chamber."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide back on the slide stop",
+   "action": "With the slide fully rearward, push the slide stop up until it engages fully in the slide stop notch.",
+   "prose": "On a 1911 the slide stop only catches by itself on an empty magazine. With no magazine in the gun you push it up yourself, and it needs to be all the way into the notch — half-engaged, it drops under its own weight.",
+   "quote": "Sperren Sie den vollständig nach hinten gezogenen Verschluss, indem Sie den Verschlussfanghebel nach oben schieben, bis er vollständig in der Verschlussfangraste einrastet.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entladen der Schusswaffe, step 6, p.18",
+   "quoteLang": "German",
+   "quoteEnglish": "Lock the fully rearward slide by pushing the slide stop up until it engages fully in the slide stop notch."
+  },
+  {
+   "phase": "Clear",
+   "title": "Eyes into the port, the chamber AND the magazine well",
+   "action": "Look into the ejection port and inspect the chamber and the magazine well, and satisfy yourself the pistol is completely empty.",
+   "prose": "Three places. Then unload the magazine itself away from the gun — Remington has you push each cartridge forward out of the magazine one at a time, with the magazine held separate from the pistol.",
+   "aside": "Hold the magazine separate from the firearm and push each cartridge forward out of the magazine, one at a time.",
+   "quote": "Sehen Sie in die Auswurföffnung und inspizieren Sie das Patronenlager und den Magazinschacht, um sicherzustellen, dass die Handfeuerwaffe vollständig entladen ist.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entladen der Schusswaffe, step 7, p.18",
+   "quoteLang": "German",
+   "quoteEnglish": "Look into the ejection port and inspect the chamber and the magazine well to make sure the handgun is completely unloaded."
+  },
+  {
+   "phase": "Strip",
+   "title": "How far this manual goes — and where it stops",
+   "action": "Everything below is what Remington publishes. The manual states that 1911 R1 series handguns should not be taken further apart than it describes, except by the manufacturer or an authorised Remington repair centre. Safety glasses on before you start.",
+   "prose": "This is the manual bounding its own coverage, so read it as a limit rather than as boilerplate. It also means that if an R1 needs work past the barrel and bushing, this book is not the document for it and no guide built from it can be.",
+   "quote": "VORSICHT: Die Handfeuerwaffen der Modellserie 1911 R1 sollten nicht weiter zerlegt werden, als in diesem Handbuch beschrieben ist, ausgenommen davon sind natürlich der Hersteller selbst oder eine autorisierte Remington® Reparaturwerkstätte.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Zerlegen der Schusswaffe zu Reinigungszwecken — caution under the heading, p.20",
+   "quoteLang": "German",
+   "quoteEnglish": "CAUTION: 1911 R1 series handguns should not be disassembled further than is described in this manual, other than of course by the manufacturer itself or an authorised Remington® repair centre.",
+   "warn": "Completely unload your handgun before cleaning it. With the magazine removed, look into the ejection port and inspect the chamber and the loading port to make sure the handgun is completely unloaded. Always wear safety glasses when disassembling or assembling a firearm."
+  },
+  {
+   "phase": "Strip",
+   "title": "Hammer back, safety on, magazine out — the strip starts from safe",
+   "action": "Cock the hammer by drawing it fully rearward, put the safety back up until it locks into the slide's safety notch, and take the magazine out.",
+   "prose": "The pistol goes into the strip cocked and on safe, which is not how most strips begin. On a 1911 that is what keeps the sear off the hammer hooks while the slide is being worked.",
+   "quote": "Spannen Sie den Schlaghebel, indem Sie diesen vollständig nach hinten ziehen.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entfernen des Verschlusses, step 2, p.20",
+   "quoteLang": "German",
+   "quoteEnglish": "Cock the hammer by pulling it fully rearward."
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring plug DOWN, bushing a quarter turn clockwise",
+   "action": "Press the recoil spring plug down under the muzzle and, holding it down, turn the barrel bushing a quarter turn clockwise. Use a bushing wrench if you need one.",
+   "prose": "The plug is the spring's cap and it is under compression the whole time. Your thumb stays on it while the bushing turns — the classic 1911 injury is letting the plug go while the bushing is rotating and taking it in the face.",
+   "quote": "Drücken Sie die Sperrhülse der Schließfeder unterhalb der Mündung nach unten und drehen Sie dabei die Laufbuchse im Uhrzeigersinn um eine viertel Umdrehung.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entfernen des Verschlusses, step 5, p.20",
+   "quoteLang": "German",
+   "quoteEnglish": "Press the recoil spring plug down beneath the muzzle and, while doing so, turn the barrel bushing clockwise a quarter turn.",
+   "warn": "Take extreme care when disassembling the recoil spring and the recoil spring plug, because the recoil spring is under compression. Wear safety glasses to prevent serious injury."
+  },
+  {
+   "phase": "Strip",
+   "title": "Let the plug and spring up SLOWLY",
+   "action": "Release the recoil spring plug and the recoil spring by withdrawing the bushing wrench slowly.",
+   "prose": "Slowly is the whole instruction. The spring is still pushing on the plug even after the bushing has turned — let it come up under control rather than letting it find its own way out.",
+   "quote": "Lösen Sie die Sperrhülse der Schließfeder und die Schließfeder, indem Sie den Laufbuchsenschlüssel langsam entfernen.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entfernen des Verschlusses, step 6, p.20",
+   "quoteLang": "German",
+   "quoteEnglish": "Release the recoil spring plug and the recoil spring by slowly removing the bushing wrench."
+  },
+  {
+   "phase": "Strip",
+   "title": "Safety off, slide back until the slide stop faces the takedown notch",
+   "action": "Push the thumb safety down, then draw the slide rearward until the slide stop sits opposite the takedown notch in the slide.",
+   "prose": "There is one position and only one where the slide stop's lug lines up with that notch. If the pin will not push through in the next step, the slide is a few millimetres out — move it, do not force the pin.",
+   "quote": "Ziehen Sie den Verschluss vollständig nach hinten, bis der Verschlussfanghebel gegenüber der Zerlegeraste liegt.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entfernen des Verschlusses, step 8, p.21",
+   "quoteLang": "German",
+   "quoteEnglish": "Pull the slide fully rearward until the slide stop lies opposite the takedown notch."
+  },
+  {
+   "phase": "Strip",
+   "title": "Push the slide stop pin from the RIGHT, take the lever off the LEFT",
+   "action": "From the shooter's right-hand side, press in on the slide stop pin, then take the slide stop out from the left side.",
+   "prose": "Push from one side, remove from the other. A thumbnail or a punch on the protruding pin is enough — if it needs a hammer, the takedown notch is not aligned.",
+   "aside": "Then: remove the slide stop from the left-hand side.",
+   "quote": "Drücken Sie nun, von der rechten Seite des Schützen aus gesehen, den Stift des Verschlussfanghebels ein.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entfernen des Verschlusses, step 9, p.21",
+   "quoteLang": "German",
+   "quoteEnglish": "Now, seen from the shooter's right-hand side, press in the slide stop pin."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward off the frame",
+   "action": "Run the slide forward and lift it off the frame.",
+   "prose": "Straight forward and off, taking barrel, bushing and recoil spring with it. Do not press the trigger from here — see the warning.",
+   "quote": "Schieben Sie den Verschluss nach vorne und entnehmen Sie ihn vom Rahmen.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entfernen des Verschlusses, step 11, p.21",
+   "quoteLang": "German",
+   "quoteEnglish": "Slide the slide forward and take it off the frame.",
+   "warn": "Do not press the trigger (\"dry firing\") while the slide is removed. Doing so can damage the hammer and other internal parts."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide inverted, guide rod and spring out over the barrel link",
+   "action": "Turn the slide over so it rests on its sights, then lift the recoil spring guide and recoil spring out of the rear as one unit, over the barrel link and out.",
+   "prose": "Over the link, not past it — that is the clearance the manual names. They come out as one piece; there is nothing to separate at this stage.",
+   "aside": "First: turn the slide over so that it rests on the rear sight and the front sight.",
+   "quote": "Entfernen Sie die Schließfederführung und die Schließfeder von der Rückseite als ganze Einheit, indem Sie diese über das Laufgelenk heben und dann herausziehen.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entfernen des Verschlusses, step 13, p.21",
+   "quoteLang": "German",
+   "quoteEnglish": "Remove the recoil spring guide and the recoil spring from the rear as a complete unit, by lifting them over the barrel link and then drawing them out."
+  },
+  {
+   "phase": "Strip",
+   "title": "Bushing anticlockwise, then barrel and bushing forward",
+   "action": "Turn the barrel bushing anticlockwise and push the barrel and bushing forward until the bushing's lug disengages and the bushing can be taken off the barrel.",
+   "prose": "Anticlockwise now — the opposite of the quarter turn that freed the plug. The bushing comes off the barrel, not out of the slide.",
+   "quote": "Drehen Sie die Laufbuchse gegen den Uhrzeigersinn, drücken Sie den Lauf und die Laufbuchse nach vorne, bis die Laufbuchsenwarze ausrastet und die Laufbuchse aus dem Lauf entnommen werden kann.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entfernen des Verschlusses, step 14, p.21",
+   "quoteLang": "German",
+   "quoteEnglish": "Turn the barrel bushing anticlockwise and push the barrel and bushing forward until the bushing lug disengages and the bushing can be removed from the barrel."
+  },
+  {
+   "phase": "Strip",
+   "title": "Link forward, barrel out the front of the slide",
+   "action": "Make sure the barrel link is lying forward, then take the barrel out through the front of the slide.",
+   "prose": "The link has to be forward or the lower lug catches on its way past the slide's locking recesses. Check it before you pull, not while you are pulling.",
+   "aside": "Then: remove the barrel out through the front of the slide.",
+   "quote": "Stellen Sie sicher, dass das Laufgelenk in der vorderen Stellung ist.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Entfernen des Verschlusses, step 15, p.21",
+   "quoteLang": "German",
+   "quoteEnglish": "Make sure the barrel link is in the forward position."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel, bushing, recoil spring with its guide and plug, and the magazine. That is the whole field strip Remington publishes for the 1911 R1.",
+   "prose": "Clean the bore and chamber before the pistol is loaded and fired the first time — Remington asks for that explicitly, on a new gun as much as a dirty one. The magazine strip and the frame cleaning are in the deep clean.",
+   "caution": "Excessive use of lubricants or cleaning agents that are not recommended can impair the function and the safe operation of your firearm.",
+   "quote": "Reinigen Sie die Bohrung des Laufs und das Patronenlager, bevor Sie Ihre Schusswaffe das erste Mal laden und abfeuern.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Reinigung, Schmierung und Wartung — note, p.20",
+   "quoteLang": "German",
+   "quoteEnglish": "Clean the bore of the barrel and the chamber before you load and fire your firearm for the first time."
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Follower and magazine spring down about 5 cm",
+   "action": "Press the follower and the magazine spring roughly 5 cm down into the magazine body and hold them there.",
+   "prose": "This is a captive spring under real load and the whole procedure is done against it. Safety glasses stay on; Remington gives this its own warning for good reason.",
+   "quote": "Drücken Sie den Zubringer und die Magazinfeder ca. 5 cm tief in das Magazin.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Zerlegen des Magazins, step 1, p.22",
+   "quoteLang": "German",
+   "quoteEnglish": "Press the follower and the magazine spring approximately 5 cm down into the magazine.",
+   "warn": "Take extreme care when disassembling the magazine, because the magazine spring is under compression. Wear safety glasses to prevent serious injury."
+  },
+  {
+   "phase": "Strip",
+   "title": "Pin through the lower service hole to trap the spring",
+   "action": "With the follower and spring still held down, pass a thin pin or a small screwdriver through the lower service hole in the magazine body.",
+   "prose": "That pin is what takes the spring's load off your thumb. Nothing else in this procedure is safe until it is in.",
+   "quote": "Führen Sie nun bei eingedrücktem Mitläufer und Magazinfeder einen dünnen Stift oder kleinen Schraubendreher durch das untere Wartungsloch in das Magazingehäuse ein.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Zerlegen des Magazins, step 2, p.22",
+   "quoteLang": "German",
+   "quoteEnglish": "Now, with the follower and magazine spring pressed in, insert a thin pin or small screwdriver through the lower service hole into the magazine body."
+  },
+  {
+   "phase": "Strip",
+   "title": "Invert and tap until the follower drops off the spring",
+   "action": "Turn the magazine over and tap it lightly until the follower comes off the magazine spring.",
+   "prose": "Light taps. The follower is a friction fit on the spring's top coil, not a locked joint — it should let go without persuasion.",
+   "quote": "Drehen Sie nun das Magazin um und klopfen Sie leicht dagegen, bis der Mitläufer von der Magazinfeder abfällt.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Zerlegen des Magazins, step 3, p.22",
+   "quoteLang": "German",
+   "quoteEnglish": "Now turn the magazine over and tap it lightly until the follower comes off the magazine spring."
+  },
+  {
+   "phase": "Strip",
+   "title": "Follower up and out, rotating it clear of the body",
+   "action": "Take the follower out of the magazine body by pulling it up and rotating it outward.",
+   "prose": "It will not come straight up — it needs the twist to clear the feed lips. Forcing it straight is how followers get cracked.",
+   "quote": "Entnehmen Sie den Mitläufer aus dem Magazingehäuse, indem Sie diesen hochziehen und nach außen drehen.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Zerlegen des Magazins, step 4, p.22",
+   "quoteLang": "German",
+   "quoteEnglish": "Take the follower out of the magazine body by pulling it up and rotating it outward."
+  },
+  {
+   "phase": "Strip",
+   "title": "Pin out with the spring pressed, then release it SLOWLY",
+   "action": "Press down on the magazine spring, withdraw the thin pin, and let the spring up slowly once the pin is clear.",
+   "prose": "Hand on the spring before the pin leaves. This is the moment the whole procedure has been managing, and it is the one where a released magazine spring goes across the room.",
+   "aside": "Let the magazine spring go slowly once you have removed the pin.",
+   "quote": "Entfernen Sie bei gedrückter Magazinfeder den dünnen Stift.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Zerlegen des Magazins, step 5, p.22",
+   "quoteLang": "German",
+   "quoteEnglish": "With the magazine spring pressed down, remove the thin pin."
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine spring out of the body",
+   "action": "Draw the magazine spring out of the magazine body.",
+   "prose": "Three pieces now — body, spring, follower. Remington documents no further magazine disassembly, and there is no floorplate step in this book.",
+   "quote": "Entfernen Sie die Magazinfeder aus dem Magazingehäuse, indem Sie diese herausziehen.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Zerlegen des Magazins, step 6, p.22",
+   "quoteLang": "German",
+   "quoteEnglish": "Remove the magazine spring from the magazine body by pulling it out."
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean and oil the magazine's three pieces",
+   "action": "Spray every magazine component with Rem Action Cleaner, brush the residue off thoroughly, blow dry or air dry, then put a thin coat of Rem Oil on the body, the spring and the follower and wipe the excess off.",
+   "prose": "Thin, and wiped back. A magazine is a dust trap: oil left standing inside the body is what turns pocket lint into a feed stoppage.",
+   "aside": "Apply a thin coat of Rem™ Oil to the magazine body, the magazine spring and the follower.",
+   "quote": "Besprühen Sie alle Magazinkomponenten mit Rem™ Action Cleaner.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Reinigen des Magazins, step 1, p.24",
+   "quoteLang": "German",
+   "quoteEnglish": "Spray all magazine components with Rem™ Action Cleaner."
+  },
+  {
+   "phase": "Clean",
+   "title": "Frame is cleaned as a whole — take nothing else out of it",
+   "action": "Spray the frame assembly with Rem Action Cleaner, brush the residue off, dry it, then work a thin film of Rem Oil over the inside and outside surfaces — including the hammer, the disconnector and the service window in the magazine well — and wipe the excess back off.",
+   "prose": "As a whole, and nothing else comes out. Remington names the four points its illustration marks and stops there; the sear, the springs and the mainspring housing are not in this book, and taking them out is past the limit the manual sets.",
+   "caution": "Clean and lubricate the frame assembly as a whole. Do not remove any further components from the frame assembly.",
+   "aside": "Include the hammer (1&2), the disconnector (3) and the service window in the magazine well (4).",
+   "quote": "Tragen Sie einen dünnen Film Rem™ Oil auf die inneren und äußeren Oberflächen der Rahmenbaugruppe auf.",
+   "cite": "Betriebsanleitung — Handbuch für: Modell 1911 R1 Selbstladende Pistole — F404704 (RemArms' own part code for this book; no form number or revision code is printed inside the document) — Reinigen der Rahmenbaugruppe, step 3, p.23",
+   "quoteLang": "German",
+   "quoteEnglish": "Apply a thin film of Rem™ Oil to the inner and outer surfaces of the frame assembly."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL & CHAMBER",
+   "tasks": [
+    "Attach a patch to the tip of the cleaning rod and wet it with Brite Bore or an equivalent",
+    "Run the patch through the bore from the chamber toward the muzzle several times, taking out all residue",
+    "Fit a calibre-correct bore brush to the rod, spray it with Brite Bore and push it through the bore several times",
+    "Back to patches, a fresh one every pass, until all residue is out of the barrel",
+    "Clear all firing residue off the barrel's locking lugs with Rem Action Cleaner",
+    "One clean patch soaked in Rem Oil through the bore, then a dry clean one to take the excess back out",
+    "Wipe a thin film of Rem Oil onto the outside of the barrel with a soft clean cloth",
+    "Confirm the barrel holds no residue at all after cleaning"
+   ]
+  },
+  {
+   "name": "BUSHING & SLIDE ASSEMBLY",
+   "tasks": [
+    "Spray the barrel bushing with Rem Action Cleaner and push a clean patch through it several times, brushing out the residue",
+    "Wipe the bushing inside and out, dry it, then a Rem Oil patch through it and a dry patch after",
+    "Spray the whole slide assembly with Rem Action Cleaner — including the barrel and bushing lugs, the extractor and the breech face — and brush it thoroughly clean",
+    "Blow it dry with compressed air or let it air dry",
+    "Spray the slide assembly with Rem Oil, then take the excess off with a cloth or compressed air",
+    "Finish with a thin film of Rem Oil on the outside and wipe the surplus away with a clean dry cloth"
+   ]
+  },
+  {
+   "name": "FRAME & MAGAZINE (deep only)",
+   "tasks": [
+    "Clean and lubricate the frame assembly AS A WHOLE — remove no further components from it",
+    "Spray the frame with Rem Action Cleaner, brush the residue out thoroughly, then dry it with compressed air or air dry",
+    "Work a thin film of Rem Oil over the frame's inner and outer surfaces, including the hammer, the disconnector and the service window in the magazine well",
+    "Spray all magazine components with Rem Action Cleaner and brush them clean",
+    "Thin coat of Rem Oil on the magazine body, the magazine spring and the follower",
+    "Take off all excess lubricant with a clean dry cloth"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Use only Remington-recommended components in a Remington handgun — the manual warns that parts from other makers may look similar, and that fitting them to a 1911 R1 voids the warranty and can cause serious injury or death.",
+  "Turn the slide upside down, rotate the barrel link forward, and feed the barrel in through the front of the slide.",
+  "Fit the barrel bushing over the barrel into the slide and lock it by turning it clockwise.",
+  "Slide the recoil spring onto the recoil spring guide so the end of the spring sits against the collar of the guide.",
+  "Feed the recoil spring and guide in from the rear of the slide into the mainspring housing, and lay the curved section of the guide over the barrel, just ahead of the barrel link.",
+  "The hammer should be fully cocked, the thumb safety down, and the firing pin stop in its lower or forward position.",
+  "Draw the slide and barrel rearward together until the hole in the barrel link lines up with the slide stop hole, then fit the slide stop pin.",
+  "Refit the recoil spring plug and bushing, pressing the plug down and turning the bushing back a quarter turn to capture it.",
+  "Remove all oil and residue from the bore and chamber before the pistol is loaded and fired."
+ ],
+ "fncheck": "Remington prints no numbered function-check procedure for the 1911 R1. What the manual does require is a clean, clear bore before the pistol is loaded — verbatim at p.20, \"Reinigen Sie die Bohrung des Laufs und das Patronenlager, bevor Sie Ihre Schusswaffe das erste Mal laden und abfeuern.\", in our English \"Clean the bore of the barrel and the chamber before you load and fire your firearm for the first time.\" With the pistol reassembled and confirmed empty, magazine out: check that the slide runs fully forward into battery and locks, that the thumb safety goes fully up into the slide's safety notch against a cocked hammer and fully down again, and that the slide stop engages and releases cleanly. ⛔ Do NOT dry fire to test anything with the slide off — the manual warns that pressing the trigger with the slide removed can damage the hammer and other internal parts. Anything that does not behave as described goes to an authorised Remington repair centre, which is where this manual sends all work past the field strip."
+}

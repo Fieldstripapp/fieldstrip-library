@@ -1,0 +1,238 @@
+{
+ "row": "winchester101",
+ "make": "Winchester",
+ "model": "101",
+ "sourcedFrom": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "9a5fad1314fe2e2dd4ead9c33fa49df46411c7618b6f7178fefe2d2175dc11e4",
+ "cleanIntro": "The Model 101 is an over/under, and its strip is the break-action classic: forearm off, barrels off the trunnions, and that — in the maker's own words — is the ideal level of disassembly for cleaning. Two things distinguish the 101's care from a pump or autoloader. First, grease, not oil, is the specified lubricant for the hinge: the trunnion surfaces, barrel lug and forearm bracket must always carry a film of high-quality grease against galling, while oil handles the rest of the gun. Second, the choke tubes rule the bore work — the barrels are threaded for Invector-Plus tubes, the threads need cleaning and oiling to keep a tube from seizing, and neither a brush nor a shot ever goes through these barrels without tubes installed. The safety is also the barrel selector — U and O choose which barrel fires first — and several 101 versions exist, so the gauge and chamber length inscribed on the barrel outrank anything a catalog row can tell you.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Open the action and prove both chambers empty",
+   "action": "Push the top lever to the right with your thumb, let the barrels swing fully down, and look into both chambers. Keep the muzzles pointed safely while you do it — a break action open at the breech still has two muzzles somewhere. If tight tolerances make the last of the opening stiff, pull down slightly on the forearm to complete it; a fully dropped set of barrels is also what lets the ejectors present the hulls properly.",
+   "prose": "Two chambers means the empty one you see first is not proof about the second. Look at both, every time.",
+   "quote": "Using your thumb, move the top lever fully to the right to open the action. The action must be opened completely to reset the firing mechanism.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Firing",
+   "warn": "Two chambers. Check both."
+  },
+  {
+   "phase": "Clear",
+   "title": "Which 101 is this? The barrel inscription answers, not the box",
+   "action": "Read the inscription on the side of the barrel, forward of the receiver, before anything else: it states your gun's gauge and chamber length, and several different versions of the Model 101 exist. Every ammunition decision hangs on that inscription — shells must match both the gauge and the length, and the shorter-chambered guns must never see the longer shells.",
+   "prose": "The inscription is the gun telling you what it is. A catalog row that says only '101' cannot answer the chamber-length question; the barrel does.",
+   "caution": "Gauge AND chamber length come off the barrel inscription — nowhere else.",
+   "quote": "There are several different versions of the Model 101. The gauge and chamber length are inscribed on the side of the barrel, forward of the receiver.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Ammunition"
+  },
+  {
+   "phase": "Clear",
+   "title": "Shell length is a pressure limit, not a preference",
+   "action": "Match your shells to the inscribed chamber length exactly, and never chamber a longer shell in a shorter chamber. A 3-inch shell will close into a 2¾-inch chamber — the crimp unfolds into the forcing cone at the shot and pressures spike dangerously. The reverse trap is the small-gauge shell: a 20-gauge shell dropped into a 12-gauge barrel slides past the chamber, lodges in the bore, and waits for the correct shell to be loaded behind it.",
+   "prose": "Keep only one gauge on the bench, in the bag, and in your pockets. The mixed-gauge pocket is how the classic 12-20 burst begins.",
+   "quote": "USE SHELLS OF THE CORRECT LENGTH. DO NOT USE 3\" OR 3½\" SHELLS IN A BARREL WITH A 2¾\" OR 2½\" CHAMBER, OR 3½\" SHELLS IN A BARREL WITH A 3\" CHAMBER.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Ammunition warnings",
+   "warn": "Never a longer shell than the chamber is inscribed for, and never a smaller gauge anywhere near this gun."
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety rearward — and know that it is also the barrel selector",
+   "action": "Pull the safety/selector on the top tang fully rearward until the “S” is exposed: on safe, trigger disconnected. The same control moved left or right chooses the firing order — “U” exposed fires the under barrel first, “O” the over barrel — and it only selects while on safe. Park it fully to one side or the other: the maker warns that a selector caught between U and O can make the safety harder to push off safe when you actually want to.",
+   "prose": "For bench work only two things matter: S visible, and the selector fully committed to a side. The firing-order choice is a field decision about chokes, not a cleaning decision.",
+   "quote": "The “safety”/selector on the top tang of your shotgun also serves as the barrel selector. The barrel selector allows you to choose which barrel will fire with the first pull of the trigger. The other barrel will then fire with the second pull of the trigger. The “safety”/selector must be in the on safe, rearward position to operate the barrel selector.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Barrel Selector",
+   "warn": "S exposed = on safe. Selector fully to one side, never straddling the middle."
+  },
+  {
+   "phase": "Strip",
+   "title": "Forearm off — out on the latch, and gently",
+   "action": "Hold the barrels with one hand and pull outward on the forearm release latch with the other, then pull the forearm away from the barrels — front end away and slightly forward until it detaches from the barrel set and the front of the receiver. The maker's NOTICE is about restraint: do not pull down too hard or lever it too far from the barrels, because the forearm is wood or polymer bridging steel, and over-rotation cracks it.",
+   "prose": "The latch does the releasing; your hands just guide. If it feels like prying, the latch is not fully out.",
+   "quote": "NOTICE: USE CARE WHEN REMOVING THE FOREARM. DO NOT PULL DOWN TOO HARD ON THE FOREARM OR PULL IT AWAY FROM THE BARRELS TOO FAR. DOING SO MAY CRACK THE FOREARM.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Disassembly, step 2",
+   "warn": "Ease the forearm off — over-rotating it cracks it."
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrels off the receiver — top lever right, rotate down, lift free",
+   "action": "Grasp the barrels ahead of the receiver, push the top lever to the right with your thumb, and rotate the barrels downward until they separate from the receiver. Support both halves as they part — the buttstock wants to swing one way and a barrel set is heavier than it looks. When the barrels are fully down, lift their hinge portion up and out of the receiver.",
+   "prose": "This is the whole trick of a break gun: one lever, one rotation, and the gun is in its two natural pieces.",
+   "quote": "Grasp the barrels ahead of the receiver and push the top lever to the right with your thumb. Rotate the barrels downward until they separate from the receiver. Be sure to support the barrels and buttstock carefully.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Disassembly, step 3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Two pieces on the bench — the maker calls this ideal, and it is the limit",
+   "action": "Barrels and forearm in one group, receiver and buttstock in the other: the maker states this is the ideal level of disassembly for cleaning, and it is also the published maximum. The locks, ejectors and trigger mechanism stay sealed in the receiver — the closing NOTICE bars going deeper, and heavy-use internal cleaning is routed to a qualified gunsmith or the Arnold, Missouri facility.",
+   "prose": "Everything the gun needs from you is reachable right now: two bores open end to end, the breech faces, the hinge surfaces, and the choke tubes.",
+   "quote": "If you are cleaning your shotgun, this is the ideal level of disassembly.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Disassembly, step 4",
+   "warn": "No disassembly beyond barrels-and-forearm — the receiver internals are gunsmith territory."
+  },
+  {
+   "phase": "Clean",
+   "title": "Bores from the breech — with the choke tubes installed",
+   "action": "With the barrels off, run a snug rod-and-patch, lightly oiled, in from the breech end of each barrel and work it back and forth. The choke tubes stay installed for every pass — a rod or brush run through an empty choke-threaded muzzle can foul the threads, which is why the maker's rule is that nothing goes through these barrels, cleaning tools included, without tubes in place.",
+   "prose": "Breech-end entry means the crown never meets the rod. The tubes protect the threads; the threads are the part you cannot see being damaged.",
+   "quote": "Using a shotgun cleaning rod with tip and patch large enough for a snug fit in the bore, insert the rod and a lightly oiled patch in the breech end of the barrel and run back and forth through the bore several times.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 3",
+   "warn": "Choke tubes stay IN for all bore work."
+  },
+  {
+   "phase": "Clean",
+   "title": "Choke tubes out — threads brushed, oiled, and the tubes back in",
+   "action": "Remove each choke tube with the supplied wrench — counterclockwise to loosen, then finger-twist it out — and clean the tube, its threads and the barrel's internal threads with a nylon brush, then lightly oil both sets of threads before reinstalling. The maker's NOTICE is blunt about why: unoiled, dirty threads seize the tube in the barrel, and a seized tube is a gunsmith extraction.",
+   "prose": "Thread care is the entire choke-tube discipline. The pattern the tube throws never changes; whether it comes out next season does.",
+   "quote": "NOTICE: FAILURE TO CLEAN AND OIL THE THREADS ON THE CHOKE TUBE COULD RESULT IN THE CHOKE TUBE SEIZING IN THE BARREL.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Interchangeable Choke Tube System — CHOKE TUBE INSTALLATION, NOTICE",
+   "warn": "Clean and oil the threads every time, or the tube seizes."
+  },
+  {
+   "phase": "Clean",
+   "title": "Your tubes are Invector-Plus — the other Winchester systems do not fit",
+   "action": "When buying or borrowing tubes, know that all Model 101 barrels take the Invector-Plus system and that Winchester's other tube families are not compatible: Standard Invector, WinChoke and Invector-Plus tubes are not interchangeable. Confirm the system on the barrel's inscription where the choke markings live, and read each tube's constriction off its side or the notch code on its rim.",
+   "prose": "A wrong-system tube can thread partway and sit proud in the bore — exactly where the shot column will find it.",
+   "caution": "Invector-Plus only. Check the notch code to know which constriction is installed.",
+   "quote": "All Model 101 shotgun barrels are threaded to accept the Invector-Plus™ choke system. Standard Invector, WinChoke and Invector-Plus tubes are not interchangeable.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Interchangeable Choke Tube System"
+  },
+  {
+   "phase": "Clean",
+   "title": "Grease the hinge — trunnions, barrel lug and forearm bracket",
+   "action": "Wipe the metal of receiver, forearm iron and barrels clean, then lubricate the hinge system with grease, not oil: the trunnion surfaces inside the front of the receiver, the barrel lug, and the forearm bracket surfaces on both sides. The maker specifies a film of high-quality grease on these surfaces always — they carry the whole hinge load of every opening, and grease is what prevents the galling that oil cannot.",
+   "prose": "Oil migrates off vertical bearing faces in a day; grease stays. This one substitution is most of what keeps a break gun tight over decades.",
+   "quote": "NOTICE: THE FINELY FITTED SURFACES OF THE RECEIVER AND FOREARM MECHANISMS (TRUNNION SURFACES, BARREL LUG AND FOREARM BRACKET) MUST ALWAYS BE COATED WITH A FILM OF HIGH QUALITY GREASE.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 7 NOTICE",
+   "warn": "GREASE on the hinge surfaces — oil is for the rest of the gun, not here."
+  },
+  {
+   "phase": "Clean",
+   "title": "Breech faces spotless — debris here stops the gun closing",
+   "action": "Keep the polished breech surfaces clean and lightly lubricated whenever the gun is apart. The breech is hand-fitted closely enough that grit, sand or accumulated debris can prevent the action closing at all — and the maker turns that trait into a habit worth copying: many shooters nudge the top lever left after closing, a one-second check that nothing is interfering with full lockup.",
+   "prose": "A break gun that will not quite close is talking to you. Open it and look for the grain of debris before blaming the gun.",
+   "caution": "An action that resists closing usually has debris on the breech faces.",
+   "quote": "Always keep the polished breech surfaces clean and lightly lubricated. The breech is so carefully hand-fitted that accumulated debris, sand, etc. may prevent complete closing.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Top Lever"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Two groups on the bench: the barrels with forearm and choke tubes, and the receiver with buttstock. For storage the maker's suggestion is to click the forearm back onto the detached barrels — align its extension with the rails beside the chambers and press it home — which protects the latch and makes the two-piece case package. Deep Clean covers the leading and plastic-residue bore regimen, the plastic-shell chamber warning, the trigger-shoe and adjustable-stock features on special models, and the top-lever facts worth knowing as the gun wears.",
+   "prose": "An over/under strips to exactly the pieces its case expects, in under a minute, with no tools. That economy is the design.",
+   "quote": "When cleaning is completed, reattach the forearm to the barrels for storage.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Disassembly, step 5",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Leading and plastic wad residue — read the streaks, then brush",
+   "action": "Inspect each bore from both ends for leading and plastic residue — longitudinal streaks, heaviest near the muzzles and just ahead of the chambers, are the signature, and a normal amount is common. When it turns excessive, soak a brass brush or spray the bore with powder solvent and scrub until clean, pushing the brush fully through the barrel each time before drawing it back — with the choke tubes installed, always, so bristles cannot lodge in the muzzle threads.",
+   "prose": "Modern wads leave plastic where the older fiber ones left nothing. It builds slowly, patterns suffer quietly, and the brush-with-solvent pass resets it.",
+   "quote": "Inspect the bore from both ends for leading and plastic residue that often remain in the bores from the shot cups in modern shotshells. Leading and plastic residue will appear as longitudinal streaks and are usually more predominant near the muzzles and just forward of the chambers.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry patch, oiled patch, and the check for what stayed behind",
+   "action": "After the residue is out, run a clean dry patch through each bore, follow with a final lightly oiled patch, then inspect both barrels and chambers to be certain no patch has been left inside. Reassemble and wipe every exposed metal surface with an oiled cloth until the finger marks are gone — prints hold the moisture that starts rust.",
+   "prose": "Two barrels double the chance of a forgotten patch. Look through both, against light, before the gun goes together.",
+   "quote": "After all leading and plastic residues have been removed, run a clean, dry patch through the bore. Follow this with a final, lightly oiled patch.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Plastic shells sweat — empty the chambers the same day you shoot",
+   "action": "Clean the chambers thoroughly and promptly after shooting plastic shotshells, and never leave fired hulls sitting in the chambers. The maker's NOTICE explains the failure: many plastic shells hold moisture in their chemistry, it sweats out against the chamber walls, and a chamber that stored a spent hull for a season can come out pitted. This is a same-day rule, not a someday rule.",
+   "prose": "The two minutes between the last station and the case — hulls out, chambers wiped — is the cheapest corrosion protection this gun will ever get.",
+   "quote": "NOTICE: IT IS VERY IMPORTANT THAT THE CHAMBERS OF YOUR SHOTGUN BE CLEANED THOROUGHLY AND PROMPTLY AFTER SHOOTING PLASTIC SHOTSHELLS. DO NOT LEAVE DISCHARGED (EMPTY) SHELLS IN THE CHAMBERS FOR ANY LENGTH OF TIME.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, closing NOTICE",
+   "warn": "Fired plastic hulls left chambered will corrode the chambers."
+  },
+  {
+   "phase": "Clean",
+   "title": "Choke thread regimen — after each use, and never a bare-muzzle shot",
+   "action": "Regularly remove the tubes to clean and oil the threads inside the barrel and on the tube — solvent and a soft brush, wiped clean, then a thin film of oil on both thread sets, after each use and before installing a tube. Two absolute rules ride with this: never brush the bores without tubes installed, and never fire the gun without tubes installed — a bare threaded muzzle takes damage either way.",
+   "prose": "The wrench, the notch codes and the thread oil are one system. Use the wrench for sticky tubes rather than force — the threads pay for improvisation.",
+   "quote": "Never fire your shotgun or run cleaning tools through the barrel of any choke-tubed shotgun without having the choke tubes installed.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Cleaning and Maintenance Suggestions — CLEANING THE INVECTOR-PLUS™ CHOKE TUBE SYSTEM, rule 4",
+   "warn": "Never fire, and never clean, with the choke tubes out of the muzzles."
+  },
+  {
+   "phase": "Clean",
+   "title": "Special models: trigger shoe and adjustable stock have their own procedures",
+   "action": "Check whether your 101 carries the target-model fittings before assuming this guide covered everything. Some 101s have a trigger shoe system — length of pull adjusts by loosening a set screw with the included 1.5mm hex wrench and sliding the shoe between index dots, retightened snugly and checked as part of regular maintenance. Some have an adjustable stock for cast and drop, set by 3mm hex screws under the removable cheekpiece. Both procedures live in this manual; both start with an open, verified-empty gun.",
+   "prose": "These are fit adjustments, not gunsmithing — but a trigger shoe whose set screw backs out mid-round is why checking its tightness is listed as maintenance.",
+   "caution": "Target-model fittings? Their adjustment procedures are in the manual — and the trigger shoe screw gets checked at every cleaning.",
+   "quote": "Some shotguns are fitted with a special trigger shoe system that allows you to make small adjustments to the length of pull.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Changing Length of Pull (Special Models)"
+  },
+  {
+   "phase": "Clean",
+   "title": "The top lever off-center is fitting, not wear — and let it snap",
+   "action": "Two top-lever facts save unnecessary worry. When closing, let the lever snap home on its own spring — do not ride it with your thumb, which can leave the mechanism short of full lock. And a lever resting slightly right of center on a closed gun is correct: the design holds reserve travel so the locking surfaces can wear for decades and still come tight. A lever drifting toward center over years is the gun using that reserve as designed.",
+   "prose": "Break-gun lore gets this backwards constantly. Right of center is the healthy reading on a tight gun, not a defect.",
+   "caution": "A top lever slightly right of center on a closed gun is correct fitting.",
+   "quote": "Upon closing the action, let the top lever snap into position to allow the top lever spring to return the top lever mechanism to the locked position. Do not retard its action with your thumb.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Top Lever"
+  },
+  {
+   "phase": "Clean",
+   "title": "Oil-finish stocks — alcohol wipe, then a linseed-based finish",
+   "action": "If your 101 wears an oil-finished stock, revive spotted or dulled areas with rubbing alcohol on a soft lint-free cloth, let it dry, then apply a small amount of a linseed-oil-based finish with a fresh cloth per that product's instructions. Work the checkering with a soft brush so the finish distributes instead of pooling. Keep bore solvents off the wood entirely.",
+   "prose": "Oil finish is repairable in a way lacquer never is — that is its point. Small area, small amount, and the stock stays honest for another season.",
+   "quote": "To treat the checkering, a small amount of oil-based finish can be applied and then distributed evenly using a toothbrush or other soft bristled brush.",
+   "cite": "Model 101 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 20-WRA-322 — Maintenance of Oil Finish Stocks"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORES & CHAMBERS",
+   "tasks": [
+    "Barrels off — bores clean from the breech end, choke tubes INSTALLED",
+    "Snug rod and lightly oiled patch, several passes per bore",
+    "Inspect both ends for leading and plastic-wad streaks; brass brush with powder solvent when excessive, pushed fully through",
+    "Dry patch, then a final lightly oiled patch, per bore",
+    "Chambers wiped promptly after plastic shells — never store fired hulls chambered",
+    "Confirm no patch remains in either barrel"
+   ]
+  },
+  {
+   "name": "CHOKE TUBES & THREADS",
+   "tasks": [
+    "Tubes out with the wrench; nylon-brush the tube, tube threads and barrel threads",
+    "Thin film of oil on both thread sets before reinstalling — seizure is the alternative",
+    "Finger-tight, then firmly seated with the wrench; re-check seating periodically",
+    "Invector-Plus only — Standard Invector and WinChoke do not interchange",
+    "Never fire or clean with tubes removed"
+   ]
+  },
+  {
+   "name": "HINGE & ACTION",
+   "tasks": [
+    "Breech faces spotless and lightly lubricated — debris here stops full closure",
+    "GREASE (not oil) on trunnion surfaces, barrel lug and forearm bracket — always a film",
+    "Wipe receiver metal clean; no oil poured into the action, the stock wood is behind it",
+    "Let the top lever snap closed on its own spring"
+   ]
+  },
+  {
+   "name": "EXTERIOR & STOCK",
+   "tasks": [
+    "All exposed metal wiped with an oiled cloth; every fingerprint removed",
+    "Re-oil after weather or handling",
+    "Oil-finish stocks: alcohol wipe then linseed-based finish; checkering worked with a soft brush",
+    "Special models: confirm the trigger shoe set screw is tight"
+   ]
+  }
+ ],
+ "reassembly": [
+  "If the forearm was parked on the barrels for storage, take it off again first: hold the barrels, pull the release latch out, ease the forearm away.",
+  "Hold the barrels muzzles-down at an angle to the receiver, push the top lever to the right, and engage the receiver trunnions with the curved trunnion surfaces on the monoblock beside the bottom barrel.",
+  "With the monoblock seated on the trunnions, lift the barrels to close the action — thumb holding the top lever right until closed, then release and let it snap to lock. If closing resists, separate and re-seat rather than forcing; forcing mars the fit.",
+  "Fit the forearm: slide its radiused rear extension into the radiused front edge of the receiver, match the shapes, and lift the front until it clicks onto the barrels. No click — a gentle palm slap just above the latch, and push a protruding latch flush without forcing.",
+  "Confirm the safety/selector is on safe with the S exposed, and fully committed to U or O.",
+  "Wipe all exposed metal to lift the fingerprints of reassembly."
+ ],
+ "fncheck": "With both chambers verified empty, close the action and confirm there is no gap between the barrel faces and the receiver face, and that the top lever has snapped to its rest — at or slightly right of center. Push the top lever gently left as the maker's own lockup check. Open and close the action twice more, confirming the ejectors ride correctly and the hinge runs on its grease without grating. Confirm the forearm latch sits flush and the forearm is solid against the barrels. Check the safety/selector: S exposed must disconnect the trigger; the selector must move between U and O only while on safe, and must sit fully to one side. Confirm both choke tubes are installed and seated with the wrench. Look through both bores against light — clear, no patch left behind. Leave the action closed, chambers empty, safety on safe."
+}

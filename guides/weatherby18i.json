@@ -1,0 +1,107 @@
+{
+ "row": "weatherby18i",
+ "make": "Weatherby",
+ "model": "18i / SORIX",
+ "sourcedFrom": "18i™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — 18i Semi-Auto Shotgun owner's manual (not printed)",
+ "sourceSha256": "c65724590bad3b35077705e711be483207de5c5de5284a472af5631c409ced6b",
+ "cleanIntro": "An 18i comes apart standing on its own recoil pad — Weatherby recommends it, and on a gun this long it is genuinely easier than wrestling it flat. Bolt OPEN, magazine cap off, then barrel and forend slide forward together. The trigger group comes out on one pin, and it must come out with the hammer cocked.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, fingers out of the trigger guard — the whole time",
+   "action": "Weatherby opens the 18i's disassembly with this and it is not boilerplate: the next step is working a bolt on a gun you have not yet proven empty.",
+   "quote": "Keeping muzzle of the shotgun pointed in a safe direction, and keep your fingers out of the trigger guard and away from the trigger at all times:",
+   "cite": "18i™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — 18i Semi-Auto Shotgun owner's manual — DISASSEMBLY OF YOUR WEATHERBY 18i SEMI-AUTO SHOTGUN"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stand it on the recoil pad",
+   "action": "Set the shotgun vertically on its recoil pad and hold it by the action or grip. Weatherby recommends this specifically, and it keeps the muzzle off the bench while the barrel comes forward.",
+   "quote": "It is recommended that this operation be conducted with the shotgun setting vertically on its recoil pad while holding the action and/or grip.",
+   "cite": "18i™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — 18i Semi-Auto Shotgun owner's manual — REMOVING THE BARREL AND FOREND"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Bolt OPEN — release, shell release, slide it back",
+   "action": "Press the bolt release, push the shell release button and slide the bolt back. The bolt is OPEN for this strip — note that, because Weatherby's other autoloaders in this same catalog take the barrel off with the bolt CLOSED.",
+   "quote": "Open the bolt by pressing the bolt release, pushing the shell release button, and sliding the bolt back",
+   "cite": "18i™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — 18i Semi-Auto Shotgun owner's manual — REMOVING THE BARREL AND FOREND"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine cap counter-clockwise, off",
+   "action": "Unscrew the magazine cap counter-clockwise and take it off. Fingers only.",
+   "quote": "Unscrew the magazine cap by turning it counter clockwise and remove it",
+   "cite": "18i™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — 18i Semi-Auto Shotgun owner's manual — REMOVING THE BARREL AND FOREND"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel and forend forward TOGETHER — hold the action",
+   "action": "Grasp the gun by the action or grip area and slide the barrel and forend forward off the magazine tube as one. Holding it by the barrel instead is how the receiver ends up taking the weight through the tube.",
+   "quote": "GRASPING THE SHOTGUN BY THE ACTION OR GRIP AREA, slide the barrel and forend toward the muzzle and remove",
+   "cite": "18i™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — 18i Semi-Auto Shotgun owner's manual — REMOVING THE BARREL AND FOREND"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forend off the barrel — and a storage trick",
+   "action": "Pull the forend off the barrel. If the gun is going away without its barrel, slide the forend onto the magazine tube and put the cap back on — that is Weatherby's own suggestion and it stops the cap going missing.",
+   "quote": "Pull the forend off the barrel, slide it onto the magazine tube, and screw the magazine cap back onto the magazine if storing with the barrel removed.",
+   "cite": "18i™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — 18i Semi-Auto Shotgun owner's manual — REMOVING THE BARREL AND FOREND"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger guard pin out with a punch",
+   "action": "Push the trigger guard pin through the receiver with a punch and take the pin out, then press the bolt release and push the trigger group free.",
+   "quote": "By means of a punch or a similarly suitable tool, push the trigger guard pin through the receiver and remove the pin.",
+   "cite": "18i™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — 18i Semi-Auto Shotgun owner's manual — REMOVING THE TRIGGER GROUP"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Push the BOLT RELEASE while the trigger group comes forward",
+   "action": "Push the bolt release and push the trigger group forward to remove it. Forcing the trigger guard out WITHOUT holding the bolt release is the one way to damage this gun during a routine strip, and Weatherby says so in as many words.",
+   "quote": "Be careful not to force removal of the trigger guard without pushing the bolt release, this may damage the gun.",
+   "cite": "18i™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — 18i Semi-Auto Shotgun owner's manual — REMOVING THE TRIGGER GROUP"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out — handle straight out, bolt out the front",
+   "action": "With the barrel off, pull the bolt handle straight out of the RIGHT side of the bolt, then draw the bolt out of the FRONT of the receiver. Weatherby notes the bolt should come out for cleaning and lubricating only.",
+   "aside": "The bolt assembly should be removed for cleaning and lubricating only.",
+   "quote": "Remove the bolt handle by pulling it straight out from the right side of the bolt.",
+   "cite": "18i™ SEMI-AUTOMATIC SHOTGUN — Weatherby owner's manual — 18i Semi-Auto Shotgun owner's manual — REMOVING THE BOLT ASSEMBLY"
+  }
+ ],
+ "deepAbsentReason": "Weatherby publishes barrel, forend and trigger group and stops there. ⛔ No deeper path is invented for it.",
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER AND CHOKES",
+   "tasks": [
+    "Solvent and brush through bore and chamber, patches until clean",
+    "A final lightly oiled patch as a protective film",
+    "Chokes out, threads and seats cleaned before they go back",
+    "⛔ Nothing left in the bore — a patch is an obstruction"
+   ],
+   "quote": "The bolt assembly should be removed for cleaning and lubricating only.",
+   "src": "18i owner's manual, REMOVING THE BOLT ASSEMBLY"
+  },
+  {
+   "name": "BOLT AND RECEIVER",
+   "tasks": [
+    "Bolt face, extractor and the locking surfaces",
+    "Inside the receiver where the bolt rides",
+    "Light oil, wiped back",
+    "⛔ Do not take the bolt assembly itself apart — see the prohibition"
+   ],
+   "quote": "Pull the bolt out of the front of the receiver.",
+   "src": "18i owner's manual, REMOVING THE BOLT ASSEMBLY"
+  }
+ ],
+ "reassembly": [
+  "Safety ON, hammer cocked, trigger group back into the receiver.",
+  "Trigger guard pin through and flush.",
+  "Forend onto the barrel, barrel and forend back onto the magazine tube together.",
+  "Magazine cap on clockwise, finger tight.",
+  "Cycle the bolt several times, then function test."
+ ],
+ "fncheck": "Prove it empty at chamber and magazine tube. Cycle the bolt several times — it should lock open and release cleanly. Safety ON, pull the trigger: nothing. Safety off, finger clear: nothing on its own; then the trigger drops the hammer. ⛔ Check the magazine cap is fully seated: on an inertia gun a loose cap changes how the whole action is held together."
+}

@@ -1,0 +1,175 @@
+{
+ "row": "cfsup",
+ "make": "Dead Air",
+ "model": "Sandman-S",
+ "sourcedFrom": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "a0dafbccf2b0ece53f021d42e0c5afea25e967342f7c303f9bb50916a3196f8e",
+ "cleanIntro": "The Sandman-S is a welded 7.62 can that lives on a key-mount brake. Dead Air's own position is that routine maintenance means threads and the outside of the tube — the locking collar comes apart only when something is wrong. Every limit below is quoted from the Sandman series manual, and where that manual splits a rule between the S, the L and the Ti, the split is kept.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host, and read its manual too",
+   "action": "Drop the magazine, lock the action open and physically look and feel into the chamber before the suppressor is touched. Then open the host firearm's own manual — the Sandman manual does not tell you how to unload your rifle, it tells you to go and read the book that does.",
+   "prose": "A suppressor guide can only speak for the can. Clearing procedure belongs to the host, and Dead Air says so in as many words.",
+   "quote": "CHECK YOUR WEAPON'S CHAMBER AND MAKE CERTAIN THAT THE WEAPON IS UNLOADED AND THE MAGAZINE REMOVED BEFORE PROCEEDING ANY FURTHER. IF THERE IS ANY QUESTION OR DOUBT, CONSULT THE OPERATOR'S MANUAL APPLICABLE TO YOUR FIREARM AS TO THE PROPER PROCEDURE FOR CLEARING AND/OR UNLOADING YOUR WEAPON. DO NOT INSTALL YOUR NEW SUPPRESSOR ON A FIREARM WITH A CLOSED ACTION!",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Installation, p.5",
+   "warn": "Never fit or remove this suppressor on a firearm with a closed action."
+  },
+  {
+   "phase": "Clear",
+   "title": "Confirm the host is inside the 7.62 Sandman's rating",
+   "action": "Before anything comes apart, confirm what this can is allowed to eat. The 7.62 Sandman is capped at .300 Win Mag pressure and at a .30 bore — a .338, a .375 or anything hotter is outside the rating, and using it there voids the warranty as well as risking the can.",
+   "prose": "Read the engraving on the tube and the packaging first: the manual makes those the overriding statement of what your particular unit is rated for.",
+   "quote": "OUR PRODUCTS ARE CALIBER SPECIFIC. UNLESS STATED OTHERWISE ON THE SUPPRESSOR ITSELF OR ON THE PACKAGING, THE 7.62 SUPPRESSOR WILL NOT FUNCTION SAFELY WITH ANY CARTRIDGE PRODUCING PRESSURES HIGHER THAN A .300 WIN-MAG. THIS PRODUCT CANNOT BE USED WITH ANY CALIBER GREATER THAN A .30 BORE DIAMETER. USE OF YOUR SUPPRESSOR OUTSIDE OF ITS INTENDED SCOPE COULD RESULT IN DAMAGE TO YOUR FIREARM, DAMAGE TO PROPERTY, BODILY INJURY, AND/OR DEATH AND WOULD VOID THE WARRANTY.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Installation, p.7",
+   "warn": "Caliber ceiling: .300 Win Mag pressure, .30 bore. Nothing larger."
+  },
+  {
+   "phase": "Clear",
+   "title": "Ammunition — factory-new only",
+   "action": "Check what you have been feeding it. Dead Air asks for good quality factory-new ammunition and warns that wildcat or reloaded ammunition may void the warranty, which matters here because a hot handload is exactly how a .30 can ends up outside its pressure rating without anyone noticing.",
+   "prose": "This is also the honest explanation for a can that fouls faster than expected — the ammunition drives what ends up inside it.",
+   "quote": "Ammunition:  Ammunition will have a huge influence on how your new suppressor functions. Use good quality factory-new ammunition in your firearm. Avoid using wildcat or reloaded ammunition, as doing so may void your warranty.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Product Overview — General Considerations, p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "The Sandman-S is a KEY MOUNT can",
+   "action": "Confirm what is on your muzzle. The Sandman-S does not thread onto the barrel — it locks onto a key mount muzzle brake that replaces your existing muzzle device, shimmed so the three circular ports sit at 12 o'clock. If a crush washer is under that brake, it comes out: Dead Air names it as a cause of alignment problems.",
+   "prose": "Shims, not a crush washer, are what time this brake. A crush washer lets the brake sit wherever it lands, and the can then locks up canted on the bore.",
+   "caution": "No crush washer under a key mount brake. Shims only.",
+   "quote": "B. If you purchased the Sandman-S or Sandman-L, the key mount muzzle brake (5/8-24 supplied) is threaded onto the muzzle in place of your existing muzzle device (Illustration #1).  Make certain that you utilize the included shims to align the 3 circular ports at the 12 o’clock position. Do not use a crush washer with your new suppressor as it may cause alignment issues.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Installation, Step One, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Direct thread is the Sandman Ti's rule, not the S's",
+   "action": "Do not carry the Ti's mounting instruction across to this can. The manual covers three models, and only the Sandman Ti threads straight onto a 5/8-24 barrel; the S and the L go on a key mount and nothing else. If you are looking at a Sandman-S trying to thread it onto bare barrel threads, you have the wrong procedure.",
+   "prose": "Same book, three products, three mounting rules. The one that applies to you is the one printed against your model's name.",
+   "aside": "Quoted here to be ruled OUT for the Sandman-S — it is the Titanium model's mounting rule.",
+   "quote": "A. If you purchased the Sandman Ti, the suppressor will only thread directly onto barrels with existing 5/8-24 threads.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Installation, Step One, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Full-auto rating — S and L only",
+   "action": "Know where your can sits before a belt or a sub-gun goes behind it. Dead Air rates the S and the L for full-auto use and stops there; the Ti is deliberately not named in that sentence. Your Sandman-S is inside the rating, but do not lend the rating to a Ti.",
+   "prose": "The rated span is .223 Remington through .300 Win Mag, with a service life the manual puts beyond 100,000 rounds under reasonable care.",
+   "quote": "The series is rated for use in everything from a .223 Remington to a .300 Win Mag. The “S” “and “L” Sandman models are rated for full-auto use. With reasonable care, the service life of the suppressors should exceed 100,000 rounds.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Product Overview, p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the can off the key mount",
+   "action": "With the host clear and the can cool enough to hold, turn the tube counter-clockwise until it releases off the key mount brake. It only indexes one way — the lugs on the locking collar are unevenly spaced — so if it will not start, back it off and re-align the locating lug rather than forcing it.",
+   "prose": "Going on, it is a half to three-quarter turn clockwise with the dot-marked lug lined up on the ports. Coming off is the same arc in reverse.",
+   "quote": "To remove the suppressor, turn the tube counter-clockwise until the suppressor disconnects (Illustration #4). The suppressor can only go on one way and come off one way as the tabs or lugs on the locking collar are not spaced equidistantly apart.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Installation, Step Four, p.7",
+   "warn": "A hot can burns. Use gloves or let it cool before removal."
+  },
+  {
+   "phase": "Strip",
+   "title": "Do not open it just because you can",
+   "action": "Stop here unless something is actually wrong. Dead Air's position is that opening a Sandman for its own sake costs performance, invites baffle strikes and loses parts — it was assembled to a set of factory settings, and random disassembly can void the express warranty.",
+   "prose": "The routine job on this can is threads and the outside of the tube. That is the whole of normal maintenance.",
+   "quote": "Disassembly of your suppressor is not generally required or recommended. Taking your suppressor apart for its own sake may result in compromised performance, baffle strikes, and/or lost parts.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Disassembly & Cleaning, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "No long solvent soak on a Cerakoted Sandman",
+   "action": "Wipe the outside down with a good quality gun oil and keep the key mount threads clean; that is the routine. Do not park the can in a solvent bath — the Cerakote exterior can be harmed by a long soak, and Dead Air states a centrefire rifle can does not need one anyway.",
+   "prose": "Test any solvent on a small area first. The finish is durable, not immune.",
+   "caution": "Extended solvent soaks are ruled out on this model.",
+   "quote": "Soaking the suppressor in any solvent for an extended period my harm the Cerakote finish of your suppressor and is unnecessary as center fire rifle suppressors do not require such cleaning procedures.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Disassembly & Cleaning, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Never run a patch through the bore path",
+   "action": "Resist the instinct to pull a patch through the can the way you would a barrel. A patch can lodge inside a Sandman where you cannot reach it, and from then on it is sitting in the bullet path.",
+   "prose": "Clean the threads, the brake and the exterior. The inside of a centrefire rifle can is not a patch job.",
+   "quote": "Do not run cleaning patches through the suppressor as they may become lodged in the suppressor, thus affecting performance.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Disassembly & Cleaning, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Locking collar — an S and L feature only, and only for debris",
+   "action": "Identify the locking collar at the rear of your Sandman-S before you consider going further. The S and the L are the two models that have one: a collar threaded onto the body and held under tension by a wave spring. The Sandman Ti has no such collar and no such procedure. Dead Air's stated reason to open it is debris lodged in the threads or inside the can — nothing else.",
+   "prose": "Expect spring tension the moment the collar frees. Anything you do here happens over a tray, so the wave spring does not walk off the bench.",
+   "caution": "Model-specific: locking-collar disassembly exists on the S and the L, not on the Ti.",
+   "quote": "In the rare event that disassembly is necessary (debris lodged in the threads or inside the suppressor itself), both the Sandman “L” and “S” feature locking collars that are threaded onto the body of the suppressor and held under tension with a wave spring.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Disassembly & Cleaning, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The Sandman-S is off the host and the key mount brake is exposed on the muzzle. That is as far as routine service goes: threads cleaned, brake inspected and timed at 12 o'clock, tube wiped down. Deep Clean walks the locking-collar disassembly itself and the front cap rule that goes with it.",
+   "prose": "Nothing inside the tube has been touched, and on this model that is the correct outcome rather than an omission.",
+   "quote": "Typically there is very little maintenance needed with respect to your suppressor other than to keep the threads clean and to wipe down the outside with good quality gun oil.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Disassembly & Cleaning, p.9",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Free the collar",
+   "action": "Pull the locking ring forward towards the front end cap, holding it against the wave spring, then turn the locking collar counter-clockwise until the stop tabs on the collar and the ring pass one another. The tell is that the collar suddenly turns freely instead of stopping against a tab.",
+   "prose": "It is a two-handed job: the ring stays pulled forward the whole time the collar is turning.",
+   "quote": "To disassemble, simply pull the locking ring towards the front end cap so that the locking collar can be turned counter clockwise so that the stop tabs / lugs on the locking collar and locking ring clear one another.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Disassembly & Cleaning, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "The front cap stays on unless it is damaged",
+   "action": "Leave the front cap alone. Dead Air permits its removal but instructs you not to remove it unless the cap has been damaged by a drop or a baffle strike — and if you do take it off, it unscrews counter-clockwise and goes back on with real care about cross-threading.",
+   "prose": "A cross-threaded front cap on a Sandman is not a cosmetic problem: it pulls the cap off concentric and can damage the cap, the body, or both.",
+   "quote": "The front cap of your suppressor can be removed. Unless you have damaged the front cap by either dropping the suppressor or suffering a baffle strike DO NOT REMOVE THE CAP.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Disassembly & Cleaning, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Index the collar fully before it goes back on a host",
+   "action": "Turning the collar back on is not a quarter turn — run it clockwise through several full rotations to its furthest clockwise point, past the locking ring tab. If it is not completely indexed the can will not engage the key mount as designed, and you will find that out on the muzzle rather than on the bench.",
+   "prose": "Confirm it by mounting the can on the brake by hand and feeling it lock at a half to three-quarter turn. Anything looser than that means the collar is not home.",
+   "quote": "To reassemble, make sure to turn the collar clockwise fully into its furthest clockwise rotation point past the locking ring tab. You will have to make several full rotations. If the locking collar is not completely and fully indexed it will not engage on the key mount as designed.",
+   "cite": "DEAD AIR | No Quarter | OWNER'S MANUAL — Rev121323 — Disassembly & Cleaning, p.9",
+   "warn": "An unindexed collar will not engage the key mount correctly."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "KEY MOUNT BRAKE",
+   "tasks": [
+    "Degrease the brake threads and the barrel threads before the brake goes back on",
+    "Check the three circular ports are still timed at 12 o'clock on their shims",
+    "No crush washer — the manual names it as an alignment problem",
+    "Tighten with a 3/4 inch wrench to roughly 25-35 ft/lbs; avoid pliers, which mar the finish"
+   ]
+  },
+  {
+   "name": "TUBE EXTERIOR & THREADS",
+   "tasks": [
+    "Wipe the outside down with good quality gun oil",
+    "Keep the rear threads and the locking collar interface clean and free of grit",
+    "Test any solvent on a small area first — the exterior is Cerakote",
+    "No extended solvent soak, and no cleaning patches pulled through the bore path"
+   ]
+  },
+  {
+   "name": "SAFETY WHILE CLEANING",
+   "tasks": [
+    "Wash hands and exposed skin afterwards — solvents and lead are the exposure here",
+    "Let the can reach ambient temperature before handling it bare-handed"
+   ]
+  }
+ ],
+ "reassembly": [
+  "If the locking collar was removed, run it fully clockwise past the locking ring tab through several rotations until it is completely indexed.",
+  "If the front cap was removed, start it by hand and turn it clockwise slowly — cross-threading it can damage the cap, the body, or both.",
+  "Degrease and refit the key mount brake to the muzzle, shimmed so the three ports sit at 12 o'clock, at roughly 25-35 ft/lbs with a 3/4 inch wrench.",
+  "Slide the can's back cap over the key mount with the dot-marked locating lug on the ports and turn clockwise a half to three-quarter turn until it locks."
+ ],
+ "fncheck": "With the can locked onto the brake, sight down the bore path against the light and confirm it is straight and centred, then check by eye that the shoulders of the suppressor sit square to the muzzle and the body is not canted. Any cant, or any doubt about concentricity, means it does not get fired."
+}

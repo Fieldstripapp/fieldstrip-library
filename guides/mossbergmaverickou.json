@@ -1,0 +1,86 @@
+{
+ "row": "mossbergmaverickou",
+ "make": "Mossberg",
+ "model": "Maverick Over/Under",
+ "sourcedFrom": "OVER/UNDER BREAK ACTION SHOTGUN — Maverick owner's manual — Part No. 19320 (not printed)",
+ "sourceSha256": "3cfb8a5833f38534569a46db698c92cb87982e15bb9b2d6d8c6fc42803a058df",
+ "cleanIntro": "A Maverick over/under strips in two movements and its extractors only LIFT the shells — nothing is thrown clear — so both chambers get checked by hand every time. The forearm latch is on the underside and is LIFTED, and the barrels come off their hinge pins at about 45 degrees.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety fully rearward to ON",
+   "action": "Push the tang safety fully back before anything else and keep the muzzle somewhere harmless.",
+   "quote": "Move the safety button fully rearward to the “ON” (SAFE) position",
+   "cite": "OVER/UNDER BREAK ACTION SHOTGUN — Maverick owner's manual — Part No. 19320 — UNLOADING"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Open it — the extractor LIFTS the shells, it does not throw them",
+   "action": "Open the gun and watch: the extractor positions live or spent cartridges for removal BY HAND. Nothing flies out. An owner used to an ejector gun reads 'no shells came out' as 'it was empty', and on this gun that is exactly wrong.",
+   "quote": "The extractor will position live or spent cartridges for removal by hand.",
+   "cite": "OVER/UNDER BREAK ACTION SHOTGUN — Maverick owner's manual — Part No. 19320 — UNLOADING"
+  },
+  {
+   "phase": "Clear",
+   "title": "Both chambers, by eye and by finger",
+   "action": "Check both. On a stacked barrel the lower chamber is the one people glance past.",
+   "quote": "Visually and physically check both chambers to be certain the firearm is unloaded.",
+   "cite": "OVER/UNDER BREAK ACTION SHOTGUN — Maverick owner's manual — Part No. 19320 — UNLOADING"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forearm off — LIFT the latch on the underside",
+   "action": "Find the forearm latch on the underside of the forearm, lift it, and pull the forearm away from the barrel assembly.",
+   "quote": "Locate the forearm latch on the underside of the forearm. Lifting the forearm latch and pulling the forearm away from the barrel assembly will allow you to remove the forearm.",
+   "cite": "OVER/UNDER BREAK ACTION SHOTGUN — Maverick owner's manual — Part No. 19320 — ASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Top lever hard right, barrels off the hinge pins",
+   "action": "Move the top lever right until it stops and stays there, then lift the barrels off the receiver's round hinge pins — the reverse of mating the half-round cuts in the barrel lug at about 45 degrees.",
+   "quote": "With the barrel assembly held approximately 45 degrees to the stock/receiver assembly, mate the round cuts of the barrel assembly to pivot on the round receiver hinge pins.",
+   "cite": "OVER/UNDER BREAK ACTION SHOTGUN — Maverick owner's manual — Part No. 19320 — ASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — three pieces",
+   "action": "Barrels, forearm, stock and receiver. Nothing else comes apart for cleaning, and the book puts the responsibility for correct reassembly squarely on the owner.",
+   "quote": "The firearmʼs owner must accept full responsibility for the correct reassembly and functioning of the firearm after any disassembly or replacement of parts.",
+   "cite": "OVER/UNDER BREAK ACTION SHOTGUN — Maverick owner's manual — Part No. 19320 — front matter"
+  }
+ ],
+ "deepAbsentReason": "This book publishes no procedure past barrels-off and assigns correct reassembly to the owner with everything deeper to a gunsmith. ⛔ No deeper path is invented.",
+ "cleaning": [
+  {
+   "name": "BOTH BORES AND BOTH CHAMBERS",
+   "tasks": [
+    "Solvent and brush through each barrel separately",
+    "Patches until clean, then one lightly oiled patch",
+    "⛔ Leave nothing in either bore — a patch is an obstruction",
+    "Wipe the standing breech and the extractor seats"
+   ],
+   "quote": "All metal parts should be cleaned with an appropriate gun cleaning solvent and lightly lubricated with gun oil.",
+   "src": "OVER/UNDER BREAK ACTION SHOTGUN — Maverick owner's manual, CLEANING AND LUBRICATION"
+  },
+  {
+   "name": "LIGHTLY, AND THE RIGHT LUBRICANT",
+   "tasks": [
+    "Over-lubrication avoided — it creeps into the stock head",
+    "Firearm-specific lubricants only",
+    "A trace of grease on the hinge pins and the barrel lug cuts",
+    "No abrasives anywhere near the finish"
+   ],
+   "quote": "Over lubrication should be avoided.",
+   "src": "OVER/UNDER BREAK ACTION SHOTGUN — Maverick owner's manual, CLEANING AND LUBRICATION"
+  }
+ ],
+ "reassembly": [
+  "Safety ON. Both bores checked clear of patches and oil.",
+  "Top lever moved right until it stops and stays.",
+  "Barrels at about 45 degrees, half-round cuts onto the receiver hinge pins.",
+  "Swing the barrels up firmly without forcing; the top lever snaps to centre.",
+  "Forearm plate to the receiver, forearm up against the barrels, latch down.",
+  "Open and close a few times, then function test."
+ ],
+ "fncheck": "Both chambers proven empty by eye and finger. Open and close several times — the barrels should swing freely and the top lever should return to centre each time. Closed and on SAFE, pull the trigger: no fall. Safety off, finger clear: no fall on its own; then the trigger drops it. ⛔ If the top lever does not return toward centre on closing, the gun is not locked up and must not be fired."
+}

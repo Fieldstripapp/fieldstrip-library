@@ -1,0 +1,95 @@
+{
+ "row": "rugersuperwrangler",
+ "make": "Ruger",
+ "model": "Super Wrangler",
+ "sourcedFrom": "Ruger Wrangler and Super Wrangler Instruction Manual — PM428 (2026)",
+ "sourceSha256": "d1e198e079bd45ba55a84e504511ec54e97e837b6ae832ba6593dbeee93608a7",
+ "cleanIntro": "A single-action strip: gate open, base pin out, cylinder out. Ruger documents a further teardown too, which is on the Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Gate open, check every chamber",
+   "action": "Point the revolver in a safe direction, open the loading gate — this lowers the cylinder latch into the frame — and rotate the cylinder, examining every chamber a few times. Leave the loading gate open.",
+   "prose": "Leaving the gate open is not optional housekeeping; it is what keeps the latch down for the next step.",
+   "quote": "Examine every chamber in the cylinder a few times to be certain the revolver is unloaded. Leave the loading gate open.",
+   "cite": "Ruger Wrangler and Super Wrangler Instruction Manual — PM428 — Disassembly, step 1, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Withdraw the base pin",
+   "action": "Press in fully on the left side of the base pin latch and, holding it in, pull the base pin forward in line with the barrel until it comes out.",
+   "prose": "Fully in, and pull straight along the barrel — angling it binds the pin in its bore.",
+   "quote": "Press in fully on the left side of the base pin latch, and, while holding it in that position, withdraw the base pin by pulling it forward, in line with the barrel, until it is removed.",
+   "cite": "Ruger Wrangler and Super Wrangler Instruction Manual — PM428 — Disassembly, step 2, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cylinder out through the gate",
+   "action": "Remove the cylinder from the loading gate side of the frame.",
+   "prose": "It comes out the right-hand side, where the gate is standing open.",
+   "quote": "Remove the cylinder from the loading gate side of the frame. This is as far as you need to go for routine cleaning.",
+   "cite": "Ruger Wrangler and Super Wrangler Instruction Manual — PM428 — Disassembly, step 3, p.20",
+   "warn": "Never remove, replace, or carry a loaded cylinder that is not installed in a revolver. The cartridges can fire if their primers are struck.",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Ruger allows going further — carefully",
+   "action": "Past the strip above, the manual documents the ejector assembly and the base pin latch, with its own cautions.",
+   "prose": "Read this as permission with conditions, not as an invitation.",
+   "quote": "The revolver is disassembled as far as it needs to be for major cleaning and maintenance.",
+   "cite": "Ruger Wrangler and Super Wrangler Instruction Manual — PM428 — Disassembly, beyond routine, p.20"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Ejector housing off",
+   "action": "Wrap one hand firmly around the barrel and housing, back the ejector housing screw out counter-clockwise, then lift the housing away from the barrel.",
+   "prose": "That housing holds a compressed spring and the ejector rod — your hand around it is what stops it leaving on its own.",
+   "caution": "Spring under tension. Keep it pointed away from your face.",
+   "quote": "Wrap one hand firmly around the barrel and housing when loosening the ejector housing screw.",
+   "cite": "Ruger Wrangler and Super Wrangler Instruction Manual — PM428 — Disassembly, Ejector Assembly/Ejector Housing, p.20"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Re-glue that screw on the way back",
+   "action": "The ejector housing screw is installed with thread-locking adhesive. If you removed it, reapply a non-permanent thread locker.",
+   "prose": "Skip this and the screw walks out under recoil.",
+   "quote": "The ejector housing screw is installed with a thread-locking adhesive. If the screw is removed it is recommended that a non-permanent thread-locking adhesive be reapplied to the screw.",
+   "cite": "Ruger Wrangler and Super Wrangler Instruction Manual — PM428 — Disassembly, Ejector Assembly/Ejector Housing, p.20"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Base pin latch, if you must",
+   "action": "Hold the nut firmly with jaw-protected pliers while unscrewing the latch, and do not lose the spring. On reassembly the nut and spring go on the LEFT side of the frame.",
+   "prose": "Jaw-protected, because bare steel pliers mark the nut and the frame behind it.",
+   "quote": "The nut must be held firmly (with jawprotected pliers) while the latch is being unscrewed. Do not lose the spring.",
+   "cite": "Ruger Wrangler and Super Wrangler Instruction Manual — PM428 — Disassembly, Base Pin Latch/Nut and Spring, p.20"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBERS",
+   "tasks": [
+    "Clean the barrel from the muzzle with a solvent-coated patch, then a correctly sized bronze brush, then dry patches until clean",
+    "Clean each chamber of the cylinder the same way",
+    "Check the bore is clear of fouling before it goes back together"
+   ]
+  },
+  {
+   "name": "CYLINDER & FRAME",
+   "tasks": [
+    "With the cylinder out, wipe the base pin and its bore clean and dry",
+    "Clean the frame window and the recoil shield face",
+    "Light oil only — do not flood the action"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the cylinder through the loading gate side of the frame.",
+  "Slide the base pin back in, in line with the barrel, until the latch snaps over it.",
+  "Close the loading gate and confirm the cylinder rotates and indexes."
+ ],
+ "fncheck": "With the revolver confirmed empty, check that the cylinder indexes and the base pin is fully latched before handling."
+}

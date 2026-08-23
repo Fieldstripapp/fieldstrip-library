@@ -1,0 +1,180 @@
+{
+ "row": "waltherp22",
+ "make": "Walther",
+ "model": "P22",
+ "sourcedFrom": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 (UNKNOWN — no copyright line printed)",
+ "sourceSha256": "e1ae93a5281bb885b706a89eb5c54389dd5bc5bef306b51fa4f58afc8bb7e27e",
+ "cleanIntro": "The P22 is a blowback .22 L.R. with a hammer, a manual safety, a magazine safety and a ten-round magazine. Two things separate it from a centrefire pistol at the bench: it is a rimfire, so it fouls hard and wants cleaning often, and it has a MAGAZINE SAFETY — with no magazine in it, it will not fire, which changes what a clearing check means. It also comes with interchangeable 87 mm and 127 mm barrels, and the long one carries a stabilizer that has to come off before the slide will.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Note which barrel is fitted before anything else",
+   "action": "Check the barrel length. This pistol takes an 87 mm (3.4\") or a 127 mm (5\") barrel, and the 5\" configuration carries a stabilizer around the barrel. Note also that the sights differ: the front sight on a stabilizer gun is replaced by a plug.",
+   "prose": "This decides whether the strip has three steps or four. A standard P22 comes apart with the takedown lever alone; a 5\" gun has a stabilizer sitting over the barrel that physically blocks the slide, and no amount of pulling on the takedown lever will change that. The manual's own technical data prints both configurations side by side — 160/114/28 mm and 480 g standard, 200/114/28 mm and 575 g with the long barrel. Look at the gun, not the box it came in, because both barrels are sold as accessories and either may be fitted.",
+   "aside": "Technical data gives the P22 as .22 l.r., blowback, DA/SA, ten rounds, with roughly 2.2 kg single-action and 5.6 kg double-action trigger weights.",
+   "quote": "A 5 inch or 3.4 inch barrel is available as an accessory.",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 10 Interchangeable barrel, printed p.13 (PDF p.13)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety to SAFE — lever DOWN — then the magazine out",
+   "action": "Point the muzzle in a safe direction. Rotate the safety lever to the lower position, which is SAFE. Then press the magazine release and remove the magazine.",
+   "prose": "On the P22 the safety lever rotates DOWN for safe and UP for fire, which is the opposite convention to several common pistols and catches people who own both. Set it first, before your hand goes anywhere near the slide. The magazine has a side-mounted button that presses the follower down for loading, and the same magazine carries the pistol's magazine safety interlock — so pulling it changes how the gun behaves, which the next step depends on. Empty it by pushing the cartridges forward out of the lips one at a time.",
+   "quote": "Point the muzzle in a safe direction. Place the manual safety in the safe position. Remove the magazine. Ensure that the chamber is empty by pulling back on the slide to visually inspect the chamber (fig. 9).",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 7 Unloading the pistol, printed p.11 (PDF p.11)",
+   "warn": "The safety lever is DOWN for safe, UP for fire. Confirm which position yours is in rather than assuming."
+  },
+  {
+   "phase": "Clear",
+   "title": "The magazine safety is not a clearing check",
+   "action": "Understand what the magazine safety does and does not do. With the magazine removed, the pistol will not fire a cartridge that is in the chamber — but there may still be a cartridge in the chamber. Pull the slide back and look.",
+   "prose": "This is the single most misunderstood feature on a P22. Walther's wording is precise: without the magazine inserted, the magazine safety prevents the pistol firing a live cartridge in the chamber. It stops the gun firing; it does not empty it. A P22 with the magazine out and a round still chambered is a loaded gun that has been temporarily disabled, and putting the magazine back in re-enables it instantly. The manual's own warning is to always inspect the chamber after the magazine has been removed. Look, and put a finger in if the light is poor.",
+   "quote": "Without the magazine inserted, the magazine safety of the P 22 prevents firing a live cartridge in the chamber.",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 1.5 Magazine safety, printed p.6 (PDF p.6)",
+   "warn": "Always inspect the chamber of your pistol after the magazine has been removed. Make sure that no cartridge is left in the chamber after the safety has been engaged."
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber empty, barrel clear — a rimfire earns this twice",
+   "action": "With the slide held back, confirm the chamber is empty by eye. Then make a visual inspection down the barrel and confirm it is clear of any obstruction.",
+   "prose": "A small slot in the upper part of the slide shows whether a cartridge has been loaded, and it is worth a glance — but it is a mechanical indicator and Walther's line is never to rely solely on mechanical safeties. The bore check is more important on a .22 than on a centrefire because a squib in a rimfire is quiet, and a bullet lodged in an 87 mm barrel is easy to miss and catastrophic on the next shot. Look through from the breech with the slide held back. A .22 also fouls with waxy lubricant that builds into a visible ring at the chamber mouth, so this is your first look at how much work the bore needs.",
+   "quote": "MAKE A VISUAL INSPECTION OF THE BARREL - IT MUST BE CLEAR!",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 7 Unloading the pistol, warning, printed p.11 (PDF p.11)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lower the hammer with your thumb on it",
+   "action": "Muzzle in a safe direction, safety engaged, chamber confirmed empty. Hold the hammer securely with your thumb, lightly pull the trigger, and lower the hammer slowly forward.",
+   "prose": "This is a manual decock on an exposed hammer, so your thumb is the whole safety margin — get a firm hold before the trigger moves and bring it down in one motion. Do it with the magazine reinserted if the trigger will not release, because the magazine safety blocks the trigger with the magazine out; that is exactly what it is for, and it is why the decocking instruction in this book has you insert the empty magazine first during the function check. If you have reinserted a magazine to decock, take it straight back out afterwards and re-verify the chamber.",
+   "caution": "Keep the pistol pointing in a safe direction while decocking so that no one is endangered.",
+   "quote": "Hold the hammer securely with your thumb, lightly pull the trigger and lower the hammer slowly forward.",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 7 Unloading the pistol, printed p.11 (PDF p.11)"
+  },
+  {
+   "phase": "Strip",
+   "title": "5-inch guns: the stabilizer comes off FIRST",
+   "action": "If this is a 5\" P22, remove the stabilizer before touching the takedown lever. Take out the worm screw first, then release the stabilizer screws, and lift the stabilizer off the barrel. A 3.4\" or standard gun skips this entirely.",
+   "prose": "The stabilizer clamps around the barrel and sits over the frame, so with it fitted the slide has nowhere to go and the takedown lever achieves nothing. The order matters: the worm screw locates the stabilizer and the stabilizer screws clamp it, so releasing the clamp screws first leaves the worm screw carrying the load and it will gall. Note also that on a stabilizer gun the slide's front sight has been replaced by a plug, so there is no front sight to knock off during the strip. If the stabilizer feels loose on the barrel, the cause is usually a barrel nut that was not properly tightened, not the stabilizer screws.",
+   "quote": "To disassemble the stabilizer first remove the worm screw (fig. 15 / part no. 2) then release the stabilizer screws (fig. 15/ part no. 3). Now remove the stabilizer.",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 10 Interchangeable barrel, printed p.14 (PDF p.14)",
+   "warn": "This step exists only on the 5\" configuration. On a standard P22 there is no stabilizer and you go straight to the takedown lever."
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown lever down, hammer cocked, slide up and forward",
+   "action": "Press the takedown lever down and cock the hammer. Fully retract the slide, lift its rear section clear of the frame, and push the slide forward off the receiver. Then remove the guide rod.",
+   "prose": "This is the motion that separates a P22 from a tilting-barrel pistol: the slide does not simply run off the front, it has to be lifted at the REAR first and then pushed forward. Pulling forward without lifting just returns the slide to battery, which is why people think the takedown lever has not engaged. The hammer must be cocked — a P22 with the hammer down will not release its slide, which is why the decocking step above came before this one and has to be undone here. The guide rod then lifts out. Assembly is in reverse order.",
+   "caution": "Prior to disassembly, engage the safety, remove the magazine and inspect the firearm to make sure it is unloaded.",
+   "quote": "With the 5\" version first remove the stabilizer (see page 14). Press the takedown lever down and cock the hammer (fig. 10). Fully retract the slide, lift its rear section, and push slide forward off the receiver. Remove guide rod. Assembly is in reverse order.",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 8 Disassembly and reassembly of the pistol, printed p.11 (PDF p.11)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — and this is where Walther stops",
+   "action": "Receiver, slide, guide rod, and on a 5\" gun the stabilizer. That is the whole strip. Do not take the pistol further apart.",
+   "prose": "The book says it plainly: it is not necessary to disassemble the pistol beyond what is described, and further disassembly or improper assembly loses the warranty and any manufacturer liability. That is a firmer boundary than most Walther manuals draw. Everything the cleaning routine needs is reachable now — the breech, the barrel, the magazine lips and follower, and the receiver. The only further procedures the book publishes are the backstrap change and the barrel change, both of which are configuration work rather than a deeper clean.",
+   "quote": "It is not necessary to disassemble the pistol any further than as is described in this manual. Further disassembly, improper assembly, or disregard of these instructions will lead to loss of warranty",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 8 Disassembly and reassembly of the pistol, printed p.11 (PDF p.11)",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Barrel change: safety on, magazine out, unloaded — again",
+   "action": "Before any barrel work, engage the safety, remove the magazine, and confirm the weapon is unloaded. Then push the takedown lever down, cock the hammer and remove the slide.",
+   "prose": "Walther repeats the clearing precondition at the head of the barrel-change section rather than assuming you did it during the strip, and that repetition is deliberate — barrel work is the point at which a P22 is most often picked up again after being put down, and a pistol that has been set aside has to be re-verified. The slide comes off exactly as it did for the field strip, rear lifted first. Everything past this point uses tools, so clear a space before you start rather than juggling parts.",
+   "quote": "PRIOR TO A BARREL CHANGE, ENGAGE THE SAFETY, REMOVE THE MAGAZINE, AND MAKE SURE THAT THE WEAPON IS UNLOADED.",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 10 Interchangeable barrel, warning, printed p.13 (PDF p.13)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Spanner wrench on the barrel nut, sleeve off, barrel out to the REAR",
+   "action": "Use the enclosed spanner wrench to release the barrel nut. Remove the barrel sleeve, then pull the barrel to the REAR out of the receiver.",
+   "prose": "The direction is the thing to get right: the P22's barrel comes out backwards through the receiver, not forwards out of the muzzle end, so pulling on the muzzle achieves nothing but a marked crown. The nut is a fine thread and the supplied spanner is the correct tool for it — an adjustable wrench will round it. Once the sleeve is off, note the slot in it, because that slot has to index with a notch in the receiver when it goes back and there is only one correct position. Keep the sleeve, nut and wrench together with whichever barrel is not currently fitted.",
+   "quote": "Push the takedown lever down, cock the hammer, and remove the slide. Use the enclosed spanner wrench to release the barrel nut. Remove the barrel sleeve and pull the barrel to the rear out of the receiver (fig. 12).",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 10 Interchangeable barrel, printed p.13 (PDF p.13)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Sleeve slot into the receiver notch, then the nut — hand tight plus a quarter turn",
+   "action": "Reassemble in reverse. When the barrel sleeve goes back, make certain the slot in the sleeve fits with the notch in the receiver. Then thread the barrel nut on, tighten it by hand, and use the wrench for one quarter turn more.",
+   "prose": "The slot-and-notch is what stops the barrel rotating in the receiver, and a sleeve fitted a few degrees out will still let the nut start, which is exactly how a P22 ends up shooting wide with no obvious cause. Check the index by eye before the nut goes anywhere near the thread. The torque figure is refreshingly concrete for a rimfire manual — hand tight and then a quarter turn with the wrench, no more. Over-tightening a fine thread on an alloy receiver is a repair, not a maintenance step.",
+   "quote": "When reassembling the barrel sleeve, make certain that the slot in the sleeve fits with the notch in the receiver (fig. 13). After that thread on the barrel nut. Hand tighten nut and use wrench for 1/4 turn more.",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 10 Interchangeable barrel, printed p.13 (PDF p.13)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide back on — the mounting pin is a real tool, not a suggestion",
+   "action": "Install the recoil spring. To run the slide back onto the receiver, use the mounting pin, part number 512.40.21.1.",
+   "prose": "This is the step that catches people converting between barrel lengths: the P22's slide will not simply be pushed back onto a barrel-less receiver, and the mounting pin holds the parts in register while it goes on. Improvising with a punch or a nail is how the recoil spring ends up mis-seated and the slide binds. The pin is supplied with the conversion kit and it is worth keeping with the spare barrel rather than in a drawer. Once the slide is on, the stabilizer can go back if this is a 5\" build.",
+   "quote": "Install recoil spring. For running the slide onto the receiver, use the mounting pin no. 512.40.21.1 (fig 14).",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 10 Interchangeable barrel, printed p.14 (PDF p.14)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stabilizer back on — check the barrel nut before, not after",
+   "action": "Mount the stabilizer, locating it with the worm screw and securing it with the stabilizer screws. Before you do, confirm the barrel nut is properly tightened.",
+   "prose": "The order here is the reverse of removal and the check is the important part: a loose stabilizer is almost always a symptom of a barrel nut that was not tightened, so tightening the stabilizer screws harder to cure a wobble is treating the symptom and stressing the wrong thread. Locate with the worm screw first so the stabilizer sits square, then bring the stabilizer screws up. On a 5\" build the front sight position on the slide is occupied by a plug, part 512.70.07.1, and the sighting is taken over by the stabilizer's own arrangement.",
+   "caution": "It is to be made sure that the barrel nut has been properly tightened before the stabilizer is mounted. A stabilizer with a loose fit on the barrel means the nut needs tightening.",
+   "quote": "Mount the stabilizer, locating it with the worm screw and securely attaching it with the stabilizer screws (fig. 15).",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 10 Interchangeable barrel, printed p.14 (PDF p.14)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Backstrap change: one pin, one punch",
+   "action": "To adapt the grip to your hand, change the backstrap. Drive the pin out with a punch, swap the backstrap, and reinsert the pin.",
+   "prose": "This is the whole procedure and it is genuinely a one-pin job — there is nothing sprung behind the backstrap on a P22, so nothing will jump out at you. Support the frame on a block rather than in your hand while the punch is moving, because the pin is a light interference fit and driving it against an unsupported polymer frame flexes the grip. Take the chance to clean under the backstrap while it is off; on a carried .22 that recess holds lint. The pin goes back the same way it came out.",
+   "quote": "In order to adapt the grip of the weapon to your hand, the backstrap of the pistol can be changed. Remove the pin (as shown in fig. 11) with a punch, change the backstrap and reinsert the pin.",
+   "cite": "SAFETY & INSTRUCTION MANUAL P22Q — Semi-Automatic Sport Pistol Cal. .22L.R. — 8.512.95.02, printing dated 2014.12.03 — 9 Adaption of the grip, printed p.12 (PDF p.12)"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL & BREECH — RIMFIRE FOULING",
+   "tasks": [
+    "Clean the barrel with an oil-soaked brush and then dry it with cleaning patches — always begin at the CHAMBER end",
+    "Repeat until the barrel is clean; .22 L.R. leaves waxy bullet lubricant and lead that will not come out in one pass",
+    "Pay attention to the chamber mouth, where rimfire lube builds into a ring that stops the next round seating",
+    "Remove fouling from the breech with a brush and a cloth"
+   ]
+  },
+  {
+   "name": "MAGAZINE & RECEIVER",
+   "tasks": [
+    "Brush and cloth on the magazine lips and the follower — a P22 feed problem almost always starts at one of the two",
+    "Work the side-mounted follower button while cleaning so the follower runs free the length of the tube",
+    "Remove fouling from the receiver with a brush and a cloth, including under the backstrap if it has been off",
+    "Wipe the magazine safety interlock area on the frame; residue there is what makes a trigger feel dead with a magazine seated"
+   ]
+  },
+  {
+   "name": "OIL & CHECK",
+   "tasks": [
+    "Apply a thin coat of oil to all metal parts using only high-quality gun oil",
+    "Reassemble the pistol and check for proper function before it goes away",
+    "Dry-patch the bore before the pistol is fired — oil in a .22 chamber raises pressure",
+    "Clean at regular intervals rather than only after a heavy session; a blowback rimfire fouls its own action fast"
+   ]
+  },
+  {
+   "name": "SIGHTS & STORAGE",
+   "tasks": [
+    "Windage is a screw on the rear sight — clockwise if the pistol fires right, counter-clockwise if it fires left. Use minimal force on that screw",
+    "Elevation is changed by fitting a different-height front sight, not by adjusting one; press the old sight out of its slide seat with a screwdriver",
+    "If a front sight has been replaced, check the retaining ridge is intact or it will not stay put",
+    "Store unloaded with the safety in the safe position, ammunition kept separately, away from children and unauthorized persons"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Guide rod back in, then run the slide onto the receiver from the front and drop the rear down onto the rails — the reverse of the lift-and-push that took it off.",
+  "Release the takedown lever back up and check the slide runs the full stroke without catching.",
+  "5\" builds: refit the stabilizer only after confirming the barrel nut is properly tightened — locate with the worm screw, then the stabilizer screws.",
+  "If the barrel was changed: sleeve slot indexed to the receiver notch, nut hand tight plus one quarter turn with the supplied spanner wrench.",
+  "Insert the empty magazine and lower the hammer under thumb control, then remove the magazine again.",
+  "Set the safety to SAFE — lever DOWN — before the pistol is stored.",
+  "Dry-patch the bore before the pistol is loaded."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty. Retract the slide and release it; the recoil spring should return it fully forward into battery. Insert the empty magazine and retract the slide fully — the slide stop lever should hold it in the rearmost position. Remove the magazine, pull the slide back slightly and release; it must return fully forward. With the empty magazine in, hold the hammer with the thumb, pull the trigger and let the hammer down slowly. Insert the empty magazine and retract the slide fully again; it must be retained by the slide stop, and pressing the stop down should let the spring carry it home. Then decock. Finally, with the magazine REMOVED, pull the trigger: the hammer should NOT fall — that is the magazine safety proving itself, and a P22 whose hammer falls with no magazine in it needs a gunsmith, not another cleaning."
+}

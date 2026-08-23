@@ -1,0 +1,125 @@
+{
+ "row": "rugerlcp",
+ "make": "Ruger",
+ "model": "LCP",
+ "sourcedFrom": "Ruger LCP Instruction Manual — PM624 (2026)",
+ "sourceSha256": "feb5b43fa57a5bdd9b01ddb5b4fd26f6eb3fcf2f6a5df020af49a13a668a6069",
+ "cleanIntro": "Ruger's own field strip for the LCP, then the cleaning it calls for. Every step below carries the manual's words and the page they are on.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Unload it before anything else",
+   "action": "Keep the pistol pointed in a safe direction and drop the magazine: press the magazine latch and withdraw the magazine from the butt.",
+   "prose": "Ruger puts this first for a reason — the magazine comes out before the chamber is touched, every time.",
+   "quote": "Keep pistol pointed in a safe direction. Press the magazine latch and withdraw the magazine from butt of pistol",
+   "cite": "Ruger LCP Instruction Manual — PM624 — Disassembly, step 1, p.21",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide open",
+   "action": "Pull the slide fully to the rear and lock it there by pushing upward on the manual slide hold open.",
+   "prose": "The LCP's hold-open is manual — it will not catch on its own, so you push it up while the slide is back.",
+   "quote": "Pull slide to the rear and lock in the open position by pushing upward on the manual slide hold open.",
+   "cite": "Ruger LCP Instruction Manual — PM624 — Disassembly, step 2, p.21"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber",
+   "action": "Inspect the chamber and confirm with your eyes that it is empty.",
+   "prose": "Magazine out and chamber empty are two separate facts. You have now established both.",
+   "quote": "Inspect the chamber and verify that it is empty",
+   "cite": "Ruger LCP Instruction Manual — PM624 — Disassembly, step 3, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the slide forward",
+   "action": "Retract the slide slightly and release it.",
+   "prose": "That small pull back is what frees the manual hold-open; let the slide run forward under its own spring rather than riding it down.",
+   "quote": "disengage the manual slide hold open and allow the slide to move fully forward.",
+   "cite": "Ruger LCP Instruction Manual — PM624 — Disassembly, step 4, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pry the takedown pin loose",
+   "action": "Push the slide backward slightly — 1/16 inch or more — and pry the takedown pin loose with a screwdriver or other flat, blunt tool.",
+   "prose": "The slight rearward push lines the pin up with its clearance cut. Blunt is the operative word: a sharpened edge marks the frame and does not help.",
+   "caution": "If it doesn’t move as described, stop. Don’t force it.",
+   "quote": "Push the slide backward slightly (1/16\" or more) and pry loose the takedown pin using a screwdriver or other flat, blunt tool",
+   "cite": "Ruger LCP Instruction Manual — PM624 — Disassembly, step 5, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the takedown pin out",
+   "action": "Remove the takedown pin completely.",
+   "prose": "It comes all the way out on this pistol — it is not captive, so put it somewhere it cannot roll off the bench.",
+   "quote": "Remove the takedown pin completely",
+   "cite": "Ruger LCP Instruction Manual — PM624 — Disassembly, step 6, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly off the frame",
+   "action": "Move the slide assembly forward and separate it from the grip frame.",
+   "prose": "Straight forward and off. Nothing needs to be pulled back first once the pin is out.",
+   "quote": "Move the slide assembly forward and separate it from the grip frame",
+   "cite": "Ruger LCP Instruction Manual — PM624 — Disassembly, step 7, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring assembly out",
+   "action": "Compress the recoil spring assembly slightly to disengage it from its seat against the barrel lug, then remove it completely.",
+   "prose": "It is under tension against the barrel lug — compress, unseat, and control it out rather than letting it jump.",
+   "caution": "Spring under tension. Keep it pointed away from your face.",
+   "quote": "Compress the recoil spring assembly slightly to disengage it from its seat against the barrel lug, and remove it completely",
+   "cite": "Ruger LCP Instruction Manual — PM624 — Disassembly, step 8, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Remove the barrel",
+   "action": "Move the barrel forward slightly, then down and back, to extract it from the slide.",
+   "prose": "Forward, then down, then back — that sequence is what clears the lug. Straight back alone will bind.",
+   "quote": "Remove the barrel. It will be necessary to move the barrel forward slightly and then down and back to extract it from the slide",
+   "cite": "Ruger LCP Instruction Manual — PM624 — Disassembly, step 9, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel, recoil spring assembly and magazine — that is the whole strip Ruger documents for the LCP.",
+   "prose": "This is as far as the manual goes, and it is far enough to clean the pistol properly.",
+   "quote": "The pistol is now disassembled for cleaning",
+   "cite": "Ruger LCP Instruction Manual — PM624 — Disassembly, step 10, p.23"
+  }
+ ],
+ "deepAbsentReason": "Ruger's LCP manual ends its disassembly at step 10, \"The pistol is now disassembled for cleaning\" (p.23). It documents no disassembly past the field strip, so this listing has NO deep clean. That is the manual's answer, not a gap in ours.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Run a properly sized, solvent-wetted patch through the bore several times with a cleaning rod",
+    "Attach a solvent-wetted bristle brush and run it the full length of the bore as many times as needed to remove grease and dirt from bore and chamber",
+    "Clean the bore with dry patches and examine it — Ruger warns that grease in the chamber can interfere with feeding"
+   ]
+  },
+  {
+   "name": "ALL COMPONENTS",
+   "tasks": [
+    "Remove powder residue from all components with powder solvent on a clean patch or bristle brush",
+    "Run a dry patch through the bore, then follow with a patch that is very lightly oiled",
+    "Wipe all surfaces clean with cloth, then wipe them with a patch or cloth that has been very lightly oiled"
+   ]
+  },
+  {
+   "name": "BEFORE YOU SHOOT IT AGAIN",
+   "tasks": [
+    "Remove all oil and grease from the bore before firing",
+    "Keep the oil light — Ruger warns excess oil attracts dust and can congeal in cold weather"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Be certain the chamber and magazine are empty.",
+  "With the slide held upside down, replace the barrel and push it rearward into its locked position.",
+  "Replace the recoil spring assembly — the rear end of the guide rod seats against the barrel lug, flared end of the inner spring toward the muzzle."
+ ],
+ "fncheck": "Check the pistol's function per the manual's own “Check Your Pistol’s Function” procedure, pp.25–26, pointed in a safe direction with the pistol and magazine confirmed empty."
+}

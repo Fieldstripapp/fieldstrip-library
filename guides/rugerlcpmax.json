@@ -1,0 +1,106 @@
+{
+ "row": "rugerlcpmax",
+ "make": "Ruger",
+ "model": "LCP MAX",
+ "sourcedFrom": "Ruger LCP MAX Instruction Manual — LCP MAX 4/2026 R6 (2026)",
+ "sourceSha256": "b53fe465e18bde19b85cf0dd55f9fd87288bfa9e1f085f1b6c9f2df725829457",
+ "cleanIntro": "The LCP MAX has a pried takedown pin rather than a lever, and that is the one step that surprises people. Ruger publishes separate books for the LCP MAX with a manual safety and for the version with a loaded chamber indicator and magazine disconnect; this guide follows the plain LCP MAX manual.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Keep the pistol pointed in a safe direction, press the magazine latch and withdraw the magazine from the butt of the pistol.",
+   "prose": "Magazine first, every time — the chamber check that follows means nothing before it.",
+   "quote": "Keep pistol pointed in a \nsafe direction. Press the \nmagazine latch and \nwithdraw the magazine \nfrom butt of pistol (see \nFigure 15).",
+   "cite": "Ruger LCP MAX Instruction Manual — LCP MAX 4/2026 R6 — Disassembly, step 1, p.28",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide open and inspect the chamber",
+   "action": "Pull the slide to the rear and lock it in the open position by pushing upward on the slide stop, then look into the chamber and verify it is empty.",
+   "prose": "Keep your hand away from the muzzle while the slide is being worked — Ruger prints that instruction beside the figure.",
+   "caution": "Keep Hand Away From Muzzle!",
+   "quote": "Pull slide to the rear and \nlock in the open position \nby pushing upward on the \nslide stop. (See Figure 16).",
+   "cite": "Ruger LCP MAX Instruction Manual — LCP MAX 4/2026 R6 — Disassembly, step 2, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the slide stop and let the slide run forward",
+   "action": "Retract the slide slightly and release it. That disengages the slide stop and lets the slide travel fully forward.",
+   "prose": "The takedown pin will not come out with the slide locked back. This is the step that makes room for it.",
+   "quote": "disengage the slide stop \nand allow the slide to \nmove fully forward.",
+   "cite": "Ruger LCP MAX Instruction Manual — LCP MAX 4/2026 R6 — Disassembly, step 4, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pry the takedown pin loose, then out",
+   "action": "Work a screwdriver or another flat, blunt tool under the takedown pin and pry it loose, then draw the pin out completely.",
+   "prose": "This pin is pried, not pushed. Use something flat and blunt — a sharp blade marks the frame and does not lift the pin any better.",
+   "quote": "Pry loose the takedown \npin using a screwdriver \nor other flat, blunt tool \n(see Figure 19).",
+   "cite": "Ruger LCP MAX Instruction Manual — LCP MAX 4/2026 R6 — Disassembly, steps 5 and 6, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly forward off the frame",
+   "action": "Move the slide assembly forward and separate it from the grip frame.",
+   "prose": "With the pin out there is nothing holding it. It should come away without force.",
+   "quote": "Move the slide \nassembly \nforward and \nseparate it \nfrom the grip \nframe (see \nFigure 21).",
+   "cite": "Ruger LCP MAX Instruction Manual — LCP MAX 4/2026 R6 — Disassembly, step 7, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring assembly off the barrel lug",
+   "action": "Compress the recoil spring assembly slightly to disengage it from its seat against the barrel lug, then lift it out.",
+   "prose": "Compress, unseat, lift — and keep it controlled. It is a captive assembly but it is still a loaded spring.",
+   "quote": "Compress the recoil \nspring assembly \nslightly to disengage it \nfrom its seat against \nthe barrel lug, and \nremove it completely \n(see Figure 22).",
+   "cite": "Ruger LCP MAX Instruction Manual — LCP MAX 4/2026 R6 — Disassembly, step 8, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel forward, down, and back out",
+   "action": "Move the barrel forward slightly, then down and back to extract it from the slide. The pistol is now stripped for cleaning.",
+   "prose": "Three small movements, not one pull. Trying to lift the barrel straight out jams it against the slide.",
+   "quote": "Remove the barrel. It will \nbe necessary to move the \nbarrel forward slightly and \nthen down and back to \nextract it from the slide \n(see Figure 23).",
+   "cite": "Ruger LCP MAX Instruction Manual — LCP MAX 4/2026 R6 — Disassembly, step 9, p.30",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The LCP MAX manual closes its disassembly with \"NOTE: Do not attempt further disassembly of your firearm. The firearm can now be cleaned and lubricated. There are no user serviceable parts below this level.\" (p.30). Nothing past the strip is published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent-wet patch through the bore, then a solvent-wet bristle brush the full length, then dry patches and examine",
+    "Grease left in the chamber interferes with feeding from the magazine"
+   ]
+  },
+  {
+   "name": "SLIDE & FRAME",
+   "tasks": [
+    "Solvent on a patch or brush to take powder residue off every component, then a dry patch through the bore and a very lightly oiled one after it",
+    "Only a light application of oil — excess oil attracts dust and can congeal in cold weather"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Check the follower moves freely and the lips are free of nicks, burrs, cracks or deformation",
+    "Magazines go back dry — no oil where ammunition sits"
+   ]
+  },
+  {
+   "name": "INSPECT",
+   "tasks": [
+    "Look over the pistol and magazine for anything damaged, missing, loose, bent, cracked, chipped or peened",
+    "Never use automotive or paint-stripping products on a firearm"
+   ]
+  }
+ ],
+ "reassembly": [
+  "With the slide held upside down, replace the barrel and push it rearward into its locked position.",
+  "Place the guide rod / recoil spring assembly back with its rear end seated against the barrel lug.",
+  "Fit the slide assembly to the frame and press the takedown pin fully home before handling further."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, check the slide runs fully and locks back on an empty magazine, and that the trigger resets — pointed in a safe direction throughout."
+}

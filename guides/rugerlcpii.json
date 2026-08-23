@@ -1,0 +1,254 @@
+{
+ "row": "rugerlcpii",
+ "make": "Ruger",
+ "model": "LCP II",
+ "sourcedFrom": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot (2021 — the cover carries the copyright line for Sturm, Ruger & Co., Inc., which the OCR renders as \"0 2021\" where the copyright symbol sits)",
+ "sourceSha256": "5d14ebcaa05006dde13f5a631d11e07bb29948dbfba3619b55ef091c0dded945",
+ "cleanIntro": "Ruger's own field strip and cleaning for the .380 LCP II. Twenty-six of this book's thirty-six pages are scans with no text layer — the run that carries loading, unloading and the entire disassembly — so all of it is read here by OCR under the 2026-08-20 ruling, with hash, tool and date on record. Printed folios match the PDF sheets one for one. Two notes: the quotes below reproduce the OCR exactly, so the registered-trademark symbol in Ruger's LCP wordmark appears as an @; and this pistol has no takedown lever, it has a pin that has to be prised out.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out — the pistol still fires without it",
+   "action": "Keep the muzzle in a safe direction with your fingers outside the trigger guard, and push in the magazine latch to remove the magazine. The LCP II is designed to work as a single loader, so it will fire with the magazine out if a round is chambered.",
+   "prose": "That is a design feature on this pistol, not an omission. Ruger prints a whole procedure for loading and firing it without a magazine at all.",
+   "quote": "Remove the magazine from the pistol by pushing in on the magazine latch.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — TO UNLOAD, step 2, printed p.16",
+   "warn": "Removing magazine does not unload pistol! FIREARM WILL FIRE WITH MAGAZINE OUT."
+  },
+  {
+   "phase": "Clear",
+   "title": "Retract briskly, then check by eye AND by finger",
+   "action": "Hold the pistol firmly, grasp the slide and retract it briskly to its rearmost position to extract and eject anything in the chamber. Then check the chamber, the breech face and the interior of the frame — visually and physically — for live rounds.",
+   "prose": "Briskly matters on this little pistol. Hand-cycled slowly, a round can be lifted out and dropped straight back into the magazine well, or held on the breech face by the extractor.",
+   "quote": "Hold the pistol firmly and grasp the slide. Retract the slide to its rearmost position briskly to extract and eject any chambered cartridge.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — TO UNLOAD, step 3, printed p.16",
+   "warn": "This sequence must be followed exactly as outlined. Failure to do so can result in the chamber being unintentionally loaded with a live cartridge!"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock it open on the manual hold-open",
+   "action": "With the slide fully retracted, push upward on the slide stop, then let the slide move forward until it rests with the rear projection of the slide stop in the notch on the lower left side of the slide.",
+   "prose": "Note the LCP II holds open on an empty magazine, but an older LCP magazine will not trip it — that is Ruger's own compatibility note and it is worth knowing before you rely on a locked-back slide as your empty signal.",
+   "aside": "Magazines designed for the LCP@ pistol will function in an LCP@ II pistol but will NOT automatically hold the slide open when empty.",
+   "quote": "When the slide is fully retracted, push upward on the slide stop, then allow the slide to move forward until it comes to rest with the rear projection of the slide stop resting in the notch on the lower left side of the slide.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — TO UNLOAD, step 3, printed p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Unloaded before anything is touched",
+   "action": "Confirm the pistol is unloaded before cleaning, lubricating or disassembling it.",
+   "prose": "Ruger has an on-line video of this strip on its tech tips pages; the book points at it by name.",
+   "quote": "Always unload a firearm before cleaning, lubrication, disassembly or assembly.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — DISASSEMBLY — WARNING, printed p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine out of the butt, slide locked open, chamber verified",
+   "action": "Keep the pistol pointed in a safe direction. Press the magazine latch and withdraw the magazine from the butt. Pull the slide to the rear and lock it open by pushing up on the slide stop, then inspect the chamber and verify it is empty.",
+   "prose": "Third look into that chamber, and Ruger asks for it deliberately — the disassembly section does not assume you have just done the unloading section.",
+   "aside": "Inspect the chamber and verify that it is empty",
+   "quote": "Keep pistol pointed in a safe direction. Press the magazine latch and withdraw the magazine from butt of pistol",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — DISASSEMBLY, steps 1 to 3, printed p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the slide stop and let the slide run forward",
+   "action": "Retract the slide slightly and release it. That disengages the slide stop and lets the slide travel fully forward.",
+   "prose": "The takedown pin can only be reached with the slide forward, so this has to happen before the tool comes out.",
+   "aside": "This will disengage the slide stop and allow the slide to move fully forward.",
+   "quote": "Retract the slide slightly and release it",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — DISASSEMBLY, step 4, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Prise the takedown pin out",
+   "action": "Prise the takedown pin loose with a screwdriver or another flat, blunt tool, then pull it out completely.",
+   "prose": "Flat and blunt — a sharp screwdriver tip will mark the frame around the pin head, and on a polymer frame that mark stays.",
+   "aside": "Remove the takedown pin completely",
+   "quote": "Pry loose the takedown pin using a screwdriver or other flat, blunt tool",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — DISASSEMBLY, steps 5 and 6, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly forward off the grip frame",
+   "action": "Move the slide assembly forward and separate it from the grip frame.",
+   "prose": "With the pin out there is nothing holding it. Support the slide as it comes off rather than letting it run off the front of the rails.",
+   "quote": "Move the slide assembly forward and separate it from the grip frame",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — DISASSEMBLY, step 7, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring assembly off the barrel lug",
+   "action": "Compress the recoil spring assembly slightly to disengage it from its seat against the barrel lug, then take it out completely.",
+   "prose": "It is a two-spring captive assembly on this pistol and it stays together — note which end is which now, because the inner spring only goes back one way round.",
+   "quote": "Compress the recoil spring assembly slightly to disengage it from its seat against the barrel lug, and remove it completely",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — DISASSEMBLY, step 8, printed p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out — forward, then down and back",
+   "action": "Move the barrel forward slightly, then down and back to extract it from the slide. The pistol is now disassembled for cleaning.",
+   "prose": "This is the link-less tilting barrel, so it has to be walked out of its cam path rather than lifted straight up.",
+   "aside": "The pistol is now disassembled for cleaning",
+   "quote": "Remove the barrel. It will be necessary to move the barrel fomard slightly and then down and back to extract it from the slide",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — DISASSEMBLY, step 9, printed p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Grip frame, slide, barrel, recoil spring assembly, takedown pin and magazine. That is the whole of the strip Ruger publishes for the LCP II — the hammer, the trigger and the fire control stay in the frame, and no part of them is an owner job. Deep Clean covers the magazine, which Ruger does publish a procedure for.",
+   "prose": "Everything the cleaning section asks for is reachable from here. Use only genuine Ruger factory magazines designated for this pistol; alterations or non-Ruger magazines and accessories may cause malfunctions.",
+   "quote": "Alterations to the pistol or use of non-Ruger magazines and accessories may cause malfunctions.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — TO MINIMIZE MALFUNCTIONS, printed p.19",
+   "warn": "Seven-round extended LCP@ magazines are NOT compatible with the LCP@ II.",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean it on an interval, not just when it looks dirty",
+   "action": "Strip, clean and oil the pistol at regular intervals, and any time it has been exposed to sand, dust, extreme humidity, condensation, immersion in water or other adverse conditions.",
+   "prose": "This is a pocket pistol, so lint and pocket dust are its real diet. Ruger treats that the same as sand.",
+   "caution": "BEFORE CLEANING, BE CERTAIN THE PISTOL AND ITS MAGAZINE ARE UNLOADED.",
+   "quote": "At regular intervals, or whenever the pistol has been exposed to sand, dust, extreme humidity, condensation, immersion in water, or other adverse conditions, disassemble, clean, and oil it.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — CARE AND CLEANING, printed p.25"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore: solvent patch, then a brush the full length",
+   "action": "Run a properly sized, solvent-wetted patch through the bore several times, then put a solvent-wetted bristle brush on the rod and run it back and forth the full length of the bore as many times as needed to clear grease and dirt out of the bore and chamber. Clean the bore with dry patches and examine it.",
+   "prose": "Grease left in the chamber is what interferes with feeding from the magazine, and on a .380 pocket gun that is the difference between a pistol that runs and one that does not.",
+   "quote": "Using a cleaning rod, run a properly sized, solvent-wetted patch through the bore several times.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — CARE AND CLEANING, step 2, printed p.25"
+  },
+  {
+   "phase": "Clean",
+   "title": "Powder residue off everything, then a lightly oiled patch",
+   "action": "With powder solvent on a clean patch or bristle brush, take the powder residue off all the components. Run a dry patch through the bore afterwards, follow it with a very lightly oiled one, then wipe every surface with a cloth and finish with a very lightly oiled patch or cloth.",
+   "prose": "Ruger separately tells you to clean the chamber and the extractor as often as necessary — those two are the pistol's failure points, so give them the brush.",
+   "aside": "Thoroughlv clean the chamber and the extractor as often as necessarv.",
+   "quote": "Using powder solvent on a clean patch or bristle brush, remove powder residue from all components of the pistol.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — CARE AND CLEANING, step 3, printed p.25"
+  },
+  {
+   "phase": "Clean",
+   "title": "A light application of oil — and no more",
+   "action": "Only a light application of oil is needed to lubricate the moving parts and keep rust off. Then take all the oil and grease back out of the bore before the pistol is fired.",
+   "prose": "Excess oil on a pocket pistol collects dust and lint, and it congeals when it is cold — which is exactly when the gun is in a coat pocket.",
+   "aside": "Before firing, remove all oil and grease from the bore.",
+   "quote": "Only a light application of oil is needed to provide adequate lubrication of moving parts and to prevent rust.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — CARE AND CLEANING, step 4 NOTE, printed p.25",
+   "warn": "Firing a pistol with oil, grease, or any other material even partially obstructing the bore may result in damage to the pistol and serious injury."
+  },
+  {
+   "phase": "Clean",
+   "title": "Inspect it, and do not store it in leather",
+   "action": "Before each use, look the pistol over for components that are damaged, missing, loose, bent, cracked, chipped or peened, and stop using it if you find excessive wear. Do not keep it stored in a leather holster or case.",
+   "prose": "Leather pulls moisture out of the air and holds it against the metal, whether or not the holster feels dry. Store it out of the holster, unloaded, with the supplied locking device fitted.",
+   "quote": "Do not keep the pistol stored in a leather holster or case. Leather attracts moisture, even though the holster or case may appear to be perfectly dry.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — STORAGE, printed p.26"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "When the magazine comes apart",
+   "action": "Check the magazine frequently: the follower must move freely with enough tension to lift each cartridge quickly to the feeding position, and the lips must be clean and free of cracks, dents or nicks. If it is dirty, strip it. Make sure it is unloaded first.",
+   "prose": "On a pistol this small the magazine is the part that decides reliability, and it is the only assembly beyond the field strip that Ruger hands the owner.",
+   "quote": "Check the magazine frequently. The magazine follower must move freely and have adequate tension so that each cartridge is quickly raised to the feeding position.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — MAGAZINE INSPECTION AND CARE, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Punch on the spring seat, floorplate forward",
+   "action": "Use a punch to press in on the magazine spring seat where it protrudes into the hole in the floorplate, then slide the floorplate toward the FRONT of the magazine.",
+   "prose": "Thumb over the plate as it moves. There is a compressed spring behind it and it will leave at speed if it gets the chance.",
+   "quote": "Use a punch to press in on the magazine spring seat where it protrudes into the hole in the magazine floorplate.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — MAGAZINE INSPECTION AND CARE, printed p.24",
+   "warn": "Be careful to prevent the forcible ejection of the magazine spring seat and compressed magazine spring."
+  },
+  {
+   "phase": "Strip",
+   "title": "Spring seat and spring out, then the follower",
+   "action": "Withdraw the magazine spring seat and the magazine spring from the body, then turn the magazine upside down and take the follower out.",
+   "prose": "The follower comes out last on this one, through the top, which is the opposite of the order people expect.",
+   "quote": "Withdraw the magazine spring seat and magazine spring from the magazine body. Turn magazine upside down and remove magazine follower.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — MAGAZINE INSPECTION AND CARE, printed p.24"
+  },
+  {
+   "phase": "Clean",
+   "title": "Solvent that will not attack the body — and get it all back out",
+   "action": "Use a solvent that will not rust the metal parts or attack the magazine body. After soaking to loosen the fouling, shake the magazine vigorously with the loading opening pointed away from you until all the solvent and residue are out of it.",
+   "prose": "Ruger's reason is blunt: solvent or penetrating oil left inside kills primers and powder, and a dead primer can leave a bullet in the bore.",
+   "quote": "Penetrating oils and solvents inside a magazine can \"kill\" or weaken cartridge primers or powder which can result in failures to fire or other possibly dangerous malfunctions, such as leaving a bullet in the bore!",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — MAGAZINE INSPECTION AND CARE, printed p.24"
+  },
+  {
+   "phase": "Clean",
+   "title": "Rebuild and check the tension before you trust it",
+   "action": "Reassemble in reverse order, then check the follower movement and tension are correct and that no solvent or debris remain. If cleaning does not restore proper tension, or the magazine gives trouble, do not use it — get a new one.",
+   "prose": "A magazine that has lost tension will not announce itself. It will simply fail to feed, once, at the worst possible moment.",
+   "quote": "Improper reassembly of the magazine can cause failure to feed, which is a potentially dangerous malfunction.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — MAGAZINE INSPECTION AND CARE, printed p.24",
+   "warn": "Use only GENUINE RUGER@ FACTORY magazines designated for your firearm."
+  },
+  {
+   "phase": "Clean",
+   "title": "Ammunition bound — .380 Auto, and no +P",
+   "action": "Before it goes back together, know what may go through it. This pistol is chambered for the 380 Auto cartridge and no other cartridge is to be loaded into the magazine or the chamber. Ruger rules out +P ammunition outright, twice, on the same page.",
+   "prose": "Standard-pressure factory ammunition loaded to U.S. Industry Standards, including hollow points in brass or aluminium cases, is what the book says the pistol is compatible with.",
+   "quote": "Do not attempt to load any other cartridges into the magazine or chamber of the pistol.",
+   "cite": "Instruction Manual for Ruger LCP II Lightweight Compact Pistol — PM716 · LCPII 10/2021 R5 — the part number is on the cover head and the revision code at the cover foot — AMMUNITION, printed p.12",
+   "warn": "Do not use \"+P\" ammunition."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Properly sized solvent-wetted patch through the bore several times",
+    "Solvent-wetted bristle brush run back and forth the FULL length of the bore",
+    "Repeat until grease and dirt are out of both bore and chamber",
+    "Dry patches, then examine the bore",
+    "Clean the chamber and the extractor as often as necessary"
+   ]
+  },
+  {
+   "name": "SLIDE, FRAME AND BARREL",
+   "tasks": [
+    "Powder solvent on a clean patch or bristle brush over all components",
+    "Dry patch through the bore, then one that is very lightly oiled",
+    "Wipe all surfaces clean with cloth, then wipe with a very lightly oiled patch or cloth",
+    "Only a light application of oil — no more"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Follower moving freely with adequate tension",
+    "Lips clean and free of cracks, dents or nicks",
+    "Strip and wash only if dirty, with a solvent that will not attack the magazine body",
+    "Shake it out vigorously, loading opening away from you, until no solvent remains",
+    "Replace the magazine rather than use one whose tension cleaning did not restore"
+   ]
+  },
+  {
+   "name": "BEFORE IT GOES AWAY",
+   "tasks": [
+    "Remove all oil and grease from the bore before firing",
+    "Never store the pistol in a leather holster or case",
+    "Store it unloaded, with the supplied locking device fitted, separate from ammunition",
+    "Inspect before each use for damaged, missing, loose, bent, cracked, chipped or peened parts"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Be certain the chamber and magazine are empty.",
+  "With the slide held upside down, replace the barrel and push it rearward into its locked position.",
+  "Replace the recoil spring assembly, the rear end of the guide rod seating against the barrel lug — the FLARED end of the inner recoil spring faces the muzzle.",
+  "Replace the slide onto the frame and set it in its closed position, as if the pistol were fully assembled.",
+  "Insert the takedown pin into the frame at a downward angle of about 45 degrees until its tip pushes down its retaining spring.",
+  "Rotate the pin downward until it lines up with its hole, then push it fully into the frame.",
+  "Replace the empty magazine in the frame through the butt of the pistol."
+ ],
+ "fncheck": "Ruger's own check, with no ammunition in the chamber or magazine. SLIDE AND SLIDE STOP: with no magazine and the slide forward, cycle it fully twice — it should run freely without binding and close completely under the recoil spring; insert an EMPTY magazine, which should latch without excessive force, retract and release, and the slide should stay open on the slide stop; remove the magazine and the slide should remain open; with the magazine out, retract fully and release — the slide stop should disengage, the slide should close fully, and the hammer should NOT fall. TRIGGER: cycle the slide to cock the hammer (its end is visible through the opening at the rear of the slide), pull the trigger fully to dry fire — the hammer should fall; hold the trigger back, cycle the slide to reset, release the trigger and feel the reset, and the hammer should not fall. If any of this fails, or you are uncertain, have it inspected before firing."
+}

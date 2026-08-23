@@ -1,0 +1,111 @@
+{
+ "row": "rugersuperredhawk",
+ "make": "Ruger",
+ "model": "Super Redhawk",
+ "sourcedFrom": "Ruger Super Redhawk Instruction Manual — PM051 (2026)",
+ "sourceSha256": "9a24260b24b063bc5b5cc38d7bdceddb72fc9ece6fa1b3f1fa65bdf901729ed7",
+ "cleanIntro": "The Super Redhawk cleans without disassembly. Its documented teardown follows the GP100 pattern and is on the Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm every chamber is empty",
+   "action": "Press the cylinder latch, swing the cylinder out, and check every chamber by eye and by finger.",
+   "prose": "This is the first line of the manual’s own disassembly section, in capitals, and it is worth the two seconds.",
+   "quote": "BE CERTAIN THE REVOLVER IS UNLOADED BEFORE DISASSEMBLY.",
+   "cite": "Ruger Super Redhawk Instruction Manual — PM051 — Disassembly, step 1, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Swing the cylinder out — that is all cleaning needs",
+   "action": "For routine cleaning nothing comes off this revolver. Swing the cylinder out and clean it where it stands.",
+   "prose": "Ruger’s cleaning instructions begin from the cylinder being open, not from a stripped gun.",
+   "quote": "To clean the revolver after firing, swing the cylinder out and clean the barrel from the muzzle",
+   "cite": "Ruger Super Redhawk Instruction Manual — PM051 — Care and Cleaning, p.23",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Grip off",
+   "action": "With a properly fitting screwdriver remove the grip screw, take the pistol grip inserts out, remove the grip panel locator, then pull the grip downward off the frame.",
+   "prose": "Same sequence as the GP100, and the same soft screw.",
+   "quote": "Using a properly fitting screwdriver, remove the grip screw. Remove the pistol grip inserts from the grips. The grip panel locator may then be removed. Pull the grip downward off the frame.",
+   "cite": "Ruger Super Redhawk Instruction Manual — PM051 — Disassembly, step 2, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Pin the mainspring strut",
+   "action": "Cock the hammer and insert an appropriately sized pin about half its length into the hole at the rear of the mainspring strut.",
+   "prose": "Half its length — deep enough to hold the spring, not so deep it fouls the frame.",
+   "quote": "Cock the hammer. Insert an appropriatelysized pin (or similar instrument) about one half its length into the hole at the rear of the mainspring strut.",
+   "cite": "Ruger Super Redhawk Instruction Manual — PM051 — Disassembly, step 3, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Mainspring assembly out",
+   "action": "Thumb on the hammer spur, squeeze the trigger and let the hammer go fully forward, then lift out the mainspring assembly.",
+   "prose": "Pin stays in until it is back in the revolver.",
+   "caution": "Do not remove the disassembly pin until the mainspring assembly is reinstalled in the revolver at the time of reassembly. Doing so will permit the mainspring to fly off its strut with great force and may cause injury.",
+   "quote": "With your thumb on the hammer spur, squeeze the trigger allowing the hammer to go fully forward. Lift out the mainspring assembly.",
+   "cite": "Ruger Super Redhawk Instruction Manual — PM051 — Disassembly, step 4, p.21",
+   "warn": "Do not remove the disassembly pin until the mainspring assembly is reinstalled in the revolver at the time of reassembly. Doing so will permit the mainspring to fly off its strut with great force and may cause injury."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Hammer out",
+   "action": "Hold the trigger to the rear, lightly strike the pivot pin to free it from the frame, then lift the hammer out of the top of the frame.",
+   "prose": "Trigger stays back throughout.",
+   "quote": "Hold the trigger in the rearward position and lightly strike the pivot pin to release it from the frame.",
+   "cite": "Ruger Super Redhawk Instruction Manual — PM051 — Disassembly, step 5, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Trigger guard assembly out",
+   "action": "Depress the trigger guard lock plunger through the hole in the frame with a correctly sized screwdriver, and pull the trigger guard assembly down and out at the same time.",
+   "prose": "A slight press on the trigger helps it clear.",
+   "quote": "Use a screwdriver of appropriate size and insert it through the hole in the frame to depress the trigger guard lock plunger located inside the frame at the rear of the trigger guard.",
+   "cite": "Ruger Super Redhawk Instruction Manual — PM051 — Disassembly, step 6, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Stop here",
+   "action": "End of the documented teardown.",
+   "prose": "Anything past this belongs to factory service personnel.",
+   "quote": "Further disassembly is not essential for normal cleaning purposes.",
+   "cite": "Ruger Super Redhawk Instruction Manual — PM051 — Disassembly, p.21"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Swing the cylinder out and clean the barrel from the muzzle with a solvent-coated patch, several passes",
+    "Push a correctly sized bronze wire brush the full length of the bore several times",
+    "Swab with a solvent patch again, wipe the rod, then dry-patch until clean",
+    "Examine the bore to be sure no fouling remains"
+   ]
+  },
+  {
+   "name": "CHAMBERS",
+   "tasks": [
+    "Repeat the bore procedure for each of the six chambers",
+    "Clean the face of the cylinder and the underside of the ejector star"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wipe the frame, crane and cylinder exterior",
+    "Light oil only — do not flood the action",
+    "Wipe with an oily cloth if the revolver is going into storage"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Reverse the order you came apart in, and do not remove the disassembly pin until the mainspring assembly is back in the revolver.",
+  "Seat the grip and tighten the grip screw with a properly fitting screwdriver.",
+  "Close the cylinder and confirm it latches and indexes."
+ ],
+ "fncheck": "With every chamber confirmed empty, check the cylinder latches closed, indexes without unusual drag, and the revolver dry fires cleanly pointed in a safe direction."
+}

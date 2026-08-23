@@ -1,0 +1,155 @@
+{
+ "row": "bearcreekarsenalbc10",
+ "make": "Bear Creek Arsenal",
+ "model": "BC-10",
+ "sourcedFrom": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 (undated — no copyright line is printed)",
+ "sourceSha256": "e073368cb022c0f503ff39498871bbac2d177fcfdba8742638b9d980ccde814e",
+ "cleanIntro": "The same Bear Creek book covers the large-frame rifle; it draws no small-frame/large-frame distinction anywhere, so the published procedure is the one below.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, bolt closed on an empty chamber, safety on",
+   "action": "Drop the magazine and put the rifle down empty, then fully retract the charging handle and release it so the bolt closes on nothing. Rotate the safety selector to SAFE last. Bear Creek's strip starts from a closed bolt, so a rifle left locked back will not come apart — and closing it is also what proves the chamber is empty in the same motion.",
+   "caution": "Always use proper eye protection when cleaning firearms.",
+   "aside": "Fully retract the charging handle then release to completely close the bolt.",
+   "quote": "Remove magazine and unload firearm.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, steps 3-5, p.12"
+  },
+  {
+   "phase": "Clear",
+   "title": "Selector to SAFE before anything moves",
+   "action": "Set the selector to SAFE and leave it there for the whole strip. On a direct-impingement AR the hammer stays cocked once the bolt has been cycled, and SAFE is what keeps it there while the two receivers hinge apart with your hands between them.",
+   "quote": "Rotate safety selector to “SAFE” position.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, step 5, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin depressed, then pulled from the right",
+   "action": "Press the takedown pin from the left — it sits just above and behind the selector — and pull it out from the right side until it hits its mechanical stop. It is captive and will not come free; expect a firm stop rather than a part in your hand.",
+   "aside": "From the right side of the receiver pull the pin outward until the mechanical stop prevents further movement.",
+   "quote": "Depress the take down pin located just above and to the rear of the safety/selector on the left side of the receiver.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, step 6, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hinge the lower down and open the rifle to 45 degrees",
+   "action": "With the pin out, let the lower receiver pivot down and away from the upper, then rotate the whole rifle until the two halves sit at about 45 degrees. That angle is what gives the carrier a clear run out of the upper — with the rifle flat, the buffer tube fouls it.",
+   "quote": "The lower receiver can now pivot downward and away from the upper receiver.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, step 8, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Handle back an inch, carrier out",
+   "action": "Unlatch the charging handle and draw it back about an inch to expose the rear of the bolt carrier, then grasp the carrier and pull it straight back out of the receiver. An inch, not all the way — pulling the handle to its stop runs it out of its own track before the carrier is clear.",
+   "quote": "Unlatch and retract the charging handle approximately 1” exposing the rear of the bolt carrier. Grasp the rear of the carrier and pull it rearward until free of the receiver.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, step 9, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Which charging arrangement do you have?",
+   "action": "Look at the upper before you go on. A conventional rear-charging rifle gives up its handle and BCG by pulling; a side-charging upper needs a T-25 wrench for the handle and the back receiver plug unscrewed before the BCG will come out. Bear Creek branches here on hardware, not on model name.",
+   "quote": "For rear charging pull the handle and remove the rear charging handle and BCG.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, step 10, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The receivers are apart and the bolt carrier group and charging handle are out. That is enough for routine cleaning. Bear Creek's manual runs straight on into the bolt carrier group teardown and the detailed maintenance schedule — both are on the Deep Clean path.",
+   "quote": "The rifle is now field stripped for routine cleaning.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, step 9, p.12",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Retaining pin out, firing pin out the back",
+   "action": "Push the firing pin retaining pin out of the carrier and let the firing pin slide rearward out of its channel. The retaining pin is small and it is the one part people lose on this rifle — put it somewhere with a lip before you carry on.",
+   "quote": "Remove the firing pin retaining pin, the firing pin can now be withdrawn rearward from the carrier.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, step 11, p.12"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Cam pin rotated 90 degrees, then out",
+   "action": "Rotate the bolt cam pin a quarter turn and lift it out. It clears in exactly one orientation, so if it will not come, rotate it the other quarter turn rather than pulling. With the cam pin out the bolt comes forward out of the carrier.",
+   "quote": "Remove the bolt cam pin by rotating the pin 90 degrees and remove.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, step 12, p.12"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Leave the extractor alone unless it is misbehaving",
+   "action": "Stop here unless you have an actual extraction problem. Bear Creek advises against pulling the extractor as routine, and the reason is the O-ring and insert inside the spring — they are easy to lose and easy to reassemble wrong. If you do go in, control the extractor spring, insert and O-ring as the pin comes out.",
+   "quote": "NOTE: We do not advise extractor removal unless you are experiencing extractor issues.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, note before step 13, p.12",
+   "warn": "If extractor removal is desired, use a suitable punch to press the extractor pin from the bolt. Maintain control of the extractor spring, extractor insert and O-ring."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Scrub the bolt, the extractor groove first",
+   "action": "Take a nylon brush and solvent to the bolt, and pay particular attention to the extractor groove — that ring of carbon is what stops the extractor closing on a rim and is the single most common cause of failures to extract. Wipe the solvent off afterwards rather than leaving it to sit.",
+   "quote": "Scrub the bolt (including the extractor) with a nylon brush dipped in solvent.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — DETAILED MAINTENANCE, step 3, p.13"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Pipe cleaner through the firing pin channel",
+   "action": "Run a pipe cleaner through the firing pin hole and the firing pin cavity in the bolt. Carbon packs into that cavity and slows the pin, which shows up as light primer strikes long before it shows up as anything visible.",
+   "quote": "Clean the firing pin hole and firing pin cavity of the bolt with a pipe cleaner.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — DETAILED MAINTENANCE, step 5, p.13"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Lubricate the carrier's bolt cavity",
+   "action": "Put a moderate coat of lubricant in the cavity of the carrier the bolt rides in, and two drops into the cam pin slot. This is the one place on an AR that wants more oil rather than less — it is a bearing surface running hot and dry otherwise.",
+   "quote": "Apply a moderate coat of lubricant to the cavity on the carrier into which the bolt is installed.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — DETAILED MAINTENANCE, step 7 and Lubrication Points, p.13"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Gaps on the three bolt rings, 120 degrees apart",
+   "action": "Before the bolt goes back in the carrier, check the three gas rings and stagger their gaps about a third of a turn apart. Lined-up gaps make a straight path for gas past the bolt and the rifle short-strokes. This is a thirty-second check that saves a diagnosis.",
+   "quote": "Verify that the three bolt rings are installed so that the gaps do not line up, but are evenly spaced about 120 degrees.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, step 14, p.12"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Carrier flush at the back, then close it up",
+   "action": "Reinstall the BCG and charging handle, push the carrier fully forward, and check that the rear face of the carrier sits flush with the rear of the upper receiver. Not nearly flush — flush. If it stands proud, the charging handle is not seated and the rifle will not close.",
+   "quote": "Reinstall the BCG and charging handle. Push the BCG fully forward, the rear of the carrier must be flush with the rear of the upper receiver.",
+   "cite": "Bear Creek Arsenal Operation & Safety Manual — manual 2.0 — FIELD STRIPPING & CLEANING, step 22, p.12"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Clean all parts with a quality CLP, rinse, dry and inspect",
+    "Lightly lubricate the bolt and wipe away any excess",
+    "Clean carbon from the gas key and the carrier's interior"
+   ]
+  },
+  {
+   "name": "BORE & UPPER",
+   "tasks": [
+    "Clean the barrel bore and chamber with a quality bore solvent, following the solvent maker's instructions",
+    "Use a quality powder solvent to clean the carrier way (tunnel) of the upper receiver, then lightly lubricate",
+    "Lubricate the inside of the upper receiver and the long thin section of the charging handle"
+   ]
+  },
+  {
+   "name": "LOWER RECEIVER",
+   "tasks": [
+    "Brush or wipe away excessive fouling — an aerosol cleaning product is a simple way to do it",
+    "Do not remove the trigger action components to clean; the manual says it is neither necessary nor recommended",
+    "Lubricate the takedown pins"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Insert the bolt into the carrier with the extractor located on the right side of the carrier.",
+  "Insert the cam pin and rotate 90 degrees and reinstall the firing pin.",
+  "Install the firing pin retaining pin from the left side of the carrier, then confirm the firing pin is retained.",
+  "Reinstall the BCG and charging handle, push the BCG fully forward, close the receiver and press the take-down pin back in."
+ ],
+ "fncheck": "With the rifle confirmed empty, cycle the charging handle and confirm the bolt runs and locks, check the takedown and pivot pins are fully home, and confirm the selector moves between SAFE and FIRE."
+}

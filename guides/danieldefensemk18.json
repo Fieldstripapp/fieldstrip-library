@@ -1,0 +1,185 @@
+{
+ "row": "danieldefensemk18",
+ "make": "Daniel Defense",
+ "model": "MK18",
+ "sourcedFrom": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "ba04a6e3fc59ad56c164bb803c0ac432fb08a40a2db7c8ce574627c665bc2e39",
+ "cleanIntro": "The MK18 is a short-barrelled 5.56 AR from Daniel Defense and it strips exactly as their DD4 and DDM4 carbines do: takedown pin, upper open, bolt carrier group out, and the carrier broken down into firing pin, cam pin and bolt. One warning applies before you start and it is the book's own: this manual is written for two platforms at once, and several of its steps carry a DD5-only exception. Your rifle is on the AR-15 side of every one of those, so the cam pin turns 90 degrees and there is no firing pin return spring to look for.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Which side of the book you are on",
+   "action": "Before the first step, know that this manual covers two different platforms. Daniel Defense writes it for the DD4, DDM4 and DD5 platforms together, and several strip and reassembly steps carry a DD5-only exception. The MK18 is a 5.56 AR-15-pattern rifle, so every one of those exceptions is the other platform's, not yours.",
+   "prose": "The anatomy plates make the split visible: one is headed AR 15 ANATOMY, the other AR 10 ANATOMY. Yours is the first.",
+   "aside": "Check your own controls too: \"*Ambi features come standard on all DD4 RIII firearms. DDM4 firearms are not equipped with the ambi features, except for the ambi charging handle.\"",
+   "quote": "DD4, DDM4 and DD5 platforms include an ambidextrous GRIP-N-RIP Charging Handle.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 3.8 GRIP-N-RIP® Charging Handle, printed p.14"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, bolt locked back, chamber seen",
+   "action": "Press the magazine catch and take the magazine out. Pull the charging handle fully to the rear and push in the lower portion of the bolt catch to lock the bolt open. Then look into the chamber through the ejection port and confirm with your eyes that it is empty.",
+   "prose": "The order matters: magazine first, then the action. Cycling the action with a magazine still in feeds a fresh round instead of clearing one.",
+   "quote": "2. Press the magazine catch and remove the magazine. 3. Pull the charging handle to the rear and push in lower portion of bolt catch.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 4.8 Unloading, printed p.28",
+   "warn": "ALWAYS UNLOAD YOUR FIREARM IMMEDIATELY AFTER USE AND PRIOR TO CLEANING AND STORAGE TO MINIMIZE THE RISK OF ACCIDENTAL DISCHARGE."
+  },
+  {
+   "phase": "Clear",
+   "title": "This rifle fires without a magazine in it",
+   "action": "Do not treat an empty magazine well as a cleared rifle. Daniel Defense states plainly that the firearm can be fired with no magazine in place, so the chamber check is the step that clears it, not the magazine coming out. Look, and then let the bolt forward on a chamber you have seen empty.",
+   "prose": "A light firing pin dent on a chambered-but-unfired round is normal on this platform and is not a sign of anything wrong.",
+   "quote": "4. Look into the chamber through the ejection port to make sure the chamber is empty.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 4.8 Unloading, printed p.28",
+   "warn": "THIS FIREARM CAN ALSO BE FIRED WITHOUT A MAGAZINE IN PLACE."
+  },
+  {
+   "phase": "Strip",
+   "title": "Cool, empty, eye protection, and a place to put small parts",
+   "action": "Let the rifle come down to room temperature before anything comes apart — a short barrel gets hot enough to matter. Put safety glasses on, not only against solvent but against the buffer spring and detents that are under tension. Then lay the small parts out in order as they come off.",
+   "prose": "This strip produces a firing pin, a retaining pin and a cam pin, all small, all easy to lose, and none of which the rifle works without.",
+   "quote": "To prevent loss of small components during stripping and cleaning, lay them out in an orderly fashion.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 5.1 Stripping for Cleaning, printed p.33",
+   "warn": "ALWAYS WEAR SAFETY GLASSES TO PROTECT YOUR EYES FROM NOT ONLY SOLVENTS AND OILS, BUT ALSO PARTS THAT ARE UNDER SPRING TENSION, WHICH CAN BE PROPELLED WITH ENOUGH FORCE TO CAUSE SEVERE INJURY."
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear takedown pin out, upper pivoted open",
+   "action": "Press the rear takedown pin in from the left side of the lower receiver and pull it out on the right until it stops positively. Then pivot the lower down and away from the upper. If you want the two halves fully apart, do the same with the front takedown pin.",
+   "prose": "Both pins are captive and stop rather than coming free. If a pin feels like it wants to keep travelling, you are pulling a detent rather than the pin.",
+   "quote": "pull the pin out on the right-hand side of the receiver until it comes to a positive stop. 3. Pivot the lower receiver down and away from the upper receiver.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 5.1 Stripping for Cleaning, step 2–3, printed p.33"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier group out, then the charging handle",
+   "action": "Pull the charging handle to the rear and draw the bolt carrier group out of the upper. Then take the charging handle itself out by pulling it back to the keyway and dropping it down and out of the receiver.",
+   "prose": "Carrier first, handle second. The handle cannot clear its keyway while the carrier is still riding on it.",
+   "quote": "5. Pull charging handle to the rear and remove the bolt carrier group. 6. Remove the charging handle by pulling it backward to the keyway and then down and out of the upper receiver.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 5.1 Stripping for Cleaning, steps 5–6, printed p.33"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin — right to left, and out the left",
+   "action": "Push the firing pin retaining pin in from the right-hand side of the carrier and pull it free on the left. It is a small cotter-type pin and it only goes one way; drive it the wrong direction and you will bend it.",
+   "prose": "Put it somewhere it cannot roll. It is the single easiest part of this rifle to lose off a bench.",
+   "quote": "7. Push in the firing pin retaining pin from right to left of the bolt carrier group and remove the pin by pulling it out to the left.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 5.1 Stripping for Cleaning, step 7, printed p.33"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin out — and NO return spring on your rifle",
+   "action": "Tilt the bolt face up so the firing pin falls back, and take the firing pin out of the rear of the carrier. Read the book's own wording carefully here: the firing pin return spring it mentions is a DD5 part. Your MK18 is on the AR-15 side and does not have one, so there is nothing extra to catch and nothing missing if none appears.",
+   "prose": "This is the first of two places where the manual branches mid-sentence. Both branches are quoted here rather than summarised, so you can see which half is yours.",
+   "quote": "8. Tilt the bolt face up and remove the firing pin (and firing pin return spring—for DD5 only). 9. Push the bolt in toward the carrier until bolt rotates and comes to a stop, then turn the bolt cam pin through 90° (not necessary on DD5).",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 5.1 Stripping for Cleaning, steps 8–9, printed p.33",
+   "warn": "The firing pin return spring is DD5-only. On a 5.56 DD4/DDM4-platform rifle like the MK18 there is no such spring."
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin turned 90 degrees, then lifted out",
+   "action": "Push the bolt in toward the carrier until it rotates and comes to a stop, then turn the cam pin a quarter turn — on your rifle that 90-degree turn IS required, it is only the DD5 that skips it. Lift the cam pin up and out, then pull the bolt forward out of the carrier.",
+   "prose": "The cam pin will not lift until it is square to its slot. If it is fighting you, the bolt is not pushed fully in.",
+   "quote": "10. Remove the cam pin by lifting it out and away from the bolt and bolt carrier. 11. Pull the bolt forward and remove it from the bolt carrier.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 5.1 Stripping for Cleaning, steps 10–11, printed p.33",
+   "warn": "IF YOU ATTEMPT TO FIRE WITHOUT THE BOLT CAM PIN INSTALLED, DAMAGE TO FIREARM OR INJURY MAY RESULT."
+  },
+  {
+   "phase": "Strip",
+   "title": "Handguard and further teardown — where the book stops",
+   "action": "Do not go further than the steps above. If dirt has built up in or around the handguard, blow it out with compressed air and lubricate as needed; the handguard does not come off for cleaning, and Daniel Defense's instruction is that removing it is a job for a qualified gunsmith with their torque specifications.",
+   "prose": "That is the manual's own boundary line, printed at the end of the strip: anything more than this goes to Servicing and Repairing.",
+   "caution": "Do not strip your firearm further than previously described. Handguard removal goes to a qualified gunsmith.",
+   "quote": "To prevent loss of small components during stripping and cleaning, lay them out in an orderly fashion. Make sure all stripped small components and parts are reinstalled properly after cleaning.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 5.1 Stripping for Cleaning, printed p.33"
+  },
+  {
+   "phase": "Clean",
+   "title": "Patch from the chamber end, out the muzzle, never back through",
+   "action": "Put a cotton flannel patch on the rod, insert it at the chamber and push it right through and out the muzzle. Take the used patch off at the muzzle rather than pulling it back — dragging fouling back through the bore undoes the pass you just made. Change the patch each time until the last one comes out clean.",
+   "prose": "Keep the rod off the muzzle crown. On a short-barrelled rifle the crown is doing a lot of work for accuracy and rod wear there is permanent.",
+   "caution": "Avoid contact between the cleaning rod and the muzzle as resultant wear will greatly reduce accuracy.",
+   "quote": "BEFORE FIRING, make sure that the barrel and the chamber are clean and dry.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 5.2 When to Clean, printed p.35"
+  },
+  {
+   "phase": "Clean",
+   "title": "Carbon comes off the gas tube area, the bolt and inside the carrier",
+   "action": "With an all-purpose nylon brush and cleaning solution, work the carbon and powder residue off the area around the gas tube in the upper, the bolt locking lugs, the gas rings, the firing pin, the cam pin, the lip of the extractor and the inside of the carrier. Those are where a direct-impingement AR actually fouls.",
+   "prose": "Never take a wire brush to the aluminium — upper, lower and handguard get a small nylon brush or a flannel patch and nothing harsher.",
+   "quote": "7. Use an all-purpose nylon cleaning brush and firearm-cleaning solution to clean all carbon and powder residue from around the gas tube in the upper receiver, bolt locking lugs, bolt rings, firing pin, bolt cam pin, lip of the extractor, and inside the bolt carrier group.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 5.3 How to Clean, step 7, printed p.37",
+   "warn": "ALLOW FIREARM TO COOL TO ROOM TEMPERATURE BEFORE ATTEMPTING CLEANING/MAINTENANCE."
+  },
+  {
+   "phase": "Clean",
+   "title": "Neutralise ammonia, then oil thinly",
+   "action": "Whatever solvent you used, get it fully off — Daniel Defense specifically warns that ammonia-based cleaners cause permanent damage if left on the rifle. Then wipe every component clean and dry, inspect it for wear, corrosion or damage, and leave a thin film of oil in the bore if the rifle is going into storage.",
+   "prose": "If it is coming out of storage rather than going in, run a dry patch through the bore and chamber first. Firing on an oiled bore is not the same as firing on a clean one.",
+   "caution": "Be sure to remove or neutralize any ammonia-based cleaning solutions from the firearm as they can cause permanent damage.",
+   "quote": "8. Wipe all components clean and dry and inspect them for excessive wear, corrosion or mechanical damage. If any of these conditions are discovered, have them corrected before firing again.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 5.3 How to Clean, step 8, printed p.37"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper and lower are apart, the charging handle is out, and the bolt carrier group is down to carrier, bolt, cam pin, firing pin and retaining pin. That is the whole strip Daniel Defense publishes for an owner. The bolt goes back into the carrier with the chamfered edge of the bolt body facing down and the extractor to the right side of the carrier — get that wrong and the cam pin will not seat.",
+   "prose": "Two things this rifle will not tolerate on reassembly: a missing cam pin, and a bolt in upside down. Both are checked by eye before the carrier goes back in.",
+   "quote": "c. Insert the bolt into the bolt carrier. Take care to ensure the chamfered edge of the bolt body where the cam pin sits is facing downward.",
+   "cite": "DD4™ / DDM4® / DD5® MANUAL — single_pg_1.4 — 5.3 How to Clean, reassembly step 12c, printed p.37",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Daniel Defense publishes no owner procedure deeper than the strip above, and draws the line in its own words at the end of section 5.1: 'Do not strip your firearm further than previously described. If additional maintenance is required, see \"Servicing and Repairing\" later in this instruction manual.' The strip already reaches every part an owner is meant to reach — receivers separated, charging handle out, and the bolt carrier group down to bolt, cam pin, firing pin and retaining pin, plus buffer, action spring and buttstock removal. Beyond that the book routes work away rather than teaching it: handguard removal is 'take firearm to a qualified and competent gunsmith', with removal/installation instructions and torque specifications available from Daniel Defense rather than printed. There is no trigger group, extractor, gas block, gas tube or barrel procedure anywhere in its 61 pages; sections 6.1 to 6.8 are parts illustrations and lists, which are identification drawings and not teardowns. Two procedures in the book are deliberately NOT carried onto this row because they belong to other products: 5.6 CLEANING PROCEDURE FOR DDM4ISR BARREL AND SUPPRESSOR and 5.7 BARREL CLEANING PROCEDURE (CLEANING ROD, BAFFLE REMOVED) are the integrally-suppressed DDM4ISR's, and the MK18 has no baffle stack. Nothing beyond what the book prints has been invented.",
+ "cleaning": [
+  {
+   "name": "BARREL & CHAMBER",
+   "tasks": [
+    "Patch from the chamber end out through the muzzle; remove the patch AT the muzzle, never pull it back",
+    "Fresh patch each pass until the last one comes out clean",
+    "Nylon bore brush and solution if it is still dirty — all the way through before reversing",
+    "Chamber brush: at least five plunge strokes and three full clockwise rotations",
+    "Keep the rod off the muzzle crown; a bore guide helps"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Nylon brush and solution around the gas tube area of the upper receiver",
+    "Bolt locking lugs, gas rings, firing pin, cam pin and the lip of the extractor",
+    "Inside the carrier itself, where the carbon collects",
+    "Lubricate carrier rails, cam pin, bolt lugs, extractor and pin, gas rings and firing pin"
+   ]
+  },
+  {
+   "name": "RECEIVERS & HANDGUARD",
+   "tasks": [
+    "Never a wire brush on aluminium — small nylon brush or flannel patch only",
+    "Compressed air for dirt in and around the handguard; it does not come off for cleaning",
+    "Remove all solvent, oil and fingerprints from the outside surfaces",
+    "Check no brush bristles or patch threads are lodged anywhere before reassembly"
+   ]
+  },
+  {
+   "name": "WHEN TO DO IT",
+   "tasks": [
+    "As soon as possible after firing, while it is still easy",
+    "Unfired: at least once or twice a year in a temperate climate, up to weekly in a tropical one",
+    "Carried loaded: unload and clean at least once a month",
+    "Wet rifle: clean it as soon as possible",
+    "Wash hands thoroughly afterwards — this is lead exposure"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Insert the buffer and action spring into the receiver extension until the buffer retaining pin holds them, then fit the buttstock by pulling the release lever down and pushing it forward onto the tube.",
+  "Put the bolt into the carrier with the chamfered edge of the bolt body — where the cam pin sits — facing DOWN; the extractor should end up on the right side of the carrier.",
+  "Insert the cam pin into the bolt and carrier from the side opposite the chamfer.",
+  "Rotate the cam pin 90 degrees so the firing pin can seat fully — this step IS required on the MK18; it is the DD5 that skips it.",
+  "Insert the firing pin. There is NO firing pin return spring on this platform; that part is DD5-only.",
+  "Fit the firing pin retaining pin from the left to the right of the carrier.",
+  "Push the charging handle forward about an inch into its keyway and up into the upper receiver, then slide the bolt carrier group in with the gas key engaging the handle and latch the handle home.",
+  "Orient the front pivot lug into the lower receiver and push the pivot pin right to left, then close the rear and push the rear takedown pin right to left until both are fully seated."
+ ],
+ "fncheck": "With the rifle empty and no magazine fitted, check the bolt carrier group first: the cam pin must be present and fully seated, and the bolt must move in and out of the carrier freely. Charge the rifle by hand and confirm the bolt locks fully into battery with no drag, then lock the bolt back on the bolt catch and release it. Check both takedown pins are fully seated so the receivers cannot separate under recoil. Put the safety selector to SAFE and confirm the trigger will not release the hammer, then to FIRE and confirm normal function. Finally look through the bore from the chamber end against a light and confirm it is clear and dry before loading."
+}

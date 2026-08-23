@@ -1,0 +1,162 @@
+{
+ "row": "springfieldarmorykuna",
+ "make": "Springfield Armory",
+ "model": "Kuna",
+ "sourcedFrom": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) (undated on cover)",
+ "sourceSha256": "65b3a17095bf49c9bbfbd4e93f497f6d77db1f7114a1f8a86685bf99029f5ee0",
+ "cleanIntro": "Springfield's own field strip for the Kuna. Two disassembly pins, both driven RIGHT to LEFT, split the receivers; then the upper's END CAP unlocks downward and the recoil spring comes out the back. ⛔ The last move is the one to be ready for: with the end cap off, the bolt and carrier are loose in the receiver and drop out when you tip it — so a hand goes over the rear before the muzzle goes up.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Eye protection, muzzle safe, finger off",
+   "action": "Eye protection on, muzzle in a safe direction, finger off the trigger. The Kuna fires with or without a magazine in place.",
+   "prose": "Springfield's first field-strip line is eye protection, before the muzzle-direction line.",
+   "quote": "Always use proper eye protection when cleaning firearms.",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.32, step 1",
+   "warn": "ALWAYS REMEMBER THE FIREARM IS ABLE TO FIRE WITH OR WITHOUT THE MAGAZINE IN PLACE."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, unload, close the bolt, safety on",
+   "action": "Remove the magazine and unload the firearm, fully retract the charging handle and release it to close the bolt, then rotate the safety selector to SAFE.",
+   "prose": "Bolt CLOSED, not locked back — the rear disassembly pin will not clear with the action open.",
+   "quote": "Fully retract the charging handle then release to completely close the bolt.",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.32, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear pin out, lower rotates down",
+   "action": "Push the REAR disassembly pin outward from right to left to its maximum travel, then grasp the pistol grip and rotate the lower receiver downward.",
+   "prose": "The pin is captive — it retracts to a stop and stays in the receiver. If it feels like it wants to come all the way out, it does not.",
+   "quote": "Push the rear disassembly pin outward from right to left and retract to its maximum travel, grasp the pistol grip and rotate the lower receiver downward",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.32, step 6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front pin out, lower off",
+   "action": "Push the FRONT disassembly pin outward from right to left to its maximum travel; the lower receiver now separates from the upper.",
+   "prose": "Same direction as the rear pin. Both are right-to-left, every time.",
+   "quote": "Push the front disassembly pin outward from right to left and retract to its maximum travel, the lower receiver can now be removed from the upper receiver",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.32, step 7"
+  },
+  {
+   "phase": "Strip",
+   "title": "End cap: pull DOWN to unlock, then rearward",
+   "action": "Grasp the upper receiver end cap, pull it DOWNWARD to unlock it, then pull it rearward off the receiver.",
+   "prose": "Down first, then back — pulling straight rearward will not release it, and it is a two-motion catch by design.",
+   "quote": "Grasp the upper receiver end cap and pull downward to unlock then rearward to remove",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.32, step 7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring assembly out of the back",
+   "action": "Pull the charging handle rearward to expose the recoil spring assembly, grasp it and remove it from the upper receiver.",
+   "prose": "The spring assembly comes out as a unit. Do not try to separate it further — nothing in the book asks you to.",
+   "quote": "Pull charging handle rearward to expose the recoil spring assembly, grasp the recoil spring assembly and remove from the upper receiver",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.32, step 7"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Hand over the rear before the bolt drops",
+   "action": "Put your hand over the rear of the upper receiver, then rotate the rear of the receiver downward so the bolt and carrier fall into your palm. If it does not fall free, keep your hand there and shake the receiver gently in a vertical orientation.",
+   "prose": "⛔ Nothing retains the bolt at this point. Tip the receiver without a hand under it and the carrier lands on the bench — this is the step that chips bolts.",
+   "quote": "Place your hand over the rear of the upper receiver and rotate the rear of the receiver downward catching the bolt and carrier in the palm of your hand.",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.32, step 7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — and stop here",
+   "action": "Upper, lower, end cap, recoil spring assembly and bolt group. Springfield states that no further disassembly is required.",
+   "prose": "Extractor removal is specifically discouraged unless you are chasing an extractor fault.",
+   "quote": "The pistol is now ready for cleaning. No further disassembly is required.",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.32, step 7",
+   "warn": "We do not advise extractor removal unless you are experiencing extractor issues."
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "The interval — every 2,000 rounds",
+   "action": "Springfield puts detailed maintenance on a 2,000-round cycle. Confirm the firearm is unloaded and field strip it first.",
+   "prose": "Everything below is the detailed pass, not the routine one.",
+   "quote": "Detailed maintenance should be performed every 2,000 rounds.",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — DETAILED MAINTENANCE, printed p.38"
+  },
+  {
+   "phase": "Deep",
+   "title": "Bolt and extractor groove, with a nylon brush",
+   "action": "Scrub the bolt including the extractor with a nylon brush dipped in solvent, paying particular attention to build-up of any kind in the EXTRACTOR GROOVE, then wipe the solvent away with a cloth.",
+   "prose": "9mm blowback fouling is heavy and it collects in that groove first. A packed groove stops the extractor moving and the gun stops extracting.",
+   "quote": "Scrub the bolt (including the extractor) with a nylon brush dipped in solvent. Pay particular attention to removing build up of any type in the extractor groove.",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — DETAILED MAINTENANCE, printed p.38"
+  },
+  {
+   "phase": "Deep",
+   "title": "Carrier and receiver interior",
+   "action": "Scrub the bolt carrier and the interior of the receiver with a nylon brush and cleaning solvent, then wipe all remaining solvent away thoroughly with a rag.",
+   "prose": "Thoroughly is doing work in that sentence — see the caution below.",
+   "quote": "Scrub the bolt carrier and the interior of the receiver with a nylon brush dipped in cleaning solvent.",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — DETAILED MAINTENANCE, printed p.38"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Keep barrel solvent off everything else",
+   "action": "Do not use bore-and-chamber solvents on the rest of the gun.",
+   "prose": "⛔ Springfield is specific about why: those solvents corrode the metal components and damage the POLYMER ones. On a gun with a polymer lower that is not a cosmetic warning.",
+   "quote": "Avoid using solvents meant for cleaning a barrel bore and chamber on other components, as this could lead to corrosion on the metal components and damage to the polymer components.",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.34",
+   "warn": "CAUTION: Thoroughly remove all solvents and cleaners prior to reassembly and storage to avoid damaging components."
+  },
+  {
+   "phase": "Deep",
+   "title": "Lubricate the carrier and the locking roller cam",
+   "action": "Two drops of lubricant into the locking roller cam surface of the bolt, and lubricant along the runners on the bottom of the carrier and the bosses on the rear.",
+   "prose": "The roller cam is where a roller-delayed action does its work and the only place on this gun that genuinely wants oil.",
+   "quote": "Bolt carrier body and locking roller pin",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — LUBRICATION POINTS, printed p.38"
+  },
+  {
+   "phase": "Deep",
+   "title": "Charging handle side swap, if you want it",
+   "action": "With the bolt group out, retract the charging handle fully so its post is concentric with the disassembly feature in the receiver, pull the handle out of the cocking handle support and reinsert it on the other side.",
+   "prose": "⛔ Do NOT remove the charging handle support to do this. If it ever has to come out it comes out FORWARD — pulling it rearward damages the part and can render the pistol inoperable.",
+   "quote": "Removal of the charging handle support is not required nor recommended to change position of the charging handle.",
+   "cite": "Springfield Armory Kuna Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — REASSEMBLY, printed p.35, step 7",
+   "warn": "If you choose to remove this part it must be removed from the front, it CANNOT be removed from the rear."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL & CHAMBER",
+   "tasks": [
+    "Bore solvent through the barrel and chamber per the solvent maker's instructions",
+    "Inspect the muzzle device for carbon build-up and clean it with powder solvent",
+    "Dry patches until clean"
+   ]
+  },
+  {
+   "name": "RECEIVER & CARRIER WAY",
+   "tasks": [
+    "Powder solvent down the carrier way (tunnel), then light lubrication",
+    "⛔ Remove ALL solvent before reassembly or storage",
+    "Lightly oil exposed metal on the bolt and inside the receiver, wipe the excess"
+   ]
+  },
+  {
+   "name": "BOLT GROUP",
+   "tasks": [
+    "Clean all parts with powder solvent, rinse, dry and inspect",
+    "Lightly lubricate the bolt and wipe away any excess",
+    "Leave the extractor alone unless it is giving trouble"
+   ]
+  }
+ ],
+ "reassembly": [
+  "⛔ The hammer must be COCKED and the safety ON before the lower goes back on the upper.",
+  "Slide the bolt into the receiver, then insert the recoil spring assembly into the rear of the bolt.",
+  "Install the upper receiver end cap and press upwards to lock it.",
+  "Seat the front disassembly pin, rotate the lower up into position and press the rear pin home.",
+  "Verify function — cycle the charging handle, move the selector to fire and dry fire — before returning the Kuna to service."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty, cycle the charging handle, move the selector to fire and dry fire to confirm the trigger assembly is working."
+}

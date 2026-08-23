@@ -1,0 +1,85 @@
+{
+ "row": "springfieldarmoryxd94in",
+ "make": "Springfield Armory",
+ "model": "XD-9 4in",
+ "sourcedFrom": "Springfield Armory XD & XD Mod.2 Operation & Safety Manual — Operation & Safety Manual (no part code printed) (undated on cover)",
+ "sourceSha256": "e5cb977dcbecf0433a2c1ab799643525226f787ef61beb2ca1a71cdc4bb2cba1",
+ "cleanIntro": "This is the XD and XD Mod.2 book. Springfield names the models it does NOT cover, so check yours against step 1 before going further.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check this manual is yours",
+   "action": "This procedure is for XD and XD Mod.2 pistols. Springfield states it must not be used for the XD-E, XD-S, XD-M or XD-M Elite.",
+   "prose": "Those are different pistols with different books. A shared name on the slide is not shared coverage.",
+   "quote": "Do not use this manual for XD-E",
+   "cite": "Springfield Armory XD & XD Mod.2 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Cover note, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, magazine out, unload",
+   "action": "Point the pistol in a safe direction with your finger off the trigger, remove the magazine and unload it.",
+   "prose": "An XD will fire with or without a magazine in place.",
+   "quote": "The information in this manual applies to all XD",
+   "cite": "Springfield Armory XD & XD Mod.2 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Cover note, p.1",
+   "warn": "ALWAYS REMEMBER THE FIREARM IS ABLE TO FIRE WITH OR WITHOUT THE MAGAZINE IN PLACE."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide open and inspect",
+   "action": "Retract the slide, lock it open on the slide stop lever, and inspect the chamber.",
+   "prose": "Look, then feel. The next step depends on this one being true.",
+   "quote": "Before performing any disassembly, point firearm in safe direction, make sure the firearm is completely",
+   "cite": "Springfield Armory XD & XD Mod.2 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Strip XD, p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the slide, then pull the trigger",
+   "action": "Pull the slide slightly rearward to release the slide stop lever, grip it firmly and let it move forward until spring tension is released. Then, holding the slide, pull and release the trigger with the pistol pointed in a safe direction to fully unlock the slide from the frame.",
+   "prose": "The trigger pull is what unlocks it. You cleared the chamber above; that is what makes this safe.",
+   "caution": "Slide is under spring tension. Maintain control.",
+   "quote": "While holding the slide, pull and release the trigger with the firearm pointed in a safe direction to fully unlock the slide from the frame",
+   "cite": "Springfield Armory XD & XD Mod.2 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Strip XD, step 6, p.27",
+   "warn": "Do not attempt to disassemble this or any other firearm until you have received training and instructions from a competent pistolsmith."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly off the frame",
+   "action": "Move the complete slide assembly forward and off the frame.",
+   "prose": "Barrel and recoil spring system come with it.",
+   "quote": "Move the complete slide assembly forward and off the frame",
+   "cite": "Springfield Armory XD & XD Mod.2 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Strip XD, step 7, p.27",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The XD manual documents the field strip only and warns against going further without training from a competent pistolsmith. No detail strip is published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Solvent-wet patch through the bore, correctly sized brush, then dry patches until clean",
+    "Wipe the feed ramp and the barrel exterior",
+    "A light pass of oil outside; nothing pooled"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Scrub the breech face and around the extractor",
+    "Clean the slide rails",
+    "Wipe the striker channel DRY — no oil in an ignition channel"
+   ]
+  },
+  {
+   "name": "FRAME & MAGAZINES",
+   "tasks": [
+    "Brush the frame rails",
+    "Wipe the magazine bodies dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the slide assembly to the frame rails and run it fully rearward.",
+  "Rotate the disassembly lever back down and rack the slide several times."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, rack the slide and confirm the trigger resets, pointed in a safe direction."
+}

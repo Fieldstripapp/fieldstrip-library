@@ -1,0 +1,137 @@
+{
+ "row": "waltherccpm2",
+ "make": "Walther",
+ "model": "CCP M2",
+ "sourcedFrom": "Walther CCP M2 Safety & Instruction Manual (9 mm Luger) — CCP M2 Manual 9mm, part 5080500 (cached from a 2022 capture of waltherarms.com)",
+ "sourceSha256": "292bf9a97b71b67b1ede65b180be73efb486edae82a6df501a836a7fe0e08c5e",
+ "cleanIntro": "Not like other pistols, and the differences are the whole reason to read this rather than guess. ⛔ THE BARREL IS FIXED AND DOES NOT COME OUT, and there is a PISTON under it that has its own chamber to clean — Walther calls the piston chamber out by name and supplies a brass wire brush for it. ⛔ THE STRIKER MUST BE DECOCKED BEFORE THE STRIP WILL BEGIN: the locking block cannot be pushed into the slide until the trigger has been pulled. ⛔ And do NOT over-lubricate — Walther says excess lubricant collects dirt, unburned powder and carbon and disrupts the function.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, magazine out, chamber checked",
+   "action": "Point the muzzle in a safe direction with your finger off the trigger and outside the guard. Press the magazine release and remove the magazine, then open the slide and inspect the chamber.",
+   "prose": "⛔ Walther prints the reason the order matters right beside it: release the slide with a loaded magazine still in and you have just chambered a round and the pistol is ready to fire.",
+   "quote": "Point the muzzle in a safe direction. Make sure your finger is off the trigger and out of the trigger guard. Press the magazine release and remove the magazine.",
+   "cite": "Walther CCP M2 Safety & Instruction Manual (9 mm Luger) — CCP M2 Manual 9mm, part 5080500 — 7. UNLOADING THE PISTOL, printed p.20",
+   "warn": "ANY TIME YOU RELEASE THE SLIDE WHILE A MAGAZINE CONTAINING CARTRIDGES IS IN THE PISTOL, YOU WILL HAVE CHAMBERED A NEW ROUND IN THE PISTOL. THE PISTOL WILL BE READY TO FIRE."
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Pull the trigger to DECOCK the striker — first",
+   "action": "With the pistol proven unloaded and the muzzle in a safe direction, pull the trigger to decock the striker.",
+   "prose": "⛔ This is not optional and it is not last. Walther states the interlock in the step itself: the locking block cannot be pushed into the slide unless the striker is decocked. A CCP that \"will not come apart\" is almost always still cocked.",
+   "quote": "Keep the muzzle pointed in a safe direction and pull the trigger to decock the striker.",
+   "cite": "Walther CCP M2 Safety & Instruction Manual (9 mm Luger) — CCP M2 Manual 9mm, part 5080500 — 9.1 Disassembling, printed pp.22-23",
+   "warn": "NEVER DO ANYTHING BEYOND WHAT YOU ARE SPECIFICALLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Locking block in, release to the right, block out",
+   "action": "Push the locking block into the slide and move the locking block release to the RIGHT. Then let the locking block slip out of the slide; the spring cover will glide up the ramp of the locking block and out.",
+   "prose": "Two parts leave together here and the spring cover is the small one that gets lost. Do this over a cloth.",
+   "quote": "Push the locking block into the slide [1] and move the locking block release to the right [2] (fig.15). (The locking block can not be pushed into the slide unless the striker is decocked!)",
+   "cite": "Walther CCP M2 Safety & Instruction Manual (9 mm Luger) — CCP M2 Manual 9mm, part 5080500 — 9.1 Disassembling, printed pp.22-23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Retract, wait for the extractor, then lift and forward",
+   "action": "Retract the slide. As soon as the extractor is free of the extractor notch, lift the REAR of the slide and move it forward off the frame.",
+   "prose": "The extractor clearing its notch is the tell — before that the slide will not lift, and forcing it marks the notch.",
+   "quote": "Retract the slide. As soon as the extractor is free from the extractor notch [5] lift up the rear end of the slide and move it forward [6] (fig. 17).",
+   "cite": "Walther CCP M2 Safety & Instruction Manual (9 mm Luger) — CCP M2 Manual 9mm, part 5080500 — 9.1 Disassembling, printed pp.22-23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Striker assembly out past the firing pin safety",
+   "action": "Push the firing pin safety into the slide and remove the striker assembly. Then take the recoil spring off.",
+   "prose": "The firing pin safety physically blocks the striker's path; pressing it in is what lets the assembly pass. That is also why it has to be pressed again on the way back in.",
+   "aside": "Finally remove the recoil spring.",
+   "quote": "Push the firing pin safety into the slide [7] and remove the striker assembly [8] (fig. 18).",
+   "cite": "Walther CCP M2 Safety & Instruction Manual (9 mm Luger) — CCP M2 Manual 9mm, part 5080500 — 9.1 Disassembling, printed pp.22-23"
+  },
+  {
+   "phase": "Clean",
+   "title": "Breech, breech face, extractor, PISTON, magazine lips",
+   "action": "With an appropriate gun solvent, take the fouling off the breech, the breech face, the extractor, the PISTON, the magazine lips and follower, the outer barrel surface and the receiver, using a brush and a cloth.",
+   "prose": "⛔ The piston is on that list because this pistol is gas-delayed — a fouled piston changes how the slide unlocks, which is a timing problem rather than a dirt problem.",
+   "quote": "With an appropriate gun cleaning solvent remove fouling residue from breech, breech face, extractor, piston, magazine lips, follower, outer barrel surface and receiver with a brush and a cloth.",
+   "cite": "Walther CCP M2 Safety & Instruction Manual (9 mm Luger) — CCP M2 Manual 9mm, part 5080500 — 9.2 Cleaning, printed p.24"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the CHAMBER end, then dry it",
+   "action": "Clean the barrel bore starting from the chamber end and take the lead and firing residue out of the whole interior. Then dry it with cleaning patches.",
+   "prose": "Chamber end even though the barrel is fixed — the slide is off, so the breech is open and the crown never sees a rod.",
+   "quote": "Clean the barrel bore starting from the chamber end and remove lead and firing residue from the whole interior of the barrel. Then dry it with cleaning patches.",
+   "cite": "Walther CCP M2 Safety & Instruction Manual (9 mm Luger) — CCP M2 Manual 9mm, part 5080500 — 9.2 Cleaning, printed p.24"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ The PISTON CHAMBER, with the brass brush supplied",
+   "action": "Give special attention to the piston chamber, and clean it with the brass wire brush that came with the pistol.",
+   "prose": "⛔ Walther supplies a dedicated brush for exactly this one job and says so. If the CCP starts short-cycling, this is the first place to look — not the ammunition.",
+   "quote": "Give special attention to the piston chamber. Clean the chamber with the enclosed brass wire brush (fig. 19).",
+   "cite": "Walther CCP M2 Safety & Instruction Manual (9 mm Luger) — CCP M2 Manual 9mm, part 5080500 — 9.2 Cleaning, printed p.24"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ A THIN coat — over-lubricating breaks this pistol",
+   "action": "After cleaning, apply a thin coat of gun lubricant to all metal parts. ⛔ Do not over-lubricate.",
+   "prose": "⛔ Walther gives the failure mode: excess lubricant attracts dirt, unburned powder and carbon residue, which disrupts the proper function of the firearm. On a gas-delayed action carrying residue into the piston chamber, that is not cosmetic. Cold climates need an oil that will not congeal.",
+   "quote": "After cleaning apply a thin coat of gun lubricant to all metal parts. Do not over-lubricate the pistol.",
+   "cite": "Walther CCP M2 Safety & Instruction Manual (9 mm Luger) — CCP M2 Manual 9mm, part 5080500 — 9.2 Cleaning, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — four pieces",
+   "action": "Frame with its fixed barrel and piston, slide, striker assembly and recoil spring, plus the locking block and spring cover. Walther publishes nothing deeper for an owner.",
+   "prose": "⛔ Assembly has one order that must be respected: the striker goes in FIRST and the firing pin safety must be pressed to let it past, then the recoil spring onto the barrel, then the slide — watching the piston.",
+   "quote": "NEVER DISASSEMBLE YOUR HANDGUN beyond the field stripping procedure outlined in this manual.",
+   "cite": "Walther CCP M2 Safety & Instruction Manual (9 mm Luger) — CCP M2 Manual 9mm, part 5080500 — OWNER'S RESPONSIBILITIES, printed p.7",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "⛔ WALTHER PUBLISHES NO PROCEDURE PAST THE FIELD STRIP FOR THIS PISTOL, and says so directly: \"NEVER DISASSEMBLE YOUR HANDGUN beyond the field stripping procedure outlined in this manual. Improper disassembly or reassembly of your handgun may be dangerous.\" What the book does carry beyond the strip is not maintenance — it is FITTING: changing the front sight (which does involve removing the piston pin) and swapping the magazine release to the other side. Those are adjustments to suit the user, not a deep clean, and they are deliberately not authored as one.",
+ "cleaning": [
+  {
+   "name": "BARREL (FIXED)",
+   "tasks": [
+    "From the chamber end, slide off; the barrel does not come out",
+    "Lead and residue from the whole interior, then dry patches",
+    "Outer barrel surface wiped too"
+   ]
+  },
+  {
+   "name": "⛔ PISTON & PISTON CHAMBER",
+   "tasks": [
+    "⛔ The piston itself — it is what delays the action",
+    "⛔ Piston chamber with the enclosed BRASS WIRE BRUSH",
+    "This is the first thing to check if it short-cycles"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Breech, breech face and the extractor",
+    "Striker channel kept dry",
+    "Thin coat of lubricant — no more"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Magazine lips and the follower",
+    "Wipe dry rather than oiling",
+    "Check the lips are not spread"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Striker assembly into the slide — press the firing pin safety in to let it past.",
+  "Recoil spring onto the barrel.",
+  "Mount the slide, paying attention to the piston as it goes on.",
+  "Move the slide the whole way down, push the spring cover in behind the locking block, hold it, and push the locking block into the slide.",
+  "The locking block release moves to the left on its own and holds the block in place."
+ ],
+ "fncheck": "Magazine out, chamber verified empty, muzzle safe. Cycle the slide by hand several times — it should run smoothly and return fully into battery. Check the locking block release has moved fully left and the block is captive. Fit an EMPTY magazine and confirm the catch holds it. Then dry-fire once with the muzzle safe. ⛔ If the slide feels gritty or short of battery, the piston chamber is the first thing to re-clean, not the ammunition."
+}

@@ -1,0 +1,226 @@
+{
+ "row": "gemtechlunar9",
+ "make": "Gemtech",
+ "model": "Lunar 9",
+ "sourcedFrom": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 (COPYRIGHT: ©2020 GEMTECH. All rights reserved. The contents of this publication may not be reproduced in any form or by any means in whole or in part without the prior written permission of the copyright owner.)",
+ "sourceSha256": "390ac8cec5f6e7af152a65f1178b4beccc03e58843eda55c82a8ef2a243dd5fd",
+ "cleanIntro": "The LUNAR 9 is a modular 9mm pistol can that runs long (7 inches) or short (4.7 inches), and everything about servicing it turns on that. It carries TWO distinct baffle stacks — a primary stack in the primary tube and a secondary stack in the extension tube — and their baffles are NOT interchangeable between stacks. It mounts through a Linear Inertial Decoupler, the L.I.D., which is itself a four-part assembly you strip and grease. Gemtech's interval is 250 rounds. One warning about this book: it covers four different suppressors and their rules genuinely differ, so read only the LUNAR 9 pages (23-32) — the AURORA-II's wipes and 30-round service life are a different product entirely.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, chamber and action cleared by hand",
+   "action": "Never attach, tighten or remove the LUNAR 9 on a loaded firearm. Magazine out first, then visually AND manually check and clear the chamber and the action. Gemtech's own definition of unloaded is stricter than most people's: the action open, the magazine removed, and you having looked and confirmed there is no cartridge in the chamber.",
+   "prose": "This can lives on a tilting-barrel pistol, where the muzzle end is exactly where your other hand goes to twist. Clear it properly first.",
+   "quote": "WARNING: Never attach, tighten or remove a suppressor TO/from a loaded firearm. First remove the magazine from the FIREARM. Second, visually and manually check and clear the chamber and action OF AMMUNITION.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — LUNAR®9 Suppressor Continued, p.24",
+   "warn": "ALWAYS CONSULT WITH AND FOLLOW THE WARNINGS AND INSTRUCTIONS IN THE OWNER’S MANUAL FOR YOUR SPECIFIC FIREARM."
+  },
+  {
+   "phase": "Clear",
+   "title": "This book covers the suppressor, not the gun it is on",
+   "action": "Before anything else, get your host firearm's own manual out and keep it beside this one. Gemtech's pistol-group book teaches the cans — mounting, ammunition limits, and stripping the LUNAR 9 — and it routes every warning and instruction about the FIREARM back to that firearm's manufacturer. Then find the LUNAR 9's own model section: this one book covers the whole pistol group, and the compatible chamberings and minimum barrel length are printed per model.",
+   "prose": "Two bounds, both stated by Gemtech: the host gun is out of scope, and the ammunition limits are model-specific. A figure read off a neighbouring model's page in the same book is the wrong figure — that is what the per-model sections exist to prevent.",
+   "quote": "ALWAYS CONSULT WITH AND FOLLOW THE WARNINGS AND INSTRUCTIONS IN THE OWNER'S MANUAL FOR YOUR SPECIFIC FIREARM.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — Safety Warnings, p.6",
+   "warn": "Host-firearm procedure comes from the host firearm's manual, never from this one."
+  },
+  {
+   "phase": "Clear",
+   "title": "One book, four suppressors — work from the LUNAR 9 sections",
+   "action": "Check the cover before you follow any procedure in this book. Gemtech prints ONE manual for four different pistol suppressors — the AURORA-II, the LUNAR 9, the LUNAR 45 and the GM-45 — and they are not maintained the same way. Work only from the LUNAR 9 sections; the AURORA-II in particular is a limited-life can whose wipes are replaced by Gemtech, not by you, so its instructions must never be applied to this suppressor.",
+   "prose": "This is the hazard of a shared book: the procedures sit near each other on the page and look interchangeable. They are not. Gemtech says so itself — different models carry different requirements, and each model's cleaning instructions are given separately.",
+   "quote": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — Cover, p.1",
+   "warn": "DIFFERENT MODELS HAVE VARYING REQUIREMENTS THAT ARE DETAILED ELSEWHERE IN THIS MANUAL."
+  },
+  {
+   "phase": "Clear",
+   "title": "LUNAR 9 chambering and MINIMUM BARREL LENGTH",
+   "action": "The LUNAR 9's own specification line is 9mm Luger with a 3 inch minimum barrel, wet or dry; and 300 BLK with an 8 inch minimum barrel, DRY ONLY and on a fixed mount only. Those two lines are the LUNAR 9's alone — the other three cans in this book carry different chamberings and different minimums, and reading the wrong row is the trap a four-product manual sets.",
+   "prose": "It is full-auto rated, where Gemtech means 4-8 round bursts every 4-8 seconds. Supersonic 9mm is fine.",
+   "caution": "9mm Luger - 3” BBL wet or dry 300 BLK - 8˝ Min BBL (Dry Only) and fixed mount only",
+   "quote": "Applicable Chambering and Minimum Barrel Length",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — GEMTECH® LUNAR® 9 Suppressor Specifications, p.23"
+  },
+  {
+   "phase": "Clear",
+   "title": "300 BLK through it must be SUBSONIC",
+   "action": "If your LUNAR 9 has been fed 300 BLK, it must have been subsonic. Gemtech is explicit that a pistol suppressor listing 300 BLK is for subsonic 300 BLK only, and that supersonic 300 BLK will damage it and can injure you. Combined with the 8 inch minimum barrel and the fixed-mount requirement, that is three separate conditions on one cartridge.",
+   "prose": "Never fire tracer, frangible, pre-fragmented or bird-shot loaded ammunition through it under any circumstances.",
+   "quote": "WARNING: GEMTECH PISTOL SUPPRESSORS THAT LIST 300 BLK AS AN ACCEPTABLE CALIBER SHOULD ONLY BE USED WITH 300 BLK SUBSONIC AMMUNITION. USE OF SUPERSONIC 300 BLK AMMUNITION IN A GEMTECH PISTOL SUPPRESSOR WILL RESULT IN DAMAGE TO THE SUPPRESSOR AND POSSIBLE INJURY.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — Ammunition, p.8",
+   "warn": "WARNING: NEVER fire frangible or pre-fragmented ammunition OR AMMUNITION LOADED WITH BIRD SHOT through any GEMTECH suppressor."
+  },
+  {
+   "phase": "Strip",
+   "title": "Let it cool, then unscrew it off the barrel",
+   "action": "The can can exceed 900 degrees F depending on rate of fire — hot enough to burn skin badly and to start a fire against flammable material. Let it cool or use a heat-resistant glove. Then unscrew it by hand; if it will not shift, a strap wrench on the L.I.D. body or on any installed thread mount will break it loose.",
+   "prose": "A strap wrench, not a pipe wrench. The L.I.D. body is the part you can grip, and it is also the part you can crush.",
+   "quote": "Removal From Firearm: • Unscrew the suppressor by hand. If necessary, use a strap wrench on the L.I.D. or any installed thread mount to loosen it from the barrel.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — LUNAR®9 Suppressor Continued, p.24",
+   "warn": "WARNING: USE PROPER SKIN PROTECTION TO PREVENT BURNS WHEN TIGHTENING OR REMOVING A SUPPRESSOR WHILE IT IS HOT."
+  },
+  {
+   "phase": "Strip",
+   "title": "Off the pistol before anything is opened",
+   "action": "Do not attempt to clean or take the LUNAR 9 apart while it is on a firearm. It comes off the pistol first, every time. This is step 1 of Gemtech's own disassembly sequence and it is there because opening a can on a mounted host means working a wrench at the muzzle of a gun you have just been shooting.",
+   "prose": "It also keeps solvent and carbon out of the pistol's bore and off its recoil spring.",
+   "quote": "1. DO NOT attempt to clean or disassemble the LUNAR®9 while it is installed on a firearm. Remove the suppressor from the firearm first.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — Disassembly and Maintenance of the LUNAR®9 Suppressor, p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "L.I.D. assembly out of the back",
+   "action": "Take the L.I.D. assembly out of the rear of the primary tube — or the thread mount, if you are running a fixed-barrel host on a thread mount or Quickmount instead. The L.I.D. is what lets this can work on a locked-breech, tilting-barrel pistol; on a fixed barrel it is the wrong part and an appropriate mount is required in its place.",
+   "prose": "Note which you have before you start. A LUNAR 9 on a carbine is on a thread mount, not on the decoupler.",
+   "aside": "If this suppressor is used on a fixed barrel firearm, an appropriate thread mount or Quickmount® is required (sold separately).",
+   "quote": "2. Remove the L.I.D. assembly (or thread mount if present) from the rear of the primary tube.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — Disassembly and Maintenance of the LUNAR®9 Suppressor, p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "End cap off with a 3/8 inch ratchet drive",
+   "action": "Take the end cap off the front of the tube using a 3/8 inch ratchet drive wrench inserted into the square cutout in the cap. Make sure the drive is fully into the square before you load it — a partially engaged drive rounds the corners of the cutout out, and a rounded cutout is a cap that will not come off next time.",
+   "prose": "That same square cutout is what you use to put it back on, so it is worth protecting.",
+   "quote": "3. Remove the end cap from the front of the tube. Use a 3/8˝ rachet drive wrench inserted into the square cutout of the end cap (FIGURE 7).",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — Disassembly and Maintenance of the LUNAR®9 Suppressor, p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extension tube off, then both baffle stacks out",
+   "action": "If you are running the long configuration, unscrew the extension tube off the primary tube. Then push the baffles out of both tubes — primary stack from the primary tube, secondary stack from the extension. Keep them separate as they come out. They look similar and they are not interchangeable.",
+   "prose": "Lay them out in the order they came out. That is your reference for putting them back.",
+   "caution": "Take note of which baffles go in which stack - as they are not interchangeable between baffle stacks.",
+   "quote": "5. Remove the baffles from both the primary tube and the extension tube.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — Disassembly and Maintenance of the LUNAR®9 Suppressor, p.26"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stuck baffles: a WOODEN dowel, nothing metal",
+   "action": "Carbon build-up can lock the baffles in the tubes. Gemtech's method is a wooden dowel, pressing or tapping the stack out from the BACK of the suppressor. No metal punch, no metal object of any kind against a baffle face, and never strike the tube on a hard surface to shake them loose — that damages the tube, and a damaged tube on a serialised suppressor is a replacement, not a repair.",
+   "prose": "The aluminium baffles are hard anodised and a punch mark on a sealing face changes how the stack indexes.",
+   "quote": "CAUTION: Due to carbon buildup, the baffles may become hard to remove from the tubes. If necessary, use a wooden dowel to gently press or tap out the baffles from the tubes by pushing on the baffle from the back of the suppressor. Do not use a metal punch, or any other metallic object when pressing or tapping against the baffles.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — Disassembly and Maintenance of the LUNAR®9 Suppressor, p.26",
+   "warn": "Do not strike the tube on a hard surface to try and get the baffles out. The tubes can be damaged if you strike it on a hard surface."
+  },
+  {
+   "phase": "Clean",
+   "title": "Nylon and non-marring first, metal only as a last resort",
+   "action": "Clean the internal components with a nylon brush and non-marring picks. Brass brushes and metal picks are a last resort for lead and carbon that non-marring tools will not shift, and their use damages the components and shortens their service life. Then clean the outer tube and every threaded component with a nylon or plastic bristle brush, and get the debris out of the threads.",
+   "prose": "Let the tube and core dry fully before anything goes back together. Residual oil on a baffle face changes how the stack seats.",
+   "caution": "Take care when using metal tools as their use can damage suppressor components and decrease their useful service life.",
+   "quote": "7. To clean the outer tube and threaded components, use a nylon or plastic bristle brush to remove deposits and clean any debris from the threads. Allow both the tube and core to dry before reassembling and using the suppressor.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — LUNAR®9 Suppressor Continued, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You have the L.I.D. assembly, the primary tube, the extension tube if fitted, the end cap and two separate baffle stacks. Gemtech's interval for all of this is 250 rounds. Deep Clean walks the L.I.D. teardown and greasing, and the reassembly — which is the part that goes wrong, because the two stacks are not interchangeable and a wrongly built can announces itself as a gap at the end cap.",
+   "prose": "Never fire a bullet through an improperly assembled suppressor. The gap check at the end is not optional.",
+   "quote": "NOTE: Recommended maintenance interval is 250 rounds.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — Disassembly and Maintenance of the LUNAR®9 Suppressor, p.26",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Open the L.I.D. — closer, spring, piston",
+   "action": "Unscrew the L.I.D. closer off the back of the L.I.D. body and take out the spring and the piston. That is four parts: closer, spring, piston, body. Clean them with a nylon brush — a brass brush only if you must — and CLP, then get the deposits off the piston's bearing surfaces, because a sticky piston is what makes a locked-breech pistol short-stroke with a can on it.",
+   "prose": "The decoupler is doing real work every shot. It is the part of this can most likely to cause a malfunction if it is left dirty.",
+   "quote": "8. To Clean the L.I.D. (Linear Inertial Decoupler) unscrew the L.I.D. closer. Remove spring and piston (FIGURE 9). Use a nylon brush (or brass brush if necessary) and remove deposits with CLP (Cleaner, Lubricant, Preservative).",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — LUNAR®9 Suppressor Continued, p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "L.I.D. back together FIRST, with high-temperature grease",
+   "action": "Rebuild the L.I.D. before anything else. Put the spring on the piston and lubricate both with a high-temperature grease, slide them back into the L.I.D. body, then screw the closer on hand tight. Do not over-tighten it, and do not substitute ordinary gun oil for the high-temperature grease — this part sits in the hottest gas path in the assembly.",
+   "prose": "Everything else in the reassembly is dry. This is the one place grease belongs.",
+   "caution": "3. Screw the L.I.D. Closer to the back of the L.I.D. Body. HAND-TIGHTEN ONLY. DO NOT OVER-TIGHTEN.",
+   "quote": "1. Place the Spring on the Piston and lubricate the Spring and Piston with a high-temperature grease.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — Reassembly of the LUNAR®9 Suppressor, p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "Two stacks, and they do NOT swap",
+   "action": "Stack the baffles as the diagrams show, and take note of which baffles belong to which stack. The primary stack is a steel blast baffle plus two identical primary baffles; the extension stack is a transition baffle plus three identical secondary baffles. Their notches and tabs only accept baffles of the right type, so a mixed stack cannot be forced — it simply will not close up.",
+   "prose": "Four distinct baffle types, identified by ID notch, ID groove and flange. Sort them into two piles before anything goes into a tube.",
+   "quote": "1. Align and stack baffles as shown (FIGURE 10). Take note of which baffles go in which stack - as they are not interchangeable between baffle stacks. Set baffle stacks aside.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — Complete Suppressor Reassembly - Short or Long, p.28",
+   "warn": "The baffles in each stack have notches and tabs that only fit with those baffles of the appropriate type."
+  },
+  {
+   "phase": "Clean",
+   "title": "Stacks into their tubes, tabs aligned",
+   "action": "Slide the primary stack into the primary tube and, if you are building long, the secondary stack into the extension tube, watching the alignment tabs on each. If the baffles are tight going in, a few drops of CLP on their outside diameters eases them home — that is Gemtech's own note, not an improvisation.",
+   "prose": "They should slide, not be driven. Anything that needs force is either the wrong stack or a tube that has not been cleaned properly.",
+   "aside": "3. Slide the Extension (secondary) baffle stack into the Extension tube as shown (FIGURE 12). Note alignment tabs.",
+   "quote": "NOTE: If required, use a few drops of CLP on the outside of the baffles to help during reassembly into the tube.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — LUNAR®9 Suppressor Continued, p.29"
+  },
+  {
+   "phase": "Clean",
+   "title": "Long or short — the end cap goes in a different tube",
+   "action": "Building LONG: screw the end cap into the EXTENSION tube with the 3/8 inch ratchet drive, then screw that extension assembly into the primary tube, hand tight. Building SHORT: the end cap goes straight into the PRIMARY tube instead, and there is no extension at all. Getting this the wrong way round is the most common LUNAR 9 assembly error because both look plausible.",
+   "prose": "Hand tight on the tube-to-tube joint. The ratchet is for the end cap only.",
+   "quote": "4b. If assembling in the short configuration, screw the End Cap into the Primary tube using a 3/8˝ ratchet drive wrench. Use care not to damage End Cap (FIGURE 13). DO NOT OVER-TIGHTEN.",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — LUNAR®9 Suppressor Continued, p.30",
+   "warn": "Use care not to damage End Cap."
+  },
+  {
+   "phase": "Clean",
+   "title": "The gap check — the can tells you if you got it wrong",
+   "action": "Tighten it up and look at the joints. If the stacks are right and correctly ordered, there is NO gap between the end cap and the tube. A visible gap at the end cap or between the tubes means the baffles are in the wrong stack or in the wrong order, and the fix is to take it apart and re-check — never to tighten harder until the gap closes.",
+   "prose": "This is the designed-in error indicator. It is the reason the baffles carry notches and tabs at all.",
+   "quote": "If an incorrect arrangement is attempted, the tubes and/or end cap will have a gap when tightened - indicating an improperly assembled suppressor (see FIGURES 14 thru 17).",
+   "cite": "Pistol Suppressors Safety & Instruction Manual For: AURORA-II®, LUNAR®9, LUNAR®45, and GM®-45 — p/n 3010471                   REV:PISTOL_SUPPRESSORS-110520 — LUNAR®9 Suppressor Continued, p.24",
+   "warn": "WARNING: Never FIRE A BULLET THROUGH AN IMPROPERLY ASSEMBLED suppressor."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BAFFLE STACKS",
+   "tasks": [
+    "Interval: 250 rounds",
+    "Keep the PRIMARY and EXTENSION stacks separate — they are not interchangeable",
+    "Nylon brush and non-marring picks with CLP; brass brush and metal pick only as a last resort",
+    "Stuck baffles: wooden dowel from the BACK only, never a metal punch, never strike the tube"
+   ]
+  },
+  {
+   "name": "TUBES & THREADS",
+   "tasks": [
+    "Nylon or plastic bristle brush on the outer tube and every threaded component",
+    "Clear all debris from the threads",
+    "Let the tube and core dry fully before reassembly"
+   ]
+  },
+  {
+   "name": "L.I.D. (LINEAR INERTIAL DECOUPLER)",
+   "tasks": [
+    "Unscrew the L.I.D. closer; remove the spring and the piston",
+    "Nylon brush (brass if necessary) with CLP to remove deposits",
+    "Re-grease the spring and piston with HIGH-TEMPERATURE grease on reassembly",
+    "Closer back on hand tight only"
+   ]
+  },
+  {
+   "name": "BEFORE IT GOES BACK ON",
+   "tasks": [
+    "All parts dry and free of residual oils",
+    "No gap at the end cap or between the tubes",
+    "Clean and degrease the muzzle threads; never a lock washer or crush washer"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Build the L.I.D. first: spring on piston, both greased with high-temperature grease, back into the body, closer on hand tight.",
+  "Sort the baffles into the primary stack (steel blast baffle plus two identical primary baffles) and the extension stack (transition baffle plus three identical secondary baffles).",
+  "Slide the primary stack into the primary tube, watching the alignment tabs; a few drops of CLP on the outside of the baffles helps if they are tight.",
+  "LONG: slide the secondary stack into the extension tube, fit the end cap into the EXTENSION tube with a 3/8 inch ratchet drive, then screw the extension into the primary tube hand tight.",
+  "SHORT: fit the end cap straight into the PRIMARY tube with the 3/8 inch ratchet drive and leave the extension off.",
+  "Fit the L.I.D. assembly (or thread mount) back into the rear of the primary tube.",
+  "Thread the can onto a clean, degreased muzzle by hand only — never with a lock washer or crush washer under it."
+ ],
+ "fncheck": "The gap is the test. With the can assembled and tightened, there must be NO gap between the end cap and the tube, and none between the primary and extension tubes — a gap means the baffle stacks are wrong or out of order, and the answer is to take it apart and re-check, not to tighten harder. Then sight down the bore against a light and confirm the baffle apertures form one clean, concentric tunnel. Before firing, check the suppressor is fully screwed onto the muzzle hand tight and abutted to a flat, perpendicular shoulder with the threads concentric to the bore, and re-check tightness periodically while shooting, letting it cool or using a heat-resistant glove first."
+}

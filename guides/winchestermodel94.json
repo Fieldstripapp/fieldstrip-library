@@ -1,0 +1,250 @@
+{
+ "row": "winchestermodel94",
+ "make": "Winchester",
+ "model": "Model 94",
+ "sourcedFrom": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "c97a80a7827047ce0cc3acdc06e65488fc7734b51e7730345ff2d46adecb70c0",
+ "cleanIntro": "Read this before you start, because it decides whether there is a strip at all. Winchester publishes NO disassembly of a standard Model 94 — no bolt removal, no lever pin, no side plate. On a solid-frame rifle the whole of the published routine is done through the open action: unload it completely, drop the finger lever, and clean the bore, receiver and lever mechanism from outside. The one teardown this book contains belongs to the TAKEDOWN variant only, and it separates the rifle into two halves at the barrel extension — nothing more. So the steps below split at that point, and the takedown steps are marked as what they are. Two things bound this manual: it covers 1992-2002 crossbolt rifles and current top-tang rifles, and the two halves of a takedown rifle are married to each other and to no other Model 94.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Unload the tube by cycling it dry, then look with the carrier down",
+   "action": "Put the safety on safe and work the finger lever fully down and up, over and over, catching each cartridge as it comes out. A tubular magazine has no floorplate and no removable box, so the only way rounds leave a Model 94 is one at a time through the chamber. When nothing more ejects, open the action, press the carrier down and look at the chamber, the feed mechanism and the magazine follower. That last check is the one people skip, and the follower is where a round hides.",
+   "prose": "Ejection is up and slightly to the right on this rifle, so keep it shouldered or at least pointed away from your face while you cycle it.",
+   "quote": "When cartridges no longer eject when you cycle the action, further assure that no cartridges remain by opening the action, depressing the carrier and visually checking the chamber, feed mechanism, and magazine follower to be certain that the rifle is completely unloaded (Figure 22).",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Unloading, step 4",
+   "warn": "Cycle until empty, then LOOK at chamber, feed mechanism and follower with the carrier depressed."
+  },
+  {
+   "phase": "Clear",
+   "title": "This book covers two Model 94 generations — establish which is yours",
+   "action": "Check which safety your rifle carries before you use anything in this guide. Winchester bounds this manual to Model 1894 rifles built from 1992 to 2002 with a crossbolt safety and to current rifles with a top-tang safety, and the two are operated in completely different directions. Older Model 94s than that — the pre-1992 guns with no crossbolt at all — are outside what this book describes. The serial number is on the bottom front of the receiver.",
+   "prose": "Most illustrations in the manual show a current top-tang rifle; the pre-2003 crossbolt gun appears only where the two differ.",
+   "caution": "Crossbolt or top-tang? A Model 94 outside those two groups is not covered here.",
+   "quote": "This owner’s manual covers Model 1894 rifles manufactured from 1992-2002 with crossbolt “safeties” and current Model 1894 rifles with top-tang “safeties.”",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — GENERAL DESCRIPTION AND OPERATION"
+  },
+  {
+   "phase": "Clear",
+   "title": "Top-tang goes rearward to safe; crossbolt goes to the right",
+   "action": "Set the safety on safe by the method your rifle actually uses. On a 2003-and-later rifle the top-tang safety slides fully to the REAR until the red dot is covered and the S shows. On a 1992-2002 rifle the crossbolt safety pushes fully to the RIGHT until the red warning band disappears. Both are visual: the red is showing when the rifle can fire. Getting the direction backwards on an unfamiliar rifle is exactly how people put a lever gun off safe while believing they safed it.",
+   "prose": "Either safety can be worked with the hammer at rebound or at full cock, so there is never a reason to have the hammer up while you set it.",
+   "quote": "Model 1894 rifles produced in 2003 to present feature a top-tang hammer block “safety.” Models produced between 1992 and 2002 feature a cross-bolt style “safety.”",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Operation of the \"Safety\"",
+   "warn": "Red visible = OFF safe, on both patterns."
+  },
+  {
+   "phase": "Clear",
+   "title": "The safety blocks the hammer — it does not hold the hammer up",
+   "action": "Understand what this safety does before you trust it during cleaning. On safe, it blocks the hammer from reaching the firing pin — but it does not stop the hammer falling when the trigger is pulled. Pull the trigger with the safety on and the hammer drops to the rebound position without striking the pin. That is normal on a Model 94 and it is not a fault; it also means a safe on this rifle is a hammer block, not a trigger block, and the muzzle still has to be pointed somewhere safe the whole time.",
+   "prose": "The rebounding hammer is the second half of that system: after firing, the hammer moves itself to rebound and can only reach the pin again if the trigger is deliberately pulled.",
+   "caution": "On safe, pulling the trigger still drops the hammer to rebound.",
+   "quote": "When the “safety” has been placed in the on safe position it blocks the hammer from striking the firing pin. However, the “safety” does not prevent the hammer from falling when the trigger is pulled, even if the “safety” is in the on safe position.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Operation of the \"Safety\""
+  },
+  {
+   "phase": "Clear",
+   "title": "Lower the hammer to rebound with your thumb on it",
+   "action": "If the hammer is standing at full cock, get it down to the rebound position before you go any further. Safety on safe, thumb pressed firmly on the hammer spur holding it back slightly, then squeeze the trigger just enough to release the sear — and take your finger straight off the trigger before you let the hammer travel. Ease it forward under thumb control until it settles at rebound. Slipping a thumb here on a loaded rifle is the classic lever-gun discharge, which is why the rifle is unloaded first and stays pointed somewhere safe.",
+   "prose": "The Model 94's rebound position replaces the old dropped and half-cock positions. There is no half-cock notch to catch a slipped hammer on this rifle.",
+   "quote": "While holding the hammer back, apply just enough pressure on the trigger to release the hammer from the full-cock position (Figure 12). Immediately remove your finger from the trigger, then slowly and carefully allow the hammer to lower into the rebound position (Figure 13).",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Rebounding Hammer — LOWERING THE HAMMER, step 3",
+   "warn": "Finger off the trigger BEFORE the hammer starts moving."
+  },
+  {
+   "phase": "Clear",
+   "title": "Tubular magazine — flat-nose bullets only, and never a pointed one",
+   "action": "Check what is in the tube and what you feed it. The Model 94's magazine stacks cartridges nose to primer, so a pointed bullet rests directly on the primer of the round in front of it and recoil turns that stack into a row of firing pins. Winchester restricts this rifle to flat nose, hollow point, round nose flat point or similar bullets and forbids pointed or conical points outright. The caliber is inscribed on the left side of the barrel just forward of the rear sight, and that is the only ammunition the rifle takes.",
+   "prose": "Modern flexible-tip ammunition designed for tubular magazines is a separate case, but the bullet profile rule above is what the manual publishes.",
+   "quote": "USE ONLY AMMUNITION SUITABLE FOR USE IN A CENTERFIRE RIFLE WITH A TUBULAR MAGAZINE. USE ONLY FLAT NOSE, HOLLOW POINT, ROUND NOSE FLAT POINT OR SIMILAR BULLETS. NEVER USE POINTED OR CONICAL POINT BULLETS IN A CENTERFIRE RIFLE WITH A TUBULAR MAGAZINE.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Ammunition",
+   "warn": "No pointed or conical bullets in a tubular magazine. Ever."
+  },
+  {
+   "phase": "Strip",
+   "title": "Open the action fully — on a standard Model 94 this IS the strip",
+   "action": "Swing the finger lever completely down and leave it there. On a solid-frame Model 94 that is the whole of the published disassembly: the receiver bottom drops away with the lever to open the feed path, the bolt runs back, and the chamber and the interior of the receiver become reachable. Winchester publishes no way to take a standard Model 94 further apart — no bolt removal, no lever pin, no side plate — so everything from here is cleaning through this opening. Note also the trigger stop: the lever has to be fully up and depressing it before the rifle can fire at all, which is an interlock and not a safety.",
+   "prose": "This is a design feature, not a shortcoming. The 1894 action was made to be cleaned from outside and serviced by a gunsmith.",
+   "quote": "The trigger stop is not a safety, it is an interlock to assure that the breech is fully closed before a cartridge can be fired.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Trigger Stop"
+  },
+  {
+   "phase": "Strip",
+   "title": "TAKEDOWN MODELS ONLY — does your rifle have a takedown lever?",
+   "action": "Everything from here to the end of the strip applies ONLY if you own a Model 1894 Takedown. Look at the end of the magazine tube: a takedown rifle has a folding lever lying along the bottom of the tube, and the barrel is joined to the receiver by an interrupted-thread barrel extension. A standard Model 94 has neither, and there is nothing on it to unlock — trying to twist a solid-frame barrel out of its receiver will damage the rifle and cannot succeed. If there is no lever on the magazine tube, stop here; your field strip is the open action above.",
+   "prose": "The takedown rifle's full serial number lives on the bottom of the receiver half, toward the front — the barrel half does not carry it.",
+   "caution": "No takedown lever on the magazine tube? The rest of the strip does not apply to your rifle.",
+   "quote": "The Model 1894 rifle is also available as a takedown model. These rifles have a mechanism that allows you to separate the barrel/forearm half of the rifle from the receiver half of the rifle.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Takedown Models"
+  },
+  {
+   "phase": "Strip",
+   "title": "A cartridge in the magazine stops the takedown dead",
+   "action": "Before touching the takedown lever, confirm the magazine tube is genuinely empty. The takedown mechanism withdraws the magazine tube and follower out of the receiver, and a cartridge sitting in that tube is physically in the path — forcing it damages the rifle. This is why the unload step above is not a formality on a takedown gun: the tube must be run dry and the follower seen, because there is no window to look through. Winchester also requires the action fully OPEN, since the bolt components take the damage if you try it closed.",
+   "prose": "Two notices, two different casualties: a loaded tube damages the rifle, a closed action damages the bolt components.",
+   "quote": "NOTICE: THE RIFLE CANNOT BE TAKEN DOWN IF THERE IS A CARTRIDGE IN THE MAGAZINE. DAMAGE CAN OCCUR TO THE RIFLE IF YOU ATTEMPT TO TAKE DOWN THE RIFLE WITH A CARTRIDGE IN THE MAGAZINE.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Takedown Models — TAKEDOWN PROCEDURE, step 1 NOTICE",
+   "warn": "Empty magazine AND open action, or the takedown damages the rifle."
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown lever out, then counter-clockwise to free the magazine tube",
+   "action": "Lift the takedown lever at the end of the magazine tube fully outward, away from the tube, so it stands proud as a handle. Then turn it counter-clockwise. What that unscrews is the magazine tube and follower out of the receiver — it is not a barrel nut and it is not what holds the barrel on. Keep turning until the tube and follower are clear of the receiver; if you stop short, the barrel will not rotate later and you will be tempted to force it.",
+   "prose": "Winchester's own troubleshooting for a barrel that will not turn points straight back at this step, so treat a stiff barrel as evidence the lever needs another turn.",
+   "quote": "Rotate the takedown lever counterclockwise to disengage the magazine tube and magazine follower from the receiver (Figure 30).",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Takedown Models — TAKEDOWN PROCEDURE, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Grip in one hand, barrel half rotated clockwise a quarter turn",
+   "action": "Take the grip of the stock in one hand and the barrel and forearm in the other, and rotate the barrel half clockwise a quarter turn to unlock it, then draw it straight forward off the receiver. The joint is an interrupted thread, which is why a quarter turn releases what would otherwise take several full rotations. Very little force should be needed either way. If it will not rotate, Winchester is explicit: do not add force — go back and confirm the action is open and the takedown lever has been turned far enough to pull the magazine tube and follower clear.",
+   "prose": "Dirt on the mating faces of the receiver extension and receiver is the other cause, and the cure is to clean both faces and lightly oil them, not to lean on it.",
+   "quote": "NOTICE: IF THE BARREL/FOREARM WILL NOT ROTATE WITH RESPECT TO THE RECEIVER DO NOT APPLY EXTRA FORCE UNTIL YOU CONFIRM THE ACTION IS OPEN AND THE TAKEDOWN LEVER HAS BEEN TURNED SUFFICIENTLY TO DISENGAGE THE MAGAZINE TUBE AND MAGAZINE FOLLOWER FROM THE RECEIVER.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Takedown Models — TAKEDOWN PROCEDURE, step 6 NOTICE",
+   "warn": "It will not rotate? Recheck the action and the lever. Never force it."
+  },
+  {
+   "phase": "Strip",
+   "title": "These two halves are married — keep them together",
+   "action": "Mark, case and store the barrel half with the receiver half it came off. Winchester states the two halves are matched at sale and that Model 1894 barrels are not interchangeable with any other Model 1894, current or older — the interrupted thread and the barrel extension are fitted as a pair, and headspace lives in that joint. A barrel half from another rifle can be made to turn into place and still be wrong. If you own two takedown rifles, never let the halves meet on the same bench.",
+   "prose": "Fold the takedown lever back down flush along the bottom of the magazine tube before the halves go into a case, or it snags on everything.",
+   "quote": "NOTICE: The barrel/forearm half of the rifle must only be used with the receiver half of the rifle it was sold with. Barrels are not interchangeable with any other current or older Model 1894 rifle.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Takedown Models",
+   "warn": "One barrel half, one receiver half. Never mix takedown rifles."
+  },
+  {
+   "phase": "Clean",
+   "title": "Past this, the Model 94 action is a gunsmith's job",
+   "action": "There is nothing else to take off this rifle. Winchester publishes no further disassembly of the Model 94 at any level and states that opening the inner mechanism may permanently damage it — the lever, the locking bolt, the carrier and the firing pin all stay where they are. When the action genuinely needs to come apart, the published route is a qualified gunsmith or the Arnold, Missouri service facility, not the bench you are standing at.",
+   "prose": "That is not a gap in this guide. It is what the manual says, and everything above it is what the manual actually prints.",
+   "quote": "NOTICE: NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL. YOUR FIREARM IS A SPECIALIZED, FINELY FITTED MECHANISM. YOU MAY PERMANENTLY DAMAGE IT BY ATTEMPTING TO DISASSEMBLE THE INNER MECHANISM.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — closing NOTICE",
+   "warn": "No disassembly beyond what this manual prints."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On a standard Model 94 what is in front of you is one rifle with the finger lever fully down and the action open — that is the complete published field strip, and there are no loose parts to keep track of. On a Model 1894 Takedown you also have the barrel and forearm half separated from the receiver half, matched to each other. Either way the cleaning is done through the open action and down the bore. Deep Clean covers the bore regimen, the receiver interior, and the lever and feed surfaces that decide whether this action stays smooth.",
+   "prose": "Do not go looking for a way further in. There is not one published.",
+   "quote": "Your rifle is now taken down. To case or store the two halves of your rifle, return the finger lever to the closed position, return the takedown lever to the folded-down position flush with the bottom of the magazine, centered on the bottom of the magazine tube.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Takedown Models — TAKEDOWN PROCEDURE, step 7",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "The Model 94 bore cleans from the MUZZLE — protect the crown",
+   "action": "With the action open, run a snug patch on a rifle rod into the bore from the muzzle end. There is no other way in on this rifle: the bolt does not come out, so the breech end is not accessible and the rod has to enter where the accuracy lives. Guard the crown accordingly — Winchester warns about the rod AND the handle striking it, and a muzzle protector bought separately is a cheap piece of insurance on a gun that must be cleaned this way for its whole life.",
+   "prose": "This is the single biggest difference between cleaning a Model 94 and cleaning a bolt rifle, and it is the reason old lever guns so often have ruined crowns.",
+   "quote": "Insert the rod and patch into the barrel at the muzzle end and run it back and forth several times. Care should be exercised to ensure that neither the cleaning rod nor the handle strikes the crown of the muzzle, as damage to this area can adversely affect the accuracy of the rifle.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 2",
+   "warn": "Muzzle-end cleaning only. Use a muzzle protector."
+  },
+  {
+   "phase": "Clean",
+   "title": "Brass brush when fouling is heavy — push it right through",
+   "action": "Normal powder residue comes out on a solvent-soaked patch and is nothing to worry about. When it does not, dip or spray a brass bore brush with solvent and scrub the chamber and bore until the fouling lifts — but push the brush completely out the far end before you reverse it. Reversing a brass brush inside the bore folds the bristles the wrong way and breaks them off, and a shed bristle in a rifle bore reads exactly like the fouling you came in to remove.",
+   "prose": "The chamber matters as much as the bore on a lever gun: a fouled chamber is what makes extraction stiff and the lever heavy.",
+   "quote": "If, or when, fouling should become heavy, it can be removed with a brass bore brush. Dip or spray the brush with solvent and scrub the chamber and bore until the fouling is removed. To prevent brass bristles from breaking off, the brush should be pushed completely through the bore before being withdrawn.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 3"
+  },
+  {
+   "phase": "Clean",
+   "title": "Copper and zinc solvent for accuracy",
+   "action": "Follow the powder solvent with a dedicated copper solvent used to its own maker's directions. Winchester names copper AND zinc here, which is the jacket alloy of most modern .30-30 bullets, and that plating is not what a nitro solvent is built to shift. This is a second cleaning rather than a longer one. Watch the patches: a blue or green stain means jacket metal is still coming out and the job is not finished.",
+   "prose": "For a hunting rifle that fires a box a year this is an occasional job, not a per-outing one.",
+   "quote": "To maintain the utmost accuracy of your rifle it is recommended you clean the bore with a copper solvent. Modern bullet jackets are made mainly of copper and zinc. Copper and zinc residue sticks to the bore and requires more frequent cleaning.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver interior, bolt face and magazine follower — get the dried oil off",
+   "action": "Wipe the inside of the receiver and the bolt with a clean rag, and pay particular attention to dried oil on the magazine follower. Old oil in a tubular magazine turns to varnish, and a sticky follower is what makes a Model 94 stop feeding the last round or two — a failure that looks like a spring problem and is not. Take the dried film off, then put back a very light fresh one.",
+   "prose": "Reach in through the open action with the lever down. A cotton swab or a rag over a dowel does what a finger cannot.",
+   "quote": "The interior of the receiver and the bolt should periodically be wiped with a clean rag. Any dried oil in these areas or on the magazine follower should be removed. Follow this cleaning by applying a very light film of oil on the affected parts.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Breech block, lever components and feed parts get the oil",
+   "action": "The surfaces that decide how a Model 94 feels are the breech block, the finger lever linkage and the feed mechanism parts, and Winchester singles them out for being especially clean and lightly oiled. Work the lever slowly while you oil so the linkage travels through its arc and you can see which faces bear. A thin film is the target — this is a mechanism whose polished, closely fitted surfaces are meant to always carry oil, not to run dry and not to swim.",
+   "prose": "Add the pivot points and bearing surfaces of the finger lever mechanism, which the manual names again in its initial oiling section.",
+   "quote": "Remember, the polished, finely fitted surfaces of the receiver and action mechanisms must always have a thin film of oil. Make sure that the surfaces of the breech block, lever components and feed mechanism parts are especially clean and lightly oiled with a high quality gun oil.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Never pour oil into the receiver — the stock is directly underneath",
+   "action": "Apply oil on a rag or with a needle applicator, never from the bottle into the action. On a Model 94 the receiver drains straight down into the wood at the wrist and the forearm, and oil-soaked wood softens, loses its bedding and eventually loosens on the metal. It is a slow failure that cannot be undone once it has happened, and it is caused by a habit rather than an accident.",
+   "prose": "The same reasoning covers over-oiling before storage. A film protects; a pool migrates.",
+   "quote": "NOTICE: DO NOT POUR LARGE QUANTITIES OF OIL INTO THE RECEIVER OR OTHER PARTS. IT CAN DRAIN DOWN TO THE WOOD AND SOFTEN IT, CAUSING PERMANENT DAMAGE AND LOOSENING OF THE STOCK.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 7 NOTICE",
+   "warn": "Never pour oil into the receiver."
+  },
+  {
+   "phase": "Clean",
+   "title": "After heavy use, the action goes to a gunsmith — not to you",
+   "action": "When the rifle has had a hard season, Winchester's published answer is a qualified gunsmith stripping the action for professional cleaning and lubrication. That is the deepest level this manual recognises for a Model 94, and it is deliberately outside the owner's hands: the lever, locking bolt, carrier and firing pin come out through the side of the receiver and go back in a specific relationship to each other. Book it rather than attempting it.",
+   "prose": "Between those visits, the routine above is genuinely all the maintenance the rifle asks for.",
+   "quote": "After heavy use, your firearm should be taken to a qualified gunsmith to have the action disassembled for professional cleaning and lubrication.",
+   "cite": "Model 94 Owner's Manuals — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions — ADDITIONAL SUGGESTIONS"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Action open, lever fully down, before anything enters the bore",
+    "Rod and snug patch from the MUZZLE end — the bolt does not come out of this rifle",
+    "Keep the rod AND its handle off the crown; a muzzle protector is worth buying",
+    "Brass brush with solvent only when fouling is heavy, pushed fully through before withdrawing",
+    "Copper solvent for accuracy — modern jackets are copper and zinc",
+    "Wipe the bore dry, then one lightly oiled patch, then check no patch was left behind"
+   ]
+  },
+  {
+   "name": "RECEIVER, BOLT & FEED",
+   "tasks": [
+    "Wipe the receiver interior and the bolt with a clean rag",
+    "Remove dried oil from the receiver and especially from the magazine follower",
+    "Very light film of oil back onto those parts afterwards",
+    "Breech block, lever components and feed mechanism parts especially clean and lightly oiled",
+    "Oil the finger lever pivot points and bearing surfaces",
+    "NEVER pour oil into the receiver — it drains into the stock wood and softens it"
+   ]
+  },
+  {
+   "name": "TAKEDOWN MODELS ONLY",
+   "tasks": [
+    "Clean the mating faces of the receiver extension and the receiver, then oil them lightly",
+    "Dirt on those faces is why a barrel half will not rotate — clean it, never force it",
+    "Keep each barrel half with the receiver half it was sold with",
+    "Tighten the magazine tube snug on reassembly and no more; do not overtighten",
+    "Fold the takedown lever flat along the bottom of the magazine tube for storage"
+   ]
+  },
+  {
+   "name": "EXTERIOR & STOCK",
+   "tasks": [
+    "Wipe receiver, forearm and barrel with a clean rag and remove every fingerprint",
+    "Re-oil the metal any time the rifle has seen weather or handling",
+    "Wood: fine oil OR a quality furniture polish — one method, not both",
+    "Keep DEET insect repellent and sunscreen off the finishes",
+    "Store in a cool dry place, cased, with ammunition kept separately"
+   ]
+  }
+ ],
+ "reassembly": [
+  "TAKEDOWN MODELS: open the action fully first — the rifle cannot be assembled with the action closed, and forcing it damages the bolt components.",
+  "TAKEDOWN MODELS: lift the takedown lever fully outward and rotate it counter-clockwise so the magazine tube and follower are not protruding from the receiver extension.",
+  "TAKEDOWN MODELS: hold the grip in one hand, present the barrel half a quarter turn to the LEFT of the receiver, and insert the threaded barrel extension until the receiver extension and receiver are lightly in contact.",
+  "TAKEDOWN MODELS: rotate the barrel half clockwise a quarter turn to lock the halves. Very little force should be needed — if it resists, clean and lightly oil the two mating faces rather than forcing it.",
+  "TAKEDOWN MODELS: extend the takedown lever and turn it clockwise until the magazine tube is snug, then fold the lever down flat and centred along the bottom of the tube.",
+  "Close the action by returning the finger lever fully upward.",
+  "Put the safety on safe — rearward on a top-tang rifle, to the right on a crossbolt rifle.",
+  "Lower the hammer to the rebound position with your thumb on it, finger off the trigger as soon as the sear releases.",
+  "Wipe down the exposed metal to remove the fingerprints you have just left."
+ ],
+ "fncheck": "With the rifle unloaded, look through the bore against a light and confirm it is clear and that no patch has been left in the barrel or chamber. Work the finger lever fully down and up several times and confirm it runs smoothly and locks up, and that the trigger stop is depressed when the lever is fully closed — the rifle should not fire with the lever short of home. Check the safety in both positions and confirm the red dot or band is hidden when on safe. Cock the hammer and lower it back to rebound with your thumb, confirming it settles at rebound rather than resting on the firing pin. On a takedown rifle, confirm the two halves are locked with the takedown lever snug and folded flat, and that the barrel half is the one that was sold with this receiver. Leave the safety on safe and the hammer at rebound."
+}

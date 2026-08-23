@@ -1,0 +1,66 @@
+{
+ "row": "rugeramericangenii",
+ "make": "Ruger",
+ "model": "American Gen II",
+ "sourcedFrom": "Ruger American Rifle Generation II Instruction Manual — PM859 (2026)",
+ "sourceSha256": "9d1fa71b20a8fb20b4cd89e8bf481a5d97d28c4493705c15e38ea89d67181e85",
+ "cleanIntro": "The Generation II has its own manual, and Ruger states it applies only to Generation II rifles. Bolt out is the strip.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm chamber and magazine are empty",
+   "action": "Point the rifle in a safe direction, open the bolt, and confirm both the chamber and the magazine are empty. Then check the restriction: Ruger states this manual applies only to Generation II rifles with model numbers starting at 46901.",
+   "prose": "Generation II is not just a name on the box — Ruger draws the line at a model number, and the app cannot read yours.",
+   "quote": "This manual applies only to Ruger American",
+   "cite": "Ruger American Rifle Generation II Instruction Manual — PM859 — Cover note, p.1",
+   "warn": "Rifle must be unloaded prior to disassembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out at the bolt stop",
+   "action": "Press in on the rear of the bolt stop on the left side of the receiver and pull the bolt to the rear.",
+   "prose": "One control, one motion — the bolt stop is what releases it.",
+   "quote": "The bolt stop (on the left side of the receiver) permits the bolt to be withdrawn simply by pressing in on the rear of the bolt stop and pulling the bolt to the rear.",
+   "cite": "Ruger American Rifle Generation II Instruction Manual — PM859 — Disassembly, To remove the bolt, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt clear, stop released",
+   "action": "Remove the bolt fully from the rear of the receiver, then release the bolt stop.",
+   "prose": "Release the stop once the bolt is clear so it is not left under load.",
+   "quote": "Remove the bolt fully from the rear of the receiver and release the bolt stop.",
+   "cite": "Ruger American Rifle Generation II Instruction Manual — PM859 — Disassembly, To remove the bolt, p.13",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "PM859 documents bolt removal as the disassembly for cleaning. Nothing past it is published in this manual, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Clean from the chamber end, solvent then brush then dry patches until clean",
+    "Check the chamber and locking lug seats"
+   ]
+  },
+  {
+   "name": "BOLT",
+   "tasks": [
+    "Wipe the bolt body, lugs and bolt face",
+    "Light oil on the lugs and cams"
+   ]
+  },
+  {
+   "name": "RECEIVER & STOCK",
+   "tasks": [
+    "Wipe the raceways and magazine well",
+    "Check the action screws",
+    "Keep oil off the bedding"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the bolt to the receiver with the bolt stop depressed, then release the stop.",
+  "Cycle the bolt several times before handling further."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, check the safety blocks the trigger and the bolt cycles cleanly."
+}

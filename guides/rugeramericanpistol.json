@@ -1,0 +1,267 @@
+{
+ "row": "rugeramericanpistol",
+ "make": "Ruger",
+ "model": "American Pistol",
+ "sourcedFrom": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover (2021 — the cover carries the copyright line for Sturm, Ruger & Co., Inc., which the OCR renders as \"0 2021\" where the copyright symbol sits)",
+ "sourceSha256": "e2579bc10faaa540a908b9981c0161745ab89443449bae8346457b03a9bdf723",
+ "cleanIntro": "Ruger's own field strip and cleaning for the American Pistol. This is the manual-safety Standard Model book, and 26 of its 47 pages are scans with no text layer — a block that includes the whole DISASSEMBLY section the cleaning instructions point at. All of it is read here by OCR under the 2026-08-20 ruling, hash, tool and date on record. Printed folios run one AHEAD of the PDF sheet index (PDF sheet 20 carries printed p.21), and the citations below use the printed number, which is the one the book cross-references. The take-down lever is the thing to get right on this pistol: it decocks the striker as it turns, and it must not be forced past its stop.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out — and it is still not unloaded",
+   "action": "Keep the muzzle in a safe direction with fingers outside the trigger guard and push in the magazine latch to take the magazine out. A live round can still be in the chamber.",
+   "prose": "Ruger prints this as a standing warning rather than a step, because the American Pistol has no magazine disconnect to save you.",
+   "quote": "Remove the magazine from the pistol by pushing in on the magazine latch.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — TO UNLOAD, step 2, printed p.21",
+   "warn": "Removing the magazine does not unload pistol! Pistol will fire with magazine removed."
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety DOWN to fire before the slide moves",
+   "action": "Move the manual safety lever down to the fire (\"F\") position. The slide is worked with the safety off, not on.",
+   "prose": "Counter-intuitive if you have come from another safety-equipped pistol, and it is Ruger's own sequence — the book warns the unloading sequence must be followed exactly as printed.",
+   "quote": "Move the manual safety lever down to the fire (\"F\") position.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — TO UNLOAD, step 3, printed p.21",
+   "warn": "This sequence must be followed exactly as outlined. Failure to do so can result in the chamber being unintentionally loaded with a live cartridge!"
+  },
+  {
+   "phase": "Clear",
+   "title": "Retract briskly, then look",
+   "action": "Hold the pistol firmly, grasp the slide at the serrations and retract it briskly to its rearmost position to extract and eject anything in the chamber. Then look — at the breech face and into the interior of the frame — and confirm both are clear of live rounds.",
+   "prose": "Briskly is the instruction. A slow hand-cycle is exactly how a case ends up back on the breech face under the extractor, or dropped into the magazine well to be re-chambered.",
+   "aside": "Always visually double-check that the chamber breech-face and the interior of the frame are clear of anv live rounds.",
+   "quote": "Hold the pistol firmly and grasp the slide. Retract the slide to its rearmost position briskly to extract and eject any chambered cartridge.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — TO UNLOAD, step 4, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Unloaded before anything comes apart",
+   "action": "Confirm again that the pistol is unloaded before you start. Ruger's disassembly warning applies to cleaning and lubrication as much as to taking the gun apart.",
+   "prose": "There is an on-line video of this strip on Ruger's own tech tips pages if you want to watch it first — the book says so itself.",
+   "quote": "Always unload a firearm before cleaning, lubrication, disassembly or assembly.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — DISASSEMBLY — WARNING, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine out, trigger forward",
+   "action": "Keep the pistol pointed in a safe direction, press down on the magazine latch and remove the magazine. The trigger has to be in its forward position for the pistol to come apart.",
+   "prose": "If the trigger is back, nothing that follows will work. That is the first thing to check when the take-down lever will not turn.",
+   "aside": "Trigger should be in the forward position in order to disassemble the pistol.",
+   "quote": "Keep pistol pointed in a safe direction. Press down on the magazine latch and remove the magazine.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — DISASSEMBLY, step 1, printed p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide locked open — and check the chamber again",
+   "action": "Pull the slide to the rear and lock it open by pressing upward on the rear of the slide stop. Be sure the chamber is empty.",
+   "prose": "Ruger asks for the chamber check a second time here, in the disassembly section, after having asked for it in the unloading section. Take the hint.",
+   "quote": "Pull the slide to the rear and lock into the open position by pressing upward on rear of the slide stop.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — DISASSEMBLY, step 2, printed p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take-down lever clockwise to its stop — and no further",
+   "action": "Rotate the take-down lever clockwise until it stops rotating. Once you meet resistance, stop: the lever must not be turned any further. Turning it does two things at once — it moves the barrel locking surface clear of the barrel and it decocks the striker.",
+   "prose": "Forcing it past the stop is the one way to damage this pistol during a routine strip, which is why Ruger repeats the warning again at reassembly.",
+   "aside": "This action will both move the barrel locking surface out of the way of the barrel and decock the striker.",
+   "quote": "Once resistance is met, the lever should not be rotated any further.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — DISASSEMBLY, step 3, printed p.25",
+   "warn": "Do not force the take-down lever past the point where it stops."
+  },
+  {
+   "phase": "Strip",
+   "title": "Drop the slide stop, ease the slide forward",
+   "action": "Pull the slide rearward to drop the slide stop, then keep control of the slide and let it move slowly forward.",
+   "prose": "Control it. The barrel is already unlocked at this point, so the slide is only being held by your hand and the recoil spring.",
+   "aside": "then maintain control of the slide and allow it to move slowly forward.",
+   "quote": "Pull the slide rearward to drop the slide stop",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — DISASSEMBLY, step 4, printed p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly off the frame",
+   "action": "Slide the whole slide-and-barrel assembly carefully forward off the frame. If it will not come, the take-down lever is not rotated fully clockwise — check it before pulling harder.",
+   "prose": "Ruger names the fix and the trap in the same breath: rotate the lever fully, but be careful not to push it too far.",
+   "aside": "If you have difficulty removing the slide, verify that the take down lever is rotated fully clockwise. Be careful not to push the take down lever too far.",
+   "quote": "Remove the slide and barrel from the frame by sliding it carefully forward",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — DISASSEMBLY, step 5, printed p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "Guide rod assembly out",
+   "action": "Hold the top of the slide and depress the recoil spring slightly to disengage the guide rod assembly from its seat against the barrel lug, then pull the guide rod assembly down and out of the slide.",
+   "prose": "Slightly is enough — it only needs to clear the lug seat. Keep a thumb on it so the captive assembly does not jump out of the slide.",
+   "aside": "Pull the guide rod assembly down and out of the slide.",
+   "quote": "Hold the top of the slide and slightly depress the recoil spring to disengage the guide rod assembly from its seat against the barrel lug.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — DISASSEMBLY, step 6, printed p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out",
+   "action": "Move the barrel slightly rearward to disengage it from the slide, then pull it down and out. The pistol is now field stripped and ready for cleaning.",
+   "prose": "Rearward first, then down. Trying to lift it straight out binds the lug against the breech face cut.",
+   "aside": "Your pistol is now field stripped and ready for cleaning.",
+   "quote": "Move the barrel slightly rearward to disengage it from the slide. Pull the barrel down and out of the slide.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — DISASSEMBLY, step 7, printed p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — no user serviceable parts below this level",
+   "action": "Frame, slide, barrel, guide rod assembly and magazine. Ruger states plainly that there is nothing further for an owner below this level and that anything deeper goes to Ruger Customer Service or a Ruger certified technician. Deep Clean below covers the magazine, which Ruger does publish a strip for.",
+   "prose": "The fire control insert, the striker and the ejector all stay where they are. Everything the cleaning section asks for is reachable from here.",
+   "quote": "Do not attempt to further disassemble your firearm. The firearm can now be cleaned and lubricated. There are no user serviceable parts below this level.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — DISASSEMBLY — NOTE after step 7, printed p.27",
+   "warn": "If further disassembly is required contact Ruger Customer Service or a Ruger certified technician.",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore: solvent patch, then a brush the full length",
+   "action": "Run a properly sized solvent-wetted patch through the bore several times with a cleaning rod, then put a solvent-wetted bristle brush on the rod and run it back and forth the full length of the bore as many times as it takes to clear grease and dirt out of the bore and chamber. Finish with dry patches and examine the bore.",
+   "prose": "Grease accumulation in the chamber is the one Ruger calls out by name — it interferes with feeding from the magazine, so the chamber gets the same attention as the rifling.",
+   "aside": "Then attach a solvent-wetted bristle brush to a cleaning rod and run it back and forth the full length of the bore as many times as necessary to remove grease and dirt from the bore and chamber.",
+   "quote": "Using a cleaning rod, run a properly sized solvent-wetted patch through the bore several times.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — INSPECTION, CLEANING and LUBRICATION, step 2, printed p.33"
+  },
+  {
+   "phase": "Clean",
+   "title": "Extractor claw and rail cuts get the attention",
+   "action": "With solvent on a clean patch or a bristle brush, take the powder residue off every component, paying close attention to the claw of the extractor and the rail cuts in the slide. Then run a dry patch through the bore and follow it with one that is very lightly oiled.",
+   "prose": "Ruger names those two places because they are the two that cause malfunctions on this pistol. The extractor claw is also the part the malfunction section tells you to clean as often as necessary.",
+   "aside": "Thoroughlv clean the chamber and the extractor as often as necessarv.",
+   "quote": "Using solvent on a clean patch or bristle brush, remove powder residue from all components of the pistol. Pay close attention to cleaning fouling from the claw of the extractor and from the rail cuts in the slide.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — INSPECTION, CLEANING and LUBRICATION, step 3, printed p.34"
+  },
+  {
+   "phase": "Clean",
+   "title": "Three drops of oil — that is the whole lubrication",
+   "action": "The slide, fire control insert and barrel are stainless with wear-resistant coatings and most internals are nickel-Teflon, so this pistol needs almost no lubricant. Put a single drop of oil or grease in each rail cut and spread it along the rail, one drop on the inside top of the slide forward of the ejection port where the barrel rubs, and one spread around the opening at the front of the slide where the barrel passes through.",
+   "prose": "That is it. More oil on this design does nothing but collect grit and congeal in the cold.",
+   "caution": "excess accumulations of oil tend to attract particles of dust and dirt and may congeal in cold weather, which can interfere with the safe and reliable function of the pistol.",
+   "quote": "it is only necessary to apply a small amount of lubrication to the rail cuts in the slide, the inside top of the slide forward of the ejection port where the barrel rubs on it, and around the opening in the front of the slide where the barrel slides through",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — INSPECTION, CLEANING and LUBRICATION, step 4 NOTE, printed p.34"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe down, then get the oil back out of the bore",
+   "action": "Wipe all surfaces clean with a cloth, then wipe the metal with a patch or cloth that has been very lightly oiled. Before firing, take the excess oil and grease back out of the bore with a dry patch.",
+   "prose": "Ruger's lubrication warning is the reason: material even partially obstructing the bore can damage the pistol and injure the shooter.",
+   "aside": "Wipe all surfaces clean with cloth, then wipe all metal surfaces with a patch or cloth that has been very lightly oiled.",
+   "quote": "Before firing, remove all excess oil and grease from the bore by running a dry patch through the bore if necessary.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — INSPECTION, CLEANING and LUBRICATION, step 5, printed p.34"
+  },
+  {
+   "phase": "Clean",
+   "title": "Inspect while it is apart",
+   "action": "Look the pistol and its magazine over for components that are damaged, missing, loose, bent, cracked, chipped or peened. If you find excessive wear, stop using the pistol and get it looked at before it is fired again.",
+   "prose": "Ruger asks for this after every range session, and after any exposure to sand, dust, moisture or humidity — which is the same trigger as the cleaning interval itself.",
+   "aside": "It is important to clean and inspect your firearm after each range session or whenever the pistol has been exposed to sand, dust, moisture, humidity, or other adverse conditions.",
+   "quote": "Visually inspect the firearm and its magazine to ensure no components are damaged, missing, loose, bent, cracked, chipped, or peened.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — INSPECTION, CLEANING and LUBRICATION, printed p.33"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "When the magazine comes apart",
+   "action": "Check the magazine frequently: the follower must move freely with enough spring tension to lift each cartridge quickly to the feeding position, and the feed lips must be clean and free of cracks, dents or nicks. If it has become dirty, Ruger's instruction is to disassemble it and clean it thoroughly. Make sure it is unloaded first.",
+   "prose": "On an autoloader the magazine is the part that causes most stoppages, and it is the only assembly on this pistol Ruger hands the owner beyond the field strip.",
+   "quote": "If the magazine becomes dirty, it should be disassembled and thoroughly cleaned.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — MAGAZINE INSPECTION AND CARE, printed p.32"
+  },
+  {
+   "phase": "Strip",
+   "title": "Punch on the spring seat, floorplate forward",
+   "action": "All American Pistol magazines have a snap-on base. Use a punch to press in on the magazine spring seat where it protrudes into the hole in the floorplate, then slide the floorplate toward the FRONT of the magazine.",
+   "prose": "Toward the front, not the rear. Keep a thumb over the plate as it goes — there is a compressed spring behind it.",
+   "quote": "Use a punch to press in on the magazine spring seat where it protrudes into the hole in the magazine floorplate.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — MAGAZINE INSPECTION AND CARE, printed p.32",
+   "warn": "Be careful to prevent the forcible ejection of the magazine spring seat and compressed magazine spring."
+  },
+  {
+   "phase": "Strip",
+   "title": "Spring seat, spring and follower out",
+   "action": "Withdraw the magazine spring seat, the magazine spring and the follower from the magazine body. Note which way the spring leg sits in the spring seat before it comes apart — it goes back in that orientation and no other.",
+   "prose": "Getting that leg the wrong way round on reassembly is what turns a cleaned magazine into a failure to feed.",
+   "quote": "Withdraw the magazine spring seat, magazine spring, and magazine follower from the magazine body.",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — MAGAZINE INSPECTION AND CARE, printed p.32"
+  },
+  {
+   "phase": "Clean",
+   "title": "Solvent that will not attack the body — and shake it OUT",
+   "action": "Use a solvent that will not rust the metal components or attack the magazine body. After soaking to loosen the fouling, shake the magazine vigorously with the loading opening pointed away from you to get all the solvent and residue out of it.",
+   "prose": "Ruger is emphatic about the reason: penetrating oils and solvents left inside a magazine kill primers and powder, and a dead primer can leave a bullet in the bore.",
+   "quote": "Penetrating oils and solvents inside a magazine can \"kill\" or weaken cartridge primers or powder which can result in failures to fire or other possibly dangerous malfunctions, such as leaving a bullet in the bore!",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — MAGAZINE INSPECTION AND CARE, printed p.33"
+  },
+  {
+   "phase": "Clean",
+   "title": "Rebuild, then check the follower before you trust it",
+   "action": "Reassemble in reverse order, being careful to put the magazine spring leg back in the correct orientation in the spring seat. Then check that the follower movement and tension are right and that no solvent or debris remain. If cleaning does not restore proper tension, do not use that magazine — replace it.",
+   "prose": "Improper reassembly of a magazine causes failures to feed, which Ruger classes as a potentially dangerous malfunction rather than an inconvenience.",
+   "quote": "Reassemble in the reverse order, being careful to insert the magazine spring leg in the correct orientation in the magazine spring seat",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — MAGAZINE INSPECTION AND CARE, printed p.32",
+   "warn": "DAMAGED, NON-STANDARD OR IMPROPERLY ASSEMBLED MAGAZINES SHOULD NOT BE USED."
+  },
+  {
+   "phase": "Strip",
+   "title": "Grip module — and the limit of owner work",
+   "action": "If you are changing the grip module while the pistol is apart, remove the slide first as in the disassembly steps, then use the supplied #10 torx wrench in the slot in the back centre of the module and rotate the grip locking cam a quarter turn counterclockwise to unlock it. A quarter turn clockwise locks it again. Do not apply excessive force. Beyond the slide, the barrel, the guide rod and the magazine there are no user serviceable parts on this pistol.",
+   "prose": "The grip module is a configuration change rather than a cleaning job, but it is the only other thing Ruger publishes for this pistol and it needs the same strip.",
+   "aside": "Rotate the grip locking cam 1/4 turn counterclockwise to unlock the grip module",
+   "quote": "To change out the grip module, use a #10 torx wrench (included) and insert it into the slot in the back center of the grip module",
+   "cite": "Instruction Manual for Ruger American Pistol, Standard Model — VN STD 4/2021 R2 — printed at the foot of the cover — INTERCHANGEABLE GRIPS, printed p.31"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Properly sized solvent-wetted patch through the bore several times",
+    "Solvent-wetted bristle brush run back and forth the FULL length of the bore",
+    "Repeat until grease and dirt are out of both the bore and the chamber",
+    "Dry patches, then examine the bore",
+    "Bore fouling costs accuracy; grease in the chamber interferes with feeding"
+   ]
+  },
+  {
+   "name": "SLIDE, FRAME AND EXTRACTOR",
+   "tasks": [
+    "Solvent on a clean patch or bristle brush over all components",
+    "Close attention to the claw of the extractor",
+    "Close attention to the rail cuts in the slide",
+    "Wipe all surfaces clean, then wipe the metal with a very lightly oiled cloth"
+   ]
+  },
+  {
+   "name": "LUBRICATION — THREE POINTS ONLY",
+   "tasks": [
+    "A single drop of oil or grease inside each rail cut, spread along the length of the rail",
+    "A single drop on the inside top of the slide forward of the ejection port where the barrel rubs",
+    "A single drop spread around the opening in the front of the slide where the barrel passes through",
+    "Nothing else needs oil — the internals are coated to minimise lubrication",
+    "Remove all excess oil and grease from the bore before firing"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Check the follower moves freely with enough tension to lift each cartridge quickly",
+    "Feed lips clean and free of cracks, dents or nicks",
+    "Strip and wash it only if it is dirty, with a solvent that will not attack the body",
+    "Shake it out vigorously, loading opening away from you, until no solvent remains",
+    "Replace the magazine rather than use one whose tension cleaning did not restore"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Be certain the chamber and magazine are empty and keep the pistol pointed in a safe direction.",
+  "With the slide held upside down, replace the barrel and push it forward into its locked position.",
+  "Place the guide rod assembly with the large round end resting against the seat of the barrel lug and fully seated in the recess pocket in the barrel.",
+  "Replace the slide onto the frame.",
+  "Pull the slide fully back and lock it by pushing up on the slide stop — if it will not retract, check the take-down lever is fully clockwise, and do not force it.",
+  "Rotate the take-down lever counterclockwise until it stops in the horizontal position.",
+  "Pull the slide rearward to drop the slide stop and let the slide run fully forward."
+ ],
+ "fncheck": "Ruger's own check, with no ammunition in the chamber or magazine. SLIDE: with the safety at FIRE and no magazine, cycle the slide twice — it should run freely to the rear and close fully under the recoil spring; insert an empty magazine, retract and release, and the slide should be held open by the slide stop; remove the magazine and the slide should stay open. TRIGGER: cycle the slide to cock the striker, move the safety to SAFE and pull the trigger — it should move partially rearward and stop, and the striker must NOT fall; move to FIRE, pull and hold, and the striker should fall with an audible click; cycle the slide with the trigger held, release slowly and feel the reset; back to SAFE and the trigger should again move only partially. If any of this fails, or you are uncertain, have it inspected before firing."
+}

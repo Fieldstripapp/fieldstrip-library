@@ -1,0 +1,211 @@
+{
+ "row": "ruggedmustang22",
+ "make": "Rugged",
+ "model": "Mustang 22",
+ "sourcedFrom": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document (UNKNOWN — no copyright line is printed anywhere in the document)",
+ "sourceSha256": "b6b9bc8fa64753a72a8010c305880cc59823fbe802c2d83a3b54195005788e52",
+ "cleanIntro": "The Mustang22 is a modular rimfire can — a main body holding five baffles and a screw-on ADAPT Module holding five more — and it comes apart with the provided disassembly tool, a hex key and a wooden dowel and nothing else. Its cleaning specification is its OWN and is the thing most often got wrong on this model: Rugged does NOT recommend an ultrasonic cleaner on the Mustang22, and calls for an aluminum-safe gun solvent and a nylon bristle brush instead. Do not carry the tank routine across from another Rugged rimfire can. The Mustang22 is a suppressor and not a firearm, so clearing the host is the host's own manual's job, and the can is never disassembled while it is still attached to one.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host, then take the Mustang22 off it before anything else",
+   "action": "Magazine out, action open, chamber checked by eye and by finger — and then the can comes off the gun before any part of the can is touched. Rugged says it twice in one paragraph and the second half is the one that gets skipped: the Mustang22 is not disassembled while it is attached to the host firearm. So the first operation of a teardown is unscrewing the whole can from the muzzle, not unscrewing the front cap. How your particular rifle or pistol clears is a question for its own operator's manual; this book describes no host.",
+   "prose": "Rimfire hosts are often semi-autos that do not lock the bolt back, so the chamber check has to be a real look and a real feel.",
+   "quote": "WARNING! Before disassembling your Mustang22™, ﬁrst remove the magazine and check the chamber of the ﬁrearm to conﬁrm that it is in a safe condition and completely unloaded. Do not disassemble your Mustang22 while the suppressor is attached to the host ﬁrearm. Remove the suppressor before disassembly. Failure to do so could result in serious personal injury or death.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Mustang22 Disassembly, p.2",
+   "warn": "Remove the Mustang22 from the host firearm BEFORE disassembly, every time."
+  },
+  {
+   "phase": "Clear",
+   "title": "No vise, no pliers, no improvised tools on the Mustang22",
+   "action": "Lay out the provided disassembly tool, a hex key and a wooden dowel rod, and put everything else away. Rugged rules out a vise, pliers and any tool not named in this manual — the tube is thin-walled and the front cap and baffle faces are indexing surfaces, so jaw marks are a fit problem rather than a cosmetic one. If the can will not open with the sanctioned tools, the answer is solvent and patience, not more grip.",
+   "prose": "A leaded-up rimfire can is precisely the situation that makes a vise look reasonable. That is why the caution sits at the top of the teardown.",
+   "quote": "CAUTION! Do NOT use a vise, pliers, or tools other than outlined in this manual on your suppressor.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Mustang22 Disassembly, p.2",
+   "warn": "A vise or pliers on a Mustang22 is prohibited outright."
+  },
+  {
+   "phase": "Clear",
+   "title": "Mustang22 thread check interval — between magazines",
+   "action": "Rugged sets the Mustang22's re-check interval by magazine and not by round count: unload the firearm first, then confirm the can is still tight on the barrel, and repeat that between magazines. A direct-thread rimfire can has nothing but thread friction holding it on, and thread-mounted suppressors do back off under firing. This is the Mustang22's own figure — do not substitute the 30-round interval Rugged prints for its centrefire pistol cans.",
+   "prose": "A can that has walked partway off its threads is no longer concentric with the bore, which is how a baffle strike begins.",
+   "quote": "WARNING! Since thread mounted suppressors may unscrew during ﬁring, it is extremely important that the operator ensures the suppressor remains securely threaded to the barrel. The threading of the suppressor to the host ﬁrearm should be checked in between magazines AFTER ﬁrst ensuring that the ﬁrearm is unloaded.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Mounting System, p.1",
+   "warn": "Check the thread between magazines, after confirming the firearm is unloaded."
+  },
+  {
+   "phase": "Strip",
+   "title": "Unscrew the whole can off the host",
+   "action": "With the firearm confirmed clear, unscrew the Mustang22 from the muzzle and set the gun down open. This is step one of the published teardown, not a preamble — everything after it happens with the can free on the bench. If it is hot from shooting, let it cool first; a hot can gripped hard is exactly how people end up reaching for the pliers this manual forbids.",
+   "prose": "Leave the host clear and open where you can see it for the rest of the job.",
+   "quote": "After removing the magazine of your ﬁrearm and checking the chamber of the ﬁrearm to conﬁrm that it is in a safe condition and completely unloaded, remove the Mustang22 from the host ﬁrearm.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Mustang22 Disassembly, step 1, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "ADAPT Module off the main body",
+   "action": "Hold the main suppressor body in one hand and rotate the ADAPT Module counter-clockwise until the two separate. Turn the module against a held body rather than the reverse, so the torque goes into the joint you mean to open instead of into the stack sitting inside. You are left with two tubes, each still full.",
+   "prose": "This is also the joint you open in the field to run the Mustang22 in its short configuration.",
+   "quote": "Remove the ADAPT™ Module from the main suppressor body by unscrewing it counter-clockwise.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Mustang22 Disassembly, step 2, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Push the main stack out from the mount end",
+   "action": "Look in through the mount at the rear of the main body and push the baffle cone forward with a finger or a wooden dowel rod until the stack walks out of the front. It always leaves forwards, the way the bullet went, because the baffles taper that way. Wood is specified deliberately — a steel rod on a baffle cone dents the one face that has to index square, and on a rimfire can that face is already the most fouled part of the whole assembly.",
+   "prose": "On a leaded stack this wants steady pressure rather than a shove. Steady pressure is the entire technique.",
+   "quote": "Remove the baﬄe stack from the main suppressor body by pushing forward on the baﬄe cone from inside the mount with your ﬁnger or a wooden dowel rod.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Mustang22 Disassembly, step 3, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front cap off the module with the provided tool",
+   "action": "Fit the disassembly tool that came in the box into the front cap and turn counter-clockwise. That tool is the only thing that touches this cap — it is why it was supplied, and it is what the no-vise-no-pliers caution is protecting. If the cap is carboned tight, wet the joint and wait rather than reaching for something with more purchase.",
+   "prose": "Unlike the Obsidian family, there is no piston here doing double duty as a cap wrench. The supplied tool is the tool.",
+   "quote": "Remove the front cap from the ADAPT Module using the provided disassembly tool.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Mustang22 Disassembly, step 4, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "The module stack pushes out toward the front cap end",
+   "action": "The ADAPT Module's stack comes out the opposite way to the main body's: push the baffle cone from the externally threaded end and drive it toward the front cap end. Reverse that and you are pushing the cones against their own taper, which only wedges the stack tighter. Finger or wooden dowel again — nothing steel, and nothing sharpened.",
+   "prose": "Two stacks, two directions. Read the direction off the part in front of you rather than off memory.",
+   "quote": "Remove the baﬄe stack from the ADAPT Module by pushing forward on the baﬄe cone from the externally threaded end towards the front cap end with your ﬁnger or a wooden dowel rod.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Mustang22 Disassembly, step 5, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Break the baffles apart one at a time — hex key, gently",
+   "action": "Separate the baffles one by one, and when a pair is stuck, put the long end of a hex key into a baffle port and pry gently against the inside of the baffle. Rugged capitalises GENTLY, and on a rimfire can that word is doing the work: lead and wax glue the tapers together and the instinct is to lever hard against a thin cone. Re-wet the joint and try again rather than winning it in one movement.",
+   "prose": "Lay the baffles out in the order they came off and keep the main body's five clear of the module's five.",
+   "quote": "Break the baﬄes apart one at a time. If the baﬄes are stuck together, a hex key can be used as a tool to aid in disassembly. Insert the long end of the key into the baﬄe port and GENTLY pry against the inside of the baﬄe to release it.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Mustang22 Disassembly, step 6, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "NO ultrasonic cleaner on the Mustang22 — this model's own rule",
+   "action": "Do not put any part of a Mustang22 into an ultrasonic tank. Rugged states it in capitals and states it about this suppressor specifically, which matters because the tank routine with a 50/50 Purple Power mix IS the published method on other Rugged cans. The Mustang22 is cleaned with an aluminum-safe gun solvent and a nylon bristle brush instead, and the tube gets ordinary solvent and technique with a nylon brush for stubborn carbon.",
+   "prose": "Some carbon will remain after cleaning. Rugged says that is acceptable and that chasing it further is optional, not required.",
+   "quote": "The inside of the suppressor tube can be cleaned using normal gun solvent and cleaning techniques. A nylon brush can also be used to remove any carbon that remains. WE DO NOT RECOMMEND USING AN ULTRASONIC CLEANER ON THIS SUPPRESSOR.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Mustang22 Cleaning, p.1",
+   "warn": "No ultrasonic cleaner on the Mustang22 — aluminum-safe solvent and a nylon brush instead."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "In front of you should be the main tube, the ADAPT Module, the front cap and two separate stacks of five baffles each — one blast, three standard and one short in the main body, and four standard plus one short in the module. Keep the two apart, because the counts are close enough that mixing them is easy and the result is a can rebuilt wrong. Deep Clean covers the solvent routine, the indexing that keeps point of impact repeatable, the module timing and the gap check that proves it all seated.",
+   "prose": "Rimfire fouling sets hard as it dries. If you are not cleaning today, at least leave the parts apart rather than a stack to seize.",
+   "quote": "Never attempt to clean a suppressor while it is attached to a host weapon.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Aluminum-safe solvent and a nylon bristle brush — not a tank",
+   "action": "Clean the separated baffles with an aluminum-safe gun solvent and a nylon bristle brush. Both halves of that specification matter: aluminum-safe rules out the ammonia-bearing and strongly alkaline chemistries that attack this can's material, and nylon rules out the brass and steel brushes that would score the baffle faces. Some carbon will still be there afterwards and Rugged says that is fine.",
+   "prose": "They must be separated first. A stack cleaned as a column leaves the fouling exactly where it does harm — between the tapers.",
+   "quote": "Rugged Suppressors recommends cleaning of the disassembled baﬄes using an aluminum-safe gun solvent and nylon bristle brush. There may be some carbon residue remaining on the parts after cleaning.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Mustang22 Cleaning, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Ventilation and hands — rimfire cleaning is a lead exposure",
+   "action": "Work where there is real air movement and wash your hands thoroughly afterwards. Rugged names the hazard directly: cleaning suppressors and shooting in poorly ventilated spaces exposes you to lead and to substances known to cause birth defects and reproductive harm. A rimfire can is the worst offender in a collection, because unjacketed .22 lays raw lead straight onto the baffles you are about to scrub.",
+   "prose": "Gloves while scrubbing, and nothing to eat or drink at the same bench.",
+   "quote": "WARNING! Discharging ﬁrearms in poorly ventilated areas or cleaning suppressors may result in exposure to lead and other substances known to cause birth defects, reproductive harm, and other serious physical injury. Have adequate ventilation at all times. Wash hands throughly after exposure.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "warn": "Ventilate, wear gloves, wash hands after."
+  },
+  {
+   "phase": "Strip",
+   "title": "Build the main stack on the bench, short baffle cone-up",
+   "action": "Assemble the five-baffle main stack on a flat, level surface starting with the short baffle, cone up, then index each following baffle onto it through the machined tabs. Building it as a free-standing column is the only way to see whether the tabs actually engaged — a stack built inside the tube cannot be inspected at all. The blast baffle goes on last and is identified for you by a #1 engraved on its body.",
+   "prose": "Squeeze the finished column and look for daylight between baffles; a rubber mallet seats a gap, force does not.",
+   "quote": "Start by placing the short baﬄe on a ﬂat, level surface with the cone facing up.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Main Baffle Stack Assembly, step 1, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Index the stack to the same flat every time",
+   "action": "When the assembled stack drops into the main body, the blast baffle's indexing tabs have to engage the indexing flats machined inside the tube — there is an audible click when it is home. Put the same tab against the same flat after every clean and your point-of-impact shift from disassembly stays minimal; put it in at a random clock position and it will not. This is the single habit that decides whether a rimfire can shoots the same after cleaning.",
+   "prose": "Pick a reference mark on the blast baffle and use that mark every time rather than trusting feel.",
+   "quote": "Insert the baﬄe stack into the main suppressor body with the #1 baﬄe cone",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Main Baffle Stack Assembly, step 6, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Module stack in, timed about 1/8 turn counterclockwise",
+   "action": "Thread the empty module onto the body, build its five-baffle stack the same way — short baffle cone up, then the standard baffles — and drop it into the tube. As the front cap seats it will rotate the stack slightly, so Rugged has you pre-align the module's ports roughly an eighth of a turn counterclockwise of the body's ports, which lands them correct once everything is tight. Then screw the front cap on with the provided tool.",
+   "prose": "A can that got noticeably louder after a rebuild is usually a mistimed module rather than a worn baffle.",
+   "quote": "Insert the assembled ADAPT Module baﬄe stack into the tube. As the front cap seats into the baﬄe stack, and may cause the stack to rotate slightly, it may be necessary to align the ADAPT Module ports approximately 1/8 of a turn to counterclockwise of the suppressor body baﬄe stack ports to ensure correct alignment when fully assembled.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — ADAPT Module Assembly, step 5, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the body-to-module gap against Figure A",
+   "action": "With the module threaded onto the body, look at the seam between them and compare it against Figure A in the manual. A correct gap means the baffles are seated onto their indexing tab; a wide gap means they are not, and the stack inside is resting on something it should not be. It is an external check that saves you opening the can again, which is exactly why Rugged prints it.",
+   "prose": "Correct spacing means correctly seated. Incorrect spacing is a fault, not a tolerance.",
+   "quote": "Check to see the gap between the main body of the suppressor and the ADAPT module is correct by referring to “Figure A“ on the reverse side.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — ADAPT Module Assembly, step 1, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cool it before you change configuration",
+   "action": "Going between the short and long configurations means unscrewing the ADAPT Module, and Rugged requires the body back at ambient temperature before you do it. Threads at very different temperatures do not run cleanly against one another, and a hot module backed off a hot body is how they gall. On the range this is the rule most often broken, because a modular can exists to be changed between strings.",
+   "prose": "Wait it out. The alternative is a module that will not come off at all.",
+   "quote": "When changing between the short and long conﬁgurations; make sure the suppressor body has cooled to ambient temperatures before attaching/detaching the ADAPT™ Module.",
+   "cite": "RUGGED SUPPRESSORS | MUSTANG22 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — ADAPT Module Assembly, p.2",
+   "warn": "Ambient temperature before attaching or detaching the module."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BAFFLES (disassembled)",
+   "tasks": [
+    "Separate every baffle before cleaning — never clean the stack as a column",
+    "Aluminum-safe gun solvent and a NYLON bristle brush",
+    "NO ultrasonic cleaner on this suppressor — that is the Mustang22's own rule",
+    "Residual carbon after cleaning is acceptable and does not have to be removed",
+    "Hex key GENTLY in a baffle port to break a stuck pair; never a vise or pliers"
+   ]
+  },
+  {
+   "name": "SUPPRESSOR TUBE & ADAPT MODULE",
+   "tasks": [
+    "Normal gun solvent and normal cleaning technique inside the tube",
+    "A nylon brush for carbon that remains",
+    "Clear the internal threads and the front cap's tool interface",
+    "Check the body-to-module gap against Figure A once reassembled"
+   ]
+  },
+  {
+   "name": "MOUNT & HOST THREADS",
+   "tasks": [
+    "The can seats against a 90-degree barrel shoulder; if it tightens before it seats or stays loose after, stop and contact Rugged",
+    "Re-check the thread between magazines while shooting, after confirming the firearm is unloaded",
+    "Keep lead and carbon off the barrel shoulder and mount face so the can seats square"
+   ]
+  },
+  {
+   "name": "SAFETY DURING CLEANING",
+   "tasks": [
+    "Suppressor off the host firearm before any cleaning begins",
+    "Adequate ventilation at all times — this is a lead exposure",
+    "Wash hands thoroughly after handling rimfire fouling"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Build the main stack on a flat level surface: short baffle cone-up, three standard baffles, blast baffle #1 last.",
+  "Check for spacing between baffles and seat any gap with a rubber mallet, never by forcing the stack into the tube.",
+  "Insert the main stack into the main suppressor body with the #1 blast baffle cone facing down.",
+  "Align the blast baffle's indexing tabs with the indexing flats inside the body until it clicks, using the same tab against the same flat every time.",
+  "Thread the empty ADAPT Module onto the main body and check the gap against Figure A.",
+  "Build the module's five-baffle stack — short baffle cone-up, then four standard baffles.",
+  "Insert the module stack pre-aligned about 1/8 of a turn counterclockwise of the body stack's ports.",
+  "Screw the front cap on with the provided tool; tightening seats the cap into the last baffle."
+ ],
+ "fncheck": "Look through the bore against a light and confirm it is clear with no baffle edge intruding on the line. Confirm the body-to-module gap matches Figure A — a wide gap means the baffles are not seated to their indexing tab. Confirm the front cap is tight with the provided tool and that nothing rattles. The Mustang22 seats against a 90-degree barrel shoulder; if it goes tight before it seats, or stays loose after it seats, stop and contact Rugged. While shooting, re-check the thread between magazines, after first confirming the firearm is unloaded."
+}

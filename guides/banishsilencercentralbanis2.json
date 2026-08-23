@@ -1,0 +1,217 @@
+{
+ "row": "banishsilencercentralbanis2",
+ "make": "Banish (Silencer Central)",
+ "model": "Banish 45",
+ "sourcedFrom": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED (NOT PRINTED)",
+ "sourceSha256": "411e2e44baff7ddb37de5f9931cc929c68c3eebccd2db99f6a1d1e78d108facd",
+ "cleanIntro": "A modular pistol can — 6.7 inches with eight baffles or 8.6 inches with twelve — in a titanium body with aluminium baffles, mounting on a .578x28 piston. It is the only Banish in this set with a Nielsen device inside it, so it has a moving piston, a spring and a piston cap that a rifle can does not, and a fixed-barrel host needs a different part in there than a tilting-barrel pistol does. Banish rates it .45 ACP down to rimfire and asks for a clean every 250 to 500 rounds, or every 100 on rimfire.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host pistol, using the pistol's own manual",
+   "action": "Drop the magazine, lock the slide back and confirm the chamber is visibly clear before the can is touched. Banish gives no clearing sequence of its own and refers you to your firearm's manual — necessary here, because this can fits everything from a tilting-barrel .45 to a fixed-barrel .22.",
+   "prose": "With a can on the muzzle a pistol is muzzle-heavy and awkward to rack one-handed. Clear it deliberately, on a bench.",
+   "quote": "If you are at all unsure as to the proper procedures to ensure that your firearm is unloaded, please consult your firearm user’s manual/instructions and/or contact a properly licensed dealer or the manufacturer of your firearm.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
+   "warn": "The host firearm's manual is the clearing authority."
+  },
+  {
+   "phase": "Clear",
+   "title": "Banish 45 range — .45 ACP down to rimfire",
+   "action": "Check the host cartridge against the rating. Banish designed this can specifically for handguns and states it fits calibers from .45 ACP to rimfire. That is a pistol can and the .45 ACP end of it is the ceiling — the SPECS block lists CALIBER .45 and CALIBER RANGE Rimfire - .45ACP.",
+   "prose": "Because it spans rimfire as well, the cleaning interval changes with what you feed it: 250 to 500 rounds normally, but every 100 on rimfire.",
+   "quote": "The BANISH 45 was specifically designed for handguns and will fit calibers from .45 ACP to rimfire.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — SPECS, p.3",
+   "warn": "Pistol can. .45 ACP is the top of the range."
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Fixed barrel or tilting barrel? That changes what is inside the mount",
+   "action": "Establish what kind of host you are mounting to before you fire it. On a tilting-barrel semi-auto the Nielsen piston and its spring do the work. On a FIXED barrel — Banish's example is anything that is not a slide action pistol — the spring must come off the piston and be replaced by a wave spring and a fixed barrel spacer, which is sold separately.",
+   "prose": "Running a booster spring on a fixed barrel gives you a moving part with nothing to do; running no spacer on a fixed barrel leaves the can floating on a piston that was never meant to be static.",
+   "aside": "Quoted as printed; the sentence continues 'used in place of the spring.' The asterisk footnote reads 'Fixed Barrel Spacer sold separately'.",
+   "quote": "When using the Banish 45 on firearms with a fixed barrel (not slide action pistols), a fixed barrel spacer* (N) should be",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — DISASSEMBLY AND CLEANING, p.6",
+   "warn": "The internal part depends on the HOST, not on the can."
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the seat before firing and before stripping",
+   "action": "Confirm the thread mount is fully shouldered on the barrel with no visible gap, and that any crush washer from a previous muzzle device has been removed. On a threaded pistol barrel the thread is short and the shoulder small, so a gap is easy to miss and expensive to ignore.",
+   "prose": "A can that is not seated square on a pistol barrel is a baffle strike waiting for the first round, because the barrel is short and the bullet has almost no distance to settle.",
+   "quote": "Check the fit between your barrel and silencer before firing! The thread mount must be fully shouldered on the barrel.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
+   "warn": "If there is any gap DO NOT fire the host with the silencer attached."
+  },
+  {
+   "phase": "Strip",
+   "title": "Let it cool before you handle it",
+   "action": "A pistol can gets hot fast because it sits close to the chamber and the tube is only 1.375 inches across. Banish tells you to use extreme caution taking it off after firing and offers heat resistant fabric as the way to handle it while retightening.",
+   "prose": "Aluminium baffles inside a titanium body means the outside cools before the inside does. It stays dangerous after it stops feeling dangerous.",
+   "quote": "When removing the silencer, use extreme caution as it may be hot to the touch after firing.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
+   "warn": "Heat resistant fabric or gloves."
+  },
+  {
+   "phase": "Strip",
+   "title": "Unthread the Banish 45 off the muzzle",
+   "action": "Turn the can counter-clockwise off the barrel threads. It goes on hand tight and comes off hand tight — Banish specifies hand tighten only. If it has snugged itself under fire that is normal direct-thread behaviour and the reason the attachment has to be re-checked constantly.",
+   "prose": "On a pistol the check matters more, not less: the slide is cycling right behind the can and a loose can can drift while you shoot.",
+   "caution": "Hand tighten only on reinstall.",
+   "quote": "We recommend checking the security of the attachment after 5 discharges of the firearm and every 30 discharges thereafter.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Protect the bare muzzle threads",
+   "action": "Fit a thread protector or another muzzle device to the exposed threads before the pistol is holstered, cased or stored. Banish asks for this to protect the threads and the crown — on a pistol those threads are the first thing to meet a holster mouth.",
+   "prose": "Clean them while they are exposed; they are unreachable once the can is on.",
+   "quote": "Once the silencer is removed from the host firearm, BANISH recommends using a thread protector or other muzzle device to protect the muzzle threads and crown during storage or transport.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Never fire an obstructed can",
+   "action": "Look through the can before it goes back on. Mud, dirt, a patch or solvent still standing in it are all obstructions, and Banish forbids firing through any of them. On a pistol can that has been soaked this is the check that catches trapped solvent in the piston housing.",
+   "prose": "The piston end has pockets a rifle can does not, so drainage takes longer than you expect.",
+   "quote": "Silencers must be free of obstructions such as mud, dirt, etc. DO NOT attempt to shoot through an obstructed silencer.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
+   "warn": "Sight through it before every reinstall."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The Banish 45 is off the muzzle and the threads are covered. That is the routine strip — the piston, the tubes and the twelve baffles are the Deep Clean. Banish sets the interval at every 250 to 500 rounds, tightening to every 100 with rimfire ammunition, because unjacketed lead builds up far faster than jacketed pistol bullets do.",
+   "prose": "That split interval is the thing to remember about this can: the same suppressor has two schedules depending on what you feed it.",
+   "aside": "Quoted as printed; the sentence completes with 'ammunition.'",
+   "quote": "It is recommended that the suppressor be cleaned every 250 - 500 rounds fired, more often (every 100) with rimfire",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — DISASSEMBLY AND CLEANING, p.6",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Piston cap off, then piston and spring out",
+   "action": "Start at the mount end. Unscrew the piston cap (L), then withdraw the piston (I) and the spring (J). Keep the spring under control as it comes free — it is a compression spring in a short bore and it will go across the bench if you let it.",
+   "prose": "Banish letter-codes every part in this book, and the codes are worth using: on a can with twelve baffles in three colours the letters are the only unambiguous names.",
+   "caution": "Control the spring. It is captive only while the cap is on.",
+   "quote": "Unscrew piston cap (L) and remove piston (I) and spring (J).",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — DISASSEMBLY AND CLEANING, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Break the can into its three threaded sections",
+   "action": "Unscrew the end cap (A), the piston housing (H) and the extension tube (E) from the main tube (G). Note that blue baffles are already installed inside the extension tube and the end cap before assembly, so those two parts do not come out empty.",
+   "prose": "That is what makes this can modular: it is three tubes and a cap, not one body with an access panel.",
+   "quote": "Unscrew end cap (A), piston housing (H), and extension tube (E) from the main tube (G). Note: Blue baffles are installed into the extension tube and end cap prior to assembly.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — DISASSEMBLY AND CLEANING, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Soak both tubes before tapping any baffle",
+   "action": "Spray your solvent of choice inside BOTH tubes and let it soak before removing baffles. Then set the tubes on a soft wood block and tap the baffles out of the main tube (G) and the extension tube (E) with a wooden dowel and a small hammer.",
+   "prose": "Soft wood block under, wooden dowel through. Aluminium baffles deform if they are driven against anything harder than they are.",
+   "caution": "Soak first. A dry stack driven with a hammer damages baffles.",
+   "quote": "Place the tubes on a soft wood block and tap baffles out of the main tube (G) and the extension tube (E) using a wooden dowel and small hammer.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — DISASSEMBLY AND CLEANING, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrub every part and get the solvent out",
+   "action": "Work a stiff brass or nylon brush with solvent or carbon killer over the baffles and the insides of both tubes. Then check every part is clean and that no solvent remains anywhere — the piston housing in particular holds liquid in places a rifle can does not have.",
+   "prose": "Solvent left in the piston bore will find its way out under recoil, straight into the host's frame.",
+   "quote": "Use a stiff bristle brush (brass or nylon) with solvent / carbon killer of choice to clean the baffles and inside the tube. Make sure all parts are clean and solvent has been removed.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — DISASSEMBLY AND CLEANING, p.6",
+   "warn": "No solvent left standing anywhere in the can."
+  },
+  {
+   "phase": "Clean",
+   "title": "Piston assembly back in — engage the gear shaft",
+   "action": "Put the spring (J) over the piston (I) and slide the pair into the piston housing (H), making sure the END OF THE PISTON fits into the gear shaft. Then fit the piston cap (L). If the piston is not engaged in the gear shaft the booster cannot work and the cap will still go on, which is exactly why this is the step to be careful with.",
+   "prose": "On a fixed-barrel host, this is where the wave spring (M) and the fixed barrel spacer (N) go instead of the spring.",
+   "caution": "The cap will close whether or not the piston is engaged. Check by feel.",
+   "quote": "Place the spring (J) over the piston (I) and slide into the piston housing (H), ensure the end of the piston fits in the gear shaft. Then attach the piston cap (L).",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — ASSEMBLY - FULL LENGTH, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Read the engraving before you thread the piston housing in",
+   "action": "Apply anti-seize to the interior threads of the main tube, then hold the main tube (G) with its engraved text the right way up and thread the piston assembly in. Banish's own check is that the piston assembly then sits on the RIGHT side as shown in its diagram — so the engraving is the orientation key for the whole build.",
+   "prose": "Build it upside down and the can still assembles; it just indexes wrong relative to the host.",
+   "quote": "Hold the main tube (G) with the engraved text as you would read it (not upside down) and thread the piston assembly into the main tube (G).",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — ASSEMBLY - FULL LENGTH, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stack six black baffles on one red, witness lines aligned",
+   "action": "On a flat surface stack six black baffles (D) on top of one red baffle (C). Each black and red baffle carries exterior witness lines and small machined alignment features on its end, and those exist to keep the exhaust ports lined up. Make sure each baffle is lined up and the index tabs are engaged before the tube goes over them.",
+   "prose": "The colour coding is the assembly instruction: black and red in the main tube, blue in the extension and end cap. Mixing them puts the wrong port geometry in the wrong place.",
+   "caution": "Ensure each baffle is lined up and the index tabs are engaged.",
+   "quote": "Using a flat surface, stack six black baffles on top of one red baffle. Each of the black baffles (D) and red baffles (C) have exterior witness lines and small alignment features machined into the end of the baffle to maintain exhaust port alignment.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — ASSEMBLY - FULL LENGTH, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Capture the stack, then build the extension",
+   "action": "Place the main tube with its piston assembly over the baffle stack, slide it to the edge of a surface and flip it to the other end, holding the baffles with a finger as it goes. Thread the extension tube (E) into the assembled main tube, remembering that the blue baffle (B) goes into the extension BEFORE the extension goes onto the main tube.",
+   "prose": "For the compact 6.7 inch build you simply stop here: remove the end cap and extension tube from the main tube and put the end cap straight onto the main tube instead.",
+   "quote": "Thread the extension tube (E) into the assembled main tube. Note: The blue baffle (B) should be installed into the extension tube (E) prior to assembly onto main tube.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — ASSEMBLY - FULL LENGTH, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Two black on one red into the extension, then the end cap, hand tight",
+   "action": "Stack two black baffles (D) on one red baffle (C), place the assembled tube over them, flip it and attach the end cap — which already has a blue baffle (B) inside it. The whole can closes hand tight; there is no torque figure in this book because it does not need one.",
+   "prose": "That is the difference between this pistol can and the .30 rifle cans, which finish at 110-120 inch pounds. Do not carry a rifle figure across to it.",
+   "quote": "Stack two black baffles (D) on top of one red baffle (C). Place the assembled tube over the baffle stack, slide the tube to the edge of a surface and flip it to the other end (use your finger to hold the baffles in place) and attach the end cap.",
+   "cite": "BANISH 45 — OWNER'S MANUAL — NOT PRINTED — ASSEMBLY - FULL LENGTH, p.7",
+   "warn": "Hand tighten. Ready for use."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "PISTON AND HOUSING",
+   "tasks": [
+    "Unscrew the piston cap (L) and remove the piston (I) and spring (J)",
+    "Clean carbon out of the piston bore and the housing threads",
+    "On a FIXED barrel host, fit the wave spring (M) and fixed barrel spacer (N) in place of the spring",
+    "Confirm the piston end engages the gear shaft on reassembly"
+   ]
+  },
+  {
+   "name": "BAFFLES",
+   "tasks": [
+    "Soak both tubes with solvent before tapping any baffle out",
+    "Tap baffles out on a soft wood block with a wooden dowel and a small hammer",
+    "Scrub with a stiff brass or nylon brush and solvent or carbon killer",
+    "Keep the colours together: black and red for the main tube, blue for the extension and end cap"
+   ]
+  },
+  {
+   "name": "TUBES AND THREADS",
+   "tasks": [
+    "Clean the inside of the main tube (G) and extension tube (E)",
+    "Apply anti-seize to the interior threads of the main tube before the piston assembly goes in",
+    "Confirm every trace of solvent is out of the can before it is fired"
+   ]
+  },
+  {
+   "name": "SCHEDULE",
+   "tasks": [
+    "Clean every 250 to 500 rounds fired",
+    "Clean every 100 rounds when shooting rimfire ammunition through it",
+    "Fit a thread protector to the host's muzzle threads whenever the can is off"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Place the spring (J) over the piston (I), slide it into the piston housing (H) with the piston end engaged in the gear shaft, and fit the piston cap (L).",
+  "Apply anti-seize to the main tube's interior threads and thread the piston assembly in with the engraved text the right way up.",
+  "Stack six black baffles (D) on one red baffle (C) with witness lines aligned and index tabs engaged, then capture them in the main tube.",
+  "For the 8.6 inch build, thread the extension tube (E) — with its blue baffle (B) already fitted — into the main tube, then stack two black on one red and fit the end cap (A), which carries its own blue baffle.",
+  "For the 6.7 inch build, leave the extension tube off and fit the end cap straight onto the main tube.",
+  "Hand tighten. Then thread the can onto the host's muzzle hand tight with no gap at the shoulder."
+ ],
+ "fncheck": "With the Banish 45 rebuilt, sight straight through it and confirm every baffle bore lines up as one clear channel with no step and no solvent standing in the piston housing. Check the piston moves freely against its spring — on a fixed-barrel host, check the spacer is fitted instead. On the pistol, confirm the mount is fully shouldered with no visible gap, then re-check tightness after the first 5 shots and every 30 thereafter."
+}

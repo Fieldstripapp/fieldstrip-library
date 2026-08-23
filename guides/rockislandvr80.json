@@ -1,0 +1,90 @@
+{
+ "row": "rockislandvr80",
+ "make": "Rock Island",
+ "model": "VR80",
+ "sourcedFrom": "Rock Island Armory VR80 Mag Fed Shotgun Users Manual — 04/2020 (2020)",
+ "sourceSha256": "fefde8ff8a392abc84853c79e11f2d700426722f3444191c1581aade726e9c3d",
+ "cleanIntro": "An AR-layout gas semi-auto shotgun. The strip is barrel shroud, handguard, two pins, then the gas system and bolt. Terse in the book and terse here, because that is what is published.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, and clear the chamber before anything else",
+   "action": "Take the magazine out of the well. This is a magazine-fed shotgun, so a removed magazine tells you nothing about the chamber — draw the bolt back, look into the chamber, and only then let it forward. A 12-gauge round sitting in that chamber is not subtle once you know to look for it.",
+   "quote": "Remove the magazine.",
+   "cite": "Rock Island Armory VR80 Mag Fed Shotgun Users Manual — 04/2020 — DISASSEMBLY OF THE FIREARM, step 1, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel shroud unscrewed",
+   "action": "Unscrew the barrel shroud in the direction of the arrow on the figure. It threads onto the front of the handguard assembly and has to come off before the foreend will move — it is what everything forward of the receiver is captured by.",
+   "quote": "Unscrew the barrel shroud by turning in arrow direction.",
+   "cite": "Rock Island Armory VR80 Mag Fed Shotgun Users Manual — 04/2020 — DISASSEMBLY OF THE FIREARM, step 2, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Foreend forward",
+   "action": "Pull the foreend forward off the barrel. With the shroud off it slides; if it does not, the shroud is not fully unthreaded rather than the foreend being stuck.",
+   "quote": "Pull the foreend in arrow direction.",
+   "cite": "Rock Island Armory VR80 Mag Fed Shotgun Users Manual — 04/2020 — DISASSEMBLY OF THE FIREARM, step 3, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Both detaching pins pushed through",
+   "action": "Push the first detaching pin and pull it from the opposite side until it sets, then do the same with the second. They are the takedown and pivot pins of the AR layout under another name, and like those they set at a stop rather than coming right out.",
+   "aside": "Push the other detaching pin and pull from the other side until it sets.",
+   "quote": "Push the detaching pin and pull from the other side until it sets.",
+   "cite": "Rock Island Armory VR80 Mag Fed Shotgun Users Manual — 04/2020 — DISASSEMBLY OF THE FIREARM, step 4, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Upper off the lower",
+   "action": "Separate the upper from the lower. Support both halves as they come apart — this is a heavy 12-gauge upper and there is nothing captive holding it once the second pin is out.",
+   "quote": "Detach upper from lower.",
+   "cite": "Rock Island Armory VR80 Mag Fed Shotgun Users Manual — 04/2020 — DISASSEMBLY OF THE FIREARM, step 6, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gas system retaining nut off, split rings out",
+   "action": "Unscrew the gas system retaining nut in the arrow direction and take out the split rings behind it. Keep the rings together and note their order; they are what set the gas system's position on the barrel.",
+   "aside": "Remove the split rings.",
+   "quote": "Unscrew the gas system retaining nut by turning in arrow direction.",
+   "cite": "Rock Island Armory VR80 Mag Fed Shotgun Users Manual — 04/2020 — DISASSEMBLY OF THE FIREARM, steps 7-8, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Piston, slide and gas block forward",
+   "action": "Draw the piston, slide and gas block off the barrel in the arrow direction. Note which piston is fitted while it is in your hand — the VR80 ships two, one for 2¾-inch shells and one for 3-inch magnums, and putting the wrong one back is a cycling problem you will chase at the range.",
+   "prose": "The manual's own text prints 'has block' where it means gas block; the quote is verbatim, typo included. The VR80 ships two pistons — one for 2¾-inch shells and one for 3-inch magnums — so note which is fitted before it leaves your hand.",
+   "quote": "Remove the piston, slide and has block by pulling in arrow direction.",
+   "cite": "Rock Island Armory VR80 Mag Fed Shotgun Users Manual — 04/2020 — DISASSEMBLY OF THE FIREARM, step 9, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle out, then the bolt",
+   "action": "Pull the charging handle out, back the two barrel screws out one at a time with an Allen wrench, and draw the bolt assembly out in the arrow direction. One screw at a time — backing both off together lets the barrel move while you are still working on it.",
+   "aside": "Remove both barrel screws with an allen wrench one at a time.",
+   "quote": "Remove the charging handle by pulling it.",
+   "cite": "Rock Island Armory VR80 Mag Fed Shotgun Users Manual — 04/2020 — DISASSEMBLY OF THE FIREARM, steps 10-12, p.11",
+   "warn": "Pull out the bolt assembly in arrow direction."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Shroud, foreend, upper, gas system, charging handle and bolt are off. That is the entire disassembly Rock Island publishes for the VR80 — twelve numbered steps and no thirteenth. Note the charging handle before you set it down: it reinstalls from the other side of the receiver and has to be felt to set.",
+   "prose": "Before it goes back together, decide which of the two pistons the ammunition you shoot calls for — the manual supplies one for 2¾-inch shells and one for 3-inch magnums.",
+   "aside": "Make sure the handle is set",
+   "quote": "Insert the charging handle from the other side",
+   "cite": "Rock Island Armory VR80 Mag Fed Shotgun Users Manual — 04/2020 — MAINTENANCE, DAXOS ambidextrous cocking handle, p.12",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "⛔ RECORDED AS AN ABSENCE, NOT FILLED IN. The VR80 manual publishes a twelve-step disassembly and then nothing further: its MAINTENANCE pages (12-13) describe the BufferBolt and DAXOS features, the two gas pistons and the choke tube chart, and contain no cleaning or deeper teardown procedure at all. There is no bolt teardown, no trigger group, no lubrication schedule in the book. Nothing was invented to occupy the space.",
+ "reassembly": [
+  "Refit the bolt assembly, then the charging handle — insert it from the other side and make sure the handle is set.",
+  "Fit the two barrel screws one at a time.",
+  "Refit the gas block, slide and the piston your ammunition calls for, then the split rings and the gas system retaining nut.",
+  "Rejoin upper and lower and push both detaching pins home.",
+  "Slide the foreend back on and thread the barrel shroud down."
+ ],
+ "fncheck": "With the shotgun confirmed empty, pull the charging handle, insert it from the other side if it was removed and make sure the handle is set, then cycle the action and confirm the bolt runs fully into battery."
+}

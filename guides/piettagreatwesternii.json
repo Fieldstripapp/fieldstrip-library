@@ -1,0 +1,93 @@
+{
+ "row": "piettagreatwesternii",
+ "make": "Pietta",
+ "model": "Great Western II",
+ "sourcedFrom": "F.lli Pietta Instruction and Safety Manual for 1873 Single Action Revolvers — retrocarica ITA/ING (undated — no copyright line is printed)",
+ "sourceSha256": "54f1855e7fea19430804e5e81fb5351bbe5104dbf47bf741b08da7489ff71a07",
+ "cleanIntro": "The classic single-action strip: gate open, hammer at half cock, base pin out, cylinder out through the gate. Pietta's own 1873 Single Action book.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Half cock, gate open, and empty every chamber",
+   "action": "Draw the hammer to half cock and open the loading gate on the right rear of the frame, then push each cartridge or case out with the ejector rod under the barrel. Work the rod its full length in every chamber — a partial stroke leaves a case standing proud where it will bind the cylinder. Index each chamber to the rod as you go.",
+   "caution": "ALWAYS KEEP THE REVOLVER POINTED IN A SAFE DIRECTION. IF THE HAMMER IS COCKED, IT MUST FIRST BE DECOCKED.",
+   "aside": "chamber to its full length to assure full-length case ejection. Pay attention to the index between chamber and ejector rod.",
+   "quote": "Push out each cartridge or empty case with the ejector rod",
+   "cite": "F.lli Pietta Instruction and Safety Manual for 1873 Single Action Revolvers — retrocarica ITA/ING — UNLOADING, p.23"
+  },
+  {
+   "phase": "Clear",
+   "title": "Prove every chamber empty before the gate closes",
+   "action": "Turn the cylinder past the gate once more with your eyes on each chamber, then close the gate. This is the check the rest of the procedure rests on, and on a single action it is easy to be one chamber out.",
+   "quote": "Check to be certain that all cartridges have been removed,",
+   "cite": "F.lli Pietta Instruction and Safety Manual for 1873 Single Action Revolvers — retrocarica ITA/ING — UNLOADING, p.23",
+   "warn": "DO NOT EJECT UNFIRED CARTRIDGES ONTO ANY SURFACES WHERE THE CARTRIDGE PRIMER MIGHT STRIKE A SOLID OBJECT AND DISCHARGE THE CARTRIDGE."
+  },
+  {
+   "phase": "Strip",
+   "title": "Gate open, hammer to the half-cock notch",
+   "action": "Open the loading gate again and set the hammer in its half-cock notch. Both together: the gate drops the cylinder latch and half cock frees the cylinder to turn. Neither on its own will let the cylinder out.",
+   "aside": "Place the hammer in its half-cock notch.",
+   "quote": "Open the loading gate.",
+   "cite": "F.lli Pietta Instruction and Safety Manual for 1873 Single Action Revolvers — retrocarica ITA/ING — CARE AND CLEANING, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Base pin catch held in",
+   "action": "Find the spring-loaded plunger on the left front of the frame — that is the base pin catch — press it in and keep it pressed. Let it out mid-pull and it drops into the pin's groove and stops you dead. Hold it the whole way.",
+   "prose": "The sentence continues 'located on the left front side of the frame. Keep it depressed.' — the two halves sit in different columns of this bilingual page and the text layer interleaves them, so the quote stops where the extraction does.",
+   "quote": "Depress the base pin catch. This is the spring-loaded plunger",
+   "cite": "F.lli Pietta Instruction and Safety Manual for 1873 Single Action Revolvers — retrocarica ITA/ING — CARE AND CLEANING, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Base pin all the way out",
+   "action": "Slide the base pin forward out of the frame. It is the heavy pin the cylinder turns on, so keep it somewhere it will not pick up grit — the manual asks that it always be kept clean and lubricated, because it is a bearing, not just a fastener.",
+   "prose": "The sentence continues 'pin around which the cylinder rotates' — Pietta's own words for why it is a bearing and not just a fastener.",
+   "quote": "Slide the base pin all the way out. The base pin is the heavy",
+   "cite": "F.lli Pietta Instruction and Safety Manual for 1873 Single Action Revolvers — retrocarica ITA/ING — CARE AND CLEANING, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cylinder out through the gate",
+   "action": "Take the cylinder out toward the loading gate. It is a close fit made to that gun and it will come out easily if it is square — do not force it in any direction. Out through the gate side is the only way.",
+   "prose": "That is the whole published strip for this pattern.",
+   "quote": "Remove cylinder toward the loading gate.",
+   "cite": "F.lli Pietta Instruction and Safety Manual for 1873 Single Action Revolvers — retrocarica ITA/ING — CARE AND CLEANING, p.24",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Pietta's 1873 Single Action book publishes the cylinder removal above as its complete disassembly and then says 'To reassemble, simply reverse the steps above.' There is no further teardown in the document — no hand and bolt, no mainspring, no gate spring — and the nomenclature diagram on p53 is a parts identification chart, not a procedure. Nothing deeper was invented for it.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBERS",
+   "tasks": [
+    "Use a wood, aluminium or brass cleaning rod — not steel — with a brass bristle brush and correctly sized patches",
+    "Swab the bore and each chamber with a good quality cleaning solution",
+    "Brush all the way through the bore in one direction; never reverse a brush inside the barrel or a chamber",
+    "Run clean patches through the bore and chambers until they come out clean"
+   ]
+  },
+  {
+   "name": "BASE PIN & FRAME",
+   "tasks": [
+    "Wipe the base pin and its bore clean, then lubricate — it is the cylinder's bearing surface",
+    "Clean the frame window and the recoil shield face",
+    "Oil the entire revolver completely but lightly"
+   ]
+  },
+  {
+   "name": "BRASS FURNITURE",
+   "tasks": [
+    "Use a good quality brass polish on the backstrap and trigger guard if they are brass",
+    "Expect solid brass to tarnish; that is the material, not a defect"
+   ]
+  }
+ ],
+ "reassembly": [
+  "To reassemble, simply reverse the steps above.",
+  "When you reassemble the base pin, make sure the base pin catch snaps back in its regular position.",
+  "Test it by depressing the plunger and confirming it returns under its own spring pressure."
+ ],
+ "fncheck": "With the revolver confirmed unloaded, check the cylinder turns and indexes with the hammer at half cock, and that the base pin catch has snapped fully home."
+}

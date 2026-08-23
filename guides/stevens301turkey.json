@@ -1,0 +1,193 @@
+{
+ "row": "stevens301turkey",
+ "make": "Stevens",
+ "model": "301 Turkey",
+ "sourcedFrom": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own (UNDATED — no copyright year is printed anywhere in the document; the only date on it is the 8/18 in the back-cover part code, which is a print code and not a copyright line)",
+ "sourceSha256": "af2ff56fe45a71be107ae8fd689660ef37e5e6c89b7dd7b5f35b08e40b7463c4",
+ "cleanIntro": "Savage's own procedure for the Model 301 break-action single shot. Six of this book's eight sheets are scans with no text layer at all — including every page carrying the safety, the loading, the choke system and the whole of SECTION 6 MAINTENANCE — so all of it is read here by OCR under the 2026-08-20 ruling, with hash, tool and date on record. Two things to note before you start: this gun ejects forcefully the moment the action opens, and the barrel assembly is serial-matched to the frame it came on.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Get the hammer under control first",
+   "action": "Keep the muzzle pointed in a safe direction and grip the shotgun behind the action. If the hammer is standing fully cocked, put the two-position safety into FULL SAFE so the red dot is covered before you touch anything else. If the hammer is already resting fully forward against the receiver, skip straight to opening the action.",
+   "prose": "This is an exposed-hammer gun with no bolt to hide behind. Everything that follows is about lowering that hammer without letting it get away from you.",
+   "quote": "Keeping the muzzle pointed in a safe direction, grip the shotgun behind the action.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — ADDENDUM — UNLOADING YOUR SHOTGUN, step 1",
+   "warn": "The 301 ejects a live shell rearward with force the instant the action opens. Never have the breech pointed at yourself or anyone else."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lower the hammer onto the safety shelf",
+   "action": "With your thumb fully controlling the hammer in its rearward position, press the trigger, then let the hammer move slowly forward and fully release the trigger. It comes to rest on the safety shelf of the engaged two-position safety, not on the firing pin.",
+   "prose": "Control the hammer the whole way. A thumb that slips here is the classic way a break-action goes off with the action closed.",
+   "aside": "The HAMMER will rest against the safety shelf of the fully engaged two-position safety.",
+   "quote": "While fully controlling and holding the HAMMER in the rearward position, press the TRIGGER.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — ADDENDUM — UNLOADING YOUR SHOTGUN, step 2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Fingers OUT of the guard for step three",
+   "action": "Keep fingers and everything else outside the trigger guard. Controlling the hammer, draw it back about a quarter inch, rotate the safety to SAFETY OFF, and let the hammer travel fully forward to rest on the receiver. Do not touch the trigger during this — Savage prints that as a warning of its own.",
+   "prose": "Leaving the trigger alone is what lets the transfer bar drop away, so the hammer lands on the receiver instead of on the firing pin. Touch the trigger and you have re-armed the very thing you are trying to disarm.",
+   "quote": "The trigger must not be manipulated during the actions described in step 3.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — ADDENDUM — UNLOADING YOUR SHOTGUN, warning before step 3",
+   "warn": "Not manipulating the trigger is what allows the transfer bar to drop away so the firing pin is not struck."
+  },
+  {
+   "phase": "Clear",
+   "title": "Open the action and take the ejection",
+   "action": "With the hammer forward, put one hand under the forend and push the opening lever downward. The action opens and the automatic ejector throws the shell — live or fired — rearward at speed.",
+   "prose": "Expect it. The ejector on this gun is not gentle, and it does not care whether the shell has been fired.",
+   "quote": "Place one hand under the forend and push the OPENING LEVER downward to open the action and forcefully eject the live or fired shell.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — ADDENDUM — UNLOADING YOUR SHOTGUN, step 4",
+   "warn": "Be sure the breech is not pointed toward you or anyone else when the action opens."
+  },
+  {
+   "phase": "Clear",
+   "title": "Look, and feel",
+   "action": "Check the chamber by eye and by finger and confirm it is empty before the gun goes on the bench.",
+   "prose": "Savage prints this twice in the same book, in capitals, both times ending in the same three words.",
+   "quote": "LOOK AND FEEL! BE SURE THE CHAMBER IS EMPTY -- DO NOT ASSUME!",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — ADDENDUM — UNLOADING YOUR SHOTGUN, after step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "This barrel belongs to THIS frame — check the serial number",
+   "action": "Before any barrel comes off or goes back on, check that the serial number on the barrel assembly matches the last four digits of the serial number on the receiver. Barrel assemblies and other parts are matched to the individual gun, and Savage's rule is to have only one firearm disassembled at a time so components cannot be swapped between them.",
+   "prose": "It is a bound on what this book covers as much as a warning: the manual does not describe a barrel that will fit any 301, it describes the barrel that came on yours. Two guns open on the same bench is how a mismatched barrel gets closed on a shell.",
+   "quote": "BARREL ASSEMBLIES AND OTHER PARTS ARE SPECIFICALLY MATCHED TO YOUR FIREARM.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — SECTION 3 BASIC USE, printed p.6",
+   "warn": "Interchanging parts from other firearms can cause serious injury or gun damage."
+  },
+  {
+   "phase": "Strip",
+   "title": "Chokes out — action open first",
+   "action": "The 301 uses interchangeable Win-Choke style screw-in chokes. Unload the gun and open the action before changing or even checking a choke, and identify what you have by the notches cut in the end of the tube.",
+   "prose": "The notch count is deliberately readable in poor light — one notch is Full, and the count goes up as the constriction opens out.",
+   "quote": "The Model 301 shotgun is designed to use interchangeable screw-in chokes (Win-Choke style).",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — SECTION 5 SCREW-IN CHOKE SYSTEM, printed p.9",
+   "warn": "Firing without a choke installed may damage the bore. Never use a choke that is bent or out of round."
+  },
+  {
+   "phase": "Strip",
+   "title": "Grease the choke threads on the way back",
+   "action": "Put a thin coat of light gun grease or choke tube lubricant on the choke threads before the tube goes back into the barrel, screw it in firmly, and do not over-tighten it.",
+   "prose": "Dry choke threads in a shotgun that gets shot wet is how a tube seizes in place permanently. Check them for tightness from time to time as well.",
+   "quote": "We recommend that a thin coating of light gun grease or choke tube lubricant be applied to the threads of chokes before they are installed in the barrel.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — SECTION 5 SCREW-IN CHOKE SYSTEM, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — and that is all Savage publishes",
+   "action": "Action open, chamber confirmed empty, choke out if you are cleaning the bore. This book publishes no further disassembly of the Model 301: SECTION 3 gives installing the barrel assembly and nothing about removing it, and there is no trigger-group, forend or stock procedure anywhere in the eight pages. In-depth mechanical work is sent to a gunsmith or to Savage.",
+   "prose": "A single-shot break action does not need much taken off it to be cleaned properly — the bore, the chamber, the standing breech and the face of the firing pin are all reachable with the action open.",
+   "quote": "In depth mechanical issues or questions as well as periodic examinations should be referred to a qualified gunsmith or Savage Arms Service Department.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — SECTION 6 MAINTENANCE, printed p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Set up before you touch a solvent",
+   "action": "Lay out a suitable surface with adequate ventilation, the correct gauge cleaning rod, brush, patches, powder solvent and oil. Open the action and lay the shotgun horizontally.",
+   "prose": "Read the labels on whatever solvent you are using before it comes out of the bottle — Savage puts that in capitals immediately above the procedure.",
+   "quote": "Prepare an area for cleaning the firearm with a suitable surface, adequate ventilation, correct caliber cleaning rod, brush, patches, powder solvent, and oil.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — SECTION 6 MAINTENANCE — CLEANING, printed p.10",
+   "warn": "Never attempt to disassemble, clean or oil a loaded firearm."
+  },
+  {
+   "phase": "Clean",
+   "title": "Rod goes in at the chamber, out at the muzzle",
+   "action": "Put a little powder solvent on the brush and push the cleaning rod through the barrel several times — always starting at the chamber end and exiting at the muzzle.",
+   "prose": "Chamber to muzzle, every stroke. Running a rod back in through the crown is how a break-action loses its pattern.",
+   "caution": "ALWAYS STARTING FROM THE CHAMBER END, PUSH THE CLEANING ROD THROUGH THE BORE AND OUT THE MUZZLE END.",
+   "quote": "Using a small amount of powder solvent on the brush, push the cleaning rod through the barrel several times.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — SECTION 6 MAINTENANCE — CLEANING, printed p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Patches until they run clean, then oil, then dry",
+   "action": "Swap the brush for a patch tip, push a fresh patch through from the chamber end and out the muzzle, and repeat several times. Then push one patch saturated with gun oil through, and finally a dry patch to take the excess back out.",
+   "prose": "The last dry patch is not optional. Oil left standing in the bore of a shotgun is a pressure problem, not a rust preventative.",
+   "aside": "Push a new dry patch through the bore to remove the excess oil.",
+   "quote": "Unscrew the brush from the cleaning rod and replace it with a patch tip.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — SECTION 6 MAINTENANCE — CLEANING, printed p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Protect the metal, inside and out",
+   "action": "Wipe mud, twigs and grass off with a soft cloth, then put a thin coat of gun oil on all the cleaned metal, rubbing where there are signs of rust. Where you can reach them with the action open, clean and lightly oil the interior metal surfaces too.",
+   "prose": "A very thin film is the whole specification. Over-oiling a break-action just moves the oil into the stock head.",
+   "aside": "Apply a thin coat of gun oil on all cleaned metal surfaces. Rubbing may be necessary to remove any signs of rust.",
+   "quote": "Where accessible, clean and lightly oil interior metal surfaces.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — SECTION 6 MAINTENANCE — PROTECTING METAL SURFACES, printed p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Inspect while it is open",
+   "action": "With the action still open, look down the barrel for obstructions, nicks, scratches, rust or pitting; run your fingers the length of the outside of the barrel feeling for bulges; and inspect the frame and the face of the firing pin for damage or excessive wear. Check the stock, recoil pad and trigger guard as well.",
+   "prose": "This is the part of routine maintenance people skip, and it is the part that catches a bulged barrel before it is fired again.",
+   "aside": "While the action is open, inspect the frame and firing pin face for signs for damage or excessive wear.",
+   "quote": "Open the action, look down the barrel to be sure it is clear of any obstructions and that there are no signs of damage (nicks, scratches, etc.), rust, or pitting.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — SECTION 6 MAINTENANCE — ROUTINE MAINTENANCE, printed p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Prove the safety works before the gun is loaded again",
+   "action": "Check that the two-position safety is functional and that the opening lever opens the action freely and smoothly with the barrel assembly locking securely when closed. Savage wants this done every time the firearm is prepared for use, not just after cleaning.",
+   "prose": "In FULL SAFE the hammer is blocked from reaching the transfer bar and firing pin. If that block cannot be felt, the gun does not go back in the cabinet loaded.",
+   "aside": "In the FULL SAFE position, the hammer is blocked from striking the transfer bar/firing pin.",
+   "quote": "verify the OPENING LEVER opens the action freely/smoothly and the barrel assembly locks securely when closed.",
+   "cite": "Stevens Model 301 Shotgun Instruction Manual, with the Model 301 Manual Addendum — 113515 8/18 — printed at the foot of the back cover; the ADDENDUM sheet carries no code of its own — SECTION 6 MAINTENANCE — ROUTINE MAINTENANCE, printed p.10"
+  }
+ ],
+ "deepAbsentReason": "Savage publishes NO deeper procedure for the Model 301 and this listing therefore has no Deep Clean — the manufacturer's answer, not a gap in ours. Measured over the whole eight-sheet document, OCR'd end to end: the only assembly procedure printed anywhere is SECTION 3's five-step INSTALLING THE BARREL ASSEMBLY (printed p.6), which puts the barrel on and says nothing about taking it off; SECTION 6 MAINTENANCE runs to routine inspection, the ten-step bore cleaning carried above, and PROTECTING METAL SURFACES. There is no forend removal, no stock removal, no trigger-group or transfer-bar procedure and no exploded view in the book at all. Savage routes anything beyond this explicitly: \"In depth mechanical issues or questions as well as periodic examinations should be referred to a qualified gunsmith or Savage Arms Service Department\" (printed p.10). Basic cleaning covers routine care; deeper work is gunsmith territory by the maker's own instruction.",
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Open the action and lay the shotgun horizontally",
+    "Push the solvent-wetted brush through from the chamber end and out the muzzle, several times",
+    "Swap to a patch tip and run fresh patches through, chamber to muzzle, until they come out clean",
+    "Push one oil-saturated patch through, then one dry patch to remove the excess",
+    "Check the bore afterwards for pieces of cleaning patch or any other obstruction"
+   ]
+  },
+  {
+   "name": "CHOKE TUBES",
+   "tasks": [
+    "Unload and open the action before changing or verifying a choke",
+    "Grease the threads with light gun grease or choke tube lubricant before refitting",
+    "Screw the choke in firmly but do not over-tighten it",
+    "Never use a choke that is bent or out of round, and check periodically that the tubes are still tight"
+   ]
+  },
+  {
+   "name": "METAL SURFACES",
+   "tasks": [
+    "Wipe off mud, twigs and grass with a soft cloth",
+    "Thin coat of gun oil on all cleaned metal, rubbing out any signs of rust",
+    "Clean and lightly oil the interior metal surfaces where they are accessible",
+    "A very thin film is sufficient protection — do not over-oil"
+   ]
+  },
+  {
+   "name": "INSPECTION (EVERY TIME)",
+   "tasks": [
+    "Two-position safety checked before loading live ammunition",
+    "Opening lever opens freely and smoothly; barrel assembly locks securely when closed",
+    "Bore clear of obstructions, no nicks, scratches, rust or pitting",
+    "Outside of the barrel felt down its length for bulges",
+    "Frame and firing pin face checked for damage or excessive wear",
+    "Stock, recoil pad and trigger guard examined"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Inspect the barrel assembly and the frame for damage before assembling, and confirm the serial number on the barrel matches the last four digits of the receiver's.",
+  "With an empty chamber, align the cut on the barrel lug with the hinge pin on the frame.",
+  "Insert the barrel assembly into the frame and rotate it upward to lock into position.",
+  "Push the forend to the frame and rotate it upward towards the barrel.",
+  "Depress the forend latch and keep rotating the forend upward until it locks in place.",
+  "Confirm the forend is locked and the barrel is correctly assembled to the frame before the gun is loaded."
+ ],
+ "fncheck": "Verify the two-position safety is operational as described in SECTION 2 — hammer drawn back about half an inch rotates the safety lever up to cover the red dot, and in that position the hammer is blocked from the transfer bar and firing pin. Check the opening lever works the action freely and that the barrel locks securely when closed. Check the bore one more time for pieces of cleaning patch before anything is loaded."
+}

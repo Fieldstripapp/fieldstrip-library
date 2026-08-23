@@ -1,0 +1,196 @@
+{
+ "row": "sigsauerp320compact",
+ "make": "SIG Sauer",
+ "model": "P320 Compact",
+ "sourcedFrom": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 (2021)",
+ "sourceSha256": "b3c11a12f70b2ed5944dff04a0bca81eb3888f50cd3f7f0588f5ffd167438b44",
+ "cleanIntro": "SIG's P320 field strip. Four pieces come apart and the manual stops there. One thing about the Compact is not shared with the rest of the line and it bites on the way back together, not on the way apart — SIG's reassembly branches on size, and the Compact takes the branch with the flats.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Know which P320 variant you are holding",
+   "action": "Before anything else, note three restrictions this manual carries that are not line-wide. VTAC, X-RAY night sights and Dawson Precision adjustable sights are offered only on select XSERIES models, so a standard Compact will not have them. A blanking plate and its screws are included with the XSERIES RXP and are only optional on standard RXP models, so if your Compact is optic-cut, check what actually shipped in the box rather than assuming a plate exists. And SIG's lifetime FCU warranty applies to individually purchased fire control units, not to complete pistols.",
+   "prose": "None of that changes the strip below, but all of it changes what you should expect to find on your own pistol and what is covered if something is wrong. The reason it goes first is that this one book covers standard, XSERIES, RXP, SPECTRE and AXG P320s side by side, and a feature printed on the page next to a procedure is not evidence your Compact has it.",
+   "aside": "SIG's own wording on the blanking plate is that it is included with the XSERIES RXP and optional on standard RXP models (12.2 P320-RXP/XVTAC Slide Parts Diagram, p.122); the FCU warranty restriction is printed at p.131.",
+   "quote": "VTAC®, X-RAY® Night Sights, and Dawson Precision® adjustable sights available with select XSERIES models.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 13.0 Technical Specifications, p.127"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Muzzle in a safe direction, finger outside the trigger guard. Press the magazine catch and remove the magazine from the grip module, then set it away from you.",
+   "prose": "The P320 has no magazine disconnect in its standard configuration. The pistol will fire a chambered cartridge with the magazine gone, so this step has removed the feed source and nothing more.",
+   "quote": "REMOVING THE MAGAZINE FROM THE PISTOL DOES NOT PREVENT IT FROM BEING FIRED.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 5.0 Unloading the Pistol, p.46",
+   "warn": "A P320 with the magazine out is not an unloaded P320."
+  },
+  {
+   "phase": "Clear",
+   "title": "Clear the chamber and check it yourself",
+   "action": "Rack the slide fully to the rear, watching for a cartridge to eject, and lock it open on the slide catch lever. Look into the ejection port and the magazine well, then put a finger into both.",
+   "prose": "SIG's instruction is that you personally check, visually and physically. On a Compact the ejection port is short and a case rim in shadow looks like the edge of the port; the finger is what tells the two apart.",
+   "quote": "Never assume that any firearm is unloaded until you have personally checked it, visually and physically.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 5.0 Unloading the Pistol, step 2, p.46"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lock the slide back for the strip",
+   "action": "Draw the slide fully rearward and push up on the slide catch lever until the slide locks open against it. Ease forward and feel the slide come up hard against the lever.",
+   "prose": "The takedown lever only rotates from this position, because the lever's cam has to line up with a relief in the slide. If the slide has crept forward the lever will feel seized — that is the pistol refusing, not a stiff lever.",
+   "quote": "Lock slide to the rear by pulling slide rearward and pushing up on slide catch lever.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.1 Pistol Disassembly, step 2, p.54"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown lever clockwise to the stop",
+   "action": "Rotate the takedown lever on the left side of the frame clockwise until it stops — about a quarter turn, from horizontal to pointing down. It should turn with fingertip pressure and stop positively.",
+   "prose": "Turn it to the stop, not most of the way. A partially rotated takedown lever will still let the slide start forward and then trap it, and the fix is always to put the slide back on the catch and start this step again.",
+   "quote": "Rotate takedown lever clockwise until it stops.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.1 Pistol Disassembly, step 3, p.55"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the catch, hand on the slide",
+   "action": "Take hold of the slide, pull it slightly rearward to unload the slide catch lever, and let the lever drop. Keep the slide under control.",
+   "prose": "From here the slide assembly is loose on the frame and the recoil spring is still compressed inside it. Letting go to change grip is what puts the whole assembly on the floor.",
+   "caution": "Eye protection on. The slide is under spring tension for the rest of this procedure.",
+   "quote": "Pull slide slightly rearward to disengage slide catch lever; keep hold of slide assembly.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.1 Pistol Disassembly, step 4, p.56"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly forward off the frame",
+   "action": "Guide the complete slide assembly — slide, barrel, recoil spring and guide together — straight forward and off the frame.",
+   "prose": "It comes off as one unit and it comes off square. Lifting the rear as you pull binds the slide on the rails; the Compact's rails are short and there is little travel to spare before it wedges.",
+   "quote": "Guide the complete slide assembly (slide, barrel, recoil spring, and guide) forward and off the frame.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.1 Pistol Disassembly, step 5, p.57"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring guide assembly out",
+   "action": "Turn the slide upside down. Push the recoil spring guide forward slightly to unseat its head from the barrel lug, then lift it out from the rear.",
+   "prose": "Forward to unseat, then lift from the rear — that sequence is what releases the head. Trying to lift it straight out pins the head under the lug and you end up levering against a compressed spring in a confined space.",
+   "caution": "Keep the muzzle end of the slide pointed away from your face as the guide releases.",
+   "quote": "Push recoil spring guide forward slightly and lift from rear to remove recoil spring guide assembly from slide.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.1 Pistol Disassembly, step 6, p.57"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Compact branch — note the spring guide flats NOW",
+   "action": "With the recoil spring guide in your hand, look at the guide's flats and note their orientation before you put it down. SIG's assembly instruction branches by frame size, and the Compact takes the branch quoted here: the recoil spring assembly goes into the slide and the spring guide must be rotated so the flats are VERTICAL.",
+   "prose": "This is the one place a P320 Compact is not assembled like a full-size P320. The full-size instruction is a separate sentence in the same step and has no flats requirement at all, and the X5 Legion has a third instruction again — so a reader following the full-size line on a Compact will seat the guide without ever rotating it. Look at it now, while it is out and obvious, rather than guessing during reassembly.",
+   "quote": "For Carry, Compact, and Sub-Compact pistols, insert recoil spring assembly into slide. You must rotate the spring guide so the flats are vertical.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.4 Pistol Assembly, step 3a, p.67",
+   "warn": "Do not apply the full-size instruction to this pistol. That instruction is written for full size pistols and omits the flats-vertical requirement."
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out of the slide",
+   "action": "Lift the barrel slightly and draw it to the rear out of the slide.",
+   "prose": "Up a little, then back — the locking lug has to clear the slide's locking recess before the barrel will travel. If it will not move, the recoil spring guide assembly is still in there.",
+   "quote": "Remove barrel from slide by pulling it upward slightly and to the rear.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.1 Pistol Disassembly, step 7, p.58"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Slide, barrel, recoil spring and guide assembly, and the frame in its grip module. That is the whole of SIG's owner-level P320 strip.",
+   "prose": "Everything past this is armorer work in this manual, and this book states plainly that no further disassembly of the fire control unit is authorised. The recoil spring and guide assembly is likewise a single serviced unit and is not to be taken apart. Remember the FCU warranty restriction from step 1 — it covers individually purchased fire control units, not whole pistols.",
+   "quote": "This level of disassembly is sufficient to allow a thorough cleaning after firing.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.1 Pistol Disassembly, note, p.58",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Magazine floorplate off — the spring is compressed",
+   "action": "Empty the magazine. Find the bottom of the floorplate, then with a punch push the tab of the magazine insert forward and then down to release the floorplate, keeping a thumb over the insert as it lets go.",
+   "prose": "Forward, then down — the tab has to come off its shoulder before it will drop clear, and pushing straight down first just jams it harder. The spring behind the insert is compressed the length of the tube and the insert is the only thing containing it.",
+   "quote": "Using a punch or similar tool, push the tab of the magazine insert forward, then down, to release floorplate.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.2 Magazine Disassembly, step 2, p.60",
+   "warn": "Eye protection. This is the one step in the whole guide where a part can leave under its own power."
+  },
+  {
+   "phase": "Strip",
+   "title": "Follower and spring out",
+   "action": "Draw the magazine follower and spring out of the tube, noting which way the follower faces before it clears.",
+   "prose": "The follower is handed — it presents cartridges nose-up along a curve, and upside down it will not feed. Lay the parts out in the order they came out and it goes back the same way.",
+   "quote": "Remove magazine follower and magazine spring from magazine tube.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.2 Magazine Disassembly, step 3, p.60"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrub the tube and follower",
+   "action": "Wipe the tube inside and out and the follower with a cloth, then work a soft brush wet with CLP down the tube and around the follower to lift the residue on the follower rails and under the feed lips.",
+   "prose": "Residue makes the follower drag and drag shows up as the last round failing to rise. Soft brush only — a steel brush scores the surfaces the follower runs on.",
+   "quote": "Wipe the magazine tube and follower with a cloth. Clean the magazine tube and follower with a soft brush and CLP.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.3 Cleaning and Lubricating, Magazine, step 1, p.65"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light oil, spring and tube",
+   "action": "Put a light coat of CLP on the magazine spring and the tube, then wipe the inside of the tube so no oil is left where the cartridges sit.",
+   "prose": "Light is the operative word. Any oil film inside the tube collects grit and transfers to the ammunition, and oiled cartridges are a hazard in their own right.",
+   "quote": "Apply a light coat of CLP to the spring and magazine tube.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.3 Cleaning and Lubricating, Magazine, step 3, p.65"
+  },
+  {
+   "phase": "Strip",
+   "title": "Back together — floorplate locked by the insert",
+   "action": "Orient the follower on the spring and start it into the bottom of the tube, press the spring fully in until the magazine insert sits flush with the bottom of the tube, then hold the insert down and slide the floorplate on until the insert locks it.",
+   "prose": "The insert has to come flush before the floorplate will start, and it has to snap up into the floorplate to lock it. A floorplate that slides on freely with no snap is held by friction alone and will leave the magazine when it is dropped.",
+   "quote": "Holding magazine insert in place, slide magazine floorplate onto magazine tube lips until magazine floorplate is locked in place by magazine insert.",
+   "cite": "SIG P320 \n® PISTOLS — P/N 8501909-01 REV 08 — 7.5 Magazine Assembly, step 3, p.71",
+   "warn": "Guard the insert and spring with your thumb throughout — the spring is being compressed again as you do this."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "SLIDE ASSEMBLY",
+   "tasks": [
+    "Strip all the old lubricant off before putting new on",
+    "Cloth first, then a soft brush with CLP on heavy carbon",
+    "Extractor, rail slots and breech face free of dirt and residue",
+    "Light coat of CLP in the frame rail slots of the slide",
+    "Lightly oil external parts",
+    "Nothing on the striker assembly and nothing down the striker channel — a wet channel causes light strikes"
+   ]
+  },
+  {
+   "name": "BARREL",
+   "tasks": [
+    "CLP-soaked patch from the chamber end out past the muzzle — never from the muzzle back",
+    "Let it stand several minutes to soften the carbon",
+    "Correct-caliber bronze brush on a rod, then dry patches until they come out clean",
+    "Wipe the exterior with a CLP cloth",
+    "Oil bore and chamber only for storage, and strip that oil back out before firing"
+   ]
+  },
+  {
+   "name": "FRAME AND GRIP MODULE",
+   "tasks": [
+    "Soft cloth over the frame and grip module",
+    "Cotton swabs into the corners — frame rails, takedown lever and slide catch lever get the attention",
+    "Light CLP on the frame rails and the accessible moving parts",
+    "Wipe the magazine well clear of dirt, dust and residue"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING AND GUIDE ASSEMBLY",
+   "tasks": [
+    "CLP and a soft brush, then a light coat back on",
+    "Do not disassemble it — SIG services it as one unit",
+    "Check the spring for kinks and the head for looseness while it is off the gun"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Check the pistol is clear of foreign matter, then insert the barrel into the inverted slide.",
+  "⚠ COMPACT-SPECIFIC: SIG's assembly step branches on size. The Compact takes the Carry/Compact/Sub-Compact branch — insert the recoil spring assembly into the slide and rotate the spring guide so the flats are VERTICAL. The full-size instruction has no flats step and does not apply here.",
+  "Make sure the takedown lever is still rotated clockwise fully to its stop.",
+  "Guide the slide onto the frame rails from the front, retract it fully to the rear, and engage the slide catch lever to lock it open.",
+  "Rotate the takedown lever counterclockwise until horizontal, then press the slide catch lever to release the slide."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty, muzzle in a safe direction throughout. Insert an empty magazine — audible click, and the catch holds it. Pull the slide fully back; the follower should push the slide catch lever up and lock the slide open. Press the magazine catch: the magazine must fall free under its own weight. Press the slide catch lever to run the slide forward. If your Compact has a manual safety, push the lever up and press the trigger — the striker must NOT release — then push the lever down again. Press and hold the trigger to the rear for a loud click; still holding it, rack the slide fully and release; let the trigger out for a light reset click; press again for a second loud click."
+}

@@ -1,0 +1,92 @@
+{
+ "row": "weatherbymodel307",
+ "make": "Weatherby",
+ "model": "Model 307",
+ "sourcedFrom": "model 307™ RIFLES — Weatherby owner's manual — Model 307 Rifles owner's manual (not printed)",
+ "sourceSha256": "b84a7fab2113d84572cd10d60f2df30ce4f37255cb5811fe1bf83f29430b21a3",
+ "cleanIntro": "The 307 is a conventional bolt rifle and Weatherby asks you to study its exploded view before you start — worth doing, because this strip goes past the bolt into the stock. Safety to SAFE, unload, bolt out, then floorplate and two screws take the barrelled action out of the wood.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety lever to SAFE, then unload",
+   "action": "Move the safety lever to SAFE before anything, then unload the rifle.",
+   "quote": "Move the safety lever to the “SAFE” position (refer to Manual Safety Operation, page 7).",
+   "cite": "model 307™ RIFLES — Weatherby owner's manual — Model 307 Rifles owner's manual — DISASSEMBLY OF THE MODEL 307 RIFLE"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt handle up, bolt fully back",
+   "action": "Raise the bolt handle and draw the bolt all the way to the rear.",
+   "quote": "Raise the bolt handle and draw the bolt all the way to the rear.",
+   "cite": "model 307™ RIFLES — Weatherby owner's manual — Model 307 Rifles owner's manual — DISASSEMBLY OF THE MODEL 307 RIFLE"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Look into the chamber AND the magazine",
+   "action": "Check both, by eye. Weatherby capitalises this instruction in its own manual — on a rifle with a hinged floorplate the magazine can hold rounds you will not see from the ejection port.",
+   "quote": "VISUALLY CHECK THE CHAMBER AND THE MAGAZINE TO BE CERTAIN THERE ARE NO CARTRIDGES IN THE RIFLE.",
+   "cite": "model 307™ RIFLES — Weatherby owner's manual — Model 307 Rifles owner's manual — DISASSEMBLY OF THE MODEL 307 RIFLE"
+  },
+  {
+   "phase": "Strip",
+   "title": "Study the exploded view before you go further",
+   "action": "Weatherby asks for this before disassembly, and on a gun where the stock comes off it is not a formality — the trigger guard, floorplate and magazine parts all come away together.",
+   "quote": "Before attempting to disassemble your Model 307 rifle, study the exploded view diagram on page 20 of this Owner’s Manual to familiarize yourself with the general appearance and position of each part.",
+   "cite": "model 307™ RIFLES — Weatherby owner's manual — Model 307 Rifles owner's manual — DISASSEMBLY OF THE MODEL 307 RIFLE"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt assembly out of the receiver",
+   "action": "Take the bolt assembly out. That alone is enough for most cleaning; the steps below are for a full strip.",
+   "quote": "Remove the bolt assembly (refer to Removing the Bolt Assembly from the Receiver, page 9).",
+   "cite": "model 307™ RIFLES — Weatherby owner's manual — Model 307 Rifles owner's manual — DISASSEMBLY OF THE MODEL 307 RIFLE"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Floorplate open, then the two trigger guard screws",
+   "action": "Press the floorplate release to open the floorplate, then remove the front and rear trigger guard screws with a properly fitting screwdriver.",
+   "prose": "Properly fitting is the operative phrase — these screws are soft and visible, and a chewed trigger guard screw is a permanent mark on the gun.",
+   "quote": "With a screwdriver of the proper size, remove the front and rear trigger guard screws.",
+   "cite": "model 307™ RIFLES — Weatherby owner's manual — Model 307 Rifles owner's manual — DISASSEMBLY OF THE MODEL 307 RIFLE"
+  },
+  {
+   "phase": "Deep",
+   "title": "Trigger guard assembly and stock off",
+   "action": "Take the trigger guard assembly out of the stock, then lift the stock off the barrelled action.",
+   "prose": "The barrelled action is now loose in your hands with nothing supporting it. Set it down on something soft before you reach for a brush.",
+   "quote": "Remove the trigger guard assembly from the stock.",
+   "cite": "model 307™ RIFLES — Weatherby owner's manual — Model 307 Rifles owner's manual — DISASSEMBLY OF THE MODEL 307 RIFLE"
+  },
+  {
+   "phase": "Deep",
+   "title": "Bolt teardown — hold the body, watch the cocking piece",
+   "action": "Hold the bolt body stationary and note how the cocking piece fits into its notch before anything turns.",
+   "prose": "The cocking piece is under mainspring load. Knowing where it sits before you start is what lets you put it back without a vice.",
+   "quote": "hold the bolt body stationary. Notice the cocking piece fitting into the small",
+   "cite": "model 307™ RIFLES — Weatherby owner's manual — Model 307 Rifles owner's manual — DISASSEMBLY OF THE BOLT ASSEMBLY"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE FROM THE CHAMBER END",
+   "tasks": [
+    "Bolt out first so the rod goes in from the breech",
+    "Solvent and patches until clean, then a lightly oiled patch",
+    "⛔ Keep the rod off the crown — muzzle wear costs accuracy",
+    "Bolt face, extractor and locking lugs"
+   ],
+   "quote": "Remove the bolt assembly (refer to Removing the Bolt Assembly from the Receiver, page 9).",
+   "src": "Model 307 owner's manual, DISASSEMBLY OF THE MODEL 307 RIFLE"
+  }
+ ],
+ "reassembly": [
+  "Safety ON. Stock onto the barrelled action.",
+  "Trigger guard assembly into the stock, front and rear screws in.",
+  "⛔ Snug both screws evenly — uneven torque on a bolt rifle moves the point of impact.",
+  "Floorplate closed and latched.",
+  "Bolt back in, cycled several times, then function test."
+ ],
+ "fncheck": "Chamber and magazine checked by eye. Cycle the bolt several times for free movement and clean feeding from the magazine. Safety ON, pull the trigger: the firing pin must not release. Safety off, finger clear: it must not release on its own; then the trigger drops it. ⛔ After any stock removal, check zero before you trust the rifle."
+}

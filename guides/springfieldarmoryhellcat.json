@@ -1,0 +1,111 @@
+{
+ "row": "springfieldarmoryhellcat",
+ "make": "Springfield Armory",
+ "model": "Hellcat",
+ "sourcedFrom": "Springfield Armory Hellcat Operation & Safety Manual — Operation & Safety Manual (no part code printed) (undated on cover)",
+ "sourceSha256": "e0a19fb456b69ea8a3257edc6dfc1764f9125ef11fc59e5f64cbc2c6dfaa301a",
+ "cleanIntro": "Springfield's own field strip for the Hellcat. The disassembly lever is interlocked to the magazine, so the order is enforced by the pistol itself.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Eye protection, muzzle safe, finger off",
+   "action": "Point the firearm in a safe direction with your finger off the trigger, and put eye protection on before anything comes apart.",
+   "prose": "Springfield asks for eye protection at the top of the field strip, not as an afterthought.",
+   "quote": "POINT FIREARM IN SAFE DIRECTION WHILE KEEPING FINGER OFF THE TRIGGER.",
+   "cite": "Springfield Armory Hellcat Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Strip, step 1, p.20",
+   "warn": "ALWAYS REMEMBER THE FIREARM IS ABLE TO FIRE WITH OR WITHOUT THE MAGAZINE IN PLACE."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, firearm unloaded",
+   "action": "Remove the magazine and unload the firearm.",
+   "prose": "A Hellcat will fire with or without a magazine in it — the magazine coming out is not the same as the gun being empty.",
+   "quote": "Remove magazine and unload firearm.",
+   "cite": "Springfield Armory Hellcat Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Strip, step 2, p.20"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide open — and the trick if it fights you",
+   "action": "Retract the slide and lock it open by pushing up the slide stop lever.",
+   "prose": "If that is awkward, Springfield gives an alternative: put an EMPTY magazine in the well, retract fully until it locks, then remove the magazine. Confirm it is empty first or you will load the pistol doing it.",
+   "quote": "Retract the slide and lock it open by pushing up the slide stop lever",
+   "cite": "Springfield Armory Hellcat Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Strip, step 3, p.20"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber",
+   "action": "Visually inspect the chamber to confirm the firearm is unloaded.",
+   "prose": "The step the disassembly lever depends on.",
+   "quote": "Visually inspect the chamber to confirm the firearm is unloaded.",
+   "cite": "Springfield Armory Hellcat Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Strip, step 4, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Disassembly lever to 12 o’clock",
+   "action": "Rotate the disassembly lever clockwise to a vertical 12 o’clock position.",
+   "prose": "It will not rotate at all unless the magazine is out — the pistol enforces the order for you.",
+   "quote": "Disassembly lever cannot be rotated unless magazine has been removed.",
+   "cite": "Springfield Armory Hellcat Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Strip, step 5, p.20",
+   "warn": "Do not attempt to disassemble this or any other firearm until you have received training and instructions from a competent pistolsmith."
+  },
+  {
+   "phase": "Strip",
+   "title": "Ease the slide off",
+   "action": "Pull the slide slightly to the rear to release the slide stop, then let it run forward and off the frame under control.",
+   "prose": "The trigger will not reset at this point; that is expected, not a fault.",
+   "caution": "Slide is under spring tension. Maintain control.",
+   "quote": "Pull the slide slightly to the rear to release the slide",
+   "cite": "Springfield Armory Hellcat Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Strip, step 6, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil system out",
+   "action": "Remove the recoil system from the slide.",
+   "prose": "It lifts out once the slide is off — do not let it spring.",
+   "caution": "Spring under tension. Keep it pointed away from your face.",
+   "quote": "Remove the recoil system from the slide",
+   "cite": "Springfield Armory Hellcat Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Strip, step 8, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out — strip complete",
+   "action": "Remove the barrel from the slide.",
+   "prose": "Frame, slide, barrel, recoil system. That is the whole field strip Springfield publishes.",
+   "quote": "Remove the barrel from the slide",
+   "cite": "Springfield Armory Hellcat Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Strip, step 9, p.22",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The Hellcat manual documents the field strip only, and warns against disassembly beyond it without training from a competent pistolsmith. No detail strip is published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Solvent-wet patch through the bore, correctly sized brush, then dry patches until clean",
+    "Wipe the feed ramp and the barrel exterior",
+    "A light pass of oil outside; nothing pooled"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Scrub the breech face and around the extractor",
+    "Clean the slide rails",
+    "Wipe the striker channel DRY — no oil in an ignition channel"
+   ]
+  },
+  {
+   "name": "FRAME & MAGAZINES",
+   "tasks": [
+    "Brush the frame rails",
+    "Wipe the magazine bodies dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Seat the barrel and recoil system in the slide.",
+  "Run the slide onto the frame and rotate the disassembly lever back down.",
+  "Rack the slide several times before handling further."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, rack the slide and confirm the trigger resets, pointed in a safe direction."
+}

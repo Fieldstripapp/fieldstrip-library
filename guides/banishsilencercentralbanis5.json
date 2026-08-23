@@ -1,0 +1,192 @@
+{
+ "row": "banishsilencercentralbanis5",
+ "make": "Banish (Silencer Central)",
+ "model": "Banish 223",
+ "sourcedFrom": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED (NOT PRINTED)",
+ "sourceSha256": "4f36d644e49b3e2fdf3af4153de468d55a7d38bb4e39d94318948a2424e6ebee",
+ "cleanIntro": "A 7 inch, 11.4 oz titanium can for small centrefire rifles, direct thread 1/2x28, holding seven indexed STifle baffles. Banish caps it at .223/5.56 and rifles of .224 bore and smaller, limited full-auto rated, and it wants a 16 inch barrel under it. Unlike the .30 cans there is no front module: it is one tube, one end cap, seven baffles, and the muzzle-threaded end does not come off.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host, using the host's own manual",
+   "action": "Unload the rifle and lock the action open so the chamber is visibly clear before the can is disturbed. Banish prints no clearing sequence of its own and instead sends you to your firearm's manual — reasonable, since a .223 can sits on everything from an AR-15 to a bolt-action varmint rifle.",
+   "prose": "On an AR the bolt has to be locked back for that visual check to mean anything, and the magazine has to be out first.",
+   "quote": "If you are at all unsure as to the proper procedures to ensure that your firearm is unloaded, please consult your firearm user’s manual/instructions and/or contact a properly licensed dealer or the manufacturer of your firearm.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
+   "warn": "The host firearm's manual is the clearing authority."
+  },
+  {
+   "phase": "Clear",
+   "title": "Banish 223 ceiling — .223/5.56 and a 16 inch barrel",
+   "action": "Confirm both the chambering and the barrel length. Banish rates this can up to .223/5.56, limited full auto, and states that barrels shorter than 16 inches are not recommended because they create wear on the first baffle. The SPECS page draws the wider line as rifles .224 and smaller, including rimfire.",
+   "prose": "A 10.5 or 11.5 inch AR is exactly the host this warning is aimed at. The can will thread on; the manual says it should not.",
+   "quote": "The BANISH 223 is rated up to .223/5.56 and is limited full auto rated. Barrel lengths shorter than 16” are not recommended as they create wear on the first baffle.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — INSTALLATION OF SUPPRESSOR, p.4",
+   "warn": ".223/5.56 ceiling, 16 inch barrel floor."
+  },
+  {
+   "phase": "Clear",
+   "title": "Rate of fire — 20 rounds inside a minute is the limit",
+   "action": "Limited full-auto rated is a rate limit, not a licence. Banish puts the figure at more than 20 rounds fired rapidly, meaning in under a minute, and says that causes premature baffle wear. Let the can cool between strings.",
+   "prose": "11.4 oz of titanium on a 5.56 host reaches temperature very fast. The wear is cumulative and invisible until a baffle deforms.",
+   "caution": "Allow cooling between rapid-fire sessions.",
+   "aside": "Quoted as printed, publisher's typo included; the sentence completes 'will cause premature wear on the baffles.'",
+   "quote": "Firing more then 20 rounds rapid fire (less than one minute)",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — INSTALLATION OF SUPPRESSOR, p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the shoulder seat before firing and before stripping",
+   "action": "Look at where the suppressor's thread mount meets the barrel shoulder. It must be fully shouldered with no visible gap, and any crush washer left behind by a previous muzzle brake has to be gone. On a 1/2x28 AR barrel a leftover crush washer is the single most common cause of a gap.",
+   "prose": "A gap here is not a cosmetic issue — it is the can sitting at an angle to a bore that will send a bullet down the middle of it.",
+   "quote": "Check the fit between your barrel and silencer before firing! The thread mount must be fully shouldered on the barrel.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
+   "warn": "If there is any gap DO NOT fire the host with the silencer attached."
+  },
+  {
+   "phase": "Strip",
+   "title": "Let it cool before you grip it",
+   "action": "A just-fired .223 can is hot enough to burn. Banish tells you to use extreme caution taking it off and offers a Devour cover or gloves. The 1.5 inch tube is the part that has to be gripped and it is the part carrying the heat.",
+   "prose": "On an AR the can is also right in front of the handguard, so the temptation is to steady the rifle by the gas block, which is no cooler.",
+   "quote": "When removing the silencer, use extreme caution as it may be hot to the touch after firing.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
+   "warn": "Gloves or a cover — the tube does not look hot."
+  },
+  {
+   "phase": "Strip",
+   "title": "Unthread the Banish 223 off the 1/2x28 muzzle",
+   "action": "Turn the can counter-clockwise off the barrel threads. It went on hand tight — Banish specifies hand tighten only — so it should come off by hand. If it has tightened itself under fire, that is direct-thread behaviour, and it is exactly why the attachment has to be re-checked constantly in use.",
+   "prose": "Banish's own interval for that check is after the first 5 discharges and every 30 after: a loose can walking off centre is how baffles get struck.",
+   "caution": "Hand tighten only on reinstall.",
+   "quote": "We recommend checking the security of the attachment after 5 discharges of the firearm and every 30 discharges thereafter.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Cap the bare muzzle threads",
+   "action": "With the can off, put a thread protector or another muzzle device on the exposed 1/2x28 threads before the rifle is cased or transported. Banish asks for this to protect the threads and the crown, and a damaged crown will cost accuracy long after the thread is repaired.",
+   "prose": "It is also the moment to clean those threads — they are never accessible with the can fitted.",
+   "quote": "Once the silencer is removed from the host firearm, BANISH recommends using a thread protector or other muzzle device to protect the muzzle threads and crown during storage or transport.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Never fire an obstructed can",
+   "action": "Sight through the suppressor before it goes back on and confirm the bore is clear — no mud, no dirt, no patch, no solvent standing in the bottom. Banish states the prohibition without qualification.",
+   "prose": "After a deep clean this is the check that matters most, because a can that has not fully drained is obstructed even though it looks empty.",
+   "quote": "Silencers must be free of obstructions such as mud, dirt, etc. DO NOT attempt to shoot through an obstructed silencer.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — WARNING, p.2",
+   "warn": "Look through it, every time, before it goes on."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The Banish 223 is off the muzzle and the threads are protected. That is the routine strip; the seven-baffle teardown is the Deep Clean, and Banish sets the interval at every 50 to 100 rounds. It also rules out one ammunition class outright — solid lead or plated lead bullets are not recommended in this can.",
+   "prose": "That is a short interval for a centrefire can, and it exists because copper jacket fouling still builds up here even though the rounds are jacketed.",
+   "quote": "It is recommended that the suppressor be cleaned every 50 - 100 rounds fired. The use of solid lead or plated lead bullets is not recommended.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — DISASSEMBLY AND CLEANING, p.5",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "End cap off — tool key plus T-45 torx",
+   "action": "With the can off the rifle and the rifle unloaded, use the supplied tool key together with a T-45 torx wrench to unscrew the end cap. Banish recommends bonding the torx and the tool key permanently together with JB Weld, which tells you how easily the two-piece tool slips on its own.",
+   "prose": "The cap goes back at 110-120 inch pounds. A rounded tool interface makes that figure unreachable, so treat the tool as part of the can.",
+   "quote": "Using the provided tool key and T-45 torx wrench, remove the end cap of the suppressor. For best results, we recommend permanently attaching the T-45 torx wrench and the tool key together. This can be done with “JB Weld” or similar product found at any local hardware store.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — DISASSEMBLY AND CLEANING, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ The muzzle-threaded end of the tube is fixed",
+   "action": "Do not try to take the rear, barrel-threaded end off the main tube. Banish states it cannot be removed. That end carries the 1/2x28 threads and is the datum the baffle stack indexes against — there is no procedure for removing it and nothing behind it that needs cleaning from that side.",
+   "prose": "Everything reachable is reachable from the front once the end cap is off. That is the design.",
+   "quote": "The muzzle threaded end of the suppressor on the main tube cannot be removed.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — DISASSEMBLY AND CLEANING, p.5",
+   "warn": "Rear tube end: not removable."
+  },
+  {
+   "phase": "Clean",
+   "title": "Soak 24 hours before anything moves",
+   "action": "Spray solvent through the inside of the can and leave it a full 24 hours. Only then push the baffles out, using a wooden dowel or Banish's optional Baffle Removal Tool. Forcing a dry, carbon-locked stack scores both the baffles and the tube wall they index against.",
+   "prose": "A wooden dowel is soft enough to give before the titanium does. A steel rod is not.",
+   "caution": "Twenty-four hours of soak first, no exceptions.",
+   "quote": "Push baffles out of the tube with our Baffle Removal Tool (sold separately) or a wooden dowel.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — DISASSEMBLY AND CLEANING, p.5"
+  },
+  {
+   "phase": "Clean",
+   "title": "Seven indexed baffles — count them and keep the order",
+   "action": "This can holds seven baffles and they are indexed, which is exactly what makes reassembly fussy. Scrub each one and the tube's inside with a stiff brass or nylon brush and your solvent or carbon killer, then confirm every part is clean and no solvent is left standing.",
+   "prose": "Banish's own note is that care must be taken when reassembling. On an indexed stack that means every tab has to find its partner.",
+   "quote": "The suppressor has seven indexed baffles to aid in alignment. Care must be taken when reassembling. Use a stiff bristle brush (brass or nylon) with solvent / carbon killer of choice to clean the baffles and inside the tube.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — DISASSEMBLY AND CLEANING, p.5",
+   "warn": "Make sure all parts are clean and solvent has been removed."
+  },
+  {
+   "phase": "Clean",
+   "title": "Restack seven, tabs engaged, then slide the tube over",
+   "action": "On a flat surface stack the seven matching baffles on each other with every indexing tab aligned and fully engaged in the baffle and expansion spacer below it. Slide the tube down over the stack, take the tube's centreline to the edge of the table and push the baffles up inside it with one finger.",
+   "prose": "Building the stack outside the tube and then capturing it is the only way this works. Feeding baffles in one at a time will not index.",
+   "quote": "Using a flat surface, stack seven matching baffles on top of each other. Make sure the indexing tabs are aligned and fully engaged in each corresponding baffle and expansion spacer.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — ASSEMBLY, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Anti-seize, then the 1/32 inch tell, then 110-120 inch pounds",
+   "action": "Flip the assembly so the open end is up and put anti-seize on the threads before the end cap goes near them. Tighten the cap lightly first: if the baffles are indexed, only the 45 degree bevel shows, about 1/32 of an inch. More than that and the tabs are not aligned — take it apart, do not torque it. When it reads right, finish at 110 to 120 inch pounds.",
+   "prose": "That exposed bevel is the only external gauge you get of an internal stack you cannot see. Trust it.",
+   "quote": "Lightly tighten the end cap, when the baffles are properly aligned only the 45 degree bevel on the end cap will be exposed (approximately 1/32”). If more than 1/32” is exposed the tabs on the baffles are not properly aligned.",
+   "cite": "BANISH 223 — OWNER'S MANUAL — NOT PRINTED — ASSEMBLY, p.6",
+   "warn": "Finish tightening end cap to 110 - 120 inch pounds."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BAFFLES AND TUBE",
+   "tasks": [
+    "Soak the interior with solvent for 24 hours before pushing the stack out",
+    "Use a wooden dowel or the Baffle Removal Tool — never steel",
+    "Scrub all seven baffles and the tube interior with a stiff brass or nylon brush",
+    "Confirm all solvent is removed before the can is reassembled"
+   ]
+  },
+  {
+   "name": "END CAP",
+   "tasks": [
+    "Apply anti-seize to the threads before fitting",
+    "Use the tool key with a T-45 torx wrench",
+    "Check the 45 degree bevel shows only about 1/32 inch before applying torque",
+    "Finish at 110 to 120 inch pounds"
+   ]
+  },
+  {
+   "name": "MUZZLE INTERFACE",
+   "tasks": [
+    "Clean the 1/2x28 barrel threads while the can is off",
+    "Confirm no crush washer remains from a previous muzzle device",
+    "Fit a thread protector for storage and transport",
+    "Re-check the attachment after 5 discharges and every 30 thereafter"
+   ]
+  },
+  {
+   "name": "SCHEDULE AND AMMUNITION",
+   "tasks": [
+    "Clean every 50 to 100 rounds fired",
+    "Do not use solid lead or plated lead bullets",
+    "Do not run barrels shorter than 16 inches under this can",
+    "Let it cool between rapid-fire strings — 20 rounds inside a minute is the stated line"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Stack the seven matching baffles on a flat surface with every indexing tab aligned and fully engaged.",
+  "Slide the tube over the stack, take it to the edge of the table and push the baffles up the tube with one finger.",
+  "Flip the assembly open end up and apply anti-seize to the threads before installing the end cap.",
+  "Tighten the cap lightly and confirm only the 45 degree bevel shows at about 1/32 inch; if more shows, the tabs are not aligned.",
+  "Finish tightening the end cap to 110 to 120 inch pounds.",
+  "Thread the can onto the 1/2x28 muzzle hand tight with no gap at the shoulder."
+ ],
+ "fncheck": "After rebuilding, confirm the end cap shows only its 45 degree bevel at roughly 1/32 inch — anything more means the seven-baffle stack is not indexed and the can must not be fired. Sight through the bore for one clear, concentric channel with no solvent standing in it. On the rifle, confirm the mount is fully shouldered with no gap, then re-check tightness after 5 rounds and every 30 thereafter."
+}

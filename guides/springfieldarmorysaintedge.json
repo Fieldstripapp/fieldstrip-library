@@ -1,0 +1,100 @@
+{
+ "row": "springfieldarmorysaintedge",
+ "make": "Springfield Armory",
+ "model": "Saint Edge",
+ "sourcedFrom": "Springfield Armory SAINT Operation & Safety Manual — Operation & Safety Manual (no part code printed) (undated on cover)",
+ "sourceSha256": "8aebc8b6f2023b321b6f06cb268c347d96c25f759b93cc0f71022ac5ce420980",
+ "cleanIntro": "Springfield states the field strip is the same across all SAINT models regardless of caliber — with one exception, the SAINT PDW, which needs a different technique and is not this listing.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Eye protection first",
+   "action": "Put proper eye protection on before cleaning.",
+   "prose": "Springfield makes this step 1 of the field strip, ahead of handling the rifle at all.",
+   "quote": "Always use proper eye protection when cleaning firearms.",
+   "cite": "Springfield Armory SAINT Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Stripping & Cleaning, step 1, p.24",
+   "warn": "ALWAYS REMEMBER THE FIREARM IS ABLE TO FIRE WITH OR WITHOUT THE MAGAZINE IN PLACE."
+  },
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, magazine out, unload",
+   "action": "Point the rifle in a safe direction with your finger off the trigger, then remove the magazine and unload it.",
+   "prose": "A SAINT will fire with or without a magazine in place.",
+   "quote": "Remove magazine and unload firearm.",
+   "cite": "Springfield Armory SAINT Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Stripping & Cleaning, step 3, p.24"
+  },
+  {
+   "phase": "Clear",
+   "title": "Close the bolt, safety to SAFE",
+   "action": "Fully retract the charging handle then release it to close the bolt completely, and rotate the safety selector to \"SAFE\".",
+   "prose": "Selector to SAFE before the receivers open.",
+   "quote": "Fully retract the charging handle then release to completely close the bolt.",
+   "cite": "Springfield Armory SAINT Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Stripping & Cleaning, step 4, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Depress the takedown pin",
+   "action": "Depress the takedown pin, located just above and to the rear of the safety selector on the left side of the receiver.",
+   "prose": "Left side to start, and the location is specific — above and behind the selector.",
+   "quote": "Depress the take down pin located just above and to the rear of the safety/selector on the left side of the receiver.",
+   "cite": "Springfield Armory SAINT Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Stripping & Cleaning, step 6, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pull it to the mechanical stop",
+   "action": "From the right side of the receiver, pull the pin outward until the mechanical stop prevents further movement.",
+   "prose": "It is captive — it stops on its own rather than coming free.",
+   "quote": "From the right side of the receiver pull the pin outward until the mechanical stop prevents further movement.",
+   "cite": "Springfield Armory SAINT Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Stripping & Cleaning, step 7, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hinge it open to 45 degrees",
+   "action": "Let the lower receiver pivot downward away from the upper, and rotate the rifle until upper and lower are both at a 45 degree angle.",
+   "prose": "The 45 degree angle is what gives the charging handle room in the next step.",
+   "quote": "Rotate the rifle/pistol until the upper and lower receivers are both at a 45 degree angle",
+   "cite": "Springfield Armory SAINT Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Stripping & Cleaning, step 8, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle back an inch, carrier out",
+   "action": "Unlatch and retract the charging handle about 1 inch to expose the rear of the bolt carrier, then grasp the carrier and pull it rearward until it is free of the receiver.",
+   "prose": "About an inch — enough to expose the carrier, not enough to strand it.",
+   "quote": "Unlatch and retract the charging handle approximately 1\" exposing the rear of the bolt",
+   "cite": "Springfield Armory SAINT Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Field Stripping & Cleaning, step 9, p.24",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The SAINT manual ends its field strip at \"The rifle is now field stripped for routine cleaning.\" Its later sections cover maintenance points, the Accu-Tite system and the adjustable gas block rather than a deeper disassembly, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent-wet patch from the chamber end, correctly sized brush, then dry patches until clean",
+    "Clean the chamber and locking lug recesses"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Scrub the bolt face and the extractor recess",
+    "Clean carbon off the bolt tail and inside the carrier",
+    "Light oil on the carrier rails and cam pin"
+   ]
+  },
+  {
+   "name": "UPPER & LOWER",
+   "tasks": [
+    "Wipe the upper interior and the charging handle channel",
+    "Brush the lower, especially around the trigger group",
+    "Keep oil light and out of the fire control"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the bolt carrier group and charging handle to the upper receiver.",
+  "Close the receivers and push the takedown pin back through.",
+  "Function-check with the magazine out and the chamber confirmed empty."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty: selector to SAFE blocks the trigger, and the bolt carrier runs freely."
+}

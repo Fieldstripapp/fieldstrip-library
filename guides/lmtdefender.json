@@ -1,0 +1,198 @@
+{
+ "row": "lmtdefender",
+ "make": "LMT",
+ "model": "Defender",
+ "sourcedFrom": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 (2021)",
+ "sourceSha256": "7ffb02161d43fa0dd7912e2969f1e762cbe502ebb6adaec958adb3d54cbb9b90",
+ "cleanIntro": "LMT's monolithic-rail AR, and the manual's own claim about it is worth knowing before you start: it strips with no special tools at all, and every component is 100% interchangeable with no hand fitting. ⛔ TWO THINGS ARE LMT'S OWN AND ARE NOT GENERIC AR ADVICE: the barrel comes off with a T-30 Torx wrench and goes back at 140 INCH-POUNDS — a published torque figure, not a feel — and the lubricant is specified by standard, CLP to MIL-PRF 63460E, with ⛔ WD-40 EXPLICITLY BANNED because it holds water and causes corrosion.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear it, selector to SAFE, accessories off",
+   "action": "Clear the rifle. Put the fire control selector in the SAFE position. Take off anything attached to it — lights, optics covers, slings that will be in the way.",
+   "prose": "LMT puts accessory removal in the strip procedure itself. On a rifle with a continuous top rail that is not fussiness; it is what stops a mounted optic taking the weight when the receivers hinge.",
+   "aside": "Remove all accessories attached to the firearm.",
+   "quote": "Set the fire control selector in the SAFE position 1 .",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — FIELD STRIPPING, printed pp.27-30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Both takedown pins from the LEFT",
+   "action": "Press the rear and then the front receiver takedown pins inward from the LEFT side, and separate the upper and lower receiver halves.",
+   "prose": "Both from the left. They are captive and stop short of leaving the receiver.",
+   "quote": "Disengage the rear 2 and front 3 receiver takedown pins by pressing inward on them from the left side of the firearm.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — FIELD STRIPPING, printed pp.27-30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle HALF WAY, then the carrier",
+   "action": "Grasp the charging handle and pull it back HALF WAY, then draw the bolt carrier group out of the upper. Bring the handle to its keyway in the top of the upper and lift it out.",
+   "prose": "Half way is LMT's own figure and it is the position where the carrier clears without the handle jamming in its track.",
+   "aside": "Align the charging handle with the key way located in the top of the upper receiver.",
+   "quote": "Grasp the charging handle 4 , and pull it back half way.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — FIELD STRIPPING, printed pp.27-30"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Buffer and action spring — under load",
+   "action": "Keeping control of the buffer, depress the buffer retainer with a suitable tool — the charging handle works — and let the buffer and action spring come out of the receiver extension SLOWLY.",
+   "prose": "⛔ \"Maintaining control\" is the whole instruction. Release the retainer without a hand on the buffer and the spring throws it out of the tube.",
+   "quote": "While maintaining control of the buffer 1 , depress the buffer retainer 2 with a suitable tool (charging handle used in the image above).",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — FIELD STRIPPING, printed pp.27-30"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore breech to muzzle, on a pull-through cable",
+   "action": "Fit the slotted tip on the cable, pinch a patch through the slot and pull it tight. Saturate it with CLP. Feed the cable in at the chamber, obstruction-mover end first, out at the muzzle, and pull it through from breech to muzzle.",
+   "prose": "A cable rather than a rod, and always in the same direction — the crown never sees the hard end of anything.",
+   "quote": "Pull cable through from breech to muzzle.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — CLEANING, LUBRICATION, AND MAINTENANCE, printed pp.33-36"
+  },
+  {
+   "phase": "Clean",
+   "title": "Then the bore brush, same direction",
+   "action": "Swap the slotted tip for the bore brush and pull it through breech to muzzle in the same way.",
+   "prose": "Same entry, same exit. A brush dragged back through a bore is how bristles end up in the rifling.",
+   "quote": "Remove the patch and slotted tip and replace it with the bore brush.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — CLEANING, LUBRICATION, AND MAINTENANCE, printed pp.33-36"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Bolt lugs, breech face, and PICK the extractor groove",
+   "action": "Scrape the outer surface of the bolt locking lugs and the outside of the bolt. Scrape carbon, brass and debris off the bolt's breech face. Then scrub the extractor groove out with a PICK first and an all-purpose brush after.",
+   "prose": "⛔ The pick is the instruction most owners skip. The extractor groove packs solid with carbon and brass, and a brush only polishes the top of it.",
+   "quote": "With a pick, scrub out the extractor groove. Then, scrub with an all purpose brush.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — CLEANING, LUBRICATION, AND MAINTENANCE, printed pp.33-36"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ CLP to a standard — and NEVER WD-40",
+   "action": "Wipe every metal part with a cloth or swab lightly oiled with CLP or equivalent — the standard is MIL-PRF 63460E / NATO S-758, good from -60 to 160°F. ⛔ Never a water-based lubricant such as WD-40.",
+   "prose": "⛔ LMT gives the reason rather than the rule: a water-based lubricant HOLDS water and causes corrosion. On a rifle that lives in a case that is the difference between protection and rust under the oil.",
+   "quote": "Do NOT use a water base lubricant such as WD-40. This will hold water and cause corrosion.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — CLEANING, LUBRICATION, AND MAINTENANCE, printed pp.33-36"
+  },
+  {
+   "phase": "Clean",
+   "title": "The chamber gets a THIN film, and the magazine almost none",
+   "action": "Lubricate the chamber, but only a thin film. Run a lightly oiled swab through the bore once. Lightly oil every spring, detent, moving part and pin; the forward assist; the ejection port cover latch and spring; the charging handle latch and spring.",
+   "prose": "⛔ And the exception LMT names: on the magazine, the ONLY part that gets wiped and oiled is the spring. Oil anywhere else in a magazine collects grit and migrates onto primers.",
+   "quote": "An exception to the above is the magazine. The only part to be wiped and oiled is the magazine spring.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — CLEANING, LUBRICATION, AND MAINTENANCE, printed pp.33-36"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Three drops, three drops, one drop each",
+   "action": "Three drops of lubricant inside the bolt. Three drops inside the bolt carrier key. One drop on each gas exhaust port on the carrier. One drop on the buttstock release lever pin.",
+   "prose": "⛔ A count, not a squirt. The carrier key gets three because it is the gas path; the exhaust ports get one each because they must stay open.",
+   "aside": "Apply one drop of lubricant to each gas exhaust port on the bolt carrier.",
+   "quote": "Place three drops of lubricant inside the bolt carrier key.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — CLEANING, LUBRICATION, AND MAINTENANCE, printed pp.33-36"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — and the bolt is the deep job",
+   "action": "Upper, lower, bolt carrier group, charging handle, buffer and spring. LMT publishes the bolt strip AND the extractor, and those are the DEEP CLEAN below.",
+   "prose": "LMT's own claim about this rifle is worth repeating here: it strips with no special tools and every component is interchangeable without hand fitting.",
+   "quote": "They can be field stripped for cleaning with no special tools.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — Introduction, printed p.6",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Bolt IN, then the firing pin retaining pin from the LEFT",
+   "action": "Press the bolt inward toward the carrier, then pull the firing pin retaining pin from the LEFT side. The firing pin should then fall freely out of the carrier.",
+   "prose": "\"Falls freely\" is the tell that the bolt is pushed far enough in. If the pin has to be shaken out, it is not.",
+   "aside": "The firing pin 4 should fall freely from within the carrier.",
+   "quote": "Pull the firing pin retaining pin 3 from the left side of the bolt carrier.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — FIELD STRIPPING, printed pp.27-30"
+  },
+  {
+   "phase": "Deep",
+   "title": "Cam pin 90 degrees, PARALLEL WITH THE GAS KEY",
+   "action": "Rotate the cam pin ninety degrees so it lies parallel with the gas key, lift it out, and take the bolt off the end of the carrier.",
+   "prose": "LMT names the reference — parallel with the gas key — which removes the guesswork about which ninety degrees.",
+   "quote": "Rotate the cam pin 5 ninety degrees, parallel with the gas key 6 .",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — FIELD STRIPPING, printed pp.27-30"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Extractor pin driven out with the firing pin retaining pin",
+   "action": "Use the firing pin retaining pin you already removed to push the extractor pivot pin out of the bolt, then take the extractor off.",
+   "prose": "⛔ LMT specifies its own part as the tool. It is the correct diameter and it is already on the bench — using a random punch is how an extractor pin hole gets belled out.",
+   "aside": "Remove the extractor 3 .",
+   "quote": "Use the firing pin retaining pin 1 to push the extractor pivot pin 2 from within the bolt.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — FIELD STRIPPING, printed pp.27-30"
+  },
+  {
+   "phase": "Deep",
+   "title": "Clean what the strip just exposed",
+   "action": "With the bolt in pieces, scrape the locking lugs, the breech face and the extractor groove properly, and clean the inside of the carrier from both ends and the gas key with a pipe cleaner.",
+   "prose": "This is the whole point of taking the bolt apart — the extractor groove and the underside of the claw are unreachable any other way.",
+   "quote": "Clean/scrape the outer surface of the bolt locking lugs and the outside of the bolt.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — CLEANING, LUBRICATION, AND MAINTENANCE, printed pp.33-36"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ BARREL CHANGE: cool first, T-30 Torx, 140 inch-pounds",
+   "action": "If you are changing or removing the barrel: the barrel must be COOL to the touch first, and the bolt carrier group locked to the rear or out. Unscrew and remove the foremost locking screw with an LMT T-30 Torx wrench, loosen — do not remove — the rear locking screw, and pull the muzzle away from the upper. To refit: seat it, install the washer and both screws, and torque to 140 inch-pounds.",
+   "prose": "⛔ This is the capability the MRP exists for and the numbers are LMT's own. A published torque figure is not a suggestion — under it the barrel moves, over it the monolithic upper's threads take the damage.",
+   "quote": "To reinstall a barrel, seat it back in the upper receiver, install the washer and both screws, and torque to 140 inch pounds.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — LMT BARREL CHANGE CAPABILITY AND OPERATING SYSTEMS, printed pp.31-32",
+   "warn": "Barrel must be cool to the touch"
+  },
+  {
+   "phase": "Deep",
+   "title": "⚠ Piston or direct impingement — and what changes with it",
+   "action": "The MRP runs either a direct-impingement or a gas-piston system. If you convert between them, the barrel, the bolt carrier group AND the buffer assembly all change together.",
+   "prose": "⚠ LMT gives the reason the buffer is on that list, and it is the part people leave out: the piston system closes faster and the matched buffer is what prevents carrier bounce.",
+   "quote": "The buffer replacement is necessary to prevent bolt carrier bounce generated by the faster closing velocity of the piston system.",
+   "cite": "LMT Monolithic Rail Platform (MRP) Operator's Manual — Rev h, 2021 — LMT BARREL CHANGE CAPABILITY AND OPERATING SYSTEMS, printed pp.31-32"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Cable pull-through, breech to muzzle, patch then brush",
+    "Chamber gets a THIN film of lubricant, not a coat",
+    "One pass of a lightly oiled swab through the bore"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Scrape the locking lugs and the breech face",
+    "⛔ PICK the extractor groove out, then brush it",
+    "⛔ Three drops inside the bolt; three inside the carrier key"
+   ]
+  },
+  {
+   "name": "RECEIVERS & CONTROLS",
+   "tasks": [
+    "Forward assist, ejection port cover latch and spring",
+    "Charging handle latch and spring",
+    "One drop on each carrier gas exhaust port"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "⛔ The SPRING only — nothing else in a magazine gets oiled",
+    "Wipe the body and follower dry",
+    "Check the feed lips before it goes back in service"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Extractor and its pivot pin back into the bolt.",
+  "Bolt onto the carrier, cam pin in and rotated ninety degrees out of parallel with the gas key.",
+  "Firing pin in, bolt pressed home, retaining pin from the left.",
+  "Buffer and action spring into the receiver extension until the retainer holds them, buttstock back on its latch.",
+  "Charging handle into its keyway, carrier in behind it, both forward into battery.",
+  "Close the receivers and seat both takedown pins from the left."
+ ],
+ "fncheck": "Magazine out, chamber verified empty, muzzle safe. Cycle the charging handle and confirm the bolt returns fully into battery. Selector to SAFE and pull the trigger — the hammer must not fall. Selector to FIRE and pull — it should. Check both takedown pins are seated and the buffer retainer is holding the buffer. ⛔ If the barrel came off, confirm both locking screws are in and torqued to 140 inch-pounds before anything is loaded."
+}

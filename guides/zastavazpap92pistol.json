@@ -1,0 +1,97 @@
+{
+ "row": "zastavazpap92pistol",
+ "make": "Zastava",
+ "model": "ZPAP92 (pistol)",
+ "sourcedFrom": "Zastava ZPAP92 & ZPAP85 Owner's Manual and Safety Instructions — Owner's Manual and Safety Instructions (undated — no copyright line is printed)",
+ "sourceSha256": "9eaa011bcb531304e3a69b2ec58d5ab188e8d95b8c4c952251e529e5eec9f43c",
+ "cleanIntro": "The AK strip in pistol form: dust cover off, recoil spring out, carrier and bolt out, gas tube off. Zastava's own book, covering the ZPAP92 and its 5.56 sibling.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine off, safety down to FIRE",
+   "action": "Detach the magazine from the pistol, then slide the safety lever down. On this platform the lever doubles as the bolt-travel stop, so it has to be down before the handle will come back far enough to show you the chamber. Muzzle stays in a safe direction throughout.",
+   "caution": "YOUR PISTOL MUST BE COMPLETELY UNLOADED BEFORE YOU START THE STRIPPING!",
+   "quote": "Move the SAFETY lever to “FIRE” position by sliding the safety selector down.",
+   "cite": "Zastava ZPAP92 & ZPAP85 Owner's Manual and Safety Instructions — Owner's Manual and Safety Instructions — SECTION 5.1 Field Striping, step 2, p.18"
+  },
+  {
+   "phase": "Clear",
+   "title": "Handle back, eyes in the chamber",
+   "action": "Pull the bolt cocking handle to the rear, lock it back on the bolt catch, and look into the chamber for a cartridge. The ZPAP92's short barrel puts your support hand close to the muzzle — keep it behind the muzzle line while you do this, not around it.",
+   "quote": "Detach magazine from the pistol",
+   "cite": "Zastava ZPAP92 & ZPAP85 Owner's Manual and Safety Instructions — Owner's Manual and Safety Instructions — SECTION 5.1 Field Striping, step 1, p.18",
+   "warn": "POINT MUZZLE IN SAFE DIRECTION!"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release button in, dust cover up",
+   "action": "Rest the pistol across your lap or on a table, grasp the rear of the receiver, and press the spring-loaded release button on the back of the receiver. Press the recoil spring cam forward while you hold that button, then lift the cover off from the rear. The cover is held by spring pressure from behind — keep a hand over it.",
+   "quote": "Raise the receiver (dust) cover by holding the pistol in a secure position (across your lap, resting on a table, etc.)",
+   "cite": "Zastava ZPAP92 & ZPAP85 Owner's Manual and Safety Instructions — Owner's Manual and Safety Instructions — SECTION 5.1 Field Striping, step 4, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring assembly out",
+   "action": "Hold the front of the receiver, press the back of the recoil spring cam until its rear face leaves the groove at the rear of the receiver, then lift the cam and draw the assembly out of the carrier channel. It is compressed under your thumb; let it out under control and keep it out of line with your face.",
+   "quote": "remove recoil spring assembly from the bolt carrier channel",
+   "cite": "Zastava ZPAP92 & ZPAP85 Owner's Manual and Safety Instructions — Owner's Manual and Safety Instructions — SECTION 5.1 Field Striping, step 5, p.18",
+   "warn": "USE PROTECTIVE EYEWEAR TO PREVENT EYE INJURIES!"
+  },
+  {
+   "phase": "Strip",
+   "title": "Carrier and bolt back, up, off the rails",
+   "action": "Hold the receiver in one hand and the cocking handle in the other and draw the carrier and bolt fully rearward until the carrier meets the rear plate, then ease off the handle and lift the rear of the carrier clear of the rails. Carrier and bolt come out together.",
+   "quote": "Pull the bolt carrier and bolt to the rear, as far as possible.",
+   "cite": "Zastava ZPAP92 & ZPAP85 Owner's Manual and Safety Instructions — Owner's Manual and Safety Instructions — SECTION 5.1 Field Striping, step 6, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out of the carrier",
+   "action": "Turn the carrier over, rotate the top of the bolt to the right and draw it rearward so the guide lug leaves its channel, then slide the bolt forward out of its hole. Rotate before you pull; the lug will not clear otherwise.",
+   "quote": "Rotate the top of the bolt to the right and move it rearward with your right hand so that the guide lug on the bolt leaves the channel in the bolt carrier.",
+   "cite": "Zastava ZPAP92 & ZPAP85 Owner's Manual and Safety Instructions — Owner's Manual and Safety Instructions — SECTION 5.1 Field Striping, step 7, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gas tube securing pin in, tube off",
+   "action": "Hold the forward part of the receiver and press in the gas tube securing pin. Note the difference from the rifle: the pistol uses a pressed pin here, not the rotating lever. Then lift the rear of the tube out of the rear sight base and pull the front off the gas block.",
+   "aside": "Lift the gas tube end vertically out of its groove in the rear sight base and remove the front end of the gas tube from the gas block",
+   "quote": "Remove the gas tube assembly and upper hand guard  by holding the forward portion of the receiver with your left hand and pressing in the gas tube securing pin.",
+   "cite": "Zastava ZPAP92 & ZPAP85 Owner's Manual and Safety Instructions — Owner's Manual and Safety Instructions — SECTION 5.1 Field Striping, step 8, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Dust cover, recoil spring assembly, carrier, bolt and gas tube are off the pistol. That is the whole published strip for the ZPAP92. Cleaning follows; Zastava documents nothing deeper.",
+   "prose": "Quoted exactly as the document's damaged text layer renders it; the printed page reads 'field stripping'.",
+   "quote": "Use caution when ield stripping your pistol, as spring and other parts may become dislodged during disassembly process!",
+   "cite": "Zastava ZPAP92 & ZPAP85 Owner's Manual and Safety Instructions — Owner's Manual and Safety Instructions — SECTION 5.1 Field Striping, caution, p.19",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The ZPAP92 & ZPAP85 book runs field strip (5.1), cleaning (5.2) and reassembly and stops. No bolt teardown, no trigger group, no gas block procedure is published anywhere in it, and the exploded views on pp.24-27 are parts lists. Nothing deeper was invented.",
+ "cleaning": [
+  {
+   "name": "BARREL BORE",
+   "tasks": [
+    "Clean the bore of soot deposits with the barrel cleaner and rags, changing rags until the last comes out clean",
+    "Lubricate the bore with oil using the brush, then re-check it a few days later"
+   ]
+  },
+  {
+   "name": "CARRIER, BOLT & GAS SYSTEM",
+   "tasks": [
+    "Wipe carbon from the bolt face and locking lugs",
+    "Clean the gas piston and the inside of the gas tube — a short-barrelled pistol fouls this area fast",
+    "Wipe the rails and carrier channel dry, then oil lightly"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Refit the gas tube front end into the gas block first, then seat the rear in its groove and let the securing pin snap back.",
+  "Return the bolt to the carrier, then run the carrier onto the rails from the rear.",
+  "Refit the recoil spring assembly into the carrier channel and seat the cam in the rear plate.",
+  "Refit the dust cover and confirm the release button springs back and holds it."
+ ],
+ "fncheck": "With the pistol confirmed empty, cycle the cocking handle and confirm the carrier runs fully forward into battery and the safety lever moves between its notches."
+}

@@ -1,0 +1,105 @@
+{
+ "row": "keltecp15",
+ "make": "Kel-Tec",
+ "model": "P15",
+ "sourcedFrom": "NO COVER PLATE — the book opens on its TABLE OF CONTENTS; self-described on p.2 as the manual for the P15, footed REV2022OCT — REV2022OCT (UNKNOWN — not printed in the document)",
+ "sourceSha256": "63b87e0000e6d1df5579434dbbdf8da13a9bfdcf3211013d266c68fe6de35aef",
+ "cleanIntro": "A striker-fired 15+1 9mm on an aluminium receiver, and the strip has a step no other Kel-Tec pistol has: the striker must be released before anything comes apart. Kel-Tec's procedure ends with the slide, recoil guide assembly and barrel off the receiver and states that is as far as it recommends going, so there is no Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Know what this pistol does not have: a manual safety",
+   "action": "Before you handle the P15 for cleaning, register that there is no thumb safety to apply. Trigger finger stays outside the guard from here to the end of the procedure.",
+   "prose": "The P15 has a striker safety, a loaded chamber indicator, and a grip and magazine disconnect that can be switched off — but nothing you can push to make the pistol inert. A loaded P15 with the trigger pulled fires, full stop. That matters more than usual during a strip, because the strip itself requires a deliberate trigger pull to release the striker, and the whole safety of that step rests on the chamber having been proved empty first.",
+   "quote": "The P15 does not have a conventional manual safety. It will fire when loaded and the trigger is pulled.",
+   "cite": "NO COVER PLATE — the book opens on its TABLE OF CONTENTS; self-described on p.2 as the manual for the P15, footed REV2022OCT — REV2022OCT — Overview — II. Safety, p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, slide back, then prove the chamber by eye and finger",
+   "action": "Point the P15 in a safe direction and press the magazine release to drop the magazine. Pull the slide back to eject anything in the chamber, then look into the chamber and put a finger in it.",
+   "prose": "Do the magazine first, always — the magazine disconnect is a feature you may have switched off, so it cannot be part of your clearing logic. The loaded chamber indicator on top of the slide is a useful glance and nothing more; the manual's own instruction is never to rely on your memory or on the chamber indicator to decide whether the pistol is loaded. On a double-stack carry gun the last round in the chamber after a magazine change is the one that hurts people, so eyes and finger both go in.",
+   "quote": "Never rely on your memory or the chamber indicator to determine whether the P15 is loaded or unloaded.",
+   "cite": "NO COVER PLATE — the book opens on its TABLE OF CONTENTS; self-described on p.2 as the manual for the P15, footed REV2022OCT — REV2022OCT — Breakdown — I. Disassembly, opening warning, p.12",
+   "warn": "Visually and physically ensure your pistol is now safely unloaded before the striker-release step. That step requires pulling the trigger."
+  },
+  {
+   "phase": "Clear",
+   "title": "Find out which Selector Switch position your P15 is set to",
+   "action": "Establish whether your pistol still has the grip safety and magazine disconnect engaged. Factory setting is position #1, both engaged — but the switch is user-adjustable and yours may have been changed.",
+   "prose": "The P15's patented Selector Switch has three positions: both disconnects engaged, both disengaged, or grip disconnect only. It ships in position #1, and Kel-Tec does not recommend disengaging any safety feature — but it is reachable with a flat screwdriver once the slide is off, so on a used gun it is an open question. It changes how the pistol behaves in your hands during the strip: in position #2 the grip safety is recessed and the pistol will dry fire without the grip being depressed. Kel-Tec publishes a determination test that needs no disassembly: clear the pistol, cycle the slide, and see whether the grip safety is recessed and whether it will dry fire.",
+   "caution": "Never rotate the Selector Switch counter-clockwise; Kel-Tec states it may damage internal components. It is only ever turned clockwise.",
+   "quote": "The P15 comes from the factory with the selector switch in position #1 (see pg.15), meaning both the grip safety and magazine disconnect are engaged.",
+   "cite": "NO COVER PLATE — the book opens on its TABLE OF CONTENTS; self-described on p.2 as the manual for the P15, footed REV2022OCT — REV2022OCT — Overview — II. Safety, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the striker — empty magazine in, slide closed, trigger pulled",
+   "action": "With the chamber proved empty, insert the EMPTY magazine into the pistol, make sure the slide is closed, and pull the trigger to release the striker.",
+   "prose": "This is the step that makes the P15 different from every other pistol in the Kel-Tec line, and it is also the step that punishes a sloppy chamber check. The empty magazine goes back in because the magazine disconnect will otherwise block the trigger bar from reaching the sear; the slide has to be closed because a striker at rest is what lets the slide come off. If the slide later refuses to leave the receiver, the striker is still cocked and you have missed this step — go back and do it rather than pulling harder.",
+   "quote": "Insert the empty magazine into the unchambered pistol and then pull the trigger to release the striker. The slide must be closed in order to do this.",
+   "cite": "NO COVER PLATE — the book opens on its TABLE OF CONTENTS; self-described on p.2 as the manual for the P15, footed REV2022OCT — REV2022OCT — Breakdown — I. Disassembly, step 1, p.12",
+   "warn": "Never have live ammunition in your work space when disassembling your gun."
+  },
+  {
+   "phase": "Strip",
+   "title": "Line up the half-moon and pry the slide release out of the frame",
+   "action": "Pull the slide back slightly until the half-moon on the slide release aligns with the cutout in the slide. Use an empty case, a dummy round or a similar prying tool in your free hand to lever the slide release out of the frame.",
+   "prose": "The alignment is what does the work — the half-moon has to sit in the slide's cutout or the release has nowhere to travel and you will simply mark the frame trying. A rim of a fired case is the tool the book names and it is the right shape: broad enough not to gouge the aluminium and soft enough to give first. Do not use a screwdriver blade. Hold the slide at that slight retraction while you pry; letting it snap forward mid-lever traps the release.",
+   "quote": "Slightly pull back the slide to align the half-moon of the Slide Release with the cutout on the slide (Figure 5a). With your free hand, use an empty cartridge case, dummy round, or similar prying tool, and pry the slide release (Figure 5b) out of the frame.",
+   "cite": "NO COVER PLATE — the book opens on its TABLE OF CONTENTS; self-described on p.2 as the manual for the P15, footed REV2022OCT — REV2022OCT — Breakdown — I. Disassembly, step 2, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward off the receiver, then the recoil guide and barrel",
+   "action": "Push the slide forward off the front of the receiver. Then pull the recoil guide assembly out of the slide, and take the barrel out after it.",
+   "prose": "The slide leaves forward on the P15, not rearward — with the slide release out there is nothing holding it on the aluminium receiver rails. If it will not go, do not lever it: the manual's own diagnosis is that the striker is still cocked, and the cure is the striker-release step, not force. Once the slide is off, the recoil guide assembly lifts out under its own captive spring tension and the barrel follows, which is the whole of what Kel-Tec asks you to open for cleaning.",
+   "quote": "Push the slide forward to remove from the receiver. If the slide is unable to be removed, it is possible the striker is still cocked (see Step 1 of these instructions).",
+   "cite": "NO COVER PLATE — the book opens on its TABLE OF CONTENTS; self-described on p.2 as the manual for the P15, footed REV2022OCT — REV2022OCT — Breakdown — I. Disassembly, step 3, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Receiver and grip, slide, recoil guide assembly, barrel, slide release and magazine. That is the whole field strip Kel-Tec publishes for the P15 — the striker, extractor and fire control stay in the gun.",
+   "prose": "Everything the cleaning procedure asks for is now reachable: the bore and chamber, the breech of the barrel, the exterior of the slide and receiver, and the magazines. The Selector Switch is also exposed at this point if you have decided to change it, but that is a configuration change, not part of cleaning. Going past this is not a grey area — the book ties it directly to the warranty, which is void if the P15 is disassembled beyond the breakdown procedure listed in the manual.",
+   "quote": "This is as far as Kel-Tec CNC Industries, Inc. recommends field stripping the P15. From this point, the cleaning procedure can be implemented if necessary.",
+   "cite": "NO COVER PLATE — the book opens on its TABLE OF CONTENTS; self-described on p.2 as the manual for the P15, footed REV2022OCT — REV2022OCT — Breakdown — I. Disassembly, step 5, p.12",
+   "warn": "Further disassembly should only be performed by a certified gunsmith or Kel-Tec CNC Industries, Inc. Attempting further disassembly may void your warranty.",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The P15 manual names its own stopping point in the numbered disassembly — step 5 states that is as far as Kel-Tec recommends field stripping the pistol and that the cleaning procedure runs from there — and immediately adds that further disassembly should only be performed by a certified gunsmith or by Kel-Tec, and may void the warranty. The Limitations of Warranty section repeats it as a voiding condition: the P15 disassembled beyond the breakdown procedure listed in the Instruction Manual. The only other procedure the book publishes past the strip is Selector Switch Adjustment, which is a configuration change to the grip safety and magazine disconnect, not a cleaning operation. So no deeper procedure exists to walk.",
+ "cleaning": [
+  {
+   "name": "SLIDE, RECEIVER & BORE",
+   "tasks": [
+    "Thoroughly clean all exterior areas of the slide and receiver with solvent and a brush",
+    "Brush the barrel bore and chamber with a good powder-removing solvent and bore brush, then wipe clean with patches or a swab",
+    "Small brush dipped in solvent around the breech of the barrel and every adjacent area that has taken powder or primer residue"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Clean the magazines with solvent and a brush if needed — the P15's 15-round capacity comes from a patented magazine extension, so grit at the join is worth a look",
+    "Wipe the follower and the inside of the body dry; oil in a magazine collects the debris that causes the failures to feed"
+   ]
+  },
+  {
+   "name": "OIL & FUNCTION",
+   "tasks": [
+    "After the whole gun is clean, use a cloth to apply a light coating of high-quality gun oil to all interior and exterior metal surfaces and wipe clean",
+    "Manually cycle the slide back and forth to check the function of the firearm",
+    "If any part is damaged or badly worn, or the pistol does not work correctly, stop — it should not be fired and should go back to Kel-Tec"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Wear safety glasses: the recoil guide assembly is under spring tension going back in.",
+  "Place the barrel and recoil guide into the slide and make sure the recoil guide stays in position as the assembly slides back onto the grip — this usually needs a thumb holding it.",
+  "Push the slide just past the grip so the half-moon cutout on the slide lines up with the axis hole in the aluminium frame, then reinsert the slide release.",
+  "Make sure the slide release is fully seated with an audible click — a partly seated release is what lets a slide leave the frame under recoil.",
+  "Release the slide and perform a function check."
+ ],
+ "fncheck": "With the magazine out and the chamber checked empty: the slide release should be flush and locked with no free play, and the slide should run its full travel and return fully into battery on spring pressure alone. Rack the slide and the loaded chamber indicator should sit flush with no round present. If the Selector Switch is in the factory position #1 the pistol should refuse to dry fire with no magazine inserted, and should refuse to dry fire unless the grip disconnect is fully depressed — that pair of refusals is the check that both disconnects are still doing their job."
+}

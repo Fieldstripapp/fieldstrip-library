@@ -1,0 +1,169 @@
+{
+ "row": "springfieldarmoryhellion",
+ "make": "Springfield Armory",
+ "model": "Hellion",
+ "sourcedFrom": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) (undated on cover)",
+ "sourceSha256": "a6d9e82d0a3bca98a1819d079534d8abebb30ffd5dd97c81b7c2a248ca491dff",
+ "cleanIntro": "Springfield's own field strip for the Hellion. It is a bullpup, so the order is unfamiliar: the BUTTSTOCK comes off first and takes the captive recoil spring with it, and only then does the bolt carrier come out the back. ⛔ The rifle is also configurable to eject left or right, and that choice is made during BCG reassembly — get it wrong and a left-shoulder shooter takes brass in the face.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Eye protection, muzzle safe, finger off",
+   "action": "Put proper eye protection on, point the rifle in a safe direction and keep your finger off the trigger. The Hellion fires with or without a magazine in place.",
+   "prose": "Springfield leads its field-strip list with eye protection rather than burying it in the cleaning section.",
+   "quote": "Always use proper eye protection when cleaning firearms.",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.37, step 1",
+   "warn": "ALWAYS REMEMBER THE FIREARM IS ABLE TO FIRE WITH OR WITHOUT THE MAGAZINE IN PLACE."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, unload, close the bolt, safety on",
+   "action": "Remove the magazine and unload the rifle, then fully retract the charging handle and release it to close the bolt, and rotate the safety selector to SAFE.",
+   "prose": "The bolt is deliberately closed here, not locked back — the buttstock will not come off with the action open.",
+   "quote": "Fully retract the charging handle then release to completely close the bolt.",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.37, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extend the stock, then drive the retaining pin across",
+   "action": "Extend the buttstock to its maximum length, then push the buttstock retaining pin outward as far as it goes, from RIGHT to LEFT.",
+   "prose": "The stock must be at full extension for the pin to clear — at any shorter setting it fouls, and the answer is length, not force.",
+   "quote": "Push buttstock retaining pin outward, to its limit, from right to left",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.37, steps 6-7"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Buttstock off — it carries the recoil spring",
+   "action": "Grasp the buttstock, rotate the butt pad upwards about five degrees and withdraw the whole assembly rearward.",
+   "prose": "⛔ The captured recoil spring and guide live INSIDE the buttstock, so this is the tensioned part of the strip. Keep hold of it as it comes clear; do not let it spring out on its own.",
+   "quote": "grasp buttstock and rotate butt pad upwards slightly (5°) and withdraw buttstock assembly which contains the captured recoil spring and guide.",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.37, step 7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier out the back of the receiver",
+   "action": "Retract the charging handle to expose the rear of the bolt carrier, grasp the carrier and withdraw it from the receiver, then return the charging handle forward.",
+   "prose": "Springfield says plainly that this is as far as routine cleaning needs to go — everything beyond it is optional detail work, not part of the normal job.",
+   "aside": "This level of disassembly is all that is required for routine cleaning.",
+   "quote": "Retract charging handle to the rear which will expose rearward portion of bolt carrier. Grasp carrier and withdraw from receiver",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.37, step 8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger pack out — hammer cocked, safety on",
+   "action": "With the safety applied and the hammer COCKED, press upwards on the exposed locking tab to release the trigger pack, then grasp its rear and withdraw it from the receiver.",
+   "prose": "⛔ The hammer state is a precondition, not a detail: the pack will not release or reinstall with the hammer down. Clean the pack as a unit — Springfield forbids taking it apart.",
+   "quote": "Remove the trigger pack by pressing upwards on the exposed locking tab",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.37, step 9",
+   "warn": "DO NOT attempt further disassembly the trigger pack, it can be cleaned in this condition."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Buttstock with recoil spring, bolt carrier group, trigger pack, and the receiver. That is the routine strip.",
+   "prose": "Clean the bore and the carrier way from here; the BCG and gas block come apart only when the deep clean calls for it.",
+   "quote": "Use a quality powder solvent to clean the carrier way (tunnel) of the receiver and lightly lubricate.",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.42"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "The interval — every 2,000 rounds",
+   "action": "Springfield puts detailed maintenance on a 2,000-round cycle. Confirm the rifle is unloaded and field strip it first.",
+   "prose": "This is the interval for the BCG strip and the gas block, not for the routine clean, which happens far more often.",
+   "quote": "Detailed maintenance should be performed every 2,000 rounds.",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — DETAILED MAINTENANCE, printed p.48"
+  },
+  {
+   "phase": "Deep",
+   "title": "Firing pin retainer out, left to right",
+   "action": "With a suitable punch, drive the firing pin retainer out from LEFT to RIGHT, then lift the firing pin safety lever to free the firing pin and its spring.",
+   "prose": "The direction is specified because the retainer is not symmetrical. Driving it the other way peens the hole.",
+   "quote": "With a suitable punch, remove the firing pin retainer from left to right",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — BOLT CARRIER GROUP disassembly, printed p.40"
+  },
+  {
+   "phase": "Deep",
+   "title": "Cam key out — the firing pin is the tool",
+   "action": "Depress the bolt into the carrier and rotate it right until it stops, then insert the firing pin into the hole in the BOTTOM of the carrier and press the bolt cam key out. The bolt then comes out of the carrier.",
+   "prose": "Springfield uses the firing pin as the pusher deliberately — it is the right diameter and it is already in your hand. Note which side the extractor was on before the bolt leaves the carrier.",
+   "aside": "We do not advise extractor removal unless you are experiencing extractor issues.",
+   "quote": "Depress the bolt into the carrier and rotate the bolt to the right until it stops. Insert the firing pin into the hole in the bottom of the carrier and press out the bolt cam key",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — BOLT CARRIER GROUP disassembly, printed p.40"
+  },
+  {
+   "phase": "Deep",
+   "title": "Scrub the bolt, carrier and firing pin channel",
+   "action": "Nylon brush and solvent on the bolt including the extractor, paying particular attention to build-up in the extractor groove; then the carrier, firing pin and receiver interior. Run a pipe cleaner through the firing pin hole and cavity of the bolt.",
+   "prose": "The extractor groove is where a bullpup's carbon collects, and a carboned groove is the commonest cause of extraction failures.",
+   "quote": "Clean the firing pin hole and firing pin cavity of the bolt with a pipe cleaner.",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — DETAILED MAINTENANCE, printed p.48"
+  },
+  {
+   "phase": "Deep",
+   "title": "Gas piston out of the adjustable block",
+   "action": "With the handguard and carrying handle off, retract the rod from the piston, lift out the rod and spring, then remove the piston itself.",
+   "prose": "This is the part an AR does not have and the part that decides whether a piston gun keeps cycling. Carbon here is hard and dry, not oily.",
+   "quote": "Retract the rod from the piston and lift and remove the rod and spring",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — ADJUSTABLE GAS BLOCK CLEANING, printed p.34"
+  },
+  {
+   "phase": "Deep",
+   "title": "Clean the piston and its bore, DRY",
+   "action": "Clean the piston and the piston bore of the gas block with a quality solvent, then dry BOTH parts thoroughly before reassembling.",
+   "prose": "⛔ Dry is not optional here. Oil in a gas system bakes into varnish at gas temperatures and seizes the piston in its bore.",
+   "quote": "Clean the piston and piston bore of the gas block with a quality cleaning solvent. Dry both parts thoroughly and re-assemble.",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — ADJUSTABLE GAS BLOCK CLEANING, printed p.34"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Choose the ejection side as the bolt goes back in",
+   "action": "For RIGHT side ejection the extractor goes on the right at 10 o'clock; for LEFT side ejection it goes on the left at 2 o'clock. Insert the cam key with its top angled toward the chosen port, then the firing pin and spring, then the retainer from right to left.",
+   "prose": "⛔ The ejection port covers must be reconfigured to match — an open cover on the wrong side and a closed one on the ejection side is a stoppage waiting to happen.",
+   "quote": "For right side ejection: insert the bolt into the carrier with the extractor on the right side at the 10 o'clock position until the bolt bottoms in the carrier",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — REASSEMBLY OF THE BOLT CARRIER GROUP (BCG), printed p.41"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Cam pin check before the rifle goes back together",
+   "action": "Before anything else goes back in, confirm the cam pin is installed in the BCG.",
+   "prose": "⛔ This is the single check on the whole deep clean that can kill you. The rifle WILL fire without the cam pin, out of battery.",
+   "quote": "Make certain to re-install the cam pin in the BCG. The firearm can fire without cam pin and this creates a catastrophic EXTREMELY hazardous condition, that could cause property damage, personal injury or death.",
+   "cite": "Springfield Armory Hellion Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — printed p.42"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL & CHAMBER",
+   "tasks": [
+    "Bore solvent through the barrel and chamber per the solvent maker's instructions",
+    "Check the muzzle device for carbon build-up",
+    "Dry patches until clean"
+   ]
+  },
+  {
+   "name": "RECEIVER & CARRIER WAY",
+   "tasks": [
+    "Powder solvent down the carrier way (tunnel), then light lubrication",
+    "Brush or wipe away heavy fouling; an aerosol cleaner is acceptable here",
+    "Lightly oil exposed metal on the BCG and carrier way, wipe the excess"
+   ]
+  },
+  {
+   "name": "BCG & TRIGGER PACK",
+   "tasks": [
+    "Nylon brush and solvent on the bolt, extractor groove and carrier",
+    "Clean the trigger pack AS A UNIT — do not take it apart",
+    "Two drops into the cam pin slot; runners and rear bosses of the carrier"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Reinstall the trigger pack with the hammer COCKED and the safety on.",
+  "Reinstall the bolt carrier group, then the buttstock assembly and its retaining pin.",
+  "Install the magazine well, then the carrying handle, then the handguard, seating each retaining pin home.",
+  "Confirm the ejection port covers match the ejection side you configured."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty, cycle the charging handle several times, check the safety selector moves fully to both positions, and confirm the correct ejection port cover is open."
+}

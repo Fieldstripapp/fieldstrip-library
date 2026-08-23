@@ -1,0 +1,234 @@
+{
+ "row": "browninga5new",
+ "make": "Browning",
+ "model": "A5 (new)",
+ "sourcedFrom": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "c143194ed2a0ddcb9f53bb33d24833ec4c30a44e7e8b4f76dba67701c9e9ea19",
+ "cleanIntro": "The modern A5 is Browning's recoil-operated autoloader — the manual's own description: firing compresses the recoil spring through the slide assembly, and that stored energy cycles the bolt, ejects, cocks and feeds. No gas system means no gas rings or pistons to scrub; what needs attention instead is the slide assembly's rails, the action tube and spring living in the buttstock, and the trigger group. The book publishes a genuinely deep teardown and this guide follows its own split: barrel-off is the routine clean, trigger group and slide assembly are the 'complete cleaning', and inside the slide assembly is a gauge-forked, gunsmith-recommended procedure whose firing-pin depth check is a genuine slam-fire safeguard. One warning owns this gun's bench manners: with the barrel off, the action must NEVER be slammed closed, or the bolt handle strikes the receiver.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm the gun and read its barrel — gauge, chamber, and which shells cycle it",
+   "action": "The A5's gauge and chamber length are inscribed on the side of the barrel, and both bind absolutely: no 3-inch or 3½-inch shells in a 2¾-inch chamber, no 3½-inch shells in a 3-inch chamber. On an autoloader there is a second, softer floor the manual states plainly — the load has to be powerful enough to cycle the action completely. The book prints minimum payloads by model: 12-gauge 3-inch guns run 1 oz and heavier; 3½-inch guns 1⅛ oz and heavier; 16-gauge 15/16 oz; 20-gauge 7/8 oz lead or 3/4 oz steel.",
+   "prose": "A recoil-operated gun fed featherweight loads short-cycles and gets blamed for it. The ammunition floor is a function spec, not a suggestion.",
+   "quote": "USE SHELLS OF THE CORRECT LENGTH. DO NOT USE 3\" OR 3½\" SHELLS IN A BARREL WITH A 2¾\" CHAMBER, OR 3½\" SHELLS IN A BARREL WITH A 3\" CHAMBER. DOING SO CAN RESULT IN A BUILDUP OF DANGEROUSLY HIGH PRESSURES.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — AMMUNITION",
+   "warn": "Chamber length off the barrel inscription, and loads heavy enough to cycle the action."
+  },
+  {
+   "phase": "Clear",
+   "title": "Crossbolt safety at the rear of the trigger guard — and yours may be reversed",
+   "action": "Press the safety button at the rear of the trigger guard to the right to put the gun on safe; left exposes the red warning band and means fire. Before trusting the directions, verify which way YOUR gun's safety is installed: the factory ships it right-handed, but a qualified gunsmith can reverse it, and a reversed safety shows its red band on the right side instead. The manual's instructions — and this guide — assume the right-handed installation.",
+   "prose": "Same Browning caveat as always: the red band is paint, and paint wears. Learn the positions by feel.",
+   "quote": "The “safety” can be reversed from right- to left-handed by a qualified gunsmith. When installed, the left-handed “safety” will have the “safety” button’s red warning band on the right side of the trigger guard.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — OPERATION OF THE \"SAFETY\"",
+   "warn": "Verify the safety's installed orientation before relying on directions."
+  },
+  {
+   "phase": "Clear",
+   "title": "Speed unload at the shell stop — right side of the loading port on an A5",
+   "action": "Safety on. Pull the bolt handle rearward to eject the chambered shell and let the bolt close on the empty chamber. Turn the gun trigger-guard-up, push the carrier down as far as it goes, and find the shell stop inside the receiver on the RIGHT side of the loading port — visually to the left as you look down into it. Push it in and the magazine spring delivers a shell into your hand; catch it, press again, repeat until the tube is empty. Then feel the magazine opening with a finger for any shell that never fed, and inspect chamber, feed mechanism and magazine by eye.",
+   "prose": "Finish by locking the bolt open: bolt latch rearward first, then the bolt handle fully back. That is the state the strip starts from.",
+   "quote": "5. Push in on the shell stop to release a shell from the magazine. When the shell stop is pressed, a shell is forced out of the magazine under spring pressure. Catch the shell as it comes out.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — UNLOADING > Speed Unloading",
+   "warn": "Shells leave under spring pressure, and the carrier edges are sharp. Mind the fingers."
+  },
+  {
+   "phase": "Clear",
+   "title": "The one bench rule that owns this gun: never slam the action with the barrel off",
+   "action": "Commit this before the magazine cap moves: whenever the barrel is off, the slide assembly stays locked rearward, and the bolt release button does not get pressed except with the bolt handle held. Released free, the slide assembly runs forward with nothing to stop it and the bolt handle strikes the receiver — the manual prints this warning at assembly, at disassembly, and in both three-shot-adaptor procedures, which is how often people do it. When a step needs the slide forward with the barrel off, it says so, and the move is made by HOLDING the bolt handle while pressing the release.",
+   "prose": "This is the A5's equivalent of dropping a slide on an empty 1911 chamber — except here the damage is immediate and structural.",
+   "quote": "NEVER ALLOW THE ACTION TO SLAM CLOSED BY PRESSING THE BOLT RELEASE BUTTON WITHOUT THE BARREL INSTALLED. IF THE SLIDE ASSEMBLY IS RELEASED FORWARD WITH THE BARREL REMOVED, THE BOLT HANDLE WILL STRIKE THE RECEIVER AND CAUSE DAMAGE.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — ASSEMBLY step 1 (repeated at DISASSEMBLY and in both three-shot adaptor procedures)",
+   "warn": "Barrel off = bolt stays back, or moves forward only under a controlled hand."
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel and forearm off together",
+   "action": "With the slide assembly locked rearward and the gun verified empty: unscrew the magazine cap counterclockwise, then pull the forearm and barrel forward together, off the magazine tube. They come as one unit and separate afterwards. Keep the muzzle discipline through all of it — this is the same motion that assembly runs in reverse, and the barrel extension leaving the receiver is the moment the slam-closed rule starts binding.",
+   "prose": "Wood forearm? Do not squeeze the open rear end — the manual repeats that warning three times because split forearms are what it costs.",
+   "quote": "3. Remove the forearm and barrel together by pulling them forward and off the magazine tube.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — DISASSEMBLY, steps 2-3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forearm off the barrel — one inch of flex and no more",
+   "action": "Separate the forearm from the barrel exactly the way the book draws it: pull the REAR of the forearm away from the barrel slightly, then slide the forearm rearward and off the barrel bracket. The failure mode is dimensioned — pulling the rear more than one inch from the barrel, or sliding the forearm off the rear before flexing it away, damages the forearm. For storage, the forearm retainer that shipped in the front of the forearm goes back in, the forearm goes back over the magazine tube under the cap, and you have two compact units.",
+   "prose": "The retainer is the shipping part everyone throws away and then wants back — it is what protects receiver and forearm when the barrel is off.",
+   "caution": "Rear of the forearm flexes away no more than 1 inch. Save the forearm retainer.",
+   "quote": "WHEN REMOVING THE FOREARM DO NOT PULL THE REAR OF THE FOREARM MORE THAN 1\" FROM THE BARREL, OR SLIDE THE FOREARM OFF THE REAR OF THE BARREL BEFORE PULLING IT AWAY FROM THE BARREL, YOU MAY DAMAGE THE FOREARM.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — DISASSEMBLY, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the action teardown is the Deep Clean branch",
+   "action": "Barrel and forearm off is the A5's routine cleaning state, and the manual grades everything deeper explicitly: normal maintenance happens with the barrel on, careful cleaning takes the barrel and slide assembly off, and a complete cleaning removes slide assembly AND trigger group. That complete teardown — pins, bolt handle, the gauge-forked slide assembly internals and the action tube in the stock — is this guide's Deep Clean branch, bounded by the manual's own line: disassembly of the action involves the slide assembly and trigger group, and beyond that only a qualified gunsmith.",
+   "prose": "On the mat right now: barrel, forearm, magazine cap, receiver unit. That is the whole routine strip.",
+   "quote": "Disassembly of the action involves the removal of the slide assembly and the trigger group. Disassembly beyond this point should only be performed by a qualified gunsmith.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — MAINTENANCE OF THE TRIGGER GROUP (repeated under MAINTENANCE OF THE SLIDE ASSEMBLY)",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the breech, choke tube out, threads oiled",
+   "action": "Run a shotgun rod with a slotted tip or jag and a snug, lightly oiled patch in at the breech end and back and forth. Inspect from both ends for leading and plastic wad streaks — worst near the muzzle and ahead of the chamber; a normal amount is common. Excess comes off with a bronze brush soaked in powder solvent, pushed fully through before withdrawing. Pull the choke tube with the supplied Invector-DS T-wrench, wipe tube, tube threads and barrel threads with a nylon brush and oil them lightly; finish the bore with a dry patch then an oiled one.",
+   "prose": "Current A5 barrels are threaded Invector-DS, which is a back-bored-barrel system: DS, Plus and Standard tubes never interchange, and the gun is never fired without the correct tube in.",
+   "caution": "Only the supplied DS T-wrench on DS tubes — any other wrench can damage the barrel threads.",
+   "quote": "BROWNING INVECTOR-DS CHOKE TUBES ARE FOR USE ONLY IN BROWNING SHOTGUNS WITH BACK-BORED BARRELS, AND ARE NOT INTERCHANGEABLE WITH BROWNING STANDARD INVECTOR OR INVECTOR-PLUS CHOKE TUBES.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — INTERCHANGEABLE CHOKE TUBE SYSTEM (bore: CLEANING THE BARREL, steps 3-6)"
+  },
+  {
+   "phase": "Clean",
+   "title": "Rails get a drop, the action gets films, the stock gets neither",
+   "action": "Give the receiver its one specific lubrication point: occasionally, a drop of lightweight gun oil inside the receiver on each rail the slide assembly runs on. After weather or a dirty day, wipe the principal working parts — slide assembly included — clean and re-film them lightly. The quantity rule is structural on a wood-stocked gun: excess oil in the action runs back into the stock wood, softens it, and the stock loosens. Exposed metal gets an oiled-cloth wipe until the finger marks are gone.",
+   "prose": "Wood takes light gun oil or furniture wax, one or the other. Oil-finish stocks spot-repair with rubbing alcohol and a linseed-oil-based finish.",
+   "caution": "Drops on the rails, films on the parts, and no pours anywhere near the stock.",
+   "quote": "Occasionally, a drop of lightweight gun oil may be placed inside the receiver on the rails on which the slide assembly slides (Figure 3). This reduces friction for smooth operation.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — PERIODIC OILING"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stock fit is a shim and spacer system — set it while the gun is apart",
+   "action": "The A5 ships with fit hardware most owners never open: a ¼-inch and a ½-inch length-of-pull spacer for behind the recoil pad (up to ¾ inch with the provided screws, more with longer ones), and six cast/drop shims for between the buttstock and receiver — No. 2 neutral installed, 1 and 3 moving comb and heel up or down, and the R/L-marked shims adding about ⅛ inch of cast. Shim work means recoil pad off through the greased access slits, stock insert out, stock bolt nut off with a ½-inch socket, buttstock off, shim swapped, and everything snugged home without overtightening.",
+   "prose": "Both procedures carry the same IMPORTANT note: have the trigger group in position in the receiver before loosening the buttstock — it aligns the stock and makes assembly easier.",
+   "quote": "Six shims are included with your new shotgun (Figure 26). The shims fit between the buttstock and receiver, allowing customized adjustments to the comb and heel. Each shim is labeled/stamped for a specific amount of adjustment. The neutral shim, No. 2, is already installed on your shotgun.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — ADJUSTMENTS > ADJUSTING CAST AND DROP AT COMB"
+  },
+  {
+   "phase": "Clean",
+   "title": "Extra barrels and the 16/20 shipping retainer",
+   "action": "A5 barrels interchange within gauge and chamber length with no fitting, under the standing nevers: no 3½-inch barrel on a 3-inch gun or the reverse, no other maker's barrel however similar, and no barrel from any other Browning shotgun. One more thing lives in this area if your gun is a 16 or 20 gauge fresh from the box: a yellow bolt retainer in the front of the receiver secures the bolt for shipping, and it must come out before the gun is assembled.",
+   "prose": "The retainer is bright yellow precisely so it cannot be mistaken for a part of the gun — if you can still see it, the gun is not ready to assemble.",
+   "quote": "NOTE: 16 and 20 gauge models are shipped with a yellow bolt retainer located in the front of the receiver (Figure 7) that secures the bolt in place during shipping. Remove the bolt retainer prior to assembling the shotgun.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — ASSEMBLY, step 4 (barrel restrictions: EXTRA BARRELS)",
+   "warn": "Never another maker's barrel, never another Browning model's barrel, never a mismatched chamber."
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Trigger group out on two pins — a field job with one punch",
+   "action": "With the barrel off and the gun verified empty, place the slide assembly forward the controlled way: hold the bolt handle, press the bolt release, ease it home. Push the two trigger guard pins through the receiver with a non-marring punch — they drive from either side — and pull them out from the opposite side. Grasp the trigger guard and lift it up and out. Clean the group with a quality aerosol gun solvent, let it dry, and oil the moving parts very lightly. Then stop: the group goes no further apart, by the manual's explicit line.",
+   "prose": "Browning designed this as a field procedure — excessively dirty or wet is the trigger, not routine rounds fired.",
+   "quote": "DO NOT DISASSEMBLE THE TRIGGER GROUP BEYOND THIS POINT.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — REMOVING THE TRIGGER GROUP, after step 4",
+   "warn": "The trigger group comes out whole and goes back whole. Nothing inside it is user-serviceable."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly out: bolt handle first, then forward off the rails",
+   "action": "Lock the slide assembly rearward (bolt latch back, then bolt handle fully back), then place it forward under control — bolt handle held, release pressed. Pull the bolt handle straight outward and it comes free of its slot; then slide the whole slide assembly forward and out of the receiver. This is the part the manual says needs only occasional cleaning — but when the gun has been rained on or dropped in the dirt, this is where the grit lives.",
+   "prose": "The bolt handle pulling straight out surprises everyone the first time. It is designed to; no tool, no pin.",
+   "quote": "4. Remove the bolt handle by pulling the bolt handle outward (Figure 32).",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — MAINTENANCE OF THE SLIDE ASSEMBLY > REMOVING THE SLIDE ASSEMBLY, steps 4-5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Which slide assembly you have — press the firing pin and feel",
+   "action": "Before opening the slide assembly, identify which of the two versions is in your hands, because the disassembly procedures differ. The test is the manual's: press on the rear of the firing pin. Spring resistance means the 12-gauge assembly, which carries a firing pin spring; no resistance means the 16/20-gauge assembly, which has none and retains its pin with a roll pin driven on an armorer's block instead. The whole slide-assembly teardown carries Browning's own grading: recommended for a competent gunsmith, and if you proceed anyway, strictly by the steps.",
+   "prose": "This is the fork the deep clean stands on — run the wrong procedure and you are prying at a roll pin with a slip punch, or driving a sprung pin with a hammer.",
+   "quote": "IT IS RECOMMENDED THAT THIS PROCEDURE BE PERFORMED BY A COMPETENT GUNSMITH. SHOULD YOU CHOOSE TO PERFORM THIS PROCEDURE, STRICTLY ADHERE TO THE FOLLOWING STEPS.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — DISASSEMBLING/REASSEMBLING THE SLIDE ASSEMBLY",
+   "warn": "Identify 12-gauge (firing pin spring) vs 16/20 (no spring) before any pin comes out."
+  },
+  {
+   "phase": "Strip",
+   "title": "12 gauge: firing pin under spring tension, then unlocking pin, bolt and recoil spring",
+   "action": "Press the firing pin completely into the rear of the slide assembly and hold it there — it is under spring tension and eye protection is mandatory. Small punch into the hole in the bottom of the slide assembly, press the firing pin retaining pin out the top, remove it, then ease the pressure off and take out firing pin and spring. Press the unlocking pin in from the LEFT side and remove it, bolt out the front, recoil spring out the front. Aerosol solvent on everything, dry, light oil.",
+   "prose": "Lay the two pins apart on the mat — the retaining pin and unlocking pin are not interchangeable and both have an orientation at reassembly.",
+   "quote": "3. Insert a small punch into the hole in the bottom of the slide assembly (Figure 35) and press the firing pin retaining pin out the top of the slide assembly. Remove the pin (Figure 36).",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — 12 GAUGE DISASSEMBLY PROCEDURE",
+   "warn": "The firing pin is under spring tension. Control it while the retaining pin comes out."
+  },
+  {
+   "phase": "Strip",
+   "title": "16/20 gauge: roll pin on a block, no spring behind it",
+   "action": "The smaller gauges open differently: bolt bottom-up on an armorer's block or wood block, roll-pin hole aligned over a relief hole, and the firing pin retaining roll pin driven out the top with a roll pin punch and small gunsmithing hammer until it falls free. Then the same path as the 12: unlocking pin pressed in from the left and out, bolt out the front, recoil spring out the front, solvent, dry, light oil. No firing pin spring exists in this assembly — that absence is normal, not a lost part.",
+   "prose": "The block matters: driving a roll pin against an unsupported bolt peens the pin hole, and this pin gets driven again at reassembly.",
+   "quote": "16 and 20 gauge: This version does not use a firing pin spring within the slide assembly. It is readily identified by pressing on the rear of the firing pin and noting the lack of spring resistance.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — MAINTENANCE OF THE SLIDE ASSEMBLY (procedure: 16 AND 20 GAUGE DISASSEMBLY PROCEDURE)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rebuild the slide assembly — and run the firing-pin protrusion check like a gate",
+   "action": "Reassembly for both gauges: recoil spring in the front, bolt in the front with the extractor on the RIGHT side and the slide-assembly hole aligned with the cut in the bolt, unlocking pin in from the right with ITS hole facing forward so the firing pin can pass through. Twelve-gauge: spring and firing pin in from the rear until almost flush, never past flush, never forced, then the retaining pin in the top. Sixteen/twenty: bolt rearmost in the slide, a finger over the bolt face, pin pushed until you feel it at the face — that is correct depth — then the roll pin driven flush without letting the pin migrate. Then the gate: if the firing pin protrudes from the bolt face WITHOUT being pressed from the rear, it is installed wrong, and a loaded chamber would fire the moment the bolt is released forward. Strip it and do it again.",
+   "prose": "This is the one check in the whole gun with slam-fire on the other side of it. It costs three seconds: look at the bolt face, press the pin, release, look again.",
+   "quote": "IF THE FIRING PIN PROTRUDES FROM THE BOLT FACE WITHOUT BEING PRESSED FROM THE REAR, THE FIRING PIN HAS BEEN INCORRECTLY INSTALLED. IMMEDIATELY DISASSEMBLE THE SLIDE ASSEMBLY AND REASSEMBLE IT FOLLOWING THE INSTRUCTIONS IN THIS SECTION. IF THE BOLT IS INSTALLED IN THE SHOTGUN WITH THE FIRING PIN IMPROPERLY PROTRUDING FROM THE BOLT FACE AND THE CHAMBER IS LOADED, THE SHOTGUN WILL FIRE WHEN THE BOLT IS RELEASED TO THE FORWARD POSITION. FAILURE TO FOLLOW THESE WARNINGS COULD RESULT IN SERIOUS INJURY OR DEATH.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — 12 GAUGE ASSEMBLY PROCEDURE (same warning closes the 16/20 procedure)",
+   "warn": "A firing pin proud of the bolt face at rest = slam-fire on closing. Re-do, not adjust."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly and trigger group back into the receiver",
+   "action": "Turn the shotgun upside down — it aligns the slide link with the socket in the recoil spring follower — set the slide assembly rails into the receiver grooves and insert it slide-link-end first. Bolt handle back into its slot. Carefully open and close the action several times to confirm the slide link and recoil spring follower engaged; the slam-closed prohibition still binds because the barrel is still off. Then the trigger group: slide forward, rear of the group in, bolt release pressed, front in, holes aligned, and the pins tapped home with a plastic or wooden mallet.",
+   "prose": "The receiver cavity gets its cleaning while everything is out: solvent, nylon brush for caked grime, wiped, lightly oiled and wiped dry. No further disassembly is required for cleaning — the manual's words.",
+   "quote": "4. Carefully open and close the action several times to make sure the slide link and recoil spring follower are properly engaged (Figure 46).",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — Installing the slide Assembly (trigger group: INSTALLATION OF THE TRIGGER GROUP)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Action tube and spring: oil in drops, and never open it",
+   "action": "For guns that live in weather, the recoil system in the buttstock gets oiled — without ever being opened. Recoil pad off through the greased access slits, buttstock off, a few drops of lightweight gun oil into the opening in the rear of the action tube, muzzle down and the action cycled several times to spread it, then the gun stood vertically on a rag, tube down, for 15 minutes to drain. Wipe the excess, lightly oil the tube's outside, stock back on. The hard line is printed in the middle of the procedure: do not attempt to remove the action spring from the action tube — the tube damages easily and the spring is under tension.",
+   "prose": "No solvent sprayed into the tube, and no excess oil — both interfere with the gun's function. This procedure ends the published teardown; the never-go-further notice closes the section.",
+   "quote": "DO NOT ATTEMPT TO REMOVE THE ACTION SPRING FROM THE ACTION TUBE. THE ACTION TUBE IS EASILY DAMAGED AND THE ACTION SPRING IS UNDER SPRING TENSION. FAILURE TO FOLLOW THIS WARNING COULD RESULT IN SERIOUS INJURY OR DAMAGE YOUR SHOTGUN.",
+   "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — LUBRICATION THE ACTION TUBE AND SPRING, step 2",
+   "warn": "The action tube is lubricated through its opening, never disassembled."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL & CHOKE (barrel off, from the breech)",
+   "tasks": [
+    "Rod with slotted tip or jag, snug lightly-oiled patch, in at the breech",
+    "Read the streaks: leading and plastic wad residue, worst near muzzle and ahead of the chamber — normal amounts are not serious",
+    "Bronze brush with powder solvent for excess, pushed fully through before withdrawing",
+    "Choke tube out with the DS T-wrench only; tube, tube threads and barrel threads nylon-brushed and lightly oiled",
+    "Dry patch, then a final oiled patch; check for forgotten patches"
+   ]
+  },
+  {
+   "name": "RECEIVER & SLIDE RAILS",
+   "tasks": [
+    "A drop of lightweight oil on each receiver rail the slide assembly runs on — occasionally",
+    "After dust, mud or water: principal working parts including the slide assembly wiped clean and re-filmed",
+    "Never large quantities of oil in the action — it runs back into the stock wood",
+    "Receiver cavity (complete cleaning): solvent, nylon brush, wiped, lightly oiled, wiped dry"
+   ]
+  },
+  {
+   "name": "TRIGGER GROUP & SLIDE ASSEMBLY (deep branch)",
+   "tasks": [
+    "Trigger group: aerosol gun solvent, air dry, very light oil on moving parts — never disassembled further",
+    "Slide assembly internals per the gauge-correct procedure only",
+    "Firing-pin protrusion check after every slide-assembly rebuild — a proud pin is a slam-fire"
+   ]
+  },
+  {
+   "name": "ACTION TUBE (buttstock)",
+   "tasks": [
+    "Inclement-weather guns: a few drops through the tube's rear opening, cycled muzzle-down, drained vertically 15 minutes",
+    "Light oil on the tube's external surface",
+    "Never remove the action spring; never spray solvent into the tube"
+   ]
+  },
+  {
+   "name": "EXTERIOR & WOOD",
+   "tasks": [
+    "Exposed metal wiped with an oiled cloth; finger marks hold moisture",
+    "Keep insect repellents, sunscreen and strong chemicals off the finishes",
+    "Oil-finish stocks: rubbing alcohol on dull spots, then a linseed-oil-based finish, checkering by soft brush",
+    "Wood: gun oil or furniture wax, never both"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Slide assembly locked rearward before anything else — and it stays back until the barrel is on.",
+  "16 and 20 gauge, first assembly: the yellow bolt retainer comes out of the receiver front before anything is assembled.",
+  "Forearm onto the barrel: front angled over the barrel bracket, pushed completely on, then the rear pressed into place — never squeezing the open rear of a wood forearm.",
+  "Barrel and forearm over the magazine tube together; barrel extension and forearm studs aligned with the receiver recesses until the extension slips solidly in.",
+  "Hold pressure on the barrel into the receiver while the magazine cap turns down clockwise.",
+  "Only now may the bolt come forward: press the bolt release with the barrel installed.",
+  "Confirm the safety operates and shows no red band on safe, in whichever orientation your gun's safety is installed."
+ ],
+ "fncheck": "With the gun assembled and verified empty: cycle the bolt by hand and feel the slide assembly run the rails smoothly and return to battery — grittiness means the rails or the action tube, not more oil everywhere. Confirm the bolt latch locks the bolt open and the bolt release drops it under control. Confirm the safety blocks the trigger on safe and moves positively both ways. If the slide assembly was opened: repeat the firing-pin protrusion check on the reassembled gun — the pin must NOT protrude from the bolt face unless pressed from the rear. Check the magazine cap is snug and the choke tube seated with the T-wrench. Never test the mechanical function with live ammunition."
+}

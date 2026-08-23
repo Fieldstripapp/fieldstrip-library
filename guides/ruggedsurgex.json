@@ -1,0 +1,172 @@
+{
+ "row": "ruggedsurgex",
+ "make": "Rugged",
+ "model": "SurgeX",
+ "sourcedFrom": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document (UNDATED — no copyright year is printed anywhere in the document)",
+ "sourceSha256": "32b058e45cc5b6e2f58b0648df25c2317a80c7b09fe8dd3dd0ce4841204ffd96",
+ "cleanIntro": "Rugged's own maintenance for the SurgeX. The whole manual is a two-page fold-out sheet with no text layer at all, read here by OCR under the 2026-08-20 ruling — hash, tool and date on record. Because it is a fold-out, the panels do not run in reading order and there are no printed page numbers, so every citation below names the PDF sheet and the panel heading rather than a folio. Note what Rugged publishes and what it does not: the can comes apart at the ADAPT Module and the front cap, and no further.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host before the can is touched",
+   "action": "Remove the magazine and check the chamber of the host firearm, and confirm by eye that it is empty, before any service work on the suppressor or the muzzle device.",
+   "prose": "The can lives on the muzzle. Everything you are about to do puts a hand in front of it, so the host gets cleared first, every time.",
+   "quote": "Before performing service/maintenance on the muzzle device, remove the magazine and check the chamber of the host weapon to confirm that it's in a safe condition and completely unloaded.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 1 — SERVICE/MAINTENANCE warning block",
+   "warn": "Failure to do so could result in serious personal injury or death."
+  },
+  {
+   "phase": "Clear",
+   "title": "Let it cool, and gear up",
+   "action": "Let the suppressor cool before you take it off, and wear proper protective equipment for the service work itself.",
+   "prose": "A can that has just been fired will burn through a glove, and it will scorch whatever you set it down on.",
+   "caution": "Always wear proper protective equipment while performing service/maintenance.",
+   "quote": "Never attempt to remove a hot suppressor without the proper protective gear. Allow the suppressor to cool before removal.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 1 — REMOVAL warning block"
+  },
+  {
+   "phase": "Strip",
+   "title": "Never clean it on the gun",
+   "action": "Take the suppressor off the host firearm before any cleaning. Rugged rules out cleaning it while it is still mounted.",
+   "prose": "It is the one prohibition on the sheet that people talk themselves out of, because wiping the outside feels harmless. It is not the outside the rule is about.",
+   "quote": "Never attempt to clean a suppressor while it's attached to a host weapon",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 1 — SERVICE/MAINTENANCE warning block",
+   "warn": "This could lead to personal injury or death."
+  },
+  {
+   "phase": "Strip",
+   "title": "Unlock the collar half a turn",
+   "action": "Turn the Dual Taper Lock locking collar counter-clockwise half a rotation. That releases the spring arms off the rear taper of the muzzle device — the can is not unthreaded yet, only unlocked.",
+   "prose": "Half a turn, no more. The engraved lock/unlock arrows on the collar tell you which way you are going.",
+   "quote": "Turn the locking collar counter-clockwise a 1/2 rotation; this disengages the rear locking taper.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 2 — removal, step 1/2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Two and a half turns off the muzzle device",
+   "action": "With the collar disengaged, hold the SurgeX by its main body — not by the collar and not by the front cap — and rotate the whole suppressor counter-clockwise two and a half turns, then slide it forward off the muzzle device.",
+   "prose": "Gripping the body is what keeps you unthreading the can from the gun instead of unthreading the can from itself.",
+   "quote": "With the rear locking collar disengaged, hold the body of the SurgeX and rotate the suppressor counter clockwise 2.5 turns and slide the suppressor over the muzzle device.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 2 — removal, step 2/2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Muzzle cap off with the supplied tool",
+   "action": "To open the can up, take the muzzle cap off the front of the ADAPT Module first. Seat the grooves of the supplied tool into the matching grooves in the cap and turn the tool counter-clockwise until the cap comes off.",
+   "prose": "The tool exists because the cap grooves are shallow — anything else rounds them off and then the cap is a problem rather than a part.",
+   "aside": "This is accomplished by inserting the grooves of the tool into the corresponding grooves in the muzzle cap and rotating the tool counter-clockwise until removed.",
+   "quote": "To remove the ADAPT Module, first remove the muzzle cap from the end of the Module using the supplied tool.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 1 — REMOVAL, step 1/3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Module off the suppressor body",
+   "action": "With the muzzle cap off, hold the suppressor body in one hand and turn the ADAPT Module counter-clockwise until it unthreads and comes away. The Module is hand-tight by design, so it should break loose without tools.",
+   "prose": "Long and short Modules are the two configurations this can ships in; whichever is fitted comes off the same way.",
+   "quote": "With the muzzle cap removed, hold the suppressor body with one hand and rotate the Module counter- clockwise until removed.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 1 — REMOVAL, step 2/3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cap back on the body — the short configuration",
+   "action": "With the Module off, thread the muzzle cap onto the front of the suppressor body itself until it is hand tight. That is the short configuration, and it is also how the can is stored so the cap does not go missing.",
+   "prose": "Hand tight is the specification, not a shortcut. The Module and the cap are both hand-tight joints on this can.",
+   "quote": "With the Module removed you, can now thread the muzzle cap onto the suppressor body until it's hand tight.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 1 — REMOVAL, step 3/3"
+  },
+  {
+   "phase": "Clean",
+   "title": "Threads are the job — solvent and a brush",
+   "action": "Rugged's maintenance for this can is thread work. Keep every mounting thread clean and clear of debris, using a small amount of gun cleaning solvent and a brush.",
+   "prose": "A friction-lock mount is only as concentric as its threads are clean. Grit in the threads is what walks a group.",
+   "aside": "This can be accomplished with a small amount of gun cleaning solvent and a brush.",
+   "quote": "It is important to keep all the mounting threads clean and free from debris.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 1 — SERVICE/MAINTENANCE"
+  },
+  {
+   "phase": "Clean",
+   "title": "Get every trace of solvent back out",
+   "action": "Flush the solvent out completely before the can is used again: hot soapy water, let it drain fully, and blow it dry. Rugged specifically recommends compressed air.",
+   "prose": "Solvent left inside a sealed core does not evaporate on its own — it sits in the baffle stack and comes out as steam on the first shot.",
+   "quote": "All solvent should be fully removed from the suppressor prior to use. This can be accomplished with hot soapy water taking care to let the suppressor fully drain before use. The use of compressed air is highly recommended.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 1 — SERVICE/MAINTENANCE"
+  },
+  {
+   "phase": "Clean",
+   "title": "Anti-seize goes back on the universal thread",
+   "action": "The 1.375x24 universal thread is shipped lightly coated with anti-seize to stop it galling. Any time the mount comes off and goes back on, clean the threads of debris and make sure anti-seize is present again.",
+   "prose": "Stainless on stainless under heat is exactly the pairing that cold-welds. This is the step that decides whether the mount ever comes off again.",
+   "quote": "To prevent galling and seizing, the suppressor's universal thread is lightly coated with anti-seize. Ensure any time the mount is removed and re-installed, that the threads are clean of debris and anti-seize is present to prevent unnecessary issues.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 2 — COMPONENTS, mounting warnings"
+  },
+  {
+   "phase": "Clean",
+   "title": "White lithium grease on the front cap threads",
+   "action": "The interior front cap threads are greased with white lithium at the factory. Top that grease up as needed through the life of the can — it is a different lubricant from the anti-seize on the mount, and the two are not interchangeable.",
+   "prose": "Two joints, two greases. Keep them straight and neither one seizes.",
+   "aside": "It is recommended to apply additional white lithium grease to the front cap threads throughout use as needed.",
+   "quote": "Interior front cap threads on the suppressor are coated with white lithium grease when shipped.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 2 — COMPONENTS, mounting warnings"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the bore before it goes back on the gun",
+   "action": "Look through the suppressor and confirm the bore is clear of debris and obstructions. Rugged puts this on the operator, before any use and after every maintenance cycle.",
+   "prose": "A patch left in a can is a baffle strike. This is the last thing you do before the can goes back on the muzzle.",
+   "quote": "It is the operator's responsibility to check the bore of the suppressor to confirm that it's free of debris/ obstructions. This should be performed before any use and after all maintenance cycles.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 1 — SERVICE/MAINTENANCE warning block",
+   "warn": "Failure to do so could result in serious personal injury or death."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Suppressor body, ADAPT Module, muzzle cap and the Rugged Universal Mount, with the threads clean and correctly lubricated. That is as far as Rugged publishes taking this can — there is no baffle disassembly, and the multi-tool and its retainer are there for reconfiguring the can and its mounts, not for opening the core.",
+   "prose": "Reassembly is the mount procedure in reverse, and the go gauge on the muzzle device is what tells you it is right.",
+   "quote": "When reconfiguring the suppressor, place the multi-tool inside the suppressor core and rotate until the tool drops down into the fully seated position.",
+   "cite": "SurgeX Belt-Fed Rated 7.62 Suppressor Operator's Manual — ABSENT — no revision, part or document code is printed anywhere in the document — PDF sheet 2 — COMPONENTS, item 4 Multi-Tool"
+  }
+ ],
+ "deepAbsentReason": "Rugged publishes NO deeper procedure for the SurgeX and this listing therefore has no Deep Clean — that is the manufacturer's answer, not a gap in ours. The whole document is a two-page fold-out sheet, read end to end by OCR. Its only disassembly is REMOVAL (three steps: muzzle cap off, ADAPT Module off, cap back onto the body) and the mount/unmount procedure, all of which are carried in the walked steps above. There is no baffle stack procedure, no core disassembly and no wipe service anywhere in the document; the maintenance section says in full that the can \"requires limited service/maintenance\" and then describes cleaning the mounting threads with solvent and a brush. The multi-tool, the Multi-Tool Retainer and the Dual Taper Adapter Tool are documented for reconfiguring the suppressor and for installing and removing MOUNTS — the sheet states the R.U.M. is pre-installed to a torque specification and that a bench vise and a torque wrench are recommended for it — which is mount work, not a deeper clean.",
+ "cleaning": [
+  {
+   "name": "MOUNTING THREADS",
+   "tasks": [
+    "Keep all mounting threads clean and free from debris",
+    "A small amount of gun cleaning solvent and a brush is the method Rugged names",
+    "Flush all solvent back out with hot soapy water, let the can drain fully, and dry it — compressed air is highly recommended",
+    "Confirm anti-seize is present on the 1.375x24 universal thread every time the mount is refitted"
+   ]
+  },
+  {
+   "name": "FRONT CAP AND MODULE",
+   "tasks": [
+    "Interior front cap threads are shipped coated with white lithium grease — top it up as needed",
+    "The muzzle cap and the ADAPT Module are both hand-tight joints; do not torque them",
+    "Use the supplied tool on the muzzle cap grooves, never pliers"
+   ]
+  },
+  {
+   "name": "BORE CHECK",
+   "tasks": [
+    "Check the bore of the suppressor is free of debris and obstructions before any use",
+    "Check it again after every maintenance cycle"
+   ]
+  },
+  {
+   "name": "HOST AND AMMUNITION",
+   "tasks": [
+    "Have the host's muzzle threads checked by a qualified gunsmith if you are unsure they are concentric to the bore",
+    "Use quality factory loaded ammunition of the correct grain weight",
+    "Wear OSHA approved hearing protection — a suppressor reduces the sound impulse, it does not eliminate it"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Fit the ADAPT Module to the suppressor body hand tight, then thread the muzzle cap onto the front of the Module hand tight with the supplied tool.",
+  "Open the locking collar by twisting it clockwise until it stops, using the engraved lock/unlock arrows for reference.",
+  "Hold the suppressor by the main body and thread it onto the muzzle device until it is fully seated — never thread it on by the locking collar.",
+  "Turn the locking collar clockwise half a turn until tight.",
+  "Verify the can is fully seated against the go gauge on the muzzle device: only \"GO\" should be visible at the bottom of the lock collar."
+ ],
+ "fncheck": "Look through the bore and confirm it is clear. Check the go gauge on the muzzle device with the lock collar as the visual guide — if any part of \"NO GO\" shows, the can is not seated and must come off and go back on. Confirm the muzzle cap and Module are hand tight and that the Dual Taper Adapter Tool has been unlocked and removed from the mount before shooting."
+}

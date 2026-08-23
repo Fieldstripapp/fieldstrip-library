@@ -1,0 +1,225 @@
+{
+ "row": "winchesterxpr",
+ "make": "Winchester",
+ "model": "XPR",
+ "sourcedFrom": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "eab19def3937dfdc2eb3309ab7107660ff711c155d3a83b6f9df515daa09de67",
+ "cleanIntro": "The XPR is Winchester's push-feed bolt rifle with a detachable box magazine, and its published routine is deliberately shallower than the Model 70's: the bolt comes out of the receiver and that is the whole strip — Winchester prints no bolt disassembly for this rifle, no trigger work, and no action-out-of-stock procedure. What it does print is precise: a two-position safety that locks the bolt closed, a bolt unlock button that frees the bolt without coming off safe, a cocking indicator you can read with a thumb in the dark, and a bolt release bar on the side of the receiver. Everything below is that procedure in Winchester's order. Two hard bounds sit under all of it: the bolt is factory-fitted to this rifle's headspace and must never be swapped with another XPR's, and the magazine is cleaned as a sealed unit — Winchester forbids taking it apart.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Prove it empty — chamber, barrel, feed mechanism and magazine, all four",
+   "action": "Press the bolt unlock button, lift the bolt handle, draw the bolt fully rearward and look into the chamber, down the barrel, at the feed mechanism and into the magazine before anything else happens. The XPR feeds from a box below the bolt, so an open action alone proves nothing — a round can still be sitting on the follower, and removing the magazine does not touch what is already chambered. Look at all four places every time, and use a light if the bench is dim.",
+   "prose": "This is Winchester's own list, printed twice in this manual, and it is four places rather than one because each can hold a cartridge the other three would not show you.",
+   "quote": "EVEN WITH THE BOLT OPEN AFTER SHOOTING, DO NOT ASSUME THE RIFLE IS UNLOADED. ALWAYS INSPECT THE CHAMBER, BARREL, FEED MECHANISM, AND MAGAZINE TO BE CERTAIN THE RIFLE IS COMPLETELY UNLOADED.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Firing",
+   "warn": "Chamber, barrel, feed mechanism and magazine — all four, every time."
+  },
+  {
+   "phase": "Clear",
+   "title": "This book is for the XPR — and the pictures are the right-hand rifle",
+   "action": "Confirm you are holding a Winchester XPR before applying any of this. The page states on its own front line which rifle it is for, and it notes that every illustration shows a right-hand version — on a left-hand XPR the safety, bolt release and ejection port mirror to the other side while operating identically. The serial number sits just forward of the ejection port: right side of the receiver on right-hand models, left side on left-hand models.",
+   "prose": "None of the procedure forks on which hand your rifle is — only on where you reach for the controls.",
+   "quote": "Important instructions for: Winchester XPR Rifle.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Front matter"
+  },
+  {
+   "phase": "Clear",
+   "title": "Know your magazine's capacity — it varies by chambering",
+   "action": "Establish how many rounds your XPR's magazine holds, because it is not one number: standard and magnum calibers carry three, 350 Legend four, and 223 Rem. five. Counting cartridges out during unloading only proves the rifle empty if you know how many could have been in it. Winchester's own suggestion is to load the magazine to full capacity once, at a range, and confirm the count for yourself.",
+   "prose": "A borrowed or second magazine is the trap here — capacity follows the chambering, not the rifle.",
+   "caution": "Three, four or five rounds depending on chambering — know which is yours.",
+   "quote": "The magazine capacity for standard and magnum calibers is three rounds, 350 Legend is four rounds, and 223 Rem. is five rounds.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Magazine Capacity"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out — and understand it changes nothing about the chamber",
+   "action": "Pull the magazine release on the forward edge of the magazine rearward with your index finger and let the box drop into your hand. Then treat the rifle exactly as before: a cartridge already in the chamber does not care whether a magazine is present, and the XPR will fire without one if the safety is off and the trigger is pulled. The chamber is cleared by the bolt, never by the magazine release.",
+   "prose": "Winchester prints this warning three separate times in this one manual, which is a fair measure of how often the assumption gets made.",
+   "quote": "REMOVING THE MAGAZINE FROM THE RIFLE DOES NOT PREVENT THE RIFLE FROM BEING FIRED. IF A CARTRIDGE IS IN THE CHAMBER, THE “SAFETY” IS IN THE OFF SAFE POSITION, AND THE TRIGGER IS PULLED, THE RIFLE WILL FIRE EVEN IF NO MAGAZINE IS PRESENT IN THE RIFLE.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Magazine Capacity",
+   "warn": "An absent magazine is not an empty chamber."
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety rearward to on safe — the bolt unlock button is your way around it",
+   "action": "Draw the safety — behind the bolt handle on the receiver's right side, left side on a left-hand rifle — fully to the rear. On safe it indirectly blocks the trigger and also locks the bolt closed, which is why the XPR gives you a bolt unlock button between the bolt handle and the safety: press it down and you can lift and cycle the bolt to clear the chamber without ever leaving on safe. Use that button for every administrative bolt cycle in this guide rather than pushing the safety forward.",
+   "prose": "Forward exposes a red dot and the rifle will fire. There is no reason to visit that position on a cleaning bench, and the unlock button exists precisely so you never have to.",
+   "quote": "The bolt unlock button works in conjunction with the “safety” and allows the bolt to be operated to unload a cartridge from the chamber with the “safety” in the on safe position.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Bolt Unlock Button",
+   "warn": "Stay on safe. The bolt unlock button opens the action without coming off safe."
+  },
+  {
+   "phase": "Clear",
+   "title": "Read the cocking indicator with your thumb, not just your eye",
+   "action": "Find the cocking indicator at the rear of the bolt shroud. When the striker is cocked the indicator stands where it can be seen with a glance and felt with the thumb; after firing it retracts into the shroud and disappears. It is marked with a red dot, but Winchester warns in the same breath not to trust the color alone — years of weather and solvent can strip it. The mechanical protrusion is the reading; the paint is a reminder.",
+   "prose": "This matters at reassembly too: the bolt goes back into the receiver cocked, and the indicator is how you confirm that state before you try.",
+   "quote": "When the rifle is fired, the cocking indicator retracts into the bolt shroud and cannot be seen or felt.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Cocking Indicator"
+  },
+  {
+   "phase": "Clear",
+   "title": "The trigger and safety are not yours to alter",
+   "action": "Do not modify the trigger, the safety or any other part of the XPR's firing mechanism. Unlike the Model 70's manual, this book publishes no owner trigger adjustment at all — there is no published screw, no published range, nothing. Winchester backs the prohibition with consequences: it reserves the right to refuse service on altered rifles, and it disclaims aftermarket trigger systems specifically as parts that may not satisfy SAAMI minimum pull standards.",
+   "prose": "On this rifle the rule has no published exception. Anything that changes how the trigger breaks is a factory or gunsmith conversation.",
+   "quote": "DO NOT, UNDER ANY CIRCUMSTANCES, ALTER THE TRIGGER, \"SAFETY,\" OR OTHER PARTS OF THE FIRING MECHANISM OF THIS OR ANY OTHER FIREARM EXCEPT AS OTHERWISE DESCRIBED IN THIS MANUAL.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Firearm Safety, rule 25",
+   "warn": "No trigger, safety or firing-mechanism alterations — this manual publishes no exception for the XPR."
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out — unlock button, then the release bar on the side of the receiver",
+   "action": "With the safety on safe, press the bolt unlock button and rotate the bolt handle up. Find the bolt release — the horizontal bar on the left side of the receiver on a right-hand rifle, the right side on a left-hand one — press inward on its front, and draw the bolt straight back and out. Mind the exit: Winchester specifically warns that the cocking indicator can strike and damage the comb of the stock as the bolt clears the receiver, so lift the bolt slightly as it comes free.",
+   "prose": "The bolt should slide out with no drama at all. If it stops at the rear of its travel, your finger is not far enough forward on the release bar.",
+   "caution": "Watch the cocking indicator as the bolt exits — it can strike the comb of the stock.",
+   "quote": "Press inward on the front of the bolt release and carefully draw the bolt to the rear and out of the receiver.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Installing and Removing the Bolt — BOLT REMOVAL, step 3"
+  },
+  {
+   "phase": "Strip",
+   "title": "This bolt is fitted to this rifle — the etched number proves which one",
+   "action": "Keep the bolt with this rifle and never run another XPR's bolt in it. The bolt is factory-fitted to set this rifle's headspace and is etched with the rifle's tracking number so the pair can always be re-matched — check that etching now if more than one rifle is on the bench. A wrong bolt can close smoothly and still be headspaced wrong, and the manual's remedy for a lost or damaged bolt is to send the rifle back for a fitted replacement, not to buy a bolt.",
+   "prose": "The etched number is Winchester doing the bookkeeping for you. Use it.",
+   "quote": "To ensure your safety, never interchange bolts with another rifle, as they may not have the proper headspace.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Installing and Removing the Bolt",
+   "warn": "One bolt, one rifle — match the etched tracking number."
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the breech — snug patch, and keep the rod off the crown",
+   "action": "With the bolt out, run a snug-fitting patch on a rod into the barrel from the breech end and work it back and forth several times. Normal powder residue lifts with a patch saturated with nitro solvent. The reason the bolt came out first is exactly this: breech-end access, so the rod exits at the muzzle rather than entering there. Keep the rod centered as it works — the crown is the last surface the bullet touches, and a rod dragged across it will open your groups permanently.",
+   "prose": "A rifle that suddenly will not group after a cleaning session usually got its crown nicked in that session.",
+   "quote": "Use a cleaning rod with a slotted tip or a cleaning jag and a patch large enough for a snug fit in the bore. Insert the rod and patch into the barrel at the breech end and run it back and forth several times. Care should be exercised to ensure that the cleaning rod does not strike the crown of the muzzle, as damage to this area can affect the accuracy of your rifle.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Cleaning and Maintenance — CLEANING PROCEDURES, step 2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver interior — brush it out, then oil like you are rationing it",
+   "action": "Use a small brush or rag to lift dirt and grit out of the receiver interior and the action's other parts, then lubricate the moving surfaces with nothing more than a light film of quality gun oil. The prohibition on pouring is not fussiness: oil poured into an XPR receiver drains down into the stock, and softened stock material changes how the barreled action beds, which moves where the rifle shoots.",
+   "prose": "If you can see oil pooling, it is already too much. Wipe it back to a film, especially before cold weather, where excess oil stiffens and slows the striker.",
+   "quote": "NOTICE: DO NOT POUR LARGE QUANTITIES OF OIL INTO THE RECEIVER OR OTHER PARTS. IT CAN DRAIN INTO THE WOOD AND SOFTEN IT, CAUSING PERMANENT DAMAGE AND LOOSENING OF THE STOCK.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Cleaning and Maintenance — CLEANING PROCEDURES, step 5",
+   "warn": "Never pour oil into the receiver."
+  },
+  {
+   "phase": "Clean",
+   "title": "The published limit: nothing comes apart past what this book shows",
+   "action": "The bolt out of the receiver and the magazine out of the well is the entire published disassembly of an XPR. The bolt does not strip, the trigger group does not come out, and the barreled action stays in the stock — none of those procedures exist in this manual, and Winchester's closing notice says plainly that going past what is printed risks permanent damage. Deeper service is a qualified gunsmith or the Arnold, Missouri facility.",
+   "prose": "This is what makes the rest of this guide honest: everything above is printed, and there is nothing being skipped.",
+   "quote": "NOTICE: NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL. YOUR FIREARM IS A SPECIALIZED, FINELY FITTED MECHANISM. YOU MAY PERMANENTLY DAMAGE IT BY ATTEMPTING TO DISASSEMBLE THE INNER MECHANISM.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Cleaning and Maintenance — closing NOTICE",
+   "warn": "Bolt out, magazine out — that is the whole published strip. No further."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "In front of you should be the rifle with an empty receiver, the complete bolt — still assembled, because the XPR bolt has no published disassembly — and the detached magazine. Keep the bolt where its etched tracking number cannot get mixed with another rifle's. Deep Clean covers the heavy-fouling bore regimen including brush and copper solvent, the sealed-magazine cleaning procedure, and the exterior and stock care that keeps weather out of the metal.",
+   "prose": "Three pieces on the bench, none of them under spring load. This is as simple as bolt-rifle maintenance gets, by the maker's own design.",
+   "quote": "In addition, it is always advisable to remove the bolt before cleaning.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Installing and Removing the Bolt",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Brass brush for heavy fouling — push it all the way through first",
+   "action": "When patches stop lifting the fouling, move to a brass bore brush dipped or sprayed with nitro solvent and scrub the chamber and bore. The one rule of the brush: push it completely out of the muzzle before you reverse direction. Reversing bristles inside the bore folds them against their set and breaks them off, and a broken brass bristle lodged in a rifle bore looks exactly like the copper streak you were trying to remove.",
+   "prose": "Through, then back. Never turn the brush around inside the barrel.",
+   "quote": "If, or when, fouling should become heavy, it can be removed with a brass bore brush. Dip or spray the brush with nitro solvent and scrub the chamber and bore until the fouling is removed. To prevent brass bristles from breaking off, the brush should be pushed completely through the barrel before being withdrawn.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Cleaning and Maintenance — CLEANING PROCEDURES, step 2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Copper solvent for accuracy — and magnums need it more often",
+   "action": "Follow the powder solvent with a dedicated copper solvent, used to its own maker's instructions. Jacket copper plates onto the bore over a string of shots and a nitro solvent is not formulated to lift it — this is a second, different cleaning, not a stronger pass of the first. Winchester singles out magnum chamberings as needing more frequent inspection and cleaning, which follows from the velocity and the bore length the jacket is dragged through.",
+   "prose": "Watch the patches, not the calendar: blue-green means copper is still coming out.",
+   "quote": "To maintain the utmost accuracy of your rifle it is recommended you clean the bore with a copper solvent. Modern bullet jackets are made mainly of copper. Residues from copper bullet jackets stick to the barrel and require more frequent cleaning. Magnum calibers will require more frequent inspection and cleaning.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Cleaning and Maintenance — CLEANING PROCEDURES, step 2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry the bore, oil it lightly, then prove no patch stayed behind",
+   "action": "Once the fouling is out, wipe the chamber and bore dry, then pass one lightly oiled patch through for preservation — a fine, light gun oil, nothing heavier. Then do the step that catches the classic error: inspect the barrel and chamber to be certain no patch has been left inside. A forgotten patch is a bore obstruction, and this manual's own barrel-obstruction warning explains what even a small one does to pressures.",
+   "prose": "Look from the breech with light at the muzzle. It takes five seconds and it is the cheapest insurance in this guide.",
+   "quote": "Inspect the barrel and chamber to be certain no patches have inadvertently been left in them. Remove any that remain.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Cleaning and Maintenance — CLEANING PROCEDURES, step 4"
+  },
+  {
+   "phase": "Clean",
+   "title": "The magazine cleans as a sealed unit — spray, shake, dry",
+   "action": "Every 500 to 1,000 rounds, clean the magazine without opening it: spray it inside and out with a metal- and polymer-safe gun cleaning solvent to loosen debris, cover the loading port with a finger, shake it vigorously with the port pointed away from you, and let it air dry or blow it dry with compressed air. Winchester's notice is flat: do not disassemble the magazine. The box's feed geometry is not owner-serviceable, and the spray-and-shake routine is the entire published procedure.",
+   "prose": "The follower and feed lips are what time your feeding. Cleaning them without disassembly is the point of the method.",
+   "quote": "NOTICE: DO NOT DISASSEMBLE THE MAGAZINE.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Cleaning and Maintenance — CLEANING THE MAGAZINE",
+   "warn": "The magazine never comes apart. Spray, shake and dry it as a unit."
+  },
+  {
+   "phase": "Clean",
+   "title": "Exterior metal and wood — fingerprints are where rust starts",
+   "action": "Wipe every exposed metal surface with a lightly oiled cloth until the finger marks are gone — each print is a salt deposit that holds moisture against the finish. Re-oil the metal any time the rifle has been out in weather or handled a lot. Wood surfaces take either a lightweight gun oil or a quality furniture wax, one or the other, never both layered together.",
+   "prose": "The last thing your hands touch before the safe is the metal, so this wipe-down is always the final act, after reassembly.",
+   "quote": "Wipe all exposed metal surfaces with a lightly oiled cloth making certain that all finger marks are removed. Finger marks provide a place where moisture can accumulate.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Cleaning and Maintenance — CLEANING PROCEDURES, step 6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Muzzle brake, thread protector or suppressor — expect the zero to move",
+   "action": "If your XPR wears a muzzle brake, it likely came with a thread protector that can be installed in its place; either way, know that swapping what hangs on the muzzle changes the barrel's harmonics and with them the point of impact. A suppressor adds a second effect Winchester spells out: increased back pressure deposits extra fouling in the action, so the rifle needs cleaning more often while suppressed. Only install or remove muzzle devices on a rifle proven completely unloaded, magazine out, action open.",
+   "prose": "Re-zero after any muzzle-device change. The group did not move because you cleaned the rifle — it moved because the barrel's weight distribution did.",
+   "caution": "Suppressor use accelerates fouling — clean more often.",
+   "quote": "Whether using the thread protector, muzzle brake, or suppressor, be aware that your firearm’s point of impact may change as the harmonics of the barrel are affected when changing the weight at the end of the barrel.",
+   "cite": "XPR Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-070 — Muzzle Brakes and Suppressors"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Bolt out first — the XPR cleans from the breech end",
+    "Snug patch with nitro solvent on a rod, in from the breech, rod off the muzzle crown",
+    "Brass brush with nitro solvent only when fouling is heavy; push fully out of the muzzle before withdrawing",
+    "Copper solvent for accuracy; magnum chamberings more often",
+    "Wipe dry, then one lightly oiled patch for preservation",
+    "Confirm no patch remains in the bore or chamber"
+   ]
+  },
+  {
+   "name": "RECEIVER & ACTION",
+   "tasks": [
+    "Small brush or rag through the receiver interior and action parts",
+    "Light film of quality gun oil on moving surfaces — never pour",
+    "Excess oil wiped off, especially before cold weather",
+    "Oil that drains into the stock softens it and shifts the bedding"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Clean after roughly 500–1,000 rounds — do NOT disassemble",
+    "Spray inside and out with metal- and polymer-safe solvent",
+    "Finger over the loading port, shake vigorously with the port away from you",
+    "Compressed air or air dry"
+   ]
+  },
+  {
+   "name": "EXTERIOR & STOCK",
+   "tasks": [
+    "Wipe all exposed metal with a lightly oiled cloth; remove every fingerprint",
+    "Re-oil after weather or heavy handling",
+    "Wood: lightweight gun oil OR furniture wax — not both",
+    "Keep DEET repellents and sunscreen off the finishes"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Confirm the firing pin is cocked before the bolt goes back: the cocking indicator must be visible at the rear of the bolt. If it is not, turn the rear section of the bolt clockwise (viewed from the indicator end) until the firing pin sear engages the notch in the bolt handle.",
+  "Align the front of the bolt with the rear opening of the receiver.",
+  "Push the bolt completely forward and rotate the handle down to lock — the bolt release does not need to be pressed to insert the bolt, though pressing it can ease the way.",
+  "Immediately confirm the safety is in the on safe position.",
+  "Insert the empty magazine into the well until the magazine catch clicks it home.",
+  "Wipe down every external surface to lift the fingerprints you just left."
+ ],
+ "fncheck": "With the rifle unloaded and the magazine empty, look through the bore against a light and confirm it is clear with no patch left behind. Cycle the bolt several times using the bolt unlock button with the safety on safe, and confirm the bolt runs smoothly and the release bar arrests and frees it correctly. Confirm the cocking indicator stands proud at the rear of the bolt shroud after cycling — visible to the eye and readable with the thumb. Check the safety: rearward must block the trigger and lock the bolt closed; the bolt unlock button must free the bolt without the safety moving. Seat the empty magazine and confirm the catch holds it firmly and the release drops it into your hand. Leave the safety on safe."
+}

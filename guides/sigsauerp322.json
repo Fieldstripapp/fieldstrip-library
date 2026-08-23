@@ -1,0 +1,195 @@
+{
+ "row": "sigsauerp322",
+ "make": "SIG Sauer",
+ "model": "P322",
+ "sourcedFrom": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 (2023)",
+ "sourceSha256": "ef4d169d0b57f8dbf9ed4dde8c28293190bae25a65dee68cbad5c2d4356890e3",
+ "cleanIntro": "The P322 does not strip like SIG's centrefire pistols. It is a fixed-barrel blowback with an internal hammer, so the barrel stays on the frame and only the slide comes off — and on compensated pistols there is a part that must come off before the slide will.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Compensated or not, and where the optic manual sits",
+   "action": "Look at the muzzle end. If your P322 has a compensator fitted on the compensator adapter, it has to come off before the slide will, and that is a separate procedure. If it has a thread protector instead, leave the protector on — it is what retains the recoil spring and barrel bushing when the slide comes off.",
+   "prose": "This is the one place a P322 differs from itself. SIG's disassembly warning routes compensated pistols to the compensator section first, and its compensator section then says outright not to attempt removing the slide without the compensator adapter installed. Note also that SIG does not cover red dot adjustment in this book at all — for electro-optics you are sent to that sight's own manual, so nothing here tells you how to zero a ROMEOZero.",
+   "aside": "SIG's electro-optics statement: adjustments are handled in the operator's manual for your specific sight (8.0 Sights, General Information, p.88).",
+   "quote": "IF SLIDE HAS A COMPENSATOR REFER TO PAGE 69 TO REMOVE IT BEFORE REMOVING SLIDE ASSEMBLY.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.1 Pistol Disassembly, warning, p.52"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety on, magazine out",
+   "action": "Muzzle in a safe direction. Push up on the manual safety lever to engage the safety, then press the magazine catch and remove the magazine.",
+   "prose": "The P322 is single action only with a manual safety, and SIG puts engaging the safety ahead of removing the magazine in the unloading sequence. There is a mechanical reason to get the magazine out first regardless: the pistol cannot be disassembled with a magazine inserted.",
+   "quote": "Push up on manual safety lever to engage manual safety.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 5.1 Unloading the Pistol (Magazine Not Empty), step 2, p.45",
+   "warn": "Removing the magazine does not make the P322 safe. It will fire a chambered cartridge with the magazine out."
+  },
+  {
+   "phase": "Clear",
+   "title": "Rack out the chamber and check it",
+   "action": "Pull the slide completely to the rear while watching for a live cartridge to eject, lock the slide open on the slide catch lever, then look into the chamber, the breech face and the magazine well — and check them physically as well.",
+   "prose": "A .22 LR rim is small, dull and sits low in the chamber mouth; in anything but good light it does not look like brass. This is the step where the physical check earns its keep on a rimfire more than on a centrefire.",
+   "quote": "Pull the slide completely to the rear while watching for the ejection of a live cartridge.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 5.1 Unloading the Pistol (Magazine Not Empty), step 4, p.46"
+  },
+  {
+   "phase": "Strip",
+   "title": "Compensated models only — compensator off first",
+   "action": "If and only if your pistol wears a compensator: with a 2.5 mm drive bit, loosen the compensator screw and take the compensator off the compensator adapter. Leave the adapter itself on the barrel. If your pistol has a thread protector instead, skip this step entirely.",
+   "prose": "SIG's own note in this section is not to attempt removing the slide without the compensator adapter installed, and it sets a 300-round interval for pulling the compensator, insert and adapter for cleaning. The compensator is directly in the gas path and cakes faster than anything else on the pistol.",
+   "quote": "Use a 2.5 mm drive bit to loosen the compensator screw and remove compensator from",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.7 Compensator, Removal, step 1, p.69"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the thread protector is in place",
+   "action": "Before you go further, make sure the barrel thread protector — or the compensator adapter on a compensated pistol — is installed on the barrel.",
+   "prose": "That part is not decoration. It is what holds the recoil spring and barrel bushing captive when the slide comes off, and with it missing both are free to leave the barrel the moment the slide clears.",
+   "caution": "Eye protection on. The slide is under spring tension and the recoil spring runs on the barrel, not inside a captive assembly.",
+   "quote": "Ensure the barrel thread protector is installed on the barrel as it will retain the recoil spring and barrel bushing when the slide is removed.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.1 Pistol Disassembly, note, p.53"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown lever counterclockwise 90 degrees",
+   "action": "Rotate the takedown lever counterclockwise through a quarter turn. Note the direction — this is the opposite of SIG's centrefire pistols, where takedown is clockwise.",
+   "prose": "If you have stripped a P320 or a P365 your hands will want to turn this the wrong way. The lever will not move clockwise, and forcing it in that direction is how the detent gets damaged.",
+   "quote": "Rotate the takedown lever counterclockwise 90°.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.1 Pistol Disassembly, step 2, p.53"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide back, then up to unhook it",
+   "action": "Pull the slide back and then lift it up to unhook it from the frame. It is a two-part movement — rearward first, then up.",
+   "prose": "The P322 slide does not run off the front of the rails the way a locked-breech SIG does. It has to come back far enough for its hooks to clear the frame, and only then will it lift. Trying to lift it early just jams it on the frame.",
+   "quote": "Pull the slide back and then up to unhook it from the frame.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.1 Pistol Disassembly, step 3, p.54"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward off the barrel",
+   "action": "With the slide unhooked, guide it forward off the barrel and away. The barrel stays on the frame.",
+   "prose": "This is the point where a P322 stops resembling the rest of the line. The barrel is fixed to the frame — it is a blowback, so there is nothing to unlock — and it does not come off during a field strip at all.",
+   "quote": "Guide the slide forward and off of the barrel to remove.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.1 Pistol Disassembly, step 4, p.54"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Slide off, barrel and frame together, recoil spring and barrel bushing still captive on the barrel under the thread protector. That is the whole field strip.",
+   "prose": "Note what has not happened: no barrel removal, no recoil spring assembly in your hand. The internal hammer, the firing pin safety and the hammer safety intercept notch all stay in the frame. Clean it in this state — you will be cleaning the bore with the barrel still attached to the frame.",
+   "quote": "This level of disassembly is sufficient to allow a thorough cleaning after firing.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.1 Pistol Disassembly, note, p.54",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Read SIG's warning before you take a magazine apart",
+   "action": "Decide whether you actually need to. SIG's own note here is that magazine disassembly is not typically required for cleaning, that most cleaning can be done by pressing the follower and scrubbing the feed lips with a nylon brush, and that repeated disassembly accelerates wear on the floorplate.",
+   "prose": "That is a real limit, not boilerplate. The P322 floorplate is pried off rather than slid off, so every disassembly works the flange that retains it. Do this when the magazine genuinely needs it, and use the follower-and-feed-lips method the rest of the time.",
+   "quote": "Disassembly of the magazine is not typically required for cleaning.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.2 Magazine Disassembly, note, p.55"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pry the floorplate flange clear",
+   "action": "Empty the magazine. With a small flat tip screwdriver, carefully pry the flange of the floorplate away from the magazine body and hold that side unclipped while you release the other.",
+   "prose": "One side at a time, held as you go. The spring is compressed behind the floorplate, so the moment the second flange lets go the whole stack wants to leave — keep a thumb on it.",
+   "quote": "Using a small flat tip screwdriver or similar type tool, carefully use it to pry the flange of the",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.2 Magazine Disassembly, step 1, p.55",
+   "warn": "Eye protection. The magazine spring is compressed and an uncontrolled release can cause injury."
+  },
+  {
+   "phase": "Strip",
+   "title": "Spring, follower button and follower out",
+   "action": "Take the spring out of the bottom of the tube, then lower the follower and its button to the notch in the tube and remove the button. The follower then comes out of the bottom of the tube.",
+   "prose": "The button only passes through at the notch — that is the whole trick, and forcing it anywhere else damages the tube. Three parts come out in a fixed order and go back in the reverse of it.",
+   "quote": "Lower follower and follower button to notch in magazine tube and remove follower button.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.2 Magazine Disassembly, step 3, p.56"
+  },
+  {
+   "phase": "Clean",
+   "title": "Nylon brush the tube and follower",
+   "action": "Wipe the tube and follower with a cloth, then clean both with a nylon brush and CLP.",
+   "prose": "SIG specifies nylon for the P322 magazine, not the soft brush it names elsewhere. Rimfire fouling is waxy and sticks to the follower rails, and it is that drag rather than the spring that causes the last-round failures on a .22.",
+   "quote": "Wipe the magazine tube and follower with a cloth. Clean the magazine tube and follower with a nylon brush and CLP.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.3 Cleaning the Pistol, Magazine, step 1, p.60"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light oil on the spring only",
+   "action": "Put a light coat of CLP on the magazine spring. Leave the inside of the tube dry.",
+   "prose": "SIG oils the spring here and nothing else in the magazine. Oil inside a rimfire magazine collects the wax and grit that rimfire ammunition brings with it, and it ends up on the cartridges themselves.",
+   "quote": "Apply a light coat of CLP to the magazine spring.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.3 Cleaning the Pistol, Magazine, step 3, p.60"
+  },
+  {
+   "phase": "Strip",
+   "title": "Back together — follower, button, spring, floorplate",
+   "action": "Insert the follower into the tube so the follower button notch lines up, fit the button into the notch and slide it up to the top of the magazine, drop the spring into the tube, then compress the spring with the floorplate and snap it onto the tube.",
+   "prose": "Order matters and the notch is the gate — the button goes in there and nowhere else. The floorplate is a snap fit, so listen for it; if it seats without a snap the flanges have not engaged.",
+   "quote": "Compress magazine spring with floorplate and snap onto magazine tube.",
+   "cite": "SIG P322 ™ PISTOLS — P/N 3900163-01 REV 02 — 7.9 Magazine Assembly, step 4, p.79",
+   "warn": "You are compressing the spring again as the floorplate goes on. Guard the insert and spring and keep eye protection on."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "SLIDE ASSEMBLY",
+   "tasks": [
+    "Strip all old lubricant off before applying new",
+    "Cloth first, then a soft brush with CLP on heavy carbon",
+    "Extractor, rail slots and breech face free of dirt and residue — rimfire fouling builds on the breech face fast",
+    "Light coat of CLP in the frame rail slots of the slide",
+    "Lightly oil the external parts"
+   ]
+  },
+  {
+   "name": "BARREL (STILL ON THE FRAME)",
+   "tasks": [
+    "CLP patch from the chamber end out past the muzzle — never from the muzzle back",
+    "Let it soak to loosen residue and soften carbon",
+    "Correct-caliber bronze brush on a rod, then dry patches until they come out clean",
+    "Never a steel wire brush",
+    "Wipe the exterior with a CLP cloth; strip the oil back out of the bore before firing"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING",
+   "tasks": [
+    "Clean the spring with a cloth lightly coated in CLP",
+    "Light coat of CLP back on afterwards",
+    "Check it is still retained by the thread protector or compensator adapter before you refit the slide"
+   ]
+  },
+  {
+   "name": "FRAME ASSEMBLY",
+   "tasks": [
+    "Wipe the frame down with a cloth",
+    "Cotton swabs or a nylon brush into the corners; the frame rails get the attention",
+    "Light coat of CLP on the frame rails and the accessible moving parts",
+    "Wipe the magazine well clear of dirt, dust and residue"
+   ]
+  },
+  {
+   "name": "COMPENSATOR (COMP MODELS ONLY)",
+   "tasks": [
+    "SIG's interval is every 300 rounds for the compensator, insert and adapter",
+    "Rag moistened with CLP on the compensator body",
+    "Wire brush on the insert",
+    "Clear every trace of debris from the bottom of the compensator pocket before reassembly",
+    "Insert screw to 20 in-lbf, compensator screw to 20 in-lbf, both with a 2.5 mm drive bit"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Check the pistol is clear of all foreign matter, that the hammer is cocked, and that the takedown lever is in its correct UP position. The P322 will not go back together with the hammer down.",
+  "Guide the slide onto the barrel and press it rearward, compressing the recoil spring as you go.",
+  "Keep light downward pressure on the slide while pulling it rearward, and drop it onto the rails when it reaches the right position.",
+  "Once it is aligned on the guide rails, bring the slide forward and rotate the takedown lever clockwise 90 degrees.",
+  "Compensated pistols: refit the compensator to the adapter and tighten the compensator screw to 20 in-lbf with a 2.5 mm drive bit."
+ ],
+ "fncheck": "Magazine out, pistol unloaded and cleared, and the takedown lever horizontal before you start. Retract the slide completely and release; verify it returns fully to the closed position, and repeat. Then the trigger and safety: push the manual safety lever up and press the trigger — the hammer should not fall; push the lever down to disengage and the hammer should still not fall; then press the trigger and the hammer should fall. Finally the slide catch: insert an empty magazine, pull the slide fully back and release so the catch lever locks it open, remove the magazine, pull the slide slightly rearward so the catch drops and releases the slide, and confirm it closes fully."
+}

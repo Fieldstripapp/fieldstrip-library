@@ -1,0 +1,227 @@
+{
+ "row": "sigsauermcx",
+ "make": "SIG Sauer",
+ "model": "MCX",
+ "sourcedFrom": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "433c5aee048981434d0cb905b17c58a83a79131ee36d54ca32cfcd303328239f",
+ "cleanIntro": "SIG's own user-level strip for the SIG MCX, in SIG's order and no further. The MCX is not an AR despite the family resemblance: it runs a short-stroke gas piston with an op rod that comes out of the LEFT side of the bolt carrier, the carriage assembly pulls out as one unit by its recoil spring plate rather than riding a buffer tube, and the receivers separate at BOTH pins. The book stops the user at fourteen steps and says so in plain words. Everything past that — the gas valve, handguard and barrel — is published here too and is treated as the deep clean.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check you are holding the book's firearm: the plain SIG MCX, not the VIRTUS",
+   "action": "Before you follow anything below, confirm your rifle is a SIG MCX of the generation this manual covers. SIG publishes a separate manual for the MCX VIRTUS under a different part number (2402117-01); this book is P/N 2400509-01 and its own scope statement is quoted here.",
+   "prose": "This matters because the two books are not revisions of each other — they are different documents for different rifles, and the VIRTUS handguard and recoil system do not disassemble the way the pages below describe. This book states its own subject on its first content page, and it lists the configurations it speaks for across its specification tables: MCX PDW, MCX CQB, MCX TACTICAL PATROL, MCX PATROL and the MCX PISTOL. If the marking on your rifle or its paperwork says VIRTUS, stop and get that manual instead.",
+   "quote": "This manual is intended to provide the user with the information necessary to safely operate and perform authorized preventative maintenance at the user level on the SIG MCX series of rifles.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — Operator's Manual for the SIG MCX — scope statement, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Muzzle in a safe direction for the whole of clearing, then the magazine out",
+   "action": "Point the muzzle in a safe direction and keep it there. Depress the magazine catch with the index finger of your firing hand and pull the magazine free with your support hand at the same time.",
+   "prose": "SIG writes the safe-direction instruction as step one of clearing rather than as general advice, which is the right emphasis on this rifle: the MCX has an ambidextrous magazine catch, and a hand that finds the catch from the wrong side while the muzzle wanders is the whole failure mode. Press and pull together — do not press and wait for the magazine to drop.",
+   "quote": "Remove the magazine from the weapon by depressing the magazine catch with the index finger of the firing hand and simultaneously pulling the magazine free with the support hand.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 3.3 Clearing the SIG MCX, step 2, p.41",
+   "warn": "IF THE WEAPON IS DROPPED WITH THE BOLT ASSEMBLY LOCKED TO THE REAR AND A LOADED MAGAZINE INSTALLED IT COULD CHAMBER A ROUND."
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt to the rear on the bolt catch, charging handle returned and locked",
+   "action": "With the support hand, depress and hold the bottom portion of the bolt catch while pulling the charging handle briskly and fully to the rear with the firing hand. Let the bolt catch hold the carrier back, then push the charging handle forward until it locks. Selector on SAFE.",
+   "prose": "The charging handle must go back forward and lock before you do anything else — on the MCX it is a non-reciprocating ambidextrous handle, and leaving it half-open both fouls the receiver split later and hides the chamber from you. Note the order SIG uses: the catch is held BEFORE the handle is pulled, not caught afterwards.",
+   "quote": "Engage the bolt catch ensuring that the bolt carrier assembly remains locked to the rear and return the charging handle to its forward and locked position.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 3.3 Clearing the SIG MCX, step 3, p.42"
+  },
+  {
+   "phase": "Clear",
+   "title": "Inspect the chamber by eye, and by finger if the light is poor",
+   "action": "Look into the chamber and confirm there is no live round and no spent case. In darkness or reduced light, physically inspect it as well — and use a pen or similar implement rather than a finger if the gun has been fired recently.",
+   "prose": "A locked-back MCX under spring tension is a loaded spring with a hot chamber at the end of it. SIG's caution here covers both hazards at once, and the pen is not fussiness: the barrel extension holds heat long after the handguard feels cool.",
+   "caution": "THE BOLT CARRIER ASSEMBLY IS UNDER SPRING TENSION AND WILL SPRING FORWARD IF THE BOLT CATCH IS INADVERTENTLY DEPRESSED POSSIBLY CAUSING INJURY.",
+   "quote": "Inspect the chamber to ensure that there are no live rounds or spent cartridges present. In periods of darkness or reduced visibility it will be necessary to physically inspect the chamber.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 3.3 Clearing the SIG MCX, step 4, p.43"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cleared and on SAFE, sling off",
+   "action": "Clear the weapon and rotate the selector to SAFE. Remove the sling if one is attached.",
+   "prose": "The sling comes off first because the MCX has attachment points at several places on the handguard and stock, and a sling still clipped to the handguard turns the receiver swing in the next step into a hinge with a strap across it.",
+   "quote": "Clear the weapon and rotate selector to SAFE.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1 Field Strip the SIG MCX, step 1, p.57"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin out to its detent, receivers swung apart",
+   "action": "Push the takedown pin from left to right until it is stopped by the detent, then swing the receivers apart. If a collapsible stock is fitted, extend it to its longest position FIRST.",
+   "prose": "The pins on this rifle are captive to their detents — pushed left to right they stop rather than come out, so if a pin feels like it wants to keep going you are pushing the wrong one or from the wrong side. The stock instruction is the one that catches people: a collapsed stock leaves the receiver extension in the way of the swing, and forcing it there is how the lower gets marked.",
+   "quote": "With the collapsible stock installed, you must extend the stock to its longest position prior to separating the receivers.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1 Field Strip the SIG MCX, step 4, p.57"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle retracted, then the carriage assembly out by its recoil spring plate",
+   "action": "Retract the charging handle until it stops. Grasp the recoil spring plate and pull the carriage assembly out of the upper receiver — it comes out as one complete unit. Then remove the charging handle.",
+   "prose": "This is the step that most clearly separates the MCX from an AR. There is no buffer tube and no buffer spring in the stock: the recoil springs and their rods live in the upper behind the carrier, and the whole carriage — carrier, bolt, springs, plate — draws out forward as a single assembly. Pull on the plate, not on the bolt, or you will separate the assembly inside the receiver.",
+   "quote": "Grasp the recoil spring plate and pull the carriage assembly from the upper receiver. It will come out as a complete unit.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1 Field Strip the SIG MCX, step 6, p.58"
+  },
+  {
+   "phase": "Strip",
+   "title": "Receivers closed again, pivot pin out, receivers separated",
+   "action": "Close the receivers back together, push the pivot pin from left to right, and separate the upper from the lower.",
+   "prose": "Closing the receivers before pushing the second pin is not a flourish — the pivot pin only lines up with its bore when the two halves are square to each other, and levering at it on a hinged-open rifle is how the pin bore gets burred.",
+   "quote": "Close the receivers together and push the pivot pin from left to right and separate the receivers.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1 Field Strip the SIG MCX, step 8, p.58"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin lock off the bolt carrier",
+   "action": "Push the firing pin lock pivot pin from left to right and lift the firing pin lock off the bolt carrier.",
+   "prose": "The firing pin lock is a part an AR does not have, and it is matched to the hammer that was fitted at the factory. Keep it with this rifle's parts and do not let it wander into a box with another MCX's.",
+   "quote": "Push the firing pin lock pivot pin from left to right and lift the firing pin lock from the bolt carrier.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1 Field Strip the SIG MCX, step 9, p.58"
+  },
+  {
+   "phase": "Strip",
+   "title": "Op rod rotated up and out of the LEFT side of the carrier",
+   "action": "Rotate the op rod upward, then slide it out from the left side of the bolt carrier.",
+   "prose": "The op rod is the business end of the MCX's short-stroke piston system — it takes the piston's blow and hands it to the carrier through a dogleg. It only clears the carrier from one side and only at one angle, so rotate first and slide second; prying it rearward bends the dogleg that does all the work.",
+   "quote": "Rotate the op rod upward and slide it out from the left side of the bolt carrier.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1 Field Strip the SIG MCX, step 10, p.59"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin to detent, firing pin and spring out the back",
+   "action": "Pull the firing pin retaining pin out to its detent, then draw the firing pin and its spring from the rear of the bolt carrier. Leave the spring on the firing pin.",
+   "prose": "The MCX firing pin carries its own spring, and SIG explicitly tells you not to take the two apart unless you are replacing one. There is nothing to clean between them and the spring is easy to stretch getting it back on.",
+   "quote": "Pull the firing pin and spring from the rear of the bolt carrier. Do not remove the firing pin spring from the firing pin unless replacement is required.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1 Field Strip the SIG MCX, step 12, p.59"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin out, bolt out the front of the carrier",
+   "action": "Pull the cam pin from the bolt, then remove the bolt from the front of the carrier.",
+   "prose": "Cam pin then bolt, in that order and out the front — the bolt will not come rearward past the op rod interface. Note the cam pin for reassembly: SIG warns in its front-of-book cautions that an incorrectly installed cam pin can wreck the rifle and hurt the shooter, and it is the single easiest part to put back wrong.",
+   "quote": "Pull the cam pin from the bolt and remove the bolt from the front of the carrier.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1 Field Strip the SIG MCX, step 13, p.59",
+   "warn": "ENSURE THE CAM PIN IS PROPERLY INSTALLED IN THE BOLT CARRIER ASSEMBLY. SEVERE DAMAGE TO THE WEAPON AND INJURY OR DEATH TO THE OPERATOR COULD OCCUR."
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor off the bolt — and nothing beyond it",
+   "action": "Push the extractor pin out and lift the extractor off the bolt. Leave the extractor O-ring, the extractor spring and the extractor insert alone.",
+   "prose": "This is the last authorized step. The O-ring and insert under the extractor spring are a tuned stack; taking them out to clean them changes extraction tension and there is no published way to set it back at user level.",
+   "quote": "Push the extractor pin out and remove the extractor from the bolt. Do not remove the extractor O-Ring, extractor spring, or the extractor insert unless replacement is necessary.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1 Field Strip the SIG MCX, step 14, p.60"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore and chamber, from the chamber end and toward the muzzle",
+   "action": "Suppressor off. Drop the rod female end first through the bore from the chamber end, attach the handle, and pull a CLP-wet patch through toward the muzzle. Let the CLP stand to loosen fouling, then repeat with fresh patches.",
+   "prose": "SIG has you PULL rather than push, and the reason is in the same paragraph: a sectional rod pushed from the chamber end can bow and let the metal jag chew the chamber and the throat. The suppressor rule is absolute — patches and a can do not share a bore.",
+   "caution": "DO NOT USE WIRE BRUSHES ON ALUMINUM SURFACES SUCH AS THE UPPER/LOWER RECEIVERS AS THIS CAN SCRATCH THE FINISH.",
+   "quote": "Do not run patches through the bore with the suppressor attached.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 5.1.2 Cleaning the Bore and Chamber, p.66"
+  },
+  {
+   "phase": "Clean",
+   "title": "Carriage assembly — and more of it if you shoot suppressed",
+   "action": "Clean the bolt body, the carbon off the bolt lugs, the extractor hook, the recoil springs and rods, the cam pin, the firing pin and the bolt channel. Pay particular attention to the op rod's dogleg.",
+   "prose": "The piston system means the MCX bolt runs cleaner than a direct-impingement AR bolt, and SIG says so — but it also says a suppressor reverses that by driving back pressure into the action. Judge the interval by how you shoot it, not by round count.",
+   "quote": "Under normal operating conditions the MCX bolt does not require as much cleaning as an M4 bolt. However, when used with a suppressor attached the back pressure will produce more residue which will require attention.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 5.1.3 Cleaning the Carriage Assembly, p.68"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lubricate what SIG lists, and no more",
+   "action": "CLP on the op rod, the spring guide, the back of the bolt lugs and bolt body, the carrier contact surfaces, the cam pin, the recoil spring rods and springs, and the upper receiver channel. In the lower: selector, pin detent channels, fire control components.",
+   "prose": "The sights get a mention most people skip — a few drops under the front sight post base and detent keep folding sights from freezing, and the rear sight windage screw threads want the same. Flooding the firing pin recess of the bolt is the classic error and it shows up in the troubleshooting table as a cause of failure to fire.",
+   "quote": "Lubricate the upper receiver channel.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 5.2 Lubrication — Upper Receiver, p.70"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You have the lower receiver, the upper with barrel and handguard still fitted, the charging handle, and the carriage assembly broken down into carrier, bolt, cam pin, firing pin and spring, retaining pin, firing pin lock, op rod, recoil springs and plate, and the extractor. That is the whole of SIG's user level for the MCX.",
+   "prose": "The gas valve and piston, the handguard and the barrel are all published in this same section as 4.1.2 through 4.1.5, so they are available as a deep clean. Beyond those, SIG's own line is unambiguous, and its parts policy adds the reason: replacement parts on a firearm often need individual fitting, and a wrong part fitted by someone else is on you, not on SIG.",
+   "quote": "No further disassembly is authorized.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1 Field Strip the SIG MCX, after step 14, p.60",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Gas valve and piston out the front of the gas block",
+   "action": "Depress the stop pin. Rotate the gas valve until the flange on the valve is fully exposed, then pull the valve and the piston forward out of the gas block.",
+   "prose": "The two-position valve is the part that makes the same rifle run suppressed and unsuppressed, so it lives directly in the gas stream and carbons up harder than anything else on the gun. It only releases at one rotation — if the flange is not fully exposed it will not come forward, and levering on it damages the valve rather than freeing it.",
+   "quote": "Rotate the gas valve until the flange on the valve is fully exposed allowing the valve to be pulled forward out of the gas block.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1.2 Gas Valve and Piston Removal, step 2, p.61"
+  },
+  {
+   "phase": "Strip",
+   "title": "Handguard forward off the upper on the pivot pin",
+   "action": "Pull the pivot pin out to its detent, then pull the handguard straight forward off the upper receiver.",
+   "prose": "The MCX handguard is not clamped to a barrel nut — it is retained by the same pivot pin that joins the receivers, passing through a handguard link. That is why it has to come forward and why, on reassembly, the handguard must be pushed fully rearward before that pin will pass through anything at all.",
+   "quote": "Pull the pivot pin out to detent then pull the handguard forward off of the upper receiver.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1.3 Handguard Removal/Installation, p.61"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out — carriage assembly first, T27 on two captive screws",
+   "action": "With the carriage assembly already out, loosen the two barrel clamping screws from the right side of the upper with a T27 Torx wrench. They are captive and only need loosening. With the clamps clear of the barrel extension flange, pull the barrel straight out.",
+   "prose": "Straight out, not wiggled — the barrel extension is a close fit in the upper and rocking it works the aluminum, not the steel. If it will not come, SIG's own remedy is a one-inch wooden dowel through the rear of the upper and a tap, which tells you how tight a clean one can be.",
+   "caution": "Note: The carriage assembly must be removed prior to attempting barrel removal.",
+   "quote": "Pull the barrel straight out of the upper receiver. Do not wiggle it back and forth as this can damage the upper receiver.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1.4 Barrel Removal/Re-assembly, step 3, p.63"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Suppressor OFF before any patch enters the bore",
+    "Rod assembled to length with the jag; dropped female end first through the bore from the chamber end",
+    "CLP or rifle bore cleaner on the patch, pulled slowly toward the muzzle",
+    "Let the CLP stand in the barrel to loosen fouling",
+    "Bore brush pulled through several times, then a wet patch to carry off what it loosened",
+    "Fresh patches pulled until they come out clean",
+    "Chamber brush on the rod handle with a rod section through it as a T-handle; muzzle elevated so solvent does not run back into the clean bore",
+    "Plunging strokes and full 360 degree rotations in the barrel extension to reach the locking lug area"
+   ]
+  },
+  {
+   "name": "CARRIAGE ASSEMBLY",
+   "tasks": [
+    "Bolt body with solvent; carbon off the bolt lugs",
+    "Extractor hook",
+    "Recoil spring rods and recoil springs",
+    "Op rod, with attention to residue on the dogleg that engages the bolt carrier",
+    "Cam pin, and the op rod interface of the carrier",
+    "Firing pin spring; firing pin wiped down and the carbon cleaned from under its large flange",
+    "Bolt carrier body wiped down; bolt channel cleared of carbon"
+   ]
+  },
+  {
+   "name": "RECEIVERS AND CONTROLS",
+   "tasks": [
+    "No wire brushes on the aluminum upper or lower — it scratches the finish",
+    "Upper receiver channel cleaned and lubricated",
+    "Charging handle",
+    "Fire control selector, pivot and takedown pin detent channels, fire control components lightly lubricated with CLP",
+    "Sights: front and rear folded down, a few drops of CLP in the detent; under the front sight post base; rear sight windage screw threads"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Extractor assembly onto the bolt body.",
+  "Bolt into the front of the bolt carrier with the extractor oriented to the RIGHT side.",
+  "Cam pin in, aligned so the firing pin can pass through its hole.",
+  "Firing pin with its spring into the rear of the bolt until it stops; push in on it and seat the firing pin retaining pin — it must sit between the large flange of the firing pin and the firing pin head.",
+  "Firing pin lock onto the op rod; lift the lock and slide the op rod assembly into the carrier from the LEFT side.",
+  "Piston in through the gas block, then the gas valve: push in on the stop pin and rotate it until it locks into the gas block.",
+  "Upper to lower on the pivot pin, with the handguard slid completely rearward so the pin passes through the handguard link.",
+  "Carriage assembly into the upper receiver.",
+  "Receivers closed and the takedown pin pushed back into place."
+ ],
+ "fncheck": "Weapon clear. Insert an unloaded magazine. Retract the charging handle fully until the bolt locks to the rear, then press it forward to lock. Selector to SAFE. Press the magazine catch — the magazine should fall free. Press the bolt catch — the bolt should go forward. Press the trigger — the hammer must NOT fall. Rotate to SEMI, press and hold the trigger — the hammer falls. Retract the charging handle fully to cock, then slowly release the trigger — an audible click. With the trigger still held to the rear, pull the charging handle back and ease it fully forward: a click at the end of travel. Release the trigger."
+}

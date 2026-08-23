@@ -1,0 +1,84 @@
+{
+ "row": "weatherbyelement",
+ "make": "Weatherby",
+ "model": "Element",
+ "sourcedFrom": "ELEMENT™ SEMI-AUTOMATIC SHOTGUNS — Weatherby owner's manual — Element Semi-Automatic Shotguns owner's manual (not printed)",
+ "sourceSha256": "9d2e5b568106ce62ff20389312cba87218e3e3714c513e98814fddfe494c66c2",
+ "cleanIntro": "The Element strips with the bolt CLOSED, which is the opposite of Weatherby's own 18i — worth knowing before you stand there pressing a bolt release that does not need pressing. Magazine cap off, then the barrel and forearm come away as one assembly.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, fingers out of the trigger guard — the whole time",
+   "action": "Weatherby repeats this at the head of every disassembly section in every one of its books, and it is the instruction people skip because it sounds generic. It is not: the next step involves working a bolt on a gun you have not yet proven empty.",
+   "quote": "Keep the muzzle of the shotgun pointed in a safe direction, and keep your fingers out of the trigger guard and away from the trigger at all times.",
+   "cite": "ELEMENT™ SEMI-AUTOMATIC SHOTGUNS — Weatherby owner's manual — Element Semi-Automatic Shotguns owner's manual — DISASSEMBLY INSTRUCTIONS"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Close the bolt first — bolt release button",
+   "action": "Depress the bolt release button to CLOSE the bolt before anything else. This is the Element's own sequence and it is the reverse of the 18i's.",
+   "quote": "Close the bolt by depressing the bolt release button (refer to Closing the Bolt, page 16).",
+   "cite": "ELEMENT™ SEMI-AUTOMATIC SHOTGUNS — Weatherby owner's manual — Element Semi-Automatic Shotguns owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine cap counter-clockwise until it detaches",
+   "action": "Unscrew the magazine cap counter-clockwise until it comes away easily. If it is fighting you, the bolt is probably not closed.",
+   "quote": "Unscrew the magazine cap by turning it in a counter clock-wise direction until easily detached.",
+   "cite": "ELEMENT™ SEMI-AUTOMATIC SHOTGUNS — Weatherby owner's manual — Element Semi-Automatic Shotguns owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel and forearm forward as ONE assembly",
+   "action": "Slide the barrel and forearm assembly forward until it is clear of the magazine tube. They come as a unit on this gun — do not try to part them on the tube.",
+   "quote": "Remove the barrel and forearm assembly by sliding it forward (toward the muzzle) until clear of the magazine tube.",
+   "cite": "ELEMENT™ SEMI-AUTOMATIC SHOTGUNS — Weatherby owner's manual — Element Semi-Automatic Shotguns owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "Safety to SAFE before the trigger assembly",
+   "action": "Move the manual safety button to SAFE, then pull the bolt to the rear and ease it forward so the hammer is cocked.",
+   "quote": "Move the manual safety button to the “SAFE” position (refer to Manual Safety Operation, page 9).",
+   "cite": "ELEMENT™ SEMI-AUTOMATIC SHOTGUNS — Weatherby owner's manual — Element Semi-Automatic Shotguns owner's manual — DISASSEMBLY OF TRIGGER ASSEMBLY FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Hammer COCKED before the trigger group comes out",
+   "action": "Pull the bolt to the rear and release it so the hammer is cocked, and set the safety to SAFE. A trigger group taken out with the hammer down fights you going back in, and one whose trigger is pulled while it is out of the receiver lets the hammer fall on nothing.",
+   "quote": "Have the safety in the “ON” (“SAFE”) position while cleaning the trigger assembly. Do not pull the trigger while the trigger assembly is outside of the receiver.",
+   "cite": "ELEMENT™ SEMI-AUTOMATIC SHOTGUNS — Weatherby owner's manual — Element Semi-Automatic Shotguns owner's manual — DISASSEMBLY OF TRIGGER ASSEMBLY FROM RECEIVER"
+  }
+ ],
+ "deepAbsentReason": "Weatherby publishes barrel, forearm and trigger assembly and stops there. ⛔ No deeper path is invented.",
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER AND CHOKES",
+   "tasks": [
+    "Solvent and brush through bore and chamber, patches until clean",
+    "A final lightly oiled patch as a protective film",
+    "Chokes out, threads and seats cleaned before they go back",
+    "⛔ Nothing left in the bore — a patch is an obstruction"
+   ],
+   "quote": "Keep the muzzle of the shotgun pointed in a safe direction, and keep your fingers out of the trigger guard and away from the trigger at all times.",
+   "src": "Element owner's manual, DISASSEMBLY INSTRUCTIONS"
+  },
+  {
+   "name": "TRIGGER GROUP — dry, and with the safety ON",
+   "tasks": [
+    "Safety ON while the group is out and being cleaned",
+    "⛔ Never pull the trigger while the group is outside the receiver",
+    "Solvent on a brush, then blow or wipe dry — do not soak it",
+    "A trace of oil only where metal slides on metal"
+   ],
+   "quote": "Have the safety in the “ON” (“SAFE”) position while cleaning the trigger assembly. Do not pull the trigger while the trigger assembly is outside of the receiver.",
+   "src": "Element owner's manual, DISASSEMBLY OF TRIGGER ASSEMBLY FROM RECEIVER"
+  }
+ ],
+ "reassembly": [
+  "Safety ON, hammer cocked, trigger assembly back in the receiver.",
+  "Barrel and forearm assembly back onto the magazine tube as one.",
+  "Magazine cap on clockwise, finger tight.",
+  "Cycle the bolt several times, then function test."
+ ],
+ "fncheck": "Prove it empty at chamber and magazine tube. Cycle the bolt several times. Safety ON, trigger: nothing. Safety off, finger clear: nothing on its own; then the trigger drops the hammer. ⛔ Check the magazine cap is fully seated before the gun is used."
+}

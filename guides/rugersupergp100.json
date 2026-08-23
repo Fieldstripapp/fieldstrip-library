@@ -1,0 +1,119 @@
+{
+ "row": "rugersupergp100",
+ "make": "Ruger",
+ "model": "Super GP100",
+ "sourcedFrom": "Ruger Super GP100 Instruction Manual — PM501 (2019)",
+ "sourceSha256": "1da4dd3987d8143eed6638ffa11afc45033314ebbae0eed836b5b3d84d332340",
+ "cleanIntro": "The Super GP100 cleans without disassembly. Its own manual documents a fuller teardown, including a specified disassembly-pin size, on the Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm every chamber is empty",
+   "action": "Press the cylinder latch, swing the cylinder out, and check every chamber by eye and by finger.",
+   "prose": "This is the first line of the manual’s own disassembly section, in capitals, and it is worth the two seconds.",
+   "quote": "BE CERTAIN THE REVOLVER IS UNLOADED BEFORE DISASSEMBLY.",
+   "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 1, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Swing the cylinder out — that is all cleaning needs",
+   "action": "For routine cleaning nothing comes off this revolver. Swing the cylinder out and clean it where it stands.",
+   "prose": "Ruger’s cleaning instructions begin from the cylinder being open, not from a stripped gun.",
+   "quote": "To clean the revolver after firing, swing the cylinder out and clean the barrel from the muzzle",
+   "cite": "Ruger Super GP100 Instruction Manual — PM501 — Care and Cleaning, p.22",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Grip off",
+   "action": "With a properly fitting screwdriver remove the grip screw, remove the grip, and pull it downward off the cylinder frame.",
+   "prose": "Note this manual says cylinder frame throughout, not frame — the Super GP100 is described as a two-piece frame gun.",
+   "quote": "Using a properly fitting screwdriver, remove the grip screw. Remove the grip. Pull the grip downward off the cylinder frame.",
+   "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 2, p.20"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Pin the mainspring strut — a specified size",
+   "action": "Cock the hammer and insert a disassembly pin into the hole at the rear of the mainspring strut. Ruger names the sizes that work.",
+   "prose": "This manual is unusually specific about the tool, which is a gift — use it rather than guessing.",
+   "quote": "Any 0.095\" to 0.075\" pin or 5/64\" Allen wrench can be used as a disassembly pin.",
+   "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 3, p.20"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Mainspring assembly out",
+   "action": "Thumb on the hammer spur, squeeze the trigger and let the hammer go fully forward, then lift out the mainspring assembly.",
+   "prose": "The disassembly pin stays put until the assembly is back in the revolver.",
+   "caution": "Do not remove the disassembly pin until the mainspring assembly is reinstalled in the revolver at the time of reassembly. Doing so will permit the mainspring to fly off its strut with great force and may cause injury.",
+   "quote": "With your thumb on the hammer spur, squeeze the trigger allowing the hammer to go fully forward. Lift out the mainspring assembly.",
+   "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 4, p.20",
+   "warn": "Do not remove the disassembly pin until the mainspring assembly is reinstalled in the revolver at the time of reassembly. Doing so will permit the mainspring to fly off its strut with great force and may cause injury."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Hammer out",
+   "action": "Pull the trigger and remove the hammer pivot while holding the trigger rearward, then lift the hammer out of the top of the cylinder frame.",
+   "prose": "Different from the GP100, which has you strike the pivot pin — here it is removed while the trigger is held.",
+   "quote": "Pull the trigger and remove the hammer pivot while holding the trigger in a rearward position.",
+   "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 5, p.20"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Trigger guard assembly out",
+   "action": "Use the mainspring assembly itself to depress the trigger guard lock plunger inside the cylinder frame, and pull the trigger guard assembly down and out at the same time.",
+   "prose": "The mainspring assembly doubles as the tool here. If it will not give enough force, a correctly sized screwdriver through the frame hole does the same job.",
+   "quote": "Use the mainspring assembly to depress the trigger guard lock plunger located inside the cylinder frame at the rear of the trigger guard.",
+   "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 6, p.20"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Cylinder off the frame",
+   "action": "Cradle the cylinder frame, press the cylinder latch button, swing the cylinder assembly out and remove it forward.",
+   "prose": "Forward, off the crane, exactly as on the GP100.",
+   "quote": "press the cylinder latch button, swing out the cylinder assembly and remove it forward from the cylinder frame.",
+   "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 7, p.20"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Stop here",
+   "action": "End of the documented teardown. Beyond this is factory service.",
+   "prose": "The internal mechanism is meant to be lubricated without going further.",
+   "quote": "Further disassembly is not essential for normal cleaning purposes.",
+   "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 8, p.20"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Swing the cylinder out and clean the barrel from the muzzle with a solvent-coated patch, several passes",
+    "Push a correctly sized bronze wire brush the full length of the bore several times",
+    "Swab with a solvent patch again, wipe the rod, then dry-patch until clean",
+    "Examine the bore to be sure no fouling remains"
+   ]
+  },
+  {
+   "name": "CHAMBERS",
+   "tasks": [
+    "Repeat the bore procedure for each of the eight chambers",
+    "Clean the face of the cylinder and the underside of the ejector star"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wipe the frame, crane and cylinder exterior",
+    "Light oil only — do not flood the action",
+    "Wipe with an oily cloth if the revolver is going into storage"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Reverse the order you came apart in, and do not remove the disassembly pin until the mainspring assembly is back in the revolver.",
+  "Seat the grip and tighten the grip screw with a properly fitting screwdriver.",
+  "Close the cylinder and confirm it latches and indexes."
+ ],
+ "fncheck": "With every chamber confirmed empty, check the cylinder latches closed, indexes without unusual drag, and the revolver dry fires cleanly pointed in a safe direction."
+}

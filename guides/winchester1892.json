@@ -1,0 +1,228 @@
+{
+ "row": "winchester1892",
+ "make": "Winchester",
+ "model": "1892",
+ "sourcedFrom": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "3d6e7f86594284cd15943d111dd88b673ce56eadcb16f9518bd7eba5ddefd3f7",
+ "cleanIntro": "The current Model 1892 differs from its ancestor in two ways that shape everything below. It has a top-tang safety and a rebounding hammer — so unlike the 1873, there is a control to put on safe before you work, and the old dropped-hammer and half-cock positions are replaced by a rebound position the hammer finds on its own. And it comes in two builds: standard, and Takedown. On a standard rifle the published strip is the open action and nothing more. On a Takedown, the rifle separates into a barrel/forearm half and a receiver half through an interrupted-thread joint — a genuine two-piece takedown with three hard preconditions the maker prints as NOTICEs: the magazine must be empty (a single cartridge in the tube stops the takedown dead and forcing it causes damage), the action must be open, and the takedown lever must be turned out far enough before any rotation force goes into the barrel. Establish which rifle you own before you start, and never force the joint.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "This book is the Model 1892 only — and it covers two builds",
+   "action": "Confirm your rifle is a current-production Winchester Model 1892, then establish which build: standard, or Takedown. The Takedown announces itself by the folding takedown lever recessed in the end of the magazine tube under the muzzle, and by a second partial serial number on the receiver extension. Special editions add supplemental instructions that are used together with this manual.",
+   "prose": "Which build you own decides whether the Strip phase below is one step or six. Everything else — safety, hammer, unloading, cleaning — is identical for both.",
+   "caution": "Standard or Takedown? The takedown lever in the magazine tube end is the tell.",
+   "quote": "This owner’s manual is for Winchester ® Model 1892 ™ lever-action rifles only. Supplemental instructions for special edition Model 1892 rifles must be used in conjunction with the instructions found in this owner’s manual.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Front matter"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety rearward — the S visible means the hammer is blocked",
+   "action": "Slide the top-tang safety fully rearward with your thumb until the red warning dot is covered and the “S” shows. Understand precisely what it does: on safe blocks the hammer from reaching the firing pin, but it does not lock the trigger — pull the trigger on safe and the hammer still falls, harmlessly, to its rebound position. That behavior is by design, and it is what lets you cycle the action to unload with the safety never leaving on safe.",
+   "prose": "A hammer that falls on safe startles people who expect a locked trigger. On this rifle it is the mechanism working exactly as printed.",
+   "quote": "However, the “safety” does not prevent the hammer from falling when the trigger is pulled, even if the “safety” is in the on safe position. When the trigger is pulled, with the “safety” in the on safe position, the hammer drops to the rebound position without striking the firing pin.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Operation of the \"Safety\"",
+   "warn": "On safe blocks the hammer from the firing pin — it does not stop the hammer falling."
+  },
+  {
+   "phase": "Clear",
+   "title": "The rebounding hammer has two positions, and rebound is home",
+   "action": "Get familiar with the hammer before working the action: full-cock, where every lever stroke leaves it, and rebound, which replaces both the dropped and half-cock positions of the original design. After firing, the hammer moves to rebound on its own — it cannot rest against the firing pin. Rebound is the correct position at all times except when firing is imminent or immediately after cycling.",
+   "prose": "The rebound position is the design doing your hammer discipline for you — but only after you deliberately lower the hammer to it, which is the next step.",
+   "quote": "The rebounding feature of the hammer essentially eliminates the dropped hammer position. The hammer only travels to the dropped position momentarily after the trigger has been pulled with the hammer fully-cocked. The hammer then automatically moves to the rebound position.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Rebounding Hammer — HAMMER POSITIONS"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lowering the hammer: on safe first, thumb holding, brief trigger press",
+   "action": "To bring the hammer from full-cock to rebound, use exactly the printed sequence: confirm the safety is on safe, place your thumb on the hammer spur and hold the hammer back slightly, apply just enough trigger pressure to release it, then immediately remove your finger from the trigger and slowly ease the hammer down to the rebound position with your thumb. The on-safe safety is what makes this procedure forgiving on the 1892 — a slip still cannot reach the firing pin.",
+   "prose": "Compare the 1873, where the same operation happens with no safety in the system at all. Here the safety stands behind your thumb, and the procedure still assumes neither.",
+   "quote": "While holding the hammer back, apply just enough pressure on the trigger to release the hammer from the full-cock position (Figure 10). Immediately remove your finger from the trigger, then slowly and carefully allow the hammer to lower into the rebound position (Figure 11).",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Rebounding Hammer — LOWERING THE HAMMER, step 3",
+   "warn": "Safety on safe before the trigger is touched; finger off the instant the hammer releases."
+  },
+  {
+   "phase": "Clear",
+   "title": "Unload by cycling on safe — then look at three places",
+   "action": "With the safety on safe, unload by working every round through the action: swing the finger lever fully down to extract and eject the chambered round, capture it, close the lever, and repeat until nothing more ejects. Then open the action, depress the carrier, and look at the chamber, the feed mechanism and the magazine follower to prove the rifle empty. Finish by lowering the hammer to rebound.",
+   "prose": "The on-safe cycling is the 1892's signature clearing advantage: every one of those cartridges passes through the chamber with the hammer blocked from the firing pin the entire time.",
+   "quote": "When the “safety” is in the on safe position, it allows you to cycle the action and eject loaded cartridges from the magazine with the hammer blocked and unable to strike the firing pin.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Unloading",
+   "warn": "Every round passes through the chamber on its way out. Muzzle discipline, start to finish."
+  },
+  {
+   "phase": "Clear",
+   "title": "Flat-nose bullets only in the tube — and only the barrel's exact caliber",
+   "action": "Feed this rifle only flat nose, hollow point, round nose flat point or similar bullets — never pointed or conical ones. Cartridges stand primer-to-bullet-tip in the tubular magazine, and a pointed nose under recoil is a firing pin resting on the primer ahead of it. The caliber inscribed on top of the barrel just in front of the receiver is the only chambering this rifle accepts, in modern factory cartridges only.",
+   "prose": "The .44 Magnum 1892 shares a shop shelf with .44 rifle ammunition of every profile. The tube, not the chamber, is what rules the pointed ones out.",
+   "quote": "USE ONLY FLAT NOSE, HOLLOW POINT, ROUND NOSE FLAT POINT OR SIMILAR BULLETS. NEVER USE POINTED OR CONICAL POINT BULLETS IN A CENTERFIRE RIFLE WITH A TUBULAR MAGAZINE.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Ammunition",
+   "warn": "Pointed bullets in a tubular magazine can detonate the round ahead under recoil."
+  },
+  {
+   "phase": "Strip",
+   "title": "Standard rifle: the open action is the whole strip",
+   "action": "On a standard (non-Takedown) 1892, open the action by completely lowering the lever, and you have reached the full published disassembly. Cleaning happens through the open action and from the muzzle. If your rifle IS a Takedown, the next four steps separate it into two halves — the manual points you to that procedure from within its cleaning instructions.",
+   "prose": "The takedown steps that follow are variant-only. On a standard rifle, skip straight from here to the cleaning steps; there is nothing to detach.",
+   "caution": "Takedown steps apply ONLY to the Takedown build.",
+   "quote": "If your rifle is a takedown model you may disassemble it, as explained in Figures 24-27.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 2"
+  },
+  {
+   "phase": "Strip",
+   "title": "TAKEDOWN — the two preconditions: magazine empty, action open",
+   "action": "Before any takedown motion, satisfy the two conditions the maker prints as damage NOTICEs. First, the rifle must be completely unloaded — the takedown physically cannot happen with a cartridge in the magazine, and trying anyway damages the rifle. Second, open the action completely by working the finger lever fully downward — the bolt must be rearward or the bolt components take the damage instead.",
+   "prose": "Both preconditions protect the same joint: the magazine tube and follower thread out through the receiver, and anything left in the tube or any closed bolt is in the path.",
+   "quote": "NOTICE: THE RIFLE CANNOT BE TAKEN DOWN IF THERE IS A CARTRIDGE IN THE MAGAZINE. DAMAGE CAN OCCUR TO THE RIFLE IF YOU ATTEMPT TO TAKE DOWN THE RIFLE WITH A CARTRIDGE IN THE MAGAZINE.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Takedown Models — TAKEDOWN PROCEDURE, step 1 NOTICE",
+   "warn": "Magazine EMPTY and action OPEN before the takedown lever is touched."
+  },
+  {
+   "phase": "Strip",
+   "title": "TAKEDOWN — lever out of the tube end, then five full turns counter-clockwise",
+   "action": "Lift the takedown lever at the end of the magazine tube fully outward, away from the tube, so it becomes a crank handle. Rotate it counterclockwise at least five full turns — this backs the magazine tube and follower out of their engagement with the receiver. Count the turns rather than guessing: an under-turned tube is the usual reason the barrel later refuses to rotate.",
+   "prose": "The lever is the only tool the takedown needs, and it stores itself: folded flush along the tube when the rifle is together.",
+   "quote": "Rotate the takedown lever counterclockwise at least five full turns to disengage the magazine tube and magazine follower from the receiver (Figure 25).",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Takedown Models — TAKEDOWN PROCEDURE, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "TAKEDOWN — quarter-turn the barrel half clockwise and draw it off",
+   "action": "Grasp the pistol grip with one hand and the barrel/forearm half with the other. Rotate the barrel/forearm half clockwise 90 degrees to unlock the interrupted threads, then pull it straight away from the receiver. If it will not rotate, stop — do not add force. The manual's NOTICE names the two causes to check first: the action is not fully open, or the takedown lever has not been turned far enough for the tube and follower to clear the receiver.",
+   "prose": "An interrupted-thread joint either turns freely or is still engaged somewhere. Force never fixes the second condition; it only marks the mating faces that keep this joint tight.",
+   "quote": "NOTICE: IF THE BARREL/FOREARM WILL NOT ROTATE WITH RESPECT TO THE RECEIVER DO NOT APPLY EXTRA FORCE UNTIL YOU CONFIRM THE ACTION IS OPEN AND THE TAKEDOWN LEVER HAS BEEN TURNED SUFFICIENTLY TO DISENGAGE THE MAGAZINE TUBE AND MAGAZINE FOLLOWER FROM THE RECEIVER. APPLYING UNDUE FORCE WITH THE ACTION CLOSED COULD DAMAGE THE RIFLE.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Takedown Models — TAKEDOWN PROCEDURE, NOTICE before step 6",
+   "warn": "If the joint resists, verify action-open and lever-turns. Never force it."
+  },
+  {
+   "phase": "Strip",
+   "title": "TAKEDOWN — these two halves are married for life",
+   "action": "The barrel/forearm half in your hand belongs to this receiver and no other. The maker's NOTICE is unambiguous: barrels are not interchangeable with any other Model 1892, current or older. The rifle carries its own proof — the full serial number on the receiver's underside, and its last four digits repeated on the receiver extension just forward of the joint. Match them now if more than one Takedown lives in the house.",
+   "prose": "The interrupted threads are fitted to each rifle. Two 1892 Takedowns on the same bench is exactly when this NOTICE earns its capital letters.",
+   "quote": "NOTICE: THE BARREL/FOREARM HALF OF THE RIFLE MUST ONLY BE USED WITH THE RECEIVER HALF OF THE RIFLE IT WAS SOLD WITH. BARRELS ARE NOT INTERCHANGEABLE WITH ANY OTHER CURRENT OR OLDER MODEL 1892 RIFLE.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Takedown Models",
+   "warn": "One barrel half, one receiver half — match the serial digits at the joint."
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the muzzle — protect the crown with a guard",
+   "action": "Clean the bore from the muzzle with a rod, slotted tip or jag, and a snug caliber-correct patch, keeping rod and handle off the muzzle crown. A muzzle protector, sold separately, is the cheap way to make that automatic. On a Takedown with the halves separated the barrel is easier to handle at the bench — but the entry is still the muzzle.",
+   "prose": "The crown is the last steel the bullet touches. Everything else in this step is routine; that edge is what you are actually protecting.",
+   "quote": "Care should be exercised to ensure that neither the cleaning rod nor the handle strikes the crown of the muzzle, as damage to this area can adversely affect the accuracy of the rifle.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 2",
+   "warn": "Muzzle-end cleaning: use a muzzle protector if you have one."
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver, bolt and follower — dried oil out, light film back",
+   "action": "Wipe the receiver interior and the bolt with a clean rag, removing dried oil wherever it has gummed — the magazine follower is called out by name. Re-apply only a very light film of oil, and give special attention to the surfaces the maker names: the breech block, the lever components and the feed mechanism parts, especially clean and lightly oiled with a high-quality gun oil. Never pour: the stock wrist sits directly below the action.",
+   "prose": "The 1892's action is the smoothest of the classic Winchester patterns when clean, and every bit of that lives on the surfaces this step touches.",
+   "quote": "Make sure that the surfaces of the breech block, lever components and feed mechanism parts are especially clean and lightly oiled with a high-quality gun oil.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 7",
+   "warn": "Drops, not pours — oil that reaches the stock wood softens it permanently."
+  },
+  {
+   "phase": "Clean",
+   "title": "The published limit — deeper work is a gunsmith's",
+   "action": "The open action — plus, on a Takedown, the two-piece separation — is the entire published disassembly of the Model 1892. The maker's closing NOTICE bars going further, and its heavy-use instruction routes internal cleaning to a professional: after extended periods of heavy use, the action goes to a qualified gunsmith for disassembly, cleaning and lubrication.",
+   "prose": "The lever guns keep their toggle-and-locking-block hearts sealed. That boundary is what this guide honestly stops at.",
+   "quote": "NOTICE: NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL. YOUR FIREARM IS A SPECIALIZED, FINELY FITTED MECHANISM. YOU MAY PERMANENTLY DAMAGE IT BY ATTEMPTING TO DISASSEMBLE THE INNER MECHANISM.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Cleaning and Maintenance Suggestions — closing NOTICE",
+   "warn": "No disassembly beyond the printed procedure."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On a standard rifle: the 1892 with its action open, nothing detached. On a Takedown: two halves — barrel/forearm with the magazine tube, and receiver with the buttstock — with the takedown lever still out as the reminder that the joint is open. Deep Clean covers the solvent-and-brush bore regimen, the copper solvent pass, the exterior and wood care, and the reassembly torque of the takedown joint.",
+   "prose": "For storage, the Takedown's two halves case shorter than a scout rifle — the design's whole reason for being since 1892.",
+   "quote": "Your rifle is now taken down. To case or store the two halves of your rifle, return the finger lever to the closed position, return the takedown lever to the folded-down position flush with the bottom of the magazine, centered on the bottom of the magazine tube.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Takedown Models — TAKEDOWN PROCEDURE",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Brass brush for heavy fouling — through the bore before withdrawing",
+   "action": "When patches stop lifting the fouling, dip or spray a brass bore brush with solvent and scrub the chamber and bore until it releases. Push the brush completely through the bore before pulling it back — reversing mid-bore breaks bristles off, and each one is a small obstruction. A clean bore and chamber also feed and extract noticeably better on this action.",
+   "prose": "Through, then back. The rule costs nothing and the broken-bristle alternative is a stuck-case afternoon.",
+   "quote": "If, or when, fouling should become heavy, it can be removed with a brass bore brush. Dip or spray the brush with solvent and scrub the chamber and bore until the fouling is removed. To prevent brass bristles from breaking off, the brush should be pushed completely through the bore before being withdrawn.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 3"
+  },
+  {
+   "phase": "Clean",
+   "title": "Copper solvent — modern jackets shed copper and zinc both",
+   "action": "For accuracy, follow the powder solvent with a good copper solvent used per its manufacturer's procedure. The maker notes modern jackets are mainly copper and zinc, and both residues stick to the bore — a nitro solvent is not built to lift either. Watch the patch color to know when you are done: blue-green means metal is still coming out.",
+   "prose": "A .44 Magnum carbine pushes jacketed bullets fast enough to plate copper meaningfully. This is the pass that keeps the last inch of rifling honest.",
+   "quote": "To maintain the utmost accuracy of your rifle it is recommended you clean the bore with a copper solvent. Modern bullet jackets are made mainly of copper and zinc. Copper and zinc residue sticks to the bore and require more frequent cleaning.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry, one oiled patch, then prove no patch stayed behind",
+   "action": "Wipe the bore dry after the solvents, pass one lightly oiled patch of fine, light gun oil through for preservation, then inspect the barrel and action thoroughly to be certain no cleaning patch has been left inside. On the Takedown, do the check before the halves go back together, while the breech end is open to the light.",
+   "prose": "The takedown joint gives you the one thing a lever gun never normally offers — a straight look through the bore. Use it.",
+   "quote": "After fouling has been removed, wipe the bore dry. Then pass a lightly oiled patch through the barrel for preservation. A fine, light gun oil is recommended. The barrel and action should be inspected thoroughly to be certain no cleaning patches have been inadvertently left in them.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 5"
+  },
+  {
+   "phase": "Clean",
+   "title": "Takedown joint faces — clean and lightly oiled, never gritty",
+   "action": "On a Takedown, wipe the mating faces of the receiver extension and receiver clean whenever the rifle is apart, and keep them lightly oiled. The maker's reassembly troubleshooting names dirt and grit between those faces as the reason a barrel half refuses to rotate home — and the cure is cleaning both surfaces, never force. Grit ground into an interrupted-thread joint is how a takedown rifle loses its snug fit for good.",
+   "prose": "This joint is fitted steel running on fitted steel. Treat its faces like you treat the bolt lugs on a fine bolt gun.",
+   "caution": "A gritty joint face is the usual cause of a barrel that will not rotate home.",
+   "quote": "If the barrel/forearm will still not rotate, ensure there is no foreign matter (dirt, grit, etc.) between the faces on the receiver extension and receiver. Clean both surfaces and lightly oil them.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Takedown Models — ASSEMBLY PROCEDURE, step 6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Exterior metal and wood — prints off, film on, one wood system",
+   "action": "Wipe all exposed metal of the receiver, forearm and barrel free of fingerprints and dried oil, then lay back a light film of gun oil — renewed any time the rifle is handled or weathered, because the polished, finely fitted surfaces of this action must always carry it. Wood takes fine oil or a quality furniture polish, one system, never both.",
+   "prose": "Blued octagon-look barrels and case-colored receivers show every neglected fingerprint. The wipe is thirty seconds; the etch is forever.",
+   "quote": "Remember, the polished, finely fitted surfaces of the receiver and action mechanisms must always have a thin film of oil.",
+   "cite": "Model 1892 Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 25-WRA-086 — Cleaning and Maintenance Suggestions — CLEANING PROCEDURES, step 7"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Action open, rifle proven empty — the 1892 cleans from the MUZZLE",
+    "Snug caliber-correct patch on a rod; muzzle protector recommended for the crown",
+    "Solvent patch for powder fouling; brass brush pushed fully through when heavy",
+    "Copper solvent pass for jacketed-bullet accuracy",
+    "Wipe dry, one lightly oiled patch, confirm no patch remains"
+   ]
+  },
+  {
+   "name": "RECEIVER & ACTION (through the openings)",
+   "tasks": [
+    "Wipe receiver interior and bolt clean of dried oil — follower included",
+    "Breech block, lever components and feed parts: especially clean, lightly oiled",
+    "Very light film of oil only — never pour, the stock wrist is below",
+    "TAKEDOWN: wipe and lightly oil the receiver-extension and receiver mating faces"
+   ]
+  },
+  {
+   "name": "EXTERIOR & WOOD",
+   "tasks": [
+    "All exposed metal wiped free of fingerprints, then a light oil film",
+    "Re-oil after weather or handling",
+    "Wood: fine oil OR furniture polish — never both",
+    "TAKEDOWN storage: lever closed, takedown lever folded flush and centered on the tube"
+   ]
+  }
+ ],
+ "reassembly": [
+  "TAKEDOWN only — standard rifles: simply close the lever and lower the hammer to rebound. Otherwise:",
+  "Open the action completely with the finger lever — assembly with the action closed damages the bolt components, the same NOTICE as takedown.",
+  "Lift the takedown lever out and confirm the magazine tube and follower are NOT protruding from the receiver extension, rotating the lever counterclockwise if they are.",
+  "Hold the pistol grip in one hand and position the barrel/forearm half 90° to the left of the receiver.",
+  "Insert the threaded barrel extension into the receiver until the receiver extension and receiver make light contact.",
+  "Rotate the barrel/forearm half clockwise 90° to lock — very little force should be needed. If it resists, clean and lightly oil the mating faces rather than pushing harder.",
+  "Extend the takedown lever and turn it clockwise to seat the magazine tube snug — do not overtighten.",
+  "Fold the takedown lever flush along the bottom of the magazine tube, rotating it into center alignment.",
+  "Close the finger lever, confirm the safety is on safe, lower the hammer to rebound, and wipe down the exterior."
+ ],
+ "fncheck": "With the rifle proven completely unloaded, cycle the finger lever several times and confirm the action runs smoothly and closes fully. Check the safety both ways: with the S exposed, pulling the trigger must drop the hammer only to rebound with no firing-pin strike possible; forward must expose the red dot. Bring the hammer to full-cock and lower it to rebound by the published thumb-on-spur procedure, confirming the rebound position holds the hammer clear of the firing pin. On a Takedown: confirm the joint is fully locked — barrel half immovable, takedown lever folded flush and centered — and that the last-four serial digits at the joint match the receiver. Look through the bore against light and confirm it is clear with no patch left behind. Leave the chamber empty, the hammer at rebound, the safety on safe."
+}

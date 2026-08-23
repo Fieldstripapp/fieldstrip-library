@@ -1,0 +1,144 @@
+{
+ "row": "glock49",
+ "make": "Glock",
+ "model": "49",
+ "sourcedFrom": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 (2024)",
+ "sourceSha256": "fe859f837d7794f876f0e8b45b91bd0959415f30673ea725435d755a8a437873",
+ "cleanIntro": "GLOCK’s own field strip, in the order GLOCK requires. Four components come apart and nothing more — anything past that is armorer work.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Order matters — GLOCK says so",
+   "action": "Before anything else: unload all magazines and clear live ammunition from the area, and put safety glasses on.",
+   "prose": "GLOCK states the disassembly must be performed in this order to guarantee the pistol is unloaded. Skipping ahead is what the order exists to prevent.",
+   "quote": "To ensure that your GLOCK pistol is unloaded, disassembly MUST be performed in this order.",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, p.22",
+   "warn": "Always wear safety glasses when disassembling your GLOCK pistol to protect your eyes from serious injury that could be caused by components that are under pressure, such as springs."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Remove the magazine by pressing the magazine catch.",
+   "prose": "Feeding source first, every time.",
+   "quote": "Remove the magazine by pressing the magazine catch",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 1, p.22"
+  },
+  {
+   "phase": "Clear",
+   "title": "Rack it to eject anything in the chamber",
+   "action": "Hold the grip with your firing hand, finger off the trigger and outside the guard. Grasp the rear of the slide at the serrations and pull it fully back to eject any cartridge in the chamber.",
+   "prose": "A cartridge can be in the chamber whether or not a magazine is present. That is the whole reason this step is separate from the last one.",
+   "quote": "pull the slide fully back to eject any cartridge that may be in the chamber",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 2, p.22"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide open",
+   "action": "Push up on the slide stop lever and slowly release the slide from fully rearward until it locks open.",
+   "prose": "Slowly. Letting it snap can drop it past the notch.",
+   "quote": "Lock the slide in the rearward (open) position by pushing up on the slide stop lever",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 3, p.22"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look AND feel — chamber and magazine well",
+   "action": "With the slide locked back, inspect both the chamber and the magazine well, by eye and with your finger, to be certain no ammunition remains in either.",
+   "prose": "GLOCK is explicit that the loaded chamber indicator is a mechanical device that can fail, and must never be relied on alone.",
+   "quote": "both visually and physically (with your finger) inspect both the chamber and the magazine well of the pistol to be sure that no ammunition remains in either place",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 4, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward, then pull the trigger",
+   "action": "Release the slide forward, point the muzzle in a safe direction, and pull the trigger.",
+   "prose": "The Safe Action design will not release the slide until the striker is down. You verified the chamber twice above; that is what makes this safe.",
+   "quote": "With the muzzle of your GLOCK pistol pointed in a safe direction (a safe direction is one in which no one can possibly be injured in the event of an unintentional discharge), pull the trigger.",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 6, p.22",
+   "warn": "If the trigger is in the forward position, on your GLOCK pistol may be loaded."
+  },
+  {
+   "phase": "Strip",
+   "title": "Retract about 1/8 inch — no further",
+   "action": "Using your fingers, retract the slide about 1/8 inch.",
+   "prose": "An eighth of an inch. Pull it back further and the trigger resets, and the slide lock will not come down.",
+   "aside": "If you pull the slide too far to the rear, it will reset the pistol's trigger to the forward position. If this happens, pull the trigger again while keeping the muzzle of your GLOCK pistol pointed in a safe direction",
+   "quote": "Using your fingers, retract the slide (1) about 1/8 in. / 3mm and hold it in this position",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 8, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide lock down, evenly, both sides",
+   "action": "With the thumb and index finger of your non-firing hand, pull the slide lock down evenly on both sides.",
+   "prose": "Evenly is the operative word — cocking one side jams it in its channel.",
+   "quote": "pull the slide lock",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 9, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward off the frame",
+   "action": "Holding the slide lock down, push the slide forward and off the frame.",
+   "prose": "It comes off the front, taking the barrel and recoil spring assembly with it.",
+   "quote": "While holding the slide lock down, push the slide forward and off of the frame",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 10, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring assembly out",
+   "action": "Press the recoil spring assembly toward the muzzle end of the slide while pulling it up and out.",
+   "prose": "Forward first to unseat it, then up. It is under tension — this is what the safety glasses are for.",
+   "caution": "Spring under tension. Keep it pointed away from your face.",
+   "quote": "Press the recoil spring assembly",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 11, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out — four components, done",
+   "action": "Hold the barrel by its locking cams, lift it, push it toward the front of the slide, then pull it up and toward the rear to free it.",
+   "prose": "Slide, barrel, recoil spring assembly, frame. That is GLOCK’s complete field strip, and it is as far as the manual goes.",
+   "quote": "Holding the barrel by the barrel locking cams, lift it and push it toward the front of the slide and then pull it up and toward the rear to remove it from the slide",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 12, p.23",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The GLOCK manual documents field stripping into its four major components (slide, barrel, recoil spring assembly, frame) and publishes nothing beyond it — every fault past that point is routed to a GLOCK-Certified Armorer. This listing therefore has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Run a solvent-wet patch through the bore, then a correctly sized brush, then dry patches until clean",
+    "Wipe the feed ramp and the barrel locking cams",
+    "A light pass of oil on the barrel exterior; nothing pooled"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Scrub the breech face and around the extractor",
+    "Clean the slide rails",
+    "Wipe the striker channel DRY — no oil in an ignition channel",
+    "One drop of oil on each rail groove"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING ASSEMBLY",
+   "tasks": [
+    "Wipe it down; no solvent soak needed",
+    "Check the spring for kinks and the end cap for looseness"
+   ]
+  },
+  {
+   "name": "FRAME & MAGAZINES",
+   "tasks": [
+    "Brush the frame rails and the locking block area",
+    "Wipe the trigger bar and connector",
+    "Magazine bodies stay dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Seat the barrel into the slide, then the recoil spring assembly against the barrel lug.",
+  "Run the slide onto the frame rails and pull it fully rearward — it locks in automatically.",
+  "Rack the slide several times; it should run smooth with no grit."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, point in a safe direction: pull the trigger (click), hold it back, rack the slide, and ease the trigger forward until it resets."
+}

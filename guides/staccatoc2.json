@@ -1,0 +1,201 @@
+{
+ "row": "staccatoc2",
+ "make": "Staccato",
+ "model": "C2",
+ "sourcedFrom": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms (cached from a 2020 capture of staccato2011.com)",
+ "sourceSha256": "4a637d79be22e951198dcd50a5957912406df6ef4f0fceaed08eca8a4ab815e9",
+ "cleanIntro": "A 2011 double-stack, and the manual's own framing is the useful one: this is a precision assembly and only high-quality tools should be used on it. ⛔ THE TOOL LIST IS PART OF THE PROCEDURE — safety goggles, a 5/32\" hex wrench, a 1/8\" steel punch, lint-free cloths, a bushing wrench and, on Recoil Master guns, the plastic TAKE DOWN tool that came in the box. ⛔ AND THE MAKER SETS TWO INTERVALS: clean and lubricate whenever it is shot, and ⛔ THE LOWER END COMES APART AND IS CLEANED EVERY 3,000-4,000 ROUNDS — which is a gunsmith-level job, not this guide's.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine and chamber, before anything is touched",
+   "action": "Muzzle safe, finger off the trigger. Remove the magazine and any ammunition from the chamber before any part of the disassembly begins. Then put safety goggles on.",
+   "prose": "The goggles are in the manual's own warning, not an afterthought — every branch of this strip has a spring under compression in it.",
+   "quote": "Always remove the magazine and any ammunition in the firearm's chamber before disassembly. Always wear safety goggles during disassembly and reassembly to protect your eyes while handling springloaded parts.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Clear",
+   "title": "A clean, lint-free surface with room to lay parts out",
+   "action": "Work on a clean, stable surface with enough room to put removed parts down without them getting in the way, and lay a lint-free cloth over it.",
+   "prose": "The cloth is to protect the finish, and the space is so a small part does not get pushed off the bench. Read the whole procedure through before starting — the manual asks for that too.",
+   "aside": "Read through the entire disassembly procedure before attempting to disassemble any of the STI model handguns.",
+   "quote": "To prevent damage to the firearm, disassemble the firearm on a clean, lint-free cloth.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ FIRST: which recoil system is on your pistol?",
+   "action": "Look at the muzzle end. A hex socket in the guide rod means a two-piece guide rod — loosen it with a 5/32\" hex wrench and pull it out toward the muzzle before anything else. A plain plug or a Recoil Master means leave it for now and go to the slide stop.",
+   "prose": "⛔ The manual notes that most STI models have a one-piece assembly and the two-piece is a 6\" thing. Establish which you have before the strip has a defined order.",
+   "quote": "Insert 5/32\" Hex wrench into the hex head of Outer Guide Rod below the muzzle. Loosen the Guide Rod by turning counterclockwise.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ SECOND notch from the muzzle — not the first",
+   "action": "Hold the pistol by the grip and pull the slide back until the DISASSEMBLY notch — the SECOND notch from the muzzle end — lines up with the rear of the slide stop on the left side. Hold it there.",
+   "prose": "⛔ The first notch is the slide-lock notch and it is not the one. This is where people spend ten minutes wondering why the slide stop will not move.",
+   "quote": "Pull the slide back until the disassembly notch on the slide (the second notch from the muzzle end) aligns with the rear of the slide stop on the left-hand side of the handgun.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Push the slide stop out from the RIGHT",
+   "action": "Keeping the notch aligned, push against the extended portion of the slide stop on the RIGHT-hand side of the pistol and take it out. Keep a firm grip on both slide and frame while you do it.",
+   "prose": "The manual adds the detail that solves the stubborn ones: the slide stop has to be pushed down into its lowest position before it will come out.",
+   "quote": "The slide stop must be pushed down into its lowest position before it can be removed.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward off the frame — restrain the spring",
+   "action": "Take the slide assembly forward off the frame with a firm grip. On a 6\" gun with a two-piece guide rod, restrain the recoil spring with the fingers of the hand holding the slide as the assembly comes off.",
+   "prose": "⛔ The manual flags this as the step that might involve a spring under compression leaving the gun. Eye protection is already on.",
+   "quote": "Wear eye protection! The next step might require the removal of a spring under compression.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ RECOIL MASTER: use the TAKE DOWN tool from the box",
+   "action": "If the pistol has a Recoil Master: turn the slide over, push the guide rod head with your thumb to compress the springs fully, and insert the plastic TAKE DOWN tool between the guide rod head and the front of the spring tube. Then pull the captured assembly rearward out of the slide.",
+   "prose": "⛔ On a bushing-barrel gun the tool has to be ROTATED to clear the bushing, and rotated TOWARD THE BARREL SIDE so the assembly clears the barrel link. Getting that wrong is what makes it feel jammed. (3\" guns need no tool.)",
+   "quote": "If your firearm has a bushing barrel system the TAKE DOWN tool must be rotated to clear the bushing. In order for the recoil assembly to clear the barrel link the TAKE DOWN tool must be rotated towards the barrel side.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Barrel: link FORWARD first, then out the muzzle",
+   "action": "Hold the slide upside down and rotate the barrel link to the FORWARD position. Then lift the barrel with a finger through the ejection port and slide it out of the muzzle end.",
+   "prose": "⛔ The manual is explicit that the barrel cannot come out with the link back, and that forcing it damages the slide. Always link-forward first.",
+   "quote": "The barrel cannot be removed from the slide assembly without the barrel link in the forward position. Always do this procedure before attempting to remove the barrel, to prevent damage to the slide.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Clean",
+   "title": "Slide and frame with a NYLON brush and solvent",
+   "action": "Scrub the powder residue off the slide with a nylon brush and cleaning solvent, then do the same to the frame. Pay attention to the rails on both — that is where the wear shows.",
+   "prose": "Nylon, not brass, on the frame and slide of a fitted gun. And ⛔ the manual bans one product by name: do not use brake cleaner.",
+   "aside": "High-Quality Cleaning Solvent (Do not use brake cleaner)",
+   "quote": "Clean slide using a nylon brush and cleaning solvent; scrub away any powder residue, particularly",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Cleaning, printed pp.32-33"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore: pad, then brush, then pad again",
+   "action": "Saturate a cotton pad with solvent, attach it to the bore rod and make several passes. Then the bore brush, saturated with solvent, several passes. Inspect and repeat as needed. Finish with a clean saturated pad.",
+   "prose": "⛔ Keep the bore brush WET with solvent throughout — the manual gives the reason, which is damage to the bore and to a compensator if the pistol has one.",
+   "quote": "Always keep the bore brush saturated with cleaning solvent to prevent damage to the bore and/or compensator",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Cleaning, printed pp.32-33"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Oil, not grease — and a light coat everywhere",
+   "action": "Clean all the springs, pins and other components with solvent and wipe them dry with a lint-free cloth. Then a light coating of high-quality lubricating oil on all moving parts, and a very light coat on all external steel to keep corrosion off.",
+   "prose": "⛔ Grease is refused by name in this book. On a double-stack 2011 with close-fitted rails, grease holds the grit the oil would carry away.",
+   "quote": "Apply a light coating of high-quality lubricating oil to all moving parts and reassemble the handgun.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Cleaning, printed pp.32-33"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ When to clean it — the maker's own four triggers",
+   "action": "Clean and lubricate: before firing it for the first time; after any disassembly, because stripping removes the lubrication; after shooting; and before and after storing it.",
+   "prose": "⛔ The second one is the one people miss. Taking the pistol apart takes the oil with it, so it goes back together lubricated whether or not it was fired.",
+   "quote": "After disassembling the firearm. Disassembly removes lubrica- tion from the moving parts and",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: General Care, printed p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — and the lower is NOT your job",
+   "action": "Frame, slide, barrel, recoil assembly, slide stop. The firing pin and extractor are published and are the DEEP CLEAN below.",
+   "prose": "⛔ What is NOT here: the lower end. The manual sets its own interval for that — every 3,000-4,000 rounds — and it is a strip this guide does not teach, because the book gives an interval and not a procedure for it.",
+   "quote": "The lower end should be disassembled and cleaned every 3,000-4,000 rounds.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: General Care, printed p.31",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "⛔ Eye protection, and point the firing pin somewhere safe",
+   "action": "Before the firing pin comes out: goggles on and the slide positioned with the firing pin aimed in a safe direction. It can leave the slide unexpectedly.",
+   "prose": "⛔ A firing pin under its own spring is small, hard and fast. This warning is printed on its own line in the manual for that reason.",
+   "quote": "Wear eye protection! This step requires the removal of a spring under compression. Before removing the firing pin and stop, position the slide with the firing pin pointing in a safe direction.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Deep",
+   "title": "Depress with a 1/8\" punch, retain with a finger",
+   "action": "Grasp the rear of the slide and depress the end of the firing pin with a 1/8\" punch until it clears the hole in the firing pin stop. Put a finger over the firing pin to retain it, then slide the stop off its rails.",
+   "prose": "The manual offers a one-motion version: rotate the punch inside the firing pin stop's hole to walk the hole away from the pin.",
+   "quote": "Push down on the firing pin sufficiently to release it from the hole in the firing pin stop.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Deep",
+   "title": "Pin out, spring off by turning CLOCKWISE",
+   "action": "Release the pressure slowly and take the firing pin out. Then take the firing pin spring off the pin by turning the pin clockwise and pulling.",
+   "prose": "Clockwise, because the spring's last coil is wound onto the pin's collar. Pulling straight stretches the coil.",
+   "quote": "Remove the firing pin spring from the firing pin by turning the firing pin clockwise and pulling off the spring.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Deep",
+   "title": "Extractor: press the front, then pull it out the back",
+   "action": "Hold the slide with the muzzle toward you and the underside up. Press firmly against the FRONT of the extractor with the 1/8\" punch, pushing the tip toward the side of the breech until it passes the extractor cut at the back of the breech face. Then turn the slide over and pull the extractor out of the back.",
+   "prose": "Two movements, in that order. The extractor is a long spring-steel bar and it has to clear its own cut before it will come rearward.",
+   "quote": "Push the tip of the extractor towards the side of the breach while depressing the extractor tip, until the extractor passes the extractor cut located at the back of the breach face.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Disassembly, printed pp.20-27"
+  },
+  {
+   "phase": "Deep",
+   "title": "Clean what the strip exposed, then rebuild in reverse",
+   "action": "Clean the carbon out of the extractor channel and off the extractor itself, and clean the firing pin channel with a dry swab. Wipe everything dry, then reassemble by reversing the procedure.",
+   "prose": "⛔ Keep the firing pin channel DRY. It is the one place in a 1911 or 2011 where oil reliably collects carbon into a paste and gives light strikes.",
+   "quote": "Clean all springs, pins and other components with cleaning solvent and wipe them dry with a lint-free cotton cloth.",
+   "cite": "STI Handgun Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Safety Reference & Owner's Manual — All STI 1911 & 2011 Firearms — Handgun Maintenance: Cleaning, printed pp.32-33"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Solvent pad, then a bore brush kept SATURATED throughout",
+    "Inspect and repeat until the bore is clean",
+    "A pass with a lubricated pad to finish"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Nylon brush and solvent — powder residue off the rails",
+    "Breech face and extractor channel",
+    "⛔ No brake cleaner, ever"
+   ]
+  },
+  {
+   "name": "FRAME",
+   "tasks": [
+    "Nylon brush and solvent, paying attention to wear on the rails",
+    "Springs and pins cleaned and wiped DRY",
+    "⛔ Light OIL on moving parts — never grease"
+   ]
+  },
+  {
+   "name": "INTERVALS",
+   "tasks": [
+    "Before the first firing; after any disassembly; after shooting",
+    "Before and after storage",
+    "⛔ Lower end stripped and cleaned every 3,000-4,000 rounds"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Reverse the disassembly for whichever recoil system your pistol has.",
+  "Barrel in with the link forward; link back up only once it is seated.",
+  "On a Recoil Master gun the TAKE DOWN tool comes out last, once the assembly is home.",
+  "Slide stop through the barrel link, notch aligned, pushed straight in.",
+  "Then clean and lubricate — the manual counts disassembly itself as a reason to re-oil."
+ ],
+ "fncheck": "Unloaded and proven, empty magazine only, muzzle safe, goggles on if the slide came apart. Rack the slide several times and check it returns fully into battery. With the hammer cocked, apply the thumb safety: the slide should lock and the trigger should be dead. Off safe, grip properly and dry-fire once; repeat WITHOUT depressing the grip safety and the hammer must NOT fall. Then check the slide stop is fully seated and flush — a proud slide stop means it did not pass through the barrel link."
+}

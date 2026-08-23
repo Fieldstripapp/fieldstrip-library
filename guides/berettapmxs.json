@@ -1,0 +1,119 @@
+{
+ "row": "berettapmxs",
+ "make": "Beretta",
+ "model": "PMXs",
+ "sourcedFrom": "Beretta PMXs Pistol User Manual — C6C544 003 (form code printed in the running header) (UNDATED — Beretta prints a form code rather than a year)",
+ "sourceSha256": "c2e4343530a3035f3dace9bab9a0d1015b7ae422a6ea832394ebf487c5344883",
+ "cleanIntro": "The PMXs opens like a modern rifle — a captive pin, then the upper rotates off the lower — and its strip has an order that matters: fire selector to S, rear cap off, sling swivel out, THEN the recoil spring group. Take the cap off last and the spring group is what stops you.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, chamber INSPECTED",
+   "action": "Remove the magazine and look into the chamber to confirm it is empty. Look — do not feel and do not assume.",
+   "aside": "WARNING: Make sure the pistol is unloaded. If not, unload it following the instructions in this manual “UNLOADING” on page 17.",
+   "quote": "Remove the magazine and ensure the pistol is unloaded by inspecting the barrel’s chamber.",
+   "cite": "Beretta PMXs Pistol User Manual — C6C544 003 (form code printed in the running header) — FIELD STRIPPING, printed p.28-30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cock the hammer, selector to “S”",
+   "action": "Retract the bolt to cock the hammer, then put the fire selector to \"S\". Both, in that order, before anything comes apart — the strip assumes a cocked hammer and a safe selector.",
+   "aside": "Position the fire selector to",
+   "quote": "Retract the bolt to cock the",
+   "cite": "Beretta PMXs Pistol User Manual — C6C544 003 (form code printed in the running header) — FIELD STRIPPING, printed p.28-30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Captive pin right to left, upper forward and up",
+   "action": "Press the captive disassembly pin from RIGHT to LEFT as far as it goes — the catch stays on the left side of the lower receiver, which is what \"captive\" means here and why nothing falls out. Then push the receiver forward, rotate it upwards and lift it off the lower.",
+   "aside": "Rotate the receiver upwards and remove it from the lower receiver.",
+   "quote": "Press the captive disassem- bly pin moving it from right to left across the weapon as far as it can go. The catch will remain on the left side of the lower receiver.",
+   "cite": "Beretta PMXs Pistol User Manual — C6C544 003 (form code printed in the running header) — FIELD STRIPPING, printed p.28-30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear cap off, sling swivel out, THEN the recoil spring group",
+   "action": "Unscrew the rear cap and take it off, remove the sling swivel, and only then take the recoil spring group out of the receiver. That order is the book's and it is not arbitrary — the cap retains the swivel and the swivel sits in the spring group's way.",
+   "aside": "Remove the recoil spring group from the receiver.",
+   "quote": "Unscrew the rear cap and remove it.",
+   "cite": "Beretta PMXs Pistol User Manual — C6C544 003 (form code printed in the running header) — FIELD STRIPPING, printed p.28-30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cocking handle aligned, then out; bolt last — strip complete",
+   "action": "Line the cocking handle up with the hole in the receiver and pull it outwards, then take the bolt out. ⛔ If you are only reversing the cocking handle for left-handed use, stop here — the book says nothing further is required. Otherwise the weapon is now stripped for cleaning and no further disassembly is needed.",
+   "aside": "if the weapon is being disassembled to reverse the cocking handle, nothing further is required.",
+   "quote": "Align the cocking handle with the hole in the receiver and remove it by pulling it outwards.",
+   "cite": "Beretta PMXs Pistol User Manual — C6C544 003 (form code printed in the running header) — FIELD STRIPPING, printed p.28-30"
+  },
+  {
+   "phase": "Clean",
+   "title": "Barrel from the chamber side, and the feeding ramp",
+   "action": "Use a brush on a rod long enough to clean the barrel FROM THE CHAMBER side, and clean the feeding ramp carefully while you are there — a fouled ramp is the usual cause of a feed stoppage on a blowback. ⛔ The barrel is not cleaned with the pistol assembled.",
+   "aside": "Carefully clean the feeding ramp of the barrel",
+   "quote": "Use a brush with a rod that is long enough to clean the barrel from the chamber side.",
+   "cite": "Beretta PMXs Pistol User Manual — C6C544 003 (form code printed in the running header) — MAINTENANCE, printed p.35-37"
+  },
+  {
+   "phase": "Clean",
+   "title": "Grooves of both receivers — and inspect while you clean",
+   "action": "Wipe the internal and external metal surfaces with a cloth, then use a small brush to get the debris out of the grooves in the upper and lower receivers. ⛔ And look while you do it: the book asks you to inspect for cracks, deformation and wear as part of cleaning, which is the only time most people ever have the parts in the light.",
+   "aside": "While cleaning carefully inspect the parts to check for cracks, deformation or signs of wear.",
+   "quote": "Use a small brush to remove debris that has crept into the grooves of the upper and lower receivers.",
+   "cite": "Beretta PMXs Pistol User Manual — C6C544 003 (form code printed in the running header) — MAINTENANCE, printed p.35-37"
+  },
+  {
+   "phase": "Clean",
+   "title": "Four places get oil, and only lightly",
+   "action": "Beretta names exactly four: the outside of the bolt, the lower ribs of the bolt, the two recoil springs, and the front and inside of the upper receiver. Light films everywhere — excess oil collects dirt and dust, and on a blowback that is what starts short-stroking.",
+   "aside": "Do not apply excess oil. Accumulation of oil attracts dirt and dust, which can interfere with the functioning and reliability of the firearm.",
+   "quote": "Lightly oil the lower ribs of the bolt.",
+   "cite": "Beretta PMXs Pistol User Manual — C6C544 003 (form code printed in the running header) — MAINTENANCE, printed p.35-37"
+  }
+ ],
+ "deepAbsentReason": "Beretta stops the owner at the field strip on the PMXs and prints it on the page: \"No further disassembly is required for routine maintenance.\" There is no deeper published procedure to author, and a manufacturer's published limit outranks every other tier, so nothing is borrowed from elsewhere to fill it.",
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Brush on a long rod, from the CHAMBER side only",
+    "Feeding ramp cleaned carefully",
+    "⛔ Never cleaned with the pistol assembled"
+   ]
+  },
+  {
+   "name": "RECEIVERS",
+   "tasks": [
+    "Internal and external metal surfaces wiped",
+    "Small brush through the grooves of upper and lower",
+    "⛔ Inspect for cracks, deformation and wear while you clean",
+    "⛔ No abrasive materials — no sandpaper, no abrasive paste"
+   ]
+  },
+  {
+   "name": "BOLT & SPRINGS",
+   "tasks": [
+    "Light oil on the outside of the bolt and on its lower ribs",
+    "Light oil on both recoil springs",
+    "Light oil on the front and inside of the upper receiver"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Follower must slide freely under thumb pressure",
+    "⛔ Never spray or apply oil to cartridges"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bolt into the upper receiver until the cocking handle seat lines up with the recess.",
+  "Cocking handle fully inserted, correctly oriented (either side, if you are reversing it), then the bolt retracted to check it moves freely.",
+  "Recoil spring group in with the groove pointing DOWN.",
+  "Sling swivel in, correctly oriented.",
+  "⛔ Rear cap screwed on tight, then the bolt retracted twice and the cap tightened again — repeat until snug, and check the swivel is locked by the cap.",
+  "Hammer cocked with your finger, selector to \"S\", then the upper entered into the lower at its interlocking points.",
+  "Upper turned with attention to interference between the upper and lower front connection wings, then the captive pin pushed home."
+ ],
+ "fncheck": "Reassembled and unloaded: retract the bolt to confirm it moves freely and the cocking handle is fully seated. ⛔ The rear cap has its own procedure — screw it on tight, retract the bolt TWICE, then tighten it again, repeating until it is snug, and check the sling swivel does not move and is locked by the cap. Then confirm the fire selector reaches \"S\" and the upper is fully seated on the lower."
+}

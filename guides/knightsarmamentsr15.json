@@ -1,0 +1,167 @@
+{
+ "row": "knightsarmamentsr15",
+ "make": "Knights Armament",
+ "model": "SR-15",
+ "sourcedFrom": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 (ABSENT — no copyright line printed. The document carries a proprietary-data legend and the revision number REV 3; the published filename adds '6_2020' but that is a filename, not a printed date, and is not treated as one.)",
+ "sourceSha256": "ed9010378f7a88da297d163db32181f8639dbdbd18dec43bbfafc7005d913dbb",
+ "cleanIntro": "Knight's publishes this as an operators manual for the STONER SR-15 E3 MOD 2 in 5.56 NATO, written in military technical-manual style, and its bolt procedure is specific to this rifle. Two things differ from the SR-25 book and must not be swapped: here the firing pin retainer is pulled OUT and away from the carrier, and the cam pin is ROTATED 90 DEGREES before it will come out. The extractor on this bolt carries TWO springs and only comes out if it is dirty or damaged. Two components are armorer-level and stay where they are: the ejector and the fire control group.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear it personally, and never on someone else's word",
+   "action": "Before any inspection or maintenance, clear the rifle yourself using the manual's own clearing procedure — magazine out, bolt back, chamber inspected. Knight's is explicit that you never squeeze the trigger until you have cleared it, and that you check the chamber before touching the trigger at all. Get live ammunition out of the cleaning area entirely.",
+   "prose": "This is a technical-manual style book and it means the sequence literally. Chamber first, trigger second.",
+   "quote": "Before starting an inspection or performing any maintenance procedures, personally ensure the rifle is clear. (See Clearing Procedures on pages 5-7.) Never squeeze the trigger until you have cleared the rifle. Always check the chamber to ensure it is empty before touching the trigger. Check for obstructions in the bore before loading and chambering a round. Never keep or allow live ammunition near administrative, cleaning or maintenance areas.",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Warning, p.1",
+   "warn": "Never open or separate the upper receiver from the lower if a round is in the chamber or the rifle is loaded, as serious injury or death may occur as in the case of a hang-fire or cook-off with the receivers open or separated."
+  },
+  {
+   "phase": "Clear",
+   "title": "SR-15 E3 MOD 2, 5.56 NATO — and this is not the SR-25 book",
+   "action": "Check which document you are holding. This is SR15-UM-0001 REV 3, the operators manual for the STONER SR-15 E3 MOD 2 in 5.56 mm NATO. Knight's publishes a separate book for the M110/SR-25, and the two print DIFFERENT bolt procedures — the retainer, the cam pin and the extractor spring count are all different. Working from the wrong one will have you rotating a cam pin that should not be rotated, or hunting a second extractor spring that does not exist.",
+   "prose": "Same company, same year, same layout, different rifle. The document number on the cover is the tell.",
+   "caution": "SR15-UM-0001 REV 3 is the SR-15 book. SR25-UM-0011 REV 3 is a different rifle.",
+   "quote": "STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Cover, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pins to the right, receivers apart — and mind the hammer",
+   "action": "With the rifle clear and the bolt carrier fully forward, push the takedown and pivot pins to the RIGHT until their internal detents stop them — they are captive and do not come out — then hinge the lower down and separate the receivers. While they are open, never let the hammer spring forward against the receiver wall or the bolt catch; if it has to be lowered, ride it down against the trigger pull.",
+   "prose": "A hammer released into an open receiver on this rifle damages the receiver and the bolt catch. It is a repair, not a scratch.",
+   "quote": "When receivers are open or separated, never allow the hammer to spring forward against receiver wall/bolt catch, as this can damage the receiver and bolt catch. When it is necessary to lower the hammer, retard it from springing forward as the trigger is pulled. • Ensure rifle is clear and the bolt carrier group is in the fully forward position. • Pull take down and pivot pins to the right, until the pins are stopped by the internal detents, and separate the upper and lower receivers.",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Rifle Disassembly, p.15",
+   "warn": "Never open or separate the receivers with a round in the chamber."
+  },
+  {
+   "phase": "Strip",
+   "title": "Carrier group out, then the charging handle",
+   "action": "Turn the upper over so the muzzle points away from you and the receiver lugs face up. Pull the charging handle fully to the rear and draw the bolt carrier assembly back and up out of the charging handle channel. Then, with the handle still fully rearward, lift it upward so its slider ears come out of the channel through the relief slots.",
+   "prose": "The order is fixed by the geometry — the handle's ears only align with their relief slots at the rear of the channel, and the carrier has to be gone first.",
+   "aside": "• Ensure the charging handle is fully to the rear, lift upward, freeing the slider ears of the charging handle from the channel in the upper receiver through the relief slots.",
+   "quote": "• Remove the bolt carrier assembly by pulling it to the rear and lifting it clear of the charging handle channel.",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Upper Receiver Disassembly, p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retainer OUT, then the firing pin drops",
+   "action": "Pull out on the small protrusion of the firing pin retainer, away from the bolt carrier, and take it off. Then invert the carrier so the bolt is upward and tap the bottom lightly — the firing pin drops out of the rear under its own weight. Do not shake or pry it out.",
+   "prose": "Work over a tray. The retainer is small and it is not captive on this rifle.",
+   "caution": "The SR-25's retainer is captive and is pushed IN, not pulled out. Different rifle, different part.",
+   "quote": "Removing the Bolt from the Carrier • Remove firing pin retainer by pulling out on\nthe small protrusion of the firing pin retainer away from the bolt carrier.",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Upper Receiver Disassembly, p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin: push the bolt in, ROTATE 90 degrees, lift",
+   "action": "Push the bolt into the carrier until it seats, then rotate the cam pin 90 degrees and pull it away from the carrier. Make sure it is aligned to clear the gas key on the way out — a cam pin dragged past the key at the wrong angle chips. With the cam pin out, pull the bolt forward out of the front of the carrier.",
+   "prose": "The bolt must be pushed IN before the cam pin will turn. That is the step people skip and then decide the pin is seized.",
+   "quote": "• Push bolt into the carrier and remove cam pin by rotating the cam pin 90 degrees and pulling away from the carrier. Ensure that the cam pin is aligned properly to fit past the gas key.",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Upper Receiver Disassembly, p.17",
+   "warn": "Rotate 90 degrees on THIS rifle. The SR-25 book gives no rotation instruction."
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor — only if it needs it, and there are TWO springs",
+   "action": "Leave the extractor alone unless it is dirty or damaged; Knight's marks these steps as conditional. If it does need to come out, push the extractor pivot pin out with a correctly sized punch and lift the extractor away — and be careful not to lose the extractor spring, of which this bolt has TWO. The ejector is a different matter: its removal is an armorer-level repair and is not yours.",
+   "prose": "Two springs is the SR-15's arrangement. Losing one and reassembling on the other gives you an extractor that works until it does not.",
+   "caution": "NOTE: Ejector removal is an armorer level repair procedure.",
+   "quote": "NOTE: The following steps are only necessary if the extractor is dirty or damaged. Be careful not to lose extractor spring (2 ea.).",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Upper Receiver Disassembly, p.17"
+  },
+  {
+   "phase": "Clean",
+   "title": "Muzzle DOWN while the bore is cleaned",
+   "action": "Push a bore brush in at the chamber and out through the muzzle, repeating as needed, then patch it. Keep the muzzle pointed DOWNWARDS and the sights up the whole time: that is what stops bore cleaner collecting in the bolt locking recesses of the chamber area or seeping into the gas port. Finish with a lightly lubricated patch to leave a trace coating.",
+   "prose": "Solvent in the gas port is a slow problem — it does not announce itself until the rifle starts short-stroking.",
+   "caution": "NOTE: The chamber is much larger in diameter than the bore; double-up the patches when wiping the chamber if not using a chamber mop.",
+   "quote": "• When cleaning the bore, keep muzzle pointed downwards and the sights orientated up to prevent bore cleaner from collecting in bolt locking recesses of the chamber area or seeping into the gas port.",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Cleaning, p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "Behind the locking lugs, and the cam-pin slot",
+   "action": "Two places carry the hard fouling on this rifle. In the barrel extension, get behind the locking lugs and into the locking recess with cotton swabs or a rag — a brush alone rides over it. On the carrier, clear the cam-pin slot and the expansion chamber with carbon remover or cleaner/lubricant and a soft-bristled brush, then swab the loosened carbon out.",
+   "prose": "Soft-bristled, everywhere. This book never asks for a wire brush on any surface.",
+   "aside": "Use a general purpose brush and additional bore cleaner or cleaner/lubricant, with cleaning patch, or a rag, to clean residue from barrel extension locking lugs.",
+   "quote": "• Remove fouling from the cam-pin slot and expansion chamber with carbon remover or cleaner/lubricant and a soft bristled brush, absorbent cloth, or cotton swab.",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Cleaning, p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "The fire control group is cleaned IN PLACE",
+   "action": "Do not take the trigger, hammer, pins and springs out. Knight's says the fire control group should not be removed except by an armorer, and that it is cleaned where it sits with cleaner/lubricant, a soft-bristled brush and an absorbent cloth. Build-up in the floor of the recess is flushed out with hot water, pressurised air or a pressurised firearm cleaning liquid.",
+   "prose": "Flush and dry, then re-lubricate. What you must not do is disassemble it to get at what the flush would have reached.",
+   "quote": "• The fire control group (trigger, hammer, and associated pins and springs) should not be removed except by an armorer. The parts should be cleaned in place with a cleaner/lubricant, soft bristled brush, and an absorbent cleaning cloth.",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Cleaning, p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light to medium — and never over-lubricate the outside",
+   "action": "A light to medium coat on the operating parts and the exposed exterior metal is all that is wanted; over-lubricating the exterior is to be avoided at all times. Knight's defines LIGHTLY LUBRICATED precisely — a thin film barely visible, produced by wetting a patch with five to ten drops of oil and wiping the area over several times with that same patch.",
+   "prose": "Note that the lubrication instructions in this book are for before operations and firing, not for storage. Storage is a different regime.",
+   "quote": "• LIGHTLY LUBRICATED: A thin film of oil barely visible to the eye. Wetting a cleaning patch with 5-10 drops of oil and then wiping the area over several times with the same patch should produce this effect and spread the oil thinly and evenly.",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Lubrication, p.29",
+   "warn": "Over-lubrication of the exterior of the rifle should be avoided at all times."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper, lower, bolt carrier group with the bolt, firing pin and cam pin out of it, and the charging handle. The buffer and action spring come out of the lower separately if you are cleaning them. That is the operator-level strip: the ejector and the fire control group stay in the rifle by Knight's own instruction, and there is no deeper published procedure for an operator to walk.",
+   "prose": "Do not leave cleaning patches in the bore, and inspect it for obstructions before the rifle goes back into service.",
+   "quote": "Clear and field strip rifle to ensure there are no missing parts.",
+   "cite": "OPERATORS MANUAL  SR15-UM-0001 REV 3 ... STONER SR-15 E3 MOD 2 5.56 MM NATO CALIBER — SR15-UM-0001 REV 3 — Warning, p.1",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Knight's publishes no deeper OPERATOR procedure for the SR-15 and names the two components that would constitute one as armorer work: 'NOTE: Ejector removal is an armorer level repair procedure.' (Upper Receiver Disassembly, p.18) and 'The fire control group (trigger, hammer, and associated pins and springs) should not be removed except by an armorer.' (Cleaning, p.28). Everything else the book covers — the receivers, the bolt and carrier, the extractor, the buffer and action spring, the magazine — is already in the operator-level strip above, so there is nothing left that a deep clean would add. Walking an ejector or fire-control teardown here would be authoring against two explicit armorer-level restrictions.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Muzzle pointed DOWNWARDS, sights up, throughout — keeps cleaner out of the gas port and locking recesses",
+    "Bore brush in at the chamber and out at the muzzle, repeated as necessary",
+    "Double up patches for the chamber if you have no chamber mop",
+    "Finish with a lightly lubricated patch to leave a trace coating",
+    "Do not leave cleaning patches in the bore"
+   ]
+  },
+  {
+   "name": "BARREL EXTENSION",
+   "tasks": [
+    "General purpose brush with bore cleaner on the locking lugs",
+    "Cotton swabs or a rag BEHIND the locking lugs and in the locking recess"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Soft-bristled brush and cleaner/lubricant on the carrier exterior",
+    "Cam-pin slot and expansion chamber with carbon remover and a soft brush",
+    "Swabs and cloth to lift the loosened carbon out",
+    "Extractor out only if dirty or damaged — TWO springs on this bolt",
+    "Ejector stays in: armorer-level"
+   ]
+  },
+  {
+   "name": "LOWER RECEIVER",
+   "tasks": [
+    "Takedown and pivot pins free of fouling and rust",
+    "Selector lever clean and free of corrosion",
+    "Magazine well, magazine catch and BOTH left and right magazine releases",
+    "Bolt catch and right-side bolt release free of carbon and corrosion",
+    "Fire control group cleaned IN PLACE — never removed except by an armorer",
+    "Wipe the buffer, action spring and the interior of the buffer tube"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Fit the extractor into its recess, align the pivot pin holes, squeeze it toward the bolt body and insert the pivot pin tapered end first.",
+  "Seat the pivot pin with a non-marring tool to equal depth on both sides of the bolt.",
+  "Slide the bolt into the carrier, push it in, drop the cam pin through and rotate it 90 degrees to lock.",
+  "Drop the firing pin in at the rear and fit the firing pin retainer.",
+  "Refit the charging handle into its channel, engage it part way, then run the carrier group in behind it and push both home.",
+  "Join the receivers and push the takedown and pivot pins back to the left until they seat."
+ ],
+ "fncheck": "Run the manual's function check on the assembled, clear rifle. Confirm the cam pin is in — without it the rifle can fire and will be destroyed. Hold the carrier group vertical and check the firing pin does not fall out. With the rifle clear, charge it, put the selector on SAFE and press the trigger: the hammer must not fall. Move to FIRE and press: it must fall. Hold the trigger back, cycle the charging handle, release the trigger and listen for the reset click, then press again and confirm the hammer falls. Check the bore for obstructions and that no cleaning patch has been left in it."
+}

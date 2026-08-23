@@ -1,0 +1,165 @@
+{
+ "row": "stevens320",
+ "make": "Stevens",
+ "model": "320",
+ "sourcedFrom": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 (UNKNOWN — no copyright year is printed; the document is dated only by the code 108782 06/15 Rev 2 on page 10)",
+ "sourceSha256": "693fc84866fd8f622b93644224e72ccb5f14f7922132994ba0b54646e03dc35d",
+ "cleanIntro": "The Model 320 is a pump gun whose entire owner-level teardown is one joint: unscrew the locking nut off the front of the magazine tube and the barrel comes forward out of the receiver. Savage says in as many words that nothing past that is yours to take apart. Two things about your particular 320 decide what you do here — the gauge stamped on the barrel, and whether you have a Field Grade or a Security. Both are printed on the gun; neither is knowable from the model number alone.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety to FULL SAFE — the red band must be hidden",
+   "action": "Push the safety button on the rear of the trigger guard all the way to the RIGHT until the red band disappears and you feel it snap. On this gun the red band showing means ready to fire, so the check is visual and positive, not a guess at which way is 'on'. If the button slides without a distinct click, or will not seat hard against its stop, stop and take the gun to a gunsmith — a safety that does not index is not a safety.",
+   "prose": "Do this before you touch the forend, because the next step unlocks the action.",
+   "quote": "In the FULL SAFE position, the safety will be pushed all the way to the right so that the RED BAND is NOT exposed (see FIGURE 1).",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Section 2, How To Operate The Safety, p.3",
+   "warn": "IF A ‘CLICK’ IS NOT HEARD AND THE SAFETY BUTTON DOES NOT POSITIVELY ‘SNAP’ INTO PLACE, DO NOT USE THE SHOTGUN."
+  },
+  {
+   "phase": "Clear",
+   "title": "Open the action — slide lock first if the forend is locked",
+   "action": "Pull the forend fully rearward to run the bolt back and expose the chamber. If the forend will not budge it is locked forward, and on a pump gun that lock releases either by pulling the trigger or by pressing the SLIDE LOCK — press the slide lock, never the trigger, on a gun you have not yet checked. Cycle it fully so anything in the chamber is extracted and thrown clear of the ejection port.",
+   "prose": "The bolt stays back for everything that follows.",
+   "caution": "PUMP SHOTGUNS ARE TYPICALLY DESIGNED TO UNLOCK THE FOREND ONCE THE TRIGGER HAS BEEN PULLED.",
+   "quote": "2. Pull the forend fully rearward, opening the bolt and exposing the chamber. If the forend is ‘locked’, depress the SLIDE LOCK and then pull fully rearward (see FIGURE 3).",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Section 2, How To Unload, p.6"
+  },
+  {
+   "phase": "Clear",
+   "title": "Finger in the chamber, finger on the magazine follower",
+   "action": "Looking is not the check on a tube gun. Put a fingertip into the chamber opening and feel that it is empty, then put a fingertip on the spring-loaded follower at the rear of the magazine tube and push it slightly inward — it must move freely, which is how you know no shell is stacked behind it. Then cycle the action once more and repeat both. A 320's magazine holds shells out of sight behind the carrier, and the ejection port shows you nothing about them.",
+   "prose": "Savage prints this loop twice for a reason: the tube is the part that fools people.",
+   "quote": "6. Carefully place the tip of your finger into the chamber opening to assure it is empty. 7. Carefully place the tip of your finger on the spring-loaded end of the magazine, pushing slightly inward to be sure that it moves and there is no shell in the magazine tube.",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Section 2, How To Unload, p.6",
+   "warn": "ALTHOUGH CYCLING THE ACTION LOADS AND EJECTS SHELLS IN THE MAGAZINE AND CHAMBER, IT IS NOT A SUBSTITUTE FOR ACTUALLY LOOKING AND FEELING WITH YOUR FINGERS THAT THE SHOTGUN IS INDEED EMPTY!"
+  },
+  {
+   "phase": "Clear",
+   "title": "Read the gauge off the barrel — the Model 320 is built in two",
+   "action": "Look at the side of the barrel and read the gauge stamped there. The Model 320 is sold as a 12 gauge gun and as a 20 gauge gun, and the two are not one gun with a swappable barrel — the gauge on that stamp is the only gauge that belongs in it. A 20 gauge shell dropped into a 12 gauge chamber does not jam at the mouth; it falls straight through and wedges partway down the bore where you cannot see it, and the 12 gauge round fired behind it bursts the barrel.",
+   "prose": "Do this now, while the shells are still in the box, not at the loading bench.",
+   "quote": "Be sure to only load and shoot the gauge that is stamped on the side of the barrel.  Although a 20 gauge shell will fit into a 12 gauge chamber, it may get lodged in the barrel and explode if a 12 gauge is loaded and fired out of the same barrel – causing serious injury or even death to you or a bystander.",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Introduction, p.1",
+   "warn": "Model 320 12 gauge and Model 320 20 gauge are different guns. Shoot only the gauge stamped on your barrel."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field Grade or Security — the magazine is plugged on one of them",
+   "action": "Before you count what comes out of the tube, know which 320 you have. Savage states five shells for the Model 320 Security and for the Field Grade, but the 28-inch-barrel Field Grade leaves the factory with a plug in the magazine tube that holds it to two. If your gun stops at two you have a plug, not a fault, and it comes out during this teardown — the plug sits inside the white magazine spring retaining cap and is only reachable once the barrel is off.",
+   "prose": "The plug removal below is a Field Grade job; a Security has no plug to find.",
+   "quote": "THE MAGAZINE CAPACITY ON THE MODEL 320 SECURITY OR FIELD GRADE IS FIVE SHELLS. THE MODEL 320 FIELD GRADE SHOTGUN (28” BARREL) IS SHIPPED WITH A ‘PLUG’ IN THE MAGAZINE TUBE, RESTRICTING ITS CAPACITY TO TWO SHELLS.",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Section 2, How To Load, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Unscrew the locking nut off the magazine tube",
+   "action": "With the bolt still open and the chamber and magazine confirmed empty, point the muzzle away from you and turn the locking nut at the front of the magazine tube counterclockwise. It should start by hand; if it is seized, that is the over-tightening the manual warns about and it wants a strap, not a bigger grip. Run it right off the tube rather than leaving it hanging — it is the only thing holding the barrel to the receiver.",
+   "prose": "Muzzle away from you the whole time: your hand is at the front of the gun on this step.",
+   "quote": "4. With the muzzle pointing away from you, unscrew the LOCKING NUT (see FIGURE 7) by turning it counterclockwise.",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Section 3, How To Remove The Barrel, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pull the barrel forward off the receiver",
+   "action": "Take the locking nut fully off and draw the barrel straight forward. The barrel retaining lug rides on the magazine tube, so the movement is along the tube's axis — pull it forward, do not lever it up or twist it, or you will drag the lug across the tube and the receiver's breech face. It comes away with no resistance once the nut is clear.",
+   "prose": "That is the whole of the field strip: barrel in one hand, receiver-and-tube in the other.",
+   "caution": "CARE SHOULD BE TAKEN NOT TO DAMAGE THE RECEIVER, BARREL, BREECH FACE, OR MAGAZINE TUBE THREADS.",
+   "quote": "5. Remove the LOCKING NUT completely and pull the barrel forward, separating it from the receiver (see FIGURE 8).",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Section 3, How To Remove The Barrel, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field Grade only — tip the magazine plug out",
+   "action": "This step belongs to a Field Grade and to nothing else. With the barrel off, look into the front of the magazine tube: inside the white magazine spring retaining cap sits the plug. Tilt the action downward so the plug starts to slide out of the cap, then take it the rest of the way with your fingers. Eye protection here is not optional — you are working directly in front of a compressed magazine spring.",
+   "prose": "A Security has no plug and this step simply does not apply to it.",
+   "quote": "HOW TO REMOVE THE MAGAZINE PLUG (FIELD GRADE MODELS ONLY)",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Section 3, p.8",
+   "warn": "ALWAYS WEAR EYE PROTECTION WHEN CLEANING OR DISASSEMBLING A FIREARM!"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the chamber end — bronze brush, never steel",
+   "action": "Push a solvent-soaked patch through the bore and let it stand a few minutes, then run a bronze brush of the right diameter through, then dry patches until they come out clean. Use a bronze brush and nothing harder: a steel brush cuts the bore, and the damage is permanent. Pick a solvent that lifts plastic as well as powder, because a shotgun bore collects wad streaking that a powder solvent alone leaves behind.",
+   "prose": "Finish with a lightly oiled patch to keep rust off, and wipe the bolt face dry with a clean rag leaving no lint.",
+   "quote": "NEVER USE A STEEL BORE BRUSH AS IT MAY DAMAGE THE BORE.",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Section 2, How To Clean Your Shotgun, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Choke tube back in — and never fire the barrel without one",
+   "action": "The Field Grade ships with a screw-in Modified choke in a standard WinChoke thread. If yours is a choke-threaded barrel, the choke goes back in before the gun is fired again: firing a threaded barrel with the choke out exposes the thread run to the shot column and wrecks the threads, the barrel, or both. Screw it in firmly and stop — do not overtighten — and check it is still tight from time to time.",
+   "prose": "A bent or out-of-round choke gets replaced, not straightened.",
+   "quote": "NEVER FIRE YOUR SHOTGUN WITHOUT A CHOKE INSTALLED (ONLY APPLIES TO BARRELS THREADED FOR CHOKE TUBES) AS DOING SO MAY DAMAGE THE THREADS AND/OR THE BARREL.",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Section 4, Choke Tubes, p.9",
+   "warn": "ALWAYS UNLOAD YOUR SHOTGUN AND OPEN THE ACTION BEFORE CHANGING OR VERIFYING THE CHOKE TUBE."
+  },
+  {
+   "phase": "Clean",
+   "title": "Locking nut hand tight — and re-checked after every session",
+   "action": "When the barrel goes back on, seat it fully into the receiver and run the locking nut down against the barrel retaining lug by hand only. Hand tight is the specification; leaning on it is what makes the nut bind after the barrel heats and cools, and then you cannot get the gun apart at all. Then make it a habit: after each shooting session, check that the locking nut is still tight, because recoil walks it loose and a loose nut means a barrel moving in the receiver.",
+   "prose": "Cycle the forend several times afterwards and feel for any binding before you call it done.",
+   "caution": "\"IMPORTANT - CHECK AFTER EACH SHOOTING SESSION THAT THE LOCKING NUT (MAGAZINE TUBE CAP) IS TIGHT.\"",
+   "quote": "HAND TIGHT IS SUFFICIENT. OVER-TIGHTENING MAY CAUSE THE LOCKING NUT TO BIND AFTER SHOOTING, MAKING IT EXTREMELY DIFFICULT TO LOOSEN AGAIN.",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Section 3, How To Insert The Barrel, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You should be holding three things: the barrel with its choke, the locking nut, and the receiver with the stock and magazine tube still together — plus the magazine plug if yours is a Field Grade. That is as far as a Model 320 comes apart in an owner's hands. Savage states plainly that anything beyond barrel removal belongs to a gunsmith or to its own service department, so there is no deeper teardown to walk.",
+   "prose": "Clean it in this state, then reassemble barrel-first and check the locking nut.",
+   "quote": "FURTHER DISASSEMBLY (OTHER THAN REMOVING THE BARREL) OF YOUR SHOTGUN IS NOT RECOMMENDED AND SHOULD BE DONE ONLY BY A QUALIFIED GUNSMITH OR SAVAGE ARMS SERVICE DEPARTMENT.",
+   "cite": "Stevens – Model 320 ® Pump Shotgun — 108782 06/15 Rev 2 — Section 2, How To Clean Your Shotgun, p.7",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Savage publishes no deeper teardown for the Model 320 and forbids one: \"FURTHER DISASSEMBLY (OTHER THAN REMOVING THE BARREL) OF YOUR SHOTGUN IS NOT RECOMMENDED AND SHOULD BE DONE ONLY BY A QUALIFIED GUNSMITH OR SAVAGE ARMS SERVICE DEPARTMENT.\" (Section 2, How To Clean Your Shotgun, p.7). The barrel-off state walked above IS the maximum owner disassembly for this gun, so there is no deep-clean branch to author — inventing a trigger-group or bolt teardown for a 320 would be writing a procedure the manufacturer declines to publish. The only additional owner operation the manual does describe, the Field Grade magazine plug, is already walked as a Strip step.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent-soaked patch through the bore, left to stand a few minutes",
+    "Bronze bore brush of the correct diameter — NEVER a steel brush",
+    "Dry patches until they come out clean; repeat the whole cycle if needed",
+    "Use a solvent that also lifts the plastic wad streaking a shotgun bore collects",
+    "Finish with a light gun-oil patch to protect against rust"
+   ]
+  },
+  {
+   "name": "BOLT FACE & ACTION",
+   "tasks": [
+    "Wipe the exposed bolt face with a clean dry rag, leaving no lint or rag fragments",
+    "Push the forend fully forward to lock the bolt closed before wiping the outside",
+    "Old toothbrush for the crevices around the ejection port and carrier",
+    "Light coat of gun oil on the action and external metal — do not over-oil; oil congeals in extreme cold and makes the action sluggish"
+   ]
+  },
+  {
+   "name": "CHOKE — THREADED BARRELS",
+   "tasks": [
+    "Unload and open the action before changing or even checking the choke",
+    "Never fire a choke-threaded barrel with no choke installed",
+    "Screw the choke in firmly but do not over-tighten",
+    "Never use a choke that is bent or out-of-round",
+    "Re-check periodically that the choke is still secure"
+   ]
+  },
+  {
+   "name": "AFTER EVERY SESSION",
+   "tasks": [
+    "Check that the locking nut (magazine tube cap) is still tight",
+    "Remove all moisture immediately if the gun was wet or brought from cold into a warm room",
+    "Store unloaded, dry, secured and locked — never in a hard or soft carrying case"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Check the bore from both ends before the barrel goes anywhere near the receiver — clear all the way through, no patch fragments, no oil pooling.",
+  "Safety to FULL SAFE, then finger-check the magazine follower once more.",
+  "Push the forend forward about two inches to close the bolt partway.",
+  "Slide the barrel retaining lug over the magazine tube and seat the barrel fully into the receiver, aligned as shown, taking care not to nick the breech face or the tube threads.",
+  "Field Grade: refit the magazine plug into the retaining cap first if you want the two-shell limit back.",
+  "Run the locking nut down onto the tube and tighten it against the retaining lug — HAND TIGHT ONLY.",
+  "Cycle the forend several times and feel for any binding before the gun is considered assembled."
+ ],
+ "fncheck": "With the gun assembled and confirmed empty, work the safety across and back and listen for the distinct click in each direction, checking the red band appears on FIRE and vanishes on SAFE. Cycle the forend through its full travel several times — it must run without binding, and the slide lock must release it. Look through the bore from both ends one last time to be certain no patch or brush fragment was left behind. If anything does not sound, feel or look right, stop and see a gunsmith rather than firing it."
+}

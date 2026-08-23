@@ -1,0 +1,201 @@
+{
+ "row": "ruggedobsidian9",
+ "make": "Rugged",
+ "model": "Obsidian 9",
+ "sourcedFrom": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document (UNKNOWN — no copyright line is printed anywhere in the document)",
+ "sourceSha256": "541b42d8075fffb759014ffe92549a7024e6842bc44ed20573d880683493736c",
+ "cleanIntro": "The Obsidian9 is a fully user-serviceable pistol can built in two halves: a main body holding a five-baffle stack, and a screw-on ADAPT Module holding a second seven-baffle stack that turns the short configuration into the long one. Two facts decide everything below and both are Rugged's own. The tube, the ADAPT Module body, the front cap and the spring retainer are ALUMINIUM and must never see an ultrasonic tank; and the mount is chosen by what the host firearm's barrel does, not by thread pitch. The Obsidian9 is a suppressor and not a firearm, so the pistol it comes off is governed by the pistol's own manual, not by this one.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host pistol — its own manual owns that procedure",
+   "action": "Magazine out, slide locked back, then look into the chamber and put a finger in it before you touch the Obsidian9. Rugged prints this instruction inside the teardown itself, because a can waiting to be unscrewed is still a bore extension on a gun somebody has to hold. The Obsidian9 hangs off dozens of different pistols and this manual describes none of them, so how yours locks back — or whether it locks back at all — is a question only the pistol's own operator's manual answers. Read that first; the can can wait.",
+   "prose": "The failure this invites is the quiet one: a magazine dropped, the chamber never checked, and a live round still under the extractor.",
+   "quote": "WARNING! Before disassembling your Obsidian9™, first remove the magazine and check the chamber of the firearm to confirm that it is in a safe condition and completely unloaded. Failure to do so could result in serious personal injury or death.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Obsidian Disassembly, p.2",
+   "warn": "Magazine out and chamber checked by eye and by finger before anything else."
+  },
+  {
+   "phase": "Clear",
+   "title": "The Obsidian9 never gets cleaned while it is on the gun",
+   "action": "Take the can off the pistol before any solvent, brush or tank comes near it. Rugged states this as a death-risk warning rather than a preference, and the reason is mechanical: cleaning means torquing, prying and pushing on a tube that is threaded to a muzzle, with a chamber a few inches behind your hands. Set the pistol down clear and open, and work on the suppressor as a separate object on the bench.",
+   "prose": "This is also why the disassembly sequence below starts with the can already off the host, not on it.",
+   "quote": "WARNING! Never attempt to clean a suppressor while it is attached to a host weapon, as this could lead to personal injury or death.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "warn": "Never clean an Obsidian9 that is still mounted."
+  },
+  {
+   "phase": "Clear",
+   "title": "Obsidian9 mount choice — fixed mount or piston, decided by the host",
+   "action": "Check which of the two rear mounts is in your Obsidian9 before you fit it, because Rugged assigns them by host action type and not by thread size. A fixed barrel firearm takes the fixed mount; a Browning-action pistol — the tilting-barrel design almost every centrefire service pistol uses — takes the piston, which lets the can float and the slide cycle. Fit the fixed mount to a tilting barrel and the pistol simply stops working, because the can is now rigidly locked to a barrel that has to move.",
+   "prose": "The mount swaps out through the spring retainer at the back, so this is a decision you can revisit, not a permanent build.",
+   "caution": "Fixed mount = fixed barrels only. Piston = Browning action pistols.",
+   "quote": "The fixed mount should be used on all fixed barrel firearms. The piston should be used on all Browning Action Pistols.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Thread Mount/Piston Installation, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Let the Obsidian9 cool before it comes off",
+   "action": "Put the can down and leave it until it is cool enough to hold bare-handed, or use proper gloves. An Obsidian9 that has just run a magazine or two is hot enough through the aluminium tube to burn on contact, and the grip you need to break a mount loose is a firm one. Rugged's own instruction is to allow it to cool before removal rather than to work fast with a rag.",
+   "prose": "The impatience cost here is not just a burn — a dropped hot can lands on the front cap threads, and those are what index the whole stack.",
+   "quote": "WARNING! Never attempt to remove your Obsidian9 while the suppressor is hot without the proper protective gear. Allow the suppressor to cool before removal.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Obsidian Disassembly, p.2",
+   "warn": "Cool, or proper protective gear. Not a shirt sleeve."
+  },
+  {
+   "phase": "Strip",
+   "title": "Spring retainer off the back of the body",
+   "action": "Hold the main tube and unscrew the spring retainer counter-clockwise off the rear face. It is the aluminium collar the mount sits behind, and it is the part that keeps the booster spring captive — expect a little spring pressure to release as the last threads come off, so back it off under control rather than letting it spin free. Once it is clear, the mount and piston assembly are no longer trapped.",
+   "prose": "This same retainer is what you unscrew when you want to change between the fixed mount and the piston, so learn the feel of it now.",
+   "quote": "Unscrew the spring retainer counter-clockwise from the main suppressor body.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Obsidian Disassembly, step 1, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Piston assembly out of the rear of the tube",
+   "action": "With the retainer off, draw the piston assembly straight back out of the main body. On a booster gun this is the part that strokes — piston, spring and the bore it rides in — and it is where the worst of the carbon collects, because it sits directly behind the blast baffle. It should come out with finger pressure; if it binds, it is fouling in the bore and not a stuck part, so clean rather than force.",
+   "prose": "Keep the piston: two later steps use it as a tool, so it is not a part to put in the tank first.",
+   "quote": "Remove the piston assembly from the main suppressor body.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Obsidian Disassembly, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front cap off the ADAPT Module — the piston is the tool",
+   "action": "Take the front cap off the muzzle end of the ADAPT Module by engaging the piston into the cap's grooves and turning counter-clockwise. Rugged designed the piston to double as the cap wrench, so nothing else should be reached for; if the cap is carboned in tight, an allen key dropped into the piston's slot gives you the extra leverage without touching the cap itself. That is the whole toolkit for this joint.",
+   "prose": "A cap turned with pliers picks up jaw marks on the very surface that has to seal and index against the last baffle.",
+   "quote": "Remove the front cap from the ADAPT™ Module. You can use the piston as a tool to aid in removal. For additional leverage, an allen wrench may be inserted into the piston slot.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Obsidian Disassembly, step 2, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "ADAPT Module off the main body",
+   "action": "With the muzzle cap off, hold the main suppressor body in one hand and rotate the ADAPT Module counter-clockwise until it separates. Grip the main body and turn the module — not the other way round — so the torque goes into the joint you actually want to break rather than into the baffle stack inside. When it comes free you have two tubes, each still holding its own stack of baffles.",
+   "prose": "This is the joint you use in the field when you want the Obsidian9 short instead of long; it is not a strip-only operation.",
+   "quote": "With the muzzle cap removed, hold the suppressor body with one hand and rotate the Module counter-clockwise until removed.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — ADAPT Module Removal, step 2, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Push the baffle stacks out from the mount end",
+   "action": "Turn the main body so you are looking in through the mount at the back, and push the baffle cone forward with a finger or a wooden dowel until the stack walks out of the front. The stack always comes out forwards, in the direction the bullet travels, because the baffles taper that way and the blast baffle is the largest. A wooden dowel is specified for a reason — a steel rod on a baffle cone dents the one surface that has to sit square.",
+   "prose": "Do the same through the ADAPT Module. Lay the baffles out in the order they leave the tube so the rebuild is a reading task, not a puzzle.",
+   "quote": "Remove the baffle stack from the main suppressor body and ADAPT Module by pushing forward on the baffle cone from inside the mount with your finger",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Obsidian Disassembly, step 4, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "No ultrasonic tank for the Obsidian9's aluminium parts",
+   "action": "Sort the parts into two piles before anything gets wet. The tube, the ADAPT Module body, the front cap and the spring retainer are aluminium and Rugged bars them from an ultrasonic cleaner outright — the cavitation plus a hot alkaline bath strips the finish and eats the material. Those four go to a brush and a non-ammonia cleaner instead; only the steel parts see the tank.",
+   "prose": "This is the single most expensive mistake available on this can, and it is invisible until the finish comes off in the basket.",
+   "quote": "WARNING! The suppressor tube, ADAPT™ Module body, front cap and spring retainer are constructed of aluminum and should NOT be used in an ultrasonic cleaner to avoid damage.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "warn": "Tube, ADAPT Module body, front cap and spring retainer: NEVER in an ultrasonic cleaner."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You should have the main tube, the ADAPT Module, the front cap, the spring retainer, the piston assembly and two separate baffle stacks in front of you. The main stack is five baffles — one blast, two core, one module and one short — and the module holds its own seven. Count them now, because the rebuild depends on knowing which stack a loose baffle belongs to. Deep Clean covers the tank routine, the aluminium-safe route, and putting both stacks back in the right order and the right timing.",
+   "prose": "Keep the piston out of the solvent tray until the front cap is back on; it is still the tool for that joint.",
+   "quote": "The main baffle stack consists of 5 baffles 1 blast baffle, 2 core baffles, 1 module baffle and 1 short baffle.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Main Baffle Stack Assembly, p.2",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Ultrasonic the steel only — piston, spring and baffles",
+   "action": "Put the piston, the spring and the baffles into an ultrasonic tank charged with a 50/50 mix of Purple Power and water and run it for about an hour, then pull the parts and let them dry. Rugged expects some carbon to survive the cycle and says so; that residue is cosmetic and does not have to come off. Chasing it with a wire wheel does more harm to the baffle cones than the carbon ever will.",
+   "prose": "Dry them properly before reassembly — trapped water behind a baffle taper is how a stack seizes between range trips.",
+   "quote": "Rugged Suppressors recommends cleaning of the piston, spring and baffles with an ultrasonic cleaner using a 50/50 mixture of Purple Power® and water. Allow the suppressor to be cleaned for approximately 1 hour, then remove the parts and allow to dry.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Obsidian Cleaning, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "The aluminium four get a brush and a non-ammonia cleaner",
+   "action": "The tube, ADAPT Module body, front cap and spring retainer — the parts barred from the tank — are cleaned by hand with a brush and a cleaner that contains no ammonia. Ammonia attacks aluminium and its finish directly, which is why the specification is stated as a chemistry and not as a brand. Work the carbon out of the internal threads and the front cap's cap-tool grooves in particular; those are the surfaces that decide whether the can comes apart by hand next time.",
+   "prose": "A nylon brush and patience beats a stronger chemical here every time.",
+   "quote": "A non-ammonia based cleaner and brush can be used on the suppressor tube, ADAPT Module body, front cap and spring retainer in order to remove any carbon buildup.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Obsidian Cleaning, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rebuild the main stack from the short baffle up",
+   "action": "Start the main stack on the bench, not in the tube. Put the short baffle down on a flat level surface with its cone pointing up, then build upward onto it — each baffle indexes to the one below through machined tabs, so a stack assembled off the bench simply will not seat square. Build it as a column you can look down before it ever goes near the body.",
+   "prose": "Flat and level is doing work in that sentence: a stack built on a cluttered bench picks up a lean you cannot see until it will not go in.",
+   "quote": "Start by placing the short baffle on a flat, level surface with the cone facing up.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Main Baffle Stack Assembly, step 1, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "The #1 blast baffle goes in cone-down",
+   "action": "The last baffle onto the main stack is the blast baffle, engraved #1, and the assembled column drops into the main body with that #1 cone facing down — that is, toward the mount and the muzzle of the pistol. Get it inverted and the blast baffle is at the wrong end of the can with its cone facing the wrong way, which is a baffle strike waiting for the first round. Check the engraving with your eyes, not by shape.",
+   "prose": "Before it goes in, squeeze the assembled stack together and look for daylight between baffles; a rubber mallet seats a gap, force does not.",
+   "quote": "Insert the baffle stack into the main suppressor body with the #1 baffle cone facing down.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Main Baffle Stack Assembly, step 6, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "The ADAPT Module carries its own seven-baffle stack",
+   "action": "The module is not a spacer — it holds a second, separate stack of seven baffles, six module baffles and one short. Build it the same way, short baffle first with the cone up, then the six module baffles indexed onto each other. Keep it physically separate from the main stack on the bench, because a module baffle in the main body is a bore mismatch nobody sees until the can is closed.",
+   "prose": "Twelve baffles live in a fully assembled long-configuration Obsidian9. Count to twelve before you close it.",
+   "quote": "The ADAPT Module baffle stack contains 7 baffles - 6 module baffles and 1 short baffle.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — ADAPT Module Assembly, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Time the module ports to the body ports",
+   "action": "With the module stack assembled, slide it into the module housing and then rotate it so its baffle ports line up with the ports of the stack already in the main body. Rugged calls port alignment a performance requirement, and it is the last thing you can still fix before the front cap goes on. Sight down the bore and turn the stack until the port faces agree, then cap it.",
+   "prose": "A can that suddenly got louder after a rebuild is usually a mistimed module, not a worn baffle.",
+   "quote": "Once the ADAPT Module baffle stack is fully assembled, it can be inserted into the ADAPT Module housing and then rotated to time the baffle ports in the ADAPT Module with the main suppressor body baffle stack ports.",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — ADAPT Module Assembly, step 5, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Grease the piston before it goes back on a booster gun",
+   "action": "If your Obsidian9 runs the piston rather than the fixed mount, put white lithium grease on the outside of the piston before reassembly. The piston has to slide inside its bore under recoil for the pistol to cycle, and a dry, freshly-cleaned piston in a freshly-cleaned bore is exactly when a booster stops stroking. Grease the outside diameter, not the bore of the piston.",
+   "prose": "Do this every time you clean it. Solvent removes the grease as thoroughly as it removes the carbon.",
+   "quote": "When using a booster system, lubricate the outside of the piston with white lithium grease",
+   "cite": "RUGGED SUPPRESSORS | OBSIDIAN9 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Thread Mount/Piston Installation, p.1"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BAFFLES, PISTON & SPRING (steel — tank-safe)",
+   "tasks": [
+    "Ultrasonic in a 50/50 mix of Purple Power and water, about one hour",
+    "Dry fully before reassembly; trapped water behind a taper seizes a stack",
+    "Residual carbon after the cycle is acceptable and does not have to be removed",
+    "Grease the outside of the piston with white lithium grease if you run a booster mount"
+   ]
+  },
+  {
+   "name": "TUBE, ADAPT MODULE BODY, FRONT CAP & SPRING RETAINER (aluminium)",
+   "tasks": [
+    "NEVER an ultrasonic cleaner — these four are aluminium and Rugged bars the tank outright",
+    "Brush plus a non-ammonia cleaner to lift carbon buildup",
+    "Clear the internal threads and the front cap's tool grooves in particular",
+    "No ammonia-based bore solvent anywhere near these parts"
+   ]
+  },
+  {
+   "name": "MOUNT & HOST THREADS",
+   "tasks": [
+    "Keep the barrel shoulder and the mount face clean so the can seats square",
+    "Confirm the fitted mount matches the host: fixed mount for fixed barrels, piston for Browning action pistols",
+    "Re-check that the can is still tight on the barrel at 30 round intervals"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Build the main stack on a flat level surface: short baffle cone-up, then module baffle, then the two core baffles, blast baffle #1 last.",
+  "Squeeze the stack and check for gaps; seat any spacing with a rubber mallet, never by forcing it into the tube.",
+  "Drop the main stack into the main suppressor body with the #1 blast baffle cone facing down.",
+  "Build the ADAPT Module stack separately: short baffle cone-up, then the six module baffles.",
+  "Thread the empty ADAPT Module onto the main body, insert its stack, and rotate it to time its ports to the main body's ports.",
+  "Thread the front cap onto the module with the piston as the tool; an allen key in the piston slot gives extra leverage.",
+  "Fit the correct mount, refit the piston assembly, and hand-tighten the spring retainer onto the rear of the body.",
+  "Grease the outside of the piston with white lithium grease if the host is a Browning action pistol."
+ ],
+ "fncheck": "Look through the bore against a light and confirm it is clear and that no baffle sits proud of the line. Check there is no space between baffles and that the front cap and spring retainer are hand tight with no rattle. Confirm the mount fitted matches the host — fixed mount for a fixed barrel, piston for a Browning action pistol — and that the can seats firmly against a 90-degree barrel shoulder; if it goes tight before it seats, or stays loose after it seats, stop and contact Rugged. On the range, re-check that it is still threaded up at 30 round intervals."
+}

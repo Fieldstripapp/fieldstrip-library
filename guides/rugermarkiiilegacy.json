@@ -1,0 +1,95 @@
+{
+ "row": "rugermarkiiilegacy",
+ "make": "Ruger",
+ "model": "Mark III (legacy)",
+ "sourcedFrom": "Ruger Mark III Standard, Target, Government Target, Competition, Hunter and 22/45 Models Autoloading Pistols Instruction Manual — AP & KAP 9/15 R15 (2015)",
+ "sourceSha256": "601dcd42395761e0a89eb2cc3178d15868d7dd95b25236d830840bc3b41c67c8",
+ "cleanIntro": "The Mark III comes apart in a fixed order and will not tolerate a step out of place: hammer down, then the mainspring housing swings out and takes the bolt stop pin with it, then an empty magazine goes back in so the bolt can drop free. Ruger designs the pistol to strip without tools but names three that help — a soft mallet, a paper clip and a wooden dowel.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear it, then drop the hammer",
+   "action": "Muzzle in a safe direction, safety on if the pistol is cocked. Remove the magazine and check it is empty, draw the bolt fully back and look into the chamber, then release the bolt. Put the empty magazine back in until it clicks, move the safety to fire, point the pistol in a safe direction and pull the trigger so the hammer falls. Then take the empty magazine back out.",
+   "prose": "This looks fussy and every part of it earns its place — the magazine has to be in for the trigger to work, and the hammer has to be down before anything else moves.",
+   "quote": "The hammer must be uncocked before the pistol can be disassembled.",
+   "cite": "Ruger Mark III Standard, Target, Government Target, Competition, Hunter and 22/45 Models Autoloading Pistols Instruction Manual — AP & KAP 9/15 R15 — Disassembly, step 1, p.22",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly or assembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Open the mainspring housing latch",
+   "action": "Find the oval recess in the mainspring housing at the back of the grip. Put a blunt pointed instrument into it and swing the housing latch open, the way a pocket knife opens.",
+   "prose": "A paper clip looped over the latch is the tool most people end up using, and Ruger says so rather than leaving you to work it out.",
+   "quote": "Insert a blunt, ‘pointed’ instrument in the oval recess of the mainspring housing (at the back of the grip) and swing the housing latch open (similar to the operation of a pocket knife).",
+   "cite": "Ruger Mark III Standard, Target, Government Target, Competition, Hunter and 22/45 Models Autoloading Pistols Instruction Manual — AP & KAP 9/15 R15 — Disassembly, step 2, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Housing and bolt stop pin out together",
+   "action": "Swing the whole housing outward on its pivot and pull it downward. The mainspring housing and the bolt stop pin come out as one piece. On a new pistol you may have to tap lightly on the top of the bolt stop pin where it stands proud of the receiver, using a plastic hammer and a wooden dowel, while pulling down on the housing.",
+   "prose": "The pin and the housing are one assembly here — do not go looking for the pin separately. Keep the taps light and off the rear sight.",
+   "caution": "Be careful not to damage the rear sight.",
+   "quote": "Swing the entire housing outward on its pivot and pull downward, removing the mainspring housing and bolt stop pin.",
+   "cite": "Ruger Mark III Standard, Target, Government Target, Competition, Hunter and 22/45 Models Autoloading Pistols Instruction Manual — AP & KAP 9/15 R15 — Disassembly, step 3, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Empty magazine in, muzzle up, trigger back — the bolt drops out",
+   "action": "Push the empty magazine fully into the frame. Point the muzzle upward in a safe direction and pull the trigger rearward. The bolt will fall out of the receiver, or lift straight out. Take the magazine back out.",
+   "prose": "This is the step people fight. The magazine has to be in for the trigger to release, and the muzzle has to be up so gravity does the work.",
+   "quote": "Fully insert the empty magazine into the frame. Point the muzzle upward in a safe direction and pull the trigger rearward. The bolt will drop out of the receiver or it can readily be removed.",
+   "cite": "Ruger Mark III Standard, Target, Government Target, Competition, Hunter and 22/45 Models Autoloading Pistols Instruction Manual — AP & KAP 9/15 R15 — Disassembly, step 4, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel and receiver off the grip frame",
+   "action": "With the mainspring housing and bolt stop pin out as an assembly, and the bolt and magazine removed, strike the rear of the receiver forward with a plastic hammer. The barrel-receiver assembly will come off the grip frame.",
+   "prose": "The order in that sentence is the precondition — all four items have to be out first. That is the whole field strip; there is nothing beyond it.",
+   "quote": "No attempt should be made to remove rivets or staked pins. Further disassembly should be undertaken only by the factory.",
+   "cite": "Ruger Mark III Standard, Target, Government Target, Competition, Hunter and 22/45 Models Autoloading Pistols Instruction Manual — AP & KAP 9/15 R15 — Disassembly, step 5, p.23",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The Mark III manual closes its disassembly at the barrel-receiver coming off the grip frame and bars anything further: \"No attempt should be made to remove rivets or staked pins. Further disassembly should be undertaken only by the factory.\" (p.23). Nothing past the strip is published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent-wet patch through the bore, then a correctly sized brush, then dry patches until they come out clean",
+    "Rimfire fouling is waxy and builds fast — expect more scrubbing than a centrefire bore needs"
+   ]
+  },
+  {
+   "name": "BOLT & RECEIVER",
+   "tasks": [
+    "Use a bristle brush and solvent on the bolt face, the extractor, the chamber and the feed ramp",
+    "Wipe the inside of the receiver and the bolt raceways",
+    "Confirm the firing pin stop pin is still in the bolt before anything goes back together"
+   ]
+  },
+  {
+   "name": "GRIP FRAME",
+   "tasks": [
+    "Wipe the frame interior and the magazine well dry",
+    "Check that the loaded chamber indicator pin has not fallen out of the receiver"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Check the follower moves freely and has adequate tension",
+    "Check the magazine lips are free of nicks and burrs and are not deformed",
+    "Magazines go back dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Safety to fire, hammer into the horizontal (cocked) position — if it will not go, the hammer strut is trapped behind the crosspin; lift the hammer to free it. (That crosspin note does not apply to 22/45 models.)",
+  "Seat the barrel receiver on the frame so the square lug engages the square front recess, and push it rearward until it stops.",
+  "Empty magazine in, muzzle up, pull the trigger so the hammer returns flat, then remove the magazine.",
+  "⛔ Before the bolt goes back: confirm the firing pin stop is in the bolt. Without it the firing pin runs forward far enough to dent the rear of the chamber and ruin the pistol.",
+  "Slide the bolt fully forward into the receiver, press the bolt stop pin through until its tip stands proud of the receiver, then swing the mainspring housing home while holding the trigger back and snap the latch shut.",
+  "Pull the bolt back and confirm it opens fully. If it does not, open the latch and repeat."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, pull the bolt fully back and confirm it opens all the way and returns under its own spring, then check the safety blocks the trigger — pointed in a safe direction throughout."
+}

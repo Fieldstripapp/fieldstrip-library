@@ -1,0 +1,234 @@
+{
+ "row": "rugersecuritysix",
+ "make": "Ruger",
+ "model": "Security-Six",
+ "sourcedFrom": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" (UNDATED — no legible copyright year is printed anywhere in the document; the copyright line on printed p.2 is a degraded scan that OCRs as \"ertire correas t9ß by Sturm. Ruger &\" and no year can be read off it honestly)",
+ "sourceSha256": "555a4b64af14b0ddfa88b975716248608a432fc0cf71cd99c72c041d5f2ae5db",
+ "cleanIntro": "Ruger's own procedure for the Security-Six. Every one of this book's sixteen pages is an image scan with no text layer at all, so all of it is read here by OCR under the 2026-08-20 ruling, with hash, tool and date on record. Two things make this revolver unusual and both are worth knowing before you start: it has no sideplate, so the internals come out through the top and bottom of the grip frame, and the whole strip is done without tools apart from a coin for the grip screw.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "One book, three revolvers",
+   "action": "Check what you have in your hand before you follow anything below. This manual covers three different Ruger double-action revolvers — the Security-Six, the Police Service-Six and the Speed-Six — and Ruger's own parts instructions require you to say which of the three you own, and whether it is blued or stainless, whenever you order for it. The procedures below are the ones this book prints for all three; nothing here is specific to another model or covered by a separate manual.",
+   "prose": "They share a frame and a mechanism and differ in grip frame, sights and barrel. The stainless and blued versions take different part numbers even where the part looks identical.",
+   "quote": "IMPORTANT—REGARDING PARTS ORDERING. Security-Six, Police Service-Six and Speed-Six revolvers are manufactured in Blued steel and Stainless steel versions.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — Service and Parts Policy — PARTS, printed p.11"
+  },
+  {
+   "phase": "Clear",
+   "title": "Uncock it, then swing the cylinder out",
+   "action": "Uncock the revolver first, then press the crane latch and guide the cylinder out of the frame to the left, exactly as you would to load it.",
+   "prose": "Guide it — do not flip it. The crane on this revolver is what holds the cylinder's alignment, and flipping is how that alignment goes.",
+   "quote": "Press crane latch and guide cylinder out as for loading.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — To Unload or Eject Cartridge Cases, printed p.7",
+   "warn": "NEVER CLOSE OR OPEN THE CYLINDER WHILE THE HAMMER IS COCKED."
+  },
+  {
+   "phase": "Clear",
+   "title": "Eject smartly, and mind where the rounds land",
+   "action": "Push the head of the ejector rod smartly toward the rear of the cylinder until it stops, which throws the cartridges or fired cases clear. Hold the revolver at a high angle when ejecting fired cases so they come fully out and cannot slip back under the ejector star.",
+   "prose": "Smartly is the instruction. A slow push lets a case tip and hang under the star, and then the cylinder will not close.",
+   "quote": "Push head of ejector rod smartly toward rear of cylinder until it stops.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — To Unload or Eject Cartridge Cases, printed p.7",
+   "warn": "Do not eject live cartridges onto any surface where a primer might strike a solid object and discharge the cartridge"
+  },
+  {
+   "phase": "Strip",
+   "title": "Nothing gets worked on while it is loaded",
+   "action": "Confirm every chamber is empty and the bore is clear before any cleaning, lubrication or disassembly. Ruger's warning is explicit that a loaded cylinder must never be installed or removed.",
+   "prose": "A cylinder out of the frame is a handful of chambers with no hammer over them. It can still fire if it is dropped or struck.",
+   "quote": "Never clean, lubricate, disassemble or work on a revolver while it is loaded. Never install or remove a loaded cylinder.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — DISASSEMBLY—REASSEMBLY WARNING, printed p.8",
+   "warn": "A loaded cylinder can discharge if dropped or struck. Read instructions before disassembling gun."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the mechanism does not have to come apart",
+   "action": "For routine cleaning the revolver is ready as it stands: cylinder swung out, bore and chambers open at both ends. Ruger states the internal mechanism can be lubricated without disassembly at all, so the full strip below is for intervals and for adverse conditions, not for every session.",
+   "prose": "This revolver was designed to be pulled apart without tools — a coin for the grip screw is the whole tool list — which is why Ruger encourages the deeper strip rather than warning you off it.",
+   "quote": "Always be certain the revolver is unloaded before cleaning. The revolver's internal mechanism can be lubricated without disassembly.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — CARE AND CLEANING, printed p.10",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the muzzle, solvent patch first",
+   "action": "With the cylinder swung out, clean the barrel from the muzzle end: run a cleaning rod with a solvent-coated patch through the bore several times.",
+   "prose": "From the muzzle is what Ruger specifies here — on a swing-out revolver the frame window is in the way of a rod entering at the breech.",
+   "quote": "To clean the revolver after firing, swing the cylinder out and clean the barrel from the muzzle by running a cleaning rod with a solvent coated patch through the bore several times.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — CARE AND CLEANING, printed p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bronze brush the full length, then patch it dry",
+   "action": "Put a .38 calibre bronze wire brush on the rod and push it the full length of the bore several times. Swab again with a solvent-coated patch, wipe the rod clean, then use dry patches until the bore is clean and examine it for remaining fouling.",
+   "prose": "Full length, every stroke. Reversing a brush inside the bore is what wears a crown and a forcing cone.",
+   "aside": "Again swab the bore with a solvent coated patch. Then wipe the rod clean and, using a dry patch, swab the bore until it is clean. Examine the bore to be sure that no fouling remains.",
+   "quote": "A .38 caliber bronze wire brush attached to the cleaning rod should then be pushed the full length of the bore several times.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — CARE AND CLEANING, printed p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Repeat it for all six chambers",
+   "action": "Do the same solvent-brush-dry sequence in each of the six chambers, then swab the bore and chambers with an oily patch and follow with a clean, dry patch. Do not over-lubricate.",
+   "prose": "Six chambers is six times the work and it is the part people cut short. A chamber with fouling ahead of the case mouth is what makes extraction stiff.",
+   "quote": "Swab the bore and chambers with an oily patch, followed by a clean, dry patch. Do not apply excess lubrication.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — CARE AND CLEANING, printed p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Leading — deal with it before it builds",
+   "action": "Some .357 Magnum loads with lead bullets deposit metal fouling in the chamber throats, in the forcing cone and in the bore. If you see leading, clean it out before it accumulates; a dedicated lead-removing tool for bore and chambers is the tool Ruger names.",
+   "prose": "Leading in the forcing cone is the one that costs accuracy first, and it is the hardest to see without a light down the frame window.",
+   "quote": "If 'leading' is noted in your revolver, clean it out before it builds up and interferes with reliable functioning and accuracy.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — CARE AND CLEANING, printed p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Exterior, and where NOT to store it",
+   "action": "Clean the exterior with a solvent and wipe it with an oily cloth if the revolver is going into storage. Clean and wipe dry the external surfaces of barrel, frame and cylinder after use or after exposure to adverse conditions — and do not leave the revolver in a leather, fabric or canvas holster while it is stored.",
+   "prose": "Holster materials pull moisture out of the air and hold it against the metal, and they do it whether the holster feels dry or not.",
+   "aside": "The exterior of the revolver should be cleaned with a solvent and then wiped with an oily cloth if the gun is to be stored.",
+   "quote": "Do not keep your revolver in a leather, fabric or canvas holster when it is stored.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — CARE AND CLEANING, printed p.10"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "When the full strip is called for",
+   "action": "At regular intervals, or whenever the revolver has been exposed to sand, water or other adverse conditions, take it apart and clean and oil it as described in the cleaning steps. Confirm it is unloaded and the cylinder is CLOSED before starting.",
+   "prose": "Cylinder closed is not an oversight in the instruction — the trigger guard assembly has to come out before the cylinder does, and the sequence depends on it.",
+   "caution": "Be certain the revolver is unloaded and the cylinder is closed before starting",
+   "quote": "At regular intervals, or when the revolver has been exposed to sand, water or other adverse condition, disassemble it and clean and oil it as described above.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — CARE AND CLEANING, printed p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Grip screw and grip panels off",
+   "action": "Using a properly fitting screwdriver — or the coin the design was meant to be opened with — remove the grip screw and lift the grip panels off the frame.",
+   "prose": "The disassembly pin lives in a hole in the grip panel locator, so this step is also how you find the tool for the next one.",
+   "quote": "Using a properly fitting screwdrivers remove grip screw and lift grip panels from frame.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — DISASSEMBLY, step 2, printed p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cock the hammer and pin the mainspring strut",
+   "action": "Cock the hammer, then push the disassembly pin about half its length into the hole at the lower end of the mainspring strut. Any similar implement will do the job if the pin has been lost.",
+   "prose": "That pin is what captures the mainspring so the assembly can leave the gun in one piece instead of in three across the floor.",
+   "aside": "Lacking a disassembly pin, any similar implement will serve",
+   "quote": "Cock the hammer. Insert disassembly pin about one half its length into the hole at the lower end of the mainspring strut.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — DISASSEMBLY, step 3, printed p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Mainspring assembly out — and the pin STAYS in it",
+   "action": "With your thumb on the hammer spur, squeeze the trigger and let the hammer go fully forward, then lift the mainspring assembly out. Leave the disassembly pin in place: it does not come out until the mainspring assembly is back in the revolver at reassembly.",
+   "prose": "Pull that pin on the bench and the assembly springs apart, and getting it back together is a two-handed fight you did not need to have.",
+   "caution": "Do not remove the disassembly pin until the mainspring assembly is reinstalled in the revolver",
+   "quote": "Lift out the mainspring assembly.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — DISASSEMBLY, step 4, printed p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hammer pivot out, hammer out — trigger held back",
+   "action": "Pull the trigger and, holding it in its rearward position, push out the hammer pivot. Keeping the trigger back, lift the hammer out of the frame.",
+   "prose": "The trigger has to stay held the whole time. Let it forward and the hammer will not clear.",
+   "quote": "Lift hammer out of frame while trigger is in rearward position.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — DISASSEMBLY, steps 5 and 6, printed p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger guard assembly out",
+   "action": "Use the mainspring assembly as a tool to depress the trigger guard lock plunger inside the frame at the rear of the trigger guard, and at the same time pull the trigger guard assembly out. If the mainspring assembly will not give enough force, use a screwdriver of appropriate size.",
+   "prose": "The whole fire control on this revolver rides in that trigger guard — this is the step that turns it into the sub-assemblies the design is built from.",
+   "aside": "If you cannot apply sufficient force (to depress the plunger) using the mainspring assembly as a 'tool', then use a screwdriver of appropriate",
+   "quote": "Use mainspring assembly to depress trigger guard lock plunger located inside frame at rear of trigger guard",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — DISASSEMBLY, step 7, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cylinder and crane off the frame — catch the latch",
+   "action": "Cradle the frame in your left hand, press the cylinder release button with your right thumb, swing the cylinder assembly out and move it forward off the frame. The cylinder latch will drop out of the frame into your palm as it goes.",
+   "prose": "Expect the latch. It is a small loose part with a spring behind it and it leaves the gun without being asked.",
+   "aside": "The cylinder latch will drop from the frame into the palm of your hand",
+   "quote": "Cradle the revolver frame in your left hand and, with the thumb of your right hand, press the cylinder release button, swing out the cylinder assembly and move it forward, thus removing it from the frame.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — DISASSEMBLY, step 8, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "STOP — that is the whole strip",
+   "action": "Frame, grip panels, mainspring assembly, hammer, trigger guard assembly, cylinder-and-crane and the cylinder latch. Ruger states that disassembly is now complete, that further disassembly is not recommended, and that it is not required for general cleaning and maintenance.",
+   "prose": "Everything the cleaning section asks for is reachable at this point. Going further means fitting parts, and Ruger puts the responsibility for correct fitting squarely on whoever does it.",
+   "quote": "Disassembly is now complete and further disassembly is not recommended, and is not required for general cleaning and maintenance.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — DISASSEMBLY, step 9, printed p.9",
+   "warn": "Firearms users are cautioned that a gun containing modified, broken, malfunctioning or badly worn parts should not be fired!"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean and oil the stripped parts, then rebuild",
+   "action": "Clean and oil the sub-assemblies as described in the routine cleaning, then reassemble in Ruger's order: cylinder latch, cylinder, trigger guard, hammer and hammer pivot, mainspring assembly, grip panels. Only when the hammer is cocked with the mainspring assembly back in the frame does the disassembly pin come out — it will fall free on its own.",
+   "prose": "Wait for it to fall free rather than pulling it. If it will not drop, the upper end of the mainspring strut is not yet seated in its recess in the hammer.",
+   "quote": "Do not remove the disassembly pin until the mainspring assembly is reinstalled in the revolver",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — DISASSEMBLY, step 4, printed p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stainless steel needs its own attention",
+   "action": "Stainless revolvers resist corrosion better than blued ones but they are not immune. Clean and wipe dry the external surfaces of barrel, frame and cylinder after use or exposure, and treat perspiration stains in the grip area with an abrasive ink eraser, crocus cloth or metal polishing compound, using light pressure to blend the colour.",
+   "prose": "Where oil on the outside would be objectionable, a hard paste wax formulated for metals works instead — applied sparingly, allowed to dry hard, buffed, and kept out of the mechanism.",
+   "quote": "External surfaces of the barrel, frame and cylinder—the components most subject to rusting from handling, or from exposure to the elements—should be cleaned and wiped dry after use or after exposure to adverse conditions.",
+   "cite": "Instruction Manual for Ruger Security-Six, Speed-Six, Police Service-Six Double Action Revolvers — ABSENT — no revision or form code is printed; the cover carries the note \"This model out of production. — For reference use only.\" — CARE OF STAINLESS STEEL REVOLVERS, printed p.10"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Cylinder swung out, cleaning from the MUZZLE end",
+    "Solvent-coated patch through the bore several times",
+    ".38 calibre bronze wire brush pushed the full length of the bore several times",
+    "Solvent patch again, then dry patches until the bore is clean",
+    "Examine the bore and confirm no fouling remains"
+   ]
+  },
+  {
+   "name": "CHAMBERS",
+   "tasks": [
+    "Repeat the whole bore procedure for each of the six chambers",
+    "Swab bore and chambers with an oily patch, followed by a clean dry patch",
+    "Do not apply excess lubrication",
+    "Clean any leading out of the chamber throats and forcing cone before it builds up"
+   ]
+  },
+  {
+   "name": "MECHANISM",
+   "tasks": [
+    "A few drops of light firearms oil about the frame openings will reach the mechanism without disassembly",
+    "Strip the revolver at regular intervals, or after sand, water or other adverse conditions",
+    "Clean and oil the sub-assemblies with the same solvents used on the exterior"
+   ]
+  },
+  {
+   "name": "EXTERIOR AND STORAGE",
+   "tasks": [
+    "Clean the exterior with solvent, then wipe with an oily cloth if the gun is to be stored",
+    "Wipe barrel, frame and cylinder dry after use or exposure to the elements",
+    "Do NOT store the revolver in a leather, fabric or canvas holster",
+    "On stainless, blend perspiration stains out with an ink eraser, crocus cloth or metal polish under light pressure",
+    "A sparingly applied hard metal wax replaces oil where oil would be objectionable — keep it off the hammer, trigger and crane latch"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Install the cylinder latch, then install and close the cylinder. Alternatively install the cylinder first and then press the forward portion of the latch against the cylinder latch plunger until the latch is seated.",
+  "Hook the front of the trigger guard into its recess in the frame, align the pawl in its recess by pulling the trigger slightly, and confirm the transfer bar is correctly positioned at the rear of the firing pin.",
+  "Snap the trigger guard shut. If solid resistance is felt, or it will not shut, check the pawl and transfer bar positions rather than forcing it — then rap the trigger guard behind the bow with a wood or plastic screwdriver handle to seat it fully.",
+  "Pull the trigger a few times: with the trigger guard correctly installed it should rotate and lock the cylinder.",
+  "Hold the trigger rearward, insert the hammer, install the hammer pivot, then release the trigger and let the hammer go fully forward.",
+  "With the hammer forward, insert the mainspring assembly, seating the two notches of the mainspring seat on the matching projections of the grip frame — the LARGER notch goes on the projection at the inside front of the grip frame.",
+  "Hold the mainspring assembly in position and cock the hammer; when it cocks, the disassembly pin can be removed and will fall free.",
+  "Squeeze the trigger and ease the hammer down, fit the left grip panel, return the disassembly pin to its nest, fit the right grip panel and tighten the grip screw."
+ ],
+ "fncheck": "Open and close the cylinder and confirm it latches securely. Function the trigger and hammer both single action and double action to be certain all the parts are working properly. Confirm the cylinder cannot be opened or closed with the hammer cocked, and that the hammer/trigger mechanism will not operate until the cylinder is locked in the frame. Check the bore is clear of patch material before anything is loaded."
+}

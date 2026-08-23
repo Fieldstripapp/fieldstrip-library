@@ -1,0 +1,107 @@
+{
+ "row": "mossberg990aftershock",
+ "make": "Mossberg",
+ "model": "990 Aftershock",
+ "sourcedFrom": "990™ AFTERSHOCK™ AUTOLOADING FIREARM — Mossberg owner's manual — Part No. 104254 (not printed)",
+ "sourceSha256": "031affd4065e15879227f89501bfa3c9d07ab3f5277c333afc1dbd8b15053594",
+ "cleanIntro": "An Aftershock is a 990 with no shoulder stock, and both halves of that matter. The strip is simpler at the front — end cap, M-LOK spacer, forearm, barrel — and there is nothing to brace against while you work the action, so the gun wants both hands and a bench. ⛔ And the grip is not a cosmetic part: changing it can change what the firearm legally is.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety fully rearward, nothing on the trigger",
+   "action": "Push the safety button on the tang fully back to ON, keep the muzzle somewhere harmless, and keep fingers and objects off the trigger until the gun is proven empty.",
+   "quote": "Set the safety button fully rearward to the “ON” (SAFE) position. During unloading, never allow your fingers or any other object to contact the trigger.",
+   "cite": "990™ AFTERSHOCK™ AUTOLOADING FIREARM — Mossberg owner's manual — Part No. 104254 — UNLOADING THE FIREARM"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Magazine tube FIRST, chamber last",
+   "action": "Turn the gun trigger-guard-up and empty the tube before you touch the operating handle. Racking first only feeds another shell out of a full tube, and people who work chamber-first end up cycling a loaded gun repeatedly.",
+   "quote": "First, remove the shotshells from the magazine tube.",
+   "cite": "990™ AFTERSHOCK™ AUTOLOADING FIREARM — Mossberg owner's manual — Part No. 104254 — UNLOADING THE FIREARM"
+  },
+  {
+   "phase": "Clear",
+   "title": "Elevator down, shell stop — one at a time, under spring",
+   "action": "Hold the elevator down with your thumb, then press and release the shell stop. One shell comes out under spring pressure — expect force and have a hand ready. Repeat until nothing more comes.",
+   "quote": "While holding the elevator down with your thumb, press and release the shell stop (Figure 8). This will release one shotshell from the magazine tube under spring pressure.",
+   "cite": "990™ AFTERSHOCK™ AUTOLOADING FIREARM — Mossberg owner's manual — Part No. 104254 — UNLOADING THE FIREARM"
+  },
+  {
+   "phase": "Clear",
+   "title": "Now the chamber, and check all three places",
+   "action": "With the tube empty, turn the gun trigger-guard-down and pull the operating handle fully rearward to eject the chambered round. Then check chamber, elevator and magazine tube by eye and by finger — the elevator is the one people skip.",
+   "quote": "Lock the action open, visually and physically check the chamber, elevator, and magazine tube to ensure the firearm is completely unloaded",
+   "cite": "990™ AFTERSHOCK™ AUTOLOADING FIREARM — Mossberg owner's manual — Part No. 104254 — DISASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Eye protection — spatter and sprung parts",
+   "action": "Glasses on before the front end comes apart. There is an action spring in this gun that the book calls out by name.",
+   "quote": "Wear eye protection during disassembly and cleaning to protect your eyes from oil spatter or spring loaded components.",
+   "cite": "990™ AFTERSHOCK™ AUTOLOADING FIREARM — Mossberg owner's manual — Part No. 104254 — DISASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine end cap off, then the M-LOK spacer",
+   "action": "With the action locked open, unscrew the magazine end cap and take the M-LOK spacer off. No allen key and no barrel clamp — that is the stocked 990's front end, not this one.",
+   "quote": "Unscrew the magazine end cap.",
+   "cite": "990™ AFTERSHOCK™ AUTOLOADING FIREARM — Mossberg owner's manual — Part No. 104254 — BARREL REMOVAL"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forearm forward, then the barrel",
+   "action": "Slide the forearm assembly forward, then draw the barrel forward clear of the receiver and magazine tube.",
+   "quote": "Pull the barrel forward, free of the receiver and magazine tube.",
+   "cite": "990™ AFTERSHOCK™ AUTOLOADING FIREARM — Mossberg owner's manual — Part No. 104254 — BARREL REMOVAL"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ The gas piston stays IN the gas cylinder as the barrel comes off",
+   "action": "Keep the piston in the cylinder while the barrel comes away — if it moves out, the barrel binds and you will be pulling against a part that is jammed rather than tight.",
+   "quote": "Ensure the gas piston remains in the gas cylinder or the barrel will bind (Figure 10A).",
+   "cite": "990™ AFTERSHOCK™ AUTOLOADING FIREARM — Mossberg owner's manual — Part No. 104254 — BARREL REMOVAL"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gas piston assembly out of the cylinder",
+   "action": "With the barrel off, take the gas piston assembly out of the gas cylinder. That is the part carbon collects on and the part that stops the gun cycling when it is neglected.",
+   "quote": "Remove the gas piston assembly from the gas cylinder (Figure 10B).",
+   "cite": "990™ AFTERSHOCK™ AUTOLOADING FIREARM — Mossberg owner's manual — Part No. 104254 — GAS SYSTEM COMPONENT REMOVAL"
+  }
+ ],
+ "deepAbsentReason": "The Aftershock book publishes the same single teardown as the 990 and assigns anything further to an authorized Product Service Center. ⛔ No deeper path is invented for it.",
+ "cleaning": [
+  {
+   "name": "GAS SYSTEM — what decides whether it cycles",
+   "tasks": [
+    "Solvent and a brass brush on the piston and the gas cylinder",
+    "Clear the gas ports; carbon here is why an autoloader short-strokes",
+    "Light oil then wipe back — oil in a gas system collects carbon",
+    "Note the order parts came off before anything goes back"
+   ],
+   "quote": "Wear eye protection during disassembly and cleaning to protect your eyes from oil spatter or spring loaded components.",
+   "src": "990™ AUTOLOADING SHOTGUN — Mossberg owner's manual, DISASSEMBLY"
+  },
+  {
+   "name": "BARREL, BOLT AND RECEIVER",
+   "tasks": [
+    "Bore and chamber with solvent, patches until clean",
+    "Bolt face, extractor and locking recesses",
+    "Wipe the magazine tube where the slide rides",
+    "Chokes out and threads cleaned before it is put away"
+   ],
+   "quote": "Lock the action open, visually and physically check the chamber, elevator, and magazine tube to ensure the firearm is completely unloaded",
+   "src": "990™ AUTOLOADING SHOTGUN — Mossberg owner's manual, DISASSEMBLY"
+  }
+ ],
+ "reassembly": [
+  "Safety ON. Gas piston assembly back into the gas cylinder.",
+  "Barrel onto the receiver and magazine tube, seated fully.",
+  "Forearm assembly back down the tube.",
+  "M-LOK spacer, then the magazine end cap, finger tight.",
+  "⛔ The Aftershock grip goes back — nothing else. A buttstock changes what this firearm legally is.",
+  "Function test before it is put away."
+ ],
+ "fncheck": "Safety ON, muzzle safe, chamber elevator and tube proven empty. Lock the bolt back and release it several times — it should run into battery and lock each time. Safety ON, pull the trigger: no hammer fall. Safety off, finger clear: no fall on its own; then the trigger drops it. ⛔ If the action does not lock open or the bolt will not close fully, suspect the gas system or a barrel not seated before you suspect anything else."
+}

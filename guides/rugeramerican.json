@@ -1,0 +1,86 @@
+{
+ "row": "rugeramerican",
+ "make": "Ruger",
+ "model": "American",
+ "sourcedFrom": "Ruger American Rifle Instruction Manual — PM039 (2018)",
+ "sourceSha256": "da225a9cd8536bed47d963290f926828e51e9fa5fd15b6e052ddff64614217c3",
+ "cleanIntro": "Routine cleaning of an American Rifle is bolt-out and no further — Ruger says so. The bolt sleeve teardown it also documents is on the Deep Clean path, with a warning worth reading first.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safe direction, safety on",
+   "action": "Keep the rifle pointed in a safe direction and put the safety in the \"Safe\" position if the firing pin is cocked.",
+   "prose": "Cocked or not decides whether the safety will even engage — check before you handle the bolt.",
+   "quote": "Keep the rifle pointed in a safe direction!",
+   "cite": "Ruger American Rifle Instruction Manual — PM039 — Disassembly, step 1, p.12",
+   "warn": "Rifle must be unloaded prior to disassembly."
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber and magazine empty",
+   "action": "Check that the chamber and magazine are empty, then remove the magazine.",
+   "prose": "Both, in that order.",
+   "quote": "CHECK TO BE CERTAIN THAT THE CHAMBER AND MAGAZINE ARE EMPTY. Remove the magazine.",
+   "cite": "Ruger American Rifle Instruction Manual — PM039 — Disassembly, step 2, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out — and stop there",
+   "action": "Open the bolt and pull it to the rear while pressing on the rear of the bolt stop, which sits on the left of the receiver on a right-handed rifle and on the right on a left-handed one.",
+   "prose": "That is the whole routine strip. Ruger is explicit that going further is rarely necessary.",
+   "quote": "This is as far as you need to dismantle the rifle for a routine cleaning. It is rarely necessary to proceed further.",
+   "cite": "Ruger American Rifle Instruction Manual — PM039 — Disassembly, step 3, p.12",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Before you touch the cocking piece",
+   "action": "The bolt sleeve can come off, but read the warning first: do not rotate the cocking piece beyond the positions the manual shows.",
+   "prose": "If it turns too far it falls to the bottom of the cocking cams, and getting it back takes real effort and possibly tools. It only rotates clockwise relative to the bolt body, viewed from the rear.",
+   "caution": "If the cocking piece is turned too far in either direction, it will \"fall down\" to the bottom of the cocking cams.",
+   "quote": "Do not rotate the cocking piece beyond the positions shown in the instructions.",
+   "cite": "Ruger American Rifle Instruction Manual — PM039 — Disassembly, step 4, To remove the bolt sleeve, p.12",
+   "warn": "If the cocking piece is turned too far in either direction, it will \"fall down\" to the bottom of the cocking cams."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Dual cams mean two turns",
+   "action": "Because there are dual cocking cams, you may need to rotate the cocking piece up the cams twice to return it to its proper position.",
+   "prose": "Expect it to feel wrong once before it feels right.",
+   "quote": "Because there are dual cocking cams, you may need to rotate the cocking piece up the cams twice in order to return the cocking piece to its proper position.",
+   "cite": "Ruger American Rifle Instruction Manual — PM039 — Disassembly, step 4, To remove the bolt sleeve, p.12"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Clean from the chamber end where the design allows, solvent then brush then dry patches",
+    "Check the chamber and the locking lug seats"
+   ]
+  },
+  {
+   "name": "BOLT",
+   "tasks": [
+    "Wipe the bolt body and the locking lugs",
+    "Clean the bolt face and around the extractor",
+    "Light oil on the lugs and the cocking cams"
+   ]
+  },
+  {
+   "name": "RECEIVER & STOCK",
+   "tasks": [
+    "Wipe the receiver raceways and the magazine well",
+    "Check the action screws are still tight",
+    "Keep oil off the stock bedding"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the bolt to the receiver with the bolt stop depressed, then release the stop.",
+  "Cycle the bolt several times before handling further."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, check the safety blocks the trigger and the bolt cycles and locks up cleanly."
+}

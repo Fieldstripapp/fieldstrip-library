@@ -1,0 +1,131 @@
+{
+ "row": "keltecksg",
+ "make": "Kel-Tec",
+ "model": "KSG",
+ "sourcedFrom": "KSG KSG COMPACT KSG TACTICAL KSG25 KSG410 KS7 SHOTGUNS SAFETY, INSTRUCTION & PARTS MANUAL — ABSENT — no revision or edition code printed on any page (UNKNOWN — not printed in the document)",
+ "sourceSha256": "a6dba3afde4e270b4abd19933da8276d087a2b377f9dca14689ff260011aee9e",
+ "cleanIntro": "The dual-tube 12-gauge bullpup, 6+6+1, stripped by pulling two frame pins and unscrewing two slotted magazine bolts. This book covers six shotguns, so read the variant tag on every heading — the KS7's single mag cap procedure is in the same section and is a different gun. Kel-Tec ends the field strip with barrel and receiver apart, so there is no Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check which shotgun this book is describing to you",
+   "action": "Confirm you have a KSG: two magazine tubes with a selector between them, a picatinny rail over the barrel, 18.5-inch barrel. Then read every heading in the manual for its variant tag before you follow it.",
+   "prose": "This is a six-gun book — KSG, KSG Compact, KSG Tactical, KSG25, KSG410 and KS7 — and Kel-Tec tags its sections rather than writing six manuals. The tags are the whole navigation: (ALL SHOTGUNS), (ALL KSG VARIANTS, KSG410), and (KS7). Following an untagged glance at the wrong section on a KSG means reaching for a mag cap that does not exist on it. The specification differences are real too: the KSG holds 6+6+1 in 3-inch shells against the Compact's 4+4+1 and the KSG25's 10+10+1.",
+   "quote": "NOTE: your particular variant may or may not have information in each section; this manual should be read and understood in its entirety.",
+   "cite": "KSG KSG COMPACT KSG TACTICAL KSG25 KSG410 KS7 SHOTGUNS SAFETY, INSTRUCTION & PARTS MANUAL — ABSENT — no revision or edition code printed on any page — B. Overview — Description (ALL SHOTGUNS), p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety on, action forward, then empty BOTH magazine tubes",
+   "action": "Point the muzzle safely, lock the action forward and press the safety across until the white S shows. Rotate the outer cartridge catch down to release the shells from the selected tube, then switch the selector to the other tube and do it again.",
+   "prose": "Two tubes means two unloading operations, and forgetting the second one is the characteristic KSG mistake — the selector hides a full tube behind a demonstrably empty one. Shells come out of the port with real force, so control them. The tube is empty when the magazine follower is visible through the ejection port; that is the confirmation to look for rather than counting shells out. Do all this with the action locked forward so nothing can feed while you work.",
+   "quote": "Rotate outer cartridge catch down (away from the shells) to release one or more shells from the magazine tube. NOTE: shells will eject with some force from the magazine tube.",
+   "cite": "KSG KSG COMPACT KSG TACTICAL KSG25 KSG410 KS7 SHOTGUNS SAFETY, INSTRUCTION & PARTS MANUAL — ABSENT — no revision or edition code printed on any page — C. Operation Instructions — Unloading (ALL SHOTGUNS), step 4, p.14"
+  },
+  {
+   "phase": "Clear",
+   "title": "Action fully rearward, then check the chamber by eye and by finger",
+   "action": "Slide the action fully rearward and check the chamber both visually and with a finger to confirm the shotgun is unloaded.",
+   "prose": "On a bullpup with a combined loading and ejection port under the receiver you are looking up into the gun rather than down into it, and a chambered shell is genuinely easy to miss by eye alone — which is why the manual asks for tactual confirmation as well. Do this after both tubes are empty, not before, or a shell can lift onto the lifters while you are unloading the other side. Keep the hand on the action between the arrows: gripping behind the picatinny rail short-strokes it and pinches.",
+   "quote": "With the action fully rearward, always visually and tactually check the chamber to confirm the firearm is unloaded.",
+   "cite": "KSG KSG COMPACT KSG TACTICAL KSG25 KSG410 KS7 SHOTGUNS SAFETY, INSTRUCTION & PARTS MANUAL — ABSENT — no revision or edition code printed on any page — C. Operation Instructions — Unloading (ALL SHOTGUNS), step 8, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Selector to centre, then pull the frame pins and park them",
+   "action": "Put the magazine selector in its centre position and confirm the safety is on. Pull the two frame pins beside the ejection port out of the grip assembly and push them into the retaining holes provided.",
+   "prose": "Centre selector blocks both tubes from feeding, which is the state you want a dual-tube gun in before it comes apart. The retaining holes are not decoration — they are where the pins live while the shotgun is in pieces, and they exist because these two pins are what the whole grip assembly hangs on. Pins in the holes, not on the bench. They should push out with thumb pressure; if they fight, the grip is under load and needs to be settled square.",
+   "quote": "Remove the frame pins adjacent to the ejection port located on the grip assembly and place them in the retaining holes as shown below.",
+   "cite": "KSG KSG COMPACT KSG TACTICAL KSG25 KSG410 KS7 SHOTGUNS SAFETY, INSTRUCTION & PARTS MANUAL — ABSENT — no revision or edition code printed on any page — D. Field Strip — Removal of Grip Assembly (ALL SHOTGUNS), step 3, p.15",
+   "warn": "Always wear safety glasses when disassembling the firearm to protect your eyes from components that are under pressure, such as springs."
+  },
+  {
+   "phase": "Strip",
+   "title": "Rotate the grip assembly up and off",
+   "action": "Rotate the rear of the grip assembly directly upwards to lift it away from the receiver.",
+   "prose": "It comes off by rotation about the grip catch at its front, not by pulling straight down — the front of the grip is hooked under a catch on the receiver and lifting the rear is what disengages it. The whole fire control, the trigger, the cross-bolt safety and the sear go with it as one unit. Note how it sat, because it goes back the same way: nose into the catch first, then rotate down.",
+   "quote": "Remove the grip assembly by rotating the rear of the assembly directly upwards as shown below.",
+   "cite": "KSG KSG COMPACT KSG TACTICAL KSG25 KSG410 KS7 SHOTGUNS SAFETY, INSTRUCTION & PARTS MANUAL — ABSENT — no revision or edition code printed on any page — D. Field Strip — Removal of Grip Assembly (ALL SHOTGUNS), step 4, p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pull the stock rearward off the receiver",
+   "action": "Grip the stock and pull it straight rearward to remove it.",
+   "prose": "There is no catch and no screw — the stock is a slide fit into the rear of the receiver and it draws straight back. It carries the lifters' arms with it, which is why it has to come off before the bolt will lift out. Pull square rather than levering it side to side; the arms run either side of the bolt and twisting them is how they get bent.",
+   "quote": "Grip the stock as shown below and pull rearward to remove.",
+   "cite": "KSG KSG COMPACT KSG TACTICAL KSG25 KSG410 KS7 SHOTGUNS SAFETY, INSTRUCTION & PARTS MANUAL — ABSENT — no revision or edition code printed on any page — D. Field Strip — Removal of the Stock (ALL SHOTGUNS), step 1, p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Action to the rear, then lift the bolt out of the receiver",
+   "action": "Move the forend to its rearmost position to expose the bolt. Reach in, rotate the bolt on its side and lift it out.",
+   "prose": "The bolt only becomes accessible with the action all the way back — forward, it is locked into the barrel extension and there is nothing to grip. It comes out rotated onto its side, because upright it is wider than the opening. Note the bolt lock's angled bottom section as it comes out; that is the surface that has to meet the bolt carrier's angled section on the way back in, and getting it wrong is why a KSG sometimes will not lock up on reassembly.",
+   "quote": "The bolt should now be resting in the receiver of the shotgun and can be easily removed by reaching in and rotating the bolt on its side.",
+   "cite": "KSG KSG COMPACT KSG TACTICAL KSG25 KSG410 KS7 SHOTGUNS SAFETY, INSTRUCTION & PARTS MANUAL — ABSENT — no revision or edition code printed on any page — D. Field Strip — Removal of the Bolt (ALL SHOTGUNS), step 2, p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Two magazine bolts, half a turn each, alternating",
+   "action": "Using a coin or the rim of a spent shell, unscrew the two slotted magazine bolts on the front of the shotgun — half a turn on one, half a turn on the other, alternating the whole way out.",
+   "prose": "Both bolts thread into the same piece, so taking one out ahead of the other cocks that piece and binds them both. The alternating half turns keep it square. A quarter is the right tool; a screwdriver blade too narrow for the slot will roll the edges of a bolt you cannot easily replace. This is the KSG path — the KS7 in this same section has one mag cap instead, under magazine-spring pressure, and that procedure is not this one.",
+   "quote": "The barrel assembly is secured to the receiver assembly via two slotted magazine bolts located on the front of the shotgun.",
+   "cite": "KSG KSG COMPACT KSG TACTICAL KSG25 KSG410 KS7 SHOTGUNS SAFETY, INSTRUCTION & PARTS MANUAL — ABSENT — no revision or edition code printed on any page — D. Field Strip — Separation of the Barrel and Receiver Assemblies (ALL KSG VARIANTS, KSG410), p.19",
+   "warn": "The manual also prints a section headed \"Separation of the Barrel and Receiver Assemblies (KS7)\" on p.17. That one belongs to the single-tube KS7 and its mag cap, and does not apply to a KSG."
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the actuator down and pull the two assemblies apart",
+   "action": "Press the CTG stop actuator down for clearance, turn the shotgun upside down, and pull the barrel assembly and receiver assembly straight apart.",
+   "prose": "The pull is linear — the two assemblies separate along the bore axis and nothing rotates or hinges. The actuator has to be held down or it catches on the mag stop actuator as the assemblies pass each other, and forcing it past is how that part gets bent. Upside down is the manual's orientation because gravity then works with you rather than dropping the action out. The action may stay attached to the barrel; that is normal and correct.",
+   "quote": "With the shotgun upside-down, simultaneously pull the barrel assembly and receiver assembly linearly apart as shown below.",
+   "cite": "KSG KSG COMPACT KSG TACTICAL KSG25 KSG410 KS7 SHOTGUNS SAFETY, INSTRUCTION & PARTS MANUAL — ABSENT — no revision or edition code printed on any page — D. Field Strip — Separation of the Barrel and Receiver Assemblies (ALL KSG VARIANTS, KSG410), step 3, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Receiver assembly, barrel assembly, bolt, stock assembly, grip assembly and two frame pins in their retaining holes. That is the whole strip Kel-Tec publishes for the KSG.",
+   "prose": "Everything the cleaning section asks for is now open: the exterior of the bolt and receiver, the bore and chamber, the breech of the barrel and the barrel extension, and both magazine tubes. The dual tubes are worth the brush — a bullpup shotgun's tubes sit right beside the barrel and collect the heat and the residue. Going further is tied to the warranty, which is void if the firearm is disassembled beyond the instructions in the manual.",
+   "quote": "Further disassembly should only be performed by a certified gunsmith or KelTec. Attempting further disassembly could void your warranty.",
+   "cite": "KSG KSG COMPACT KSG TACTICAL KSG25 KSG410 KS7 SHOTGUNS SAFETY, INSTRUCTION & PARTS MANUAL — ABSENT — no revision or edition code printed on any page — D. Field Strip, closing note, p.20",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The combined shotgun manual publishes one level of disassembly, headed \"D. FIELD STRIP\", and closes it with a note that further disassembly should only be performed by a certified gunsmith or KelTec and could void the warranty. The Limitations of Warranty section repeats the same bound as a voiding condition — the firearm disassembled beyond the instructions in the Instruction Manual. Its cleaning section has a single tier keyed to \"after every shooting session\" with no deeper interval and no further procedure. Nothing past the field strip is published, so there is no deeper procedure to walk.",
+ "cleaning": [
+  {
+   "name": "BOLT, RECEIVER & BREECH",
+   "tasks": [
+    "Thoroughly clean all exterior sides of the bolt and receiver with solvent and a brush",
+    "Small brush dipped in solvent around the breech of the barrel and the barrel extension and every adjacent area that has taken powder or primer residue",
+    "Check the bolt lock's angled section is clean — it is the surface that has to mate with the bolt carrier on reassembly"
+   ]
+  },
+  {
+   "name": "BORE & MAGAZINE TUBES",
+   "tasks": [
+    "Brush the barrel bore and chamber with a good powder-removing solvent and bore brush, then wipe clean with patches or a swab",
+    "Clean BOTH magazine tubes with solvent and a brush if needed — a dual-tube gun has twice the plastic wad residue and the selector binds if a shell is not fully home",
+    "Check the followers move freely down each tube; the follower showing at the port is your empty indicator and it needs to be visible"
+   ]
+  },
+  {
+   "name": "OIL & FUNCTION",
+   "tasks": [
+    "Use a cloth to apply a light coating of high-quality gun oil to all internal and external metal surfaces, let it soak into the external surfaces for about five minutes, then wipe clean",
+    "Never use automotive brake cleaner or any solvent not designed for polymer firearms",
+    "Manually cycle the action back and forth to check the function of the firearm before it goes away"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Orient the barrel and receiver assemblies and push them together so the magazine bolt screw threads seat into the magazine plug screw threads; press the actuator down for clearance under the mag stop actuator if needed.",
+  "Tighten the two magazine bolts alternately, half a turn at a time, until both firmly resist — they screw into the same piece and will bind if one is run ahead of the other.",
+  "Check that NO GAP exists between the barrel extension and the receiver, and try to pull the assemblies apart and press them together; any travel or gap means the bolts are not fully tightened.",
+  "Move the action to its rearmost position and set the bolt on the bolt carrier — the bolt lock's bottom angled section attaches to the carrier's angled section.",
+  "Slide the action fully forward to lock the bolt into the barrel extension.",
+  "Slide the stock into the receiver with the lifter arms passing either side of the bolt.",
+  "Place the front of the grip into the grip catch, rotate the grip down onto the receiver, line up the frame pin holes and fit the frame pins.",
+  "Cycle the action to confirm the shotgun functions, and re-check that any accessory is still properly installed and has not loosened."
+ ],
+ "fncheck": "With both magazine tubes emptied and the chamber checked: press down the action release and cycle the action through its full travel — it should run without binding and lock forward on its own. Check no gap is visible between the barrel extension and the receiver and that the two assemblies cannot be pulled apart or pressed together; any movement there means the magazine bolts need retightening and the shotgun must not be fired. The safety should only engage with the hammer cocked, showing white S for safe and red F for fire, and the selector should move freely to left, centre and right with no shell partly loaded in either tube."
+}

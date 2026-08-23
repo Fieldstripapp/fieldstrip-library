@@ -1,0 +1,229 @@
+{
+ "row": "browningxbolt",
+ "make": "Browning",
+ "model": "X-Bolt",
+ "sourcedFrom": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "e840ea185c52afc3367c71d98f290c18275b39c9add90339ff05e430846a9398",
+ "cleanIntro": "The X-Bolt is a three-lug, 60-degree-lift bolt rifle feeding from a detachable rotary magazine, with a top-tang \"safety\" and a bolt unlock button on the bolt handle that lets the action be worked while the safety stays on safe. Its published strip is exactly one operation — the bolt out of the receiver — and everything Browning asks you to clean is reached through the open action from there. The book publishes no bolt disassembly, no barrel or stock removal, and it tells you not to take the magazine apart at all. What it does publish beyond cleaning is a set of fitting adjustments — trigger weight, comb height, the comb knob, length of pull — and every one of them is prefaced with \"some X-Bolt rifles\", so the first job on any of them is establishing what your rifle actually has.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety on safe, bolt open, and look into the chamber",
+   "action": "Draw the top-tang \"safety\" rearward so the \"S\" shows, then lift the bolt handle and pull the bolt fully back to eject anything in the chamber, leaving the action open. Look into the chamber and see that it is empty — the X-Bolt's ejection port is small and the round is thrown clear before you can register whether one was there. Do not judge the rifle by the red dot on the tang either: Browning warns that time, weather and cleaning agents erase the red, so the letter and the physical position of the safety are what you read, not the colour.",
+   "prose": "The safety blocks the trigger and locks the bolt closed, which is why the bolt unlock button exists — see two steps on.",
+   "quote": "Open the bolt and eject any cartridge in the chamber. Leave the bolt in the rearward position with the action open. Look into the chamber to verify that it is unloaded.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Unloading > UNLOADING THE RIFLE, steps 1-2",
+   "warn": "Never read the rifle's condition off the red dot alone — the paint wears away."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out — and on an X-Bolt that changes nothing about the chamber",
+   "action": "Pull the magazine release on the forward edge of the magazine rearward with your index finger and let the magazine drop into your hand. The X-Bolt has no magazine disconnect: a cartridge left in the chamber will fire with the magazine sitting on the bench, if the safety is forward and the trigger is pulled. Browning states that plainly and repeats it twice, once under Magazine and again ahead of Unloading, which is the measure of how often it gets assumed the other way. Chamber first, magazine second, and never the reverse order as your proof.",
+   "prose": "Standard-calibre magazines hold four, magnums and WSM three, plus one in the chamber — count what comes out against what you loaded.",
+   "quote": "REMOVING THE MAGAZINE FROM THE RIFLE DOES NOT PREVENT THE RIFLE FROM BEING FIRED. IF A CARTRIDGE IS IN THE CHAMBER, THE “SAFETY” IS IN THE OFF SAFE POSITION, AND THE TRIGGER IS PULLED, THE RIFLE WILL FIRE EVEN IF NO MAGAZINE IS PRESENT IN THE RIFLE.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Unloading, opening warning (repeated under Magazine)",
+   "warn": "An empty magazine well is not an unloaded rifle."
+  },
+  {
+   "phase": "Clear",
+   "title": "Strip the rotary magazine and any spares",
+   "action": "The X-Bolt's rotary magazine holds its cartridges under the feed lips and will not tip them out, so unload it deliberately: push forward on the rim of the top cartridge and slide it out from under the lips, one at a time, letting the rotor index up between each. Work forward on the rim rather than levering up on the case — a bolt-rifle cartridge that gets its bullet pushed back into the case is a pressure problem later. Do every spare magazine on the bench at the same time, then set them all somewhere the cleaning solvent will not reach.",
+   "prose": "Browning has you unload the chamber first and the magazine second here too.",
+   "quote": "Strip the cartridges from the magazine by pushing forward on the rim of the top cartridge and sliding each cartridge out, one at a time.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Unloading > UNLOADING THE MAGAZINE, step 3"
+  },
+  {
+   "phase": "Clear",
+   "title": "The bolt unlock button — work the action without leaving safe",
+   "action": "The button on the upper part of the X-Bolt's bolt handle is not a bolt release; it is the override that lets the bolt turn while the top-tang safety is still on safe. Press it down, rotate the bolt handle up, then draw the bolt fully rearward — the chamber empties and the trigger stays blocked the whole time. This is the way to unload the rifle, and it is the feature that separates the X-Bolt from actions where you must push the safety off to open the bolt. It is also the first move of the bolt-removal procedure, so learn its feel now.",
+   "prose": "Release the button once the handle is up; it only has to be held for the lift.",
+   "quote": "To unload the chamber with the “safety” in the on safe position, simply press the bolt unlock button down and rotate the bolt upward, then draw it completely rearward.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Bolt Unlock Button"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out of the receiver — the bolt stop is the bar on the left",
+   "action": "With the safety on safe and the chamber confirmed empty, press the bolt unlock button and rotate the bolt handle up, draw the bolt back to its stop, then press inward on the rear end of the bolt stop — the horizontal bar on the left side of the receiver — and draw the bolt straight out. It comes out level; do not lever it upward against the stop. This is the whole of the X-Bolt's published strip, and it is what opens the receiver and the chamber for cleaning. Put the bolt somewhere it will not roll off the bench, cocking indicator upward.",
+   "prose": "Reinsertion needs the safety in the off safe position, which is worth knowing before you have the bolt in your hand.",
+   "quote": "The bolt stop is the horizontal bar on the left side of the receiver. Press inward on the rear end of the bolt stop and carefully draw the bolt to the rear and out of the receiver (Figure 6).",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Inserting and Removing the Bolt > Removing the Bolt, step 3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Keep the cocking indicator off the comb as the bolt clears",
+   "action": "As the bolt leaves the receiver it swings down and back, and the serrated cocking indicator standing proud of the bolt shroud is the part that reaches the stock first. Browning's notice is specifically about that contact: it will strike and damage the comb of the stock if you let the bolt drop rearward as it clears. Lift the bolt clear of the receiver ring and carry it back and away from the stock rather than dragging it over the comb. On a rifle with an adjustable comb this matters twice over, because the comb is a separate raised piece with an edge for the indicator to catch on.",
+   "prose": "Browning also has you take the bolt out before any comb adjustment work, for the same reason approached from the other side.",
+   "caution": "The cocking indicator will mark the comb if the bolt is dragged rearward over it.",
+   "quote": "NOTICE: WHEN REMOVING THE BOLT FROM THE RECEIVER, TAKE CARE TO PREVENT THE COCKING INDICATOR FROM STRIKING AND DAMAGING THE COMB OF THE STOCK.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Inserting and Removing the Bolt > Removing the Bolt"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the breech end, and never touch the crown",
+   "action": "With the bolt out, the X-Bolt cleans the way a bolt rifle should — rod in at the breech, following the bullet's direction, with a tip and patch of the correct calibre for a snug fit. Run it back and forth several times and keep the rod off the muzzle crown, because the crown is the last thing the bullet touches and damage there shows up as accuracy loss that no later cleaning recovers. Normal powder residue is expected and not serious; a patch wet with nitro solvent lifts most of it. Where fouling is genuinely heavy use a brass bore brush and push it completely out of the muzzle before drawing it back, so the bristles do not fold and shed in the bore.",
+   "prose": "A bore guide through the open receiver keeps the rod centred and keeps solvent out of the trigger.",
+   "caution": "Never let the cleaning rod strike the muzzle crown.",
+   "quote": "Insert the rod and patch into the barrel at the breech end and run it back and forth several times. Care should be exercised to ensure that the cleaning rod does not strike the crown of the muzzle, as damage to this area can affect the accuracy of your rifle.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, step 2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Copper solvent, and more often on a magnum X-Bolt",
+   "action": "Powder fouling and jacket fouling are two different deposits and nitro solvent only takes the first. Browning asks for a copper solvent swabbed through the bore to the solvent manufacturer's own procedure, because modern jackets are mainly copper and the residue plates onto the bore rather than sitting loose in it. On magnum-calibre X-Bolts the interval is shorter — more velocity, more jacket left behind — so inspect and clean those more often rather than on the same schedule as a standard calibre. Wipe the chamber and bore dry afterwards and pass one lightly oiled patch through for preservation.",
+   "prose": "Then check the barrel and chamber for a patch left behind, which is a real failure mode when you are working through an open action with a rod.",
+   "quote": "To maintain the utmost accuracy of your rifle it is recommended you clean the bore with a copper solvent. Modern bullet jackets are made mainly of copper. Residues from copper bullet jackets stick to the barrel and require more frequent cleaning. Magnum calibers will require more frequent inspection and cleaning.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, step 2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver and action — a film of oil, never a pour",
+   "action": "Use a small brush or a rag to lift dirt and foreign matter out of the inside of the receiver and the rest of the action while the bolt is out, then put a very light film of quality light gun oil on the moving parts — the bolt body and lugs, the raceways, the bolt stop. Use it sparingly. Oil poured into an X-Bolt's receiver has somewhere to go on a wood-stocked rifle: it drains down into the inletting, softens the wood permanently and loosens the stock, which is a repair rather than a clean-up. A film you can barely see is what this action wants.",
+   "prose": "Wipe the exposed metal with a lightly oiled cloth afterwards and remove the finger marks; they are where moisture collects.",
+   "quote": "Lightly lubricate all moving parts with a high-quality, light gun oil. Use oil sparingly, a very light film is sufficient.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, step 5",
+   "warn": "Do not pour oil into the receiver — it drains into the wood and permanently loosens the stock."
+  },
+  {
+   "phase": "Clean",
+   "title": "The X-Bolt magazine is cleaned assembled — Browning says not to take it apart",
+   "action": "Do not open the rotary magazine. Browning states outright that disassembly of the X-Bolt magazine is not recommended, and the rotor, spring and body are a fitted assembly that does not go back the way it came out. Clean it as a sealed unit instead: spray it inside and out with a solvent that will not attack the polymer or corrode the metal, put a finger over the loading port and shake it hard with the port pointed away from you, then dry it with compressed air or let it air dry. The interval is by round count — normally after 500 to 1000 cartridges, or whenever inspection shows build-up.",
+   "prose": "Grit and old lubricant collecting in the rotor is what makes a rotary magazine feel notchy and start dropping rounds low in the stack.",
+   "quote": "It is not recommended that the X-Bolt magazine be disassembled.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING THE MAGAZINE",
+   "warn": "Do not disassemble the X-Bolt magazine."
+  },
+  {
+   "phase": "Clean",
+   "title": "The assembly screw at the rear of the magazine is not a service point",
+   "action": "There is a screw at the rear of the X-Bolt magazine and it is the one fastener on this rifle you must leave alone. It holds the rotary assembly together under spring tension; backing it off does not open the magazine for cleaning, it renders the magazine inoperative. Browning gives no reassembly procedure for it because there is not meant to be one. If solvent and compressed air have not fixed a magazine, the answer is a replacement magazine from a Browning dealer, not a screwdriver.",
+   "prose": "It looks like a takedown screw, which is exactly why the notice exists.",
+   "quote": "NOTICE: DO NOT TAMPER WITH THE ASSEMBLY SCREW ON THE REAR OF THE MAGAZINE. DOING SO WILL RENDER THE MAGAZINE INOPERATIVE.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Magazine (repeated under CLEANING THE MAGAZINE)",
+   "warn": "Never turn the assembly screw at the rear of the magazine."
+  },
+  {
+   "phase": "Strip",
+   "title": "The bolt does not come apart — that is the published limit",
+   "action": "The bolt you have in your hand is the end of the X-Bolt's teardown. Browning publishes no procedure for removing the bolt shroud, the firing pin assembly or the three-lug bolt head, and states that attempting to disassemble the inner mechanism assemblies may permanently damage the firearm. Clean the bolt as a unit — wipe the lugs and the body, brush the bolt face and the extractor cut, put a light film of oil on the bearing surfaces — and leave the striker mechanism sealed. If the rifle has been dunked, or the firing pin feels sluggish, that goes to a qualified gunsmith or to Browning's service facility.",
+   "prose": "The same notice closes the magazine-cleaning section, which is Browning bounding the whole book rather than one procedure.",
+   "quote": "NOTICE: NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL. YOUR FIREARM IS A SPECIALIZED, FINELY FITTED MECHANISM. YOU MAY PERMANENTLY DAMAGE IT BY ATTEMPTING TO DISASSEMBLE THE INNER MECHANISM ASSEMBLIES.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions, closing notice",
+   "warn": "No disassembly beyond bolt removal is published for the X-Bolt."
+  },
+  {
+   "phase": "Clean",
+   "title": "Trigger weight — a 3 to 5 pound band, set at 4 from the factory",
+   "action": "The X-Bolt trigger is adjustable, but only inside a band Browning defines: approximately 3 to 5 pounds, factory pre-set at 4. To reach the screw, unload the rifle and open the bolt, then take out the two bottom-metal screws with a 4mm Allen wrench and lift the bottom metal out of the stock; the adjustment screw sits just in front of the trigger and takes a 2mm Allen wrench, clockwise for heavier. Go too far clockwise and the trigger cannot be pulled at all — back it off counterclockwise until it can. Measure the result on a spring scale or trigger weights with the rifle unloaded and the bolt closed, rather than judging it by feel.",
+   "prose": "Reinstall the trigger guard and its screws snugly when you are done, and re-check the safety and the bolt lock before the rifle goes away.",
+   "caution": "Stay inside 3 to 5 pounds. Too heavy and the trigger will not release at all.",
+   "quote": "The X-Bolt’s trigger is pre-set at the factory. The trigger pull weight can be adjusted within a range of approximately 3 to 5 pounds, and is factory pre-set at 4 pounds.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Trigger Adjustment"
+  },
+  {
+   "phase": "Clean",
+   "title": "Adjustable comb — only on some X-Bolt rifles, and the bolt comes out first",
+   "action": "Check whether your stock actually has an adjustable comb before you go looking for the hardware: Browning fits it to some X-Bolt rifles, to line the eye up with larger objectives, mounts with built-in elevation, or a different shooting position. Where it is fitted, take the bolt out before adjusting — the manual asks for that specifically to avoid damaging the comb — then loosen the comb knob or the 5mm Allen bolt on the side of the stock counterclockwise, set your height with your eyes closed and your normal cheek weld, and tighten clockwise without overtightening. Some combs carry markings on the rear so you can record a bench and a field setting.",
+   "prose": "A comb set by eye while looking through the scope is a comb set to where you are pushing your face, not to where it naturally lands.",
+   "quote": "Some X-Bolt rifles feature a comb that is adjustable for height to optimize eye-to-scope alignment with larger diameter optics, scope mounts with built-in elevation or when shooting from different positions.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Comb Adjustment"
+  },
+  {
+   "phase": "Clean",
+   "title": "Comb knob on the wrong side — a composite-stock-only swap",
+   "action": "The comb knob must sit on the shooter's own side — right side for a right-handed shooter, left for a left-handed one — or it sits under the cheek and can strike the face on recoil. Moving it is published for the composite stock only, and it is a deeper job than it looks: recoil pad off through the two access holes with a #2 Phillips, comb retaining clip pulled off the rear comb post with needle-nose pliers, comb lifted out, the two comb-riser screws loosened a quarter inch, then the comb knob bolt and the riser spacer swapped to the opposite sides of the riser. Do not attempt it on a wood stock; Browning does not publish it for one.",
+   "prose": "Put petroleum jelly in the recoil-pad access holes before the screwdriver goes in, or the pad tears around them.",
+   "caution": "A comb knob on the wrong side can contact the face when the rifle fires.",
+   "quote": "MOVING THE COMB KNOB TO THE OPPOSITE SIDE OF THE STOCK (COMPOSITE STOCK ONLY)",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Comb Adjustment, sub-heading"
+  },
+  {
+   "phase": "Clean",
+   "title": "Deleting the comb knob for an Allen bolt — composite stock only",
+   "action": "If the knob itself is what catches your face or your clothing, an X-Bolt with a composite stock can have it replaced with a flush 5mm Allen bolt using the comb knob delete kit that shipped with the rifle — one Allen bolt, a nut, a rectangular spacer block, a round spacer and the wrench. The strip-down is the same as the side swap, and the one thing that must not be skipped is the round spacer in the middle of the comb riser: install it wrong or leave it out and tightening the Allen bolt damages the riser. This is not published for wood-stocked rifles.",
+   "prose": "Set the comb to its lowest position while the hardware is out, then re-adjust height afterwards.",
+   "caution": "Omitting or misfitting the round spacer damages the comb riser when the Allen bolt is tightened.",
+   "quote": "Eliminating the Comb Knob (Composite Stock Only)",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — section heading between Comb Adjustment and Length of Pull Adjustment"
+  },
+  {
+   "phase": "Clean",
+   "title": "Length of pull — spacers add, but shortening is a gunsmith job",
+   "action": "Some X-Bolt rifles take length-of-pull spacers between the stock and the recoil pad, in 1/4\" or 11/16\" sizes, and the longer screws supplied with the rifle must be used whenever a spacer goes in — the standard screws will not reach through the extra thickness into solid wood. Aim for roughly 1\" of screw threaded into the buttstock when you are done. Going shorter is the other direction entirely: wood and composite stocks have to be cut and a new pad fitted, Browning Max composite stocks can be trimmed a maximum of 1/2\", and the manual recommends a professional gunsmith for either.",
+   "prose": "Turn each recoil-pad screw a little at a time so the screws stay captive inside the pad.",
+   "caution": "Adding a spacer requires the longer screws. Shortening the stock goes to a gunsmith.",
+   "quote": "Some X-Bolt rifles are easily adjusted for length of pull by adding or removing spacers to the rear of the stock (Figure 17).",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Length of Pull Adjustment"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You should have exactly two pieces on the bench: the rifle with its action open and its magazine well empty, and the bolt, whole. Nothing else on an X-Bolt comes off for cleaning — the barrel stays in the receiver, the receiver stays in the stock, the magazine stays assembled and the bolt stays sealed. Clean it after every day of shooting and more often if it gets excessively dirty; a minimum session is a wipe-down and oiling the key parts, and regular maintenance adds the bore. If a function problem survives a thorough clean, that is the point where the rifle goes to a Browning service centre rather than further apart.",
+   "prose": "To reinstall the bolt the safety must be in the off safe position — then the safety goes straight back to on safe once the bolt handle is down.",
+   "quote": "Clean your firearm after every day of shooting, and more often if it becomes excessively dirty. A minimum cleaning includes wiping down the firearm and oiling key parts. Regular maintenance will also include cleaning the barrel.",
+   "cite": "Browning X-Bolt Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The Browning X-Bolt Owner's Manual publishes exactly one disassembly operation on the rifle itself — removing the bolt from the receiver by pressing the bolt unlock button, lifting the handle and pressing in on the bolt stop — and that operation is walked above as the field strip. Beyond it the book publishes NOTHING: no bolt disassembly (no bolt shroud, firing pin, striker spring or bolt-head removal), no barrel removal, no removal of the barrelled action from the stock for cleaning, and no trigger-group disassembly. The only other fastener work it describes is removing the two bottom-metal screws to reach the trigger pull adjustment screw, and removing the recoil pad and comb hardware to move or delete the comb knob — both fitting adjustments rather than cleaning procedures, and both walked above where they belong. The magazine is explicitly excluded: Browning states that disassembly of the X-Bolt magazine is not recommended and that tampering with the assembly screw at its rear will render it inoperative. The manual closes its cleaning section by stating the owner should never take the firearm apart further than it explains, that disassembling the inner mechanism assemblies may permanently damage it, and that any further disassembly for service or cleaning goes to a qualified gunsmith or to Browning's Arnold, Missouri facility. There is therefore no deeper published procedure to present, and none has been invented.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER (bolt out, rod in at the breech)",
+   "tasks": [
+    "Correct-calibre tip and patch for a snug fit; rod entered at the breech end, never the muzzle",
+    "Never let the rod strike the crown — crown damage is permanent accuracy loss",
+    "Nitro solvent on a patch for normal powder residue",
+    "Brass bore brush only for heavy fouling, pushed fully out of the muzzle before withdrawing",
+    "Copper solvent to the solvent maker's procedure for jacket fouling; magnums more often",
+    "Wipe dry, one lightly oiled patch, then check no patch was left in the bore or chamber"
+   ]
+  },
+  {
+   "name": "BOLT (cleaned assembled — never taken apart)",
+   "tasks": [
+    "Wipe the three locking lugs and the bolt body; brush the bolt face and extractor cut",
+    "Light film of quality light gun oil on the lugs and bearing surfaces",
+    "Do not remove the bolt shroud, cocking indicator or firing pin assembly — no procedure is published",
+    "Protect the cocking indicator when the bolt is out; it is what strikes the comb"
+   ]
+  },
+  {
+   "name": "RECEIVER & ACTION",
+   "tasks": [
+    "Small brush or rag through the open receiver to lift dirt and foreign matter",
+    "Very light film of oil on moving parts, used sparingly",
+    "NEVER pour oil into the receiver — it drains into the wood, softens it and loosens the stock",
+    "Wipe exposed metal with a lightly oiled cloth and remove finger marks"
+   ]
+  },
+  {
+   "name": "ROTARY MAGAZINE (sealed unit)",
+   "tasks": [
+    "Do NOT disassemble, and do NOT touch the assembly screw at the rear",
+    "Normally cleaned after 500 to 1000 cartridges, or when inspection shows build-up",
+    "Spray inside and out with a solvent safe for the polymer and the metal",
+    "Finger over the loading port, shake vigorously with the port pointed away from you",
+    "Compressed air or air dry"
+   ]
+  },
+  {
+   "name": "STOCK & FITTING HARDWARE",
+   "tasks": [
+    "Oil-finish wood: rubbing alcohol on a lint-free cloth, then a linseed-oil-based finish",
+    "Wood may be oiled or waxed, but not both",
+    "Comb knob or 5mm Allen bolt secure but not overtightened after any height change",
+    "Recoil pad and length-of-pull screws snug, with roughly 1\" of screw into the buttstock"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Confirm the chamber, bore and magazine well are empty and that no patch has been left in the barrel.",
+  "Place the \"safety\" in the OFF SAFE position — the bolt will not go back in with the safety on safe.",
+  "Align the forward end of the bolt with the rear opening of the receiver and keep the cocking indicator clear of the comb.",
+  "Push the bolt completely forward and rotate the handle down to lock it; the bolt stop does not have to be pressed, but pressing it eases installation.",
+  "Immediately return the \"safety\" to the ON SAFE position — the \"S\" must show on the tang.",
+  "Insert the empty magazine into the magazine well until the catch retains it.",
+  "If the bottom metal was removed for a trigger adjustment, refit it and tighten both 4mm screws snugly before anything else.",
+  "Never test the mechanical function of the rifle with live ammunition."
+ ],
+ "fncheck": "Look through the bore against a light and confirm it is clear and that no patch remains in the barrel or chamber. With the rifle unloaded, cycle the bolt several times and confirm it locks down cleanly and that the bolt stop holds it at the rear of its travel. Check the \"safety\": drawn rearward it must show the \"S\", block the trigger and lock the bolt closed; pressed forward the red dot appears — and never rely on that red alone, since cleaning agents erase it. Confirm the bolt unlock button lets the handle lift with the safety still on safe. Confirm the cocking indicator protrudes below the bolt shroud when the action is cocked and retracts when it is fired. If the trigger was adjusted, measure the pull with a spring scale with the rifle unloaded and the bolt closed and confirm it sits inside 3 to 5 pounds. Check that scope base screws are tight and that none protrudes inside the receiver into the bolt's path, and that the comb hardware is secure without being overtightened."
+}

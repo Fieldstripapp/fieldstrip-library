@@ -1,0 +1,103 @@
+{
+ "row": "springfieldarmoryemp",
+ "make": "Springfield Armory",
+ "model": "EMP",
+ "sourcedFrom": "Springfield Armory 1911 Operation & Safety Manual — Operation & Safety Manual (no part code printed) (2020 (\"Copyright 2020. Contents property of Springfield, Inc. All rights reserved.\"))",
+ "sourceSha256": "4651afa78fec4bd8e17c75b883b16937aef35df9369a1b3795c9de571f4947e2",
+ "cleanIntro": "The 1911 book branches disassembly four ways and they are mechanically different guns. The EMP is named in Section 4’s own heading, so this is the EMP’s section and not a borrowed one — and Section 4 itself branches again by which recoil system your pistol has.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Section 4 is the EMP’s section",
+   "action": "This procedure is Section 4 of the Springfield 1911 manual, whose heading names the EMP 3\" and EMP 4\" alongside the Micro-Compact, Ultra Compact, V-10, Compact and Champion models. Do not use Section 1, 2 or 3.",
+   "prose": "The other sections take apart different pistols: Section 1 works off the barrel bushing and recoil spring plug, Section 2 pins a captive recoil assembly with a supplied pin or a cut paper clip. Neither is how an EMP comes apart.",
+   "quote": "SECTION 4: DISASSEMBLY of MICRO COMPACT, ULTRA COMPACT, V-10, COMPACT, EMP® 3\", EMP® 4\" & CHAMPION™ MODELS",
+   "cite": "Springfield Armory 1911 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Section 4 heading, p.41"
+  },
+  {
+   "phase": "Clear",
+   "title": "Then find out which recoil system yours has",
+   "action": "Before touching the slide, establish whether your pistol has the dual recoil spring system or the flat wire recoil spring system. Springfield publishes two different step 2s and you need the right one.",
+   "prose": "They use different takedown pieces and the order of operations differs. This is the manual telling you it cannot know which pistol is in your hands — only you can look.",
+   "quote": "NOTE: YOUR FIREARM MAY HAVE ONE OF THE TWO RECOIL SYSTEMS LISTED.",
+   "cite": "Springfield Armory 1911 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Section 4, note above step 2, p.43"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, chamber checked",
+   "action": "Point the gun in a safe direction, press the magazine catch and remove the magazine, pull the slide backwards and check that no cartridge is in the chamber, then release the slide forward.",
+   "prose": "Springfield puts the chamber check between the magazine coming out and the slide going forward, so the pistol is confirmed empty before it closes again.",
+   "quote": "Press magazine catch and remove magazine.",
+   "cite": "Springfield Armory 1911 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Section 4, Step 1 — Magazine Removal & Chamber Check, p.42",
+   "warn": "BE SAFE! Be sure pistol is unloaded before beginning disassembly! Wear eye protection, gun contains spring-loaded parts."
+  },
+  {
+   "phase": "Strip",
+   "title": "Dual recoil spring: lock back and snap the takedown piece on",
+   "action": "If yours is the dual recoil spring system: lock the slide to the rear, then firmly snap the takedown piece over the exposed portion of the guide rod, between the inner spring plug and the guide rod cap.",
+   "prose": "The takedown piece is what holds the recoil assembly compressed once the slide comes off. Snap it fully on before you release anything.",
+   "caution": "Wear eye protection, gun contains spring-loaded parts.",
+   "quote": "Firmly “snap” the takedown piece over the exposed portion of the guide rod between",
+   "cite": "Springfield Armory 1911 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Section 4, Step 2 — Dual Recoil Spring Disassembly, p.43"
+  },
+  {
+   "phase": "Strip",
+   "title": "Dual recoil spring: slide stop out, slide off",
+   "action": "Grasp the slide, release the slide lock and slowly allow the slide to go forward. Align the disassembly notch on the slide with the stop, remove the slide stop, then carefully take the slide assembly off the receiver.",
+   "prose": "Slow forward travel first, then align, then the stop comes out. Trying to drift the slide stop with the notch unaligned is how frames get marked.",
+   "quote": "Grasp slide, release slide lock and slowly allow slide to go forward. Align disassembly",
+   "cite": "Springfield Armory 1911 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Section 4, Step 2 — Dual Recoil Spring Disassembly, p.43"
+  },
+  {
+   "phase": "Strip",
+   "title": "Flat wire recoil spring: the other branch",
+   "action": "If yours is the flat wire recoil spring system instead: lock the slide to the rear, install the flat wire takedown piece, align the disassembly notch on the slide with the slide stop, then remove the slide stop and slowly remove the slide from the receiver.",
+   "prose": "Same destination, different takedown piece and no snap-over-the-guide-rod step. Keep in mind the slide is under spring pressure until it clears the receiver.",
+   "caution": "keeping in mind that the slide is under spring pressure until it clears the receiver",
+   "quote": "Install flat wire takedown piece.",
+   "cite": "Springfield Armory 1911 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Section 4, Step 2 — Flat Wire Recoil Spring Disassembly, p.43"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil system and barrel out — strip complete",
+   "action": "With the slide off, remove the recoil spring system from the slide, then remove the barrel from the front of the slide.",
+   "prose": "Both branches end in the same place. Springfield calls it there — that is the whole published field strip for this group.",
+   "quote": "The recoil spring system can now be removed from the slide.",
+   "cite": "Springfield Armory 1911 Operation & Safety Manual — Operation & Safety Manual (no part code printed) — Section 4, Step 2, items 5 and 6, p.43",
+   "warn": "Do not attempt to disassemble this or any other firearm until you have",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Section 4 ends at \"Disassembly is now complete.\" and the manual’s only further disassembly text is an ALTERNATE METHOD for the same field strip, not a deeper one. Springfield warns against going further without training from a competent gunsmith, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Solvent-wet patch through the bore, correctly sized brush, then dry patches until clean",
+    "Wipe the feed ramp and the barrel exterior",
+    "A light pass of oil outside; nothing pooled"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Scrub the breech face and around the extractor",
+    "Clean the slide rails",
+    "Wipe the striker channel DRY — no oil in an ignition channel"
+   ]
+  },
+  {
+   "name": "FRAME & MAGAZINES",
+   "tasks": [
+    "Brush the frame rails",
+    "Wipe the magazine bodies dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Barrel back into the front of the slide, then the recoil spring system.",
+  "Slide assembly onto the frame, align the disassembly notch and refit the slide stop.",
+  "Release the takedown piece and let the recoil system seat, then rack the slide several times."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, rack the slide and confirm the trigger resets and the thumb safety only engages with the hammer cocked, pointed in a safe direction."
+}

@@ -1,0 +1,99 @@
+{
+ "row": "keltecpmr30",
+ "make": "Kel-Tec",
+ "model": "PMR-30",
+ "sourcedFrom": "KEL-TEC PMR-30 Safety, Instruction, and Parts Manual — REV # 0510 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "3f65af935fce6e30329f03e5f9b48be3fcad6f2dcfca4eafae8aa2c90e1212a2",
+ "cleanIntro": "A 30-round .22 WMR on a polymer grip assembly, and its field strip is genuinely complete — assembly pin out, upper off, captive springs, buffer, barrel block and barrel all come apart with a cartridge tip. Kel-Tec stops at the grip and says why, so there is no Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm the chambering and that the ammunition is brass-cased .22 WMR",
+   "action": "Read the ammunition type marked on the barrel and confirm .22 WMR. Set aside anything that is not brass-cased, commercially manufactured and full power.",
+   "prose": "The PMR-30 is a hybrid blowback design tuned to a fairly narrow window of magnum rimfire, and the manual names the loads it works with — 40 grain and up — and names the ones that do not cycle it. Aluminium and plated cases are outside spec and the warranty says so. This belongs at the front of a cleaning session because underpowered ammunition produces failures to feed that look exactly like a dirty gun, and because the book asks you to consider the ammunition type before sending the pistol in for repair.",
+   "quote": "The PMR-30 pistol is designed and chambered for the .22WMR cartridge. The type of ammunition is also marked on the barrel of the pistol. Do not use any other ammunition.",
+   "cite": "KEL-TEC PMR-30 Safety, Instruction, and Parts Manual — REV # 0510 — Introduction — Ammunition Note, p.4"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety up, magazine off the heel, slide back and locked open",
+   "action": "Sweep the safety lever up to SAFE. Squeeze the heel-mounted magazine catch and pull the magazine out. Grab the polymer slide cover, pull it fully back in one fast motion to throw the chambered round clear, hold it there and push the slide stop button up.",
+   "prose": "The magazine release is on the heel, not behind the trigger guard, so it takes the thumb and forefinger of the support hand pinching together — get used to it before you need it. Pull the slide in one fast motion rather than easing it: a magnum rimfire case that is only half extracted will drop back into the chamber. The slide stop button on the left side is a lock, not a release, so it has to be held up while you let the slide creep back onto it.",
+   "quote": "While holding the slide back, use your thumb to slide and hold the slide stop button up. Now slowly release the slide and it should be held open by the slide stop. Visually inspect the chamber to be sure it is empty.",
+   "cite": "KEL-TEC PMR-30 Safety, Instruction, and Parts Manual — REV # 0510 — Unloading, p.11",
+   "warn": "Do not trust the extractor to clear the chamber, always look and feel."
+  },
+  {
+   "phase": "Strip",
+   "title": "Push out the assembly pin and run the upper forward off the grip",
+   "action": "With the safety engaged and the chamber proved empty, push the assembly pin out with the tip of a cartridge or another pointed object. Then grip the slide and guide the whole upper assembly forward off the lower grip assembly.",
+   "prose": "One steel cross-pin holds the upper — slide, barrel, barrel block, recoil springs and buffer — to the grip, and a .22 WMR case rim is the tool the book names for it. It should press through with thumb pressure; if it fights, the upper is under tension and needs to be settled square first. Nothing else needs to come off: none of the screws on this pistol should ever be removed for general maintenance, which is worth knowing because the PMR-30 has visible screws all over the grip that invite a screwdriver.",
+   "quote": "With the tip of a cartridge or other pointed object, push out and remove the assembly pin. Grab the slide and guide the upper assembly forward off of the lower grip assembly.",
+   "cite": "KEL-TEC PMR-30 Safety, Instruction, and Parts Manual — REV # 0510 — Disassembly, p.12",
+   "warn": "NEVER DROP THE HAMMER WITH THE SLIDE ASSEMBLY REMOVED FROM THE GRIP ASSEMBLY. This can damage the receiver."
+  },
+  {
+   "phase": "Strip",
+   "title": "Compress the captive recoil springs off the barrel block, then lift the buffer out",
+   "action": "Turn the slide assembly upside down to reach the captive recoil springs. Grip them near the barrel block and compress until the guide rod is free of the block, then lift the spring assembly away and release the tension slowly. Take the buffer out of the front of the slide and set it aside.",
+   "prose": "The springs are captive on their steel guide rod, so they will not fly apart, but they are still under real load and the release has to be controlled rather than let go. The buffer is the part to be deliberate about: it is a polyurethane block, it is what stands between the slide and the barrel at the end of the stroke, and it is small enough to vanish into a bench. Put it somewhere you will see it, because reassembling this pistol without it is a documented way to damage it.",
+   "quote": "Slowly lift the spring assembly up and carefully release the tension on the springs. The captive recoil spring assembly can now be set aside. Remove the buffer from the front of the slide and set it aside.",
+   "cite": "KEL-TEC PMR-30 Safety, Instruction, and Parts Manual — REV # 0510 — Disassembly, p.12",
+   "warn": "DO NOT FORGET THE BUFFER, NEVER FIRE THE PMR-30 WITHOUT A BUFFER INSTALLED."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide the barrel block forward and out, then tip the barrel free",
+   "action": "Slide the barrel block fully forward in the slide rails and lift it out. Then tip the slide over and let the barrel drop out on its own.",
+   "prose": "The block rides in cutouts at the front of the slide rails and only comes out at the forward end of its travel — if it will not lift, it has not gone far enough forward. Once it is out the barrel is unsupported and falls out with no persuasion at all; tip the slide rather than pulling on the barrel. That is the pistol fully field stripped, and it is unusually complete for a rimfire: bore, chamber, bolt face, slide interior, block and springs all separately in hand.",
+   "caution": "CLEANING SOLVENT WARNING: Never use automotive brake cleaner, or any solvent not designed for polymer firearms on the polymer parts of the firearm including, but not limited to the buffer and front and rear sight tubes.",
+   "quote": "Slide the barrel block fully forward and lift it out of the slide. Tip the slide over and the barrel should fall out of the slide easily. The firearm is now fully field stripped and ready for cleaning.",
+   "cite": "KEL-TEC PMR-30 Safety, Instruction, and Parts Manual — REV # 0510 — Disassembly, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Grip assembly, upper slide, slide cover, barrel, barrel block, captive recoil spring assembly, buffer, assembly pin and magazine. The grip stays shut — that is Kel-Tec's stopping point for the PMR-30.",
+   "prose": "The hammer spring in the grip is under constant tension whether the pistol is cocked or not, which is why the book discourages opening it rather than merely not documenting it. If the trigger assembly needs lubricant, the manual's own route is through the top of the receiver with the upper off, which you already have open at this point. Everything the routine clean asks for — bolt face, slide interior, bore, chamber, block, rails — is in front of you now.",
+   "quote": "WARNING: It is not recommended that you disassemble the grip; the hammer spring is constantly under tension and can easily injure you or others.",
+   "cite": "KEL-TEC PMR-30 Safety, Instruction, and Parts Manual — REV # 0510 — Lubrication Warning, p.15",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The PMR-30 manual publishes a complete field strip and then closes the door in its own words: the grip is not to be disassembled because the hammer spring is constantly under tension, and if the trigger assembly needs lubricating that is done through the top of the receiver rather than by opening the grip. Its cleaning section has exactly one tier — \"Routine cleaning, after every shooting session\" — with no deeper interval and no further procedure, and the disassembly note states that none of the screws on the firearm should ever need to be removed for general maintenance. There is nothing published past the field strip to walk.",
+ "cleaning": [
+  {
+   "name": "BOLT FACE, SLIDE & RAILS",
+   "tasks": [
+    "Thoroughly clean the bolt face and all interior sides of the slide with solvent and a brush",
+    "Small brush dipped in solvent around the breech of the barrel and slide, the insides of the slide and the barrel block including the rails, the chamber and adjacent areas",
+    "Use only polymer-safe solvents — never automotive brake cleaner, and never on the buffer or the sight tubes"
+   ]
+  },
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Brush the barrel bore and chamber with a good powder-removing solvent and bore brush, then wipe clean with patches or a swab",
+    "Check the bore is completely clear before anything goes back together — a lodged bullet is only ever cleared with a proper cleaning rod, never with a blank or a pulled cartridge"
+   ]
+  },
+  {
+   "name": "RECEIVER, MAGAZINE & OIL",
+   "tasks": [
+    "Remove residue from the aluminium receiver with light brushing and a polymer-safe solvent",
+    "The polymer magazine body and follower are impregnated with dry lubricant — wipe them, do not oil them",
+    "Use a cloth to apply a light coating of high-quality gun oil to external and internal surfaces and wipe clean; there should only be a light film on the slide and barrel",
+    "Excess oil combines with powder residue and gums the action — that is the manual's stated cause of most of these malfunctions"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Insert the barrel into the slide with the large end of the barrel tabs oriented out of the slide, or the barrel will not sit level; slide it fully forward so the muzzle stands out of the front.",
+  "Drop the barrel block into the slide rails through the cutouts at the front, recoil spring slot facing forward — it will not go in backwards — then push it all the way back towards the extractors.",
+  "Insert the buffer into its two slots at the front of the slide with the rounded edges pointing forward. DO NOT FORGET THE BUFFER.",
+  "Slide the squared end of the recoil spring assembly through the slot in the buffer and into the hole in the slide, then compress the springs and snap the assembly into the slot in the barrel block.",
+  "Slide the upper onto the grip assembly and pull it fully back to line up the assembly pin hole in the grip with the hole in the barrel block; push the pin fully in from either side.",
+  "Cycle the slide by hand to be sure it moves smoothly."
+ ],
+ "fncheck": "With the magazine out and the chamber checked empty: the assembly pin should be flush and captive, and the slide should run its full stroke and return fully forward under spring pressure with no grinding at the block. Cock the hammer by cycling the slide and the safety should then engage and fully cover the red — if the safety will not go up, the hammer is down or only partly cocked, which is the manual's own diagnostic. Confirm the buffer is visible in the front of the slide before the pistol is loaded."
+}

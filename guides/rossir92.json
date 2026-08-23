@@ -1,0 +1,86 @@
+{
+ "row": "rossir92",
+ "make": "Rossi",
+ "model": "R92",
+ "sourcedFrom": "OWNER’S MANUAL\nRossi® R92 Lever Action — Rev. 03 (2017)",
+ "sourceSha256": "d260ee5a646b591a22d72eae5734c2ad49d077e316aeaa27afd2326d75a37728",
+ "cleanIntro": "Rossi publishes no takedown for the R92. What the book gives you is a safe way to empty the magazine tube and chamber, a check that the bore is clear, and a wipe-and-oil clean with the action open — so that is what this guide walks, and nothing is invented past it.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety on before anything else",
+   "action": "Rotate the manual safety lever counter-clockwise as far as it goes, until the lever covers the red dot. Red dot hidden is safe; red dot showing is fire.",
+   "prose": "The R92's safety is a manual hammer block, and it will only rotate to safe with the hammer fully cocked or on half-cock — it will not go on with the hammer at rest. Half-cock is the position you feel as a distinct coupling click when you draw the hammer back from rest, and it blocks the trigger, but Rossi is explicit that it is not a substitute for the manual safety.",
+   "caution": "The safety lever is a mechanical part and Rossi's first safety rule is never to trust one. It does not replace muzzle direction and trigger discipline.",
+   "quote": "Make the Firearm Safe - The safety lever must be rotated counterclockwise, fully, so that the lever covers the red dot.",
+   "cite": "OWNER’S MANUAL\nRossi® R92 Lever Action — Rev. 03 — Manual Safety, p.13"
+  },
+  {
+   "phase": "Clear",
+   "title": "Do not count rounds — the book gives no capacity",
+   "action": "Before you unload, accept that you cannot know the number: this manual never states how many cartridges the R92's tube holds, only that it is whatever your particular model allows. Empty it by cycling until nothing more comes out, never by counting to a figure you remember.",
+   "prose": "The R92 is built in several barrel lengths and chamberings, and tube capacity moves with both — the one book covers all of them and deliberately declines to name a number. A tube-fed lever gun is the classic case of a rifle that looks empty because the chamber is empty while a round is still waiting under the carrier, and counting to a half-remembered figure is exactly how that round gets missed.",
+   "quote": "It is possible to load the firearm with any quantity of cartridges from one up to the maximum allowed on each model.",
+   "cite": "OWNER’S MANUAL\nRossi® R92 Lever Action — Rev. 03 — Loading, p.15"
+  },
+  {
+   "phase": "Clear",
+   "title": "Cycle the finger lever until nothing comes out",
+   "action": "With the safety on and the muzzle in a safe direction, swing the finger lever fully forward and back, over and over, WITHOUT touching the trigger, catching each cartridge as it ejects. Keep going until a full stroke produces nothing.",
+   "prose": "Each stroke lifts one round out of the tube onto the carrier and throws the one in the chamber clear, so an R92 always has one more in it than you have seen come out. Keep your fingers clear of the trigger through every stroke — the trigger sits right where a hand naturally wraps as the lever comes back, and Rossi warns specifically about pulling it while swinging the lever closed.",
+   "quote": "If you want to unload your firearm without shooting, set the manual safety on (red dot covered) and consecutively swing the fingerlever forward and back WITHOUT PULLING THE TRIGGER to eject the cartridges. Keep doing this until the firearm is empty (no cartridges come out after swinging the lever-finger).",
+   "cite": "OWNER’S MANUAL\nRossi® R92 Lever Action — Rev. 03 — Unloading Your Firearm, p.17",
+   "warn": "Make sure the breech bolt will open in a safe direction and that ejected live rounds fall somewhere safe. Rossi requires a visual inspection of the barrel and bore to confirm the chamber is empty."
+  },
+  {
+   "phase": "Strip",
+   "title": "Action open, bore checked — this is the working state",
+   "action": "Muzzle safe, finger off the trigger, safety lever covering the red dot, finger lever swung forward so the action stands open. Now look through the chamber and down the bore and confirm both are clear before a brush or a cloth goes anywhere near the rifle.",
+   "prose": "The open action is the whole of the access you get on an R92, and it is enough for the clean Rossi publishes: you can see and reach the chamber mouth, the breech face and the bore from the muzzle end. Look for light through the bore — no light means an obstruction, and a lodged bullet from an underpowered round is the failure this check exists to catch.",
+   "quote": "Before cleaning. (1) point the muzzle in a safe direction, (2) keep your finger off the trigger, (3) rotate the manual safety lever counter clockwise to the position where it covers the red dot, (4) swing the finger lever forward (see page 16), visually inspect the chamber barrel and bore to ensure firearm is free and clear and safe to perform cleaning.",
+   "cite": "OWNER’S MANUAL\nRossi® R92 Lever Action — Rev. 03 — Care and Maintenance, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the R92 does not come apart here",
+   "action": "That is as far as this rifle goes. Rossi publishes no takedown, no bolt removal and no lever or carrier removal for the R92, and it labels its own parts drawing a generic guide rather than an assembly instruction. Clean it as it stands, with the action open.",
+   "prose": "The drawing on page 20 tempts people into a teardown it was never drawn to support — it is not model-specific and Rossi says so in the caption. Taking an 1892-pattern action apart means driving out the lever screw and the twin locking bolts, and putting it back together wrong gives you a rifle that closes on an unlocked bolt. If it needs more than a wipe and oil, the book sends it to a gunsmith.",
+   "quote": "This is intended as a generic guide and not a specific model or guide to assembly.",
+   "cite": "OWNER’S MANUAL\nRossi® R92 Lever Action — Rev. 03 — Drawing and Parts List, p.20",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The R92 manual documents unloading, a pre-cleaning safety check with the action open, and a wipe-and-oil Care and Maintenance procedure — bore cleaned and left free of debris, a lightly oiled cloth over the metal, dust brushed out of crevices, excess oil removed. Its only exploded drawing is captioned as a generic guide and not a guide to assembly, and it directs anything mechanical to a competent gunsmith. Rossi publishes no disassembly for this rifle at all, so there is nothing deeper to walk.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "With the action open, clean the bore and leave it free of debris — Rossi's standard for this rifle is a clean, dry bore, not a wet one",
+    "Work from the breech end where the open action allows it, so you are not dragging fouling back across the crown",
+    "Finish by rubbing the bore with a lightly oiled patch, then take the excess back out"
+   ]
+  },
+  {
+   "name": "METAL & CREVICES",
+   "tasks": [
+    "Rub the outside of the rifle with a lightly oiled cloth to leave a light film against corrosion",
+    "Remove dust and residue from all crevices with a small clean brush — the loading gate on the right side of the receiver and the carrier well are where grit collects on a tube-fed lever gun",
+    "Remove excess oil; oil left in the action attracts the dust you have just brushed out"
+   ]
+  },
+  {
+   "name": "CHECKS WHILE IT IS OPEN",
+   "tasks": [
+    "Look through the bore for light before and after cleaning — no light means an obstruction and the rifle does not get fired",
+    "Rossi asks for a gunsmith's inspection annually even when the rifle seems to be working well, because wear and corrosion inside do not show from outside",
+    "If the rifle has been dropped or struck, it goes to an armorer for a function check before it is used again"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Nothing was removed, so there is nothing to refit — close the action by swinging the finger lever back until it sits against the lower tang.",
+  "With the muzzle in a safe direction and the chamber confirmed empty, let the hammer down onto the half-cock: safety on, thumb controlling the hammer, pull the trigger, ease the hammer forward about half an inch, release the trigger, then continue down to half-cock.",
+  "Leave the safety lever rotated so the red dot is covered before the rifle is stored."
+ ],
+ "fncheck": "Chamber confirmed empty and muzzle safe: the finger lever should swing fully forward and back without binding and close flush against the lower tang; with the hammer drawn back to half-cock you should hear the coupling click and the trigger should then be blocked; the safety lever should rotate to safe with the hammer cocked or half-cocked and cover the red dot completely, and expose it again when rotated clockwise. If any of that is vague, notchy or will not repeat, the rifle goes to a gunsmith rather than back in the safe."
+}

@@ -1,0 +1,111 @@
+{
+ "row": "coltkodiak",
+ "make": "Colt",
+ "model": "Kodiak",
+ "cleanIntro": "A Kodiak is a large-frame Colt double action of the Anaconda series, and it cleans like one: six .44 Magnum chambers, a cylinder face that carbons up fast under heavy loads, and no owner-level disassembly at all. Everything is reached with the cylinder swung out to the left.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Finger off, muzzle safe, hammer down",
+   "action": "Keep your finger outside the trigger guard and the muzzle pointed somewhere that would not matter, and make sure the hammer is not cocked before you touch the cylinder latch. A cocked Kodiak holds the cylinder locked, and forcing the latch against a cocked action is how the hand and the bolt get damaged."
+  },
+  {
+   "phase": "Clear",
+   "title": "Latch REARWARD — this is a Colt, not a Smith or a Ruger",
+   "action": "Pull the cylinder latch toward the rear of the gun and push the cylinder out to the left. The direction matters and catches people who own other brands: a Smith & Wesson latch pushes forward and a Ruger uses a recessed button, but every Colt double action releases by pulling rearward. If it does not move, the hammer is back."
+  },
+  {
+   "phase": "Clear",
+   "title": "All six chambers empty, by eye and by finger",
+   "action": "With the cylinder swung out, push the ejector rod to clear the six chambers, then look through every one and run a fingertip across the rear face. A .44 Magnum case is easy to miss against a dark chamber and impossible to miss by touch. Let the ejector rod return on its own rather than snapping it back."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magnum cases can be stubborn — push, don't hammer",
+   "action": "Fired .44 Magnum brass grips the chamber walls harder than lighter cartridges do. If the ejector rod resists, hold the muzzle up and push it firmly and squarely rather than striking it — a bent ejector rod will stop the revolver completely, and it is nearly always bent on a bench rather than on a range."
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore first, from the breech end",
+   "action": "With the cylinder open you have a clear run at the barrel from the breech end, which is the direction that protects the crown. Solvent on a brush, through and out, then patches until they come out clean. On a .44 Magnum revolver the last inch ahead of the forcing cone is where fouling collects hardest."
+  },
+  {
+   "phase": "Clean",
+   "title": "Each of the six chambers, individually",
+   "action": "Chambers are not the bore and a bore brush is the wrong size for them. Use a chamber brush or a patch on a jag, one chamber at a time, and pay attention to the chamber mouths: lead and copper build a ring there, and a fouled mouth is what makes cases stick and extraction stiff."
+  },
+  {
+   "phase": "Clean",
+   "title": "Cylinder face and the barrel's rear face",
+   "action": "The front face of the cylinder and the rear face of the barrel take the worst of the blast, and the grey ring that builds on both is a real problem rather than a cosmetic one — enough of it and the cylinder gap closes up and the gun binds. A small brush with a little solvent, working outward from the centre."
+  },
+  {
+   "phase": "Clean",
+   "title": "Behind the ejector star — the one everybody skips",
+   "action": "Push the ejector rod back so the star lifts clear and clean underneath it, then let it seat. Unburnt powder gets under the star and packs solid, and the symptom is a cylinder that will not close fully or a revolver that suddenly will not carry up. Clean the ratchet teeth on the rear face while you are there."
+  },
+  {
+   "phase": "Clean",
+   "title": "Crane, frame window and the ejector rod",
+   "action": "Wipe the crane where it pivots, the inside of the frame window and the length of the ejector rod. These are bearing surfaces on a revolver and grit here shows up as a gritty double-action pull long before it shows up as a malfunction. Nothing comes apart to do this — a cloth and a small brush reach all of it."
+  },
+  {
+   "phase": "Clean",
+   "title": "Oil like you mean to shoot it, not to store it",
+   "action": "A thin film on the bore and chambers, a trace on the crane and the ejector rod, and a wipe over the outside with an oiled cloth. Then take the oil back out of the bore and chambers with a dry patch before you shoot: standing oil in a chamber raises pressure and in a bore it just collects the next round of fouling."
+  },
+  {
+   "phase": "Clean",
+   "title": "A few drops inside, with the hammer back",
+   "action": "Empty gun, safe direction: cocking the hammer opens the internals enough for two or three drops of oil to reach the moving parts. No more than that. Surplus oil in a revolver ends up in the firing pin channel, where it collects grit and thickens in the cold."
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ It does not come apart, and that is the whole design",
+   "action": "This is where an owner stops. Colt's instruction for its modern double-action revolvers is not to field strip them at all — no sideplate, no crane screw, no cylinder off the crane — and anything that needs more than a cylinder-out clean goes to Colt or a competent gunsmith. A revolver's lockwork is a stack of fitted parts under spring load, and the sideplate is the last thing an owner should be prying at.",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "There is no deep clean for this listing and there should not be one. Colt's published instruction for its modern double-action revolvers is not to field strip them at all — the sideplate, the lockwork, the crane screw and the cylinder assembly are Colt's work or a gunsmith's, and the maker says so in capitals in every current revolver manual it publishes. This row is a best-practices row (ruling 2026-08-20 §2c), which the same ruling caps at basic-clean depth in any case; here the cap and the manufacturer's own limit are the same line.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Brush and solvent from the breech end with the cylinder open",
+    "Patches until they come out clean, then a light oiled patch",
+    "Dry patch before shooting — no standing oil in the bore"
+   ]
+  },
+  {
+   "name": "CHAMBERS (six)",
+   "tasks": [
+    "Chamber brush or a jag and patch, one chamber at a time",
+    "Work the chamber mouths — a fouling ring there makes extraction stiff",
+    "Light oil, then dry before shooting"
+   ]
+  },
+  {
+   "name": "CYLINDER FACES & RATCHET",
+   "tasks": [
+    "Front face of the cylinder and rear face of the barrel — the blast ring",
+    "Ejector rod pushed back, clean behind the star and on the ratchet teeth",
+    "Nothing pried, nothing unscrewed"
+   ]
+  },
+  {
+   "name": "CRANE & FRAME",
+   "tasks": [
+    "Crane pivot, frame window and the ejector rod wiped",
+    "A trace of oil on the bearing surfaces only",
+    "Exterior wiped with a lightly oiled cloth"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Nothing was taken apart, so there is nothing to put back — that is the point.",
+  "Swing the cylinder into the frame and let the latch snap forward on its own; do not flick it closed, which batters the crane and can spring it out of true.",
+  "Run a dry patch through the bore and every chamber to take the oil back out before you load.",
+  "Function check before any live ammunition."
+ ],
+ "fncheck": "Cylinder closed and latched, chambers proven empty, muzzle safe. Open and close the cylinder several times and feel it drop in and lock without dragging. Then, with the gun still empty, work the action through a full double-action stroke slowly and watch the cylinder carry up and lock before the hammer falls — if it locks late, stop and get it looked at rather than shooting it. Check the cylinder does not rotate freely when the action is at rest. Anything that feels gritty, late or loose goes to Colt or a gunsmith."
+}

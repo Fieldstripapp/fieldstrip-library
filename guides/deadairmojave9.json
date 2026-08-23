@@ -1,0 +1,193 @@
+{
+ "row": "deadairmojave9",
+ "make": "Dead Air",
+ "model": "Mojave 9",
+ "sourcedFrom": "MOJAVE 9™  OWNERS MANUAL — Rev051524 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "388d0ca610fbed580a9fbedde856c408c95b1d5aaf07b7a1c1ec96508fb66f3d",
+ "cleanIntro": "The Mojave 9 is a two-module pistol/subgun/carbine can: a titanium rear module, a titanium front module, an aluminium front cap and a booster at the back. The modules unscrew from each other but do NOT open — they are monolithic printed structures, and Dead Air's cleaning method for them is a chemical soak, not a baffle strip. The file this manual is cached under is named for a Mojave 45; the document's own cover and every restriction in it read MOJAVE 9.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host, and go to its manual for how",
+   "action": "Magazine out, action open, chamber checked before the can is handled. The Mojave manual then refers you to the operator's manual for your own firearm for the clearing procedure, and rules out fitting or removing the suppressor on a closed action.",
+   "prose": "This can rides on tilting-barrel pistols, PCCs and subguns. Each of those unloads differently, and only the host's book covers yours.",
+   "quote": "CHECK YOUR WEAPON’S CHAMBER AND MAKE CERTAIN THAT THE WEAPON IS UNLOADED AND THE MAGAZINE REMOVED BEFORE PROCEEDING ANY FURTHER. IF THERE IS ANY QUESTION OR DOUBT, CONSULT THE OPERATOR’S MANUAL APPLICABLE TO YOUR FIREARM AS TO THE PROPER PROCEDURE FOR CLEARING AND/OR UNLOADING YOUR WEAPON. DO NOT INSTALL YOUR NEW SUPPRESSOR ON A FIREARM WITH A CLOSED ACTION!",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Product Overview, p.5",
+   "warn": "Never mount or unmount on a closed action."
+  },
+  {
+   "phase": "Clear",
+   "title": "Mojave 9 ceiling — and it is NOT a 5.56 can",
+   "action": "Confirm what has been fired through it. The Mojave 9 stops at 300 BLK supersonic pressure and 9mm bore, and Dead Air adds an explicit exclusion: it is not rated for 5.56x45 or .223, because of the heat and the erosive behaviour of those cartridges. A 5.56 host is outside this can's scope no matter how the bore diameter looks on paper.",
+   "prose": "That 5.56 exclusion is model-specific and printed against the Mojave 9 by name. Do not carry it, or its absence, to any other Dead Air can.",
+   "quote": "OUR PRODUCTS ARE CALIBER SPECIFIC. UNLESS STATED OTHERWISE ON THE SUPPRESSOR ITSELF OR ON THE PACKAGING, THE MOJAVE 9 SUPPRESSOR WILL NOT FUNCTION SAFELY WITH ANY CARTRIDGE WITH PRESSURES HIGHER THAN 300BLK SUPERSONIC OR CALIBER GREATER THAN 9MM. USE OF YOUR SUPPRESSOR OUTSIDE OF ITS INTENDED SCOPE COULD RESULT IN DAMAGE TO YOUR FIREARM, DAMAGE TO PROPERTY, BODILY INJURY, OR DEATH. NOTE THAT THE MOJAVE 9 IS NOT RATED FOR 5.56X45 OR .223 DUE TO THE HIGH HEAT AND EROSIVE PROPERTIES OF THESE CARTRIDGES.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Product Overview, p.5",
+   "warn": "NOT rated for 5.56x45 or .223. Ceiling otherwise 300 BLK supersonic, 9mm bore."
+  },
+  {
+   "phase": "Clear",
+   "title": "Fully jacketed only — and keep .22 LR out of it",
+   "action": "Check your ammunition before you plan the clean, because on this can ammunition decides whether the clean is even possible. The modules are monolithic, so lead from exposed-lead projectiles builds up somewhere you cannot reach — Dead Air says that build-up can be difficult or impossible to remove, and recommends against running .22 LR through a Mojave 9 at all.",
+   "prose": "On a can you can strip, lead is a chore. On a monolithic module it is permanent.",
+   "caution": "Exposed-lead projectiles, and .22 LR in particular, are recommended against on this model.",
+   "quote": "Given the monolithic construction of the Mojave 9, it is also recommended that users employ projectiles that are fully jacketed with no exposed lead. The use of exposed lead projectiles with the Mojave 9 can result in the buildup of lead within the suppressor that can be difficult or impossible to remove. Given that the majority of .22 LR ammunition has fully or partially exposed lead projectiles, it is recommended that users do not shoot .22 LR ammunition through the Mojave 9.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Product Overview — General Considerations, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the muzzle gives the piston a shoulder",
+   "action": "Before this goes back on anything, look at the host muzzle. It needs a proper shoulder for the mount to seat against, or a muzzle face cut square to the bore. With a long thread the can seats on the muzzle face and the back of the piston may never reach the shoulder at all.",
+   "prose": "A pistol thread cut off-axis will still let the suppressor spin on. Squareness is the thing you are checking, not tightness.",
+   "caution": "No square shoulder or face, no mount.",
+   "quote": "DO NOT thread onto barrels that don’t have a proper shoulder to seat against, or muzzle face that is not cut square to the bore.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Installation, Step One, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Re-check tightness every magazine — with a glove",
+   "action": "Build this into the shooting session, not just the cleaning session. Dead Air asks that you check tightness after every magazine of fire, using a heat resistant glove, because a direct thread can walks loose and a loose can shifts point of impact and eventually strikes a baffle.",
+   "prose": "The glove is part of the instruction. This can gets too hot to hand-check bare within a magazine or two.",
+   "quote": "We recommend checking tightness after every magazine of fire using a heat resistant glove.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Installation, Step One, p.7",
+   "warn": "Never grab a hot suppressor bare-handed."
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the Mojave off the host",
+   "action": "With the can cool or with a heat pad, rotate the body or end cap counter-clockwise until it starts to unthread from the muzzle. If you are running a left-hand metric piston or mount, that reverses to clockwise — check which one you have before you load the joint.",
+   "prose": "Grip the body, not the front cap, and let the piston stay with the barrel until it releases.",
+   "quote": "To remove the suppressor simply rotate the body / end cap of the suppressor counterclockwise until it begins to unthread from the muzzle of the host weapon. If a left-hand metric piston/mount is used, then unscrew by rotating clockwise.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Installation, Step Three, p.9",
+   "warn": "Use a high temperature pad or glove; avoid direct skin contact."
+  },
+  {
+   "phase": "Strip",
+   "title": "Piston and spring out of the booster",
+   "action": "Unscrew the spring retainer at the rear and lift out the piston and the spring. The retainer should come by hand or with the Dead Air tools; if it fights you, carbon in the booster is why, and that is exactly what you are about to clean.",
+   "prose": "Inspect the O-ring while it is open. Replacements are size -018.",
+   "quote": "Unscrew the spring retainer and remove the Piston and Spring.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Disassembly and Cleaning, Step One, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Split the modules and take the front cap off",
+   "action": "Unscrew the front module from the main body and take the front cap off it. Both joints were assembled hand tight over greased threads, so both should break by hand; the front cap is aluminium and does not want a tool leaning on it.",
+   "prose": "That leaves you with three cleanable pieces: rear module, front module and the aluminium cap.",
+   "quote": "Unscrew the Module from the main body and remove Front Cap.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Disassembly and Cleaning, Step Two, p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "The modules do NOT come apart — soak them",
+   "action": "Stop looking for a baffle stack. Both titanium modules are monolithic and do not individually disassemble; the published cleaning method is to submerge them in one part CLR to three parts water. That is the manufacturer's own method for this model and it exists because there is no mechanical way in.",
+   "prose": "Soak fully submerged overnight, drain from both ends, and blow the remaining fluid and grime out with compressed air if you have it.",
+   "quote": "The Titanium front and rear modules are monolithic structures and do not individually disassemble. The two modules are best cleaned by submerging them in a mixture of 1-part CLR (Calcium, Lime, Rust Remover) to 3-parts water.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Disassembly and Cleaning, p.9",
+   "warn": "Gloves and eye protection while handling CLR solution."
+  },
+  {
+   "phase": "Clean",
+   "title": "Aluminium parts get mild chemistry only",
+   "action": "Keep the aluminium front cap and the booster spring retainer out of anything aggressive. They rarely need cleaning for thousands of rounds, and when they do, Dead Air limits it to mild chemicals that are friendly to anodised aluminium — not the CLR mix the titanium modules go into.",
+   "prose": "Two materials, two chemistries. Mixing them up is how an anodised cap comes out of the bath looking chalked.",
+   "caution": "Aluminium components do not go in the CLR soak.",
+   "quote": "The aluminum front cap and the booster spring retainer should not require cleaning for thousands of rounds because of the lack of buildup that occurs in these areas of the suppressor. These should be cleaned with mild chemicals that are friendly to anodized aluminum.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Disassembly and Cleaning, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You have the booster stripped to piston and spring, the two modules separated and the front cap off. That is the full extent of Mojave 9 disassembly — the modules themselves stay sealed. Deep Clean covers the soak procedure in detail, the booster service interval and the fixed-barrel mount swap.",
+   "prose": "Routine intervals: the booster every session, the modules typically not before 1000 rounds depending on ammunition.",
+   "quote": "Depending on the type of ammunition that you use, your suppressor should not require disassembly and cleaning of the front and rear Titanium modules for up to 1000 rounds.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Disassembly and Cleaning, p.9",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "The overnight soak, properly done",
+   "action": "Put both titanium modules fully under the one-to-three CLR and water mix and leave them overnight. Lift them out, stand them so both ends drain, and if you have compressed air, blow through them to clear the last of the fluid and loosened grime out of the internal geometry.",
+   "prose": "Fully submerged matters — a module left half in gets a tide line of untouched fouling exactly where the liquid stopped.",
+   "quote": "Allow the modules to soak fully submerged overnight, then remove the modules and allow them to drain from both ends.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Disassembly and Cleaning, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "PPE is part of this procedure",
+   "action": "Gloves and eye protection go on before the modules go in, and stay on while they come out. You are handling a rust-and-lime remover that has just spent a night dissolving combustion residue and lead off a suppressed pistol can.",
+   "prose": "Dispose of the used solution properly; it is carrying heavy metal out of the can.",
+   "quote": "Always wear protective gloves and eyewear when cleaning and handling cleaning agents.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Disassembly and Cleaning, p.9",
+   "warn": "Suppressor residue carries lead. Wash hands and exposed skin afterwards."
+  },
+  {
+   "phase": "Clean",
+   "title": "Booster service — every session",
+   "action": "Clean the booster's spring and piston every shooting session and inspect the O-ring while it is apart. Running the can wet softens carbon inside the piston first, and most of it then wipes straight out of the booster housing once the spring and piston are drawn.",
+   "prose": "Housing, piston and spring can also go into carbon scrubbing chemicals if wiping is not enough. Replacement O-rings are size -018.",
+   "quote": "The Booster mechanism with the spring and piston should be cleaned every shooting session, and the O-Ring inspected. Replacement O-Rings are size -018 and are available from Dead Air Silencers.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Disassembly and Cleaning, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Booster out — and what replaces it on a fixed barrel",
+   "action": "The whole booster mechanism comes out of the rear with Dead Air's TL1 and TL2 hook spanners or a single-hook AR-15 castle nut wrench. If the host is a fixed-barrel firearm, this is where a fixed mount or a 3-Lug adapter goes in instead — that is what Dead Air offers for that case, and mounts must be secured with the castle nut wrench before use.",
+   "prose": "A booster is a moving mount for a moving barrel. A fixed barrel wants a mount that does not move.",
+   "quote": "The complete booster mechanism may be removed with Dead Air TL1 and TL2 hook spanner tools or a single hook AR-15 Castle Nut Wrench and replaced with a Fixed Mount or 3-Lug adapter for use on fixed barrels.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Disassembly and Cleaning, Step One, p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Modules back together — hand tight, no gap",
+   "action": "Grease or anti-seize on the rear exterior threads of the front module, then thread it fully into the front of the rear module hand tight and wipe the excess. Do not overtighten. The check is visual: the front module should sit fully home with no discernible gap.",
+   "prose": "A gap means threads or debris, and it also means the bore path through the two modules is not concentric.",
+   "quote": "The Front Module should thread fully into the Rear Module with no discernable gap present.",
+   "cite": "MOJAVE 9™  OWNERS MANUAL — Rev051524 — Reassembly — Inspection Upon Assembly, p.13"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "TITANIUM MODULES",
+   "tasks": [
+    "Submerge both modules in 1 part CLR to 3 parts water",
+    "Soak fully submerged overnight, then drain from both ends",
+    "Blow through with compressed air if available",
+    "Do not attempt to open a module — they are monolithic and do not disassemble"
+   ]
+  },
+  {
+   "name": "BOOSTER",
+   "tasks": [
+    "Clean the spring and piston every shooting session",
+    "Inspect the O-ring; replacements are size -018",
+    "Wipe carbon out of the booster housing with the spring and piston removed",
+    "Housing, piston and spring may be submerged in carbon scrubbing chemicals"
+   ]
+  },
+  {
+   "name": "ALUMINIUM PARTS",
+   "tasks": [
+    "Front cap and booster spring retainer: mild chemicals friendly to anodised aluminium only",
+    "Keep them out of the CLR soak used on the titanium modules"
+   ]
+  },
+  {
+   "name": "EXTERIOR & THREADS",
+   "tasks": [
+    "Keep the threads clean and wipe the outside down with good quality gun oil",
+    "Test any solvent on a small area first — the exterior is nitride, anodised and Cerakote",
+    "Grease or anti-seize on every thread before reassembly"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Ensure all threads and contact points are clean and free of debris, and apply a light coat of grease before reassembly.",
+  "Full configuration: grease the rear exterior threads of the front module and thread it fully into the rear module hand tight, then wipe off the excess.",
+  "Grease the front cap threads and thread the cap fully into the front module hand tight — do not overtighten.",
+  "Compact configuration: thread the front cap straight into the front end of the rear module hand tight.",
+  "Refit the piston and spring and screw the spring retainer down, or fit a fixed mount or 3-Lug adapter and secure it with a castle nut wrench."
+ ],
+ "fncheck": "Confirm the front module is fully home with no discernible gap and the front cap sits flush to its flange, then mount the can, check it is square to the bore and not canted, and check tightness by glove after the first magazine."
+}

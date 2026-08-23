@@ -1,0 +1,200 @@
+{
+ "row": "deadairwolfman",
+ "make": "Dead Air",
+ "model": "Wolfman",
+ "sourcedFrom": "WOLFMAN  OWNERS MANUAL — Rev121323 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "28b486121ecde90f5f5772bc26b9c66bc4d9368f8faab8693835feccb3bd5645",
+ "cleanIntro": "The Wolfman is a welded 17-4 PH stainless body that takes a removable front module, a front cap that can hold a wipe, and a choice of booster, fixed or 3-Lug mount at the rear. Because the body is welded, Dead Air's routine job is the threaded interfaces — not the baffles. The mount you have chosen decides which of the warnings below actually bind on you, so read the configuration lines carefully.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host, and use the host's own manual",
+   "action": "Magazine out, action open, chamber checked by eye and by finger — on the host, before the Wolfman is touched. Dead Air then points you at the operator's manual for that firearm for the clearing procedure itself, and never fits or removes a can on a closed action.",
+   "prose": "The Wolfman rides on pistols, sub-guns and light rifles; those are three different clearing drills and only the host's book has yours.",
+   "quote": "CHECK YOUR WEAPON'S CHAMBER AND MAKE CERTAIN THAT THE WEAPON IS UNLOADED AND THE MAGAZINE REMOVED BEFORE PROCEEDING ANY FURTHER. IF THERE IS ANY QUESTION OR DOUBT, CONSULT THE OPERATOR'S MANUAL APPLICABLE TO YOUR FIREARM AS TO THE PROPER PROCEDURE FOR CLEARING AND/OR UNLOADING YOUR WEAPON. DO NOT INSTALL YOUR NEW SUPPRESSOR ON A FIREARM WITH A CLOSED ACTION!",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Product Overview — General Considerations, p.5",
+   "warn": "Never mount or unmount on a closed action."
+  },
+  {
+   "phase": "Clear",
+   "title": "Wolfman ceiling — 7.62x39 supersonic",
+   "action": "Check what has been going through it. The Wolfman is capped at 7.62x39 supersonic pressure unless the tube or the packaging says otherwise for your unit. It is a sub-gun and light-duty rifle can; a full-power rifle cartridge above that ceiling is outside its scope.",
+   "prose": "Dead Air publishes its sound data for this can on 9mm, 300 BLK and 9x39 hosts. That is the company it is designed to keep.",
+   "quote": "OUR PRODUCTS ARE CALIBER SPECIFIC. UNLESS STATED OTHERWISE ON THE SUPPRESSOR ITSELF OR ON THE PACKAGING, THE WOLFMAN SUPPRESSOR WILL NOT FUNCTION SAFELY WITH ANY CARTRIDGE WITH PRESSURES HIGHER THAN 7.62x39 SUPERSONIC.  USE OF YOUR SUPPRESSOR OUTSIDE OF ITS INTENDED SCOPE COULD RESULT IN DAMAGE TO YOUR FIREARM, DAMAGE TO PROPERTY, BODILY INJURY, OR DEATH.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Installation, Step One, p.6",
+   "warn": "Ceiling: 7.62x39 supersonic."
+  },
+  {
+   "phase": "Strip",
+   "title": "The barrel must give the mount a shoulder",
+   "action": "Before it goes back on anything, check the host muzzle. The Wolfman needs a proper shoulder for the mount to seat against, or a muzzle face cut square to the bore — on a long thread the can seats on the muzzle itself and the back of the piston may never touch the shoulder.",
+   "prose": "A pistol barrel with a worn or unsquare crown will still thread up and still put the bullet off the bore axis.",
+   "caution": "No square shoulder or face, no mount.",
+   "quote": "DO NOT thread onto barrels that don't have a proper shoulder to seat against, or muzzle face that is not cut square to the bore.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Installation, Step One, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the Wolfman off the host",
+   "action": "With the can cool enough to hold, rotate the body or end cap counter-clockwise until it starts to unthread. If you are running a left-hand metric piston or mount it reverses — clockwise. On a 3-Lug mount it is different again: compress the can rearward onto the barrel and turn it counter-clockwise until it clears the lugs.",
+   "prose": "Three mounting systems, three removal motions. Using the wrong one is how a piston gets cross-loaded.",
+   "quote": "To remove the suppressor simply rotate the body / end cap of the suppressor counterclockwise until it begins to unthread from the muzzle of the host weapon. If a left hand metric piston/mount is used, then unscrew by rotating clockwise.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Installation, Step Three, p.8",
+   "warn": "A hot can burns. Gloves, the Nomex sock, or wait for it to cool."
+  },
+  {
+   "phase": "Strip",
+   "title": "Suppressor off the gun BEFORE the front cap or wipe",
+   "action": "If you are changing or replacing a wipe, the can comes off the firearm first. Dead Air states this in capitals: the front cap is not touched while the suppressor is still on a host. Working a cap loose on a mounted can puts your hand in front of a muzzle for no reason at all.",
+   "prose": "The wipe lives in the front cap, so every wipe job is a front cap job and inherits this rule.",
+   "quote": "REMOVE THE SUPPRESSOR FROM THE FIREARM BEFORE REMOVING THE FRONT CAP AND REPLACING THE WIPE.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Installation — Installing Wipe, p.7",
+   "warn": "Never open the front cap with the suppressor still mounted."
+  },
+  {
+   "phase": "Strip",
+   "title": "Booster off the rear — and NOT onto a fixed barrel",
+   "action": "Unscrew the piston retainer and take out the piston and spring. The complete booster, fixed mount or 3-Lug assembly comes out with an AR-15 castle nut wrench. If your host is a fixed-barrel firearm, the booster does not go back — swap it for a fixed mount or a 3-Lug, because the booster's repeated impact will damage a firearm that does not recoil with it.",
+   "prose": "This is a configuration rule, not a general one: it binds the booster on the Wolfman, and a fixed mount in the same socket is exactly what Dead Air offers instead.",
+   "quote": "Warning: Do not use the Booster Mechanism on fixed barrel firearms as the repeated impact will damage the firearm.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning, Step One, p.10",
+   "warn": "Booster on a fixed barrel will damage the host firearm."
+  },
+  {
+   "phase": "Strip",
+   "title": "Module off the main body",
+   "action": "Unscrew the front module from the main body. It should come by hand — the joint is a tapered fit that was only ever hand tightened. If it is genuinely stuck, a strap wrench or a 1.5 inch spanner on the front of the suppressor gives you extra torque without crushing the tube.",
+   "prose": "Keep the threads clean and lubed as it comes apart; that is what stops it seizing next time.",
+   "quote": "Unscrew Module from the main body of the suppressor. Ensure threads are clean and lubed. If the mount is too tight to loosen by hand, a strap wrench or a 1.5\" spanner wrench can be used on the front of the suppressor to provide additional torque.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning, Step Two, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front cap out of the module",
+   "action": "Take the front cap out of the module with the included front cap tool, not with pliers and not with a punch through the holes. Clean and lube its threads while it is off — a front cap that will not sit flush later is almost always a threads-and-debris problem.",
+   "prose": "The cap should end up flush to slightly sub-flush when it goes back. Anything proud of that means it is not home.",
+   "quote": "Remove the Front Cap from the Module with the included Front Cap Tool. Ensure threads are clean and lubed.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning, Step Three, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Wipe material — neoprene, 70A",
+   "action": "If you run the wipe configuration, use the right rubber. Dead Air names neoprene at 70A durometer for its mix of toughness, rigidity and heat resistance, in roughly 1/8 inch thickness, with a washer up to 1.0 inch across snapping into the groove in the back of the wipe cap.",
+   "prose": "Too soft and it tears out under gas; too hard and it splits. A wipe with a small centred hole minimises point of impact shift.",
+   "caution": "A wipe increases back-pressure to the action and can shift point of impact.",
+   "quote": "Neoprene rubber with a durometer of 70A is recommended for its blend of toughness, rigidity, and heat resistance.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Installation — Installing Wipe, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Welded body — clean the interfaces, not the baffles",
+   "action": "Clean the threads, the tapered surfaces where the module and front cap seat, and the inner diameter about 5/8 inch inside the back of the can where the booster or mount seats. Lube or grease those surfaces once clean. The baffle stack is welded in and is not part of routine work.",
+   "prose": "If a mount will not thread all the way in and align, that rear inner diameter is usually why.",
+   "quote": "Because the suppressor has a welded construction, you'll only need to clean the threaded interfaces on it.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hand torque only on the module — no tools",
+   "action": "When the module goes back on the main body it is hand tight and nothing more. Dead Air rules tools out of that joint: the tapered fit is what holds it, and a wrench on it distorts the taper the whole assembly indexes off.",
+   "prose": "The check is the engraving — the serial digits on the module should line up with the serial on the main body. More than about thirty degrees out and the bore may not be aligned.",
+   "quote": "DO NOT use tools to tighten the module onto the main body.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Reassembly, Step Two, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The Wolfman is off the host, the mount is out of the rear socket, the module is off and the front cap is out of it. Threads and tapers are what you clean and lube from here. Deep Clean covers the booster service, the blast chamber, and the 3-Lug spring retainer.",
+   "prose": "The baffles stay where they are. On a welded can that is the correct end state, not a shortfall.",
+   "quote": "The stainless steel baffles in the suppressor typically don't need to be cleaned.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning, p.9",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Booster service — every session",
+   "action": "Strip the booster mechanism down to spring and piston, clean it, grease it and inspect the O-ring. Dead Air puts this on an every-shooting-session cadence, not an annual one, because the piston is where carbon binds first. Replacement O-rings are size -018.",
+   "prose": "A tired or carbon-packed O-ring is what makes a Nielsen device stop unlocking a pistol reliably.",
+   "quote": "The Booster mechanism with the spring and piston should be cleaned and lubed with grease every shooting session and the O-Ring inspected. Replacement O-Rings are size -018 and are available from Dead Air Silencers.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning — Booster, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wet firing to soften piston carbon",
+   "action": "Where carbon in the piston has gone hard, running the can wet softens it — then most of it wipes straight out of the booster housing once the spring and piston are drawn. Do this on a host the booster is legitimate on, never on a fixed barrel.",
+   "prose": "Booster housing, piston and spring can also come out and go into carbon scrubbing chemicals if wiping is not enough.",
+   "quote": "Much of the carbon can then be wiped out of the booster housing after the spring and piston are removed.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning — Booster, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Blast chamber — soaks and bead blasting are permitted here",
+   "action": "If the blast chamber has built up, the Wolfman's all-stainless construction will take a chemical soak or bead blasting to clear it. That is a genuine permission specific to this can's material, and it does not transfer to Dead Air models with aluminium or titanium components.",
+   "prose": "Watch the exterior while you do it — the finish is not as tolerant as the steel underneath.",
+   "quote": "Because of the all-stainless construction of this suppressor, it can withstand chemical soaks and bead blasting to clean the blast chamber, if needed.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning — Suppressor, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Watch the Cerakote",
+   "action": "Whatever chemistry you use inside, keep it off the outside. Dead Air warns that some chemical cleaners will harm the Cerakote finish, and asks that any solvent be tested on a small area before it goes near the whole tube.",
+   "prose": "Sharp edges scratch it too. The finish is durable, not armoured.",
+   "caution": "Test any solvent on a small area first.",
+   "quote": "NOTE: Some chemical cleaners can harm the Cerakote finish.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "3-Lug spring retainer",
+   "action": "On the 3-Lug mount, the spring retainer at the end of the assembly comes off with a pin wrench or a Ghost/Mask front cap tool. If the internal piston does not pop back into place after the can comes off the host, it wants more grease inside, or new O-rings — and that service is due every time you have shot it wet.",
+   "prose": "That sticky piston is the early warning; left alone it becomes a mount that will not release under recoil.",
+   "quote": "The Spring Retainer on the end of the assembly can be removed with pin wrench or a Ghost/Mask Front Cap Tool.",
+   "cite": "WOLFMAN  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning — 3-Lug Mount, p.9"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "THREADED INTERFACES",
+   "tasks": [
+    "Clean the module and front cap threads, then apply a light coat of lube or grease",
+    "Clean the tapered surfaces where the module and front cap seat and lube them lightly",
+    "Clean the inner diameter about 5/8 inch inside the back of the can where the booster, 3-Lug or fixed mount seats"
+   ]
+  },
+  {
+   "name": "BOOSTER / MOUNT",
+   "tasks": [
+    "Clean and grease the booster spring and piston every shooting session",
+    "Inspect the O-ring; replacements are size -018",
+    "Fixed mount and 3-Lug: remove and clear excess carbon from the threads and the outer seating surface",
+    "3-Lug: re-grease and replace O-rings whenever the suppressor has been shot wet"
+   ]
+  },
+  {
+   "name": "WIPE CAP — IF FITTED",
+   "tasks": [
+    "Clean the wipe cap internal threads and grease them to slow carbon build-up",
+    "Clean the threads after every range session so the assembly still comes apart by hand",
+    "Replace the wipe with 70A neoprene, roughly 1/8 inch thick, up to 1.0 inch across"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wipe the tube down and keep solvents off the Cerakote where possible",
+    "Test any solvent on a small area before applying it to the whole suppressor"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Clean and lightly grease every thread and contact point before anything goes back together.",
+  "Short configuration: thread the front cap into the front of the main body where the module was, snugged with the front cap tool only.",
+  "Long configuration: fit the front cap into the module with the tool and hand torque, then hand tighten the module onto the main body — no tools on that joint.",
+  "Confirm the serial digits on the module line up with the serial on the main body; more than about thirty degrees out means clean the threads and tapers and retry.",
+  "Fit the mount for your host — booster and piston for a tilting-barrel pistol, fixed thread mount or 3-Lug for a fixed barrel — and secure it with a castle nut wrench.",
+  "Check the front cap sits flush to slightly sub-flush before the can goes back on a firearm."
+ ],
+ "fncheck": "With the Wolfman assembled, confirm every connection is tight, the module is hand tight with its serial aligned to the body, and the front cap is flush to slightly sub-flush. Mount it, check it is straight to the bore centreline and not canted, and confirm it does not wobble on the mount before it is fired."
+}

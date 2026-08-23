@@ -1,0 +1,164 @@
+{
+ "row": "barrettrec10",
+ "make": "Barrett",
+ "model": "REC10",
+ "sourcedFrom": "REC10 Operator's Manual — P/N 17278, REV B (undated — no copyright line is printed; the part-number line reads P/N 17278, REV B)",
+ "sourceSha256": "3ac7d7522da7852c24b656d99d833bdbb4dcd7b40ac7866761ca5a4ccb19bfa5",
+ "cleanIntro": "Barrett's own REC10 book. Two captive pins, carrier out, charging handle out — no tools. Barrett states in the same manual that its safety, operation and cleaning procedures apply to every REC10 configuration, so Carbine, DMR and LR all strip the same way.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "One procedure covers every REC10 configuration",
+   "action": "The REC10 ships as a Carbine, a DMR and an LR, in .308 Winchester and 6.5 Creedmoor, with 16-inch and 20-inch barrels. Barrett says in the manual itself that the procedures below apply to all of them, so you do not need to work out which variant you have before stripping it.",
+   "aside": "The REC10 is a semi-automatic, hammer fired, magazine fed, precision rifle with a rotating bolt actuated by direct gas impingement.",
+   "quote": "The REC10 is available in several configurations however the safety, operation, cleaning and troubleshooting procedures outlined in this manual are applicable to all configurations of the REC10.",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Description of Firearm, p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety on, magazine dropped free",
+   "action": "Put the selector on safe first — the hammer has to be cocked for it to go there. Then press the magazine catch and let the magazine fall clear rather than stripping it out by hand, so you can see the magazine well as it goes.",
+   "quote": "Remove the magazine by depressing the magazine release button and allowing it to fall free (FIGURE 6).",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Unloading, step 2, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt locked open, chamber checked by eye and by finger",
+   "action": "Pull the charging handle back to hold the carrier rearward, press the bottom of the bolt catch while you hold it there, then ease the handle forward until it latches. With the bolt held open, look into the chamber and the magazine well, and put a finger in. Barrett asks for both checks, not one.",
+   "aside": "With the bolt locked open, visually and physically inspect the chamber and magazine well to ensure that it is empty of any live ammunition (FIGURE 8).",
+   "quote": "To lock the bolt open, pull the charging handle rearward to hold the bolt carrier to the rear (FIGURE 7-A).",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Unloading, step 3, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "No tools needed for the strip",
+   "action": "Everything from here is done by hand. If you find yourself reaching for a punch to move a takedown pin, something is binding — usually a magazine still seated or the bolt not closed — and forcing it will mar the receiver lugs.",
+   "caution": "UNLOAD THE RIFLE BEFORE DISASSEMBLY. ENSURE THAT LIVE AMMUNITION IS NOT PRESENT DURING THE DISASSEMBLY OR ASSEMBLY PROCESS.",
+   "quote": "The REC10 can be fieldstripped without tools into the major components (FIGURE 2).",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Fieldstrip, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Both pins pushed to their stops, receivers hinged apart",
+   "action": "With the safety on and the bolt closed, push the rear takedown pin and the forward pivot pin across until each one stops. They are captive — they are meant to stop, not to come out, and driving them further is how they get lost. Then swing the upper and lower receivers apart.",
+   "quote": "With the safety on and bolt closed, push the takedown pin (rear most pin) and the pivot pin (forward most pin) until they stop (FIGURE 9-A). Both pins are retained in the receiver and should not be completely removed. Separate the upper and lower receivers (FIGURE 9-B).",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Fieldstrip, step 2, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Carrier drawn out on the charging handle, then the handle itself",
+   "action": "Pull the charging handle back and let it carry the bolt carrier assembly out of the upper receiver. With the carrier clear, run the charging handle back to where its lugs line up with the cut in its track and slide it out. Handle before carrier does not work — the carrier is what holds the handle in its track.",
+   "aside": "Slide the charging handle out of its track and remove it",
+   "quote": "Pull back the charging handle and withdraw the bolt carrier assembly (FIGURE 10-A).",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Fieldstrip, step 3, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Leave the trigger alone while the receivers are apart",
+   "action": "With the upper off, there is nothing above the hammer to stop it. Do not press the trigger to \"relax\" the lower — Barrett states the hammer will strike the receiver and can break it or the bolt catch. If the hammer is already down, leave it down until the upper is back on.",
+   "quote": "DO NOT PULL THE TRIGGER WHILE THE LOWER RECEIVER IS DISASSEMBLED FROM THE UPPER RECEIVER. THE HAMMER WILL STRIKE THE RECEIVER AND MAY DAMAGE OR BREAK THE RECEIVER AND/OR BOLT CATCH.",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Disassembly of Lower Receiver, CAUTION, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper, lower, bolt carrier assembly, charging handle and magazine are the four major components, and that is where routine cleaning happens. Barrett is explicit that the carrier does not need to come apart for a normal clean — take the deep steps only when debris is actually stopping the rifle working or a part is damaged.",
+   "quote": "NOTE: DISASSEMBLY OF THE BOLT CARRIER IS NOT REQUIRED FOR REGULAR CLEANING AND IS NOT RECOMMENDED. DISASSEMBLE THE BOLT CARRIER ONLY WHEN EXCESSIVE DEBRIS PREVENTS NORMAL OPERATION OR PARTS ARE DAMAGED.",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Advanced Disassembly, NOTE, p.11",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Firing pin retaining pin eased across, not out",
+   "action": "Push or pull the firing pin retaining pin sideways in the carrier until it clears the firing pin's flange. Like the takedown pins it is captive and is not meant to leave the carrier — move it only as far as it needs to go to free the firing pin.",
+   "quote": "Disengage the firing pin retaining pin in the bolt carrier by gently pushing or pulling the pin to the side the bolt carrier. The firing pin retaining pin is retained in the bolt carrier and should not be completely removed.",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Advanced Disassembly, Disassembly of the Bolt Carrier, step 1, p.11"
+  },
+  {
+   "phase": "Deep",
+   "title": "Firing pin tipped out of the carrier's tail",
+   "action": "Turn the carrier tail-down and let the firing pin drop out. If it is stuck on carbon, tap the rear of the carrier lightly against something soft — Barrett explicitly forbids pushing it out with anything sharp, because a burred or bent pin tip is a light-strike or a slam-fire waiting to happen.",
+   "quote": "Remove the firing pin from the bolt carrier. Using a clean soft surface, lightly strike the rear of the bolt carrier to assist in removal (Never use a sharp object to push the firing pin out of the bolt).",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Advanced Disassembly, Disassembly of the Bolt Carrier, step 2, p.11"
+  },
+  {
+   "phase": "Deep",
+   "title": "Bolt pushed in, cam pin lifted, bolt out",
+   "action": "Push the bolt fully back into the carrier — that is what lines the cam pin up with its clearance cut — then lift the cam pin out. It should come by hand; if it will not turn or lift, the bolt is not far enough in. With the cam pin out, the bolt slides straight out of the carrier.",
+   "aside": "Remove the bolt from the bolt carrier.",
+   "quote": "To remove the cam pin, push the bolt into the bolt carrier then remove the cam pin. The cam pin should extract by hand.",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Advanced Disassembly, Disassembly of the Bolt Carrier, steps 3-4, p.11"
+  },
+  {
+   "phase": "Deep",
+   "title": "Extractor pin punched out against spring tension",
+   "action": "Barrett says the bolt itself does not need to come apart for regular cleaning either. If it must, press down on the rear of the extractor directly above its spring while you drive the extractor pin out with a punch — that keeps the assembly captive as the pin clears. The extractor is under spring load the whole time.",
+   "aside": "Remove the extractor assembly (FIGURE 12-B).",
+   "quote": "Use a pin punch to remove the extractor pin.",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Advanced Disassembly, Disassembly of the Bolt, step 1, p.12",
+   "warn": "NOTE: DISASSEMBLY OF THE BOLT IS NOT REQUIRED FOR REGULAR CLEANING AND IS NOT RECOMMENDED."
+  },
+  {
+   "phase": "Deep",
+   "title": "Piston ring gaps staggered before the bolt goes back",
+   "action": "The REC10 runs three piston rings on the bolt. Rotate them so their open ends do not line up with each other. Aligned gaps give the gas a straight path past the bolt and show up as a failure to cycle — Barrett lists exactly that in its own troubleshooting table.",
+   "quote": "Ensure the three piston rings on the bolt are rotated so their open ends are NOT aligned (FIGURE 13).",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Advanced Disassembly, Disassembly of the Bolt, step 3, p.12"
+  },
+  {
+   "phase": "Deep",
+   "title": "Buffer retainer held down while the buffer comes out",
+   "action": "Press the buffer face in with a finger and hold the buffer retainer down with a suitable tool, then let the buffer and spring assembly come out under control. The retainer is a small part under strong spring load in a tube pointed at your face — this is the step in the lower that hurts people.",
+   "caution": "THE BUFFER RETAINER IS UNDER STRONG SPRING PRESSURE. IF NOT PROPERLY RETAINED, IT CAN BE LAUNCHED FROM ITS TUBE AND CAUSE INJURY.",
+   "aside": "Carefully remove the buffer and spring assembly (FIGURE 15).",
+   "quote": "Push on the buffer face with finger pressure while holding the buffer retainer down with a suitable tool (FIGURE 14).",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Disassembly of Lower Receiver, step 1, p.13"
+  },
+  {
+   "phase": "Deep",
+   "title": "Trigger components are where Barrett stops you",
+   "action": "This is the end of the published teardown. Barrett does not give a fire-control procedure at all — it names an armorer instead. Clean the trigger group in place with solvent and swabs and leave the pins alone.",
+   "quote": "THE DISASSEMBLY OF TRIGGER COMPONENTS SHOULD ONLY BE ACCOMPLISHED BY A QUALIFIED ARMORER.",
+   "cite": "REC10 Operator's Manual — P/N 17278, REV B — Disassembly of Lower Receiver, CAUTION, p.13"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Push a bore-cleaner-wet patch from breech to muzzle with a rod, using more patches if the bore is dirty",
+    "Scrub the wet bore with a bore brush on the rod",
+    "Put a little bore cleaner on a chamber brush and clean the chamber",
+    "Dry-patch breech to muzzle until the patches come out clean",
+    "Never run a cleaning rod in through the muzzle — Barrett warns it damages the crown and wrecks accuracy"
+   ]
+  },
+  {
+   "name": "BOLT, CARRIER & MUZZLE DEVICE",
+   "tasks": [
+    "Clean the bolt face with bore solvent",
+    "Work a stiff plastic brush over both the extractor and the ejector, then press each by hand or with a spent case to prove it springs back",
+    "Dry-patch cleaner and carbon off the bolt face, locking lugs, gas rings and bolt tail",
+    "Clean the muzzle device with a stiff plastic brush and bore solvent while the barrel is wet with solvent"
+   ]
+  },
+  {
+   "name": "GENERAL & LUBRICATION",
+   "tasks": [
+    "Finish the rest of the rifle with cotton-tipped swabs, general purpose brushes and cloths",
+    "Apply a light coat of temperature-appropriate lubricant to all mechanical metal surfaces",
+    "Keep lubricant out of the bore, the chamber, the magazine interior and off the ammunition"
+   ]
+  }
+ ],
+ "reassembly": [
+  "NOTE: THE REASSEMBLY PROCEDURE OF THE BOLT CARRIER IS THE REVERSE OF THE DISASSEMBLY PROCESS.",
+  "Before the bolt goes back into the carrier, check the three piston rings are rotated so their gaps do not line up.",
+  "Fit the charging handle into its track first, then run the bolt carrier in behind it and push the pair home.",
+  "Close the upper onto the lower and push the pivot pin and the takedown pin fully back in.",
+  "NOTE: THE REASSEMBLY PROCEDURE OF THE LOWER RECEIVER IS THE REVERSE OF THE DISASSEMBLY PROCESS."
+ ],
+ "fncheck": "With the rifle confirmed empty, cycle the charging handle and confirm the bolt carrier runs fully into battery, then check the bolt catch holds the bolt open and releases cleanly. With the hammer cocked, prove the selector moves to safe and back to fire. Barrett's own storage instruction is that the selector is on SAFE and the bolt is forward in the closed position."
+}

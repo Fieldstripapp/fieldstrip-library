@@ -1,0 +1,111 @@
+{
+ "row": "northamericanarmsminirevol",
+ "make": "North American Arms",
+ "model": "Mini-Revolver",
+ "sourcedFrom": "North American Arms Mini Revolvers — Operation and Safety Manual — ABSENT — no revision or part code printed anywhere in the document (UNDATED — no copyright year is printed anywhere in the document)",
+ "sourceSha256": "ee723dda2d449146a44020095bbfed2fa343b5491774acba5b1bf2e749cd1247",
+ "cleanIntro": "NAA publishes exactly one disassembly for the .22 Long Rifle mini-revolver: the cylinder comes out, and nothing else does. That procedure and the cleaning the manual asks for are below, in NAA's own words with the page they sit on.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Hammer to half-cock, and know what half-cock is not",
+   "action": "Place the hammer in the half-cock position — the first hammer stop. Keep every finger behind the muzzle and away from the cylinder-barrel gap.",
+   "prose": "NAA is explicit that half-cock is a loading aid and not a safety. The gun's carry safety is the milled slot between chambers, not this notch.",
+   "quote": "To remove the cylinder, first place hammer in the half-cock position.",
+   "cite": "North American Arms Mini Revolvers — Operation and Safety Manual — ABSENT — no revision or part code printed anywhere in the document — LOADING — (.22 MAGNUM, .22 LONG RIFLE, .22 SHORT), p.7",
+   "warn": "The traditional half-cock (first hammer stop) position is not intended to serve as a safety"
+  },
+  {
+   "phase": "Clear",
+   "title": "Never work on it with a round under the hammer",
+   "action": "Before anything moves, make sure the hammer is not resting above a live cartridge. NAA states the handgun may discharge if it is dropped or struck on the hammer with a live round underneath, or if your thumb slips while cocking or uncocking with the trigger depressed.",
+   "prose": "This is the single most dangerous moment on a mini-revolver, and it is the reason the safety slot exists at all.",
+   "caution": "All fingers must be kept behind the muzzle and away from the cylinder-barrel gap.",
+   "quote": "Do not carry this handgun with the hammer resting above a live cartridge or in the half-cock position.",
+   "cite": "North American Arms Mini Revolvers — Operation and Safety Manual — ABSENT — no revision or part code printed anywhere in the document — DANGER, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the release button and withdraw the cylinder pin",
+   "action": "Grasp the knurled portion of the cylinder pin between thumb and middle finger, press the release button inward with your forefinger, and withdraw the pin completely.",
+   "prose": "The button has to stay pressed while the pin comes out. This is the .22 LR / .22 Magnum / .22 Short mini's procedure — the Mini-Master, Black Widow and Pug on the facing page use a cylinder pin block that pulls down and turns instead, and that does not apply here.",
+   "quote": "Grasp the knurled portion of the cylinder pin between the thumb and middle finger, depress the release button with the forefinger to the inward position and withdraw the pin completely.",
+   "cite": "North American Arms Mini Revolvers — Operation and Safety Manual — ABSENT — no revision or part code printed anywhere in the document — LOADING — (.22 MAGNUM, .22 LONG RIFLE, .22 SHORT), p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cylinder out, either side",
+   "action": "Lift the cylinder out of the frame; it comes out from either side of the gun.",
+   "prose": "With the pin gone there is nothing holding it. On a gun this small the cylinder is easy to drop, so take it out over the bench.",
+   "quote": "The cylinder can now be easily removed from either side of the gun.",
+   "cite": "North American Arms Mini Revolvers — Operation and Safety Manual — ABSENT — no revision or part code printed anywhere in the document — LOADING — (.22 MAGNUM, .22 LONG RIFLE, .22 SHORT), p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Push the cases out with the cylinder pin",
+   "action": "Use the cylinder pin itself to push spent cases out of the chambers.",
+   "prose": "There is no ejector rod on a mini-revolver. The pin is the extractor, and NAA says so.",
+   "quote": "Use the cylinder pin for extracting empty cases.",
+   "cite": "North American Arms Mini Revolvers — Operation and Safety Manual — ABSENT — no revision or part code printed anywhere in the document — LOADING — (.22 MAGNUM, .22 LONG RIFLE, .22 SHORT), p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Go no further than this",
+   "action": "Stop at the cylinder. NAA states that disassembly beyond what loading and unloading require voids the warranty outright, and the manual publishes no procedure past cylinder removal.",
+   "prose": "This is a bound stated by the maker, not a difficulty rating. Frame, barrel, hammer and lockwork stay assembled.",
+   "quote": "Disassembly of this handgun beyond that required for loading and unloading will render this warranty null and void.",
+   "cite": "North American Arms Mini Revolvers — Operation and Safety Manual — ABSENT — no revision or part code printed anywhere in the document — WARRANTY, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Use only .22 Long Rifle in a .22 Long Rifle cylinder",
+   "action": "Verify the chambering and feed it accordingly: only .22 Long Rifle ammunition goes in cylinders chambered for .22 Long Rifle. NAA additionally bars PMC and Armscor Precision branded .22 ammunition from any of its mini-revolvers, stating it has caused out-of-battery discharges.",
+   "prose": "A Magnum-frame gun can wear a Long Rifle conversion cylinder, which is exactly why the cylinder itself is what you check rather than the frame.",
+   "quote": "Verify and use only .22 Long Rifle ammunition in those revolver cylinders chambered for .22 Long Rifle.",
+   "cite": "North American Arms Mini Revolvers — Operation and Safety Manual — ABSENT — no revision or part code printed anywhere in the document — AMMUNITION, p.8",
+   "warn": "WARNING! DO NOT USE ANY \"PMC\" OR \"ARMSCOR PRECISION\" BRANDED AMMUNITION IN ANY NAA Mini-Revolver!"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — and check this is your manual",
+   "action": "Frame with barrel, cylinder, and cylinder pin. That is the whole strip NAA publishes. The book covers the 1860 Earl, the Hogleg, the 1860 Sheriff, the .22 Magnum, .22 Long Rifle and .22 Short minis, the Mini-Master, the Black Widow and the Pug — and it prints three different cylinder-removal procedures among them. If your revolver is not one of those nine, this is not its book: NAA directs the owner of any other model to another manual, and this guide does not cover it.",
+   "prose": "Three procedures sit on the same two pages, and only one of them is this gun's. If your revolver is not on that list, NAA sends you to its own book.",
+   "quote": "For any other models, refer to their respective owner's manuals.",
+   "cite": "North American Arms Mini Revolvers — Operation and Safety Manual — ABSENT — no revision or part code printed anywhere in the document — SAFE OPERATIONS, p.3"
+  }
+ ],
+ "deepAbsentReason": "North American Arms publishes no disassembly of the mini-revolver beyond removing the cylinder, and states that \"Disassembly of this handgun beyond that required for loading and unloading will render this warranty null and void\" (p.2). Its entire maintenance instruction is one sentence about the bore and chamber. So this listing has NO deep clean — that is the manual's answer, not a gap in ours.",
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBERS",
+   "tasks": [
+    "Clean the bore and chambers gently after firing — NAA's word is gently",
+    "Coat the bore and chambers with a very light film of oil afterwards",
+    "Push spent cases out with the cylinder pin rather than prying at them"
+   ]
+  },
+  {
+   "name": "CYLINDER AND FRAME",
+   "tasks": [
+    "With the cylinder out, wipe the cylinder faces, the cylinder pin and the frame window clean",
+    "Check the safety slots milled in the cylinder rim are clean and undamaged — they are the gun's carry safety",
+    "Wipe the outside down with a lightly oiled cloth; keep oil out of the safety slots and the cylinder-barrel gap"
+   ]
+  },
+  {
+   "name": "BEFORE IT GOES BACK TOGETHER",
+   "tasks": [
+    "Insert the cylinder and make sure the cylinder pin seats firmly against the frame for proper functioning",
+    "Check that the cylinder rotates and locks properly each time the hammer is cocked",
+    "Avoid excessive dry firing"
+   ]
+  }
+ ],
+ "reassembly": [
+  "With the hammer at half-cock, put the cylinder back into the frame from either side.",
+  "Push the knurled cylinder pin fully back in until it seats firmly against the frame — NAA states this is required for proper functioning.",
+  "Practise the safety-slot procedure unloaded: draw the hammer slowly back past half-cock until the cylinder turns freely, rotate the cylinder so the hammer aligns with a safety slot, then squeeze the trigger fully and lower the hammer into the slot, holding it the whole way.",
+  "Confirm the hammer blade is seated in the safety slot and the cylinder does not rotate."
+ ],
+ "fncheck": "Unloaded, cock the hammer through a full cylinder and confirm it rotates and locks each time — NAA's own instruction is to make sure the cylinder is properly rotated to the locked position every time you cock the gun. Then seat the hammer in a safety slot and confirm the cylinder will not turn."
+}

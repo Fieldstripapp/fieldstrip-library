@@ -1,0 +1,186 @@
+{
+ "row": "smithwessonsd40ve",
+ "make": "Smith & Wesson",
+ "model": "SD40VE",
+ "sourcedFrom": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 (Copyright 2026 Smith & Wesson Inc. All rights reserved.)",
+ "sourceSha256": "6d21eab14f26b2db192640bc61586896ca1913d75bcb34a64ce52d60e91395a5",
+ "cleanIntro": "The SD40VE strips to five pieces — frame, slide, barrel, recoil spring assembly and magazine — and the step that defines the whole family is that Smith & Wesson requires a TRIGGER PULL to complete disassembly. Which trigger-pull procedure applies depends on whether your individual pistol carries the magazine disconnect safety, so the strip starts by looking into the magazine well to find out which gun you own. Deep Clean is the magazine, which the manual documents as its own procedure.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "This is the SD-series book — the SD40VE is its .40 S&W member",
+   "action": "Confirm what you are holding against the cover: this one manual speaks for the SD, SD 2.0 and SD VE series, and it never prints SD40VE anywhere in its pages. Your SD40VE is the .40 S&W member of the SD VE series — check the caliber marking on your barrel hood against the 40 S&W line in the manual's ammunition table before going further.",
+   "prose": "Smith & Wesson wrote one book for the whole SD family and identifies your specific gun by its slide marking and caliber stamp, not by a model list. That matters twice over: the ammunition rules differ by caliber line, and several features described in this manual exist in more than one version, so the book repeatedly sends you back to your own pistol to see which one you have.",
+   "quote": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Cover title, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Work out which features YOUR pistol carries before anything else",
+   "action": "Settle three questions by looking at your own gun: which of the two loaded chamber indicator types it has, which of the two trigger types, and whether it carries a magazine disconnect safety. The takedown procedure itself changes on the last answer, so this is not optional trivia.",
+   "prose": "The SD line shipped in more variations than most owners realize, and the manual's disassembly section literally splits in two on the magazine disconnect question. A person following the wrong branch will either pull the trigger at the wrong moment or fight a takedown lever their gun does not have.",
+   "quote": "YOU MUST DETERMINE WHICH FEATURES ARE PRESENT ON YOUR SPECIFIC SMITH & WESSON® SD™ PISTOL AND HOW THOSE FEATURES OPERATE. VARIOUS MODELS OF THE PISTOL ARE FITTED WITH DISTINCT FEATURES, WHICH MAY INCLUDE: ONE OF TWO LOADED CHAMBER INDICATORS, ONE OF TWO TRIGGERS, AND A MAGAZINE DISCONNECT SAFETY. SEE THE SECTION(S) OF THIS MANUAL THAT DETAIL EACH OF THESE FEATURES.",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Model & Features Identification, WARNING, p.12",
+   "warn": "You must determine which features are present on your specific pistol and how they operate."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out first, then rack the slide briskly and lock it open",
+   "action": "Point the muzzle in a safe direction with your finger outside the trigger guard, press the magazine release and remove the magazine. Then grasp the serrated sides of the slide from the rear and briskly draw it fully rearward to throw any chambered round clear, and lock it open by pressing up on the slide stop as you let it forward slightly.",
+   "prose": "Magazine first, always — unless your particular SD carries the magazine disconnect, this pistol fires with the magazine out. The draw must be brisk and your hand must stay clear of the ejection port: a slow pull plucks the round loose and drops it back into the action instead of clearing it, and a .40 case that lands back in the action is exactly the jam the wood-dowel procedure exists for.",
+   "quote": "REMOVING THE MAGAZINE DOES NOT UNLOAD THE PISTOL’S CHAMBER. SOME OF THE SMITH & WESSON SD MODEL PISTOLS CAN BE FIRED WHEN THE MAGAZINE IS REMOVED FROM THE PISTOL. KEEP YOUR FINGER OFF THE TRIGGER AND OUTSIDE OF THE TRIGGER GUARD UNTIL YOU HAVE MADE THE COMMITMENT TO FIRE.",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Inspecting Your Pistol, WARNING, p.13",
+   "warn": "Removing the magazine does not unload the chamber."
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber AND down the magazine well, then check the breech face",
+   "action": "With the slide locked open, visually check the chamber and bore for obstructions, look down through the magazine well to confirm nothing is in the pistol, and examine the breech face: the firing pin must not be protruding. Use the loaded chamber indicator only as a supplement to your eyes, never instead of them.",
+   "prose": "The breech-face look is the one owners skip. A protruding firing pin on a striker-fired pistol means the striker is not being held where it belongs, and chambering a round against it is how a slam-fire happens — the manual's answer is a gunsmith, not a range trip. The chamber check must be by eye: light, dirt and ammunition color all limit what the loaded chamber indicator can tell you.",
+   "quote": "Examine the breech face (FIGURES 9a and 9b) to ensure that the ring pin is not protruding from the breech face. If the ring pin is protruding, do not attempt to load or re the rearm. Bring the rearm to a gunsmith quali ed to perform service on Smith & Wesson® rearms.",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Inspecting Your Pistol, p.14",
+   "warn": "If the firing pin protrudes from the breech face, stop — the pistol goes to a qualified gunsmith."
+  },
+  {
+   "phase": "Clear",
+   "title": ".40 S&W at standard pressure only — no +P, and +P+ is barred outright",
+   "action": "Feed this pistol only cartridges matching the designation marked on the barrel: .40 S&W. The manual's ammunition table rates the 40 S&W line acceptable for standard pressure ONLY — unlike the 9mm SDs, +P gets a NO in this caliber — and +P+ is prohibited in every Smith & Wesson firearm. Never fire reloads that have not been pressure-tested.",
+   "prose": "This is the one place the SD40VE's rules genuinely differ from its 9mm twin, and it is easy to get wrong precisely because the two guns share a manual. The .40 S&W cartridge already runs near its design margin; the table gives its +P column a NO where the 9MM Luger line reads OK. +P+ is worse than hot — the marking names no defined pressure limit at all, so no one can tell you what a given box will generate.",
+   "quote": "“Plus-P-Plus” (+P+) ammunition must not be used in Smith & Wesson rearms. This marking on the ammunition designates that it exceeds established industry standards, but the designation does not represent de ned pressure limits and therefore such ammunition may vary signi cantly as to the pressures generated and could be DANGEROUS.",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Ammunition, p.11",
+   "warn": "The ammunition table's 40 S&W line permits standard pressure only — no +P, no +P+."
+  },
+  {
+   "phase": "Strip",
+   "title": "Look into the magazine well: disconnect or no disconnect?",
+   "action": "With the slide locked open, look down through the ejection port into the magazine well. If a small lever mechanism is visible in the well, your pistol has the magazine disconnect safety and takes the second procedure below; if the well is bare, it does not, and takes the first.",
+   "prose": "This single look decides your entire takedown path. The two procedures pull the trigger at different moments and one of them uses a takedown lever the other never touches, so guessing wrong does not merely stall the job — it has you pressing a trigger under the wrong conditions.",
+   "quote": "The takedown procedure is different if the magazine disconnect safety is present, see appropriate section in this manual.",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Magazine Disconnect Safety, p.36"
+  },
+  {
+   "phase": "Strip",
+   "title": "The trigger WILL be pulled to strip this pistol — prove it empty first",
+   "action": "Before either takedown branch, visually inspect the chamber and the magazine well one more time. Both branches of the SD takedown require a deliberate trigger pull with the muzzle pointed in a safe direction, and that inspection is the only thing standing between a takedown and a discharge.",
+   "prose": "This is the family's defining hazard and Smith & Wesson states it in full: the design releases the striker as part of disassembly. Treat the trigger pull as a live-fire event every time — safe direction, deliberate check, then the press. Complacency here is exactly how field-strip discharges happen on striker-fired pistols.",
+   "quote": "TO COMPLETE DISASSEMBLY, YOU WILL BE REQUIRED TO PULL THE TRIGGER. IF YOU HAVE FAILED TO PROPERLY UNLOAD YOUR PISTOL AND A ROUND IS LEFT IN THE CHAMBER, THE PISTOL WILL DISCHARGE AND MAY CAUSE INJURY OR DEATH TO YOURSELF OR OTHERS AND DAMAGE TO PROPERTY. THEREFORE, YOU MUST VISUALLY INSPECT THE CHAMBER AND MAGAZINE WELL (OPENING) TO ENSURE THAT THEY ARE EMPTY BEFORE PULLING THE TRIGGER.",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Field Stripping/Disassembly, WARNING, p.26",
+   "warn": "You will be required to pull the trigger. Visually inspect the chamber and magazine well before doing so."
+  },
+  {
+   "phase": "Strip",
+   "title": "No disconnect: close the slide on the empty chamber and pull the trigger once",
+   "action": "If your pistol has NO magazine disconnect: grasp the slide's rear serrations, pull slightly rearward to disengage the slide stop and let the slide run fully forward on the empty chamber. Keep the muzzle in a safe direction and pull the trigger once, then take your finger back out of the trigger guard.",
+   "prose": "The click is the striker letting down, and it is what frees the slide to come off. One press is all the job needs — the trigger stays untouched for the rest of the strip.",
+   "quote": "With the pistol still pointing in a safe direction and the slide closed, pull the trigger once (FIGURE 39) and then remove your nger from the trigger and out of the trigger guard.",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Field Stripping/Disassembly (without magazine disconnect), p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "With disconnect: trigger held rearward, takedown lever down, then close the slide",
+   "action": "If your pistol HAS the magazine disconnect: with the slide still locked open and the chamber verified clear, pull the trigger to the fully rearward position and hold it. Push the takedown lever from its up position down into takedown with the tip of a flat screwdriver, then let go of the trigger — it stays rearward. Now ease the slide off the stop and let it close.",
+   "prose": "The disconnect variant does its trigger work with the slide locked open, which is why the lever needs a tool: the linkage is being held out of engagement while you reposition it. The trigger staying rearward after you release it is correct behavior on this variant, not a fault — it stays there until a magazine goes back in at reassembly.",
+   "quote": "Continue holding trigger in the rearward position and using the tip of a at screwdriver (or similar device), push the takedown lever from its normal “up” position (FIGURE 51) to its lowered “takedown” position (FIGURE 52).",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Field Stripping/Disassembly (with magazine disconnect), p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide back a quarter inch, pinch the takedown catch, slide forward and off",
+   "action": "Both branches converge here. Move the slide about a quarter inch rearward and hold it there, depress the takedown catch from both sides of the frame at once with thumb and forefinger, then keep the catch down while moving the slide forward about half an inch — at that point release the catch and pull the slide forward off the frame, keeping a hand on the recoil spring and guide rod as they come free.",
+   "prose": "The quarter-inch hold is the fiddly part: too far back and the catch will not reach, fully forward and the slide is still locked to the frame. The recoil spring is captive but not retained once the slide leaves the rails — and the .40 gun's spring is a stout one. Control it rather than letting the slide launch it across the bench.",
+   "quote": "Continue to hold the takedown catch down while moving the slide forward about half an inch at which point the catch can be released and the slide can be taken off the frame.",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Field Stripping/Disassembly, p.29",
+   "warn": "Retain the recoil spring and guide rod assembly as the slide comes off."
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and barrel out of the slide",
+   "action": "Turn the slide over, lift the recoil spring and guide rod assembly out of its seat, then lift the barrel out of the bottom of the slide. You now have frame, slide, barrel, recoil spring assembly and magazine.",
+   "prose": "The barrel comes out with no force once the spring is gone — if it resists, the spring's guide rod is still nested under the barrel lug. Note which way the guide rod's button end faced; centering it wrong is the classic SD reassembly failure and the manual devotes four figures to it.",
+   "quote": "Remove the recoil spring (FIGURE 44) and barrel (FIGURE 45) from the bottom of the slide.",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Field Stripping/Disassembly, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — this is the manual's hard stop",
+   "action": "Frame, slide, barrel, recoil spring assembly and magazine on the bench is the SD40VE fully field stripped for cleaning. Nothing inside the frame or slide comes apart further. Deep Clean covers the magazine, which the manual documents as its own procedure.",
+   "prose": "The bound is stated in absolute terms, and the warranty section backs it up: failure to follow the disassembly instructions is one of the named ways to void coverage. The striker channel, the trigger group and the extractor are all serviced by a qualified gunsmith, not on this bench.",
+   "quote": "NEVER DISASSEMBLE YOUR HANDGUN BEYOND THE FIELD STRIPPING PROCESS OUTLINED IN THIS MANUAL. NEVER MANIPULATE ANY INTERNAL COMPONENTS BEYOND WHAT YOU ARE SPECIFICALLY INSTRUCTED TO DO IN THIS MANUAL SINCE THIS MAY AFFECT THE RELIABILITY, FUNCTIONING AND SAFETY OF YOUR HANDGUN.",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Field Stripping/Disassembly, WARNING, p.30",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Drift punch through the floor plate hole",
+   "action": "With the magazine empty, use a drift punch through the hole in the floor plate to depress the floor plate catch inside the tube. Keep the magazine pointed away from your face from this moment on.",
+   "prose": "The spring is compressed directly under that catch, and the catch is a separate loose part on this magazine — not molded into the follower — so there are four things ready to leave the tube, not two. Safety glasses are the manual's own instruction for this job, not an embellishment.",
+   "quote": "THE MAGAZINE SPRING IS UNDER PRESSURE. CONTROL THE SPRING, FOLLOWER FLOOR PLATE AND FLOOR PLATE CATCH SO THEY DO NOT FLY OUT AND CAUSE INJURY.",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Magazine, WARNING, p.35",
+   "warn": "The magazine spring is under pressure — control the spring, follower, floor plate and catch."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Slide the floor plate off while holding the catch in",
+   "action": "Keep the catch pressed into the tube — your thumb takes over from the punch — and slide the floor plate off the tube. Do not let the catch rise until the plate is clear.",
+   "prose": "The instant the plate stops covering the catch, spring pressure is trying to eject catch, spring and follower out of the tube bottom. Let them out under control over the bench.",
+   "quote": "Slide oor plate off of the tube while holding oor plate catch in the tube (FIGURE 73).",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Magazine Disassembly, step 2, p.35"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Catch, spring and follower out through the bottom",
+   "action": "Ease the floor plate catch, spring and follower out through the bottom of the tube, laying them out in order and orientation. Clean the inside of the tube and the follower, then reassemble in exactly the orientation the parts came out.",
+   "prose": "The manual's reassembly instruction is orientation-exact for a reason: a magazine spring or follower turned around feeds nose-down rather than failing obviously. Powder residue inside a high-mileage SD magazine is what makes the last round or two sit low and misfeed.",
+   "quote": "Remove oor plate catch and spring and follower out through bottom of tube (FIGURE 74).",
+   "cite": "Safety & Instruction Manual For the SD™, SD 2.0™ and SD VE™ PISTOLS — p/n 3012649                                                  REV:SD-SD2-SDVE_011526 — Magazine Disassembly, step 3, p.35"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL AND CHAMBER",
+   "tasks": [
+    "Remove excessive firing residue from the bore and chamber with a properly fitted brass brush dipped in gun cleaning solvent",
+    "Finish with a dry cotton patch through the bore to carry out residue and solvent",
+    "Check the bore is clear of any obstruction before the barrel goes back into the slide",
+    "Clean the feed ramp and the barrel exterior where it bears in the slide"
+   ]
+  },
+  {
+   "name": "SLIDE AND FRAME",
+   "tasks": [
+    "Clean the breech face and the extractor claw — fouling here is the manual's named cause of light primer strikes and misfires",
+    "Clean the frame rails and the takedown catch recesses",
+    "Clean the exterior with a non-abrasive cleaning cloth",
+    "After cleaning, lightly coat the metal parts, internal and external, with a high quality gun oil"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Wipe the tube exterior and feed lips",
+    "If the magazine has been apart, clean the inside of the tube and the follower before reassembly",
+    "Confirm the floor plate is locked by the catch's round projection before the magazine goes back in service"
+   ]
+  },
+  {
+   "name": "LUBRICATION",
+   "tasks": [
+    "A single drop of high-quality firearms lubricant at each of the six marked lubrication points — no more",
+    "Excess lubricant collects unburned powder and carbon residue and can interfere with proper function",
+    "Avoid prolonged solvent immersion and prolonged ultrasonic cleaning",
+    "Never use ammoniated or other strong alkaline solvents on this pistol",
+    "In cold climates use an oil weight that will not congeal"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Barrel back into the slide bottom-up: muzzle flush with the end of the slide, barrel lug turned up away from the ejection port.",
+  "Insert the protruding button end of the recoil spring guide assembly into the slide guide housing and make sure it is properly centered — the manual devotes four figures to aligned versus mis-aligned, and a mis-centered rod binds the slide.",
+  "Holding slide and spring firmly, place the rear of the slide onto the front frame rails, run it fully rearward onto the rear rails, then let it forward to the closed position.",
+  "Reinsert the magazine. On disconnect-equipped pistols the trigger has been sitting rearward since takedown — seating the magazine pushes the takedown lever back up and restores function; that first magazine insertion is part of reassembly, not optional.",
+  "If the magazine was apart: spring, follower and floor plate catch go back in exactly the orientation they came out, then slide the floor plate on until the catch's round projection engages it."
+ ],
+ "fncheck": "With the pistol verified empty and pointed in a safe direction, cycle the slide by hand several times — it must run fully into battery with no binding from the recoil spring seat. Lock the slide open on the stop and release it cleanly. Pull the trigger once on the empty chamber: the striker should release with a clean click, and after cycling the slide, releasing the trigger forward should give the audible reset. On a disconnect-equipped pistol, confirm the trigger is dead with the magazine out and live with it seated. Insert an empty magazine and confirm it seats, latches against a tug on the butt plate, and drops free on the release."
+}

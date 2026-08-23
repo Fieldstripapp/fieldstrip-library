@@ -1,0 +1,195 @@
+{
+ "row": "stoegerm3000",
+ "make": "Stoeger",
+ "model": "M3000",
+ "sourcedFrom": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document (UNKNOWN — no copyright line is printed in the document)",
+ "sourceSha256": "5e81c44569cd0c547e267a4c8e2cbd9e31d41aa9fbbb8655fb4408bd67410f72",
+ "cleanIntro": "The Model 3000 is an inertia gun, not a gas gun, and that decides what you clean. There is no piston, no gas ports and no fouled action sleeve; the whole cycle runs off a spring trapped between the locking head and the bolt body, so the parts that matter are the bolt rails, the outside of the magazine tube and the bolt group itself. It is a 12 gauge with a 3 inch chamber -- this is the 3000 book, not the 3500's 3 1/2 inch supermagnum book, and the two are otherwise near-identical. Strip is magazine cap, barrel/forend forward, bolt handle out, bolt group out.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety on, bolt back, chamber empty",
+   "action": "Rest the butt on your hip and pull the bolt handle straight back; a chambered round is extracted and thrown clear of the ejection port. Look into the chamber and put a finger in it -- an inertia bolt runs so freely that a light pull can leave a shell half-fed rather than ejected. Then let the bolt close on the empty chamber so the magazine can be unloaded.",
+   "quote": "1. Rest the butt of the stock on your hip and open the bolt by pulling back on the bolt lever. The round in the chamber will be extracted from the chamber and ejected.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — UNLOADING, step 1, p.11",
+   "warn": "PUT THE MANUAL SAFETY IN THE \"ON\" OR \"SAFE\" POSITION."
+  },
+  {
+   "phase": "Clear",
+   "title": "Empty the magazine tube through the carrier latch",
+   "action": "Turn the shotgun upside down, push the carrier down, and press the front of the carrier latch in with your index finger. One shell comes out of the tube under spring pressure each time -- the latch must be pressed once per shell, so count them out and keep pressing until nothing more appears. The magazine spring in this tube is long and stiff when fully compressed, so let the shells come to you rather than fighting them.",
+   "caution": "NOTE: The carrier latch must be pressed once for each round that needs to be extracted from the magazine.",
+   "quote": "CAUTION: The magazine spring, when fully compressed, can yield enough force to cause injury during the unloading process. Use care when unloading the magazine.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — UNLOADING (Continued), p.12"
+  },
+  {
+   "phase": "Clear",
+   "title": "M3000 chamber ceiling: 12 gauge, 2 3/4 to 3 inch",
+   "action": "Confirm what this gun is chambered for before anything else, because the Model 3000 and the Model 3500 share this book's layout, its figure numbers and almost its whole disassembly text -- and differ here. The 3000 is a 3 inch gun. A 3 1/2 inch supermagnum shell belongs in the 3500, and the barrel marking is what settles it, not the shape of the receiver.",
+   "prose": "The manual is explicit that a case longer than the chamber has serious consequences for both gun and shooter.",
+   "quote": "USE ONLY SUITABLE AMMUNITION: This Stoeger semi-automatic shotgun is chambered in 12 gauge. It has been designed to fire 23/4\" (70mm) to 3 \" (76mm) length with lead or steel shot. Use of Full or Improved Modified choke tubes is not recommended with steel shot.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — AMMUNITION, p.18",
+   "warn": "M3000 ceiling: 3 inch. Never a 3 1/2 inch shell."
+  },
+  {
+   "phase": "Clear",
+   "title": "Minimum load -- an inertia action has a power floor",
+   "action": "Note what the gun will and will not cycle before you judge it dirty. The inertia system needs the shell to shove the whole gun back hard enough to compress the spring behind the locking head, so a light target load can short-stroke a perfectly clean M3000. The published floor is 1 oz of shot over 3 drams; below that a failure to cycle is the ammunition, not the cleaning.",
+   "prose": "A new gun may also need three or four boxes of standard hunting loads before it runs 1 oz target loads reliably.",
+   "quote": "Note: always use ammunition that is powerful enough to fully cycle the action. Minimum recommended load 1 oz shot / 3 drams of powder.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — AMMUNITION, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine cap off, barrel and forend forward off the tube",
+   "action": "Unscrew the magazine cap from the end of the tube and set it aside. Hold the stock/receiver in your right hand and the barrel/forend in your left and draw the barrel assembly straight forward off the magazine tube. It may need a slight back-and-forth rotation to break the barrel out of the receiver's seat -- that is the same precise fit that makes it click home on assembly, and forcing it straight off is what galls the seat.",
+   "quote": "2. While resting the stock against your hip, grab the stock/receiver assembly with your right hand and the barrel/forend assembly with the left hand. Pull the latter forward and completely off the magazine tube.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — DISASSEMBLY, step 2, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forend off the barrel ring",
+   "action": "Rotate the rear of the forend away from the barrel and pull it off the barrel ring. The forend is only trapped on that ring, so it comes away with no tool once the angle is right; trying to slide it straight off without rotating it first binds it on the ring.",
+   "prose": "The barrel and forend now separate into the two pieces the gun ships in.",
+   "quote": "3. Rotate the rear of the forend assembly and separate it from the barrel by pulling it off of the barrel ring.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — DISASSEMBLY, step 3, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt handle out with the action held slightly open",
+   "action": "Hold the action open a crack and pull the bolt handle straight out of the bolt body. It is a slip fit and needs no tool, but it will not release if the bolt is fully closed or fully back -- that small opening is what lines the handle up with its cut. Do not lever on it; if it does not come, move the bolt a few millimetres and try again.",
+   "quote": "4. Pull the bolt handle off the bolt while holding the action open slightly.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — DISASSEMBLY, step 4, p.13",
+   "warn": "WARNING: Visually and manually check the chamber and magazine to be certain the gun is completely unloaded."
+  },
+  {
+   "phase": "Strip",
+   "title": "Ease the bolt forward against the recoil spring, then draw it out",
+   "action": "Take the weight of the action bar in your left hand before you touch the carrier release -- the recoil spring lives around the magazine tube and is under load with the bolt back. Press the carrier release button and let the bolt travel forward under control until the spring stops pushing. Only then pull the bolt assembly out of the receiver; releasing it instead of easing it is how the bolt face and the receiver rails get peened.",
+   "caution": "6. Pull the bolt assembly out of the receiver.",
+   "quote": "5. While holding the action bar with your left hand to counterbalance the thrust of the recoil spring, push the carrier release button (Fig. 17) and ease the bolt forward until the recoil spring no longer pushes it forward.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — DISASSEMBLY, step 5, p.14"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore, choke recess, bolt rails and magazine tube",
+   "action": "Clean the bore with the choke tube still screwed in, so solvent and fouling cannot settle on the internal barrel threads, then unscrew the choke and clean it and its recess separately. Wipe fouling out of the receiver and oil the bolt rails and the outside of the magazine tube -- that tube is the recoil spring's guide, and grit on it shows up as a sluggish cycle long before anything else complains.",
+   "prose": "Keep the film light; oil left standing in the receiver of an inertia gun collects the powder residue the next box of shells produces.",
+   "quote": "CAUTION: Leave the choke tube installed when cleaning the bore to prevent residue from being deposited on the internal barrel threads.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — MAINTENANCE, p.17"
+  },
+  {
+   "phase": "Clean",
+   "title": "Steel shot and choke constriction on the M3000",
+   "action": "Check which choke tube is in the barrel before you shoot steel. Stoeger does not recommend Full or Improved Modified tubes with steel shot in this gun, because steel does not swage down the way lead does and the tighter constrictions take the load instead. This is a restriction on the M3000's own choke set, not general advice -- it is printed in the ammunition section of this book.",
+   "prose": "Clean choke threads and apply lubricant before the tube goes back in, and tighten it with the supplied wrench.",
+   "quote": "CAUTION: Use of Full or Improved Modified choke tubes is not recommended with steel shot.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — BEFORE LOADING, p.9",
+   "warn": "No Full or Improved Modified choke with steel shot."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You have the barrel, the forend, the bolt handle and the bolt group off the stock/receiver, with the magazine cap accounted for. That is the whole of the routine strip the Model 3000 asks for, and everything that needs cleaning after a normal day is now exposed. Deep Clean goes further into the bolt group -- firing pin, locking head, inertia spring -- and lifts the trigger group out of the receiver.",
+   "prose": "The trigger group comes out as a unit and goes no further than that without a gunsmith.",
+   "quote": "The shotgun is now completely stripped. All the parts that require routine maintenance and cleaning are disassembled.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — DISASSEMBLY (Continued), p.15",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin -- hold the pin before you push",
+   "action": "Trap the firing pin and its spring with a thumb over the rear of the bolt, then push the firing pin retaining pin out of the bolt assembly. The firing pin is under spring load the whole time and will launch the moment the retaining pin clears. Do this over a tray or a towel, not over a bench with a gap behind it.",
+   "quote": "7. While holding the firing pin and firing pin spring in place, remove the firing pin retaining pin from the bolt assembly (Fig. 18).",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — DISASSEMBLY OF THE BOLT, step 7, p.14",
+   "warn": "CAUTION: The firing pin is under spring pressure."
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin and spring out of the bolt",
+   "action": "Ease your thumb off and let the spring push the firing pin out, then lift both clear. Keep them together as a pair -- the pin will not function without its spring, and the manual makes a point of it on the way back in. Check the pin tip for a chipped or flattened nose while it is out; on an inertia gun a short pin shows up as light strikes that look like an ammunition problem.",
+   "quote": "8. Remove the firing pin and firing pin spring from the bolt (Fig. 19).",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — DISASSEMBLY OF THE BOLT, step 8, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Locking head pin, then the locking head",
+   "action": "Push the locking head pin out of the bolt and draw the locking head forward out of the bolt body. The head carries the two locking lugs that take the whole 3 inch chamber pressure, so this is the face to inspect for battering and for carbon packed behind the lugs. It is also the part that must go back in the right way round, with its hole lined up on the groove in its shank.",
+   "caution": "9. Remove the locking head pin from the bolt (Fig. 20).",
+   "quote": "10. Pull the locking head from the bolt body (Fig. 21).",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — DISASSEMBLY OF THE BOLT, step 10, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Inertia spring out of its seat",
+   "action": "Tip the bolt body and drop the inertia spring into your palm. This short spring is the entire operating system of the gun -- it sits between the locking head and the bolt body and is what the recoil compresses on firing. Clean it and its seat and look for a set or a broken coil; a tired inertia spring gives short-stroking that no amount of scrubbing elsewhere will fix.",
+   "quote": "11. Remove the inertia spring from its seat in the bolt, dropping it into the palm of your hand (Fig. 22).",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — DISASSEMBLY (Continued), step 11, p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger guard pin out, trigger group out of the receiver",
+   "action": "Drift the trigger guard pin out of the stock/receiver from left to right with a punch that fits -- an oversized punch swells the hole and a screwdriver rounds it. Then press and hold the bolt release with your left hand and draw the whole trigger guard assembly out of the receiver with your right. The bolt release has to be held or the group will not clear its cut.",
+   "caution": "12. Push the trigger guard pin out of the stock/receiver assembly using an appropriate punch from left to right (Fig. 23).",
+   "quote": "13. Press and hold the bolt release with the left hand and pull the trigger guard assembly out of the receiver with the right hand (Fig. 24).",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — DISASSEMBLY (Continued), step 13, p.15"
+  },
+  {
+   "phase": "Clean",
+   "title": "The trigger group is cleaned as a unit -- it does not come apart",
+   "action": "Clean fouling and debris off the trigger group with it still assembled and go no further. Stoeger stops the owner at this point on the M3000: taking the group itself apart is a gunsmith job. Dry the group, oil it lightly, and put it back as one piece with the hammer cocked so it seats.",
+   "prose": "This is the depth limit the book sets, and the caution is set around figure 24 in the printed layout.",
+   "quote": "CAUTION: Further dis- assembly of the Fig. 24 trigger group is not recommended, except by a qualified gunsmith.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — DISASSEMBLY (Continued), p.15",
+   "warn": "Trigger group internals: qualified gunsmith only."
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt reassembly order is load-bearing",
+   "action": "Rebuild the bolt in the order the book gives, because the inertia spring's position is a safety item and not a preference. The spring must end up between the locking head and the bolt body; assembled any other way the gun can fire as the bolt closes. Slide the locking head in with the bolt-body hole aligned on the groove in its shank -- when it is right, the slanted surfaces on the head's stem are no longer visible.",
+   "prose": "Then the firing pin with its spring, then the retaining pin to lock the lot in.",
+   "quote": "WARNING: Always make sure that the inertia spring (or bolt recoil spring) is positioned between the locking head and the bolt itself, in order to avoid discharging the weapon when the bolt is closed.",
+   "cite": "MODEL 3000 OWNER'S MANUAL — UNKNOWN — no edition, revision code or part number is printed anywhere in the document — ASSEMBLY AFTER CLEANING, step 3, p.16",
+   "warn": "WARNING: Improper assembly of the bolt group can cause accidental discharge resulting in serious injury or death."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE, CHOKE & BARREL",
+   "tasks": [
+    "Clean the bore with the choke tube still installed so residue stays off the internal barrel threads",
+    "Then unscrew the choke with the supplied wrench and clean the tube and its recess separately",
+    "Clean the choke threads and lubricate them before refitting; the tube must not protrude from the muzzle",
+    "No Full or Improved Modified choke tube with steel shot"
+   ]
+  },
+  {
+   "name": "BOLT GROUP",
+   "tasks": [
+    "Strip the bolt: retaining pin, firing pin and spring, locking head pin, locking head, inertia spring",
+    "Clean carbon from the locking head's two lugs and from behind them",
+    "Check the firing pin tip and the inertia spring for a set or a broken coil",
+    "Oil lightly and rebuild with the inertia spring between the locking head and the bolt body"
+   ]
+  },
+  {
+   "name": "RECEIVER & MAGAZINE TUBE",
+   "tasks": [
+    "Wipe fouling and debris out of the receiver",
+    "Oil the bolt rails",
+    "Oil the outside of the magazine tube -- it is the recoil spring's guide",
+    "Clean fouling from the trigger group as an assembled unit; do not open it"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Rebuild the bolt: inertia spring first, between locking head and bolt body; locking head with its hole on the shank groove so the slanted surfaces disappear; locking head pin; firing pin with its spring; retaining pin.",
+  "Hold the carrier release pressed and insert the trigger group with the hammer cocked, rear face against the receiver, then drift the trigger guard pin back in right to left until flush.",
+  "Place the recoil spring over the magazine tube, mate the bolt with the action bar and seat it fully, slide the action bar assembly into the receiver, then fit the bolt handle.",
+  "Refit the forend to the barrel ring, slide the barrel/forend assembly down the magazine tube and push until it clicks against metal and the forend mates to the receiver -- rotate slightly if it binds rather than forcing it.",
+  "Screw the magazine cap down tight; re-check it after the first few rounds, because it is what holds the barrel to the receiver."
+ ],
+ "fncheck": "With the gun empty: press the cartridge drop lever and pull the bolt fully back -- it should lock open. Put the safety ON, press the bolt release and let the bolt close, then pull the trigger; the hammer must NOT fall. Push the safety OFF so the red ring shows, pull and hold the trigger, and the hammer should fall. Holding the trigger back, open the bolt, press the bolt release and let it close, then release the trigger -- you should hear a click as the disconnector resets. Pull the trigger again and the hammer should fall."
+}

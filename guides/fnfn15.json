@@ -1,0 +1,216 @@
+{
+ "row": "fnfn15",
+ "make": "FN",
+ "model": "FN 15",
+ "sourcedFrom": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "2cdc682f6c5521c7fdc9e887903304f3c8d3c4c570bfda3b5b31054ecebe882d",
+ "cleanIntro": "FN's direct-gas-impingement AR-pattern rifle. The field strip is the familiar one — rear take-down pin, lower hinges down, charging handle and bolt carrier out the back — and the whole thing is meant to be done with finger pressure alone. This manual is written for the basic operation of the FN 15 whatever variant you bought, so check the box for an addendum before assuming it covers a feature yours has.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check what this book covers, and look for an addendum",
+   "action": "Before you strip, understand the scope of the manual you are working from: it describes the basic operation of the FN 15 rifle regardless of the specific model. Where a variant differs, FN either explains the difference here or ships a separate addendum with the rifle — so check the box and the paperwork for one before assuming this manual covers your configuration.",
+   "prose": "That matters on an AR platform more than most, because FN 15 rifles ship with different barrel lengths, handguards, stocks and muzzle devices, and the TAC3 and DMR3 rifles have their own separate book altogether. The core mechanism — direct gas impingement, based on the M-16 series design — is common, which is why the strip below is safe across the line. A feature you cannot find described here is a signal to go looking for the addendum, not to improvise.",
+   "quote": "This information applies to the basic operation of the FN 15™ rifle, regardless of the specific model you may have purchased. Where there are differences, these differences are explained or are included in a separate addendum included with your FN 15™.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §5.1 Description, p.17"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety on safe, muzzle safe, magazine out",
+   "action": "Put the safety selector in the on-safe position, keep the muzzle pointed somewhere safe, then press the magazine release and remove the magazine.",
+   "prose": "On safe first — an AR selector can only be rotated to safe with the hammer cocked, so doing it before you start also tells you the state of the fire control. Take the magazine right out of the well before touching the charging handle, because with a loaded magazine in place cycling the action chambers a round instead of clearing one. Set the magazine well away from the workspace so it cannot find its way back in mid-job.",
+   "quote": "Press the magazine release and remove the magazine.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §15.1 Unloading the rifle, step 2, p.30",
+   "warn": "Even with the bolt open after shooting, do not assume the rifle is unloaded. Always inspect the chamber, barrel, feed mechanism and magazine to be certain the rifle is completely unloaded."
+  },
+  {
+   "phase": "Clear",
+   "title": "Charging handle back, bolt locked open, chamber inspected",
+   "action": "Pull the charging handle rearward to draw the bolt to its rearmost position, press the bolt release to lock the bolt back, then hold the bolt open and look into the chamber.",
+   "prose": "FN makes a point that on the FN 15 the bolt will not lock back on its own when the magazine has been removed or when a loaded magazine is present — so the bolt catch has to be pressed deliberately. That is the trap: a rifle whose bolt slammed shut behind you feels like a rifle you already cleared. Get your eye to the ejection port with the bolt held open and confirm the chamber is empty before anything else.",
+   "quote": "Make sure the “safety” selector is in the \"on safe\" position as explained in Section 9.0 and the muzzle is pointed in a safe direction.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §15.1 Unloading the rifle, step 1, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt forward and chamber confirmed empty for the strip",
+   "action": "With the magazine out and the chamber confirmed empty, let the bolt run forward to its closed position. Check once more there is no cartridge in the chamber.",
+   "prose": "The rear take-down pin will not push through cleanly against a bolt held to the rear, so the strip starts from a closed bolt — which means re-confirming the chamber, because you are about to close the action on it. FN's disassembly section opens with the same instruction and adds eye protection, since everything in an AR lower is spring-loaded. Selector stays on safe throughout.",
+   "quote": "Allow the bolt to move to the forward most, closed position, ensure there is no cartridge in the chamber.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.1 Removal of the bolt carrier assembly, step 2, p.40",
+   "warn": "Notice! The following disassembly procedures are designed to be performed with finger pressure only and no tools are to be used."
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear take-down pin out to the right — it is captive",
+   "action": "Press the rear take-down pin in with your finger from the left side and pull it out to the right until it stops. Do not try to remove it completely.",
+   "prose": "It is a captive pin: it comes out to a stop and stays in the lower receiver, and anyone levering at it expecting a loose pin is about to damage the detent. Finger pressure is all it should take — FN says explicitly that if the strip cannot be done without tools, you stop and contact the FN Service Center. A pin that will not budge usually means the upper and lower are under tension from a sling or a bipod, so put the rifle flat first.",
+   "caution": "Important: The rear take-down pin is captive and cannot be removed completely from the lower receiver.",
+   "quote": "Press the rear take-down pin in with your finger from left to right. Pull it out to the right until it stops. See Figure 19.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.1 Removal of the bolt carrier assembly, step 3, p.40"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hinge the lower open on the front pin",
+   "action": "Rotate the lower receiver down. It pivots on the front take-down pin, which stays in place.",
+   "prose": "The rifle opens like a break-action and the front pin becomes the hinge — no need to touch it for a bolt-carrier removal. Let it swing rather than forcing the two halves apart; the buffer and its spring are behind the bolt carrier in the buffer tube and the carrier can slide back on its own once the receivers separate. Support the upper so it does not tip muzzle-down off the bench.",
+   "quote": "Rotate the lower receiver down. It will pivot on the front take-down pin.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.1 Removal of the bolt carrier assembly, step 4, p.41"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle back, and the carrier comes with it",
+   "action": "Take hold of the charging handle, press its latch, and draw it rearward. The bolt carrier assembly comes back with it.",
+   "prose": "The latch has to be pressed or the handle will not clear its lug — squeezing the latch and pulling in one motion is the habit worth building. Do not try to pull the carrier out on its own first: the handle's key engages the carrier and they travel together for most of the stroke. Keep the upper roughly level so the carrier does not drop out onto the floor as it clears.",
+   "quote": "Grab the charging handle, pressing its latch and withdraw the charging handle to the rear. The bolt carrier assembly will be withdrawn with the charging handle. See Figure 20.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.1 Removal of the bolt carrier assembly, step 5, p.41"
+  },
+  {
+   "phase": "Strip",
+   "title": "Carrier out, then the charging handle through its keyway",
+   "action": "Carefully take the bolt carrier completely out of the upper receiver, then remove the charging handle by dropping it out of its keyway at the rear of the upper.",
+   "prose": "Order matters: the charging handle can only come free once the carrier is out of the way, because it has to drop down into the keyway before it will pull clear. Trying to yank the handle out with the carrier still in the receiver just bends the handle. With both out, the upper is an empty tube and the bore is accessible from the chamber end, which is the only end you should ever clean from.",
+   "quote": "Carefully remove bolt carrier completely from the upper receiver. The charging handle can then be removed from the upper receiver as it passes through its keyway in the rear of the upper receiver.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.1 Removal of the bolt carrier assembly, step 6, p.41"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin out of the left side",
+   "action": "Hold the carrier with the bolt pushed forward, and pull the firing pin retaining pin out of the left side of the bolt carrier.",
+   "prose": "It is a small cotter-shaped pin and it only wants finger pressure; if it fights, the bolt is not pushed forward far enough and the firing pin's shoulder is trapping it. Do this over the bench, not over a gravel range floor — it is the easiest part on the rifle to lose. Once it is out the firing pin is free to drop out the back, so keep the carrier tipped nose-down until you are ready.",
+   "quote": "Remove the firing pin retaining pin by pulling it out of the left side of the bolt carrier. See Figure 21.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.2 Disassembly of the bolt and bolt carrier, step 3, p.42"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin out the back, cam pin turned ninety degrees",
+   "action": "Pull the firing pin out of the rear of the bolt. Then rotate the bolt cam pin 90 degrees and pull it up and out of the carrier.",
+   "prose": "The cam pin has to be turned before it will lift — it is keyed so that it cannot come out while the bolt is rotated into battery, and that keying is what stops the rifle firing out of alignment. Turn it a quarter turn and it lifts straight out. If it will not turn, the bolt needs pushing forward in the carrier to unlock it first.",
+   "quote": "Rotate the bolt cam pin 90 degrees and then pull it out of the bolt carrier. See Figure 22.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.2 Disassembly of the bolt and bolt carrier, step 5, p.42"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out the front",
+   "action": "Pull the bolt out of the front of the bolt carrier. Stop there for normal cleaning — FN does not recommend going further into the bolt or carrier.",
+   "prose": "With the bolt out you can reach the three gas rings on its tail, the extractor and the bolt face, which is where the carbon that actually causes malfunctions lives. FN allows the extractor to come out using the firing pin to push its pin, but says clearly that going beyond this is not recommended for normal cleaning and maintenance. Keep the parts together as a set; bolts are fitted to barrel extensions and are not interchangeable between rifles as a matter of course.",
+   "aside": "FN's limit for this level: It is not recommended to disassemble the bolt or bolt carrier beyond this for normal cleaning and maintenance.",
+   "quote": "Pull the bolt out of the front of the bolt carrier.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.2 Disassembly of the bolt and bolt carrier, step 6, p.42"
+  },
+  {
+   "phase": "Clean",
+   "title": "Check the three gas rings and their gaps",
+   "action": "With the bolt out, inspect the three gas rings on its tail. Wipe them clean with a brush or patch and make sure their gaps are not lined up with each other.",
+   "prose": "Those rings are the gas seal that drives the whole direct-impingement cycle, and three gaps in a row is a leak path that shows up as short-stroking long before it shows up as anything visible. Stagger them as you put the bolt back. The other half of the same rule is what does not go on them: the gas rings and the interior of the carrier are wiped dry after cleaning, never oiled.",
+   "quote": "Inspect the three gas rings on the tail of the bolt. Wipe them clean with a brush or patch. Ensure their gaps are not lined up. See Figure 28.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §19.1 Cleaning and lubrication in normal conditions, step 8, p.48",
+   "warn": "Notice! Do not apply lubricant to the gas rings on the bolt or the interior of the bolt carrier. These components are not to be lubricated in any way."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper receiver and barrel, lower receiver and stock, bolt carrier, bolt, cam pin, firing pin and its retaining pin, charging handle, magazine. FN calls anything past this a job for the FN Service Center.",
+   "prose": "That is everything the normal cleaning routine needs: bore and chamber from the breech end, the bolt face and gas rings, the interior of the carrier, the carrier key, and the inside of both receivers. FN's interval is after every day of shooting, and more often if the rifle got excessively dirty during the session. Deeper still — separating the receivers, pulling the buffer and spring, taking the handguards off — is published in this manual and sits behind Deep Clean.",
+   "quote": "Notice! This rifle is a specialized, finely fitted mechanism. You may damage it beyond repair or lose small parts by attempting to disassemble the inner mechanical assemblies.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.0 Disassembly, notice, p.39",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Separate the upper and lower receivers",
+   "action": "With the rifle unloaded, the selector on safe and the bolt forward, push the rear take-down pin out to its stop and hinge the lower down. Then press the front take-down pin from left to right and pull it out to its stop as well; the two receivers now come apart.",
+   "prose": "The front pin is captive in the lower exactly like the rear one, so again it comes out to a stop and no further. Splitting the receivers is what gives you access to the inside of the lower — the trigger pocket, the selector detent channel and the buffer tube mouth — which is where fine grit collects and where a bore brush never reaches. Support both halves as they part so the buffer retainer does not release unexpectedly.",
+   "quote": "Press the front take-down pin with your finger from left to right. Pull it out to the right until it stops. See Figure 24.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.3 Separating the upper and lower receivers, step 5, p.43"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and spring out — both under tension",
+   "action": "With the receivers separated and the hammer cocked, press back on the buffer slightly and at the same time press down on the buffer retainer. Then let the buffer and spring come out of the buffer tube under control and separate them.",
+   "prose": "Two springs are working against you at once here: the buffer spring behind the buffer, and the little detent spring under the retainer. The buffer is not captive, so once the retainer is down the whole assembly wants to leave the tube — keep a hand over it. Make sure the hammer is cocked first, as FN specifies, or the buffer will foul on it as it comes back.",
+   "quote": "Press back on the buffer slightly. It will be under spring tension. While doing so, press down on the buffer retainer. It is also under spring tension. See Figure 25.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.4 Removal of the buffer and buffer spring, step 4, p.44",
+   "warn": "Carefully allow the buffer and spring to be removed from the buffer tube in the buttstock. It is not captive and is under spring tension."
+  },
+  {
+   "phase": "Clean",
+   "title": "Handguards: FN says you probably do not need to",
+   "action": "Leave the handguards on unless there is a reason to take them off. If you must, pull back on the handguard slip ring until one of the handguards can be removed from underneath it.",
+   "prose": "FN's own line is that under normal conditions removing the handguards is not necessary for maintenance — the gas system beneath them does not want cleaning solvent and the barrel does not care. Where it does earn its keep is corrosion inspection: in hot and humid conditions FN asks you to increase inspection of all steel parts for rust, including under the handguards. That is the reason to take them off, not routine cleaning.",
+   "quote": "Under normal conditions, removal of the handguards is not necessary for maintenance.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §18.5 Removal of the handguards, step 2, p.44"
+  },
+  {
+   "phase": "Clean",
+   "title": "Carrier interior, carrier key and the carbon that matters",
+   "action": "Scrub the bolt and bolt carrier with a cleaning brush and CLP. Use a bronze brush where carbon has built up on the tail of the bolt and the interior of the carrier, and run a pipe cleaner through the carrier key until it passes into the inside of the carrier. Then wipe the bolt tail and carrier interior dry.",
+   "prose": "The carrier key is the gas port for the whole system — if a pipe cleaner will not pass through it into the carrier, the rifle's gas is being throttled and it will short-stroke no matter how clean everything else is. The dry finish on the bolt tail and carrier interior is deliberate and pairs with the gas-ring rule: oil there bakes into a varnish that seizes the bolt in the carrier. Everything outside those surfaces gets a light CLP film.",
+   "quote": "Use a cleaning brush and CLP to scrub the fouling from the bolt and bolt carrier.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §19.1 Cleaning and lubrication in normal conditions, step 7, p.48"
+  },
+  {
+   "phase": "Clean",
+   "title": "Brush discipline: chrome bore, anodized aluminium receivers",
+   "action": "Use a bronze bore brush when fouling is heavy, pushed completely through the barrel before it is withdrawn — never a stainless steel one. And keep bronze and steel brushes off the anodized aluminium receivers.",
+   "prose": "Two different materials, two different rules, and both are easy to get wrong with one brush in your hand. A stainless brush will cut the chrome lining out of an FN 15 bore, and the damage is permanent. Reversing a bronze brush mid-bore snaps bristles off inside the rifling, which is why it goes all the way through first. On the aluminium, a bronze brush strips the anodizing and opens the surface to corrosion, so receivers get a nylon brush or a rag.",
+   "aside": "FN's companion rule for the receivers: Do not use bronze or steel brushes to clean anodized aluminum parts as damage to the finish may result.",
+   "quote": "Notice: Do not use a stainless steel bore brush to clean the bore. It will damage the chrome plating.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §19.1 Cleaning and lubrication in normal conditions, step 3, p.47"
+  },
+  {
+   "phase": "Clean",
+   "title": "Trigger group cleaned in place, never disassembled",
+   "action": "Clean the trigger assembly with compressed air or a polymer-safe aerosol gun cleaner, then apply a few drops of CLP to the moving parts. Do not attempt to take the trigger mechanism apart.",
+   "prose": "With the receivers split, the fire control is exposed and the temptation to dismantle it is real — FN's answer is that it gets cleaned where it sits. Blow the grit out, wet it with a polymer-safe cleaner so nothing attacks the selector detent or the grip, let it dry and put a few drops of CLP on the hammer and trigger contact faces. A few drops, not a flood: excess lubrication is FN's stated cause of interference with function.",
+   "quote": "Use compressed air or polymer-safe aerosol gun cleaner to clean the trigger assembly. Do not attempt to disassemble the trigger mechanism for cleaning.",
+   "cite": "FN 15™ AUTOLOADING RIFLE OWNER'S MANUAL — 1703-FN 15™ OM 36169-01 — §19.1 Cleaning and lubrication in normal conditions, step 12, p.49"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Rod, brass jag and a snug patch with CLP or bore solvent, inserted from the breech end and worked back and forth several times",
+    "Keep the rod off the crown of the muzzle — FN warns that damage there affects accuracy directly",
+    "Heavy fouling takes a bronze bore brush, pushed completely through the barrel before being withdrawn so bristles do not break off in the rifling",
+    "Never a stainless steel brush — it damages the chrome lining",
+    "Chamber and locking lugs with a Mil-standard M-16 style chamber brush, CLP on the brush, rotated clockwise several times",
+    "Wipe the chamber and bore dry, then one lightly CLP'd patch through for preservation, and check no patch has been left behind"
+   ]
+  },
+  {
+   "name": "BOLT, CARRIER & RECEIVERS",
+   "tasks": [
+    "Brush and CLP on the bolt and carrier; bronze brush for baked carbon on the bolt tail and the carrier interior",
+    "Pipe cleaner through the carrier key until it passes into the carrier — a blocked key starves the gas system",
+    "Wipe the bolt tail and the carrier interior DRY: those surfaces are never lubricated",
+    "Stagger the three gas ring gaps before the bolt goes back in",
+    "Small brush or rag through the inside of both receivers, then light CLP on all moving parts",
+    "Nylon or plastic brush only on the anodized aluminium; bronze and steel damage the finish"
+   ]
+  },
+  {
+   "name": "STOCK, MAGAZINE & EXTERIOR",
+   "tasks": [
+    "Plastic-bristled brush on the polymer stock and handguards; warm clean water if they are badly dirty, then wiped dry",
+    "Pipe cleaner through the small port at the rear of the buffer tube",
+    "Magazine: spray inside and out with a polymer-safe aerosol cleaner, drain it, dry with compressed air or air-dry, and lightly oil the exterior only — never the inside. FN does not recommend taking magazines apart",
+    "Wipe all exposed metal with a lightly oiled cloth so no fingerprints are left, because that is where moisture collects",
+    "Clean after every day of shooting, and more often if the rifle got excessively dirty during the session"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bolt into the front of the carrier with the extractor to the right, gas ring gaps staggered.",
+  "Cam pin down through the carrier into the bolt, then turned 90 degrees so it locks.",
+  "Firing pin in from the rear, then the firing pin retaining pin back into the left side of the carrier.",
+  "Buffer spring onto the buffer and back into the buffer tube with the hammer cocked, pressing the buffer retainer down until the buffer is captured behind it.",
+  "Charging handle into its keyway in the rear of the upper, pushed forward part way, then the carrier engaged onto it and both run home together.",
+  "Upper onto the lower, front take-down pin pushed back in, receivers closed, rear take-down pin pushed home.",
+  "Handguards, if removed, refitted under the slip ring — front end in behind the front sight assembly first."
+ ],
+ "fncheck": "With the rifle empty and reassembled: both take-down pins should push fully home and stay there; the charging handle should draw the carrier smoothly to the rear and the carrier should return fully into battery under the buffer spring; the bolt should lock back when the bolt catch is pressed with the bolt held rearward, and drop when the release is pressed; the selector should rotate to safe with the hammer cocked and back to fire; and a pipe cleaner should still pass through the carrier key — the one check that says the gas system is actually open."
+}

@@ -1,0 +1,98 @@
+{
+ "row": "rugermini14",
+ "make": "Ruger",
+ "model": "Mini-14",
+ "sourcedFrom": "Ruger Mini-14 Ranch & Mini Thirty Rifles Instruction Manual — PM212 (2026)",
+ "sourceSha256": "cb1658dd06b3d3bdca2796b01b6b1cf27cb1e26c3afa2d1f472a1368b89ce4cd",
+ "cleanIntro": "A Garand-pattern strip: trigger guard sprung open, trigger housing out, barrelled action out of the stock, then the recoil spring and bolt. Two of these steps carry Ruger’s own warnings.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear it and put the safety ON",
+   "action": "Point the rifle in a safe direction, remove the magazine, open the action completely and confirm the chamber is empty. Then push the safety fully rearward to \"ON\".",
+   "prose": "The safety sits in front of the trigger and is ON when fully rearward, intruding into the trigger guard.",
+   "quote": "Put the safety \"ON\" (push fully rearward).",
+   "cite": "Ruger Mini-14 Ranch & Mini Thirty Rifles Instruction Manual — PM212 — Disassembly, step 3 preamble, p.22",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly or assembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Spring the trigger guard open — not with a cartridge",
+   "action": "Invert the rifle and use a 1/4 inch steel rod, punch or screwdriver shank in the hole at the rear of the trigger guard as a lever to spring it open from its latched position.",
+   "prose": "Ruger names the tools it wants used here, and names one it does not.",
+   "caution": "Do not use a cartridge to unlatch the trigger guard because of the danger of loosening the bullet in the cartridge case",
+   "quote": "Do not use a cartridge to unlatch the trigger guard because of the danger of loosening the bullet in the cartridge case",
+   "cite": "Ruger Mini-14 Ranch & Mini Thirty Rifles Instruction Manual — PM212 — Disassembly, step 3, p.22",
+   "warn": "Do not use a cartridge to unlatch the trigger guard because of the danger of loosening the bullet in the cartridge case"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger housing out",
+   "action": "Pull the trigger housing assembly carefully upward and out.",
+   "prose": "Careful is the operative word — this is where stocks get marked.",
+   "quote": "Remove trigger housing assembly by carefully pulling it upward",
+   "cite": "Ruger Mini-14 Ranch & Mini Thirty Rifles Instruction Manual — PM212 — Disassembly, step 4, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel/receiver out of the stock",
+   "action": "Lift the rear of the barrel/receiver assembly out of the stock, then pull the stock rearward out of engagement with the gas block.",
+   "prose": "Rear first, then straight back off the gas block — lifting the front first binds it.",
+   "quote": "Remove barrel/receiver assembly from stock by lifting the rear of the assembly out of the stock and then pulling the stock rearward out of engagement with the gas block.",
+   "cite": "Ruger Mini-14 Ranch & Mini Thirty Rifles Instruction Manual — PM212 — Disassembly, step 5, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Guide rod and recoil spring — eye protection",
+   "action": "Grasp the guide rod and recoil spring, move it forward to slightly compress the spring and disengage it from the receiver, then lift and draw it rearward to remove.",
+   "prose": "Ruger asks for eye protection on this step specifically. The spring is heavily compressed and can escape forcibly.",
+   "caution": "The recoil spring is heavily compressed -- use eye protection and care when disassembling and reassembling to prevent the guide rod and spring from escaping forcibly and possibly causing injury.",
+   "quote": "The recoil spring is heavily compressed -- use eye protection and care when disassembling and reassembling to prevent the guide rod and spring from escaping forcibly and possibly causing injury.",
+   "cite": "Ruger Mini-14 Ranch & Mini Thirty Rifles Instruction Manual — PM212 — Disassembly, step 6, p.23",
+   "warn": "The recoil spring is heavily compressed -- use eye protection and care when disassembling and reassembling to prevent the guide rod and spring from escaping forcibly and possibly causing injury."
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out through the disassembly notch",
+   "action": "Pull the bolt forward until it can be pivoted up and out of the receiver, aligning the firing pin projection with the slot in the lower receiver bridge.",
+   "prose": "It may need a wiggle to line the firing pin projection up with the slot. That is normal, not force.",
+   "quote": "Align firing pin projection with slot in lower receiver bridge and remove bolt from receiver",
+   "cite": "Ruger Mini-14 Ranch & Mini Thirty Rifles Instruction Manual — PM212 — Disassembly, step 9, p.23",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "PM212 states that removal of the bolt stop assembly is not normally required for routine cleaning, and publishes no detail strip past the bolt. This listing therefore has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent-wet patch through the bore, correctly sized brush, then dry patches until clean",
+    "Clean the chamber and the locking lug recesses"
+   ]
+  },
+  {
+   "name": "BOLT & OP-ROD",
+   "tasks": [
+    "Wipe the bolt face and around the extractor",
+    "Clean carbon from the bolt lugs and the receiver raceways",
+    "Wipe the slide and gas system exterior",
+    "Light oil on bearing surfaces only"
+   ]
+  },
+  {
+   "name": "TRIGGER HOUSING & STOCK",
+   "tasks": [
+    "Brush the trigger housing assembly and wipe it — keep it as a unit",
+    "Wipe the stock interior and check the gas block engagement surfaces",
+    "Keep oil out of the wood"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the bolt to the receiver, aligning the firing pin projection with the bridge slot.",
+  "Reinstall the guide rod and recoil spring — eye protection on, it is heavily compressed.",
+  "Seat the barrel/receiver into the stock at the gas block first, then the rear.",
+  "Refit the trigger housing assembly and latch the trigger guard closed."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, check the safety blocks the trigger, the bolt locks up, and the trigger guard is fully latched before handling."
+}

@@ -1,0 +1,160 @@
+{
+ "row": "tauruspt1911",
+ "make": "Taurus",
+ "model": "PT1911",
+ "sourcedFrom": "1911\nINSTRUCTION MANUAL — Rev. 4 (UNKNOWN - not printed in the document)",
+ "sourceSha256": "8bf31087a0fc1dbc3b35eeaa78b74ce6584a2f0a6061c01721b4fa5d52ccdb9b",
+ "cleanIntro": "Taurus publishes one book for its 1911, and it is titled simply '1911'. Your gun's slide says PT 1911; the book indexes by frame size instead - Full Size, Commander, Officer - and it BRANCHES there, so the first thing this guide does is make you settle which frame you have. Full Size and Commander share a strip that starts at the barrel bushing. The Officer does not: it has no bushing, an internal recoil spring guide, and needs a disassembly assist tool. Getting that wrong is the one way to hurt yourself on this pistol.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Settle your frame size before you touch anything",
+   "action": "Look at the front of the slide and measure the barrel. The book's .45 ACP table gives three: Full Size at a 5.00-inch barrel and 8.60 inches overall, Commander at 4.25 and 7.92, Officer at 3.51 and 7.19. Full Size and Commander have a barrel bushing at the muzzle; the Officer does not.",
+   "prose": "This is the fork the whole guide turns on. Taurus prints two separate disassembly procedures and they are not interchangeable: the Full Size/Commander strip begins by unloading a recoil spring through a barrel bushing, and the Officer strip begins by capturing an internal recoil spring guide with a tool. If your muzzle has a rotating collar around the barrel, you are on the Full Size/Commander procedure that follows. If it does not, stop and use the book's Officer procedure instead.",
+   "aside": "The unqualified Taurus 1911 in .45 ACP is the Full Size 5-inch gun; the steps below follow the book's FULL SIZE/COMMANDER procedure.",
+   "quote": "Full Size .45 ACP Commander .45 ACP Officer .45 ACP",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Specifications (1911 in .45 ACP), printed p.13 (PDF p.7)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Removing the magazine does not unload the chamber",
+   "action": "Muzzle in a safe direction and finger off the trigger. Remove the magazine, then pull the slide to the rear to eject the chambered cartridge, then visually AND physically inspect the chamber to confirm it is empty.",
+   "prose": "Taurus says this in a warning box because it is the mistake that kills people with 1911s. The magazine and the chamber are two separate stores and they empty in that order, magazine first. A finger in the chamber costs a second and settles it in the dark.",
+   "quote": "Removing the magazine does not unload the chamber! To unload first make sure the muzzle is pointed in a safe direction and your finger is off the trigger. Next, remove the magazine, then pull the slide to the rear to",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Disassembly (Full Size/Commander), warning, printed p.26 (PDF p.14)",
+   "warn": "After removing the magazine, always check the chamber and make sure it is empty."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock it back, look and feel the magazine well and the chamber",
+   "action": "Before disassembly, remove the magazine by pressing the magazine release, pull the slide to the rear, lock it back, and look and feel inside the magazine well and chamber to confirm the pistol is empty.",
+   "prose": "The magazine well matters as much as the chamber on a single-action pistol: a magazine that did not drop free because a round has nosed up under the feed lips is still a loaded magazine sitting in the gun. Look into the well, then put a finger in it.",
+   "quote": "2. Before disassembly remove the magazine by pressing the magazine release, pull the slide to the rear, lock it back and look and feel inside the magazine well and chamber to confirm the pistol is empty. An empty firearm cannot fire.",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Disassembly (Full Size/Commander), step 2, printed p.26 (PDF p.14)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel bushing wrench, and release the spring SLOWLY",
+   "action": "Using the barrel bushing wrench, depress the recoil spring plug and turn the barrel bushing counter clockwise until it stops. The barrel bushing, recoil spring plug and recoil spring are then free - release the spring pressure slowly and in a controlled manner.",
+   "prose": "This is the step that puts 1911 parts in ceilings. The recoil spring is preloaded behind that plug and the plug is a smooth steel cup with nothing to hold; the wrench exists so your thumb is not the thing holding it. Keep a palm cupped over the muzzle end and let the plug come up against your hand, not past it.",
+   "quote": "3. Be very careful on this step as you will be releasing the preload on the recoil spring and if it is mishandled, it could fly out with substantial force. Using the barrel bushing wrench (Fig. 1), depress the recoil spring plug and turn the barrel bushing counter clockwise until it stops. The barrel bushing, recoil spring plug and recoil spring are free. Release the spring pressure slowly and in a controlled manner (Fig. 2).",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Disassembly (Full Size/Commander), step 3, printed p.26 (PDF p.14)",
+   "warn": "Take care to prevent the forcible ejection of the guide rod assembly and compressed recoil spring."
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and plug out",
+   "action": "Ease out the recoil spring and the recoil spring plug.",
+   "prose": "Ease, not pull. The spring is still lightly captive in the slide and it will come out on its own once the plug is clear. Note which way round the plug sat - it only goes back one way and it is a fiddly thing to work out at midnight.",
+   "quote": "4. Ease out the recoil spring and recoil spring plug.",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Disassembly (Full Size/Commander), step 4, printed p.26 (PDF p.14)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Align the slide catch tab with the disassembly notch",
+   "action": "Push the slide rearward until the tab on the slide catch aligns with the semi-circular notch at the base of the slide.",
+   "prose": "That notch is the only point in the slide's travel where the slide stop can come out, and it is a small window. Hold the slide there with one hand rather than trying to find it again halfway through the next step - the moment you let go it moves.",
+   "quote": "5. Push the slide rearward until the tab on the slide catch aligns with the semi-circular notch at the base of the slide (Fig 3).",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Disassembly (Full Size/Commander), step 5, printed p.27 (PDF p.15)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide stop out - push from the right, pull from the left",
+   "action": "Push inward on the end of the slide stop shaft on the right side of the pistol while simultaneously pulling on the slide stop from the left side.",
+   "prose": "Both hands, both sides, at the same time. Levering it out from the left alone is what puts the famous idiot scratch down the side of a 1911 frame - a mark you cannot polish out. A thumbnail on the right-hand shaft end is enough to start it.",
+   "quote": "6. Push inward on the end of the slide stop shaft on the right side of the pistol while simultaneously pulling on the slide stop from the left side of the pistol (Fig 4).",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Disassembly (Full Size/Commander), step 6, printed p.27 (PDF p.15)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward off the frame, then the recoil spring guide",
+   "action": "Push the slide assembly forward and off the frame, then remove the recoil spring guide from the slide assembly.",
+   "prose": "The slide runs straight off the front of the rails once the slide stop is out; nothing needs to be held back. The guide then lifts out of the slide from underneath the barrel - it is a loose part now, so put it with the plug and the bushing rather than on the edge of the bench.",
+   "quote": "7. Push the slide assembly forward and off the frame. 8. Remove the recoil spring guide from the slide assembly (Fig. 5).",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Disassembly (Full Size/Commander), steps 7-8, printed p.27 (PDF p.15)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel forward out of the slide",
+   "action": "Push the barrel forward out of the front of the slide.",
+   "prose": "With the bushing already off, the barrel goes out the front. Tip the muzzle down slightly as it goes so the barrel link swings clear rather than catching on the lower lugs. That is the field strip finished.",
+   "quote": "9. Push the barrel forward out of the front of the slide (Fig. 6)",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Disassembly (Full Size/Commander), step 9, printed p.28 (PDF p.15)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete - and this is where Taurus stops",
+   "action": "Frame, slide, barrel, barrel bushing, recoil spring, recoil spring plug, recoil spring guide and magazine. That is the whole strip the book publishes, and it says plainly that no further disassembly is recommended unless done by a qualified gunsmith.",
+   "prose": "Everything routine is reachable from here. The grip safety, the thumb safety, the sear and the mainspring housing all stay where they are - a 1911's small parts are exactly the sort of thing that comes out easily and goes back wrongly, and the book draws the line here for that reason.",
+   "quote": "No further disassembly is recommended unless done by a",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Disassembly (Full Size/Commander), warning, printed p.28 (PDF p.15)",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Magazine base cap retainer in, base cap forward",
+   "action": "Use a punch to press in on the magazine base cap retainer, then slide the magazine base cap toward the front of the magazine and remove it.",
+   "prose": "The retainer is a dimple that projects through the base cap; press it flush and the cap slides. This is the only disassembly beyond the field strip that Taurus publishes for the Full Size and Commander, and it is a magazine job, not a pistol job.",
+   "quote": "A) Use a punch to press in on magazine base cap retainer (as shown).\nB) Slide the magazine base cap toward the front of the magazine and remove according to position 1 and 2.",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Magazine Disassembly (Full Size/Commander), printed p.30 (PDF p.16)",
+   "warn": "Be very careful when removing the spring from the magazine. Use care to prevent forcible ejection."
+  },
+  {
+   "phase": "Strip",
+   "title": "Retainer and spring out, then the follower",
+   "action": "Withdraw the magazine base cap retainer and the magazine spring from the magazine tube, then turn the magazine body upside down and remove the follower. Assemble in reverse order.",
+   "prose": "Keep a thumb over the mouth of the tube as the cap clears - the spring is compressed the whole length of the magazine and it comes out fast. Note the orientation of the follower before it falls out; it will go back in upside down quite happily and then the magazine will not feed.",
+   "quote": "C) Withdraw magazine base cap retainer and magazine spring",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Magazine Disassembly (Full Size/Commander), printed p.30 (PDF p.16)"
+  },
+  {
+   "phase": "Clean",
+   "title": "Everything else is a wipe, not a strip",
+   "action": "For normal cleaning, rub the pistol with a lightly oiled cloth and proceed the same way with the bore of the barrel. Remove the excess oil and take dust out of all crevices with a small clean brush.",
+   "prose": "Taurus's whole maintenance chapter is written around the field strip and the magazine, and there is nothing else in the book to walk. A 1911 that is cleaned at this level after every outing does not need anything deeper; one that needs more than this needs a gunsmith.",
+   "aside": "A firearm with a laser should not be cleaned in a well or supersonic machine that submerges the firearm, as this can damage the laser system.",
+   "quote": "For normal cleaning, rub the pistol with a lightly oiled cloth. In the same way, proceed with the bore of the barrel. Excess oil should be removed. Dust should be removed from all crevices with a small clean brush.",
+   "cite": "1911\nINSTRUCTION MANUAL — Rev. 4 — Care and Maintenance, printed p.36 (PDF p.19)"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL, BUSHING & CHAMBER",
+   "tasks": [
+    "Run a solvent-wetted brush through the bore from the chamber end, then patches until they come out clean",
+    "Clean the barrel hood, the locking lugs on top of the barrel and the lower lugs and link - that is where a 1911 collects its carbon",
+    "Clean inside the barrel bushing and check it still turns freely on the barrel",
+    "Wipe the feed ramp; on a .45 ACP a rough or dirty ramp is the usual cause of a nose-dive stoppage"
+   ]
+  },
+  {
+   "name": "SLIDE & FRAME",
+   "tasks": [
+    "Brush the slide rails and the frame rails, then wipe them dry before oiling",
+    "Clean the breech face and around the extractor claw without levering the extractor out",
+    "Take dust out of all crevices with a small clean brush",
+    "Rub the pistol with a lightly oiled cloth and remove the excess"
+   ]
+  },
+  {
+   "name": "MAGAZINE, SPRING & OIL",
+   "tasks": [
+    "Wipe the magazine body inside and out and check the feed lips for spread or damage",
+    "Keep oil out of the inside of the magazine tube - it holds grit and it contaminates ammunition",
+    "A light film of oil on the rails, the barrel exterior and the bushing; a 1911 wants oil on its bearing surfaces, not everywhere",
+    "On Officer models, Taurus recommends replacing the recoil spring assembly every 500 rounds"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Slide the barrel into the slide through the front, then place the guide rod on top of the barrel.",
+  "Guide the slide assembly back onto the frame rails while holding the barrel and guide rod in the slide.",
+  "Place the barrel bushing back over the barrel inside the slide and rotate it clockwise as far as it will go.",
+  "Insert the slide catch through the barrel link, rack the slide until the tab aligns with the semi-circular notch, and push it fully in.",
+  "Insert the recoil spring over the guide rod and the recoil spring plug over the spring.",
+  "Compress the recoil spring by pushing on the plug until the bushing can rotate over the step on the plug, then use the bushing wrench to depress the plug and rotate the bushing back to its original position."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty: the slide should run the full stroke and go into battery under its own spring; the slide stop should lock it back off an empty magazine and drop it cleanly; the barrel bushing should be tight in its rotated position with the plug captured under it; the grip safety must be depressed before the trigger will move and the thumb safety must block the trigger when it is up; and the hammer must hold at full cock with no follow when the slide is released briskly. Taurus's standing warning is that no further disassembly is recommended unless done by a qualified gunsmith."
+}

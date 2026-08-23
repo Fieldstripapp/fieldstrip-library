@@ -1,0 +1,197 @@
+{
+ "row": "sigsauerp320xfive",
+ "make": "SIG Sauer",
+ "model": "P320 X-Five",
+ "sourcedFrom": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 (2018)",
+ "sourceSha256": "dd3f36bf1a70ab5f6014a77650f2823c81841fcae6bc4ac7e79033a95b60445e",
+ "cleanIntro": "The P320 field strip out of the one revision of this book that names the P320 X-FIVE and prints an X-FIVE slide parts diagram. The teardown is the standard P320 four-piece strip. What is X-FIVE-specific here is the detachable magazine well, the adjustable rear sight, and a reassembly instruction that SIG writes by frame size rather than by model name.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Know what is X-FIVE and what is not",
+   "action": "Two things to settle before you strip it. First, sight options: VTAC, X-Ray night sights and Dawson Precision adjustable sights are offered with select X-series models only, so what is on your slide is a per-pistol fact and not a line-wide one. Second, the magazine well: SIG states the X-FIVE comes standard with a detachable magazine well, retained by a screw on the X-grip module.",
+   "prose": "The magwell is worth knowing about before you start because it is the one X-FIVE part that can be in your way, and because removing it is a separate procedure from the field strip — SIG says you detach it from the grip module by taking out the retention screw, and nothing in the strip below requires you to.",
+   "aside": "SIG's magwell statement is at 3.3 Magwell-Equipped Pistols, p.21; the same book records that the P320 X-FIVE has a fully adjustable rear sight (p.57).",
+   "quote": "VTAC, X-Ray Night Sights, and Dawson Precision adjustable sights available with select X-series models.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 13.0 Technical Specifications, p.69"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Muzzle in a safe direction, finger outside the trigger guard. Press the magazine catch and pull the magazine out — on an X-FIVE it drops through the magwell funnel, so let it clear before you reach for it.",
+   "prose": "The P320 has no magazine disconnect in standard form. It will fire a chambered cartridge with the magazine gone, so this step has removed the feed source only.",
+   "quote": "REMOVING THE MAGAZINE FROM THE PISTOL DOES NOT PREVENT IT FROM BEING FIRED.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 5.0 Unloading the Pistol, p.29",
+   "warn": "Magazine out is not unloaded. The chamber has not been checked."
+  },
+  {
+   "phase": "Clear",
+   "title": "Clear the chamber and check it yourself",
+   "action": "Rack the slide fully rearward, watching for a cartridge to eject, lock it open on the slide catch lever, then look into the ejection port and the magazine well and put a finger into both.",
+   "prose": "SIG's instruction is that you personally check, visually and physically. The X-FIVE's magwell funnel narrows the view up the magazine well from underneath, so the finger check matters more here than on a bare grip module.",
+   "quote": "Never assume that any firearm is unloaded until you have personally checked it, visually and physically.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 5.0 Unloading the Pistol, step 2, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lock the slide back for the strip",
+   "action": "Draw the slide fully rearward and push up on the slide catch lever until the slide locks open. Ease it forward until it stops hard against the lever.",
+   "prose": "The takedown lever only rotates from this position — its cam has to meet a relief cut in the slide. On the X-FIVE's long slide a few millimetres of creep is easy to miss by feel and will make the lever seem seized.",
+   "quote": "Lock the slide to the rear by pulling slide rearward and pushing up on the slide catch lever.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.1 Pistol Disassembly, step 2, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown lever clockwise to the stop",
+   "action": "Rotate the takedown lever on the left of the frame clockwise until it will go no further, about a quarter turn from horizontal.",
+   "prose": "All the way to the stop. A partially turned lever lets the slide begin to move and then traps it, and the only cure is to put the slide back on the catch and start again.",
+   "quote": "Rotate the takedown lever clockwise until it stops.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.1 Pistol Disassembly, step 3, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the catch, hand on the slide",
+   "action": "Take hold of the slide, pull it slightly rearward to unload the slide catch lever, and let the lever drop. Keep hold of the assembly.",
+   "prose": "From here your hand is the only thing holding the slide on the frame, and the recoil spring inside is still compressed. The X-FIVE slide is the longest and heaviest in the family — do not change grip mid-move.",
+   "caution": "Eye protection. The slide is under spring tension from here to the end of the strip.",
+   "quote": "Pull the slide slightly rearward to disengage the slide catch lever; keep",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.1 Pistol Disassembly, step 4, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly forward off the receiver",
+   "action": "Guide the complete slide assembly — slide, barrel, recoil spring and guide together — straight forward and off the receiver.",
+   "prose": "It comes off as one unit and it has to come off square. Lifting the rear as you pull binds the slide on the rails; a long slide magnifies any angle you introduce at the muzzle.",
+   "quote": "Guide the complete slide assembly (slide, barrel, recoil spring, and guide) forward and off the receiver.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.1 Pistol Disassembly, step 5, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring guide assembly out",
+   "action": "Turn the slide upside down, push the recoil spring guide forward slightly to unseat its head from the barrel lug, then lift it out from the rear.",
+   "prose": "Forward to unseat, then lift from the rear. Lifting straight up pins the head under the lug and leaves you levering against a compressed spring inside a long slide, where you have the least control of it.",
+   "caution": "Keep the muzzle end of the slide pointed away from your face as the guide releases.",
+   "quote": "Push the recoil spring guide forward slightly and lift from rear to remove the recoil spring guide assembly from the slide.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.1 Pistol Disassembly, step 7, p.37"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ SIG branches by frame size and never names the X-FIVE — check your guide now",
+   "action": "With the recoil spring guide assembly out, look at it. SIG's assembly instruction has two branches: the full-size one quoted here, which has no orientation requirement, and a separate one for Carry, Compact and Sub-Compact which reads 'insert the recoil spring assembly into the slide. You must rotate the spring guide so the flats are vertical'. The P320 X-FIVE is not named in either. If your guide has flats, it belongs to the second branch and they go vertical; if it has none, the first branch applies.",
+   "prose": "This is a genuine gap in the book rather than something to infer around: the X-FIVE gets its own slide parts diagram in this revision but the assembly step is written by frame size only. Deciding it from the part in your hand is the honest answer — the flats either exist or they do not, and that is what the instruction turns on.",
+   "quote": "For Full Size insert recoil spring guide assembly into the slide.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.4 Pistol Assembly, step 3, p.43",
+   "warn": "Do not assume the X-FIVE takes the full-size branch because it is a long pistol. This manual does not say so — look at the guide."
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out of the slide",
+   "action": "Lift the barrel slightly and draw it rearward out of the slide.",
+   "prose": "Up a fraction, then back — the locking lug must clear the slide's recess before the barrel will travel. If it will not move, the recoil spring guide assembly is still in there.",
+   "quote": "Remove the barrel from the slide by pulling it upward slightly and to the rear.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.1 Pistol Disassembly, step 8, p.37"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Slide, barrel, recoil spring and guide assembly, and the receiver with its X-grip module. That is the whole owner-level strip.",
+   "prose": "Everything past this is restricted to a certified armorer in this manual, and the recoil spring and guide assembly is explicitly a single serviced unit that must not be taken apart. The magwell is the one X-FIVE item you may legitimately remove outside this strip, and it comes off with its retention screw, not with the slide.",
+   "quote": "This level of disassembly is sufficient to allow a thorough cleaning after firing.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.1 Pistol Disassembly, note, p.37",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Magazine floorplate off — the spring is compressed",
+   "action": "Empty the magazine. Find the bottom of the floorplate, then with a punch push the tab of the insert forward and then down to release the floorplate, keeping a thumb over the insert as it lets go.",
+   "prose": "Forward, then down: the tab sits on a shoulder and must come off it first. The X-FIVE ships with a 21-round magazine, which means the longest spring in the family at full compression behind that insert.",
+   "aside": "SIG prints the standard magazine and the extended magazine as separate illustrated sequences in this section — check which floorplate you are looking at.",
+   "quote": "Using a punch or similar tool, push the tab of the insert forward, then down, to release the floorplate.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.2 Magazine Disassembly, step 2, p.38",
+   "warn": "Eye protection. This is the only step in this guide where a part can leave under its own power."
+  },
+  {
+   "phase": "Strip",
+   "title": "Follower and spring out",
+   "action": "Draw the follower and spring out of the tube, noting which way the follower faces before it clears.",
+   "prose": "The follower is handed and will not feed inverted. Lay the parts out in removal order — with a 21-round spring it is easy to lose track of which end sat at the floorplate.",
+   "quote": "Remove the magazine follower and magazine spring from the magazine tube.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.2 Magazine Disassembly, step 3, p.38"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrub the tube and follower",
+   "action": "Wipe the tube inside and out and the follower with a cloth, then work a soft brush wet with CLP down the tube and around the follower.",
+   "prose": "The top rounds in a long magazine sit where the spring is doing least work, so residue drag shows up there first as a failure to feed. Soft brush only — nothing steel inside the tube.",
+   "quote": "Wipe the magazine tube and follower with a cloth. Clean the magazine",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.3 Cleaning the P320 Pistol, Magazine, step 1, p.42"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light oil, spring and tube",
+   "action": "Light coat of CLP or LSA on the spring and the tube, then wipe the inside so no oil is left where cartridges sit.",
+   "prose": "Light coat only. Oil film inside the tube collects grit and transfers to the ammunition, and oiled cartridges are their own hazard.",
+   "quote": "Apply a light coat of CLP/LSA to the spring and magazine tube.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.3 Cleaning the P320 Pistol, Magazine, step 3, p.42"
+  },
+  {
+   "phase": "Strip",
+   "title": "Back together — floorplate locked by the insert",
+   "action": "Orient the follower on the spring, insert it into the bottom of the tube, press the spring fully home until the insert is flush with the tube bottom, then hold the insert down and slide the floorplate on until the insert locks it.",
+   "prose": "The insert must be flush before the floorplate will start onto the lips, and it must snap up into the floorplate to lock. A floorplate that slides on with no snap is held by friction and will come off when the magazine is dropped.",
+   "quote": "Holding the magazine insert in place, slide the magazine floorplate onto the magazine tube lips until the magazine floorplate is locked in place by the magazine insert.",
+   "cite": "P320 ®\nP320 ® X-SERIES — P/N 8501909-01 REV 02 — 7.5 Magazine Assembly, step 3, p.45",
+   "warn": "Guard the insert and spring with your thumb — you are compressing the spring again."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "SLIDE ASSEMBLY",
+   "tasks": [
+    "Strip all old lubricant before applying new",
+    "Cloth first, then a soft brush with CLP on heavy carbon",
+    "Extractor, rail slots and breech face free of dirt and residue",
+    "Light coat of CLP or LSA in the frame rail slots of the slide",
+    "Lightly oil external parts",
+    "Nothing on the striker assembly and nothing down the striker channel"
+   ]
+  },
+  {
+   "name": "BARREL",
+   "tasks": [
+    "CLP patch from the chamber end out past the muzzle — never from the muzzle back",
+    "Soak to loosen residue, then a correct-caliber bronze brush on a rod",
+    "Dry patches until they come out clean",
+    "Wipe the 5-inch barrel's exterior with a CLP cloth",
+    "Oil bore and chamber only for storage, and strip that oil out before firing"
+   ]
+  },
+  {
+   "name": "FRAME AND X-GRIP MODULE",
+   "tasks": [
+    "Soft cloth over the frame and grip module",
+    "Cotton swabs into the corners — frame rails, takedown lever and slide catch lever",
+    "Light CLP or LSA on the frame rails and accessible moving parts",
+    "Wipe the magazine well clear of dirt, dust and residue; the magwell funnel traps grit at its mouth"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING AND GUIDE ASSEMBLY",
+   "tasks": [
+    "CLP and a soft brush, then a light coat back on",
+    "Do not disassemble it — it is serviced as a single unit",
+    "Check the spring for kinks and the head for play while it is off the gun"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Check the pistol is clear of foreign matter, then insert the barrel into the inverted slide.",
+  "⚠ SIG writes this step by FRAME SIZE, not by model name, and it does not name the X-FIVE. One instruction covers full size — insert the recoil spring guide assembly into the slide. The other covers Carry, Compact and Sub-Compact — insert the recoil spring assembly and rotate the spring guide so the flats are vertical. Look at your own guide: if it has flats, it is the second kind and they go vertical.",
+  "Ensure the takedown lever is rotated clockwise fully to its stop.",
+  "Guide the slide onto the frame rails from the front, retract it fully to the rear, and engage the slide catch lever to lock it open.",
+  "Rotate the takedown lever counter-clockwise until horizontal, then press the slide catch lever to release the slide."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty, muzzle in a safe direction throughout. Retract the slide fully and release; it should return and lock closed. Repeat. Press the trigger fully to the rear — the striker should release with an audible click. Insert an empty magazine, retract the slide fully and release; the slide catch lever should hold it open. Press the slide catch lever and confirm the slide runs forward and closes. Remove the magazine, then check the magazine itself: tube condition, floorplate secure, follower and spring moving freely, smooth insertion and a clean release from the catch. Finally look over the sights, slide, body and takedown lever for damage and confirm both sights are secure."
+}

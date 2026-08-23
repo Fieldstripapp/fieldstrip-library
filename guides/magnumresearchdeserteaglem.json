@@ -1,0 +1,154 @@
+{
+ "row": "magnumresearchdeserteaglem",
+ "make": "Magnum Research",
+ "model": "Desert Eagle Mark XIX",
+ "sourcedFrom": "Desert Eagle Operating Instructions — 111950KCP (2019)",
+ "sourceSha256": "3ff8ec8bf47ae654098d79e4499d8b9db3153710aec369c6ff8b7f5352631598",
+ "cleanIntro": "A gas-operated pistol, so the strip has a piston in it that no other .50 handgun does. Barrel lock, barrel off, recoil spring assembly and piston out.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, safety ON, chamber checked twice",
+   "action": "Drop the magazine and push the safety down to ON, then draw the slide and check the chamber both by eye and with a finger. This pistol's chamber is deep and the .50 AE case head is broad — a visual alone in poor light has fooled people. Check it, then check it again. While the pistol is in your hands, note its serial number and which model you have: Magnum Research asks for the serial number on any service return, and the California-approved models take a different slide procedure later in this guide.",
+   "aside": "Pull the slide back and check the chamber visually and physically to make sure it is empty.",
+   "quote": "Remove the magazine and place the safety in the down or “ON” position.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Field Stripping, preliminary step 1, p.18"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety up to FIRE, hammer down under your thumb",
+   "action": "Point the pistol somewhere safe, move the safety lever up into FIRE, and lower the hammer with your thumb while you press the trigger. Ride it all the way down — this is a heavy hammer with a heavy spring behind it, and letting it fall free is how firing pins and hammer noses get damaged.",
+   "quote": "Point the pistol in a safe direction, move the safety lever up into the “FIRE” position and lower the hammer with your thumb while pulling the trigger.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Field Stripping, preliminary step 3, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hammer to the semi-cocked click, safety back to SAFE",
+   "action": "Draw the hammer back slightly until you hear a single click — that is the semi-cocked notch, and it is where the pistol has to sit for the barrel lock to release. Then push the front of the safety catch lever down into SAFE. Both, in that order, before you touch the barrel lock.",
+   "prose": "If the barrel lock will not swing later, this is the step that was skipped.",
+   "quote": "Pull the hammer slightly to the rear until a click is heard; the hammer is now in the semi-cocked position.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Disassembly, step 1, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel lock pin in, barrel lock counterclockwise",
+   "action": "Press the barrel lock pin on the left side of the pistol and at the same time swing the barrel lock on the right side counterclockwise. It is genuinely a two-handed move — the pin has to stay in while the lock rotates, and letting the pin out mid-rotation re-latches it.",
+   "quote": "Press the barrel lock pin in on the left side of the pistol (9. Figure 3) and at the same time swing the barrel lock on the right side of the pistol counterclockwise.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Disassembly, step 3, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel forward, then lift it off",
+   "action": "Pull the barrel slightly forward so its lugs line up with the relief cuts in the frame, then lift it clear. Forward first, then up — trying to lift before the lugs align just jams them against the frame rails.",
+   "quote": "Pull the barrel slightly forward to align the lugs with the relief cuts in the frame. This will allow the barrel to be lifted off the frame.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Disassembly, step 4, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring assembly and piston follow",
+   "action": "With the barrel off, the recoil spring assembly disengages and slides out on its own, and the gas piston it was retaining comes out after it. Wear eye protection — the recoil spring is under tension and can leave the guide.",
+   "caution": "To protect your eyes when removing the recoil spring guide, it is recommend that you wear safety glasses. The recoil spring is under tension and may fly off guide and cause injury.",
+   "aside": "The piston, which is retained by the recoil spring assembly, can now be removed.",
+   "quote": "The recoil spring assembly will disengage and slide out once the barrel is removed.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Disassembly, steps 5-6, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Two things Magnum Research will not let you take apart",
+   "action": "Stop at the main components — slide, barrel, recoil spring assembly, gas piston, frame, magazine. The recoil spring assembly is a factory unit and the safety cylinder is off limits entirely; a safety reassembled backwards reverses its own indicators and the gun then fires on SAFE.",
+   "quote": "NOTE: Do not attempt to dismantle the recoil spring assembly. This is a factory assembled component.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Disassembly and Assembly, general notes, p.18",
+   "warn": "Do not disassemble the safety."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Barrel, recoil spring assembly, gas piston and slide are off the frame. That is the routine-maintenance strip. Going into the slide for the bolt and firing pin is the Deep Clean path, and the manual says plainly that anything beyond these procedures is not recommended.",
+   "quote": "The following disassembly and assembly instructions are for routine maintenance of the pistol. Disassembly or assembly of any other parts is not recommended and will void all warranties.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Disassembly and Assembly, general, p.18",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "First: is yours a California-approved model?",
+   "action": "Before you touch the slide, check which model you have. Magnum Research states that the California-approved models disassemble differently here and ship their own separate sheet in the box; the procedure below is not written for them. If yours is one, stop and use that sheet. Recording the serial number now is also worth the minute, since it is what the factory asks for if the pistol ever goes back.",
+   "aside": "Record the serial number before shipping, in case you wish to check on the repair status of your pistol.",
+   "quote": "The California approved models are different in this aspect.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Disassembly of the Slide, note, p.21",
+   "warn": "Separate instructions are enclosed in the pistol packaging for the proper slide disassembly and reassembly of the CA approved models. Please refer to those instructions before proceeding any further."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Firing pin stop down, pin and spring out",
+   "action": "With the safety catch in FIRE, push the rear of the firing pin in with the 5-in-1 cleaning tool and slide the firing pin stop down toward the bottom of the slide. The firing pin is spring-loaded and will push itself out once the stop clears — keep a thumb over it so it does not launch.",
+   "aside": "Remove the firing pin and its spring.",
+   "quote": "Push the rear end of the firing pin in with the 5 in 1 Cleaning tool and slide the firing pin stop toward the bottom of the slide",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Disassembly of the Slide, step 2, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Bolt stabilizer pin back, then the guide pin out",
+   "action": "Hold the slide upside down and push the bolt stabilizer pin rearward, which lets the bolt move back too. Then hook the small end of the 5-in-1 tool into the recess on the flat of the bolt guide pin and draw the guide pin out. The recess is the only purchase there is; prying elsewhere marks the pin.",
+   "quote": "Hold the slide upside down and push the bolt stabilizer pin to the rear. This will allow the bolt to also be pushed to the rear of the slide.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Disassembly of the Slide, step 4, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Let the stabilizer spring down slowly",
+   "action": "Release the bolt and the bolt stabilizer pin slowly and let the spring tension bleed off before anything comes out. Then take out the bolt, the stabilizer pin, the spring and the pin. Rushing this is how the spring ends up under the bench.",
+   "quote": "Release the bolt and bolt stabilizer pin slowly. Once the spring tension is relieved remove the bolt, bolt stabilizer pin, spring and pin.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Disassembly of the Slide, step 6, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Bore, chamber and gas cylinder",
+   "action": "Run a copper brush and bore solvent through the bore and chamber, dry them with a cotton patch, then lightly oil. Do the gas cylinder too — carbon there is what makes a gas-operated pistol short-cycle, and it is the part owners of recoil-operated pistols never think to clean.",
+   "aside": "Lightly oil the bore and chamber. Clean Carbon from Gas Cylinder and lightly oil.",
+   "quote": "Using a copper brush and bore solvent clean the bore & chamber.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Care and Cleaning, Periodic Maintenance, step 3, p.23"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Prove the piston is home before you shoot it",
+   "action": "When the pistol goes back together, verify the gas piston is seated and cannot be pulled out. On a gas-operated pistol a loose or missing piston is not a nuisance, it is a stoppage or worse, and it is the one reassembly error this manual singles out with a warning.",
+   "quote": "WARNING: Make sure that the gas piston is in place and cannot be pulled out.",
+   "cite": "Desert Eagle Operating Instructions — 111950KCP — Reassembly, note after step 6, p.20"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER & GAS CYLINDER",
+   "tasks": [
+    "Copper brush and bore solvent through the bore and chamber",
+    "Dry with a cotton patch, then lightly oil",
+    "Clean carbon from the gas cylinder and lightly oil it"
+   ]
+  },
+  {
+   "name": "SLIDE, BOLT & MOVING PARTS",
+   "tasks": [
+    "Clean all stripped parts with a lightly oiled soft cloth",
+    "Keep the slide, bolt and other moving parts clean and lightly lubricated",
+    "Inspect every part for wear and damage as you go"
+   ]
+  },
+  {
+   "name": "MAGAZINE & EXTERIOR",
+   "tasks": [
+    "Keep the magazine free from rust, grit and other particles",
+    "Wipe the exterior with powder solvent, dry it, then apply a thin coat of rust-preventing oil",
+    "Do not use excessive lubricant or grease — it collects dust and can penetrate primers"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Turn the slide upside down on a level surface and insert the piston with its shaft recess facing the slide recess.",
+  "Engage the piston shaft with the recoil spring plate lug and the slide, then draw the frame into the slide keeping the spring assembly parallel.",
+  "Stand the pistol upright and verify the spring ends sit in their two holes in the frame above the trigger.",
+  "Confirm the gas piston is in place and cannot be pulled out.",
+  "Before reassembling, make sure nothing from the cleaning process is left in the bore."
+ ],
+ "fncheck": "With the pistol confirmed empty, cycle the slide and confirm it returns fully into battery, check the gas piston cannot be pulled out, and test the safety with an unloaded pistol and an empty chamber."
+}

@@ -1,0 +1,100 @@
+{
+ "row": "rugerruger57",
+ "make": "Ruger",
+ "model": "Ruger-57",
+ "sourcedFrom": "RUGER-5.7 Instruction Manual — R-5.7 7/2026 R8 (2026)",
+ "sourceSha256": "c555c15b11572d5d05fe5127c2724e673da24537e4475529968ae0144269f8bb",
+ "cleanIntro": "The Ruger-5.7 takedown needs two hands and both sides of the pistol at once — a button held in on the right while a lever rotates on the left. Ruger publishes a separate Pro Model manual which states \"DO NOT USE THIS MANUAL FOR PISTOLS EQUIPPED WITH A MANUAL SAFETY\"; this guide follows the manual safety model book.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Keep the pistol pointed in a safe direction, press the magazine release and remove the magazine.",
+   "prose": "Magazine, then chamber, then anything else. The order is not negotiable.",
+   "quote": "Keep pistol pointed in a safe \ndirection. Press the \nmagazine release and \nremove the magazine.    \n(See Figure 15.)",
+   "cite": "RUGER-5.7 Instruction Manual — R-5.7 7/2026 R8 — Disassembly, step 1, p.27",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide back and check the chamber",
+   "action": "Pull the slide to the rear and lock it open by pressing upward on the rear of the slide stop, then check the chamber again and confirm it is empty.",
+   "prose": "Ruger's own warning block adds a fifth item for this pistol: move the safety lever to fire.",
+   "quote": "Pull the slide to the rear and lock it into the open position by pressing \nupward on rear of the slide stop. (See Figure 16.) Again, be sure the chamber \nis empty! (See Figure 17.)",
+   "cite": "RUGER-5.7 Instruction Manual — R-5.7 7/2026 R8 — Disassembly, step 2, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take-down button in on the right, lever 90 degrees on the left",
+   "action": "Using the base pad of the magazine or a non-marring tool, press in slightly on the take-down button on the right side of the grip frame just forward of the trigger. Turn the pistol over and rotate the take-down lever clockwise about 90 degrees. Once resistance is met, stop.",
+   "prose": "The button and the lever are on opposite faces and both must be acted on. Forcing the lever past resistance is how the frame gets damaged.",
+   "quote": "Using the base pad of the magazine or a non-marring tool, press in slightly \non the take-down button located on the right side of the grip frame just \nforward of the trigger (see Figure 18a). Then, turn the firearm over and \nrotate the take-down lever clockwise about 90 degrees (see Figure 18b.) Once \nresistance is met, the lever should not be rotated any further.",
+   "cite": "RUGER-5.7 Instruction Manual — R-5.7 7/2026 R8 — Disassembly, step 3, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the slide stop and ease the slide forward",
+   "action": "Pull the slide rearward to release the slide stop, then keep control of the slide and guide it gently forward to release the recoil spring tension.",
+   "prose": "Guided, not released. Letting it run is what chips a breech face over time.",
+   "quote": "Pull the slide rearward to release the slide stop and maintain control of the \nslide to gently guide it forward to release tension on the recoil spring.            \n(See Figure 19.)",
+   "cite": "RUGER-5.7 Instruction Manual — R-5.7 7/2026 R8 — Disassembly, step 4, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward a quarter inch, then lift the rear",
+   "action": "Slide the slide and barrel carefully forward about a quarter of an inch, lift up on the rear of the slide and take the whole slide assembly off the frame.",
+   "prose": "It comes off in two motions — forward, then up at the back. Pulling straight forward the whole way binds it.",
+   "quote": "Remove the slide and barrel from the frame by sliding it carefully forward about ¼ inch (see Figure 20a) and lifting up on the rear of the slide (see Figure 20b) and remove the entire slide assembly from the frame (see Figure 20c).",
+   "cite": "RUGER-5.7 Instruction Manual — R-5.7 7/2026 R8 — Disassembly, step 5, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Guide rod out, then the barrel up and out",
+   "action": "Hold the top of the slide, depress the recoil spring slightly to disengage the guide rod / recoil spring assembly from its seat against the barrel lug and pull it out. With the slide still upside down, lift the barrel up and out.",
+   "prose": "Five pieces on the bench: slide, barrel, guide rod assembly, frame and magazine.",
+   "caution": "NOTE:  Do not dry fire while disassembled in order to prevent damage to the ejector.",
+   "quote": "With the slide still \nupside down, lift the \nbarrel up and out of \nthe slide. (See Figure \n22.) Your pistol is \nnow field stripped \nand ready for \ncleaning.",
+   "cite": "RUGER-5.7 Instruction Manual — R-5.7 7/2026 R8 — Disassembly, steps 6 and 7, p.30",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The RUGER-5.7 manual closes its disassembly with \"NOTE:  Do not attempt further disassembly of your firearm. The firearm can now be cleaned and lubricated. There are no user serviceable parts below this level.\" (p.30). Nothing past the strip is published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent-wet patch through the bore, then a solvent-wet bristle brush the full length, then dry patches and examine",
+    "5.7x28 runs at high pressure and small bore — check the crown and the chamber mouth carefully"
+   ]
+  },
+  {
+   "name": "SLIDE & FRAME",
+   "tasks": [
+    "Use a bristle brush and solvent on the breech-face, the extractor and the chamber",
+    "Wipe the slide rails and the frame rails, then a light film of oil only",
+    "Do not dry fire while the pistol is apart — it damages the ejector"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Check the follower moves freely and the lips are free of nicks, burrs, cracks or deformation",
+    "Magazines go back dry — no oil where ammunition sits"
+   ]
+  },
+  {
+   "name": "INSPECT",
+   "tasks": [
+    "Check the firearm for wear or damage after every range session",
+    "Be careful not to over-lubricate; excess oil attracts fouling"
+   ]
+  }
+ ],
+ "reassembly": [
+  "With the slide upside down, replace the barrel so that it sits against the breechface.",
+  "Refit the guide rod / recoil spring assembly and centre the barrel and guide rod in the slide.",
+  "Run the slide assembly back onto the frame and rotate the take-down lever back to its original position.",
+  "Cycle the slide several times before handling further."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, check the safety lever blocks the trigger, the slide locks back on an empty magazine and the trigger resets — pointed in a safe direction throughout."
+}

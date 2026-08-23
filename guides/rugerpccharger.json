@@ -1,0 +1,65 @@
+{
+ "row": "rugerpccharger",
+ "make": "Ruger",
+ "model": "PC Charger",
+ "sourcedFrom": "Ruger PC Charger Instruction Manual — PM817 (2022)",
+ "sourceSha256": "5de16ee52540072ddc828f438385d9ca5d1b4c20e05e3ece80e0561c6d944a9a",
+ "cleanIntro": "The PC Charger separates barrel/forend from action without tools beyond a hex wrench — Ruger designed it for transport, and it is how you get at everything for cleaning.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear it completely",
+   "action": "Point it in a safe direction, remove the magazine, lock the bolt back and confirm the chamber is empty by sight and by finger.",
+   "prose": "Magazine, then chamber, before any takedown.",
+   "quote": "easy takedown for quick separation of the barrel/forend assembly from the action",
+   "cite": "Ruger PC Charger Instruction Manual — PM817 — Takedown, p.18",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Loosen — do not remove — the forward takedown screw",
+   "action": "With a 5/32 inch hex wrench, loosen the forward takedown screw from the chassis. Do not remove it.",
+   "prose": "Captive by design. Backing it out entirely just risks losing it.",
+   "quote": "Use a 5/32\" hex wrench to loosen (do not remove) the forward takedown screw from the chassis.",
+   "cite": "Ruger PC Charger Instruction Manual — PM817 — Takedown, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Receiver assembly up and off",
+   "action": "Lift the receiver assembly upward and away from the chassis.",
+   "prose": "Straight up once the screw is slack.",
+   "quote": "Lift the receiver assembly upward and away from the chassis.",
+   "cite": "Ruger PC Charger Instruction Manual — PM817 — Takedown, p.18",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "PM817 documents the takedown separation for cleaning and transport. No disassembly past it is published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent patch from the chamber end, correctly sized brush, then dry patches until clean",
+    "Clean the chamber and feed ramp"
+   ]
+  },
+  {
+   "name": "BOLT & RECEIVER",
+   "tasks": [
+    "Wipe the bolt face and extractor",
+    "Clean the receiver interior and the bolt raceways",
+    "Light oil on bearing surfaces"
+   ]
+  },
+  {
+   "name": "CHASSIS",
+   "tasks": [
+    "Wipe the chassis and magazine well",
+    "Check the takedown screw threads for grit before reassembly"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Seat the receiver assembly back onto the chassis and hand tighten the forward takedown screw with a 5/32\" hex wrench."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, confirm the takedown screw is snug and the bolt cycles freely."
+}

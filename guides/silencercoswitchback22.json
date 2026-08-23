@@ -1,0 +1,94 @@
+{
+ "row": "silencercoswitchback22",
+ "make": "SilencerCo",
+ "model": "Switchback 22",
+ "sourcedFrom": "SilencerCo Switchback 22 Field Manual — ⛔ No form or revision code is printed in this book. (UNDATED)",
+ "sourceSha256": "445a89cb31925bb879a3ac14f35b7c20c9f5c6f112a6777a72e7a11f4b181a48",
+ "cleanIntro": "The Switchback 22 is user-serviceable and SilencerCo says so on the page: the baffle stack comes out and goes back in without a workshop. Rimfire fouling is lead and unburnt powder, so this is a can that genuinely needs the interval keeping. ⛔ Take it off the gun before any of it comes apart.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ NO GAP at the shoulder — check the fit before firing",
+   "action": "This is the check that prevents a baffle strike. The thread mount must be FULLY shouldered against the barrel with no visible gap between the barrel shoulder and the face of the mount. If there is a gap, the silencer does not go on the gun that day.",
+   "quote": "The thread mount must be fully shouldered on the barrel. There should be no visible gap between the barrel shoulder and the face of the suppressor thread mount.",
+   "cite": "SilencerCo Switchback 22 Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Off the host firearm before anything comes apart",
+   "action": "Completely remove the silencer from the firearm before assembly or disassembly is attempted. A can still on a muzzle device does unexpected things when its end caps come loose.",
+   "quote": "Assembly and disassembly should never be performed while the suppressor is affixed in any manner to a host firearm.",
+   "cite": "SilencerCo Switchback 22 Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Strip",
+   "title": "Caps off, baffle stack out",
+   "action": "The Switchback runs in more than one configuration, and the cap comes off with the provided wrenches rather than by hand. ⛔ Handle the tube with the baffles inside rather than the baffles themselves if the internals are already fouled — that is lead you are touching.",
+   "quote": "Replace the front cap and tighten gently with provided wrenches.",
+   "cite": "SilencerCo Switchback 22 Field Manual — ⛔ No form or revision code is printed in this book. — Assembly & Disassembly"
+  },
+  {
+   "phase": "Clean",
+   "title": "Interval: about every 1,000 rounds",
+   "action": "SilencerCo names a number rather than leaving it to judgement, and adds that a change of ammunition is its own reason to clean — different rimfire loads leave very different amounts behind.",
+   "quote": "It is recommended to clean the Switchback 22 every 1,000 rounds.",
+   "cite": "SilencerCo Switchback 22 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "Internals take solvent and light abrasives — test first",
+   "action": "The internal components can be cleaned with solvents or light abrasive media, and abrasive pads or wire brushes are allowed. ⛔ But test on an inconspicuous spot first: the finish scratches, and once it is gone it is gone.",
+   "quote": "Disassemble the Switchback 22 as listed in the instructions and clean using the following suggested products.",
+   "cite": "SilencerCo Switchback 22 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Dry it — and oil the baffles after a water-based cleaner",
+   "action": "Dry all components thoroughly before reassembling. If you used a water-based cleaner, lightly coat the baffles with oil or another corrosion-resistant product afterwards — water left on a rimfire baffle stack rusts it where you cannot see.",
+   "aside": "Dry all components thoroughly before reassembling.",
+   "quote": "If using a water-based cleaner, be sure to lightly coat the baffles with oil or other corrosion-resistant product after cleaning.",
+   "cite": "SilencerCo Switchback 22 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  }
+ ],
+ "deepAbsentReason": "SilencerCo publishes ONE level of disassembly for this silencer and it is the routine cleaning itself — the strip in the Assembly & Disassembly section is what an owner does every cleaning interval, not an occasional deep service. There is nothing deeper published, and nothing was borrowed: the SEALED SilencerCo cans in this same batch publish LESS, not more, so there is no sibling to take a deeper procedure from even if one were wanted.",
+ "cleaning": [
+  {
+   "name": "STRIP FIRST",
+   "tasks": [
+    "⛔ Off the host firearm completely before anything comes apart",
+    "Firearm unloaded, action open, chamber checked"
+   ]
+  },
+  {
+   "name": "BAFFLES & INTERNALS",
+   "tasks": [
+    "Solvent or light abrasive media on the INTERNALS only",
+    "Nylon or plastic bristles; no hard metal scrapers",
+    "Everything DRY before it goes back together"
+   ]
+  },
+  {
+   "name": "OUTER TUBE",
+   "tasks": [
+    "⛔ NOT solvent-soaked and NOT ultrasonic — the finish and the serial",
+    "Damp cloth or a soft non-abrasive brush",
+    "Gun oil restores a discoloured finish"
+   ]
+  },
+  {
+   "name": "AFTER A WATER-BASED CLEANER",
+   "tasks": [
+    "⛔ Light coat of oil or a corrosion inhibitor on the baffles",
+    "Nothing reassembled wet"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Back cap screwed onto either end of the tube until hand tight and shouldered.",
+  "Baffle stack slid into the tube until it rests against the back cap.",
+  "Front cap screwed onto the open end and tightened with the included takedown tool.",
+  "⛔ A slight gap between the front cap and the tube is intentional — leave it.",
+  "Threaded onto the barrel hand tight, no barrel thread visible, no gap at the shoulder."
+ ],
+ "fncheck": "Reassembled: back cap shouldered, baffle stack seated against it, front cap tightened with the provided tool. ⛔ A slight gap between the front cap and the tube is intentional on these — do not force it closed. Mounted: hand tight, no barrel thread visible, no gap at the shoulder, and re-check after 30 rounds."
+}

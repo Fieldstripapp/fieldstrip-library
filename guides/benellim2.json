@@ -1,0 +1,209 @@
+{
+ "row": "benellim2",
+ "make": "Benelli",
+ "model": "M2",
+ "sourcedFrom": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 (02/2005 (printed as the document code G0037802 - 02/2005; no separate © line))",
+ "sourceSha256": "c8054c222cb07ca10691b94bbd84bec9c64426745bd1f4489d7377b9b925626a",
+ "cleanIntro": "Benelli's own strip for the M2, in Benelli's order. The M2 is INERTIA-driven: there is no gas piston and no gas ports, and the part that makes the gun work is a single stout spring living inside the bolt body — the inertia spring, which comes out at step 13. Fifteen steps take it to bare parts including the rotating locking head and the trigger group, and Benelli then states the strip is finished. The bolt handle comes off with a deliberate tug, which surprises people the first time.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check this book is for your gun: M2, M2 LEFT HAND, or the 20-gauge M1",
+   "action": "Confirm what you are holding against the model list this manual prints on its cover.",
+   "prose": "This one book speaks for three products, and the 20-gauge gun in the list is badged M1, not M2 — so a 20-gauge M2 is not what this manual describes and a 12-gauge M2 is. Benelli's tactical-stocked M2 ships with its own separate book that never prints the M2 designation at all, so if your gun wears a pistol grip stock, check the paperwork that came with it rather than assuming this one applies.",
+   "quote": "M2\n(Cal. 12)\n\nM2 LEFT HAND\n(Cal. 12)\n\nM1\n(Cal. 20)",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Cover — model list"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety catch on — the red ring must disappear",
+   "action": "Press the safety button on the trigger guard until the red ring is no longer visible.",
+   "prose": "Benelli defines the safe state by what you cannot see rather than by which way the button points, which is the more reliable test on a gun that is also built in a left-hand version.",
+   "quote": "Press the safety button on the trigger guard until its red ring, indicating firing position, is no longer visible (figs. 17-18).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Safety catch — p.32"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chambered round out on the cocking lever, then close the breech",
+   "action": "With the safety engaged and the muzzle safe, pull the cocking lever to open the bolt — the chambered cartridge is extracted and ejected. Then ease the cocking lever forward to close the breech block.",
+   "prose": "Ease it forward rather than letting it fly: an inertia gun's bolt slamming shut on an empty chamber is what the whole system is designed to do under recoil, not what you want on the bench with your other hand near the ejection port.",
+   "quote": "Engage the safety catch and pull the cocking lever to open the bolt (fig. 23): the cartridge in the chamber is extracted and ejected (fig. 25).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Unloading, step 1, p.46"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine tube emptied one shell at a time into your hand",
+   "action": "Turn the gun over, thrust the carrier down, and press the cartridge retaining lever from the front with your index finger. One cartridge releases per press — repeat until the tube is empty.",
+   "prose": "Note this drops shells into your hand rather than onto the floor, which is why Benelli has you turn the gun over first. It has to be done before the strip: step 2 of the teardown unscrews the fore-end cap off the magazine tube, and a loaded tube under spring pressure is not something to discover at that point.",
+   "quote": "The cartridges will be released one by one into your hand (fig. 27); the carrier latch must be pressed for each released cartridge.",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Unloading, step 4, p.48"
+  },
+  {
+   "phase": "Strip",
+   "title": "Prove it empty once more before a single part moves",
+   "action": "Before starting any part of the strip, make sure the chamber and the magazine are unloaded.",
+   "prose": "Benelli reprints this at the head of the stripping section rather than trusting the clearing section to have done its job. The gun has been turned over and handled since you cleared it.",
+   "quote": "Before starting any operation on your shotgun, make sure that the chamber and the magazine are unloaded! (Carefully read the instructions on gun loading and unloading).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Shotgun stripping (for cleaning and maintenance) — p.60"
+  },
+  {
+   "phase": "Strip",
+   "title": "Retaining ring off — only on long-tube or extended-magazine guns",
+   "action": "If your gun has a long magazine tube or a magazine tube extension, slacken the screw and remove the barrel-magazine tube retaining ring from its seat on the tube. Spread the ring slightly as it comes so it slides without binding.",
+   "prose": "Skip this entirely on a standard short-tube M2 — there is no ring to remove. Where there is one, the reason for spreading it is that it is a sprung band clamped on a tube: dragged off closed it scores the finish it was gripping.",
+   "quote": "NOTE: during removal, expand the retaining ring slightly so that it can be slid over the magazine tube without binding.",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 1 note, p.60"
+  },
+  {
+   "phase": "Strip",
+   "title": "Fore-end cap unscrewed off the magazine tube",
+   "action": "Unscrew the fore-end cap and take it off the magazine tube. On a gun with a short tube plus an extension — a two-piece magazine tube — the extension comes off at the same time as the cap.",
+   "prose": "That last part is the trap: on an extended gun you are undoing two joints with one motion, and the tube extension, its spring and the follower are all live behind the cap. Benelli sends you to its \"Magazine tube extension\" instructions before you start if that is your configuration.",
+   "quote": "For models equipped with short tube magazine plus magazine tube extension (magazine tube in two pieces), the magazine tube extension comes off simultaneously when unscrewing the fore-end cap.",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 2, p.60"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt opened and locked back — via the cartridge drop lever if it will not hold",
+   "action": "Hold the gun in one hand and open the bolt with the other. If the bolt will not stay open, move the cartridge drop lever as arrowed and repeat.",
+   "prose": "The bolt must be held open for the barrel to come off, and on an M2 whether it holds depends on the state of the cut-off system. That is what the cartridge drop lever is doing here — it is not a mysterious extra step, it is resetting the feed logic so the catch can hold.",
+   "quote": "Take the gun in one hand and with the other open the bolt (fig. 29); should the bolt fail to engage, move the cartridge drop lever as arrowed and repeat the operation.",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 3, p.62"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel-and-fore-end unit pulled forward off the magazine tube",
+   "action": "Keep a grip on the shotgun with one hand and with the other take hold of the barrel-fore end unit, pulling it forward off the receiver so it slips along the magazine tube.",
+   "prose": "The barrel and fore-end travel together as one piece at this stage — the fore-end is riding the magazine tube, and the barrel extension is sliding out of the receiver. Pull along the axis of the tube; angling it binds the fore-end on the tube and the extension in the receiver at the same time.",
+   "quote": "Keeping a grip on the shotgun with one hand, with the other take hold of the barrel-fore end unit and detach it completely from the receiver by pulling it forward and making it slip off the magazine tube (fig. 30).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 4, p.62"
+  },
+  {
+   "phase": "Strip",
+   "title": "Fore-end separated from the barrel at the barrel guide ring",
+   "action": "Slip the fore-end off the barrel guide ring to separate it from the barrel-breech unit.",
+   "prose": "One part slides off another here — nothing is threaded and nothing is sprung. The word in the manual is \"slipping\", and if it does not slip, the fore-end is cocked on the ring rather than square to it.",
+   "quote": "Separate the fore-end from the barrelbreech unit, by slipping it out of the barrel guide ring (fig. 31).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 5, p.62"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt eased forward under control, using the carrier button",
+   "action": "Take a firm hold of the bolt handle and press the carrier button at the same time, letting the bolt run slowly forward until it stops.",
+   "prose": "Two hands, two jobs, and the point is control: the bolt is being released from its catch under recoil-spring pressure and you are lowering it, not dropping it. Let it go and it hammers into a receiver with the barrel already removed.",
+   "quote": "Take a firm hold of the bolt handle and simultaneously press the carrier button, thus allowing the bolt to move slowly forward until it stops (figs. 32 and 33).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 6, p.64"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt handle off with a firm tug",
+   "action": "Pull the bolt handle straight off the bolt with a single firm tug.",
+   "prose": "This is the step that stops people. The handle is a press fit held by a detent, not a screwed or pinned part, and Benelli's own word is \"tug\" — a hesitant pull will not shift it and will convince you something is still locked. Straight out, in line with the handle, not levered up or down.",
+   "quote": "Pull the bolt handle off with a firm tug (fig. 34).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 7, p.64"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt assembly slid out of the receiver",
+   "action": "Pull the bolt assembly out of the receiver, sliding it forward along its guides.",
+   "prose": "With the handle gone the assembly comes out the front along its own rails. It leaves as a unit — locking head, firing pin, inertia spring and all — and the next four steps take that unit apart on the bench rather than in the gun.",
+   "quote": "Pull the bolt assembly out of the receiver, sliding it along its guides (fig. 35).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 8, p.64"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin out, holding the pin and its spring",
+   "action": "Remove the firing pin retaining pin from the bolt assembly while holding the firing pin and firing pin spring in place, then remove the firing pin and its spring from the bolt.",
+   "prose": "Hold before you pull. The firing pin sits on a compressed spring, and the retaining pin is the only thing containing it — released unheld, the pin and spring leave the bolt on their own trajectory.",
+   "quote": "Remove the firing pin retaining pin from the bolt assembly, while holding the firing pin and firing pin spring in place (fig. 36).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 9, p.66"
+  },
+  {
+   "phase": "Strip",
+   "title": "Locking head pin out, then the locking head off the bolt",
+   "action": "Remove the locking head pin from the bolt, then remove the bolt locking head from the bolt.",
+   "prose": "The rotating locking head is what actually holds the pressure on an M2 — its lugs turn into the barrel extension, which is why the barrel and the bolt are a matched pair and why the lug recesses are worth a proper look while they are apart. The head only comes off after its pin does; there is no other retention.",
+   "quote": "Remove the locking head pin from the bolt (fig. 38).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 11, p.66"
+  },
+  {
+   "phase": "Strip",
+   "title": "Inertia spring out of its seat in the bolt — the heart of the system",
+   "action": "Remove the inertia spring from its seat in the bolt.",
+   "prose": "This one spring IS the operating system of an M2. Under recoil the receiver moves and the bolt body does not, compressing this spring; it then throws the bolt back to cycle the gun. There are no gas ports to decarbon on this shotgun, so the condition of this spring and its seat is what the cleaning actually matters for. It goes back in the same seat, and nothing else in the gun looks like it.",
+   "quote": "Remove the inertia spring from its seat in the bolt (fig. 40).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 13, p.68"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger group out: stop plug pushed through, then the group forward",
+   "action": "Push the trigger group stop plug out of the stock-receiver unit from either side, using the point of the firing pin you already removed or any punch. Then press the carrier release button and draw the trigger guard assembly out toward the front.",
+   "prose": "Benelli nominates the firing pin as the tool, which is a nice touch — it is already in your hand and it is exactly the right diameter. The carrier release has to be pressed or the group will not clear; do not lever it out against a held carrier.",
+   "quote": "Extract the trigger group stop plug from the stock-receiver unit, thrusting it from right or left with the point of the same firing pin or punch (fig. 41).",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, step 14, p.68"
+  },
+  {
+   "phase": "Strip",
+   "title": "Strip complete — Benelli says so in as many words",
+   "action": "You have the barrel-breech unit, the fore-end, the fore-end cap (and retaining ring or tube extension if fitted), the bolt broken down into body, locking head and its pin, firing pin and spring with its retaining pin, and the inertia spring, plus the trigger guard assembly and its stop plug, and the stock-receiver.",
+   "prose": "There is no deeper published procedure in this book. The trigger group comes out and goes back as an assembly and is not taken apart at this level.",
+   "quote": "The shotgun is now completely stripped. All the parts that require routine maintenance and cleaning are disassembled.",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Stripping procedure, after step 15, p.68",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Barrel bore after use",
+   "action": "Clean the bore normally after every use.",
+   "prose": "Benelli's whole maintenance position for these guns is three short items, and this is the first of them. An inertia gun has no gas system to service, so the barrel and the two residue traps below are the entire routine.",
+   "quote": "1) normal cleaning of the barrel after use;",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Maintenance, item 1, p.56"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt assembly and trigger group: the two places residue collects",
+   "action": "Dismantle, clean and lubricate the bolt assembly periodically. Give the firing mechanism — hammer, trigger and the rest of the group — the same periodic cleaning or lubrication.",
+   "prose": "These are named as the two places powder residue and foreign matter accumulate. On the bolt that means the locking head channel, the firing pin bore and the inertia spring seat you opened at step 13 — the surfaces the system depends on moving freely.",
+   "quote": "3) the bolt assembly may also become clogged with the same material and must be periodically dismantled, cleaned and lubricated;",
+   "cite": "M2 (Cal. 12) / M2 LEFT HAND (Cal. 12) / M1 (Cal. 20) — Uso • Manutenzione | Use • Maintenance — G0037802 - 02/2005 — Maintenance, item 3, p.56"
+  }
+ ],
+ "deepAbsentReason": "This book publishes ONE teardown, headed \"Shotgun stripping (for cleaning and maintenance)\", and closes it with \"The shotgun is now completely stripped\". It already reaches the rotating locking head, the firing pin, the inertia spring and the trigger group. There is no further published user-level disassembly for the M2 to promote into a deep clean.",
+ "cleaning": [
+  {
+   "name": "Barrel",
+   "tasks": [
+    "Normal cleaning of the bore after use.",
+    "Barrel extension locking recesses, while the barrel is off — these are the surfaces the rotating head locks into."
+   ]
+  },
+  {
+   "name": "Bolt assembly",
+   "tasks": [
+    "Dismantled, cleaned and lubricated periodically.",
+    "Locking head and its channel in the bolt body; the locking head pin and its seat.",
+    "Firing pin, firing pin spring and the firing pin bore.",
+    "Inertia spring and its seat in the bolt — the operating system of the gun."
+   ]
+  },
+  {
+   "name": "Trigger group",
+   "tasks": [
+    "Hammer, trigger and the rest of the firing mechanism cleaned of powder residue and foreign matter by periodic cleaning or lubrication.",
+    "The group is cleaned as an assembly; it is not taken apart at this level."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Trigger guard assembly back into the receiver with the hammer COCKED: press the carrier button, offer the group up slightly forward of its final position, then draw it back until it wedges against the rear of the receiver with the bottom of the guard flush with the bottom of the receiver.",
+  "Trigger group stop plug pushed back through.",
+  "Inertia spring into its seat in the bolt.",
+  "Locking head onto the bolt, then the locking head pin into its seat.",
+  "Firing pin and firing pin spring into the bolt, held while the firing pin retaining pin goes back in.",
+  "Bolt assembly slid into the receiver along its guides; bolt handle pressed firmly home.",
+  "Fore-end onto the barrel guide ring; barrel-and-fore-end unit onto the magazine tube and into the receiver.",
+  "Fore-end cap screwed down (with the magazine tube extension, if fitted).",
+  "Barrel-magazine tube retaining ring refitted and its screw tightened, on long-tube or extended guns."
+ ],
+ "fncheck": "With the gun proven empty and the muzzle safe: confirm the trigger guard sits flush — the bottom of the guard must coincide with the bottom of the receiver, which is the manual's own check that the group is seated rather than merely in. Press the safety button until the red ring disappears and confirm it does. Press the carrier button and open the bolt by hand, then close it, and confirm the RED DOT on the cartridge drop lever is clearly visible, which is how this action reports that the hammer is cocked. Work the cocking lever to confirm the bolt runs and locks, and check the fore-end cap is fully screwed down."
+}

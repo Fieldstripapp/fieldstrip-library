@@ -1,0 +1,60 @@
+{
+ "row": "mossberg695",
+ "make": "Mossberg",
+ "model": "695",
+ "sourcedFrom": "MODEL 695 BOLT ACTION SLUG SHOTGUN — Mossberg owner's manual — Model 695 owner's manual (not printed)",
+ "sourceSha256": "2fc7e6f2d5cb74c55f6c852650edd909caecde9fa4974200918effc3e3f9dc32",
+ "cleanIntro": "The 695 is a bolt gun that happens to fire slugs, and it strips like one: safety cap to ON, bolt back, trigger held, bolt out. The safety is a CAP that rotates counterclockwise rather than a button that slides, which is worth knowing before you go looking for a tang switch that is not there.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety cap fully counterclockwise to ON",
+   "action": "Rotate the safety cap fully to the left — counterclockwise — to ON, and keep the muzzle pointed somewhere harmless. It is a cap, not a sliding button.",
+   "quote": "Rotate the safety cap fully to the left (counterclockwise) to the “ON” (SAFE) position (Fig. 1); keep the muzzle pointed in a safe direction.",
+   "cite": "MODEL 695 BOLT ACTION SLUG SHOTGUN — Mossberg owner's manual — Model 695 owner's manual — TO REMOVE THE BOLT"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt handle up, bolt fully back, then look",
+   "action": "Raise the bolt handle and pull the bolt back as far as it goes, then inspect and remove all ammunition from the magazine and chamber.",
+   "quote": "Raise the bolt handle and pull back bolt as far as it will go. Inspect and remove all ammunition in the magazine or chamber.",
+   "cite": "MODEL 695 BOLT ACTION SLUG SHOTGUN — Mossberg owner's manual — Model 695 owner's manual — TO REMOVE THE BOLT"
+  },
+  {
+   "phase": "Clear",
+   "title": "Re-check chamber and magazine",
+   "action": "Check both again before anything comes out of the gun. On a bolt shotgun the magazine is easy to leave loaded while the chamber is clear.",
+   "quote": "Re-check the chamber and magazine to be certain gun is unloaded.",
+   "cite": "MODEL 695 BOLT ACTION SLUG SHOTGUN — Mossberg owner's manual — Model 695 owner's manual — TO REMOVE THE BOLT"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Hold the TRIGGER back and draw the bolt out — this is correct",
+   "action": "With the gun proven empty and pointed somewhere safe, hold the trigger back and pull the bolt handle rearward to release the bolt assembly from the receiver. Holding a trigger deliberately feels wrong and is exactly what this action requires — which is why the gun must be proven empty twice before you do it.",
+   "quote": "Hold the trigger back and pull the bolt handle to the rear to release the bolt assembly from the receiver.",
+   "cite": "MODEL 695 BOLT ACTION SLUG SHOTGUN — Mossberg owner's manual — Model 695 owner's manual — TO REMOVE THE BOLT"
+  }
+ ],
+ "deepAbsentReason": "The 695 book publishes bolt removal and cleaning and nothing deeper. ⛔ No further path is invented for it.",
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER AND BOLT",
+   "tasks": [
+    "Solvent and brush through bore and chamber, patches until clean",
+    "Bolt face, extractor and locking lug recesses",
+    "A light film of oil on the bolt body where it rides the raceway",
+    "⛔ Nothing left in the bore — a slug barrel obstructs like any other"
+   ],
+   "quote": "Your firearm should be inspected and cleane",
+   "section": "CLEANING AND LUBRICATION",
+   "src": "MODEL 695 BOLT ACTION SLUG SHOTGUN — Mossberg owner's manual, CLEANING AND LUBRICATION"
+  }
+ ],
+ "reassembly": [
+  "Safety cap ON. Bolt back into the raceway, handle up.",
+  "Push the bolt fully forward and turn the handle down to lock.",
+  "Cycle it several times to feel it run free.",
+  "Function test before it is put away."
+ ],
+ "fncheck": "Chamber and magazine proven empty. Open and close the bolt several times to check free movement. Close it with the safety cap ON and pull the trigger — the firing pin should NOT release. Finger off, rotate the cap to FIRE — it should still not release on its own. Then pull the trigger and it should. ⛔ Make sure no cleaning patch is left in the barrel before it is loaded."
+}

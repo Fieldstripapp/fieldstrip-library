@@ -1,0 +1,165 @@
+{
+ "row": "savagearmsmsr15recon",
+ "make": "Savage Arms",
+ "model": "MSR 15 Recon",
+ "sourcedFrom": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual (undated — no copyright line is printed)",
+ "sourceSha256": "9d0482e72020d26a4fe20ce3b4bf7cc0bceb1427611658d3ad52c132c4ad2182",
+ "cleanIntro": "Savage publishes one book for the whole MSR series. The strip is standard AR: pins right, carrier out, handle out, buffer and spring out — and the manual stops you there.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, chamber seen empty, safety on",
+   "action": "Drop the magazine, lock the bolt back and put your eye on the empty chamber, then set the two-position safety and close the bolt. Savage opens the strip from a CLOSED bolt, not a locked-back one, so the last thing you do is let it run forward on an empty chamber. Do not skip closing it — with the bolt back the takedown pin will move but the upper will not swing clear of the carrier. Seeing an empty chamber and feeling the safety detent are the two confirmations; neither substitutes for the other.",
+   "caution": "Parts are under tension. Keep your fingers and eyes away from springs and moving parts and always wear eye protection during disassembly and cleaning.",
+   "quote": "After confirming the firearm is unloaded (as detailed in SECTION 4) and the SAFETY is on, close the BOLT.",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, step 1, p.12"
+  },
+  {
+   "phase": "Clear",
+   "title": "Know what your barrel is marked",
+   "action": "Read the cartridge designation stamped on the barrel and match it to the ammunition in front of you. This one manual covers the whole MSR series across several chamberings, so the book cannot tell you what you are holding — the barrel can. Get this wrong and the round either will not chamber or will chamber something it should not.",
+   "prose": "This is the manual telling you, in its own words, that it is written to a series rather than to one gun.",
+   "quote": "Each model of firearm in the Savage Arms MSR series is chambered and marked for a specific cartridge.",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 3 Calibers & Ammunition, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin right, then pivot pin right",
+   "action": "Push the takedown pin from the left until it stops on the right side, then do the same to the pivot pin. Both are captivated and will not come free — expect them to stop with a positive check rather than fall out, and do not lever at them looking for more travel. With the takedown pin out the rear hinges open; with the pivot pin out the two halves separate entirely. Support both receivers as they part so they never slam together.",
+   "caution": "Always control the movement of the UPPER RECEIVER and LOWER RECEIVER, never allowing them to forcibly contact each other.",
+   "quote": "Push the TAKEDOWN PIN to the right (it is captivated so that it won't come out completely",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, step 2, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Carrier out on a half-drawn handle",
+   "action": "Draw the charging handle back roughly halfway — just far enough to walk the bolt carrier out of its tunnel — then lift the carrier free of the upper receiver. Going all the way back is the common mistake: it runs the handle out of its own slot before the carrier has cleared, and the two jam on each other. Half way, carrier out, then deal with the handle.",
+   "prose": "The carrier is what actually leaves first; the handle is only carrying it back far enough to be grasped.",
+   "quote": "Pull back on the CHARGING HANDLE approximately half way.",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, steps 4-5, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle down, then out",
+   "action": "Push down on the charging handle so its tabs drop clear of the slot in the receiver, then slide it out the back. It only releases at one point along its travel, so if it will not come, move it a fraction fore or aft and press down again rather than forcing it.",
+   "quote": "Push down on the CHARGING HANDLE to disengage it from the slot",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, step 6, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Side charger? Then there are six more steps",
+   "action": "Look at your upper. If it carries a side charging handle, Savage routes you through six extra steps with a 5/64\" and a 1/8\" Allen wrench before you go on; if it does not, skip them entirely. This is the manual branching on hardware, not on model name, so decide it by looking at the rifle rather than by what the box said.",
+   "quote": "For models incorporating a SIDE CHARGING HANDLE (see FIGURE 15), follow steps 7 through 12.  For models without a SIDE CHARGING HANDLE, please skip down to step 13.",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, branch note before step 7, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer retainer down, buffer and spring out",
+   "action": "With the hammer still cocked, press the buffer retainer down and let the buffer and action spring come out of the tube. Keep a hand in front of them — the spring is compressed and will follow the buffer out. Inspect both as they come; a kinked spring or a chewed buffer face is the usual reason a rifle short-strokes.",
+   "quote": "With the HAMMER still cocked, press down on the BUFFER RETAINER (see FIGURE 26) so that the BUFFER can be removed.",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, step 18, p.15",
+   "warn": "Parts are under tension."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper and lower are apart, the carrier group and charging handle are out, and the buffer and action spring are out of the tube. That is the whole published strip and Savage draws a hard line right here. The bolt carrier group comes apart further and that is on the Deep Clean path; nothing beyond it is documented.",
+   "quote": "Do not disassemble your Savage MSR series beyond this point.",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, bound after step 19, p.15",
+   "warn": "Damage to or alteration of the BOLT ASSEMBLY or any component/assembly can affect the safe operation of your firearm, and result in injury and gun damage.",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Firing pin retaining pin out",
+   "action": "Push the firing pin retaining pin out of the carrier and set it somewhere it will not roll away. It is a split pin and it is meant to stay split — do not spread the legs to make it easier next time, and never substitute a hardware-store cotter pin for it. That pin is the only thing keeping the firing pin in the carrier under recoil.",
+   "caution": "Do not try to open the split end of the FIRING PIN RETAINING PIN or replace it with a standard Cotter Pin.",
+   "quote": "Remove the FIRING PIN RETAINING PIN from the BOLT CARRIER",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, step 13, p.14"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Firing pin out the back",
+   "action": "Tip the carrier and let the firing pin come out the rear. On this small-frame rifle it is the pin alone — the manual notes a firing pin spring only for the MSR-10, so if a spring falls out of a rifle you believe is a 15, stop and work out what you actually have.",
+   "aside": "The MSR-10 also has a FIRING PIN SPRING.",
+   "quote": "Remove the FIRING PIN from the BOLT CARRIER",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, step 14, p.14"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Bolt head back, cam pin rotated",
+   "action": "Push the bolt head rearward into the carrier and rotate the cam pin a quarter turn so it lines up with its exit slot. Savage carves the AR-10 pattern out of this rotation, so it is written for the small-frame rifle you are holding. If the pin will not rotate, the bolt is not far enough back.",
+   "prose": "Read the parenthesis: the manual is telling you this rotation is the small-frame procedure.",
+   "quote": "Push the BOLT HEAD rearward and the rotate the CAM PIN (on all models except the AR-10) as shown in FIGURE 23.",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, step 15, p.14"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Cam pin out",
+   "action": "Lift the cam pin straight up and out of the carrier. It only clears in one rotational position, so if it will not lift, rotate it back a quarter turn and try again rather than pulling harder. Straight up — angling it binds the pin in its slot.",
+   "quote": "Remove the CAM PIN by pulling it straight up",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, step 16, p.14"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Bolt out of the carrier",
+   "action": "Grip the bolt firmly and draw it straight forward out of the carrier. Everything left in your hand — bolt, cam pin, firing pin, retaining pin — is what actually gets scrubbed; the carrier body is the easy part.",
+   "quote": "Grasping the BOLT ASSEMBLY firmly, pull it straight out of the BOLT CARRIER",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 5 Disassembly, step 17, p.15"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Scrub the bolt, cam pin and firing pin",
+   "action": "Clean the three parts that actually see combustion gas: the bolt, the cam pin and the firing pin. Carbon on the cam pin bearing surfaces is what makes a carrier feel gritty, and carbon in the firing pin channel is what makes a rifle light primers.",
+   "quote": "Thoroughly clean the BOLT ASSEMBLY, CAM PIN, and FIRING PIN",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 6 Cleaning, step 3, p.15"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Bolt face, and prove the extractor and ejector move",
+   "action": "Work a Q-tip around the bolt face and under the extractor claw, then press the ejector plunger and the extractor and watch both spring back. A sticky ejector is a stovepipe waiting to happen and you will only find it here, with the bolt in your hand.",
+   "quote": "Using a Q-Tip® (or equivalent), thoroughly clean the BOLT FACE, assuring the EXTRACTOR and EJECTOR move freely",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 6 Cleaning, step 4, p.16"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Thumb on the hammer when you let it down",
+   "action": "When the action goes back together and you drop the hammer, ride it down with your thumb rather than letting it fall. Left to itself it slams into the bolt release and beats it up. Keep your thumb where the hammer can pinch it, not where it can trap it.",
+   "quote": "Always support the HAMMER with your thumb when uncocking the action (pulling the trigger) so that it doesn't slam forward and damage the BOLT RELEASE.",
+   "cite": "Savage Arms MSR Series Instruction Manual — MSR Series Instruction Manual — SECTION 6 Oiling, warning, p.16"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Clean the bolt, cam pin and firing pin thoroughly",
+    "Q-tip the bolt face and confirm the extractor and ejector move freely",
+    "Clean the inside of the bolt carrier, removing any residue"
+   ]
+  },
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Lay the upper receiver horizontally and run the correct-caliber bore cleaner through",
+    "Look down the barrel and confirm it is clear of obstructions and free of nicks, rust or pitting",
+    "Apply a very light coat of gun lubricant — a thin film is enough"
+   ]
+  },
+  {
+   "name": "BUFFER & SPRING",
+   "tasks": [
+    "Wipe the buffer and action spring with a soft cloth",
+    "Inspect both for excessive wear or deformation before they go back in"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Reassemble per the applicable section of the manual, in the reverse of the order the parts came off.",
+  "Support the hammer with your thumb when you uncock the action so it cannot slam the bolt release.",
+  "Verify that the two-position safety is operational as explained in SECTION 2."
+ ],
+ "fncheck": "With the rifle confirmed empty, cycle the charging handle and confirm the bolt runs and locks; then check the two-position safety operates as the manual describes before handling."
+}

@@ -1,0 +1,116 @@
+{
+ "row": "rugerpccarbine",
+ "make": "Ruger",
+ "model": "PC Carbine",
+ "sourcedFrom": "Ruger PC Carbine Instruction Manual — PM1042 (PCC 12/2025 R10) (2025)",
+ "sourceSha256": "d0effcc288b06acc0971e34671c8672595dbdd914f3e414650cd30b199880e4d",
+ "cleanIntro": "The PC Carbine's headline feature is takedown: the barrel assembly twists off the receiver and the rifle returns to zero when it goes back on. Ruger writes several of this manual's disassembly headings as \"(Models So Equipped)\", so read the heading before you follow the steps under it — and note the manual's absolute bar on mixing 9mm and 40 S&W parts.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Know which PC Carbine you have — and never mix calibers",
+   "action": "Check the caliber marking on your barrel before you touch anything, and keep 9mm and 40 S&W parts strictly apart. If your rifle has a chassis system rather than the standard stock, Ruger publishes a separate manual for it.",
+   "prose": "Several sections of this book apply only to models so equipped, and the caliber warning is one of the hardest lines Ruger prints anywhere.",
+   "quote": "There are a significant number of component alterations between PC CARBINES™ chambered in 40 S&W and 9mm Luger. CAUTION: Under no circumstances are components to be mixed or interchanged between calibers.",
+   "cite": "Ruger PC Carbine Instruction Manual — PM1042 (PCC 12/2025 R10) — General Information and Mechanical Characteristics, p.11"
+  },
+  {
+   "phase": "Clear",
+   "title": "Unload, lock the bolt back, safety on",
+   "action": "With the rifle pointing in a safe direction, remove the magazine and lock the bolt back. Look into the chamber and make certain there is no cartridge in it, then put the safety in the ON position.",
+   "prose": "Ruger asks for the safety on with the bolt still locked back — it is the state the takedown step needs, not just a precaution.",
+   "quote": "With the firearm pointing in a safe direction, remove the magazine and lock the bolt back (see Figure 4a, p. 14). Visually make certain there is not a cartridge in the chamber. Place the safety in the “ON” postion (see Figure 1C, p. 8).",
+   "cite": "Ruger PC Carbine Instruction Manual — PM1042 (PCC 12/2025 R10) — Disassembly — Barrel Assembly Removal (Models So Equipped), step 1, p.31",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly or assembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Push the locking lever forward",
+   "action": "With the bolt still locked back, push the locking lever forward to unlock the barrel assembly.",
+   "prose": "The bolt has to stay back for this. Let it forward and the lever will not release the barrel.",
+   "quote": "To remove the barrel assembly, with the bolt still in the locked back position, push the locking lever forward to unlock the barrel assembly (see Figure 20).",
+   "cite": "Ruger PC Carbine Instruction Manual — PM1042 (PCC 12/2025 R10) — Disassembly — Barrel Assembly Removal, step 2, p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rotate counterclockwise and pull the barrel assembly out",
+   "action": "Keep holding the locking lever forward, rotate the barrel assembly counterclockwise and draw it out of the receiver.",
+   "prose": "Both hands again — the lever stays forward through the whole rotation, not just at the start.",
+   "quote": "While holding the locking lever forward, rotate the barrel assembly counterclockwise and pull the barrel assembly out of the receiver (see Figure 20).",
+   "cite": "Ruger PC Carbine Instruction Manual — PM1042 (PCC 12/2025 R10) — Disassembly — Barrel Assembly Removal, step 3, p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Ease the bolt home",
+   "action": "Retract the charging handle fully rearward and let it go slowly forward until the bolt comes to rest in its forward position. The rifle is now in two pieces and ready to clean.",
+   "prose": "Slowly is the instruction. A blowback bolt released against an empty receiver hits hard.",
+   "quote": "Retract the charging handle fully rearward and slowly release it until the bolt comes to rest in its forward position.",
+   "cite": "Ruger PC Carbine Instruction Manual — PM1042 (PCC 12/2025 R10) — Disassembly — Barrel Assembly Removal, step 4, p.31",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Receiver off the buttstock, trigger guard out",
+   "action": "Use a 5/32 inch hex wrench to loosen — do not remove — the takedown screws in the buttstock, lift the receiver assembly up away from the buttstock, then drift out the two trigger guard retaining pins and take the trigger guard off as a unit.",
+   "prose": "Loosen, never remove, is Ruger's word. And the trigger guard comes out whole — the manual asks you not to take it further apart.",
+   "quote": "Remove the trigger guard by simply drifting out the two trigger guard retaining pins (see Figures 28a & 28b). It is recommended that the components of the trigger guard assembly not be disassembled from the trigger guard.",
+   "cite": "Ruger PC Carbine Instruction Manual — PM1042 (PCC 12/2025 R10) — Disassembly — Trigger Guard Removal, step 3, p.34"
+  },
+  {
+   "phase": "Deep",
+   "title": "Bolt out of the receiver",
+   "action": "Position the receiver so the bolt is fully accessible. Make sure the bolt is forward by pulling back on the charging handle and releasing it carefully, remove the charging handle as described in the Reversible Charging Handle section, then grasp the buffer and lift the bolt assembly out of the receiver.",
+   "prose": "Ruger flags this as simple but order-sensitive — the charging handle comes out before the bolt, not with it.",
+   "quote": "If it is desired to thoroughly clean the inside of the receiver by removing the bolt, be aware that although removing and installing the bolt (along with the charging handle-recoil spring assembly) is simple, it must be done correctly.",
+   "cite": "Ruger PC Carbine Instruction Manual — PM1042 (PCC 12/2025 R10) — Disassembly — To Remove the Bolt, p.35"
+  },
+  {
+   "phase": "Deep",
+   "title": "Bolt apart for the firing pin and extractor",
+   "action": "Slide the bolt top assembly out of the bolt. Compress the bolt head and flip the bolt over so the bolt head retaining pins drop free. Then compress the extractor, remove the extractor pin with a flat-blade screwdriver, and let the extractor and its spring out carefully.",
+   "prose": "Those retaining pins are held only by the firing pin return spring — flipping the bolt is what lets them out, and it is also how they get lost.",
+   "caution": "Wear eye protection. The extractor spring is small, strong and easy to lose.",
+   "quote": "CAUTION: The extractor is under spring tension and may “fly” out of the bolt if it is not held in place during removal of the extractor pin.",
+   "cite": "Ruger PC Carbine Instruction Manual — PM1042 (PCC 12/2025 R10) — Disassembly — Disassembly of the Bolt for Cleaning, step 3, p.36"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Run a solvent-wet patch through the bore from the breech, then a correctly sized brush, then dry patches",
+    "With the barrel assembly off, the bore is straight through — use that access"
+   ]
+  },
+  {
+   "name": "BOLT & RECEIVER",
+   "tasks": [
+    "Bristle brush and solvent on the bolt face, the extractor and the feed ramp",
+    "Wipe the receiver interior and the bolt raceways",
+    "A light film of oil on the bolt bearing surfaces only"
+   ]
+  },
+  {
+   "name": "TAKEDOWN INTERFACE",
+   "tasks": [
+    "Keep the barrel-to-receiver interface and the locking lever clean — this is what holds the rifle's zero",
+    "No grease build-up where the barrel assembly indexes"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Check follower travel and lips; magazines go back dry",
+    "The PC Carbine uses Security-9 or SR-Series pistol magazines with the factory magazine well fitted"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bolt back into the receiver with the buffer seated, then the charging handle.",
+  "Trigger guard pins back in, receiver down onto the buttstock, takedown screws retightened.",
+  "Index the barrel assembly into the receiver, rotate clockwise until the locking lever snaps home, and confirm the lever is fully seated before loading."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, check the safety blocks the trigger, the bolt cycles and locks back, and the barrel assembly is locked with the locking lever fully home — pointed in a safe direction throughout."
+}

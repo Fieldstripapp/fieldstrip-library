@@ -1,0 +1,179 @@
+{
+ "row": "gemtechgm22",
+ "make": "Gemtech",
+ "model": "GM-22",
+ "sourcedFrom": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 (COPYRIGHT: ©2020 GEMTECH. All rights reserved.)",
+ "sourceSha256": "d4849944e827643855b07c97f9796b0e497d14ff191c1d5e1abd50273eb53127",
+ "cleanIntro": "The GM-22 is a two-piece rimfire can: a 7075 aluminium G-CORE that unscrews out of a 7075 aluminium tube, 5 inches long and 2.7 ounces, on a 1/2-28 direct thread. It is user-serviceable and Gemtech wants it opened every 250 rounds, which on a .22 is not long at all. Two things about it catch people out. The ratchet wrench must be set to TIGHTEN to loosen the core — get that backwards and you torque the tube onto the core instead of off it. And the wet/dry rule is per-cartridge: .22 LR may be run wet or dry, but .22 WMR, .17 HMR and .17 HM2 are dry only. Clearing your host firearm comes from that firearm's own manual.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, chamber and action cleared by hand",
+   "action": "Never attach, tighten or remove the GM-22 on a loaded firearm. Take the magazine out first, then visually AND manually check and clear the chamber and the action. Gemtech asks for both checks because a .22 rimfire case is small, dull and easy to look straight past in a chamber, and a rimfire extractor holds it there whether you saw it or not.",
+   "prose": "This applies at every stage — fitting, tightening, removing, and again before any cleaning.",
+   "quote": "WARNING: Never attach, tighten or remove a suppressor TO/from a loaded firearm. First remove the magazine from the FIREARM. Second, visually and manually check and clear the chamber and action OF AMMUNITION.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — Installation of the GM-22 Suppressor, p.19",
+   "warn": "Magazine out and chamber cleared by hand, every time."
+  },
+  {
+   "phase": "Clear",
+   "title": "This book covers the suppressor, not the gun it is on",
+   "action": "Before anything else, get your host firearm's own manual out and keep it beside this one. Gemtech's book teaches the GM-22 itself — mounting, ammunition limits and cleaning the can — and it routes every warning and instruction about the FIREARM back to that firearm's manufacturer. Then find the GM-22's own model section: the compatible chamberings and the minimum barrel length are printed per model, not once for the whole book.",
+   "prose": "Two bounds, both stated by Gemtech: the host gun is out of scope, and the ammunition limits are model-specific. If you are working from the wrong model's section, the caliber and barrel-length limits you read are not yours.",
+   "quote": "THE WARNINGS AND INSTRUCTIONS IN THE OWNER'S MANUAL FOR YOUR SPECIFIC FIREARM",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — Safety Warnings, p.6",
+   "warn": "Host-firearm procedure comes from the host firearm's manual, never from this one."
+  },
+  {
+   "phase": "Clear",
+   "title": "GM-22 chamberings — and which are DRY ONLY",
+   "action": "Check what the can has been fed. The GM-22's applicable chamberings are .22 LR wet or dry, and .22 WMR, .17 HMR and .17 HM2 DRY ONLY. It is full-auto rated for .22 LR only, where Gemtech defines full-auto as 4-8 round bursts every 4-8 seconds. Supersonic ammunition is acceptable. Centrefire ammunition is not, and neither is .22 shotshell.",
+   "prose": "The wet/dry split is per cartridge, not per can. Running an ablative behind a magnum rimfire is outside what this book permits.",
+   "quote": "Applicable Chamberings\n22 LR (WET OR DRY)\n22 WMR (DRY ONLY)\n17 HMR (DRY ONLY)\n17 HM2 (DRY ONLY)",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — GEMTECH® GM®-22 Suppressor Specifications, p.18",
+   "warn": "WARNING: DO NOT USE CENTERFIRE AMMUNI-\nTION WITH THE GM®-22 SUPPRESSOR."
+  },
+  {
+   "phase": "Clear",
+   "title": "Not 60 grain subsonic .22 LR",
+   "action": "One .22 LR load is specifically ruled out. Gemtech has found that 60 grain subsonic .22 LR fails to stabilise in most commonly available barrel twists, so the bullet can yaw as it leaves the rifling and hit the inside of the can. That is a baffle strike in slow motion — it may not be obvious the first time, and it voids the warranty.",
+   "prose": "Never fire .22 shotshell through it either. A shot charge and a baffle stack are incompatible in an obvious way.",
+   "caution": "WARNING: NEVER USE 22 SHOTSHELL AMMU-\nNITION WITH THE GM®-22 SUPPRESSOR.",
+   "quote": "WARNING: Do not use 60 gr. Subsonic 22LR \nammunition. Gemtech has found that \nthe ammunition may fail to stabilize in \nmost barrel twists readily available, and as \na result the BULLET can yaw on exit from the \nrifling and may seriously damage the internal \ncomponents of the suppressor.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — Ammunition, p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Let it cool, then unscrew it off the muzzle",
+   "action": "The can can exceed 900 degrees F in use, which will burn skin on contact and can ignite flammable vapours nearby. Let it cool, or use a glove or sock made for extreme heat. Then unscrew it by hand off the muzzle; if it is stubborn, a 1/4 inch socket wrench inserted into the muzzle end will break it loose.",
+   "prose": "Direct-thread cans unscrew themselves under fire, so check tightness periodically while shooting rather than only at the end of the session.",
+   "quote": "Unscrew the suppressor by hand. If necessary use a 1/4 inch socket wrench inserted into the muzzle to loosen.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — Removal of the GEMTECH® GM®-22 Suppressor from an Unloaded Firearm, p.19",
+   "warn": "WARNING: USE PROPER SKIN PROTECTION \nTO PREVENT BURNS WHEN TIGHTENING OR RE-\nMOVING A SUPPRESSOR WHILE IT IS HOT."
+  },
+  {
+   "phase": "Strip",
+   "title": "Off the gun before anything else",
+   "action": "Do not clean or disassemble the GM-22 while it is on a firearm. Take it off first. Working on a mounted can means working with a barrel pointed somewhere while you apply torque to the muzzle end of it, and Gemtech rules it out in both the general section and the GM-22's own.",
+   "prose": "It also means solvent running back down the bore of the host, which nobody wants.",
+   "quote": "DO NOT clean or disassemble the GM®-22 while it is \n\tinstalled on a firearm.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — Installation of the GM-22 Suppressor, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "G-CORE out — ratchet set to TIGHTEN",
+   "action": "Hold the rear of the suppressor and unscrew the outer tube anticlockwise off the inner G-CORE. If it is tight, put a 1/4 inch ratchet wrench into the square cutout at the FRONT end and turn the core — and here is the trap: the ratchet must be set to TIGHTEN (clockwise) to loosen and remove the core from the tube. Set it the intuitive way and you drive the tube harder onto the core instead, which Gemtech says leads to G-CORE failure.",
+   "prose": "You are holding the tube still and turning the core relative to it, which is why the ratchet direction inverts. Read it twice before you pull.",
+   "quote": "The ratchet wrench must be set to (TIGHTEN) clockwise to loosen and remove the G-CORE® from the tube. Failure to do so can cause you to overtighten the suppressor tube to the core and lead to G-CORE® failure.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — Removal of the GEMTECH® GM®-22 Suppressor from an Unloaded Firearm, p.19",
+   "warn": "Ratchet set to TIGHTEN to LOOSEN the core. Getting this backwards destroys the core."
+  },
+  {
+   "phase": "Clean",
+   "title": "Nylon and non-marring first, metal only as a last resort",
+   "action": "Clean the internal baffle surfaces with a nylon brush, non-marring picks and CLP. Metal tools — a brass brush, a metal pick — are a last resort for stubborn lead and carbon that non-marring tools will not shift, and they go on internal components only. Aggressive use of metal tools damages the anodised aluminium and shortens the life of the can.",
+   "prose": "Gemtech's own line is that if you keep to the 250-round interval you should almost never need a metal tool. Falling behind on the interval is what creates the need.",
+   "quote": "Metal hand tools like a brass \nbrush and metal cleaning pick can be used as a last resort \nto remove stubborn lead and carbon deposits on internal \ncomponents only,  which are not removed by non-marring \ntools.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — GM-22 Suppressor Continued, p.20",
+   "warn": "WARNING: ONCE USED, SUPPRESSORS MAY \nCONTAIN A GREAT DEAL OF LEAD RESIDUE. \nALWAYS HAVE ADEQUATE VENTILATION."
+  },
+  {
+   "phase": "Clean",
+   "title": "The tube's inside — and the core as a scraper",
+   "action": "Soak a nylon bore brush or mop in CLP and run it through the tube. If lead and carbon build-up will not shift, Gemtech's own trick is to use the core itself: coat the inside of the tube with CLP, let it sit a few minutes, then run the tube on and off the core 15 to 20 times until it feels like the intended slip fit again.",
+   "prose": "That slip-fit feel is the test. A tube that still drags on the core has fouling left in it.",
+   "quote": "Coat the inside of the \ntube with CLP, let it sit for a few minutes then run the tube \non and off of the core 15-20 times until it feels more like the \nintended slip fit.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — GM-22 Suppressor Continued, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You have two pieces: the outer tube and the G-CORE. That is the whole of the GM-22 teardown Gemtech publishes — the core does not come apart further. Lightly lubricate before it goes back together, hand tighten only, and store it dry. Deep Clean walks the interior work, the tube-and-core scrape and the reassembly.",
+   "prose": "The maintenance interval is every 250 rounds, for performance and for ease of the next disassembly.",
+   "quote": "For optimal performance and ease of disassembly, perform \nthe maintenance process listed below every 250 rounds.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — Maintenance of the GM-22 Suppressor, p.19",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Strip the internal baffle surfaces properly",
+   "action": "With the core out of the tube, work every internal surface with a nylon brush, non-marring picks and CLP until the deposits lift. Take your time in the corners where each baffle meets the core body — that is where lead builds first on a rimfire, and it is what eventually stops the core sliding out of the tube at all.",
+   "prose": "Rimfire fouling is soft lead, not the hard carbon of a centrefire can. It comes off with patience and CLP rather than force.",
+   "caution": "Take care when using metal tools as aggressive use \nwill damage and decrease the life of suppressor compo-\nnents.",
+   "quote": "When cleaning suppressor internal baffle components use \na nylon brush,  non-marring cleaning pics, and CLP to \nremove deposits and debris.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — GM-22 Suppressor Continued, p.20"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrape the tube with its own core",
+   "action": "For build-up inside the tube that a brush will not touch, coat the inside with CLP, leave it a few minutes to soften, then work the tube on and off the core 15 to 20 times. The core's own outside diameter does the scraping. Stop when the fit feels like the intended slip fit rather than a drag.",
+   "prose": "This is the manufacturer's own method, and it is safer than anything you would improvise — the core is exactly the right diameter by definition.",
+   "quote": "To clean the inside of the suppressor tube soak a nylon \nbore brush or mop in CLP and run it through the tube to \nremove debris.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — GM-22 Suppressor Continued, p.20"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light lube, hand tight, store dry",
+   "action": "Lightly lubricate before reassembly and hand tighten the tube back onto the core — no wrench for the reassembly. Then store it dry: Gemtech does not want it put away wet, and on a .22 that has been run wet with an ablative that instruction matters more than it sounds.",
+   "prose": "Over-tightening on assembly is the other way people damage the core; the wrench exists for stuck disassembly, not for putting it back.",
+   "aside": "Gemtech recommends storing the suppressor dry.",
+   "quote": "Lightly lubricate prior to reassembly. Hand tighten only.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — GM-22 Suppressor Continued, p.20"
+  },
+  {
+   "phase": "Clean",
+   "title": "Log the round count",
+   "action": "The back page of the GM-22 book is a maintenance log with your serial number, purchase date and a date/round-count table. Use it. The interval that governs everything about this can is 250 rounds, and a rimfire session eats that quickly enough that memory alone will not track it.",
+   "prose": "A serial number written down is also what you need before a return authorisation, and BATFE will not let Gemtech move a serial to a new tube if the tube gets damaged.",
+   "quote": "NOTE: BATFE prohibits transferring the serial number to \na new outer tube in the case of damage to the tube. Tube \ndamage will require a new suppressor.",
+   "cite": "SAFETY & INSTRUCTION MANUAL FOR: GM®-22 RIMFIRE SUPPRESSOR — REV:GM22_SUPPRESSOR-020120 — GEMTECH® Suppressor Repair Policy, p.15",
+   "warn": "Damage the tube and the whole suppressor is scrap — the serial cannot be moved."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "G-CORE & BAFFLES",
+   "tasks": [
+    "Interval: every 250 rounds",
+    "Nylon brush, non-marring picks and CLP on all internal surfaces",
+    "Brass brush or metal pick ONLY as a last resort, internal components only",
+    "Do not attempt to take the G-CORE itself apart"
+   ]
+  },
+  {
+   "name": "TUBE",
+   "tasks": [
+    "Nylon bore brush or mop soaked in CLP run through the tube",
+    "For stubborn build-up: coat with CLP, wait, then run the tube on and off the core 15-20 times",
+    "Stop when the fit feels like the intended slip fit"
+   ]
+  },
+  {
+   "name": "THREADS & MOUNT",
+   "tasks": [
+    "Clean and degrease the muzzle threads and the suppressor's rear threads with solvent",
+    "Let solvent evaporate fully before the can goes back on",
+    "NEVER use a lock washer or crush washer under this suppressor"
+   ]
+  },
+  {
+   "name": "AFTER",
+   "tasks": [
+    "Lightly lubricate before reassembly; hand tighten only",
+    "Store the suppressor DRY",
+    "Record the date and round count in the maintenance log"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Lightly lubricate, then thread the outer tube back onto the G-CORE and hand tighten only.",
+  "Clean and degrease the muzzle threads and the inside of the suppressor's rear end, and let the solvent evaporate.",
+  "Remove any thread protector or muzzle device from the muzzle first — including washers, shims and jam nuts.",
+  "Thread the suppressor clockwise onto the muzzle, hand tight, taking care not to cross-thread.",
+  "Never fit a lock washer or crush washer under it; either will misalign the can and put a bullet into a baffle.",
+  "Check tightness periodically while shooting — a direct-thread can unscrews itself under fire."
+ ],
+ "fncheck": "Before firing, check the suppressor is fully screwed onto the muzzle hand tight and abutted against a flat shoulder at the threads; that shoulder must be perpendicular and the muzzle threads concentric to the bore. Sight down the assembled can against a light and confirm the core's apertures form one clean tunnel with nothing stepped into the path. If anything is gapped, cocked or unclear, do not fire it — the failure mode here is a baffle strike. Re-check tightness periodically during the session, using a heat-resistant glove or letting it cool first."
+}

@@ -1,0 +1,230 @@
+{
+ "row": "tikkat1x",
+ "make": "Tikka",
+ "model": "T1x",
+ "sourcedFrom": "Tikka T1x / T3x Instruction Manual — v5.3 (2023 — from the edition line \"v5.3 / 2023 Printed in Finland\", p.1)",
+ "sourceSha256": "23071369c091412ecf0586b3ce2ae5b0f8b2472a4f49e46de6dd2e5fba3be285",
+ "cleanIntro": "Sako's own book, read down the T1x column. The T1x is the rimfire of the family and its bolt is built differently from the centrefire T3x sharing the same page — it comes apart by driving out two cross pins, and its magazine is expressly excluded from the magazine strip printed alongside. The field strip itself is two moves: magazine out, bolt out.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "One book, three rifles — take only the T1x material",
+   "action": "Start by knowing what you are reading. This single manual covers the T3x, the T3 and the T1x, and says so on its second page. The T1x is a rimfire; the T3x is a centrefire. On pages 13 and 14 the two bolt procedures are printed side by side under the headings \"Tikka T3/T3x\" and \"Tikka T1x\", and they are not variations of one another. Everything here comes from the T1x column. If a procedure tells you to wedge a screwdriver against a bolt handle retainer bushing, that is the T3x column — the T1x has no such bushing.",
+   "aside": "This manual applies to all Tikka models and variations and includes explanations of standard as well as optional equipment. As a result, you may encounter material in this manual that is not applicable to your specific Tikka model.",
+   "quote": "THIS MANUAL APPLIES TO ALL COMMERCIAL TIKKA MODELS T3x/T3/T1x AND INCLUDES EXPLANATIONS AND DESCRIPTIONS OF STANDARD AS WELL AS OPTIONAL FEATURES AND EQUIPMENT. PLEASE FOLLOW MATERIAL THAT IS APPLICABLE TO YOUR SPECIFIC TIKKA MODEL.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — Front matter, scope statement, p.2",
+   "branch": true
+  },
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, finger off, safety pushed forward",
+   "action": "Point the barrel somewhere safe and keep your finger clear of the trigger. Push the safety catch forward so the red dot shows. The Tikka safety locks the bolt shut as well as the trigger, so the bolt will not lift while it is back — the rifle has to come off safe before you can open it.",
+   "caution": "When the safety button shows the red dot, the SAFETY IS DISENGAGED and the rifle is ready to fire. When the red dot is not visible, the SAFETY IS ENGAGED.",
+   "quote": "Disengage the manual safety by moving the safety catch forwards (red warning dot shown).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8",
+   "warn": "Keep your finger AWAY FROM THE TRIGGER and point the barrel in a SAFE direction."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out first",
+   "action": "Press the magazine release and take the detachable magazine out before touching the bolt. On a rimfire this matters as much as on anything else — a .22 cartridge in the magazine is small, quiet and easy to overlook.",
+   "aside": "Do not try to force more cartridges than the maximum capacity of your magazine. An overloaded magazine may not function properly.",
+   "quote": "Remove the magazine by pushing the magazine release button (fig. 8).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt release pushed, bolt drawn straight out",
+   "action": "Push the bolt release and pull the bolt back at the same time; the bolt leaves the receiver entirely. This is the T1x's own wording for it — the T3x column has you lift the handle and press a bolt stop button as a two-stage action. Do it as one movement and set the bolt on the bench.",
+   "caution": "The pin in the bolt stop is preloaded by the spring. However, it may come out of the receiver, if the components are handled carelessly.",
+   "quote": "Remove the bolt by pushing the bolt release and simultaneously pulling the bolt backwards.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — DISASSEMBLY AND ASSEMBLY OF THE RIFLE COMPONENTS, BOLT, Tikka T1x, step 1, p.14"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber checked empty",
+   "action": "With the bolt out, look into the chamber and confirm it is empty. A rimfire case sits low and can be missed at a glance, so look properly rather than assuming the magazine held everything.",
+   "aside": "Never assume that the gun is unloaded.",
+   "quote": "Check the cartridge chamber to be certain it is empty.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bore sighted through from the rear",
+   "action": "Look down the barrel from the back of the open receiver and check for obstructions. Rimfires build up wax and lead more readily than centrefires, so this is not a formality on a T1x. Anything lodged in there goes to a gunsmith, not a cleaning rod.",
+   "quote": "Look through the barrel from the rear and make sure there are no obstructions, even minor ones.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — OBSTRUCTION CHECK, p.9",
+   "warn": "If an obstruction in the barrel is detected, a competent gunsmith must remove the obstruction. The rifle should be inspected again before it can be fired."
+  },
+  {
+   "phase": "Strip",
+   "title": "That is the field strip",
+   "action": "Magazine out and bolt out is all the T1x needs stripped for cleaning. The manual's routine cleaning procedure begins from exactly this state. Everything below is the optional bolt teardown.",
+   "prose": "The quote is step 1 of the manual's routine cleaning procedure and carries no closing full stop in the original.",
+   "quote": "Ensure that the rifle is unloaded and remove the bolt and magazine",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — ROUTINE CLEANING AND MAINTENANCE, step 1, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "The magazine does NOT come apart on a T1x",
+   "action": "The page you are on prints a follower-and-spring magazine strip, and it is not yours. Sako marks that procedure as not applicable to the T1x, in a parenthesis inside its opening sentence — easy to read past when the steps beneath look generic. Clean the T1x magazine as an assembly: wipe it, keep grit out of the body and off the follower, and do not lever the follower out.",
+   "quote": "At times, you may need to disassemble the magazine in order to clean it from fouling, powder residue or dust (Not applicable to Tikka T1x).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — DISASSEMBLY AND ASSEMBLY OF THE RIFLE COMPONENTS, MAGAZINE, p.14",
+   "branch": true
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt teardown is optional — decide whether you need it",
+   "action": "Sako's default is that the bolt stays together. Strip it if you think oil has got inside it, and before cold-weather use in particular. On a rimfire there is a second reason to look: bullet wax and unburnt powder migrate further into the action than most people expect.",
+   "quote": "Generally, disassembling the bolt is not necessary. If you have reason to believe that oil may have penetrated the bolt, you should clean it in order to retain its smooth operation. This is particularly important if you use the rifle in cold or harsh weather.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BOLT, p.13",
+   "branch": true
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt uncocked by turning the shroud COUNTER-CLOCKWISE",
+   "action": "Turn the bolt shroud counter-clockwise and let the cocking piece run down the cocking cam — the bolt is now uncocked, with the mainspring relaxed. Do this before you touch either pin. Note the direction: the T3x column turns its shroud clockwise, and the T1x turns the other way.",
+   "aside": "It is advisable to carry out the disassembly operations over a table to catch components should they drop.",
+   "quote": "Uncock the bolt by turning the bolt shroud (A, fig. 22) counter-clockwise (cocking piece falls along the cocking cam).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BOLT, Tikka T1x, step 2, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Side pin driven out — cocking piece, spring and handle sleeve come free",
+   "action": "Push out the pin in the side of the bolt shroud and remove it carefully. With it gone, the cocking piece, its spring and the bolt handle sleeve come out of the bolt body together. Keep a hand over them as the pin clears — there is a spring behind them even with the bolt uncocked. This cross pin is the T1x's whole retention scheme and is the clearest sign you are on the right procedure.",
+   "quote": "Push and carefully remove the pin (B) on the side of the bolt shroud: the cocking piece, spring and bolt handle sleeve (C, fig. 22) comes out of the bolt body.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BOLT, Tikka T1x, step 3, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Second pin out — firing pin and return spring",
+   "action": "Push out the second pin and remove it, and the firing pin and its return spring come out of the bolt body. That is both pins and the bolt is as far apart as it goes.",
+   "quote": "Then, the firing pin and return spring are removed by pushing and removing the pin (D, fig. 22).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BOLT, Tikka T1x, step 4, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stop — the bolt goes no further",
+   "action": "Shroud, cocking piece, spring, handle sleeve, firing pin and return spring is the end of the published teardown. Sako states there is nothing further to take apart for cleaning, and the book publishes no deeper T1x procedure.",
+   "quote": "The bolt should not require any further disassembly for cleaning purposes.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BOLT, Tikka T1x, p.14",
+   "branch": true
+  },
+  {
+   "phase": "Strip",
+   "title": "Barreled receiver out of the stock, if you need it out",
+   "action": "The only further strip the book publishes is lifting the barreled action out of the stock, and it is written for every model except the T3x TACT A1. With bolt and magazine already out, back off the two receiver screws with a Torx driver, pull the trigger guard down and away, then lift the barreled receiver up out of the stock. You need this only to reach the trigger adjustment screw or to clean under the action.",
+   "prose": "The section heading reads \"Remove the barreled receiver from the stock as follows (fig. 19) (except T3x TACT A1):\" — the T1x is not excluded from it.",
+   "aside": "Remove the trigger guard by pulling it downwards.",
+   "quote": "Remove the two receiver fastening screws (A) using a Torx driver.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — DISASSEMBLY AND ASSEMBLY OF THE RIFLE COMPONENTS, BARRELED RECEIVER, step 3, p.13"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Clean it the same day, even if you did not shoot",
+   "action": "Routine cleaning belongs right after use, shot or not, and the manual puts a clock on it: corrosion can start within 24 hours. Stainless variants get no exemption.",
+   "aside": "Use only high quality gun oil that cleans, lubricates and preserves (CLP).",
+   "quote": "Routine cleaning should always take place right after use of the rifle (even without shooting). Maintenance should not be neglected even in case of the “All-weather” or “Stainless” models. Corrosion can begin within 24 hours if the rifle is not cleaned after use.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — ROUTINE CLEANING AND MAINTENANCE, p.18"
+  },
+  {
+   "phase": "Clean",
+   "title": "Rimfire wax — why the first shots after cleaning wander",
+   "action": "This is the T1x-specific one. .22LR ammunition carries a wax lubricant that spreads down the bore along with the firing residue, so a freshly cleaned rimfire barrel does not shoot to the same place as a fouled one. Sako's own guidance is to expect ten to twenty rounds before groups settle. Plan cleaning around that rather than scrubbing the bore the morning of a match.",
+   "quote": "Notice that the .22LR ammunition contains special wax that spreads on the bore together with the firing residue. This requires that the cleaned bore is shot a few (10-20) “cold rounds” before the shot grouping becomes consistent.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — AMMUNITION, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore brushed, then patched one way only",
+   "action": "Run a bronze brush wet with bore solvent through ten to fifteen times, ideally through a rod guide so the rod does not scrape the bore or receiver. Follow with clean solvent-damp felt pellets until they come out clean. Always in the bullet's direction, always a fresh pellet each pass.",
+   "aside": "It is recommended to use cleaning rod guide to prevent the rod from dragging on the inner surfaces of the bore and receiver.",
+   "quote": "Clean only in the direction of bullet movement and replace dirty pellet with new before every cleaning sequence.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — ROUTINE CLEANING AND MAINTENANCE, step 4, p.18"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver, bolt and chamber",
+   "action": "Clear firing residue from inside the receiver with a pellet or brush, scrub the bolt with a small solvent-wetted brush, and clean the chamber with a nylon brush or a chamber pellet. On a T1x the chamber and the area around the extractor collect wax as much as carbon.",
+   "aside": "Use larger diameter nylon brush or particular chamber cleaning pellet moistened with bore solvent to clean the chamber.",
+   "quote": "Use a small solvent-wetted brush to clean the bolt from firing residue.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — ROUTINE CLEANING AND MAINTENANCE, step 6, p.18"
+  },
+  {
+   "phase": "Clean",
+   "title": "Oiled — and the chamber wiped dry before you shoot",
+   "action": "Pass an oiled pellet through the bore, leave a thin film of rust preventive oil on the chamber, and wipe every touching surface of receiver and bolt with a very light coat. Then heed the parenthesis in the manual's own step: wipe the chamber dry again before firing.",
+   "aside": "Wipe all touching surfaces of the receiver and bolt with a very light coat of rust preventive oil.",
+   "quote": "Also, leave a thin coat of oil on the cartridge chamber surface (remember to wipe it dry before shooting!).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — ROUTINE CLEANING AND MAINTENANCE, step 8, p.18"
+  },
+  {
+   "phase": "Clean",
+   "title": "Once a year, go deeper",
+   "action": "Periodic maintenance is the annual service — more often under heavy use, and before long storage. It is the routine clean plus a lubricated wipe of all metal, the sling swivel mounts, the bolt stripped and greased, and every screw checked.",
+   "caution": "If it is necessary to replace any parts, use only original factory spare parts.",
+   "quote": "Periodic maintenance should be carried out at least once a year or more frequently under heavy use or in severe conditions. Moreover, periodic maintenance is recommended if the rifle is to be stored for prolonged period.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — PERIODIC MAINTENANCE, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt greased at the three points Sako names",
+   "action": "With the bolt cleaned, grease goes on the locking lug surfaces, the cocking cam and the head of the cocking piece — lightly. Then put the bolt back together and check that the parts, extractor and ejector included, work as they should before the bolt goes back in the rifle.",
+   "aside": "Assemble the bolt and check the function of different parts (incl. extractors and ejectors).",
+   "quote": "Lightly grease the locking lug surfaces (A, fig. 4), cocking cam (B) and head of the cocking piece (C).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — PERIODIC MAINTENANCE, step 5, p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry firing damages the bolt — use a snap cap",
+   "action": "Do not practise trigger work on an empty chamber. On a rimfire the firing pin strikes the chamber mouth when there is no case there, and Sako states plainly that long-term dry firing may damage the bolt. If you want to practise, put a snap cap in.",
+   "caution": "“Snap cap” cartridges with spring loaded “primers” are ideal. “DUMMY” cartridges with empty primer pockets are good for loading/ unloading practice but DO NOT protect the firing pin during dry firing.",
+   "quote": "Dry firing is defined as firing a firearm with no ammunition in the chamber. Long term dry firing may damage the bolt.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — DRY FIRING/”DUMMY” ROUNDS, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Suppressor off before it goes away",
+   "action": "If you shoot the T1x suppressed, take the can off before storage — moisture vapouring out of a suppressor corrodes the bore behind it. Refit the muzzle thread protector when nothing is on the threads.",
+   "aside": "Tikka T1x barrel has a 1/2x28 UNEF or a 1/2x20 UNF thread.",
+   "quote": "Remember to remove the suppressor from the barrel right after shooting. Moisture vaporing from the suppressor can cause corrosion of the bore.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — MUZZLE BRAKE OR SUPPRESSOR ATTACHMENT, p.17"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Brush the bore with a bronze brush and bore solvent through a rod guide, 10-15 passes",
+    "Push clean solvent-damp felt pellets through in the bullet's direction until they come out clean",
+    "Clean the chamber with a nylon brush or chamber pellet, oil it, then wipe it dry before shooting"
+   ]
+  },
+  {
+   "name": "RECEIVER & BOLT",
+   "tasks": [
+    "Clear firing residue from inside the receiver with a pellet or brush",
+    "Scrub the bolt with a small solvent-wetted brush, then wipe all touching surfaces with light rust preventive oil",
+    "Lightly grease the locking lugs, the cocking cam and the head of the cocking piece"
+   ]
+  },
+  {
+   "name": "MAGAZINE & STOCK",
+   "tasks": [
+    "Wipe the T1x magazine as an assembly — it is excluded from the manual's follower-and-spring strip",
+    "Keep grit off the follower and out of the magazine body",
+    "Wipe the stock dry and check the tightness of the receiver screws"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Put the firing pin and its return spring back into their hole inside the bolt body.",
+  "Fit the bolt handle sleeve, cocking piece, spring and bolt shroud with its indicator back into the bolt body.",
+  "Compress the cocking piece spring by pushing on the bolt shroud, line the shroud's pin hole up with the holes in the bolt body, and push the pin home.",
+  "Push the front pin into place, then cock the firing pin by turning the cocking piece about an eighth of a turn until it stops in the notch.",
+  "If the barreled receiver was taken out, seat the metallic recoil block in the stock, pull the barreled receiver rearward to take the slack out of the recoil lug, and torque the receiver screws to 7 Nm in a metallic trigger guard or 5 Nm maximum in a plastic one, then refit bolt and magazine."
+ ],
+ "fncheck": "With the rifle confirmed empty, run the bolt in and check it closes and locks without drag and that the cocking indicator shows cocked. Pull the safety back to \"ON\" and confirm the bolt is locked shut and the trigger is dead; push it forward and confirm the red dot appears and the bolt lifts. Muzzle in a safe direction, decock the firing pin by pulling the trigger — it can only be decocked with the bolt closed. Then cycle the empty magazine in and out and confirm the release holds it and drops it cleanly."
+}

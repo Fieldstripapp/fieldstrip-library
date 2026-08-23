@@ -1,0 +1,93 @@
+{
+ "row": "rugerrxm",
+ "make": "Ruger",
+ "model": "RXM",
+ "sourcedFrom": "Ruger RXM Centerfire Pistol Instruction Manual — PM1183 (2026)",
+ "sourceSha256": "f3feb4cffebd9ad5851e77e91148391924337c9e40429ebf74982c582f590e05",
+ "cleanIntro": "The RXM requires the trigger to be pulled before the slide will come off. Everything before that step exists to make that safe.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Keep the pistol pointed in a safe direction, press down on the magazine release and remove the magazine.",
+   "prose": "Feeding source out before anything else moves.",
+   "quote": "Keep the pistol pointed in a safe direction. Press down on the magazine release and remove the magazine",
+   "cite": "Ruger RXM Centerfire Pistol Instruction Manual — PM1183 — Disassembly, step 1, p.22",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide open",
+   "action": "Pull the slide to the rear and lock it open by pushing upward on the slide stop.",
+   "prose": "Locked back is what lets you see and feel the chamber properly.",
+   "quote": "Pull the slide to the rear and lock it in the open position by pushing upward on the slide stop.",
+   "cite": "Ruger RXM Centerfire Pistol Instruction Manual — PM1183 — Disassembly, step 2, p.22"
+  },
+  {
+   "phase": "Clear",
+   "title": "Verify the chamber",
+   "action": "Inspect the chamber and verify that it is empty.",
+   "prose": "By sight and by finger. This is the check the next step depends on.",
+   "quote": "Inspect the chamber and verify that it is empty",
+   "cite": "Ruger RXM Centerfire Pistol Instruction Manual — PM1183 — Disassembly, step 3, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Let the slide forward",
+   "action": "Retract the slide slightly and release it.",
+   "prose": "That short pull drops the slide stop out of the way.",
+   "quote": "This will disengage the slide stop and allow the slide to move fully forward.",
+   "cite": "Ruger RXM Centerfire Pistol Instruction Manual — PM1183 — Disassembly, step 4, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Point safe and pull the trigger",
+   "action": "Point the pistol in a safe direction and pull the trigger to the rear.",
+   "prose": "This design will not release the slide until the striker is down. You cleared the chamber twice above; that is why this is safe.",
+   "quote": "Point the pistol in a safe direction and pull the trigger to the rear",
+   "cite": "Ruger RXM Centerfire Pistol Instruction Manual — PM1183 — Disassembly, step 5, p.23",
+   "warn": "This is the step where negligent discharges happen when the chamber check is skipped. If the pistol left your hands at any point, clear it again before pulling the trigger."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward off the frame — and if it hangs up",
+   "action": "Draw the slide back slightly, hold the takedown lever down and run the slide forward off the frame. If it hangs up, pull the trigger a second time.",
+   "prose": "Ruger documents that hang-up: the trigger or connector can reset while the slide is pulled rearward, and a second trigger pull frees it.",
+   "quote": "If this occurs, pull the trigger a second time, which should allow the slide to move freely off the frame.",
+   "cite": "Ruger RXM Centerfire Pistol Instruction Manual — PM1183 — Disassembly, step 6 note, p.23",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "PM1183 documents the field strip only — slide, barrel and recoil spring assembly off the frame. No detail strip past that is published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent patch, correctly sized brush, then dry patches until clean",
+    "Wipe the feed ramp and chamber mouth"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Scrub the breech face and around the extractor",
+    "Wipe the striker channel DRY — no oil in an ignition channel",
+    "One drop of oil on each slide rail"
+   ]
+  },
+  {
+   "name": "FRAME & MAGAZINES",
+   "tasks": [
+    "Brush the frame rails and the magazine well",
+    "Clean all magazine components with a brush or rag to remove residue",
+    "Reassemble magazines in reverse order, taking care the spring goes in the correct orientation",
+    "Magazine bodies stay dry"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Seat the barrel and recoil spring assembly in the slide.",
+  "Run the slide onto the frame rails and rack it fully — it locks in automatically."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, rack the slide several times and confirm the trigger resets, pointed in a safe direction."
+}

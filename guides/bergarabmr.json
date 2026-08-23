@@ -1,0 +1,113 @@
+{
+ "row": "bergarabmr",
+ "make": "Bergara",
+ "model": "BMR",
+ "sourcedFrom": "Bergara BMR Owner's Manual — Manual 1.31 (undated — no copyright line is printed)",
+ "sourceSha256": "a1ed6b9ef1aca6a9e646f5fb98e2e9155184d012aa63b01ccccd1be28b35e920",
+ "cleanIntro": "A rimfire bolt gun, so the strip is the bolt and nothing else. Bergara's cleaning section is the substantial half of this guide.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety to Safe, magazine out",
+   "action": "Move the safety catch to Safe, then take the magazine out. Safety first on this rifle: the magazine is the smaller half of the problem, and a detachable-magazine rimfire will still have a round in the chamber after the magazine is gone.",
+   "aside": "Unload the rifle by first removing the magazine.",
+   "quote": "Move the safety catch to the Safe position.",
+   "cite": "Bergara BMR Owner's Manual — Manual 1.31 — 9. FIELD STRIP, p.6"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt fully back, then eyes and finger in the chamber",
+   "action": "Lift the bolt handle and draw the bolt fully to the rear until it meets the bolt release. Inspect the chamber visually and physically before you go further. Bergara warns elsewhere against short-cycling this action, and the same applies here — a half-drawn bolt does not open the chamber to view.",
+   "aside": "Visually and physically inspect the chamber to ensure there is no ammunition in the",
+   "quote": "Lift the bolt handle and pull the bolt to the rear until it contacts the bolt release.",
+   "cite": "Bergara BMR Owner's Manual — Manual 1.31 — 9. FIELD STRIP, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt release pressed, bolt out",
+   "action": "Press the bolt release and draw the bolt out of the action. That is the whole field strip on a BMR — the bolt is the only thing that leaves the rifle, and it has to leave before the barrel can be cleaned properly.",
+   "quote": "Push the bolt release and remove the bolt from the action.",
+   "cite": "Bergara BMR Owner's Manual — Manual 1.31 — 9. FIELD STRIP, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The bolt is out and the action is open front to back. Bergara puts an access hole in the rear of the receiver specifically so a rod can go through with the bolt out — which is why this strip exists at all.",
+   "quote": "An access hole is provided in the rear of the receiver for the passage of the cleaning rod into the barrel.",
+   "cite": "Bergara BMR Owner's Manual — Manual 1.31 — 10. CLEANING AND MAINTENANCE, Barrel, p.7",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Chamber to muzzle, never the other way",
+   "action": "Push the rod through the receiver's access hole and clean from the chamber towards the muzzle. Not the reverse. Bergara states plainly that cleaning the other way wears the muzzle and permanently affects accuracy — on a barrel maker's own rifle, that is not a throwaway line.",
+   "quote": "The correct direction for cleaning is from the chamber to the muzzle.",
+   "cite": "Bergara BMR Owner's Manual — Manual 1.31 — 10. CLEANING AND MAINTENANCE, Barrel, p.7",
+   "warn": "Cleaning the barrel in the opposite direction can cause excessive wear on the muzzle of the barrel. This will permanently affect the accuracy of the rifle."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Dry patch, then solvent, then oil, then dry again",
+   "action": "Run a dry patch first to push loose fouling out, then solvent-wet patches until the bore and chamber come clean, then an oiled patch to prevent rust. Run a dry cloth through before shooting again — oil left in a bore at the moment of firing causes overpressure.",
+   "caution": "Before shooting again, run a dry patch through the barrel to remove excess oil. Traces of oil inside the barrel at the moment of firing can cause overpressure.",
+   "quote": "Important: We suggest lightly oiling the inside of the barrel and the outside metal surfaces of the gun after cleaning.",
+   "cite": "Bergara BMR Owner's Manual — Manual 1.31 — 10. CLEANING AND MAINTENANCE, p.8"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Receiver and bolt body wiped through",
+   "action": "Wipe the whole bolt and the inside of the receiver with a cloth carrying a suitable firearm cleaning product. On a rimfire this is where unburnt powder and wax collect, and it collects faster than on a centerfire.",
+   "prose": "The quote breaks where the manual's own line breaks; the sentence continues 'suitable firearm cleaning product to remove residues.'",
+   "quote": "Clean the entire bolt and the inside of the receiver with a cloth saturated with a",
+   "cite": "Bergara BMR Owner's Manual — Manual 1.31 — 10. CLEANING AND MAINTENANCE, Receiver and Bolt, p.8"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Bolt face and extractor with a brush",
+   "action": "Take a brush to the bolt face and the extractor, and to the exposed part of the firing mechanism and the bolt head lugs. Then oil or grease the bolt body, the lugs, the cocking channel and the safety catch, and put a drop on the ejector and extractor until there is a very thin film.",
+   "quote": "Using a brush, clean the bolt face and extractor.",
+   "cite": "Bergara BMR Owner's Manual — Manual 1.31 — 10. CLEANING AND MAINTENANCE, Receiver and Bolt, p.8"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Shooting it suppressed changes the schedule",
+   "action": "If you run this rifle with a can on it, clean it more often. Bergara notes that suppressed shooting drives backpressure and fouling into the receiver and bolt area, and that failures to cycle or fire are the symptom. The fix is a thorough clean of receiver, bolt and chamber, not more oil.",
+   "quote": "Shooting suppressed will increase backpressure as well as fouling accumulation in the receiver and bolt area.",
+   "cite": "Bergara BMR Owner's Manual — Manual 1.31 — 10. CLEANING AND MAINTENANCE, note, p.7"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Clean chamber to muzzle, through the access hole in the rear of the receiver — never muzzle to chamber",
+    "Dry patch first, then solvent-wet patches until grease and dirt are gone from the bore and chamber",
+    "Use a bronze or nylon brush; avoid stainless steel brushes",
+    "Check the muzzle crown regularly for damage"
+   ]
+  },
+  {
+   "name": "RECEIVER & BOLT",
+   "tasks": [
+    "Wipe the whole bolt and the receiver interior with a suitable cleaning product",
+    "Brush the bolt face, extractor, exposed firing mechanism and bolt head lugs",
+    "Lubricate the bolt body, lugs, cocking channel and safety catch; a drop on the ejector and extractor"
+   ]
+  },
+  {
+   "name": "SCHEDULE",
+   "tasks": [
+    "Clean after the first 100 rounds, then every 200-300 rounds",
+    "Clean after a day of hunting or at the range regardless of count",
+    "Clean more often if the rifle is being shot suppressed"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Press the bolt release and insert the bolt, rotating it until it aligns with the channel.",
+  "Run a dry patch through the barrel before shooting to remove excess oil."
+ ],
+ "fncheck": "With the rifle confirmed empty, work the bolt fully back and forward — do not short-cycle it — and confirm the safety catch moves to Safe and holds."
+}

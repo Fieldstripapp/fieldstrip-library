@@ -1,0 +1,262 @@
+{
+ "row": "savagestance",
+ "make": "Savage",
+ "model": "Stance",
+ "sourcedFrom": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" (UNKNOWN — no copyright line is printed anywhere in the document; the only date is the 11/21 code in the part number line)",
+ "sourceSha256": "11aa6a44e99a675952ff4ecbb0aff07b863333980b15f9f9a4cef3623a31ef76",
+ "cleanIntro": "This is a single-model book and it publishes the whole job: unloading, field stripping, a seven-point lubrication map, reassembly, a function test, magazine disassembly and cleaning. One thing has to be settled before you start, because the manual branches on it three separate times — the thumb safety is an option on this pistol, not a fitting. Some Stance pistols have a manual thumb safety lever and some do not, and Savage writes the takedown in two halves for exactly that reason: \"For models with a manual safety\" and then \"For all models\". Look at your pistol and decide which you own. The second thing worth knowing before the slide comes off is that the takedown lever does more than release the slide: rotating it deactivates the sear, which is why this strip needs no trigger pull, and why the manual prints DO NOT PRESS THE TRIGGER in the middle of it. Savage bars any disassembly past the published field strip.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Not every Stance has a thumb safety — find out which one you own",
+   "action": "Look at the left side of the frame above the grip before you follow any procedure below. Savage builds the Stance both ways: some pistols carry a manual thumb safety lever and some do not, and the manual says so in as many words. This is not cosmetic — the takedown sequence, the loading sequence and the function test all have a branch that applies only to pistols with the lever, and following the wrong branch means either looking for a control that is not there or skipping one that is. Settle it now and carry the answer through the rest of the guide.",
+   "prose": "Where there is a lever, up is ON or SAFE and down is OFF or FIRE.",
+   "caution": "The thumb safety is optional on the Stance. Check your pistol before proceeding.",
+   "quote": "Some Savage Arms Stance pistols are equipped with a manual thumb safety lever. Not all models are equipped with this manual thumb safety.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Feature Identification, Two Position Manual Safety, p.10"
+  },
+  {
+   "phase": "Clear",
+   "title": "The safety does not stop the pistol being loaded or unloaded",
+   "action": "If your pistol has the thumb safety, understand what it does not do. Savage prints it as a caution: the slide can still be opened and closed, the magazine can still be removed and installed, and the pistol can still be loaded and unloaded with the lever in either position. The lever blocks the sear, nothing else. So an engaged safety is not a substitute for a single step of the clearing sequence below — it does not make the chamber empty and it does not tell you the chamber is empty.",
+   "quote": "CAUTION: The pistol can be loaded and unloaded regardless of the position of the safety lever.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Feature Identification, Two Position Manual Safety, p.11",
+   "warn": "A safety on the SAFE position does not mean the pistol is unloaded."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out first, finger outside the guard",
+   "action": "Point the muzzle somewhere safe, keep your finger away from the trigger and outside the guard, then depress the magazine release and take the magazine out. Magazine first is the order that matters on this pistol for a specific reason given later in the same manual: the Stance has no magazine disconnect, so a pistol with the magazine out can still fire the round in its chamber. Removing the magazine first stops the chamber being refilled by the next step, and nothing else. Set the magazine aside where you can see that it is out.",
+   "quote": "Make sure your finger is away from the trigger and out of the trigger guard. Depress the magazine release and remove the magazine – Figure 18.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Unloading Your Pistol, p.20"
+  },
+  {
+   "phase": "Clear",
+   "title": "Brisk on the slide — briskly is the word Savage uses",
+   "action": "Grasp the serrated sides of the slide from the rear with thumb and fingers and pull it briskly fully rearward to extract whatever is in the chamber. Briskly is deliberate: a slow pull on a short-slide pistol lets the extractor drag the case out without the ejector getting a proper strike at it, and the round tumbles back into the ejection port instead of clearing the gun. Do not put a hand over the port to catch it, either — the manual warns that obstructing the port can interfere with ejection and could cause ignition if the ejector hits the primer. Let it fly and pick it up afterwards.",
+   "quote": "Grasp the serrated sides of the slide from the rear with your thumb and fingers. Briskly pull the slide fully rearward to extract any cartridge from the barrel’s chamber and clear it from the pistol – Figure 19.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Unloading Your Pistol, p.21",
+   "warn": "Never cover the ejection port to catch the round."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide open — it takes a deliberate little move",
+   "action": "Pull the slide fully to the rear, then let it creep slightly forward while pressing upward on the slide stop, and it will catch. The forward creep is the part people miss: at the very rearmost position the slide stop has no notch to engage, so pressing it up against a fully-back slide does nothing and the slide runs home again. Let it come forward a few millimetres and the notch arrives under your thumb. With the slide locked back the pistol is open for inspection and the next two steps.",
+   "quote": "Lock the slide in the open position by allowing the slide to move slightly forward from the rearmost position while pressing upward on the slide stop - Figure 20.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Unloading Your Pistol, p.21"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber and down the magazine well",
+   "action": "With the slide locked back, look into the chamber from the breech end and then look down through the magazine well from underneath. Two places, two looks — the well is the one that gets skipped, and it is where a magazine that was not fully removed will still be sitting. Never check for obstructions by looking down the muzzle; the manual says so explicitly and the breech end shows you the same bore from the safe direction. Only when both are verified empty does the pistol come apart.",
+   "quote": "Look into the chamber and down through the magazine well. Verify that no ammunition remains in the pistol.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Unloading Your Pistol, p.22",
+   "warn": "Never look down the muzzle to check for obstructions."
+  },
+  {
+   "phase": "Strip",
+   "title": "Safety glasses before the slide comes off",
+   "action": "Put safety glasses on before the strip starts, not partway through it. Savage repeats the instruction at the head of the field stripping section and again at the recoil spring, and the reason is the recoil guide rod assembly: it is a captured spring stack under compression that leaves the slide as a unit, and a slip sends it across the bench at eye height. The same applies to the magazine later. Glasses on, muzzle in a safe direction, and the pistol confirmed unloaded from the steps above.",
+   "quote": "WARNING! Always wear safety glasses when field stripping or during disassembly of your pistol.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Field Stripping & Disassembly, p.22",
+   "warn": "Safety glasses on before anything is disassembled."
+  },
+  {
+   "phase": "Strip",
+   "title": "Lock the slide open again for the strip itself",
+   "action": "The field stripping section starts from the closed slide and walks you back through clearing, so lock the slide open again as part of it — fully rearward, press up on the slide stop while letting the slide move slightly forward. This is the same move as in the clearing sequence and it exists here for a different purpose: the takedown lever will not rotate against a closed slide. Make certain the chamber is empty at this point; it is the last look you get before the pistol is in pieces.",
+   "quote": "Pull the slide fully rearward and press upward on the slide stop while letting the slide move slightly forward thereby locking the slide open – Figure 26.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Field Stripping & Disassembly, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "If yours has a manual safety, take it to FIRE",
+   "action": "This step applies only to pistols with the thumb safety lever. Move the lever down to the FIRE position before rotating the takedown lever. The manual sets this apart as its own instruction — \"For models with a manual safety\" — because the next step is written for every Stance. If your pistol has no lever there is nothing to move here and you go straight on to the takedown lever. Note that the pistol is unloaded and the slide is locked back at this point, which is the only reason moving a safety to FIRE is an ordinary act.",
+   "prose": "Savage's own split between this step and the next is what tells you which instructions are conditional and which are universal.",
+   "caution": "Only pistols fitted with the thumb safety have this step.",
+   "quote": "For models with a manual safety: Move the safety lever down to “FIRE” position – Figure 28.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Field Stripping & Disassembly, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown lever, 90 degrees clockwise — this one is every Stance",
+   "action": "Rotate the takedown lever ninety degrees clockwise. Savage marks this instruction \"For all models\", so unlike the step before it there is no branch: fitted safety or not, the lever turns the same way through the same quarter turn. It should move with firm thumb pressure and stop squarely at the quarter turn — if it resists, the slide is not locked back far enough rather than the lever being stiff. Do not force it against a closed slide.",
+   "quote": "For all models: Rotate the takedown lever 90 degrees clockwise – Figure 29.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Field Stripping & Disassembly, p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Turning that lever has already deactivated the sear",
+   "action": "Understand what just happened inside the frame, because it is the reason this pistol strips the way it does. Savage calls it a key safety feature: rotating the takedown lever deactivates the sear. That is what removes the trigger pull that many striker pistols demand before the slide will come off — on a Stance there is no such step and there is no reason to touch the trigger at all. Leave it alone and carry on to the slide.",
+   "quote": "rotating the takedown lever, you have now deactivated the sear.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Field Stripping & Disassembly, p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Do not press the trigger",
+   "action": "Savage prints this on its own line in the middle of the takedown, and it is worth obeying precisely because so many other striker pistols require the opposite. There is no dry-fire step in the Stance field strip. If you have arrived here from a pistol that needs one, that habit is the thing most likely to bite: the pistol is apart, the sear is deactivated and pressing the trigger achieves nothing useful while teaching your hands the wrong sequence on a firearm that will not always be in pieces.",
+   "quote": "NOTICE: DO NOT PRESS THE TRIGGER!",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Field Stripping & Disassembly, p.25",
+   "warn": "No trigger press is part of this field strip."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide slightly back, then forward off the frame — hold the spring",
+   "action": "Grasp the slide from the top, pull it slightly rearward to disengage the slide stop, then push it forward and off the front of the frame. Keep a hand on the recoil spring and guide rod assembly as it goes: the manual asks you to retain them deliberately because they are under compression inside the slide and the last part of the travel is where they let go. Both hands on the pistol, and let the slide come off level rather than tipping it — that is what keeps the spring stack in its channel until you are ready to lift it out.",
+   "quote": "With the takedown lever rotated, grasp the slide from the top. Pull the slide slightly rearward to disengage the slide stop. Then push and remove the slide forward, clearing it from the frame – Figure 30. Take precaution to retain the recoil spring and guide rod assembly with your hand to avoid unintentional release of the recoil spring.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Field Stripping & Disassembly, p.25",
+   "warn": "Retain the recoil spring and guide rod as the slide comes off."
+  },
+  {
+   "phase": "Strip",
+   "title": "Guide rod and spring: up, then back",
+   "action": "With the slide inverted, lift the recoil guide rod and spring upwards first and then draw them rearwards out of the slide. The order is not interchangeable — the rear tip of the assembly sits in a notch on the barrel lug, so pulling straight back before lifting drags it against that notch and can bend the rod. Up releases the tip, back withdraws it. Savage repeats the safety-glasses instruction here and adds that the springs are under pressure, which is the same reason the order matters.",
+   "quote": "While wearing safety glasses, carefully remove the recoil guide rod and spring from the slide by pulling upwards (1) and rearwards (2) – Figure 31.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Field Stripping & Disassembly, p.25",
+   "warn": "Use caution as the springs are under pressure."
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out the same way: up, then back",
+   "action": "The barrel comes out of the slide with the same two-part motion — upwards first, then rearwards. Lifting frees the barrel lug from under the slide's locking surface; drawing it back then walks it out of the muzzle end of the slide. Trying to pull it straight back with the lug still engaged just jams it, and the temptation is then to use force on a part with a chamber in it. Up, then back, and it lifts out without resistance.",
+   "quote": "Remove the barrel from the slide by pulling upwards (1) and rearwards (2) – Figure 32.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Field Stripping & Disassembly, p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "That is as far as this pistol comes apart",
+   "action": "Four pieces plus the magazine is the whole of the published strip: frame, slide, barrel, recoil guide rod and spring assembly. Savage bars going further in plain terms — never disassemble beyond the field stripping process outlined in the manual, and never manipulate internal components beyond what it specifically instructs. That covers the striker, the extractor, the trigger bar and the chassis rails, none of which have a published procedure. Anything past this line is a gunsmith's job with genuine Savage parts.",
+   "prose": "Savage separately bars altering, modifying or replacing parts unless a qualified gunsmith does the work with genuine Savage Arms parts.",
+   "quote": "WARNING! Never disassemble your pistol beyond the field stripping process outlined in this manual.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Field Stripping & Disassembly, p.26",
+   "warn": "No striker, extractor or fire-control disassembly is published."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "In front of you should be the frame, the slide, the barrel, the recoil guide rod and spring assembly, and the magazine — the components Savage's own figure shows after field stripping. Clean and inspect from here: bore and chamber from the breech end, the breech face, the slide's interior and the frame rails. Deep Clean covers the seven lubrication points Savage maps out, the cleaning and solvent restrictions, taking the magazine down, and the backstrap swap.",
+   "quote": "Figure 33 depicts the separated components after field stripping.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Field Stripping & Disassembly, p.26",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Residue out of the bore and chamber with a fitted brush",
+   "action": "Take excessive firing residue out of the bore and chamber with a brush that actually fits the calibre, and clean the outside of the pistol with a non-abrasive cloth. A properly fitted brush is the whole instruction: an undersized one polishes the fouling instead of lifting it, and an oversized one is what people force and then leave bristles behind. The chamber matters as much as the bore on this pistol — the manual notes that if a brand of ammunition gives extraction trouble, the first thing to do is clean the chamber thoroughly with solvent.",
+   "quote": "Remove excessive firing residue from the bore and chamber using a properly fitted brush. Clean the exterior of the firearm using a non-abrasive cleaning cloth.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Cleaning & Maintenance Tips, p.34"
+  },
+  {
+   "phase": "Clean",
+   "title": "No ammoniated solvents, no ultrasonic bath",
+   "action": "Two whole classes of cleaning are ruled out on this pistol. Ammoniated solvents and other strong alkaline solvents must not be used on any Savage Arms firearm, and prolonged solvent immersion and ultrasonic cleaning are to be avoided. The damage named is to the finish, and it is the kind that shows up after the fact rather than during. Copper solvents are the usual trap here because many of them are ammonia-based — read the bottle before it touches the gun rather than after.",
+   "quote": "Ammoniated solvents or other strong alkaline solvents should not be used on any Savage Arms firearm.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Cleaning & Maintenance Tips, p.34",
+   "warn": "No ammoniated or strong alkaline solvents. No ultrasonic cleaning, no long soaks."
+  },
+  {
+   "phase": "Clean",
+   "title": "Seven lubrication points, one drop each",
+   "action": "The Stance has a published lubrication map rather than a general instruction to oil it: seven points in total, two on the barrel and five on the lower assembly — the four chassis rail sections and the side of the trigger bar. A single drop of good firearm lubricant goes on each. Resist adding more. The reason is given in the same section: excess lubricant collects unburned powder and carbon residue, and that mixture in the rails is what turns a reliable pistol into one that short-strokes.",
+   "prose": "The five chassis points are the four rail sections and the side of the trigger bar; the other two are on the barrel.",
+   "caution": "One drop per point. Seven points, no more.",
+   "quote": "There are seven total lubrication points; two on the barrel, Figure 34, and five on the lower assembly, Figure 35. A single drop of high-quality firearm lubricant should be applied at each lubrication point. Care should be taken to avoid over-lubrication.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Lubrication of Your Pistol, p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "Then a light coat over the metal, inside and out",
+   "action": "After the cleaning is finished and the seven points are lubricated, lightly coat the metal parts — internal and external — with a high quality firearm oil to keep rust and corrosion off. Light is the operative word again, and the same warning about collecting residue applies. Pay particular attention after the pistol has seen sweat, humidity or rain: the manual is explicit that exposure to debris, sand, mud, dust, humidity or water makes cleaning and lubrication mandatory rather than optional.",
+   "quote": "After cleaning, lightly coat the metal parts, both internal and external, with a high quality firearm oil. This will help prevent rust and corrosion.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Cleaning & Maintenance Tips, p.34"
+  },
+  {
+   "phase": "Strip",
+   "title": "The magazine spring is under pressure — control it before the floor plate moves",
+   "action": "Before taking a magazine apart, understand what is inside it: the spring is compressed and the follower and floor plate catch are what hold it there. Wear safety glasses, work over a bench rather than a carpet, and keep a thumb on the floor plate the whole time. Savage's warning is not about the parts breaking, it is about losing them — a follower or a catch that flies across a room is a magazine you cannot reassemble. Make sure the magazine is unloaded first.",
+   "quote": "CAUTION: Your magazine spring is under pressure. Be sure to control the spring and follower so they do not fly out and cause injury or become lost.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Magazine Disassembly & Re-assembly, p.33",
+   "warn": "Safety glasses, and a thumb on the floor plate throughout."
+  },
+  {
+   "phase": "Strip",
+   "title": "Depress the floor plate catch through its hole, then slide the plate forward",
+   "action": "Use a pointed tool through the hole in the floor plate to push the catch down into the tube, and while holding it down slide the floor plate forward off the tube against spring pressure. Then take the catch, spring and follower out through the bottom. The order to remember for reassembly is the order they came out — Savage's instruction is to install the spring, follower and floor plate catch front to back in exactly the same orientation as before removal, and a magazine assembled with the follower reversed will feed nose-down and jam.",
+   "quote": "Using a pointed tool, depress the floor plate catch through the hole in the floor plate – Figure 46.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Magazine Disassembly & Re-assembly, p.33"
+  },
+  {
+   "phase": "Strip",
+   "title": "Backstrap swap: one roll pin at the base of the grip",
+   "action": "The Stance ships with two sizes of backstrap and changing them is a four-step job. Unload the pistol and remove the magazine, push out the roll pin near the base of the grip with a small punch, slide the backstrap down and off the frame, then slide the preferred one on and replace the pin. Support the grip against the bench while driving the pin so you are not levering on the frame, and use a punch that fills the pin rather than a nail — this is the one place on a polymer-framed pistol where a slipped tool leaves a mark you cannot polish out.",
+   "prose": "Keep the spare backstrap. There is no published way to make a new one.",
+   "caution": "Unload the pistol and remove the magazine before the pin is touched.",
+   "quote": "With a small punch, push out the roll pin located near the base of the grip.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Backstrap Adjustment, p.32"
+  },
+  {
+   "phase": "Clean",
+   "title": "If it is going away for a while, oil it differently",
+   "action": "Storage is treated separately from cleaning in this manual. For an extended period, the bore, chamber and internal working mechanism get oiled with a high quality lubricating oil or preservative intended for firearms, and the external mechanism and barrel get an anti-rust oil. Then do not encase the pistol in anything that attracts or holds moisture — leather and heavy cloth are named, and a fitted leather holster is the classic way to rust a stored pistol. Clean it again before it is used, and check it for wear every time you clean it.",
+   "caution": "No leather or heavy cloth for long-term storage.",
+   "quote": "If your pistol is to be stored for an extended period, the bore, chamber and internal working mechanism should be oiled with a high quality lubricating oil or preservative intended for firearms.",
+   "cite": "STANCE — Rev. 0 (11/21) — printed as \"115331 (11/21) Rev. 0\" — Maintenance Before Storage, p.35"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL & CHAMBER",
+   "tasks": [
+    "Properly fitted brush — remove excessive firing residue from bore and chamber",
+    "Clean the chamber thoroughly with solvent if a brand of ammunition has been extracting badly",
+    "Two of the seven lubrication points are on the barrel — one drop each",
+    "Check the bore is clear of obstructions before the pistol goes back together",
+    "Never look down the muzzle to check the bore; look through the breech end"
+   ]
+  },
+  {
+   "name": "SLIDE & BREECH FACE",
+   "tasks": [
+    "Wipe carbon from the breech face and the interior of the slide",
+    "Confirm nothing is visible through the firing pin hole — the striker must not protrude",
+    "Non-abrasive cloth on the exterior; remove fingerprints, which cause corrosion if left",
+    "Do not manipulate the extractor or striker — no procedure for either is published",
+    "Light coat of firearm oil on the metal, internal and external"
+   ]
+  },
+  {
+   "name": "FRAME & LUBRICATION MAP",
+   "tasks": [
+    "Five lower-assembly lubrication points: four chassis rail sections plus the side of the trigger bar",
+    "ONE DROP per point — excess lubricant collects unburned powder and carbon residue",
+    "Clear grit from the rails and the magazine well before oiling",
+    "No ammoniated or strong alkaline solvents on any Savage Arms firearm",
+    "No prolonged solvent immersion and no ultrasonic cleaning"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Safety glasses on; the magazine spring is under pressure",
+    "Confirm the magazine is unloaded before it is taken apart",
+    "Floor plate catch down through its hole, floor plate forward off the tube",
+    "Reinstall spring, follower and floor plate catch front to back in exactly the original orientation",
+    "Verify the floor plate is locked by trying to slide it off"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Confirm the pistol is unloaded and the bore is clear before reassembly begins.",
+  "With the bottom of the slide turned up, replace the barrel so the muzzle is flush with the end of the slide and the barrel lug faces up.",
+  "Place the outer spring on the end of the guide rod and insert the recoil guide rod spring assembly into the slide; the rear tip fits into the notch on the barrel lug.",
+  "Fit the rear portion into the ledge on the barrel and confirm the springs are NOT visible from the top at the rear of the recoil spring assembly.",
+  "With the recoil spring assembly in place and the takedown lever in the down position, place the rear of the slide onto the front frame rails.",
+  "Move the slide rearward until it engages the rear frame rails, push it to the rear and engage the slide stop.",
+  "With the slide locked back, rotate the takedown lever 90 degrees counter-clockwise to horizontal.",
+  "Once the takedown lever is horizontal, allow the slide to close — the sear is now reactivated.",
+  "Replace the empty magazine, then run the function test before the pistol is loaded or stored."
+ ],
+ "fncheck": "Complete a full function test before the pistol is loaded — Savage's own instruction is that a pistol which does not behave as described below is not safe to shoot. Unloaded, muzzle in a safe direction, magazine out: draw the slide fully rearward and confirm the slide stop rises and holds it open, then release it forward. If your pistol has a manual safety, move it to FIRE. Press the trigger and listen for the click of the striker travelling forward to the firing pin stop. Holding the trigger back, pull the slide fully rearward to re-cock and release it — the striker must NOT travel forward. Release the trigger with the slide forward and press it again; the striker should release and fall fully forward. If a manual safety is fitted, engage it and press the trigger: the trigger will move slightly but must not release the striker, and after disengaging the safety the striker must still be fully cocked. Return the safety to SAFE. Any deviation from this sequence stops the pistol going back into service."
+}

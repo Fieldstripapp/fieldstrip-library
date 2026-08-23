@@ -1,0 +1,82 @@
+{
+ "row": "rugermarkiv",
+ "make": "Ruger",
+ "model": "Mark IV",
+ "sourcedFrom": "Ruger Mark IV Instruction Manual — PM1179 (2026)",
+ "sourceSha256": "04c7ddad75433f4531d7c08bb7d4dc06aacc843121522fef7e889dfe621caaef",
+ "cleanIntro": "The Mark IV comes apart without tools — one button, a tilt, and the upper lifts off. Ruger’s manual covers Standard, Target, Hunter, Competition and both 22/45 variants.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear it, safety on",
+   "action": "Muzzle in a safe direction and fingers out of the trigger guard: drop the magazine and empty it, draw the bolt fully rearward, look into the chamber, release the bolt, then put the safety on with the white dot visible.",
+   "prose": "The white dot is the tell. If you cannot see it, the safety is not on.",
+   "quote": "Draw the bolt fully rearward and visually inspect the chamber to be certain that there is no cartridge in it and then release the bolt.",
+   "cite": "Ruger Mark IV Instruction Manual — PM1179 — Disassembly, step 1, p.21",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the take-down button",
+   "action": "Hold the barrel in one hand and the grip frame assembly in the other, and depress the take-down button just below the rear of the bolt.",
+   "prose": "No tools at all on this pistol — Ruger designed the Mark IV specifically so the old Mark III wrestling match is gone.",
+   "quote": "Holding the barrel in one hand and the grip frame assembly in the other, depress the take-down button located just below the rear of the bolt",
+   "cite": "Ruger Mark IV Instruction Manual — PM1179 — Disassembly, step 2, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Tilt the barrel down, lift the upper off",
+   "action": "With the button held in, tilt the barrel downward so it clears the bolt stop pin, then lift the barrel/receiver assembly straight up off the grip frame assembly.",
+   "prose": "Tilt first, then straight up. Lifting without the tilt binds on the bolt stop pin.",
+   "quote": "The barrel/receiver assembly can now be lifted straight up off of the grip frame assembly",
+   "cite": "Ruger Mark IV Instruction Manual — PM1179 — Disassembly, step 3, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out of the receiver",
+   "action": "Pull straight back on the bolt ears to remove the bolt from the receiver.",
+   "prose": "Straight back by the ears — that is the whole job.",
+   "quote": "Pull straight back on the bolt ears to remove the bolt from the receiver",
+   "cite": "Ruger Mark IV Instruction Manual — PM1179 — Disassembly, step 5, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "That is the end of it",
+   "action": "Grips can come off with a 3/32 inch hex wrench if you want them off, but nothing else needs to.",
+   "prose": "Ruger says so in as many words.",
+   "quote": "No further disassembly is necessary.",
+   "cite": "Ruger Mark IV Instruction Manual — PM1179 — Disassembly, step 5, p.21"
+  }
+ ],
+ "deepAbsentReason": "PM1179 closes its disassembly with \"No further disassembly is necessary.\" (p.21). Nothing past the field strip is documented, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Run a solvent-wet patch through the bore, then a correctly sized brush, then dry patches until clean",
+    "Rimfire fouling is waxy — expect more scrubbing than a centrefire bore needs"
+   ]
+  },
+  {
+   "name": "BOLT & RECEIVER",
+   "tasks": [
+    "Scrub the bolt face and the extractor recess",
+    "Wipe the receiver interior and the bolt raceways",
+    "A light film of oil on the bolt bearing surfaces, no more"
+   ]
+  },
+  {
+   "name": "GRIP FRAME",
+   "tasks": [
+    "Wipe the frame and the magazine well dry",
+    "Magazines stay dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the bolt to the receiver, ears first.",
+  "Seat the barrel/receiver assembly onto the grip frame and swing it up until the take-down button clicks home.",
+  "Work the bolt several times before handling further."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, check the safety blocks the trigger and the bolt runs freely, pointed in a safe direction."
+}

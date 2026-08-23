@@ -1,0 +1,89 @@
+{
+ "row": "coltkingcobra",
+ "make": "Colt",
+ "model": "King Cobra",
+ "sourcedFrom": "OPERATOR’S MANUAL FOR: \nColt® King Cobra™ Revolver — Rev. - (2018)",
+ "sourceSha256": "a05a7c8863d2674dfab308346e11926ec87f928e53a192b4008794ea3c4a2de1",
+ "cleanIntro": "A three-inch stainless .357 that strips no further than an open cylinder. Colt's King Cobra procedure works against the swung-out cylinder and stops there: the book states the revolver is not to be field stripped, so there is no Deep Clean path in it.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check what is actually fitted to your King Cobra",
+   "action": "Look at the front sight and the rear sight before you start, and read the cartridge designation on the barrel — this book is written for the six-shot, single/double action King Cobra in .357 Magnum with a 3.0-inch barrel and a shrouded ejector rod.",
+   "prose": "The King Cobra's front sight is interchangeable: the standard is a fiber optic, with a Tritium night sight or a brass bead as options, and it comes off with a .050\" Allen wrench through the hole above the muzzle. The rear on this model is a fixed notch cut into the upper strap — there are no adjustment screws to turn, and if your gun has an optic plate instead, its instructions are the optic maker's, not Colt's.",
+   "caution": "Colt carries a double-action-only warning in this book. A King Cobra with the hammer spur removed is DAO and must never be thumb-cocked — the spurless hammer can slip your grasp and fire the gun.",
+   "aside": "One number in this book is wrong and it is worth knowing before you quote it: the specification block prints a metric barrel figure that does not convert from its own 3.0-inch entry. Use the inch figures.",
+   "quote": "DETAILS OF THE SIGHTS FURNISHED WITH YOUR REVOLVER MAY BE DIFFERENT DEPENDING ON YOUR MODEL",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® King Cobra™ Revolver — Rev. - — Operation — Sights, p.19"
+  },
+  {
+   "phase": "Clear",
+   "title": "Hammer down, finger out, cylinder out to the left",
+   "action": "Keep your finger off the trigger and outside the guard, make sure the hammer is fully down, then pull the cylinder latch rearward and push the cylinder out to the LEFT side of the frame.",
+   "prose": "Colt's latch is pulled back, not pressed in. On a short revolver like this one your support hand is close to the muzzle as you push the cylinder out — keep it behind the muzzle, and if the cylinder will not swing, check the hammer rather than pushing harder, because the hand blocks the cylinder whenever the hammer is cocked.",
+   "quote": "Open revolver by pulling cylinder latch to the rear and pushing the cylinder out to the left of the revolver.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® King Cobra™ Revolver — Rev. - — Cleaning & Lubrication, step 3, p.17",
+   "warn": "Never force the cylinder open with the hammer cocked. Colt states this could damage the revolver mechanism."
+  },
+  {
+   "phase": "Clear",
+   "title": "Eject, then look and feel all six",
+   "action": "Raise the muzzle, push the ejector rod rearward to lift every round or empty case clear of the chambers, take them out of the gun, and let the rod return under its own spring. Then check all six chambers by eye and by finger.",
+   "prose": "The rod on a 3-inch King Cobra is short, so a full-length stroke is a short one — push it briskly and completely or a sticky case will drop back into its chamber as you tilt the gun. The rod should re-seat on its own; if it hangs, that is fouling behind the ratchet and the cleaning step for that area is the fix.",
+   "quote": "Push ejector rod rearward forcing out all live rounds or empty cartridge cases from the chambers. When they are clear of the chambers, remove from revolver.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® King Cobra™ Revolver — Rev. - — Cleaning & Lubrication, step 4, p.17",
+   "warn": "Colt's own standard: the revolver is clear only when all chambers are empty and the hammer is in the uncocked position."
+  },
+  {
+   "phase": "Strip",
+   "title": "Salt air, water, mud or sand — stop here",
+   "action": "If this King Cobra has been carried in salt air or has been in water, mud or sand, do not bench-clean it. Colt's instruction is that it goes to a competent gunsmith or back to Colt to be completely disassembled, cleaned and inspected.",
+   "prose": "This is a carry-sized stainless revolver, so salt air is the realistic case rather than a remote one — stainless resists rust, it does not ignore it. Salt and grit reach the lockwork behind the sideplate, where nothing you can do through an open cylinder will touch them.",
+   "quote": "Note: If the revolver has been used in salt air, water, mud, or sand, it should be completely disassembled, cleaned, and inspected by a competent gunsmith or returned to Colt for service.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® King Cobra™ Revolver — Rev. - — Maintenance, p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Cylinder out to the left, all six chambers empty, ejector rod seated. That is the entire strip Colt publishes for the King Cobra — the sideplate, the crane and the grips all stay on the gun.",
+   "prose": "Everything the cleaning procedure needs is now in reach: bore, six chambers, front face of the cylinder, rear face of the barrel, frame window, and the ratchet with the ejector rod pushed back. Going deeper voids the service agreement and gains nothing this procedure asks for.",
+   "quote": "IMPORTANT: DO NOT FIELD STRIP YOUR REVOLVER. IF YOU DO SO YOU WILL VOID YOUR SERVICE AGREEMENT.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® King Cobra™ Revolver — Rev. - — Cleaning & Lubrication, closing note, p.18",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Colt's King Cobra manual documents a cylinder-open clean only — thirteen numbered cleaning and lubrication steps covering the bore, the six chambers, the cylinder faces, the ratchet and the frame — and then states in the same section that the revolver is not to be field stripped, that doing so voids the service agreement, and that anything beyond it goes to a competent gunsmith or back to Colt. It publishes nothing further, so there is no deeper procedure to walk.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBERS",
+   "tasks": [
+    "Clean the bore — bore brush or patch, according to how much has been fired through it since the last clean",
+    "Clean each of the six chambers the same way, with a chamber brush or a patch",
+    "Finish with a lightly oiled patch through the bore and through every chamber, leaving a thin film"
+   ]
+  },
+  {
+   "name": "CYLINDER FACES, RATCHET & FRAME",
+   "tasks": [
+    "Small brush and a little cleaning solution on the front face of the cylinder, the rear face of the barrel and the frame — the gap ring builds fastest on a short barrel that gets carried and shot in short strings",
+    "Clean the rear face of the cylinder and the ratchet, then push the ejector rod rearward and clean behind the ratchet",
+    "Wipe all cleaning solution off before any oil goes on"
+   ]
+  },
+  {
+   "name": "OIL & WIPE DOWN",
+   "tasks": [
+    "If the internals need it, cock the hammer and put a few drops of oil in — Colt's conditional, not a routine step",
+    "Wipe every external surface with a cloth lightly moistened with gun oil; on a carry gun do this after every handling session, not only after firing",
+    "Dry-patch the bore and each chamber before firing again",
+    "If your King Cobra carries a decorative finish, keep solvents, thinners and gun-cleaning products off it — Colt specifies a soft cloth damp with water for that surface"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Hammer down, push the cylinder into the frame until the cylinder latch moves forward into its closed position — press it home, never swing or slam it.",
+  "Rotate the closed cylinder until the bolt drops into a notch, so you know it is locked and indexed.",
+  "Dry-patch the bore and chambers before carrying or firing — oil left in a chamber raises pressure and backs the case hard against the recoil shield."
+ ],
+ "fncheck": "With every chamber confirmed empty and the hammer down: the cylinder latch should return fully forward on its own and the cylinder should stay shut until the latch is pulled rearward; rotating the closed cylinder should end with the bolt dropping into a notch; the cylinder should refuse to open or close with the hammer cocked; and at rest there should be a gap between hammer and firing pin, because the transfer bar rises only while the trigger is held back."
+}

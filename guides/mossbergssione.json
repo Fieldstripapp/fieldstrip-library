@@ -1,0 +1,71 @@
+{
+ "row": "mossbergssione",
+ "make": "Mossberg",
+ "model": "SSi-One",
+ "sourcedFrom": "SSi-ONE® SINGLE SHOT BREAK ACTION INTERCHANGEABLE RIFLE/SHOTGUN — Mossberg — SSi-ONE owner's manual (not printed)",
+ "sourceSha256": "8ad3b1a651982e77bfe01fb8f0a23851f8dd730115581c362d11ecbe0adf1dc7",
+ "cleanIntro": "The SSi-One is a single-shot break action built to swap between rifle and shotgun barrels, and its forearm is SCREWED to the barrel — you need a 5/32\" hex wrench before you start, which catches people who expect a latch. Otherwise it is the simplest gun in the catalog to clean: one chamber, one bore, three pieces.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Prove the single chamber empty, by eye and finger",
+   "action": "Open the action and check the one chamber. A single shot gives you one place to look and no excuse for not looking.",
+   "quote": "Learn to clean your firearm thoroughly and make certain no oil, grease, or other materials are blocking the barrel.",
+   "cite": "SSi-ONE® SINGLE SHOT BREAK ACTION INTERCHANGEABLE RIFLE/SHOTGUN — Mossberg — SSi-ONE owner's manual — front matter"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ 5/32\" hex wrench — the forearm is SCREWED on",
+   "action": "Using the 5/32\" hex wrench supplied with the gun, turn the forearm screw counterclockwise until it is free, then pull the forearm off the barrel with your free hand. There is no latch and no button on this gun; looking for one is how people lever at a screwed joint.",
+   "quote": "Using the 5/32\" hex wrench provided, disassemble the forearm from the barrel by removing the forearm screw.",
+   "cite": "SSi-ONE® SINGLE SHOT BREAK ACTION INTERCHANGEABLE RIFLE/SHOTGUN — Mossberg — SSi-ONE owner's manual — ASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forearm, barrel and screw set aside together",
+   "action": "Keep the forearm screw with the forearm — it is a small part on a gun whose whole design is swapping barrels, and it is the piece that goes missing.",
+   "quote": "Put the barrel, forearm and forearm screw aside for later use.",
+   "cite": "SSi-ONE® SINGLE SHOT BREAK ACTION INTERCHANGEABLE RIFLE/SHOTGUN — Mossberg — SSi-ONE owner's manual — ASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Barrel, forearm, receiver and stock. Anything deeper is a gunsmith's work and the book puts correct reassembly on the owner.",
+   "quote": "The firearm's owner is responsible for the correct reassembly and functioning of the firearm after any disassembly or replacement of parts.",
+   "cite": "SSi-ONE® SINGLE SHOT BREAK ACTION INTERCHANGEABLE RIFLE/SHOTGUN — Mossberg — SSi-ONE owner's manual — front matter"
+  }
+ ],
+ "deepAbsentReason": "The SSi-One book publishes barrel and forearm removal and cleaning, and nothing deeper. ⛔ No further path is invented for it.",
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Solvent and brush, patches until the barrel is clean",
+    "A final lightly oiled patch as a protective film",
+    "⛔ Remove any deposits — and leave no patch behind",
+    "Do the same for every barrel you own for the gun"
+   ],
+   "quote": "Scrub the bore and chamber with solvent and follow with cleaning patches until the barrel is clean.",
+   "src": "SSi-ONE® SINGLE SHOT BREAK ACTION INTERCHANGEABLE RIFLE/SHOTGUN — Mossberg, CLEANING AND LUBRICATION"
+  },
+  {
+   "name": "METAL — lightly, and the right lubricant",
+   "tasks": [
+    "Solvent on the metal, then a light film of gun oil",
+    "Over-lubrication avoided",
+    "Firearm-specific lubricants only",
+    "No abrasives near the finish"
+   ],
+   "quote": "All metal parts should be cleaned with an appropriate gun cleaning solvent and lightly lubricated with gun oil.",
+   "src": "SSi-ONE® SINGLE SHOT BREAK ACTION INTERCHANGEABLE RIFLE/SHOTGUN — Mossberg, CLEANING AND LUBRICATION"
+  }
+ ],
+ "reassembly": [
+  "Bore checked clear of patches and oil.",
+  "Barrel onto the receiver hinge, closed and locked.",
+  "Forearm onto the barrel, forearm screw in with the 5/32\" hex wrench.",
+  "⛔ Snug, not forced — it is a screw into a light forearm.",
+  "Open and close a few times, then function test."
+ ],
+ "fncheck": "Chamber proven empty. Open and close the action several times for free movement. ⛔ On a gun with interchangeable barrels, check the barrel is fully locked before every session — and confirm the chambering marked on the barrel matches the ammunition in your hand, which on this gun is not a rhetorical instruction."
+}

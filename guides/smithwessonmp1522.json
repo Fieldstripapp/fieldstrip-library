@@ -1,0 +1,143 @@
+{
+ "row": "smithwessonmp1522",
+ "make": "Smith & Wesson",
+ "model": "M&P15-22",
+ "sourcedFrom": "Safety & Instruction Manual For\nM&P®15-22 Rifle — p/n 3005746 REV:M&P15-22_RIFLE_013025 (Copyright 2025 Smith & Wesson Inc. All rights reserved.)",
+ "sourceSha256": "8c95e329da2461aebd22d65bfc66e71136d0a3f03e04fa9f29d90cf97a8d89b6",
+ "cleanIntro": "The M&P15-22 field strips in three movements: bolt forward, takedown pin out, lower pivoted down, and the bolt with its charging handle comes out of the upper. It is an AR-pattern rifle on the outside and a blowback .22 inside, and the cleaning it needs reflects the second of those.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Performance Center rifles: never CCI Stinger",
+   "action": "Look at the receiver below the ejection port. If it is marked PERFORMANCE CENTER, never use CCI 22 LR Stinger brand ammunition in it — that rifle has a 22 LR semi-auto match grade chamber which does not accommodate the Stinger's longer case. On a standard M&P15-22, without that marking, CCI Stinger can be used. Note the model name and serial number on the receiver at the same time; Smith & Wesson asks owners to record the serial number before shipping a firearm in for service.",
+   "prose": "This is the one restriction on this rifle that turns on a marking rather than on the model name, and it exists because the match chamber is cut to minimum dimensions. A Stinger case is longer than standard 22 LR, so it does not fully enter the match chamber — the round is then fired with the case mouth pinched, which raises pressure in a blowback action that has no locking to contain it.",
+   "quote": "THE PERFORMANCE CENTER® M&P®15-22 RIFLE IS EQUIPPED WITH A 22 LR SEMI-AUTO MATCH GRADE CHAMBER WHICH DOES NOT ACCOMMODATE CCI® 22 LR STINGER® BRAND AMMUNITION.",
+   "cite": "Safety & Instruction Manual For\nM&P®15-22 Rifle — p/n 3005746 REV:M&P15-22_RIFLE_013025 — Ammunition, WARNING, p.10",
+   "warn": "NEVER USE CCI 22 LR STINGER BRAND AMMUNITION IN YOUR PERFORMANCE CENTER M&P15-22 RIFLE. The Performance Center rifle is identified by the marking PERFORMANCE CENTER below the ejection port."
+  },
+  {
+   "phase": "Clear",
+   "title": "This is the rifle-format book — do not build a hybrid",
+   "action": "Confirm you are working on the rifle-format M&P15-22. The same model is also sold in a pistol format, and you must not place a pistol upper on a rifle lower receiver unless all NFA and State regulations are first complied with. Equally, fitting a barrel under 16 inches to this rifle will subject it to classification under the National Firearms Act.",
+   "prose": "A cleaning session is precisely when two uppers are off two lowers on the same bench and get swapped back wrongly, which is why this belongs at the front of the walk rather than in the warranty pages. The receivers are the same pattern and will pin together happily; the law is what does not.",
+   "caution": "Changes to the configuration of the M&P15-22 Rifle by the end-user, including but not limited to, the addition of a barrel less than 16 inches in length will subject the firearm to classification under the National Firearms Act.",
+   "quote": "NOTE: The M&P®15-22 is available in both rifle and pistol formats. Since State and Federal licensing requirements are different for rifles and pistols, you must not place a pistol upper on a rifle lower receiver unless all NFA and State regulations are first complied with.",
+   "cite": "Safety & Instruction Manual For\nM&P®15-22 Rifle — p/n 3005746 REV:M&P15-22_RIFLE_013025 — Front matter NOTE, p.2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, rifle confirmed unloaded, bolt forward",
+   "action": "Point the muzzle in a safe direction with your finger off the trigger. Remove the magazine and confirm the rifle is not loaded so it will not fire, then push the top of the bolt release to be sure the bolt is in the forward position.",
+   "prose": "Bolt forward is a takedown requirement rather than a safety habit here: with the bolt held back the carrier fouls the upper as the receivers hinge apart. Check the chamber before you let the bolt run home, because that is your last look into it — and a .22 case that failed to eject will be sitting exactly where the bolt is about to go.",
+   "quote": "Push the top of the bolt release to ensure that the bolt is in the forward position (FIGURE 47).",
+   "cite": "Safety & Instruction Manual For\nM&P®15-22 Rifle — p/n 3005746 REV:M&P15-22_RIFLE_013025 — Disassembly / Field Stripping, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin in from the left, out on the right to its stop",
+   "action": "Push the takedown pin in from the left side of the lower receiver — it sits above and behind the trigger — and pull it out on the right side until it comes to a positive stop.",
+   "prose": "The pin is captive and stops rather than coming free; once you feel the stop, stop pulling, because going further is what damages the detent that holds it. On a polymer-and-alloy .22 receiver that detent is not something you want to be replacing.",
+   "quote": "Push in the take down pin (above and behind the trigger) from left of lower receiver and pull the pin out on the right of the receiver until it comes to a positive stop (FIGURES 48 and 49).",
+   "cite": "Safety & Instruction Manual For\nM&P®15-22 Rifle — p/n 3005746 REV:M&P15-22_RIFLE_013025 — Disassembly / Field Stripping, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pivot the lower down and away",
+   "action": "Pivot the lower receiver down and away from the upper receiver. Expect some initial resistance as the two separate.",
+   "prose": "That resistance is normal and the manual says so — the receivers are a close fit and there is a spring-loaded buffer plunger bearing on the bolt. Pivot rather than prise, and never dry fire the rifle while it is disassembled; damage to the firearm may result.",
+   "caution": "Never dry fire the rifle when it is disassembled. Damage to the firearm may result.",
+   "quote": "Pivot lower receiver down and away from upper receiver (FIGURE 50).",
+   "cite": "Safety & Instruction Manual For\nM&P®15-22 Rifle — p/n 3005746 REV:M&P15-22_RIFLE_013025 — Disassembly / Field Stripping, p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle back, bolt assembly out",
+   "action": "Pull the charging handle to the rear and remove the bolt assembly, which comes out with the charging handle attached to it.",
+   "prose": "On a real AR the charging handle and the carrier are separate parts that come out in two movements; here the charging handle is assembled onto the bolt and the pair leave together, so do not go hunting for a second release. That is also why reassembly has an order to it — the handle has to be partly into its slot before the bolt will start into the receiver.",
+   "quote": "Pull the charging handle to rear and remove bolt assembly (FIGURE 51) which includes the charging handle.",
+   "cite": "Safety & Instruction Manual For\nM&P®15-22 Rifle — p/n 3005746 REV:M&P15-22_RIFLE_013025 — Disassembly / Field Stripping, p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper receiver with its barrel, lower receiver, and the bolt assembly with its charging handle — that is the M&P15-22 field stripped, and as far as Smith & Wesson takes it. Deep Clean covers the magazine, which the manual documents on its own and which not every M&P15-22 magazine can do.",
+   "prose": "There is no bolt strip on this rifle: unlike the M&P10, this manual publishes nothing about taking the bolt apart, so the bolt is cleaned as an assembly.",
+   "quote": "NEVER DISASSEMBLE YOUR FIREARM BEYOND THE DISASSEMBLY/FIELD STRIPPING PROCEDURE DETAILED IN THIS MANUAL, OR PERFORM ANY MAINTENANCE, ADJUSTMENT, OR SERVICE NOT SPECIFIED.",
+   "cite": "Safety & Instruction Manual For\nM&P®15-22 Rifle — p/n 3005746 REV:M&P15-22_RIFLE_013025 — Disassembly / Field Stripping, WARNING, p.24",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Check first whether your magazine comes apart at all",
+   "action": "Look at your magazine before you try to open it. Magazines with a blue follower and no loading assist button do not come apart and must be cleaned without disassembling. Only the type with the loading assist button is meant to be stripped.",
+   "prose": "This is the step that saves a broken magazine. The two types look near enough identical from a distance, and the sealed one has no floor plate catch to press — so anyone who assumes there is one ends up levering at a floor plate that was never designed to leave. Clean a sealed magazine by flushing and drying it instead.",
+   "quote": "NOTE: Magazines with a blue follower and no loading assist button do not come apart. They must be cleaned without disassembling.",
+   "cite": "Safety & Instruction Manual For\nM&P®15-22 Rifle — p/n 3005746 REV:M&P15-22_RIFLE_013025 — Magazine Disassembly, NOTE, p.29",
+   "warn": "The magazine spring is under pressure. Control the spring and the floor plate retainer so that they do not fly out and cause injury."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Depress the floor plate catch and slide the plate off",
+   "action": "On a magazine with the loading assist button: with it empty, use a pointed object such as a pen tip to depress the floor plate catch through the hole in the floor plate, press and hold the catch down, then slide the floor plate off the tube.",
+   "prose": "Hold the catch down for the whole travel of the plate — release it partway and the catch jams against the plate, and pushing harder from there just bends it. Keep the magazine pointed away from your face; a 25-round .22 magazine holds a long spring.",
+   "quote": "Press and hold the floor plate catch down (FIGURE 67), then slide floor plate off of the tube (FIGURE 68).",
+   "cite": "Safety & Instruction Manual For\nM&P®15-22 Rifle — p/n 3005746 REV:M&P15-22_RIFLE_013025 — Magazine Disassembly, p.29"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Catch, spring and follower out of the bottom",
+   "action": "Control the spring and the floor plate retainer as the plate comes clear, then take the floor plate catch, the spring and the follower out through the bottom of the magazine tube.",
+   "prose": "Note the follower's orientation and where the loading assist button sits in it before anything is set down — the button goes back through the tube into the follower and is what captures it. Clean the inside of the tube while it is open: .22 rimfire lubricant and residue build up there faster than in any centrefire magazine, and that is what makes a 15-22 magazine start short-stroking near the top of the stack.",
+   "quote": "Remove floor plate catch, the spring and the follower out through bottom of the magazine tube.",
+   "cite": "Safety & Instruction Manual For\nM&P®15-22 Rifle — p/n 3005746 REV:M&P15-22_RIFLE_013025 — Magazine Disassembly, p.29"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Remove excessive firing residue from the bore and chamber with a properly fitted brass brush dipped in gun cleaning solvent",
+    "Finish by running a dry cotton cloth patch through the bore to remove residue and solvent",
+    "Clean the chamber mouth and feed ramp — rimfire wax and lead build here faster than anywhere else on the rifle",
+    "On a Performance Center match chamber, keep it especially clean: a tight chamber tolerates fouling far less than a standard one"
+   ]
+  },
+  {
+   "name": "BOLT AND UPPER RECEIVER",
+   "tasks": [
+    "Clean the bolt assembly as a unit — this manual publishes no bolt disassembly",
+    "Clean the bolt face, the extractor and around the firing pin without prying at either",
+    "Clean the bolt raceways inside the upper receiver and the ejection port",
+    "Clean the charging handle and its slot"
+   ]
+  },
+  {
+   "name": "LOWER RECEIVER AND MAGAZINE",
+   "tasks": [
+    "Clean the magazine well, the trigger group area and the buffer plunger recess",
+    "Wipe the magazine tube, the feed lips and the loading assist button slot",
+    "If the magazine has been apart, clean inside the tube and the follower before reassembly",
+    "Clean the exterior with a non-abrasive cleaning cloth and remove all solution, oil and fingerprints"
+   ]
+  },
+  {
+   "name": "LUBRICATION",
+   "tasks": [
+    "Lubricate metal parts by wiping them with a cloth dampened with a high quality gun oil, then remove the excess",
+    "Leave a light film of oil on all metal parts of the rifle, inside and out",
+    "Avoid prolonged solvent immersion and prolonged ultrasonic cleaning",
+    "Never use ammoniated or other strong alkaline solvents on this rifle"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Assemble the charging handle onto the bolt before the bolt goes back into the upper receiver.",
+  "Orient the bolt correctly and start the charging handle partly into its slot in the upper receiver before sliding the bolt in.",
+  "Push the bolt assembly forward into the upper receiver so it clears the lower receiver and the two will close, then pivot the lower up.",
+  "Push the takedown pin back into place from the right until it is home.",
+  "Magazine: follower and loading assist button in and aligned, spring started onto the follower, then the floor plate catch held down while the floor plate is slid on until its round projection locks."
+ ],
+ "fncheck": "With the rifle empty and pointed in a safe direction, check the takedown pin is pushed fully home and the receivers close with no gap. Cycle the charging handle several times and confirm the bolt runs fully forward into battery and that the bolt catch holds it open on an empty magazine and releases cleanly. Check the safety selector rotates positively between SAFE and FIRE with the hammer cocked. Then seat an empty magazine, confirm it latches and drops free, and confirm the bore is clear of obstructions before the rifle goes back into use."
+}

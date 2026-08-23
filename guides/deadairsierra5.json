@@ -1,0 +1,168 @@
+{
+ "row": "deadairsierra5",
+ "make": "Dead Air",
+ "model": "Sierra-5",
+ "sourcedFrom": "SIERRA-5  OWNERS MANUAL — Rev121323 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "cd7d636eee664f0f0cdca1b53e3db66c0903e64e5b8664ece8cb784fa8dc0fb3",
+ "cleanIntro": "A 5.35 inch 5.56 can in 17-4 stainless and Cobalt 6, shipped as a SIERRA-5 KM on a KeyMo adapter or a SIERRA-5 XM on a Xeno adapter. What comes apart is the rear adapter and the front cap; the baffle stack does not. This manual also carries a pin-and-weld procedure that exists in no other Dead Air book in the set — read the step below before you assume it applies to your barrel.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host, and read the host's manual",
+   "action": "Magazine out, bolt locked back, chamber checked by eye and finger before the can is touched. Dead Air then sends you to the operator's manual for your own rifle for the clearing procedure itself, and forbids fitting or removing a suppressor on a closed action.",
+   "prose": "A 5.56 host with a closed action is the exact case this warning exists for. Lock it open before the can goes anywhere near it.",
+   "quote": "CHECK YOUR WEAPON'S CHAMBER AND MAKE CERTAIN THAT THE WEAPON IS UNLOADED AND THE MAGAZINE REMOVED BEFORE PROCEEDING ANY FURTHER. IF THERE IS ANY QUESTION OR DOUBT, CONSULT THE OPERATOR'S MANUAL APPLICABLE TO YOUR FIREARM AS TO THE PROPER PROCEDURE FOR CLEARING AND/ORUNLOADING YOUR WEAPON. DO NOT INSTALL YOUR NEW SUPPRESSOR ON A FIREARM WITH A CLOSED ACTION!",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Product Overview — General Considerations, p.5",
+   "warn": "Never mount or unmount on a closed action."
+  },
+  {
+   "phase": "Clear",
+   "title": "SIERRA-5 ceiling — 22 Creedmoor",
+   "action": "Confirm the host cartridge. The SIERRA-5's published pressure ceiling is 22 Creedmoor unless the tube or the packaging says otherwise for your specific unit, and the engraving on your can overrides any general statement.",
+   "prose": "It is optimised for 5.56x45. The 22 Creedmoor figure is the ceiling, not the design point.",
+   "quote": "OUR PRODUCTS ARE CALIBER SPECIFIC. UNLESS STATED OTHERWISE ON THE SUPPRESSOR ITSELF OR ON THE PACKAGING, THE SIERRA-5 SUPPRESSOR WILL NOT FUNCTION SAFELY WITH ANY CARTRIDGE WITH PRESSURES HIGHER THAN 22 CREEDMOOR. USE OF YOUR SUPPRESSOR OUTSIDE OF ITS INTENDED SCOPE COULD RESULT IN DAMAGE TO YOUR FIREARM, DAMAGE TO PROPERTY, BODILY INJURY, OR DEATH.",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Installation and Removal, Step One, p.9",
+   "warn": "Ceiling: 22 Creedmoor pressure."
+  },
+  {
+   "phase": "Strip",
+   "title": "The barrel must have a shoulder or a square face",
+   "action": "Check the muzzle before the can goes on or comes off. The SIERRA-5 needs a proper shoulder for the adapter to seat against, or a muzzle face aligned and square to the bore — on a long thread the can seats on the muzzle face and the back of the direct thread adapter may never touch the shoulder at all.",
+   "prose": "Concentricity is the whole game on a 5.56 can with this little internal clearance. An unsquare face aims the bullet at the baffles.",
+   "caution": "No square shoulder or muzzle face means the can does not go on that barrel.",
+   "quote": "DO NOT thread onto barrels that don't have a proper shoulder or muzzle face that is aligned and square with the bore.",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Installation and Removal, Step One, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel torque ceiling — 30 ft-lbs",
+   "action": "When a Key-Mount or Xeno muzzle device or a direct thread adapter is torqued onto the barrel, hold it at 25 ft-lbs plus or minus 5 and never take it past 30. That interface is what the whole suppressor indexes off; deforming it costs return to zero, not just torque.",
+   "prose": "The suppressor body onto the mount is hand tight, with the hook spanners for a little extra only.",
+   "quote": "Barrel Torque for both Key-Mount and Xeno muzzle devices and Direct Thread Adapters shall not exceed 30 ft-lbs. A target of 25 +/- 5 ft-lbs. is optimal.",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Installation and Removal, Step Two, p.10",
+   "warn": "30 ft-lbs is a hard ceiling."
+  },
+  {
+   "phase": "Strip",
+   "title": "Know your thread hand before you turn",
+   "action": "Identify which adapter is in the back of your can and which way its thread runs. Dead Air warns that some threads on this system are left-handed and turn the opposite way to habit, so the direct thread removal below reverses. Load the joint lightly first and feel whether it is releasing or tightening.",
+   "prose": "A Xeno adapter in particular is not a conventional right-hand joint. Assuming it is, is how a mount gets galled.",
+   "quote": "Be aware of the barrel thread on your barrel and ensure the matching Direct Thread Adapter is properly installed in the suppressor. Note that some threads are left-handed, meaning they turn the opposite direction than what you may be used to.",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Installation and Removal, Step Two, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the SIERRA-5 off the muzzle",
+   "action": "On a direct thread adapter, rotate the body counter-clockwise until it starts to unthread, or clockwise if the thread is left-handed. On the KeyMo adapter it is different: rotate the body counter-clockwise about three quarters of a turn until it stops, then slip it off the brake or flash hider.",
+   "prose": "The KeyMo stops rather than keeps unwinding — that stop is the mount telling you it has released, and it is ready to remount from there.",
+   "quote": "To remove the suppressor when the Direct Thread Adapter is installed, simply rotate the body of the suppressor counter-clockwise until it begins to unthread from the muzzle of the host weapon. If the thread is left-handed, then unscrew by rotating clockwise.",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Installation and Removal, Step Three, p.11",
+   "warn": "THE SUPPRESSOR MAY BECOME EXTREMELY HOT AFTER USE. Never grab a hot one."
+  },
+  {
+   "phase": "Strip",
+   "title": "Pin and weld is a 1/2-28 procedure only",
+   "action": "Do not read the pin-and-weld section as a general permission. Dead Air designed that procedure around a 1/2-28 threaded host barrel and an LT301 1/2-28 direct thread mount torqued to 25 ft-lbs — it is a permanent attachment, and it is defined for that one thread pitch on this one model. A different pitch, or a different Dead Air can, is not covered by it.",
+   "prose": "It is also irreversible: the pin is welded to the mount and then a second pin welds the SIERRA-5 to the mount. Nothing about it is a field-strip step.",
+   "aside": "Quoted short because the manual's own printed thread pitch does not survive text extraction; the pitch it names is 1/2-28.",
+   "quote": "The SIERRA-5 was designed to facilitate the process of pinning and welding the suppressor onto a",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Pinning and Welding SIERRA-5 to Host Firearm, p.12",
+   "warn": "Pin and weld is permanent and is gunsmith work, not owner maintenance."
+  },
+  {
+   "phase": "Clean",
+   "title": "Threads and tapers, then check for gaps",
+   "action": "Clean the rear threads, the taper the adapter seats on and the front cap interface, then re-grease. Everything should end up snug with no gaps and no rattle; a joint that will not close is telling you about damage or debris, not about how hard you are turning it.",
+   "prose": "Debris on a taper is what allows a projectile strike on a baffle or the front cap. That is the manual's own reasoning, not an inference.",
+   "quote": "NOTE: DEBRIS ON THE THREADS AND TAPER SURFACES MAY CAUSE MISALIGNMENT OF SUPPRESSOR PARTS AND ALLOW FOR PROJECTILE STRIKES ON BAFFLES OR THE FRONT CAP.",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Inspection Upon Assembly, p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The SIERRA-5 is off the host with its adapter accounted for. That is the routine strip Dead Air publishes for this can. Deep Clean goes into the adapter swap and the front cap removal, which are the only component-level operations documented — the 17-4 stainless and Cobalt 6 baffle stack is not user-serviceable.",
+   "prose": "The habit that actually keeps this can right is re-checking tightness; a direct thread mount loosens with use and barrel thread quality decides how fast.",
+   "quote": "We recommend checking tightness often. All direct thread suppressors will loosen with use and are very dependent on the quality of the barrel threading.",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Installation and Removal, Step One, p.9",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Adapter out of the back",
+   "action": "Hook one spanner on the mount and one on the suppressor so the mount turns counter-clockwise and the suppressor clockwise, with an inch or two between the handles. Squeeze them together, keep loosening, and draw the mount out of the rear of the can. Clean the threads before the replacement goes in.",
+   "prose": "The moment the joint breaks the two handles rush together — that gap is a pinch point, and fingers do not belong in it.",
+   "quote": "STEP TWO: Continue loosening mount and remove from back of suppressor. Clean threads and follow instructions for Mount Installation for the new mount.",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Adapter Removal, Step Two, p.7",
+   "warn": "WHEN THE TORQUE BREAKS BETWEEN THE TWO PARTS, THE WRENCHES MAY SWING ENOUGH TO CREATE A PINCH POINT."
+  },
+  {
+   "phase": "Strip",
+   "title": "A seized adapter may need heat",
+   "action": "If two spanners will not free it, Dead Air's published answer is to heat the suppressor to loosen the threads. That converts the job into hot-part handling: gloves on before the wrenches go back on, and expect surface heat long after the joint has broken.",
+   "prose": "The upstream fix is a medium strength, high temperature thread locker on degreased threads, so heat cycling stops welding the mount in.",
+   "quote": "YOU MAY NEED TO HEAT THE SUPPRESSOR UP TO LOOSEN THE THREADS. PAY SPECIAL ATTENTION TO THE HEATED SURFACES TO AVOID BURNS!",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Adapter Removal, p.7",
+   "warn": "Heated surfaces burn."
+  },
+  {
+   "phase": "Strip",
+   "title": "Front cap off with the DA208 tool",
+   "action": "Set the pins of the Sandman Front Cap Tool into the holes in the front cap with the tool flat and every pin fully engaged, then apply counter-clockwise torque to loosen. A tool that rocks loads one pin and swages the hole out, and a rounded hole is a cap that never comes off again.",
+   "prose": "The tool is a separate purchase, and it is the only thing that belongs in those holes.",
+   "quote": "Ensure tool is flat against the front cap with the pins evenly and fully engaged and apply torque Counter-Clockwise to loosen and remove.",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Front Cap Installation, Step One, p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "Adapter back in — bottom it on the rear face",
+   "action": "Grease the chosen adapter's threads and run it in until it bottoms out on the rear suppressor face. That contact is the stop. Then set the spanners so the mount turns clockwise and the suppressor counter-clockwise and squeeze them together to snug it.",
+   "prose": "The Sierra-5 ships with either a KeyMo or a Xeno adapter; both go into the same socket the same way.",
+   "quote": "Thread the adapter into the suppressor until it bottoms out on the rear suppressor face.",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Adapter Installation, Step Two, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Front cap back on — grease, hand tight",
+   "action": "Clean the threads and the taper, apply high quality grease to those surfaces, and install the cap hand tight. The taper locates and seals it; extra torque buys nothing and risks the pin holes on the next removal.",
+   "prose": "Then check the whole assembly for gaps and rattle before it goes near a muzzle.",
+   "quote": "STEP TWO: Clean threads and taper. Apply high quality grease to the surfaces and install new cap and hand tighten.",
+   "cite": "SIERRA-5  OWNERS MANUAL — Rev121323 — Front Cap Installation, Step Two, p.8"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "REAR THREADS & ADAPTER",
+   "tasks": [
+    "Clean carbon off the rear threads and the internal taper",
+    "Coat the adapter threads with a high-quality grease before refitting",
+    "Where heat cycling keeps loosening the mount, degrease instead and use a medium strength, high temperature thread locker",
+    "Bottom the adapter on the rear suppressor face"
+   ]
+  },
+  {
+   "name": "FRONT CAP",
+   "tasks": [
+    "Clean the cap threads and the taper behind them",
+    "Grease both surfaces and hand tighten only",
+    "Check the tool pin holes for rounding before reusing the DA208 on them"
+   ]
+  },
+  {
+   "name": "BARREL INTERFACE",
+   "tasks": [
+    "Confirm the muzzle shoulder or face is still square to the bore",
+    "Torque the muzzle device or direct thread adapter to 25 +/- 5 ft-lbs, ceiling 30",
+    "Re-check tightness often — a direct thread can loosens with use"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Grease the adapter threads and thread the adapter into the suppressor until it bottoms out on the rear suppressor face.",
+  "Set the hook spanners so the mount turns clockwise and the suppressor counter-clockwise, and squeeze them together to snug it.",
+  "Grease the front cap threads and taper and install the cap hand tight with the DA208 tool.",
+  "Confirm every component is snug with no gaps or rattling before the can is mounted."
+ ],
+ "fncheck": "With the SIERRA-5 mounted, confirm it sits straight to the bore centreline and is not canted, and that it does not wobble on the mount. On a KeyMo, confirm it turned to its stop rather than being left part way. Anything loose, or any doubt about alignment, and it does not get fired."
+}

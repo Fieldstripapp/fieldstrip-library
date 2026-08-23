@@ -1,0 +1,84 @@
+{
+ "row": "weatherbypa08",
+ "make": "Weatherby",
+ "model": "PA-08",
+ "sourcedFrom": "PA-08 PUMP ACTION SHOTGUN — Weatherby owner's manual — PA-08 owner's manual (not printed)",
+ "sourceSha256": "e9d17ff0248efee7660deb990648f40ea7e7db02f0e03af40ed30df3464d1014",
+ "cleanIntro": "The PA-08 is Weatherby's pump, and it strips like one: the forearm closes the bolt, the magazine cap comes off, and the barrel goes forward until its tang clears the receiver ring. The trigger assembly comes out with the hammer cocked, which on a pump means running the forearm back and forward first.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, fingers out of the trigger guard — the whole time",
+   "action": "Weatherby repeats this at the head of every disassembly section in every one of its books, and it is the instruction people skip because it sounds generic. It is not: the next step involves working a bolt on a gun you have not yet proven empty.",
+   "quote": "Keep the muzzle of the shotgun pointed in a safe direction, and keep your fingers out of the trigger guard and away from the trigger at all times.",
+   "cite": "PA-08 PUMP ACTION SHOTGUN — Weatherby owner's manual — PA-08 owner's manual — DISASSEMBLY INSTRUCTIONS"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Close the bolt with the FOREARM, not a button",
+   "action": "Move the forearm forward to close the bolt. There is no bolt release button in this step — it is a pump, and the forearm is the control.",
+   "quote": "Close the bolt by moving the forearm forward.",
+   "cite": "PA-08 PUMP ACTION SHOTGUN — Weatherby owner's manual — PA-08 owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine cap counter-clockwise",
+   "action": "Unscrew the magazine cap counter-clockwise until it detaches easily.",
+   "quote": "Unscrew the magazine cap by turning it in a counter clock-wise direction until easily detached.",
+   "cite": "PA-08 PUMP ACTION SHOTGUN — Weatherby owner's manual — PA-08 owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel forward until the TANG clears the receiver ring",
+   "action": "Grasp the barrel firmly and push it forward toward the muzzle until the barrel tang is clear of the receiver ring. Tang and ring — that is the pump's interface, and it is not the autoloaders' shroud.",
+   "quote": "Remove the barrel by grasping firmly and pushing forward (in the direction of the muzzle) until the barrel tang is clear of the receiver ring.",
+   "cite": "PA-08 PUMP ACTION SHOTGUN — Weatherby owner's manual — PA-08 owner's manual — DISASSEMBLY OF BARREL FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hammer cocked — run the forend back then forward",
+   "action": "On a pump you cock the hammer by pulling the forend rearward then forward. Do that, set the safety to SAFE, and only then take the trigger assembly out.",
+   "quote": "This is achieved by pulling the forend rearward then forward",
+   "cite": "PA-08 PUMP ACTION SHOTGUN — Weatherby owner's manual — PA-08 owner's manual — DISASSEMBLY OF TRIGGER ASSEMBLY FROM RECEIVER"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Hammer COCKED before the trigger group comes out",
+   "action": "Pull the bolt to the rear and release it so the hammer is cocked, and set the safety to SAFE. A trigger group taken out with the hammer down fights you going back in, and one whose trigger is pulled while it is out of the receiver lets the hammer fall on nothing.",
+   "quote": "Have the safety in the “ON” (“SAFE”) position while cleaning the trigger assembly. Do not pull the trigger while the trigger assembly is outside of the receiver.",
+   "cite": "PA-08 PUMP ACTION SHOTGUN — Weatherby owner's manual — PA-08 owner's manual — DISASSEMBLY OF TRIGGER ASSEMBLY FROM RECEIVER"
+  }
+ ],
+ "deepAbsentReason": "Weatherby publishes barrel and trigger assembly for the PA-08 and stops there. ⛔ No deeper path is invented.",
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER AND CHOKES",
+   "tasks": [
+    "Solvent and brush through bore and chamber, patches until clean",
+    "A final lightly oiled patch as a protective film",
+    "Chokes out, threads and seats cleaned before they go back",
+    "⛔ Nothing left in the bore — a patch is an obstruction"
+   ],
+   "quote": "Keep the muzzle of the shotgun pointed in a safe direction, and keep your fingers out of the trigger guard and away from the trigger at all times.",
+   "src": "PA-08 owner's manual, DISASSEMBLY INSTRUCTIONS"
+  },
+  {
+   "name": "TRIGGER GROUP — dry, and with the safety ON",
+   "tasks": [
+    "Safety ON while the group is out and being cleaned",
+    "⛔ Never pull the trigger while the group is outside the receiver",
+    "Solvent on a brush, then blow or wipe dry — do not soak it",
+    "A trace of oil only where metal slides on metal"
+   ],
+   "quote": "Have the safety in the “ON” (“SAFE”) position while cleaning the trigger assembly. Do not pull the trigger while the trigger assembly is outside of the receiver.",
+   "src": "PA-08 owner's manual, DISASSEMBLY OF TRIGGER ASSEMBLY FROM RECEIVER"
+  }
+ ],
+ "reassembly": [
+  "Safety ON, hammer cocked, trigger assembly back in.",
+  "Barrel back until the tang seats in the receiver ring.",
+  "Forearm and magazine cap on, finger tight.",
+  "Cycle the action several times, then function test."
+ ],
+ "fncheck": "Prove it empty at chamber and magazine tube. Work the action several times for free travel and a clean lock-up. Safety ON, trigger: nothing. Safety off, finger clear: nothing on its own; then the trigger drops the hammer. ⛔ Confirm the barrel tang is fully seated in the receiver ring before the gun is loaded."
+}

@@ -1,0 +1,176 @@
+{
+ "row": "keltecsu16",
+ "make": "Kel-Tec",
+ "model": "SU-16",
+ "sourcedFrom": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "75880a617c17958d397bd7c1cd4b9c9a16394c3bbff516dd55f09157d6836427",
+ "cleanIntro": "A 5.56 piston rifle in a Zytel shell that folds under its own barrel. The SU-16 book covers four rifles — SU-16A, SU-16B, SU-16C and SU-16CA — and they differ in ways that matter to this procedure, so read the variant headings before you follow a step. Kel-Tec publishes a real two-tier maintenance regime, so this family DOES have a Deep Clean: bolt carrier disassembly at 500 rounds.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Establish which SU-16 you are holding before you touch anything",
+   "action": "Identify your variant. Look for magazine storage compartments in the stock and a rubber butt pad — the SU-16A, B and CA have them, the SU-16C does not. Check whether a dustcover runs along the right of the receiver: that is a C or CA feature.",
+   "prose": "This is not paperwork, it decides two steps later in this guide. The SU-16C is a folding-grip carbine with a stock lock behind the grip, a dustcover over the ejection path, and a case-deflecting operating handle; the A and B fold on the assembly pin and store magazines in the stock; the CA is a C barrel and receiver married to an A stock. If you follow a C instruction on an A you will hunt for a lock that does not exist, and if you follow an A instruction on a C you will try to pull a firing pin pin with a dustcover in the way.",
+   "aside": "This manual (REV:0605) covers the SU-16A, SU-16B, SU-16C and SU-16CA only. Later SU-16 variants are not in this book and nothing here should be assumed to apply to them.",
+   "quote": "The SU-16C can not store magazines within the stock and does not contain a rubber butt pad.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Introduction — variant descriptions"
+  },
+  {
+   "phase": "Clear",
+   "title": "If yours is an SU-16C, note the threaded muzzle before you handle the front end",
+   "action": "On an SU-16C, check whether the knurled thread protector is still on the muzzle or whether a device is fitted. Unscrew the protector only with the rifle unloaded, chamber clear and safety on.",
+   "prose": "Only the SU-16C carries the 1/2-28 muzzle thread — the A and B do not, so on those rifles there is nothing at the muzzle to unscrew and no thread to protect. If a brake or other device is fitted, it is what your hands will be near while the rifle is on the bench, and the book caps torque on those threads at 20 ft-lbs, which is finger-and-a-short-wrench, not a breaker bar. It also matters for the clean: a device traps carbon behind it at the muzzle crown.",
+   "quote": "The SU-16C features a 16 inch heavy barrel with a 1/2-28 inch thread on the front of the muzzle to accept standard attachments such as a muzzle brake.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Introduction — SU-16C description"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety on, magazine out, operating handle back, bolt locked open",
+   "action": "Engage the safety, push in the magazine catch on the right side of the receiver and pull the magazine out. Pull the operating handle fully back to eject anything in the chamber, then push up on the bolt stop and let the handle slowly forward so the bolt stays open. Look into the chamber.",
+   "prose": "The safety on this rifle is a push-bolt through the stock and it can be applied whether the hammer is cocked or not — apply it first, and check that the red ring is fully hidden, because a partly pushed safety shows red and is not engaged. The magazine catch is on the right, not the left, which trips up anyone coming off an AR. Hold the bolt stop up while you ease the handle back onto it; released, the bolt runs home and you lose your open action. Keep clear of the ejection port and keep fingers away from the muzzle.",
+   "quote": "To unload the SU-16 rifle, engage the safety, push in the magazine catch, remove the magazine, and pull the operating handle fully back to eject the round in the chamber.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Instructions for Use — Unloading"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take optics and rail accessories off before you start the strip",
+   "action": "Remove any scope, red dot or other device mounted on the receiver's picatinny rail before disassembly.",
+   "prose": "The bolt carrier assembly leaves through the bottom of the receiver and the recoil spring tube has to twist a quarter turn inside it, so anything clamped across the top rail can foul the travel. On the A the rear sight itself lives on that rail and is removable by pushing out its cross bar. It is cheaper to take a mount off than to discover halfway through that the carrier will not clear, with the rifle already half apart and the recoil spring released.",
+   "quote": "CAUTION: Some accessories that are mounted to the picatinny rail on the top of the receiver may interfere with the disassembly of the SU-16 rifle.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Disassembly — Rifle disassembly"
+  },
+  {
+   "phase": "Strip",
+   "title": "Assembly pin out, stock folded onto the barrel, bipod unlatched",
+   "action": "With the bolt forward and the safety engaged, push out and remove the assembly pin with a cartridge tip or a small punch. Fold the stock down and forward and press it onto the barrel. Unlatch the bipod.",
+   "prose": "Folding the rifle is part of the strip, not a convenience — the stock has to be out of line with the receiver before the bolt carrier can come out of the bottom. On the SU-16A, B and CA the assembly pin is what holds the stock extended and it goes back into its spring-locked hole in the receiver so you do not lose it. On the SU-16C the stock folds on its own stock lock behind the grip instead, and it snaps shut with real force — keep fingers out of the closing gap.",
+   "quote": "With a cartridge or other pointed object push out and remove the assembly pin. Fold the stock down and forward and press it onto the barrel. Unlatch the bipod.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Disassembly — Rifle disassembly",
+   "warn": "Do not get your fingers in the way of the closing or opening stock. Beware of pinch points when opening or closing the stock."
+  },
+  {
+   "phase": "Strip",
+   "title": "Twist the recoil spring tube a quarter turn to release the spring",
+   "action": "Grip the recoil spring tube, pull it towards the muzzle and twist it a quarter turn so the locking tab points to the top of the rifle. Let it back and it should slide about a quarter inch into the receiver. Then pull the operating handle slowly back — there should be no spring pressure at all.",
+   "prose": "This is the step that makes the rest safe: the locking tab is what holds the recoil spring's preload against the receiver, and until it is turned out of its receptacle the carrier is under load. The confirmation is negative and you have to check for it — pulling the handle back should feel dead, with no spring pushing back. If you still feel spring, the tab has not released and the assembly is still under tension; stop and re-seat it rather than pulling harder.",
+   "quote": "Grip the recoil spring tube, pull it towards the muzzle and twist it 1/4 turn so that the locking tab points towards the top of the rifle, it should slide into the receiver about 1/4 inch as you release the recoil spring tube.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Disassembly — Rifle disassembly"
+  },
+  {
+   "phase": "Strip",
+   "title": "Drop the operating handle into its cutout and pull it out of the carrier",
+   "action": "Pull the operating handle all the way back and push it down into the operating handle removal cutout in the receiver, then pull it straight out of the bolt carrier. With the handle out, guide the bolt carrier assembly down out of the bottom of the receiver, holding it by the recoil spring tube.",
+   "prose": "The handle is only removable at one point in its travel — the cutout — and it comes out downward and then straight out, not by pulling on it where it sits. Hold the carrier by the recoil spring tube as it comes out of the bottom: that keeps the assembly together and keeps the piston rod aligned as it withdraws from the gas head. What you have in your hand is the whole gas system aft of the block, and on the field strip it stays assembled.",
+   "quote": "Pull the handle all the way back and push it down into the operating handle removal cutout in the receiver. The operating handle should now be able to be pulled straight out of the bolt carrier.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Disassembly — Rifle disassembly"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Receiver with barrel and forend, folded stock, bolt carrier assembly with its recoil spring tube, operating handle and assembly pin. The stock stays closed — that is where the field strip ends.",
+   "prose": "This is enough for the after-every-session clean: bore and chamber from the breech, the breech face and extractor, and the receiver interior. The stock houses the whole fire control and its hammer spring is under permanent tension, which is why the book discourages opening it rather than simply not describing it — if the trigger group needs oil, the route is the access slots behind and in front of the hammer. If your rifle has passed 500 rounds since its last strip, take the Deep Clean: Kel-Tec publishes a full bolt carrier disassembly for that interval.",
+   "quote": "NOTE: It is not recommended that you disassemble the stock of the SU-16 rifle; the hammer spring is constantly under tension and can easily injure you or others.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Disassembly — note following Bolt carrier disassembly",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "The 500-round interval: this is when the carrier comes apart",
+   "action": "If the rifle has fired about 500 rounds since the last one, take the bolt carrier assembly you have just removed and disassemble it fully.",
+   "prose": "Kel-Tec publishes two cleaning tiers for the SU-16 and this is the second one — not an optional extra but a stated interval. It exists because this is a short-stroke piston gun: the piston head, piston rod and the inside of the recoil spring tube collect hard carbon that a bore brush never reaches, and the cam path in the carrier collects the same. A rifle cleaned only to field-strip level will run for a long time and then start short-stroking, and this is the cure for that before it happens.",
+   "quote": "Additional cleaning, after firing 500 rounds: Remove the bolt carrier assembly and fully disassemble it as stated in the disassembly section of this manual.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Maintenance — Additional cleaning, after firing 500 rounds"
+  },
+  {
+   "phase": "Strip",
+   "title": "SU-16C and SU-16CA only: the dustcover comes off first",
+   "action": "If your rifle is an SU-16C or SU-16CA, pull the bolt out of the carrier as far as it will go and slide the dustcover forward over the bolt before you touch the firing pin pin. Some light bending of the dustcover will be required.",
+   "prose": "This step does not exist on the SU-16A or SU-16B, which have no dustcover — trying to perform it on one of those rifles is looking for a part that was never fitted. On the C and CA the dustcover sits over the path the firing pin pin has to travel and the pin cannot be pressed out with it in place. The book is explicit that light bending is expected: it is a sprung sheet part, not a rigid one, and forcing it flat-out rather than easing it forward is what creases it permanently.",
+   "quote": "NOTE: For the SU-16C and SU-16CA, in order to remove the firing pin pin, you first must remove the dustcover. Simply pull the bolt out as far as possible, then slide the dustcover forward over the bolt.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Disassembly — Bolt carrier disassembly, note",
+   "warn": "SU-16A and SU-16B owners: skip this step. Those rifles have no dustcover, and there is nothing to remove."
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the firing pin pin out from the right",
+   "action": "Press the firing pin pin out of the carrier from the RIGHT side, using a small tool or a cartridge tip.",
+   "prose": "Direction matters here — the pin is retained by an O-ring and driving it the wrong way works the ring against its own shoulder. It should move with steady pressure, not with a hammer. This one small pin is what retains the firing pin, and with it out the whole bolt group unstacks in order: firing pin, then cam pin, then bolt. Keep it somewhere separate from the parts you are about to put in solvent, because it is the one part of this rifle that must not be cleaned.",
+   "quote": "To remove the bolt, cam pin, and firing pin, simply press out the firing pin pin from the right side with a small tool or a cartridge.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Disassembly — Bolt carrier disassembly"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin out the back, then cam pin, then bolt out the front",
+   "action": "Draw the firing pin out of the rear of the bolt carrier — tapping the carrier or working the bolt in and out will bring it far enough to grip. With the firing pin out, pull the cam pin, and with the cam pin out the bolt comes out of the front of the carrier.",
+   "prose": "The order is mechanical and cannot be shuffled: the firing pin passes through the cam pin, so the cam pin is captive until the pin is gone, and the cam pin is what ties the bolt to the carrier's cam path. If the cam pin will not lift, the firing pin has not cleared it. Note which way round the cam pin sat — its tab points straight out of the left side of the carrier on reassembly — and note that the firing pin has a half-moon cut that must face up going back in.",
+   "quote": "Remove the firing pin from the back of the bolt carrier, you may need to tap the bolt carrier or move the bolt in and out to get the firing pin to fall out enough to grip it. With the firing pin removed the cam pin can now be pulled out and with the cam pin out the bolt can be removed from the front of the carrier.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Disassembly — Bolt carrier disassembly"
+  },
+  {
+   "phase": "Strip",
+   "title": "Piston head and recoil spring — the part of this strip that can hurt you",
+   "action": "Align the holes in the recoil spring tube with the pin in the piston head. Hold the piston head down with one hand, press the piston pin out with the firing pin or a small tool, and keep hold of the head as it releases. Then slide the recoil spring tube off the piston rod and take the spring out of the tube.",
+   "prose": "The piston head is sitting on a compressed recoil spring and the piston pin is the only thing holding it — this is the one step in the SU-16 strip with stored energy behind it. Keep a hand over the head, keep it pointed away from your face and anyone else's, and let the spring extend under control rather than letting it go. The alignment of the tube holes with the piston head pin is what lets the pin come out at all; if it will not press, the holes are off.",
+   "quote": "CAUTION: The piston head is under pressure from the compressed recoil spring and the piston head and recoil spring can easily fly out and injure yourself or bystanders, always keep a hand on the piston head and point the piston head in a safe direction when removing it.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Disassembly — Bolt carrier disassembly",
+   "warn": "Always wear eye protection for this step."
+  },
+  {
+   "phase": "Clean",
+   "title": "Solvent and brush the whole group — except the firing pin pin",
+   "action": "Thoroughly clean the piston head, piston pin, piston rod, recoil spring, recoil spring tube, bolt, cam pin, firing pin and bolt carrier with solvent and a brush. Leave the firing pin pin out of it entirely. Dry every part thoroughly.",
+   "prose": "The piston head and the inside of the recoil spring tube are where the hard carbon lives on a piston rifle, and they are the reason this tier exists — a soaked-and-scrubbed piston head is what keeps the carrier cycling fully. The exception is deliberate and easy to lose track of: the firing pin pin is held by an O-ring, and solvent attacks the ring. Set that one pin aside dry before anything goes in a solvent tray, and dry everything else completely before oiling.",
+   "quote": "Do not clean the firing pin pin, solvents can damage the O-ring used to hold it in place.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Maintenance — Additional cleaning, after firing 500 rounds"
+  },
+  {
+   "phase": "Clean",
+   "title": "Oil the sliding surfaces only, then reassemble and prove it moves",
+   "action": "Apply a light coat of oil to the firing pin, the bolt, the cam pin and the surfaces inside the bolt carrier where those three slide. Apply a light coat to the piston rod. Then reassemble the carrier and the rifle and cycle the bolt by hand.",
+   "prose": "Oil goes where parts rub and nowhere else: the cam path, the firing pin channel, and the piston rod. Flooding a gas-piston action makes a paste of the next 200 rounds of carbon, which is precisely what the 500-round interval exists to prevent. Once it is together, cycle the bolt by hand and feel for a smooth full stroke before the rifle goes away. If a part is damaged or badly worn or the rifle does not work correctly, it should not be fired and should go back to Kel-Tec.",
+   "quote": "Apply a light coat of oil to the firing pin, bolt, cam pin, and the surfaces in the bolt carrier where the bolt, cam pin, and firing pin slide.",
+   "cite": "SU-16 RIFLE SU-16A, SU-16B, SU-16C, and SU-16CA SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0605 — Maintenance — Additional cleaning, after firing 500 rounds"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER & BREECH",
+   "tasks": [
+    "Brush the barrel bore and chamber with a good powder-removing solvent and bore brush, then wipe clean with patches or a swab",
+    "Small brush dipped in solvent around the breech of the barrel, the chamber, the extractor and the adjacent areas that have taken powder or primer residue",
+    "On an SU-16C with a muzzle device fitted, clean behind it — carbon collects against the crown"
+   ]
+  },
+  {
+   "name": "RECEIVER & CARRIER EXTERIOR",
+   "tasks": [
+    "Remove residue from the receiver with light brushing and solvent; the shell is glass-reinforced Zytel, so use solvent that is safe on polymer",
+    "Wipe the bolt carrier, the bolt face and the extractor down — at field-strip level this is a wipe, not a disassembly",
+    "Check the forend lock ring and the bipod latches are free of grit before folding it back up"
+   ]
+  },
+  {
+   "name": "OIL & MAGAZINES",
+   "tasks": [
+    "Use a cloth to apply a light coating of high quality gun oil to all external surfaces and wipe clean",
+    "Wipe the magazines; the rifle takes most standard M-16 type magazines and a dirty one is the commonest failure-to-feed cause the manual names",
+    "If the trigger assembly needs lubricating, do it through the access slots behind and in front of the hammer — do not open the stock"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bolt carrier first: insert the recoil spring into the tube, slide the tube onto the piston rod, align the tube holes with the hole in the piston rod, push the piston head on and press the piston pin in flush while holding it.",
+  "Twist the recoil spring tube so the locking tab points to the top of the bolt carrier, and check the spring by lightly pulling the tube to compress it.",
+  "SU-16C and SU-16CA only: slide the dustcover on from the front of the carrier BEFORE the bolt goes in.",
+  "Insert the bolt into the front of the carrier with the extractor to the right, line up the cam pin hole with the cam slot, and fit the cam pin with its tab pointing straight out of the left side.",
+  "Push the bolt assembly fully in and insert the firing pin into the rear of the carrier with the half-moon cut facing UP; if it will not go all the way, the cam pin or bolt is wrong — do not force the firing pin pin.",
+  "Insert the firing pin pin from the LEFT side. Do not force it.",
+  "Rifle: stock folded and bipod unlatched, rest the rifle on its left side, pull the bolt out as far as it goes, tab at the top, and insert the carrier from the rear of the receiver.",
+  "Align the operating handle hole with the receiver cutout, insert the handle, and push the carrier up so the recoil spring tube is PARALLEL with the barrel — if it is not parallel the carrier is in wrong, and it must come out and go back in.",
+  "Push the operating handle fully forward and make sure the piston head lines up and enters the gas head; then grip the tube, pull forward and twist a quarter turn so the locking tab enters its receptacle on the left of the receiver.",
+  "Work the operating handle back and forth to check it moves freely, close the bipod, unfold the stock and press the assembly pin in flush."
+ ],
+ "fncheck": "With the magazine out and the chamber checked empty: the operating handle should travel its full stroke and return under spring pressure with the recoil spring tube parallel to the barrel — a tube that is not parallel means the carrier is installed wrong and the rifle must not be fired. The safety should block the trigger with the red ring fully obscured, and should be applicable with the hammer cocked or not. The assembly pin should sit flush in the stock, the bipod should latch on both halves, and on an SU-16C the stock should snap positively onto the forend and release cleanly on the stock lock."
+}

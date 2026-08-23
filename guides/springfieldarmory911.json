@@ -1,0 +1,113 @@
+{
+ "row": "springfieldarmory911",
+ "make": "Springfield Armory",
+ "model": "911",
+ "sourcedFrom": "Springfield Armory 911 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) (undated on cover)",
+ "sourceSha256": "439006d7aeca7c14d351f813b598fa28317b6ebe86f4102d1714b99f7c070167",
+ "cleanIntro": "Springfield's own field strip for the 911. It comes apart on a disassembly notch cut into the slide, not on a takedown lever — you line the notch up with the slide stop tab and the pin comes straight out. ⛔ The one thing this pistol will punish is over-rotating the thumb safety once the slide is off: the detent plunger and its spring are then unretained and leave the frame under power.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, finger off, eye protection on",
+   "action": "Point the pistol in a safe direction with your finger off the trigger before anything else happens, and put eye protection on. Springfield notes the 911 will fire with or without a magazine in it, so the magazine coming out is not the same thing as the gun being empty.",
+   "prose": "This is step 1 in the book and it is not a formality — everything after it involves a spring-loaded slide coming off a live frame.",
+   "quote": "POINT FIREARM IN SAFE DIRECTION WHILE KEEPING FINGER OFF THE TRIGGER.",
+   "cite": "Springfield Armory 911 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP 911, printed p.29, step 1",
+   "warn": "ALWAYS REMEMBER THE FIREARM IS ABLE TO FIRE WITH OR WITHOUT THE MAGAZINE IN PLACE."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, pistol unloaded",
+   "action": "Drop the magazine and unload the pistol. Set the loose ammunition somewhere else entirely — not on the same bench surface.",
+   "prose": "Springfield puts \"Separate cartridges from firearm before cleaning operation\" in its own cleaning list for the same reason.",
+   "quote": "Remove magazine and unload firearm.",
+   "cite": "Springfield Armory 911 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP 911, printed p.29, step 2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide back — and the trick if it fights you",
+   "action": "Draw the slide back to its rear stop and push the slide stop lever up to hold it there. If that will not catch by hand, Springfield gives an alternative: put an EMPTY magazine in the well, pull the slide fully back until it locks, then take the magazine out again.",
+   "prose": "Confirm the magazine really is empty before using that trick, or you will have loaded the pistol in the middle of unloading it.",
+   "aside": "Make sure the magazine is EMPTY or you will inadvertently load the firearm.",
+   "quote": "Draw back the slide to the rear stop position and lock it open, pushing up the slide stop lever",
+   "cite": "Springfield Armory 911 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP 911, printed p.29, step 3"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber",
+   "action": "With the slide locked back, look into the chamber and confirm it is empty. Eyes, not memory.",
+   "prose": "A .380 case rim is small and dark against a black chamber — get light onto it rather than glancing.",
+   "quote": "Visually inspect the chamber to confirm the firearm is unloaded",
+   "cite": "Springfield Armory 911 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP 911, printed p.29, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Align the disassembly notch with the slide stop tab",
+   "action": "Lower the slide closed, then walk it back by hand until the disassembly notch cut in the slide lines up with the slide stop tab, and pull the slide stop out.",
+   "prose": "This is the 911's defining step and it is a feel job: the notch is a single position, and the stop will not come free anywhere else. If it resists, you are a millimetre off, not short of force.",
+   "quote": "Manually retract the slide until the slide disassembly notch is aligned with the slide stop tab",
+   "cite": "Springfield Armory 911 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP 911, printed p.29, steps 5-6"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Slide forward and off — do not touch the thumb safety",
+   "action": "Run the whole slide assembly forward off the front of the frame, keeping control of it. Once the slide is off, leave the thumb safety alone.",
+   "prose": "⛔ This is the 911's own trap. With the slide removed the safety detent plunger and spring are no longer captured, and over-rotating the safety launches them out of the frame — a lost part and an eye hazard in one movement.",
+   "quote": "Move the complete slide assembly forward and off the frame",
+   "cite": "Springfield Armory 911 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP 911, printed p.29, step 7",
+   "warn": "Do not over rotate thumb safety when slide is removed. Over rotating the thumb safety with the slide removed will cause the safety detent plunger and spring to eject forcefully from the frame. This could cause personal injury."
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil system, then barrel, out of the slide",
+   "action": "Lift the recoil system out of the slide, then take the barrel out. That is the whole field strip — four pieces plus the magazine.",
+   "prose": "Keep hold of the slide while the recoil system comes out; it is under tension until it clears.",
+   "quote": "Remove the recoil system from the slide",
+   "cite": "Springfield Armory 911 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP 911, printed p.29, step 8",
+   "warn": "CAUTION: Slide is under spring tension. Maintain control. Do not grip the slide in the area of the muzzle or ejection port."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — and stop here",
+   "action": "The barrel comes out of the slide last and the pistol is stripped for cleaning. Springfield states plainly that nothing beyond this is needed, and that anything further belongs to the factory or a gunsmith.",
+   "prose": "There is no published detail strip for this pistol. That is the manufacturer's position, not an omission in this guide.",
+   "quote": "Remove the barrel from the slide",
+   "cite": "Springfield Armory 911 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP 911, printed p.29, step 9",
+   "warn": "Further dismantling is not necessary and should only be done by Springfield, Inc. or a qualified gunsmith."
+  }
+ ],
+ "deepAbsentReason": "⛔ THE 911 MANUAL PUBLISHES NO DETAIL STRIP AND FORBIDS ONE: \"Further dismantling is not necessary and should only be done by Springfield, Inc. or a qualified gunsmith.\" A manufacturer's published DON'T outranks every tier, so nothing is borrowed from a 1911 book to fill it — and the 1911 book would be the wrong mechanism anyway.",
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Run a solvent-wetted patch through the bore several times, then a correctly sized bristle brush back and forth full length",
+    "Insert the rod from the CHAMBER end and push all the way through — never reverse direction with a brush or patch in the bore, it can bind",
+    "Dry patches until they come out clean, then one lightly oiled patch"
+   ]
+  },
+  {
+   "name": "SLIDE & BREECH",
+   "tasks": [
+    "Solvent and a bristle brush on the breech face, extractor and feed ramp",
+    "Wipe the scrubbed areas with a solvent-wetted patch, then dry",
+    "⛔ No oil or grease on the firing pin"
+   ]
+  },
+  {
+   "name": "FRAME & MAGAZINE",
+   "tasks": [
+    "Wipe the frame rails and the frame interior; soak stubborn areas in solvent and flush clean rather than scrubbing dry",
+    "Clean the magazine body and follower, and check the feed lips are free of nicks and burrs and not deformed",
+    "One drop of lubricant each side of the rear slide railways — no more"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Install the barrel into the slide, with the top of the chamber flush with the top of the slide.",
+  "Reinstall the recoil system, properly aligned. If it interferes, take the slide back off and reseat the barrel — never force the slide onto the frame.",
+  "Run the slide onto the rails, depressing the ejector only far enough to clear.",
+  "Partially install the slide stop pin, retract the slide until the slide stop window and tab align, then seat the pin fully and lower the slide."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty, rack the slide several times and check the slide stop holds it back on an empty magazine."
+}

@@ -1,0 +1,184 @@
+{
+ "row": "fn502",
+ "make": "FN",
+ "model": "502",
+ "sourcedFrom": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "3554810de80ffee2f10e445f593fdc9556c21c6baabe84f8bd4e54db19b6a51a",
+ "cleanIntro": "FN's .22 LR trainer: a blowback pistol with a single-action hammer, a manual safety fitted as standard, and the same takedown grammar as the centrefire 509 with one number changed — the lever wants 108 degrees, not 100. The rimfire twist is what it leaves behind, because .22 fouling is lead and waxy lubricant as well as carbon.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm the slide says 502",
+   "action": "Read the model designation on the slide. This manual was created exclusively for the FN 502 series; if your pistol does not carry 502 in its naming convention, or does not look like the illustrations here, get the FN manual written for it.",
+   "prose": "The 502 shares a family look with the centrefire FN pistols and its takedown lever rotates a different amount from all of them — 108 degrees against the 509's 100 and the High Power's 90 the other way. That is exactly the kind of near-miss that turns into a forced lever. FN's specification table lists FN 502 T rows with their own SKUs, so the Tactical variant is inside this book as well.",
+   "quote": "IF YOUR FN PISTOL DOES NOT HAVE 502 IN ITS NAMING CONVENTION OR IF THE APPEARANCE OF THE PISTOL DOES NOT CORRESPOND TO THE ILLUSTRATIONS IN THIS OWNER’S MANUAL CONTACT YOUR DEALER, DEPARTMENT ARMORER OR CONTACT FN DIRECTLY TO OBTAIN THE OWNER’S MANUAL THAT HAS BEEN WRITTEN SPECIFICALLY FOR YOUR PISTOL.",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — Foreword block, p.2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Read the caliber off the back of the barrel — .22 Long Rifle only",
+   "action": "Look through the ejection port at the rear of the barrel, where the caliber is marked, and confirm it reads .22 LR. Only .22 Long Rifle goes in this pistol.",
+   "prose": "FN is unusually specific for a rimfire: standard velocity and high speed / high velocity ammunition is what the 502 is designed to function with; hyper velocity, subsonic and CB-type loads are safe to fire but may not cycle it; and rimfire ammunition other than .22 Long Rifle should not be used at all. That last line rules out .22 Short and .22 Long, which will chamber in a .22 LR chamber and leave a fouling ring at the case mouth that then stops a full-length round seating. If you have been shooting a mixed tin, expect to find that ring at the chamber mouth during this clean.",
+   "quote": "RIMFIRE AMMUNITION OTHER THAN .22 LONG RIFLE SHOULD NOT BE USED.",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §3 Ammunition, p.12",
+   "warn": "THE FN 502 IS DESIGNED TO SAFELY AND RELIABLY FUNCTION WITH .22 LR STANDARD VELOCITY AND HIGH SPEED/HIGH VELOCITY AMMUNITION."
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety up, magazine out",
+   "action": "Point the muzzle somewhere safe and engage the manual safety — levers up, red dot covered. Then press the magazine release and take the magazine out; pull on the base plate if it does not drop.",
+   "prose": "Unlike the 509 and the Reflex, the 502 has its manual safety as standard equipment rather than as an option, so there is always a lever there to use and FN's unloading warning assumes it is engaged. The safety blocks the sear and trigger assembly. Rimfire magazines are narrow and their followers are light, so a 502 magazine that hangs up is usually telling you the well needs the clean you are about to give it.",
+   "quote": "FN 502 pistol is equipped with a manually activated safety that prevents the pistol from firing unless it is deactivated.",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §9.2 Manual safety, p.29"
+  },
+  {
+   "phase": "Clear",
+   "title": "Rack, lock open, and look",
+   "action": "Pull the slide back to eject any chambered round, press the slide stop up so the slide rests open against it, then look into the chamber and down the magazine well and confirm both are empty.",
+   "prose": "A .22 LR case is small, rimmed and dull, and it hides in a shadowed chamber far better than a brass 9mm case does — put the pistol into the light rather than trusting a glance. The slide stop is ambidextrous, so either thumb can hold it up while the other hand eases the slide back onto it. Removing the magazine tells you nothing about the chamber; the look does.",
+   "quote": "Inspect the chamber and magazine well to ensure no cartridge is present. Remember, removing the magazine does not mean the chamber is unloaded (Figure 14).",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §6.3 Unloading, step 3, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Unload it completely, then lock the slide back for the strip",
+   "action": "Confirm again that the chamber and magazine well are empty, then retract the slide and lock it in its rearward position on the slide stop.",
+   "prose": "FN opens the fieldstrip by pointing back at the unloading section and then immediately asks for the slide locked open, because the takedown lever will not rotate against a closed slide. Full rearward and onto the stop — a slide sitting half on the stop drops at the worst moment, which on this pistol is while your other hand is at the muzzle unscrewing a thread protector. Leave it locked back until the lever has been turned.",
+   "quote": "Completely unload the pistol as described in Section 6.3 and remove the magazine. Inspect the chamber and the magazine well to verify that the pistol is completely unloaded (Figure 35).",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §11.1 Field strip, step 1, p.36"
+  },
+  {
+   "phase": "Strip",
+   "title": "Threaded muzzle? Thread protector off first",
+   "action": "Look at the muzzle. If this 502 has a threaded barrel, unscrew the thread protector or muzzle device counterclockwise and set it aside before touching the lever.",
+   "prose": "FN qualifies the threaded-barrel section because only some 502s are cut for it — the threads are ½\"-28 and the protector belongs on the gun whenever nothing else is fitted. Take it off first: it hangs past the slide and gets in the way as the slide runs forward off the frame, and the threads are where suppressed .22 fouling — which is greasy, leaded and abundant — packs in hardest. A suppressed 502 is one of the dirtiest guns there is, and this is the only step that opens those threads up.",
+   "aside": "FN's qualifier on the section: 9.8 THREADED BARREL (APPLICABLE ONLY TO PISTOLS WITH THREADED BARRELS).",
+   "quote": "Remove the thread protector or muzzle device if the pistol is equipped with a threaded barrel (Figure 37).",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §11.1 Field strip, step 3, p.36"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown lever 108 degrees clockwise",
+   "action": "With the slide locked open, rotate the takedown lever approximately 108 degrees clockwise until it stops.",
+   "prose": "That is the 502's own number and it is further than any other FN pistol in the range — well past square, and stopping short is the usual reason a slide then refuses to come off. Keep the slide on the stop while the lever turns. If the lever will not move, check the slide has not crept forward before applying more thumb; the lever cannot rotate against a closed slide.",
+   "quote": "Rotate the takedown lever approximately 108 deg. clockwise (Figure 38).",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §11.1 Field strip, step 4, p.36"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the slide and ease it forward",
+   "action": "Take a grip on the slide, release it off the slide stop and let it come forward under control.",
+   "prose": "The 502 is a blowback, so its recoil spring is doing all the work of holding the breech shut and it is stiffer than the slide's small size suggests. Control the forward travel rather than letting it snap, because the movement continues straight into taking the slide off the frame. There is no trigger press in this strip: the 502's hammer stays where it is.",
+   "quote": "While holding the slide with one hand, release the slide from the slide stop and ease it forward (Figure 39).",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §11.1 Field strip, step 5, p.37"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide and barrel forward off the frame",
+   "action": "Keep pulling the slide forward and lift it away from the frame rails; the barrel comes with it.",
+   "prose": "Because the 502 is a blowback the barrel does not tilt or unlock — it sits fixed in the slide assembly and comes off with it in one piece. That is why FN's wording here says slide and barrel rather than just slide. No force should be required; if it stops on the rails, the takedown lever has turned back short of its 108 degrees.",
+   "quote": "Remove the slide and barrel by pulling the slide forward and away from the frame (Figure 40).",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §11.1 Field strip, step 6, p.37"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring assembly out by the small spring",
+   "action": "Turn the slide upside down, grasp the small spring of the recoil spring assembly, lift that end up and take the assembly out of the slide.",
+   "prose": "Grip the small forward spring, not the middle of the assembly — lifting there releases the compression rather than fighting it, and on a light .22 slide it is easy to launch the whole unit across the bench. It comes out with one movement and no tools. Keep it together as a unit; a separated guide rod is a service item, not a cleaning task.",
+   "quote": "Hold the slide upside down, grasp the small spring of the recoil spring assembly then lift the recoil spring assembly up and out of the slide (Figure 41).",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §11.1 Field strip, step 7, p.37"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel up, around the extractor, rearward out",
+   "action": "Grip the barrel by its lug, lift it up and around the extractor, then slide it rearward out of the slide.",
+   "prose": "Lift first, then swing, then back — the same three-part motion as the centrefire FN pistols, and skipping the middle one drives the barrel into the extractor claw. On a rimfire that claw is small and it has to grip a thin rim reliably, so it is not something to spring. With the barrel out the strip is finished and the chamber mouth, where lead rings build, is finally reachable.",
+   "quote": "Grasp the barrel by its lug, lift it up and around the extractor and slide the barrel rearward out of the slide (Figure 42).",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §11.1 Field strip, step 8, p.38"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel and recoil spring assembly, plus the thread protector if fitted. FN says that is enough for a thorough clean and that anything further is a qualified armorer's job.",
+   "prose": "For a .22 this level opens up everything that actually fouls: the bore and chamber where lead collects, the breech face and extractor caked in priming residue, the underside of the breechblock, the firing pin catch and both sets of rails. FN's own minimum-clean wording for this pistol adds cleaning the barrel to remove lead build-up, which the centrefire manuals do not say. Deep Clean covers the magazine, the optics plate and the suppressor fitting.",
+   "quote": "This level of disassembly is sufficient to perform a thorough cleaning. Disassembly beyond the instructions provided in this manual should only be carried out by a qualified armorer.",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §11.1 Field strip, closing note, p.38",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Magazine apart — and the 10-round body strips further than the 15",
+   "action": "Confirm the magazine is empty. Depress the magazine locking plate through the hole in the base plate, slide the base plate forward off the body while capturing the spring and locking plate with your hand, then remove the locking plate, spring and follower.",
+   "prose": "The 502 ships with both 10- and 15-round magazines and they do not come apart identically — FN notes that on the 10-round magazine the spring and locking plate can only be removed after the base plate is off, and pictures the two component sets separately. The spring is under tension the whole time, so keep your palm over the base and bleed it off slowly. Rebuilding a 15, match the follower angle to the top of the magazine and check the locking plate's tab is standing proud through the base plate.",
+   "aside": "FN's magazine-specific note: For the 10 RD magazine only the magazine spring and magazine locking plate can be removed after disassembling the magazine base plate (Figure 52).",
+   "quote": "Remove the magazine locking plate, magazine spring and follower from the magazine body (Figure 53-1 + 2).",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §11.3 Magazine disassembly, step 3, p.43",
+   "warn": "CAUTION: THE MAGAZINE SPRING IS UNDER TENSION. WEAR EYE PROTECTION AND KEEP THE BOTTOM OF THE MAGAZINE POINTED IN A SAFE DIRECTION."
+  },
+  {
+   "phase": "Clean",
+   "title": "Suppressor or muzzle device: rated for .22 LR, and squarely on",
+   "action": "With the device off and its threads cleaned, check before refitting that it is intended for the cartridge this pistol is chambered for, that it is in good condition, and that it mounts squarely and securely on the ½\"-28 threads with its bore larger than and aligned with the barrel's.",
+   "prose": "A .22 can is the one most likely to be shared across guns and the one most likely to be gummed with lead, so the condition check is not a formality. FN adds that the 502 has been tested for safe operation with a device fitted but that reliability may be affected, and that if a muzzle device adversely affects function its use should be discontinued — which on a blowback rimfire usually shows up as short-stroking. Suppressor use is also one of FN's stated reasons to clean this pistol more often.",
+   "quote": "The FN 502 should only be used with suppressors intended for use with the cartridge for which it is chambered.",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §9.8 Threaded barrel, p.33"
+  },
+  {
+   "phase": "Clean",
+   "title": "Under the optic: plate, o-rings, screws out",
+   "action": "If you are cleaning under an optic or slide cap, turn the two screws counterclockwise and remove them, then lift off the optic or slide cap, the MRD plate and the two O-rings. Clean the mounting surface before rebuilding in the same order.",
+   "prose": "Two O-rings on the 502, and both have to go back in their recesses or the joint will not seal against the fine lead-laden grit a .22 throws. Keep the screws and holes free of oil so the fasteners do not walk. Because removing the optic disturbs the mount, FN's rule that zeroing must be confirmed every time the optical sight comes off applies here as much as on a centrefire.",
+   "quote": "Remove the optic or slide cap, MRD plate and two O-rings (Figure 59 & 60).",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §11.5 FN optics mounting system, step 6, p.45"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry firing a rimfire: occasional yes, routine no",
+   "action": "Do not use this pistol for regular dry-fire practice. Occasional dry firing is acceptable; if you want to practise, use snap caps.",
+   "prose": "This is a genuine rimfire hazard rather than general caution: with no case rim to strike, a .22 firing pin can peen the edge of the chamber mouth, and once that is damaged the barrel is the part that needs replacing. FN says regular dry firing may damage the firing pin or barrel — note that it names the barrel, which the centrefire manuals do not. Inspect the chamber mouth for a peened edge during this clean if the pistol has ever been dry-fired much.",
+   "quote": "Occasional dry firing of your FN 502 is acceptable.",
+   "cite": "FN 502 Series AUTOLOADING PISTOL OWNER'S MANUAL — 8.524.80.01; REV. 11/2024 — §4 Dry firing & dummy rounds, p.14"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL & BORE — LEAD, NOT JUST CARBON",
+   "tasks": [
+    "Solvent into the bore and chamber and a few minutes to work before any patch goes through",
+    "Rod and patches from the chamber end only; FN warns that damaging the muzzle affects accuracy",
+    "Work the bore until patches come out clean — on a .22 that means lead as well as carbon, and FN names lead build-up specifically as part of a minimum clean",
+    "A patch moistened with preservative oil through the bore afterwards, wiped dry before the next range trip",
+    "Light gun oil on the cylindrical portion of the barrel and the barrel rails on both sides"
+   ]
+  },
+  {
+   "name": "BREECHBLOCK, SLIDE & FRAME",
+   "tasks": [
+    "Brush and solvent on the breech face, under the extractor and around the ejection port — rimfire priming compound leaves a hard grey film that a dry cloth will not shift",
+    "Clean and then lightly oil the points FN's lubrication figure marks: the slide rails on both sides, the underside of the breechblock, the firing pin catch, the cylindrical portion of the barrel and the barrel rails",
+    "Soft cloth into the magazine well to clear debris; keep solvent away from the polymer components",
+    "Check the stripped parts for wear or damage while they are apart and ask FN about anything doubtful rather than rebuilding it"
+   ]
+  },
+  {
+   "name": "INTERVAL & STORAGE",
+   "tasks": [
+    "Never soak the pistol in solvent or lubricant, and use oil sparingly — too much interferes with function",
+    "Clean after every use; in intensive shooting the outside limit is every 500 rounds, and waxy .22 lubricant makes that come around fast",
+    "Suppressor use and dirty ammunition both pull the interval in, which FN says explicitly for this pistol",
+    "Wipe the exterior free of dirt, fingerprints and excess lubricant before storage, and dry-patch the bore before firing"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Barrel into the slide first: muzzle through the barrel hole from the inside, let it drop, then slide it back to the breech face until the lug locks.",
+  "Large end of the recoil spring assembly against the recess in the front of the slide, compressed, with the back of the guide centred on the front of the barrel lug.",
+  "Guide the slide and barrel onto the frame rails, run it fully rearward and lock it on the slide stop.",
+  "Rotate the takedown lever back upward to lock frame and slide together.",
+  "Release the slide forward, then test the slide stop, trigger, magazine release and manual safety.",
+  "Refit the thread protector or muzzle device if this 502 has a threaded barrel."
+ ],
+ "fncheck": "Empty and reassembled: the takedown lever should sit flush and refuse to rotate against a closed slide; the slide should run fully into battery under its own spring and lock back on either ambidextrous stop; the hammer should cock as the slide cycles and the trigger should reset audibly; with the safety levers up the trigger should be blocked, and with them down the red dot should show; an empty magazine — 10 or 15 round — should seat and drop free when the release is pressed; and a clean chamber mouth should let a dummy .22 LR round seat fully, which is the practical test that the lead ring has actually been removed."
+}

@@ -1,0 +1,184 @@
+{
+ "row": "deadairprimal",
+ "make": "Dead Air",
+ "model": "Primal",
+ "sourcedFrom": "PRIMAL  OWNERS MANUAL — Rev121323 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "328a6f5137f5a3a917bf0db5990be3cfea0cd1e6da451fbf2c51809bbf1b9f8e",
+ "cleanIntro": "The Primal is a tubeless, fully welded 17-4 stainless can with a threaded socket in the rear that takes a booster, a 3-Lug, a direct thread mount or a QD adapter. The body does not open; what comes off is the mount and the front cap. Two of its rules are configuration-bound rather than general — the 18 inch barrel guidance belongs to .338 Lapua Magnum, and the SD502 adapter ring is a precondition for the booster and 3-Lug only.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host, and use the host's own manual",
+   "action": "Magazine out, action open, chamber checked before the can is handled. Dead Air then refers you to the operator's manual for your own firearm for the clearing procedure, and rules out mounting or unmounting on a closed action.",
+   "prose": "The Primal runs on everything from handguns to .338 rifles. There is no single clearing drill this guide could honestly give you.",
+   "quote": "CHECK YOUR WEAPON’S CHAMBER AND MAKE CERTAIN THAT THE WEAPON IS UNLOADED AND THE MAGAZINE REMOVED BEFORE PROCEEDING ANY FURTHER. IF THERE IS ANY QUESTION OR DOUBT, CONSULT THE OPERATOR’S MANUAL APPLICABLE TO YOUR FIREARM AS TO THE PROPER PROCEDURE FOR CLEARING AND/OR UNLOADING YOUR WEAPON. DO NOT INSTALL YOUR NEW SUPPRESSOR ON A FIREARM WITH A CLOSED ACTION!",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Get To Know Your Primal, p.5",
+   "warn": "Never mount or unmount on a closed action."
+  },
+  {
+   "phase": "Clear",
+   "title": "Primal ceiling — .338 Lapua Magnum, .458 projectile",
+   "action": "Confirm the host is inside the rating. The Primal is built for centrefire pistol and rifle hosts up to .338 Lapua Magnum muzzle pressure and a projectile diameter of .458 or less. Read the engraving on your own can and the packaging first; those override the general statement.",
+   "prose": "Note that the capitalised box on page 3 is printed with wording that reads back-to-front against the overview sentence on the same page. It is quoted here exactly as printed, not corrected — the design intent stated in the overview is pressures and diameters at or BELOW those figures.",
+   "quote": "OUR PRODUCTS ARE CALIBER SPECIFIC. UNLESS STATED OTHERWISE ON THE SUPPRESSOR ITSELF OR ON THE PACKAGING, THE PRIMAL SUPPRESSOR WILL NOT FUNCTION SAFELY WITH ANY CARTRIDGE WITH PRESSURES HIGHER THAN .338 LAPUA MAGNUM OR PROJECTILE DIAMETER EQUAL TO OR SMALLER THAN .458. USE OF YOUR SUPPRESSOR OUTSIDE OF ITS INTENDED SCOPE COULD RESULT IN DAMAGE TO YOUR FIREARM, DAMAGE TO PROPERTY, BODILY INJURY, OR DEATH.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Installation, Step One, p.5",
+   "warn": "Ceiling: .338 Lapua Magnum pressure, .458 projectile diameter."
+  },
+  {
+   "phase": "Clear",
+   "title": "18 inch minimum barrel — .338 Lapua ONLY",
+   "action": "Check which cartridge you are about to feed it before you apply this limit. Dead Air's 18 inch minimum barrel guidance is attached specifically to magnum calibres such as .338 Lapua Magnum. It is not a blanket minimum for the Primal, and it must not be carried across to the pistol, PCC or standard rifle hosts this can is also built for.",
+   "prose": "A short-barrelled .338 dumps far more unburnt powder and heat into the blast chamber than the same cartridge from a full-length barrel. That is what the guidance is about.",
+   "quote": "The tubeless, fully welded 17-4 stainless steel construction of the Primal keeps the suppressor as light as possible while providing the ultimate strength to accommodate magnum calibers such as .338 Lapua Magnum with a usage guidance of a minimum barrel length of 18 inches.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Product Overview, p.5",
+   "warn": "18 inch minimum applies to .338 Lapua Magnum, not to every host."
+  },
+  {
+   "phase": "Strip",
+   "title": "The barrel must give the mount a shoulder",
+   "action": "Look at the muzzle before anything threads on. The Primal needs a proper shoulder to seat against or a muzzle face cut square to the bore; on a long thread the can seats on the muzzle itself and the back of the piston may never reach the shoulder.",
+   "prose": "On a .458-capable bore there is more clearance than on a 5.56 can, but a canted mount still walks the point of impact and still finds a baffle eventually.",
+   "caution": "No square shoulder or face, no mount.",
+   "quote": "DO NOT thread onto barrels that don’t have a proper shoulder to seat against, or muzzle face that is not cut square to the bore.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Installation, Step One, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "SD502 adapter ring first — booster and 3-Lug only",
+   "action": "If your Primal is set up with a booster assembly or a 3-Lug adapter, the included SD502 adapter must already be installed in the threaded socket in the rear of the can, fitted with the included TL series wrenches. Those two mounts do not go straight into the socket; direct thread and QD options do.",
+   "prose": "This is a precondition, not an accessory. Take the SD502 out while reconfiguring and the booster has nothing correct to thread into.",
+   "quote": "If using a booster assembly or 3-Lug adapter, you must first install the included SD502 adapter in the threaded socket in the rear of the suppressor using the included TL series wrenches.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Installation, Step One, p.5",
+   "warn": "Booster and 3-Lug require the SD502 adapter ring."
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the Primal off the host",
+   "action": "With the can cool enough to handle, rotate the body or end cap counter-clockwise until it unthreads, or clockwise on a left-hand metric piston or mount. On a 3-Lug it is a different motion entirely: compress the can rearward onto the barrel and turn counter-clockwise until it clears the lugs.",
+   "prose": "Three mount types, three removal motions. Using the wrong one loads the mount sideways.",
+   "quote": "If using a 3-Lug Mount, compress the suppressor backward onto the barrel and lightly turn it counter-clockwise. Once it clears the lugs on the barrel it can be removed.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Installation, Step Three, p.7",
+   "warn": "A hot can burns. Gloves, or wait for it to cool."
+  },
+  {
+   "phase": "Strip",
+   "title": "Piston and spring out",
+   "action": "Unscrew the piston retainer and lift the piston and spring out for cleaning. If the retainer resists, that is carbon in the booster telling you it was overdue — do not put a tool on it before you have tried it warm and greased.",
+   "prose": "Inspect the O-ring while you have it open; replacements are size -018.",
+   "quote": "Unscrew the piston retainer and remove the Piston and Spring for cleaning.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning, Step One, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Booster out — and NOT back onto a fixed barrel",
+   "action": "The complete booster, fixed mount or 3-Lug assembly comes out with the included TL001 and TL002 tools or an AR castle nut wrench. If the host is a fixed-barrel firearm, the booster does not go back in — fit a fixed mount or a 3-Lug instead, because the booster's repeated impact will damage a firearm whose barrel does not move with it.",
+   "prose": "This is a configuration rule bound to the booster on this can. Whatever mount replaces it must be secured with the castle nut wrench before use.",
+   "quote": "Warning: Do not use the Booster Mechanism on fixed barrel firearms as the repeated impact will damage the firearm.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning, Step One, p.9",
+   "warn": "Booster on a fixed barrel will damage the host firearm."
+  },
+  {
+   "phase": "Strip",
+   "title": "Front cap off with the DA208 tool",
+   "action": "Align the pins of the Sandman Front Cap Tool with the notches cut into the front-end cap, keep the tool flat against the cap face with every pin fully engaged, and apply counter-clockwise torque to loosen. Clean and lube the cap threads and the socket threads while it is off.",
+   "prose": "A tool that rocks concentrates load on one pin and rounds the notch. That is a one-way trip.",
+   "quote": "Ensure the tool is flat against the face of the front cap with the pins evenly and fully engaged and apply torque counter-clockwise to loosen and remove the cap. Ensure the threads on the front cap and in the front cap socket are clean and lubed.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning, Step Two, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Welded body — the baffles are not a job",
+   "action": "Clean the threads and the tapered surfaces where the mount and front cap seat, then lube them. The stainless baffles inside typically do not need cleaning at all; the Primal is tubeless and fully welded, so there is nothing to pull out and nothing to put back in the wrong order.",
+   "prose": "If suppression has fallen off, look at the blast chamber, not at a baffle stack you cannot reach.",
+   "quote": "SUPPRESSOR: The stainless-steel baffles in the suppressor typically don’t need to be cleaned.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The Primal is off the host, the mount is out of the rear socket and the front cap is off. Threads and tapers are what get cleaned from here. Deep Clean covers the booster service, the blast chamber options this all-stainless can permits, and the 3-Lug spring retainer.",
+   "prose": "Note what your configuration decides: the SD502 stays in the socket for a booster or 3-Lug build, and comes out for a straight direct thread build.",
+   "quote": "The threaded socket in the rear of the Primal enables users to quickly and easily configure the suppressor with a booster assembly for use on handguns, a 3-Lug adapter for subgun and PCC use, and a variety of direct thread and QD mounting options.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Product Overview, p.5",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Booster service — every session",
+   "action": "Clean the booster's spring and piston and re-grease them every shooting session, and inspect the O-ring while it is apart. This is the fastest-fouling part of the whole can and the one that decides whether a tilting-barrel pistol keeps cycling.",
+   "prose": "Replacement O-rings are size -018 and come from Dead Air.",
+   "quote": "The Booster mechanism with the spring and piston should be cleaned and lubed with grease every shooting session and the O-Ring inspected. Replacement O-Rings are size -018 and are available from Dead Air Silencers.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning — Booster, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wet firing to soften piston carbon",
+   "action": "Where carbon in the piston has hardened, running the can wet softens it and most of it then wipes straight out of the booster housing once the spring and piston are drawn. Do this only on a host the booster is legitimate on — never on a fixed barrel.",
+   "prose": "Housing, piston and spring can also come out and go into carbon scrubbing chemicals if wiping is not enough.",
+   "quote": "Much of the carbon can then be wiped out of the booster housing after the spring and piston are removed.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning — Booster, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Blast chamber — soaks and bead blasting permitted",
+   "action": "If the blast chamber has genuinely built up, the Primal's all-stainless construction will take a chemical soak or bead blasting to clear it. That permission comes from this can's material and does not transfer to Dead Air models with aluminium or titanium parts in the path.",
+   "prose": "Protect the exterior while you do it — some chemical cleaners will harm the Cerakote even where the steel is untouched.",
+   "caution": "NOTE: Some chemical cleaners can harm the Cerakote finish.",
+   "quote": "Because of the all-stainless construction of this suppressor, it can withstand chemical soaks and bead blasting to clean the blast chamber, if needed.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning — Suppressor, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "3-Lug spring retainer",
+   "action": "On a 3-Lug build, the spring retainer at the end of the assembly comes off with a pin wrench or a Ghost/Mask front cap tool. If the internal piston does not pop back into place after the can comes off the host, it wants grease inside or new O-rings — and that service is due every time you have shot it wet.",
+   "prose": "A sticky 3-Lug piston is the early warning for a mount that eventually will not release under recoil.",
+   "quote": "The Spring Retainer on the end of the assembly can be removed with a pin wrench or a Ghost/Mask Front Cap Tool.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning — 3-Lug Mount, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Fixed mount — clean the seat, not just the threads",
+   "action": "With a fixed mount out, clear the carbon off its threads and off the surfaces that seat down inside the suppressor. That seating surface is what aligns the mount to the bore; carbon on it holds the mount proud and cants the whole can.",
+   "prose": "It is also why a mount that used to thread fully home suddenly stops short.",
+   "quote": "FIXED MOUNT: Remove the mount and clean out any excess carbon on the threads and on the surfaces that seat down inside the suppressor.",
+   "cite": "PRIMAL  OWNERS MANUAL — Rev121323 — Disassembly & Cleaning — Fixed Mount, p.7"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "THREADS & TAPERS",
+   "tasks": [
+    "Clean the front cap threads and the front cap socket, then lube them",
+    "Clean the tapered surfaces where the front cap seats and lube lightly",
+    "Clean the rear threaded socket and the SD502 adapter interface if one is fitted"
+   ]
+  },
+  {
+   "name": "BOOSTER / MOUNT",
+   "tasks": [
+    "Clean and grease the booster spring and piston every shooting session",
+    "Inspect the O-ring; replacements are size -018",
+    "Fixed mount and 3-Lug: clear carbon from the threads and the internal seating surfaces",
+    "3-Lug: re-grease and replace O-rings whenever the can has been shot wet"
+   ]
+  },
+  {
+   "name": "BLAST CHAMBER & EXTERIOR",
+   "tasks": [
+    "Chemical soak or bead blasting is permitted on this all-stainless body if the blast chamber has built up",
+    "Test any solvent on a small area first — some cleaners harm the Cerakote",
+    "Avoid sharp edges against the finish"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Ensure all threads and contact points are clean and free of debris, and apply a light coat of lube or grease.",
+  "Thread the front cap into the front of the suppressor and snug it lightly with the DA208 tool — hand torque only, because it seats on a taper.",
+  "If the build uses a booster or a 3-Lug adapter, confirm the included SD502 adapter ring is installed in the rear socket first.",
+  "Fit the mount for your host — booster and piston for a Browning-style tilting barrel, fixed thread mount or 3-Lug for a fixed barrel — and secure it with a castle nut wrench.",
+  "Check every connection is tight and the front cap is fully seated before the can goes back on a firearm."
+ ],
+ "fncheck": "With the Primal mounted, confirm it is concentric to the bore centreline and not canted, and that nothing rattles or turns by hand. On a .338 Lapua host, confirm the barrel meets the 18 inch usage guidance before firing."
+}

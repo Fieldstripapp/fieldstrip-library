@@ -1,0 +1,204 @@
+{
+ "row": "hecklerkochhk45",
+ "make": "Heckler & Koch",
+ "model": "HK45",
+ "sourcedFrom": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL (2026)",
+ "sourceSha256": "b4ff75ce9bc9fdb9a997cc9658b8456af91e64547661ae481a27819d903934c5",
+ "cleanIntro": "HK's refined .45: hammer-fired, short-recoil modified Browning linkless action, 4.49 inch polygonal barrel with an O-ring near the muzzle that beds the barrel in the slide, 10-round magazines, changeable backstraps. The HK45 book states that the term HK45 applies to all four models — HK45, HK45T, HK45C and HK45CT — unless it says otherwise, and like the USP the pistol converts between DA/SA and LEM trigger variants at armorer level. The strip is toolless, through the slide release axle. This spec is authored from the current May 2026 operator's manual (which names HK45, HK45C and HK45T); the older 2008/2021 HK45-Series book is also on file and describes the same procedures.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "One name, four models — and your trigger variant on top",
+   "action": "Confirm what you own before trusting the levers: the book's own scope line says the term HK45 covers all models — HK45, HK45T (threaded Tactical), HK45C (Compact) and HK45CT — unless otherwise specified. The full-size HK45 runs a 4.49 inch barrel and 10-round magazines. Then establish the trigger variant, DA/SA or LEM, because decocking and the function check both depend on it.",
+   "prose": "The safety/decocking lever function can even be switched to the other side of the frame, so the position of a lever proves nothing about its job. The variant chart, not the metal, is the authority.",
+   "quote": "Many parts of the HK45 are identical for all models (HK45, HK45T, HK45C and HK45CT), and the term HK45 applies to all models of this pistol unless otherwise specified.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 3 — FUNCTION AND OPERATION, p.9"
+  },
+  {
+   "phase": "Clear",
+   "title": "With or without a manual safety — treat it as ready to fire",
+   "action": "Muzzle safe, finger outside the guard. The HK45 is built both with and without a conventional manual safety, so consider it loaded and ready to fire until the magazine is out and the chamber has been confirmed empty by eye and by finger.",
+   "prose": "This sentence is the cover of the manual, ahead of everything else — because on this platform the presence of a safety lever is a configuration, not a guarantee.",
+   "quote": "Read this manual carefully before handling, loading, or using your HK45 pistol. The HK45 pistol is designed both with or without a conventional manual safety. Therefore, you must consider it to be loaded and ready to fire until you have removed the magazine and visually and physically (with your finger) confirmed that the chamber is empty.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Cover page",
+   "warn": "A chambered round fires on a trigger press with or without a magazine fitted."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out on the ambidextrous release",
+   "action": "Depress either side of the ambidextrous magazine release and remove the magazine from the well, support hand underneath it. The HK45's release is the paddle at the rear of the trigger guard, worked identically from either side.",
+   "prose": "Magazine before slide, every time — the order is what guarantees the next rack empties the gun instead of reloading it.",
+   "quote": "2. Remove the magazine. Depress either side of the ambidextrous magazine release. Remove the magazine from the magazine well.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 4 — CLEARING AND SAFETY CHECK PROCEDURE, p.22"
+  },
+  {
+   "phase": "Clear",
+   "title": "Slide locked open, eyes on the ejection port",
+   "action": "Rack the slide by the rear serrations with the muzzle safe, push and hold up on either side of the ambidextrous slide release, and let the slide come forward just enough to engage the release and lock open. Watch the port — a chambered round or case ejects on this stroke.",
+   "prose": "The lock engages as the slide moves slightly FORWARD onto the release, not at full travel — ease it, don't drop it.",
+   "quote": "3. Open and lock the slide to the rear. Grasping the rear serrations, rack the slide to the rear while keeping the muzzle pointed in a safe direction. Push and hold upwards on either side of the ambidextrous slide release and lock the slide to the rear by allowing the slide to move forward until it engages the slide release. Watch for a cartridge or empty case to be ejected out through the ejection port.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 4 — CLEARING AND SAFETY CHECK PROCEDURE, p.23"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber and feed ramp: visual check, then the finger sweep",
+   "action": "Look into the chamber through the open port, then physically insert a finger through the port and sweep the chamber and feed ramp area, removing anything present. A cartridge that survives a repeat of the whole procedure goes to a gunsmith.",
+   "prose": "The HK45's LEM detail matters here: the hammer system recocks off the slide, so nothing about the hammer's position tells you about the chamber. Only the port does.",
+   "quote": "Inspect the chamber for the presence of a cartridge or empty case by: 1. Visually inspecting the chamber through the open ejection port. 2. Physically inserting a finger through the ejection port and sweeping the chamber and feed ramp area. 3. Removing any cartridges or empty cases from the chamber or from within the HK45.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 4 — CLEARING AND SAFETY CHECK PROCEDURE, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward, then back to the axle recess",
+   "action": "Depress the slide release and let the slide return forward. With the firing hand, retract and hold the slide at the position where the axle of the slide release is visible through the recess in the left side of the slide.",
+   "prose": "You are aligning a hole you cannot see through with a recess you can — hold the slide still once the axle centers in the recess, because a few millimetres either way binds it.",
+   "quote": "3. Using the firing hand, retract and hold the slide to the rear so that the axle of the slide release is visible through the recess in the left side of the slide (See arrow, Figure 16).",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 5 — DISASSEMBLY, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide release out of the left side of the frame",
+   "action": "With the non-firing hand, press on the slide release axle from the right side of the frame and pull the release completely out of the left side. Unlike the P30, the HK45's release comes fully away from the frame — put it somewhere it cannot walk off.",
+   "prose": "If it needs more than firm thumb pressure the slide has crept off the recess — realign rather than push harder.",
+   "quote": "4. With the non-firing hand, completely remove the slide release from the left side of the frame by pressing on it from the right side of the frame (See Figure 17) and pulling it out of the left side of the frame.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 5 — DISASSEMBLY, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide off forward, then lift the recoil assembly out",
+   "action": "Slide the upper — slide, barrel, recoil spring assembly — forward off the frame and set it down on a flat surface. Then lift UP on the rear of the recoil spring guide rod, pivot the assembly away from the slide, and lift the whole captive unit out. HK45 recoil springs are one-piece captive assemblies and come out as a unit.",
+   "prose": "The HK45's removal differs from the USP's sideways push: here the guide rod's rear end lifts and the assembly pivots out. Trying to shove it sideways just fights the buffer bushing.",
+   "caution": "The captive assembly stays assembled — it is removed and cleaned as one piece.",
+   "quote": "7. Carefully remove the recoil spring assembly from the barrel and slide by lifting up on\nthe rear of the recoil spring guide rod (See Figure 19) and pivoting the recoil spring assembly away from the slide. The entire assembly can now be lifted out of the slide. HK45 Pistols have one piece “captive” recoil springs and are removed as a unit.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 5 — DISASSEMBLY, p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out by the locking block",
+   "action": "Lift the rear of the barrel near the locking block and withdraw the barrel from the slide. Note the O-ring sitting near the muzzle as it comes out — that ring beds the barrel in the slide during firing, and it gets inspected and lightly oiled at every cleaning, replaced by hand when worn.",
+   "prose": "The O-ring is a wear part the HK45 shares with the USP Specialized models, and spares come with the pistol. A flattened or cracked ring costs the accuracy the system exists to buy.",
+   "quote": "8. Lift the rear of the barrel near the locking block and withdraw it from the slide",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 5 — DISASSEMBLY, p.25"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Bronze brush only — polygonal bore",
+   "action": "Bore cleaning is a solvent-wet bronze bristle brush, at least six passes chamber to muzzle, then patches. Steel brushes scratch the polygonal bore and permanently reduce accuracy.",
+   "prose": "Same rule as every polygonal HK barrel, and on a .45-sized polygon the damage from one steel-brush session is visible with a bore light.",
+   "quote": "Do not use a steel bore brush which can scratch the polygonal bore and reduce accuracy.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 6 — CLEANING & MAINTENANCE, p.33",
+   "warn": "Bronze only."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — four groups, armorer line, intervals",
+   "action": "Slide, barrel, captive recoil assembly, frame — the book's own spec sheet says no tools are required for the user field strip and that detailed disassembly is depot-level work with punches. Clean at Normal intervals (after each firing or every twelve months) and Major at 600 cartridges or after sand, dust or water exposure.",
+   "prose": "The HK45's conversion parts — DA/SA to LEM and back — are exactly the internals behind this line. They exist, they are modular, and they are not a bench job.",
+   "quote": "No tools required for user field strip. Magazine must be removed for disassembly. Minimal tools (simple punches) required for detailed depot level disassembly",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 2 — SPECIFICATIONS, p.7",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "⛔ Ammunition: brass-cased factory spec, +P+ barred",
+   "action": "The HK45 runs quality brass-cased factory ammunition to NATO, SAAMI or CIP handgun specification. Barred: +P+, reloads, remanufactured, steel-cased, aluminum-cased and handloads — and separately military surplus, corrosive-primed, cast lead, submachine-gun loadings and heat- or oil-contaminated cartridges.",
+   "prose": "Cast lead in a polygonal bore is a pressure problem, not a purist's preference — the polygon gives lead nowhere to go but into the bore's surface.",
+   "quote": "HK45 pistols are designed to fire quality, brass-cased, factory-loaded ammunition loaded to NATO, SAAMI (Sporting Arms and Ammunition Manufacturers’ Institute), or CIP (Permanent International Commission for the Proof of Small Arms) specifications for use, specifically in handguns. DO NOT USE “+P+” reloaded, remanufactured, steel cased, aluminum cased, or handloaded ammunition because it may not meet applicable NATO, SAAMI or CIP standards and could cause death, serious personal injury, and/or damage to your pistol and may void your warranty.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 4 — AMMUNITION, p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Backstrap swap: dry fire first, then drive the pin",
+   "action": "With the pistol CLEAR and decocked — dry firing relieves the hammer spring tension — tap out the backstrap retaining pin with a 1/8 inch (3 mm) punch and slide the panel down off the frame. Install the new backstrap by pushing it up the grip rails until flush with no gap, then reinsert the pin by finger and tap it home centered.",
+   "prose": "The dry-fire instruction is easy to skip and shouldn't be: the hammer spring bears on parts behind the backstrap, and swapping against that tension fights you the whole way.",
+   "quote": "1. Ensure that the pistol is CLEAR and decocked (see page 22) and the magazine is\nremoved. Dry firing the pistol will relieve any tension on the hammer spring prior to removal of the grip panels. 2. With a (1/8 “ or 3 mm) metal punch, carefully tap out the backstrap retaining pin (See Figure 25 & 26). Extract the pin once it is protruding from the frame. 3. When the pin is removed, the grip panel can be slid downward off the frame (See Figure 27).",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 5 — REMOVAL / INSTALLATION OF THE BACKSTRAP, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine apart — one procedure for every HK45 magazine",
+   "action": "All HK45 magazine variants strip the same way: punch on the locking plate in the floorplate and hold, hand over the base, floorplate forward off the housing, then ease the locking plate and spring out and remove plate, spring and follower. Five components total.",
+   "prose": "One procedure across 8- and 10-round patterns is an HK45 mercy the USP does not extend — but the spring still leaves at speed if the covering hand gets casual.",
+   "quote": "All HK45 magazine variants require the same following steps to disassemble.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 5 — MAGAZINE DISASSEMBLY, p.30",
+   "warn": "Base of the magazine away from face and eyes throughout."
+  },
+  {
+   "phase": "Clean",
+   "title": "Major cleaning at 600 rounds — magazine apart, parts immersed",
+   "action": "Major cleaning escalates the normal routine: magazine disassembled for cleaning, all parts rinsed with or immersed in cleaning solution, scrubbed with a nylon brush and dried by compressed air or rag and swabs. The trigger is 600 cartridges, or contamination by sand, dust or water — saltwater especially.",
+   "prose": "The O-ring gets a drop of lubricant when the barrel goes back — that is the one HK45-specific line item the generic HK routine doesn't carry.",
+   "caution": "Ultrasonic machines strip the colored reference markings — normally unnecessary.",
+   "quote": "Major Cleaning - Major Cleaning is the same as normal cleaning except that: • The magazine is disassembled for cleaning, following the instructions and warnings in Section 5. • All parts should be rinsed with or immersed in cleaning solution and thoroughly scrubbed with a nylon brush. The parts can then be dried using compressed air or with a rag and cotton swabs.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 6 — Major Cleaning, p.34"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Never alter parts — the modularity is armorer-only",
+   "action": "Do not alter any part of the pistol or magazine, including attempts to improve it — injury, damage and a voided warranty are the book's stated outcomes. The HK45's trigger-variant conversions are done by installing different component sets; that is precisely the work the alteration ban walls off from the owner's bench.",
+   "prose": "A pistol that converts between five trigger configurations invites parts-swapping in a way a fixed design doesn't. The invitation is to HK-trained armorers, and the book says so.",
+   "quote": "Do not alter any of the parts or components of the pistol or magazine, e.g., do not attempt to “improve” or make the pistol “better” by altering parts or components. Altering any parts or components of the pistol or magazine may cause serious injury or death, damage to the pistol, or other damage to property, and voids its warranty.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 6 — CLEANING & MAINTENANCE, p.33"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lock-Out Device behind the grip panel",
+   "action": "HK45 and HK45 Compact pistols carry the HK Lock-Out device (unless a contract specified otherwise); it replaces the grip panel insert and is reached through the magazine well. Quarter turn clockwise with the two-pronged key locks trigger, hammer and slide; the slide stays frozen closed until unlocked.",
+   "prose": "Same discipline as every HK lock: clear first, and never force a slide that turns out to be locked shut.",
+   "quote": "HK45 and HK45 Compact pistols are equipped with a patented HK Lock-Out™ device unless otherwise specified by the agency or contract. This component replaces the grip panel in the frame and when engaged locks the handgun’s action by blocking any movement of the trigger, the hammer, and the slide.",
+   "cite": "OPERATOR'S MANUAL — HK45 SERIES — May 2026 (imprint page); published as 5.7.2026 FINAL — Section 7 — LOCK-OUT DEVICE, p.38"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Nylon toothbrush with cleaning solution over all internal surfaces",
+    "Rag and swabs to lift the loosened fouling"
+   ]
+  },
+  {
+   "name": "BARREL, LOCKING BLOCK AND O-RING",
+   "tasks": [
+    "Bronze bore brush and solution, six passes chamber to muzzle — never steel on the polygonal bore",
+    "Patch the bore, brush the exterior and locking block",
+    "Inspect the muzzle O-ring and give it a drop of lubricant; replace by hand when worn"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING ASSEMBLY AND FRAME",
+   "tasks": [
+    "Clean the captive recoil assembly as a unit — never disassemble it",
+    "Scrub frame carbon, concentrating under the slide and around the unlock block"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Brush follower and feed lips at Normal cleaning",
+    "Disassemble at Major cleaning only",
+    "Confirm the follower runs free and rises nearly flush against the feed lips after rebuild"
+   ]
+  },
+  {
+   "name": "INTERVALS AND LUBRICATION",
+   "tasks": [
+    "Normal after each firing or every twelve months",
+    "Major after 600 cartridges or sand/dust/water exposure",
+    "Light lube on the barrel exterior and metal parts; medium on locking block, rails, controls, extractor and sear; nothing on plastic, rubber or ammunition"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Position the barrel in the slide: muzzle in the large front hole, locking block in the ejection port, angled locking surfaces visible along the slide's underside.",
+  "Seat the front of the recoil spring guide rod in the small hole at the front of the slide.",
+  "Compress the spring slightly, align the guide rod's rear angled surfaces with the barrel locking block's, and push forward until the recoil spring retainer engages the shelf on the front of the locking block.",
+  "Check the sear axle does not protrude from the right side of the frame.",
+  "Position the rear of the slide over the front of the frame and slowly draw it back so the frame's metal inserts enter the slide grooves.",
+  "Retract until the left-side recess sits over the axle hole, hold, and insert the slide release from left to right until flush; release the slide forward.",
+  "Run the function check for your variant — DA/SA or LEM — as printed in Section 5."
+ ],
+ "fncheck": "Clear the HK45, cycle the slide three or four times and confirm smooth travel. DA/SA: with the hammer cocked, decock on the lever if fitted, run the safety on and confirm the trigger is dead, then on FIRE dry fire double-action, hold the trigger, cycle the slide — the hammer must stay caught — release, and fire single-action. LEM: dry fire, hold, cycle, release for the reset click, fire again. Both variants finish on an empty magazine: racking must lock the slide rear, and the slide release must drop it."
+}

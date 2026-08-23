@@ -1,0 +1,96 @@
+{
+ "row": "keltecp32",
+ "make": "Kel-Tec",
+ "model": "P32",
+ "sourcedFrom": "KEL-TEC P-32 PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "0a6e9a247d50759eab76aeae3531e1e4911b1038c5c0e07ec99cca168d790f6f",
+ "cleanIntro": "A 7-round .32 Auto pocket pistol that comes apart on one pin. Kel-Tec's P-32 procedure is: unload, drift the assembly pin out against its spring, push the barrel back, walk the slide off the front of the frame, then lift out the recoil springs and barrel. The book stops there and says so, so there is no Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm this is the .32 Auto gun before anything else",
+   "action": "Read the caliber marking on the pistol and confirm it is .32 Auto. Set aside any +P you were about to shoot in quantity — the P-32 accepts it, but not as a diet.",
+   "prose": "The P-32 shares a frame silhouette and an assembly-pin strip with the .380 P-3AT, and the two books were typeset from each other, so the one thing that must be settled by looking at the gun is the chambering. Kel-Tec's line is flat: do not use any other ammunition. The +P allowance is a tolerance, not a rating — this is a 6.6-ounce aluminium-framed blowback-locked pocket gun and continuous +P is what batters the locking surfaces. If the marking is .380, you are holding the wrong gun for this guide.",
+   "aside": "\"ammuntion\" is Kel-Tec's spelling in this revision, quoted as printed.",
+   "quote": "The P-32 Pistol is designed and chambered for the .32 Auto cartridge. Do not use any other ammuntion. The P-32 will accept +P ammuntion, however not with continuous use.",
+   "cite": "KEL-TEC P-32 PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Safety Instructions and Warnings — Ammunition, p.3"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, slide back briskly, look and feel",
+   "action": "Point the muzzle somewhere safe, press the magazine catch and strip the magazine out, then pull the slide fully back in one brisk stroke to throw the chambered round clear. Look into the chamber, then put a finger in it.",
+   "prose": "The stroke has to be brisk. A slow pull on a short blowback-locked slide lets the extractor drag a live .32 halfway out and drop it back on the feed ramp, which reads as an empty gun to anyone who only glances. Keep your hand clear of the ejection port while you do it — the manual's word is do not obstruct it — and keep the fingers of the support hand behind the muzzle, which on a pistol this small is only a couple of inches from where you are gripping. The book is explicit that the extractor is not to be trusted: look and feel.",
+   "quote": "To unload the P-32 remove the magazine and briskly pull the slide back to extract the round in the chamber. Do not obstruct the ejector port and keep fingers away from trigger and muzzle. Visually inspect the chamber to make sure it is empty.",
+   "cite": "KEL-TEC P-32 PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Instruction for Use — Unloading, p.11",
+   "warn": "Do not trust the extractor to clear the chamber, look and feel."
+  },
+  {
+   "phase": "Clear",
+   "title": "Understand what you are holding: no safety, and the hammer never cocks",
+   "action": "Accept that there is no lever to put this pistol on safe. Keep your finger outside the trigger guard for the whole strip, and never touch the trigger while working the slide.",
+   "prose": "The P-32's fire control is double-action-only with a hammer that is never fully cocked and a hammer block holding it off the firing pin until the trigger is deliberately pulled. That is a genuinely safe resting state, and it is also why nothing on the outside of the gun tells you the condition — there is no cocking indicator to read and no safety to check. The only condition you can rely on is the one you just verified by eye and finger. Kel-Tec repeats the rule in the warnings for a reason: never touch the trigger when working the slide.",
+   "quote": "To achieve highest operator safety, combined with ease of handling, the pistol is \"DOUBLE ACTION ONLY\". It has no manual safety and the hammer is never fully cocked.",
+   "cite": "KEL-TEC P-32 PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Safety, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pin the assembly-pin spring down with your grip, then pull the pin",
+   "action": "Wrap your hand so it presses on the polymer grip all around the assembly pin, then pull the assembly pin out of the frame. Keep that pressure on until the pin is clear.",
+   "prose": "The assembly pin is retained by a small spring that sits under the grip shell right at the pin's hole, and the moment the pin leaves, that spring is free to jump out of its seat. Squeezing the grip around the hole traps it. Lose it and the pin will no longer stay put under recoil, which is not a cleaning problem, it is a gun-out-of-action problem. Work over a tray or a light-coloured towel, not carpet.",
+   "quote": "Pull the assembly pin from the pistol, making sure you keep pressure on the grip surrounding the assembly pin to prevent the assembly pin spring from dislodging.",
+   "cite": "KEL-TEC P-32 PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Disassembly, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel back, then let the slide run off the front of the frame",
+   "action": "Push the barrel rearward to unlock it from the slide, hold the slide, and let it move forward off the frame. Then lift the recoil springs and their guide out of the slide, and take the barrel out.",
+   "prose": "The barrel has to travel back first: the P-32 is a tilting-barrel locked breech, and the barrel only drops out of engagement once it is cammed back where the assembly pin used to hold it. Let the slide go forward under control rather than launching it — the inside and outside recoil springs on their guide are the only thing keeping it company and they will follow it off the front. If the slide will not come, the barrel has not gone far enough back; do not lever it. An empty magazine will hold the slide stop up if you need a third hand.",
+   "aside": "This revision notes that an empty magazine can activate the slide stop if necessary — a P-32 feature the .380 P-3AT does not have.",
+   "quote": "Push the barrel back. While holding the slide, slowly let it move forward off the frame. Remove the recoil spring and barrel.",
+   "cite": "KEL-TEC P-32 PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Disassembly, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel, recoil springs on their guide, assembly pin and magazine. That is the whole strip Kel-Tec publishes for the P-32 — the firing pin, extractor, hammer and trigger group stay where they are.",
+   "prose": "Everything the maintenance section asks you to reach is now open: the bore and chamber, the breech face, the extractor from outside, the frame rails and the underside of the slide. The firing pin screw in particular is a factory setting and turning it changes firing pin protrusion — the book says not to rotate it, and there is no cleaning reason to. If you have gone as far as this and the gun still will not function, the book's own remedy is to send it in, not to go deeper.",
+   "quote": "No further disassembly is recommended. Do not rotate the firing pin screw, it is factory adjusted.",
+   "cite": "KEL-TEC P-32 PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — REV:0705 — Disassembly, p.13",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The P-32 manual publishes one disassembly and stops inside it: after the barrel and recoil springs come out it states in the same paragraph that no further disassembly is recommended and that the firing pin screw is factory adjusted and must not be rotated. Its Maintenance section then refers the reader back to that same procedure for \"a more detailed cleaning\" — so the detailed clean and the field strip are the same operation in this book. Nothing deeper is published, and anything past it goes to the Kel-Tec service department.",
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER & BREECH",
+   "tasks": [
+    "Brush the bore and chamber with a powder-removing solvent and a bore brush, then wipe through with patches or a swab until they come out clean",
+    "Small brush dipped in solvent around the breech end of the barrel and the chamber mouth — .32 Auto is semi-rimmed and carbon collects on the rim step",
+    "Clean around the extractor and the adjacent breech face; do not pry the extractor out to do it"
+   ]
+  },
+  {
+   "name": "FRAME & SLIDE",
+   "tasks": [
+    "Light brushing and solvent to lift residue off the aluminium frame, the rails and the inside of the slide",
+    "Wipe the recoil springs and guide clean and dry — they live in the dirtiest part of a blowback-locked pocket gun",
+    "Leave the firing pin screw alone; it is factory adjusted"
+   ]
+  },
+  {
+   "name": "OIL & MAGAZINE",
+   "tasks": [
+    "After the whole gun is clean, wipe a light coating of good gun oil onto all external surfaces with a cloth, then wipe it back — a film, not a coat",
+    "Wipe the magazine body and follower dry; a pocket-carried single-column .32 magazine collects lint faster than it collects fouling",
+    "Dry-patch the bore before the pistol is carried or fired again"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Seat the barrel and both recoil springs in the slide first and make certain they are well centered — the book's word — or the slide will not run up onto the frame.",
+  "Push the slide onto the frame, hold it back, and let the barrel run fully forward.",
+  "Look through the assembly pin hole and line it up with the cut in the barrel; insert the pin at a slight angle so it pushes the assembly pin spring down, then press it fully home.",
+  "Work the slide several times to check the action. Do not dry fire the P-32 to test it — the book says dry firing should be avoided."
+ ],
+ "fncheck": "With the magazine out and the chamber checked empty: the assembly pin should sit flush and not walk out when you shake the pistol; the slide should run its full travel and return fully into battery under spring pressure alone; the barrel should be free to tilt when you push it back and should cam up and lock as the slide closes; and an empty magazine inserted with the slide drawn back should raise the slide stop and hold the slide open."
+}

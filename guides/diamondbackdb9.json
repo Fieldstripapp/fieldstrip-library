@@ -1,0 +1,144 @@
+{
+ "row": "diamondbackdb9",
+ "make": "Diamondback",
+ "model": "DB9",
+ "sourcedFrom": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. (ABSENT — no copyright line printed.)",
+ "sourceSha256": "56c89833f52d28abd03a208019804532cf4263b7b1d0ca8dfbd889e825582dcc",
+ "cleanIntro": "⛔ This PDF is two books in one and the field strip appears TWICE. The first half (printed pp.12-18) is DB380/DB9; the second half (printed pp.20-28) is the AM2, and its procedure, its parts list and its lubrication points are all different. Everything below comes from the DB380/DB9 half only. The DB9 is a tiny locked-breech 9mm with an assembly catch rather than a takedown lever, and the one thing that catches everyone is that pulling the slide too far back resets the striker and stops the strip dead. Four parts plus the recoil assembly and the magazine, no tools.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, slide racked, chamber inspected by eye",
+   "action": "Press the magazine catch in and pull the magazine out of the bottom of the grip, then pull the slide back QUICKLY to extract and eject anything in the chamber — a slow pull on a short-recoil pocket pistol can leave a round riding the extractor. Keep the ejection port clear and your fingers away from the trigger and muzzle, then look into the chamber and confirm it is empty.",
+   "prose": "This gun has no manual safety and no loaded chamber indicator you can feel. Your eyes on the chamber are the check.",
+   "quote": "To unload a DB pistol, remove the magazine by pressing the magazine catch in and pulling it from the bottom of the grip, and pull the slide back quickly to extract and eject the round in the chamber. Do not obstruct the ejection port. Keep all fingers away from the trigger and muzzle. VISUALLY INSPECT THE CHAMBER TO MAKE SURE IT IS EMPTY.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. — Unloading (DB380/DB9 section), p.14",
+   "warn": "Do not obstruct the ejection port while racking."
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Use the DB380/DB9 half of this book, not the AM2 half",
+   "action": "This one PDF contains two complete manuals. Its contents page lists LOADING AND FIRING DB380/DB9 with its own FIELD STRIPPING, LUBRICATION and MAINTENANCE chapters, and then LOADING AND FIRING AM2 with a second set of the same three chapters ten pages later. They are not the same procedure — the AM2 strips into a different parts list and has five slide lubrication points where the DB9 has three. If you turn to the wrong FIELD STRIPPING heading you will be following instructions for another pistol.",
+   "prose": "Check the running header and the page number before you follow a step. The DB380/DB9 field strip is printed on page 16; the AM2's is on page 26.",
+   "caution": "Two field-strip chapters, ten pages apart, in one document. The DB9's is the first one.",
+   "quote": "LOADING AND FIRING AM2",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. — Contents, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "+P is a GENERATION question on this pistol",
+   "action": "Before you shoot it again, know which generation you have. Diamondback approves SAAMI-specification +P ammunition for Generation 4 DB9 pistols — the approval is scoped to that generation, not to the DB9 name. Earlier DB9 pistols sit outside it. There is also a hard accessory prohibition worth knowing: the .380-specific Crimson Trace laser mount is not designed for the DB9 and fitting one voids the warranty.",
+   "prose": "A subcompact 9mm running ammunition it was not rated for beats itself apart at the locking surfaces, and you will feel it as battering rather than see it.",
+   "quote": "All Diamondback DB9 (Generation 4) model pistols are approved by Diamondback for use with SAAMI specification +P ammunition.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. — Ammunition, p.8",
+   "warn": "DISCLAIMER: Crimson Trace Corporation © DB .380 specific laser mount is not designed for the DB9. Use of the CTC laser mount on the DB9 will void the manufacturers warranty."
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger pressed to release the striker",
+   "action": "With the magazine out and the chamber confirmed empty, point the pistol somewhere safe and press the trigger to release the striker. The assembly catch cannot be pushed fully down against a cocked striker, so this is a mechanical requirement of the strip rather than a formality — and it is the exact moment a pistol that was not truly cleared discharges.",
+   "prose": "Do it deliberately, over something that would stop a bullet. There is no manual safety on a DB9.",
+   "quote": "First, remove the magazine and visually confirm that there is not a round in the chamber. Then pull the trigger, releasing the striker.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. — Field Stripping (DB380/DB9 section), p.16",
+   "warn": "Muzzle in a safe direction before the trigger is touched."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide back JUST ENOUGH — this is where it goes wrong",
+   "action": "Pull the slide and barrel back only far enough to let the assembly catch be pressed all the way down, and no further. Hold the catch down, then release the slide and barrel forward off the receiver. Pull the slide too far and you reset the striker: the slide will then refuse to come forward off the frame and no amount of force will change that.",
+   "prose": "Diamondback's own answer is to stop, let it go back together, and start the sequence again from the trigger press. Forcing it damages the catch.",
+   "caution": "NOTE: If the slide is pulled too far back it will reset the striker and will not slide forward off of the receiver. Do not use force! Repeat operations above.",
+   "quote": "Next, pull the slide and barrel back just enough to allow the assembly catch to be pressed down all of the way. While holding the assembly catch down, release the slide and barrel and remove them from the receiver.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. — Field Stripping (DB380/DB9 section), p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel and recoil assembly out of the slide",
+   "action": "With the slide off, lift the recoil spring and its guide assembly out and then take the barrel out of the slide. That completes the strip: Diamondback names the finished set as Slide, Barrel, Recoil Spring, Recoil Spring Guide Assembly, Receiver and Magazine — six items, and the manual says that is sufficient for normal cleaning and maintenance.",
+   "prose": "Note the DB9 lists the recoil spring and its guide assembly as two named components. Keep them together and the right way round.",
+   "quote": "For normal cleaning and maintenance, it is sufficient to dismantle or “field strip” the pistol into its main components: Slide, Barrel, Recoil Spring, Recoil Spring Guide Assembly, Receiver, and Magazine.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. — Field Stripping (DB380/DB9 section), p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "Three lubrication points inside the slide — and only three",
+   "action": "With the barrel out, oil goes on exactly three points inside the slide: the right slide rail slot, the left slide rail slot, and the barrel contact area. That is the DB380/DB9 list. The AM2 half of this book gives five points including the firing pin block, the extractor and the extractor roll pin — do not carry that list onto a DB9.",
+   "prose": "On a pistol this small, oil anywhere else migrates into the striker channel and into the ammunition.",
+   "caution": "The AM2 section's five-point list is a different pistol's.",
+   "quote": "1. Right Slide Rail Slot 2. Left Side Rail Slot 3. Barrel Contact Area",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. — Lubrication (DB380/DB9 section), p.17"
+  },
+  {
+   "phase": "Clean",
+   "title": "Two points on the grip assembly",
+   "action": "On the receiver there are two lubrication points and they are both trigger-mechanism contacts: the trigger bar sear contact and the trigger bar disconnect. Those two faces are what you feel in the trigger, and they are also what a dry, gritty DB9 trigger is telling you about. Everything else on the grip assembly gets wiped, not oiled.",
+   "prose": "The AM2 half lists four grip points including a cam pin and a slide stop. Again — different pistol.",
+   "quote": "There are two lubrication points on the grip assembly. They are illustrated in the picture to the right.\n1. Trigger Bar Sear Contact 2. Trigger Bar Disconnect",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. — Lubrication (DB380/DB9 section), p.17"
+  },
+  {
+   "phase": "Clean",
+   "title": "The magazine is not optional maintenance",
+   "action": "Diamondback treats the magazine as a reliability item and asks for it to be cleaned as often as the pistol. Turn it upside down, press the round tab in the floor plate with a 1/8 inch punch — only far enough to disengage the tab — keep a thumb over the bottom and ease the floor plate off, then release the spring tension gently. Brush the body out with a magazine brush or an old toothbrush and your solvent.",
+   "prose": "Dirt slowing the follower is the stated failure mode: it causes a feed failure, and on a six-round pocket 9mm that is most of your magazine.",
+   "quote": "Cleaning and proper lubrication of your magazine is very important for proper function of your DB pistol. Dirt may slow the follower in your magazine due to excess friction and cause a feeding failure.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. — Maintenance (DB380/DB9 section), p.18",
+   "warn": "NOTE: This section explains how to disassemble your magazine for proper cleaning and lubrication. Always wear safety glasses when disassembling a firearm."
+  },
+  {
+   "phase": "Clean",
+   "title": "Light oil on the follower, wiped dry on the body and spring",
+   "action": "After the magazine parts have been cleaned and dried, put a light film of oil on the follower only. The body and the spring get sprayed with a light oil and then WIPED DRY — a wet magazine body collects lint and powder residue and slows the follower for exactly the reason the section above warns about.",
+   "prose": "Reassemble it and put it back into rotation. Diamondback wants the magazine cleaned as often as the gun.",
+   "quote": "After you have finished cleaning the parts and allowed them to dry, a light film of oil should be applied to the follower.\nThe magazine body and spring should be sprayed with a light oil and wiped dry.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. — Maintenance (DB380/DB9 section), p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Slide, barrel, recoil spring, recoil spring guide assembly, receiver and magazine. Diamondback says that is sufficient for normal cleaning and maintenance and publishes nothing deeper for this pistol. Reassembly reverses it — and remember the striker: if the slide will not go back on cleanly, do not force it.",
+   "prose": "The cocked striker indicator on the slide rear cover will sit flush when the striker is cocked, which is a useful check once it is together.",
+   "quote": "For normal cleaning and maintenance, it is sufficient to dismantle or “field strip” the pistol into its main components: Slide, Barrel, Recoil Spring, Recoil Spring Guide Assembly, Receiver, and Magazine.",
+   "cite": "Safety and Handling Instructions — ABSENT — no revision or date code is printed inside the document. The published filename says '2022-Revision' but that is a filename, not a printed edition, and is not treated as one. — Field Stripping (DB380/DB9 section), p.16",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Diamondback publishes NO deeper procedure for the DB9. The DB380/DB9 half of this book states that field stripping into Slide, Barrel, Recoil Spring, Recoil Spring Guide Assembly, Receiver and Magazine 'is sufficient for normal cleaning and maintenance' (p.16) and its chapters end there — Field Stripping, Lubrication, Maintenance, and then the book moves on to the AM2. The only further teardown printed anywhere in the DB9 half is the MAGAZINE, which is a separate component and is already covered in the routine steps rather than being a deeper clean of the pistol. There is nothing published to walk, and a striker, extractor or fire-control teardown would have to be taken from the AM2 half — a different pistol — which is exactly the substitution this book's two-in-one layout invites.",
+ "cleaning": [
+  {
+   "name": "SLIDE & BARREL",
+   "tasks": [
+    "Clean the barrel bore and chamber and the slide's interior of powder fouling with your preferred solvent",
+    "Lubricate ONLY three points inside the slide: right rail slot, left rail slot, barrel contact area",
+    "Do not use the AM2 section's five-point lubrication list — that is a different pistol"
+   ]
+  },
+  {
+   "name": "RECEIVER",
+   "tasks": [
+    "Wipe the receiver and the exposed trigger mechanism clean",
+    "Lubricate ONLY two points: the trigger bar sear contact and the trigger bar disconnect",
+    "Keep oil out of the striker channel"
+   ]
+  },
+  {
+   "name": "MAGAZINE — clean it as often as the gun",
+   "tasks": [
+    "1/8 inch punch on the round tab in the floor plate; move it only far enough to disengage",
+    "Thumb over the bottom, ease the floor plate off, release the spring gently",
+    "Magazine brush or old toothbrush and solvent through the body",
+    "Light film of oil on the FOLLOWER; body and spring sprayed with light oil and WIPED DRY",
+    "Safety glasses on for the whole magazine job"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Put the barrel back into the slide, then seat the recoil spring and guide assembly.",
+  "Set the slide and barrel onto the receiver rails from the front and run it back until the assembly catch rises and locks.",
+  "If it will not seat, do not force it — the striker has probably been reset; let it go together, press the trigger and repeat.",
+  "Rack the slide fully and let it run home under its own spring; do not ride it.",
+  "Reassemble the magazine with the follower, spring, retainer and floor plate, and check the follower moves freely.",
+  "Check the rear sight set screw is still tight if it was disturbed."
+ ],
+ "fncheck": "With the pistol empty and pointed somewhere safe, rack the slide fully and release it completely so the recoil springs drive it home at speed — do not ride it, because a DB9 that is hand-fed forward will not always go fully into battery. Check the assembly catch has risen back into place and the slide has no forward play. Press the trigger and confirm the striker releases, then cycle the slide and confirm the trigger resets. Check the cocked striker indicator at the slide rear cover: the pin sits flush with the cover when the striker is cocked and is IN when it is not. Finally insert an empty magazine, rack, and confirm the slide locks back on the slide stop."
+}

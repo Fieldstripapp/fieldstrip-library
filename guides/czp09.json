@@ -1,0 +1,180 @@
+{
+ "row": "czp09",
+ "make": "CZ",
+ "model": "P-09",
+ "sourcedFrom": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) (undated on cover)",
+ "sourceSha256": "03839c0564129c9e3c7f3031e707d9030eb1946a09f05871bb89a3457edcb034",
+ "cleanIntro": "CZ's own strip for the P-09. It is a hammer gun that comes apart on the half-cock notch: the hammer goes to half-cock FIRST, which lines the slide up where the slide stop will drive out. ⛔ The pistol must not be taken apart with a magazine in it, and CZ says so as step 1 rather than as a warning. ⛔ And one instruction here is easy to get wrong and expensive: the barrel-bore solvent must NEVER touch the rest of the pistol — it creeps into the joints and corrodes them months later.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ Magazine out first — it is a precondition, not a courtesy",
+   "action": "Point the pistol in a safe direction and remove the magazine before anything else. CZ states outright that the pistol must not be disassembled with a magazine inserted.",
+   "prose": "This is step 1 of the published procedure, and the reason is mechanical as well as safe: the strip ends with the slide running forward off the frame over an open magazine well.",
+   "quote": "Remove the magazine. The pistol must not be disassembled with the magazine inserted!",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — MAINTENANCE INSTRUCTIONS / Stripping for Cleaning - Disassembly, printed p.10, step 1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety OFF, so the slide can move",
+   "action": "Put the safety to the \"OFF\" position. On a P-09 the safety blocks the slide as well as the trigger, so the slide will not move while it is engaged.",
+   "prose": "⚠ On a decocker-configured P-09 there is no manual safety to move — CZ builds the pistol both ways and says so. Check which control your pistol carries rather than hunting for a lever that is not there.",
+   "quote": "Put the safety to \"OFF\" position, in order to release the movement of the slide.",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — MAINTENANCE INSTRUCTIONS / Stripping for Cleaning - Disassembly, printed p.10, step 2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Confirm the chamber is empty",
+   "action": "Retract the slide, look into the chamber, and confirm there is no cartridge in it.",
+   "prose": "CZ prints this step in capitals. It sits between the magazine coming out and the hammer being handled, which is the order that matters.",
+   "quote": "MAKE SURE THAT THERE IS NO CARTRIDGE IN THE CHAMBER!",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — MAINTENANCE INSTRUCTIONS / Stripping for Cleaning - Disassembly, printed p.10, step 3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hammer to the half-cock notch",
+   "action": "Draw the hammer slightly back and release it so it stops on the half-cock (safety) notch.",
+   "prose": "The half-cock position is what makes the next two steps possible — with the hammer fully down or fully cocked the slide will not sit where the slide stop can be driven out.",
+   "quote": "Retract the hammer slightly back and then release it, until it stops on half-cock (safety) notch position.",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — MAINTENANCE INSTRUCTIONS / Stripping for Cleaning - Disassembly, printed p.10, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Grip: thumb through the trigger guard",
+   "action": "Put your left thumb through the trigger guard and grasp the top of the front of the slide firmly with the other fingers.",
+   "prose": "CZ specifies the grip because it is what gives you the control to hold the slide against the hammer while the other hand taps the pin out. Trying it one-handed is where the slide gets away.",
+   "quote": "Put your left thumb through the trigger guard and with the other fingers grasp the top of the front part of the slide firmly.",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — MAINTENANCE INSTRUCTIONS / Stripping for Cleaning - Disassembly, printed p.10, step 5"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Line the guidelines up — that is the whole trick",
+   "action": "Push the slide slightly rearward until its rear meets the retracted hammer and the GUIDELINES on the frame and the slide are in line.",
+   "prose": "⛔ This is the single position the slide stop will come out of. If the pin resists, the marks are not aligned — move the slide, do not add force.",
+   "quote": "Push the slide slightly rearwards until the rear of the slide is against the retracted hammer and the guidelines on the frame and the slide are in line.",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — MAINTENANCE INSTRUCTIONS / Stripping for Cleaning - Disassembly, printed p.10, step 6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide stop out — pushed from the RIGHT, removed from the LEFT",
+   "action": "Push or tap the slide stop from the RIGHT-hand side of the pistol — CZ suggests the magazine base as the tool — then take the slide stop off from the LEFT.",
+   "prose": "The magazine base is a deliberate choice: it is polymer, it is already in your hand, and it will not mark the frame the way a punch does.",
+   "aside": "Remove the slide stop from the left.",
+   "quote": "Push (tap) the slide stop from the right hand side of the weapon, i.e. using the magazine base",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — MAINTENANCE INSTRUCTIONS / Stripping for Cleaning - Disassembly, printed p.10, step 7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide and barrel forward, then spring and barrel out",
+   "action": "Pull the slide and barrel forward off the frame, then take out the recoil spring and finally the barrel.",
+   "prose": "Recoil spring before barrel — going the other way traps the spring against the barrel lug.",
+   "quote": "Pull the slide and the barrel forward off the frame.",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — MAINTENANCE INSTRUCTIONS / Stripping for Cleaning - Disassembly, printed p.10, steps 8-9",
+   "warn": "No further disassembly is needed for routine maintenance."
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Field strip complete — and the firing pin is not yours",
+   "action": "Frame, slide, barrel, recoil spring and magazine. That is the whole routine strip.",
+   "prose": "⛔ CZ is explicit that FIRING PIN CLEANING is a gunsmith job, and that after a large round count the pistol should be entrusted to one for it. That is a manufacturer's published boundary, not a preference.",
+   "quote": "Remove the recoil spring and finally the barrel.",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — MAINTENANCE INSTRUCTIONS / Stripping for Cleaning - Disassembly, printed p.10, step 9",
+   "warn": "When a great number of cartridges has been fired, it is advisable to also disassemble magazine and to entrust the pistol to a competent gunsmith for the firing pin cleaning."
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "When CZ says to clean it",
+   "action": "Clean the pistol each time you use it, if it gets wet, as soon as possible after shooting, at least once a year in a temperate climate, and as often as monthly in a tropical or otherwise demanding environment.",
+   "prose": "The annual and monthly figures are for a pistol that is NOT being shot — they are storage intervals, and they are the ones people miss.",
+   "quote": "As often as once a month in a tropical climate, or other demanding environment",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — Cleaning the Pistol, printed p.11-12"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Rod from the chamber, and never reverse a brush",
+   "action": "Insert the cleaning rod and brush into the bore FROM THE CHAMBER end, and pass the brush all the way through before reversing.",
+   "prose": "⛔ Two separate reasons, both CZ's own: entering from the muzzle wears the crown, and reversing a brush mid-bore sticks it. A stuck brush is a workshop job.",
+   "quote": "The cleaning rod and the brush must be inserted into the barrel bore from the chamber, to prevent wear or damage to the muzzle. Pass the brush all the way through the barrel bore before reversing the movement.",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — Cleaning the Pistol, printed p.11-12",
+   "warn": "If you try to change directions with the brush in the barrel, the brush could stick."
+  },
+  {
+   "phase": "Deep",
+   "title": "Solvent for ten minutes on a dirty bore",
+   "action": "If the bore is only lightly used, clean patches on the rod until the last one comes out clean. If it is very dirty, apply a gun cleaning solution with a brush and let the solvent work for about ten minutes before scrubbing.",
+   "prose": "Ten minutes is CZ's figure and it varies with the solvent — the point is that solvent does the work and scrubbing wet does not.",
+   "quote": "Let the solvent act for about 10 minutes",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — Cleaning the Pistol, printed p.11-12"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ NEVER put bore solvent on the rest of the pistol",
+   "action": "Clean every other part — including the OUTSIDE of the barrel — with a dry cloth, an old toothbrush, a brass bristle brush or a wooden scraper. Preserving oil or paraffin oil may be used.",
+   "prose": "⛔ This is the instruction on the whole job that costs the most to ignore, and the damage does not show for months. Bore solvent creeps into the joints, stays there, and corrodes them from the inside.",
+   "quote": "Other parts of the pistol (including the external surfaces of the barrel) should be cleaned with a dry cloth, old toothbrush, brass bristle brush or a wooden scraper.",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — Cleaning the Pistol, printed p.11-12",
+   "warn": "Never use the agent designed for barrel bore cleaning! These solutions could remain in the joints, and after some time could cause corrosion."
+  },
+  {
+   "phase": "Deep",
+   "title": "Magazine base off — thumb over it",
+   "action": "Push the base lock that protrudes through the hole in the magazine base and slide the base about 5 mm FORWARD. Keep your thumb over the base while the other hand takes it off its guide rails.",
+   "prose": "⛔ The spring is compressed behind that plate and CZ names injury specifically. Forward, five millimetres, thumb down — in that order.",
+   "quote": "To remove the magazine base, push on the base lock which sticks out through a hole in the base and slide the base about 5 mm towards the front of the magazine.",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — Magazine Disassembly, printed p.10",
+   "warn": "Be careful during the disassembly as the spring could fly out, or even cause an injury."
+  },
+  {
+   "phase": "Deep",
+   "title": "Check for bristles before anything goes back together",
+   "action": "Before reassembly, check that no cloth particles or brush bristles have lodged anywhere in the pistol.",
+   "prose": "A brass bristle in a firing pin channel or under an extractor is a malfunction that looks like a broken part, and it is introduced by the cleaning itself.",
+   "quote": "Check that cloth particles or brush bristles have not become lodged in any part of the pistol.",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — Cleaning the Pistol, printed p.11-12"
+  },
+  {
+   "phase": "Deep",
+   "title": "Oil, then take most of it back off",
+   "action": "With the bore, chamber and all accessible parts clean and dry, wipe them with a cloth soaked in gun oil or spray it on — then remove all the excess. Wipe the bore DRY before shooting.",
+   "prose": "⚠ In very cold weather CZ says to remove the oil from all accessible parts entirely, or use a lubricant made for those temperatures. Thick preserving grease is for long-term storage only and must be removed completely before the pistol is used.",
+   "aside": "Before shooting always wipe the barrel bore dry.",
+   "quote": "When the barrel bore, cartridge chamber, and all accessible parts are clean and dry, wipe these parts with a cloth soaked in gun oil or apply the oil in a spray. Remove all excess oil.",
+   "cite": "CZ P-09 Instruction Manual (en/es) — Instruction Manual, English/Spanish (no form code printed) — Cleaning the Pistol, printed p.11-12"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL BORE & CHAMBER",
+   "tasks": [
+    "Rod and brush in FROM THE CHAMBER, all the way through before reversing",
+    "Solvent on a brush for a very dirty bore, ten minutes to work, then scrub",
+    "Dry patch, then check no residue remains; wipe the bore dry before shooting"
+   ]
+  },
+  {
+   "name": "SLIDE, FRAME & BARREL EXTERIOR",
+   "tasks": [
+    "⛔ NO bore solvent here — dry cloth, old toothbrush, brass brush or a wooden scraper only",
+    "Preserving or paraffin oil is acceptable on these parts",
+    "Check for lodged bristles and cloth before reassembly"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Strip only after a large round count, base forward 5 mm with a thumb over it",
+    "Wipe the body and follower dry — no oil where ammunition sits",
+    "Check the feed lips before it goes back together"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Barrel into the slide, then the recoil spring.",
+  "Run the slide and barrel back onto the frame from the front.",
+  "Align the guidelines, insert the slide stop from the left and seat it.",
+  "Work the slide, then decock or apply the safety as your pistol's controls allow."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty, rack the slide several times, check the slide stop holds the slide back on an empty magazine, and confirm the safety or decocker operates as it should."
+}

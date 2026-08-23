@@ -1,0 +1,215 @@
+{
+ "row": "fnscar16s",
+ "make": "FN",
+ "model": "SCAR 16S",
+ "sourcedFrom": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 (2026)",
+ "sourceSha256": "3c113549b2806756de198b6d4af97671eb5a8744744dad1b513874d7fdeacff2",
+ "cleanIntro": "The 5.56 SCAR strips into modules with finger pressure and no tools: takedown pin, trigger module down, buttstock module off the backplate, then the whole moving parts assembly out of the rear of the receiver. This is FN's second-generation book, so the first step is settling which generation of rifle is in front of you — the strip below removes two charging handles and a charging sled, which a first-generation rifle does not have.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Which SCAR is this? Second generation, NRCH, or first",
+   "action": "Look at the charging handle before anything else. This manual is written for the second generation FN SCAR 16S, and its strip removes two charging handles and a charging sled. If your rifle has a single handle that reciprocates with the bolt as it fires, it is an earlier SCAR and FN publishes a different book for it.",
+   "prose": "FN's own notice in the firing section is the tell: current and previous SCAR rifles fitted with a non-reciprocating charging handle have handles that do not move as the rifle cycles. That phrase only makes sense in a book that comes after both the 2016 original and the 2021 NRCH edition. Applying this procedure to a first-generation 16S will have you looking for parts that are not there, and stopping to work out why is much cheaper than levering at a receiver that is not built the way the picture shows.",
+   "aside": "The book's own scope line, from the page 2 block: Second generation FN SCAR® 16S, 17S and 20S Autoloading Rifles.",
+   "quote": "NOTICE! THE CHARGING HANDLES ON CURRENT AND PREVIOUS FN SCAR RIFLES EQUIPPED WITH NONRECIPROCATING CHARGING HANDLE (NRCH) WILL NOT MOVE AS THE RIFLE CYCLES.",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §14.1 Firing procedures, notice, p.26"
+  },
+  {
+   "phase": "Clear",
+   "title": "Read the caliber marking near the muzzle",
+   "action": "Check the caliber marking on the barrel near the muzzle and confirm it is what you intend to feed the rifle. On a 16S that is 5.56.",
+   "prose": "FN's SCAR family is deliberately confusing at a glance — the 16S, 17S and 20S share this manual, the same modular receiver and the same takedown, and the difference that matters is chambering. The 16S takes a 30-round standard magazine; the 17S takes 20 and the 20S takes 10, and the 17S and 20S share a magazine pattern the 16S does not. If a magazine looks like it should fit but does not, that is the family telling you something, not a fault.",
+   "quote": "To verify the caliber/cartridge your FN SCAR is chambered in, refer to the caliber marking located on the barrel near the muzzle. See Figure 11. Only use factory-made ammunition that matches this description.",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §11 Ammunition, p.21",
+   "warn": "The FN SCAR 16S, 17S and 20S magazines are unique for the rifles and should not be used in other rifles. No other magazine type should be used in your rifles."
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety selector on safe, magazine out",
+   "action": "Put the safety selector in the on-safe position and keep the muzzle pointed safely. Press the ambidextrous magazine release just in front of the trigger guard and take the magazine out with your free hand.",
+   "prose": "The magazine release works from either side, which is convenient and is also why a SCAR magazine can be dropped by accident against a plate carrier — press it deliberately and catch the magazine. Take it right out before the charging handle is touched: with a loaded magazine in the well, working the action feeds the rifle rather than clearing it. A 16S magazine holds 30 rounds as standard, so it is not something to let fall.",
+   "quote": "Press the ambidextrous magazine release and remove the magazine.",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §15.1 Unloading the rifle, step 2, p.29"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt back, locked open, and look into the chamber",
+   "action": "Pull the charging handle rearward to draw the bolt to its rearmost position, press the ambidextrous bolt lock to hold it there, then hold the bolt open and look into the chamber to be certain no live cartridge is present.",
+   "prose": "FN warns in the same step that the bolt will not lock back automatically when the magazine has been removed or a loaded magazine is present — so you must press the bolt lock yourself. That is the trap on this rifle: the bolt running forward behind you feels exactly like a rifle you have already cleared. Get your eye to the port and confirm it, then close the bolt with the safety still on safe.",
+   "quote": "pulling rearward on the charging handle to draw the bolt to its rearmost, open position and pressing the ambidextrous bolt lock as explained in Section 10.2. Please note that the bolt will not automatically lock in the rearward position when the magazine is removed or when a loaded magazine is present. As a good safety practice, hold the bolt open and visually inspect the chamber to be absolutely certain a live cartridge is not present (Figure 18).",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §15.1 Unloading the rifle, step 3, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gas regulator to 3 o'clock before you take anything off",
+   "action": "Looking from the muzzle end, turn the gas regulator to the 3 o'clock position — the setting FN designates for disassembly, cleaning and reassembly. Cycle it a couple of times first so it moves freely, and use a small flathead to push in the detent as you turn it.",
+   "prose": "Three positions, three jobs, and the rifle will not come apart properly on the wrong one: 2 o'clock is standard operation, 10 o'clock is suppressed, and 3 o'clock is the disassembly position. Cycling the regulator two or three times before setting it is FN's own recommendation and it also tells you whether carbon has started to seize it. Most of the carbon from the gas system is blown out through the vent hole in the front of the regulator, so a regulator that has gone stiff is the earliest warning you get.",
+   "quote": "3 o’clock setting - Disassembly, cleaning, and reassembly (Figure 17).",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §14.2 Adjusting the gas regulator, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin out to the right — it is captive",
+   "action": "Push in on the takedown pin from the left side and pull it out to the right until it stops. It will not come out completely and should not be forced.",
+   "prose": "The pin is captive in the trigger module, so it travels to a stop and stays put — anyone expecting a loose pin will be levering at something that is doing exactly what it should. Finger pressure is the whole specification: FN states the disassembly is designed to be done with finger pressure only and no tools, and that if you cannot do it that way you stop and contact the FN Service Center. Put the rifle flat on the bench so nothing is under tension while the pin moves.",
+   "caution": "IMPORTANT: THE TAKEDOWN PIN IS CAPTIVE AND CANNOT BE REMOVED COMPLETELY FROM THE TRIGGER MODULE.",
+   "quote": "Push in on the takedown pin from the left side (Figure 31) and pull it out to the right until it stops (Figure 32).",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §19.1 Removal of the trigger module, step 2, p.36"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger module forward, then down and out",
+   "action": "Push the trigger module forward to release it from the backplate, then pull down to take it out of the receiver.",
+   "prose": "Forward first, then down — the module locks into the backplate at the rear, so pulling straight down against that engagement just flexes the polymer. It should release with hand pressure and drop clear as one unit. Do not take the module itself apart: FN's instruction is that no part of the trigger module is to be altered or disassembled, and any service on it goes to the FN Service Center or your armorer.",
+   "aside": "FN's own next line: Pull down to remove the trigger module from the receiver (Figure 34).",
+   "quote": "Push the trigger module forward, releasing it from the from the backplate (Figure 33).",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §19.1 Removal of the trigger module, step 3, p.36"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buttstock module off the backplate",
+   "action": "With the trigger module out, push the buttstock module downward and off the receiver assembly backplate.",
+   "prose": "The 16S carries the carbine buttstock module — the side-folding one, adjustable for length of pull and cheek rest height — and it slides down off the backplate rather than pulling straight back. Fold it in or leave it out, it makes no difference to the removal, but do not have it locked against the shell deflector while you try. FN gives the 20S a completely different SSR stock in its own section, so if yours does not behave like this, check which rifle you are holding.",
+   "aside": "The 16S stock section: The SCAR 16S/17S carbine buttstock module has side-folding capabilities and is adjustable for length of pull (LOP) and cheek rest height to allow the stock to be adjusted to fit the size of the user.",
+   "quote": "Push the buttstock module downward and off the receiver assembly backplate (Figure 35).",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §19.2 Removal of the buttstock module, step 3, p.37"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and guide rod out of the back",
+   "action": "With the backplate exposed, pull the recoil spring and guide rod assembly straight out of the rear of the receiver.",
+   "prose": "It comes out as one assembly and it is the part that has been holding the bolt carrier forward, so expect a little resistance right at the start and none after. Keep it clear of grit — it runs the full length of the receiver and anything it picks up ends up under the carrier. This is the point at which the rifle is no longer under any spring load.",
+   "quote": "Remove recoil spring / guide rod assembly by pulling it out of the rear of the receiver (Figure 36).",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §19.3 Removal of the moving parts assembly, step 3, p.38"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier out with the charging handle left forward",
+   "action": "Leave the charging handle fully forward. Reach inside the rear of the receiver and slide the bolt carrier assembly out of the back, then separate the bolt carrier body from the bolt carrier front rail.",
+   "prose": "The charging handle has to stay forward or its lug fouls the carrier on the way out — that is why FN puts it in the instruction rather than leaving it to chance. There is a neater way FN offers as an alternative: hold the handle forward and locked, put your hand at the rear of the receiver and raise the muzzle, and the carrier body and front rail slide out into your palm under their own weight. Either way, catch them; the front rail separates from the body and will drop.",
+   "quote": "While leaving the charging handle fully forward, reach inside of the receiver and slide the bolt carrier assembly out of the rear of the receiver (Figure 37). Separate the bolt carrier body from the bolt carrier front rail (Figure 38)",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §19.3 Removal of the moving parts assembly, step 4, p.38"
+  },
+  {
+   "phase": "Strip",
+   "title": "Both charging handles out at the rearmost slot opening",
+   "action": "Pull the charging handles rearward until they line up with the rearmost opening in the charging handle slots, then pull them straight out — both of them.",
+   "prose": "This is the step that only exists on a second-generation rifle: there are two handles, one each side, and each only comes out where its slot widens at the very back. Line them up and they lift out with no force; a millimetre off and they will not budge, which is a positioning problem, not a stuck part. If your rifle has one handle and it moves as the rifle fires, you are on the wrong book.",
+   "quote": "Pull the charging handles rearward until they align with the rear most opening in the charging handle slots. Remove both charging handles by pulling them out (Figure 39).",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §19.3 Removal of the moving parts assembly, step 5, p.38"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging sled out of the rear — and no further",
+   "action": "Reach inside the receiver and slide the charging sled out of the rear. Stop there: FN says not to disassemble the sled beyond this point.",
+   "prose": "The sled is what the two charging handles drive, and it is the last item out of the receiver. It comes out the same way the carrier did, straight back and into your hand. It looks as if it should come apart further and it should not — the same notice that governs the rest of this strip applies, that attempting to disassemble the inner mechanism assemblies can damage the rifle beyond repair or lose small parts.",
+   "quote": "Reaching inside the receiver, slide the charging sled out of the rear of the receiver (Figure 40). Do not disassemble the charging sled beyond this point.",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §19.3 Removal of the moving parts assembly, step 6, p.38"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Receiver and barrel, trigger module, carbine buttstock module, recoil spring and guide rod, bolt carrier body and front rail, two charging handles, charging sled, magazine. All of it by finger pressure and no tools.",
+   "prose": "That opens the 5.56 bore and chamber from the breech, the interior of the receiver, the bolt carrier and its rail, the sled and the trigger module's exterior. FN wants the rifle cleaned after every day of shooting and sooner if the session got dirty, with a minimum clean being a wipe-down and lubrication of key parts. Stripping the bolt itself, and pulling the gas regulator and piston, are published in this manual and sit behind Deep Clean.",
+   "quote": "NOTICE! THE FOLLOWING DISASSEMBLY PROCEDURES ARE DESIGNED TO BE PERFORMED WITH FINGER PRESSURE ONLY AND NO TOOLS ARE REQUIRED.",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §19 Disassembly, notice, p.36",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Bolt out of the carrier: retaining pin, firing pin, cam pin, bolt",
+   "action": "With the moving parts assembly out, push the firing pin retaining pin out of the bolt carrier body from right to left using the corner of one of the charging handles or a punch. Take the firing pin out of the rear, take the bolt cam pin out of the left side of the bolt, then pull the bolt out of the front of the carrier body.",
+   "prose": "Right to left is the direction FN specifies for the retaining pin, and the corner of a charging handle is the tool the rifle supplies itself — which is a decent hint about how much force is appropriate. Once the retaining pin is clear the firing pin drops out the back, so keep the carrier nose down. Stop at the bolt: FN says not to disassemble the bolt assembly, and not to take the buffer off the carrier body.",
+   "aside": "The preceding step: Remove the bolt cam pin from the left side of the bolt (Figure 43).",
+   "quote": "Remove the bolt from the front of the bolt carrier body (Figure 44). Do not disassemble the bolt assembly. Do not disassemble the buffer from the bolt carrier body.",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §19.4 Disassembly of the moving parts assembly, step 8, p.40"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gas regulator out at 3 o'clock, then the piston pushed out",
+   "action": "With the trigger module, buttstock and moving parts already out, remove the heat shield if fitted, turn the gas regulator to 2 o'clock, then push the detent in with a small flathead and turn the regulator clockwise to 3 o'clock. Take the regulator out towards the front of the gas block and out through the receiver opening. Then, muzzle down on a soft surface, thread the piston removal tool onto a cleaning rod, guide it in from the rear along the upper interior rails until it meets the rear of the piston, and tap softly until the tool body touches the gas block — the piston can then be taken out the front of the gas block through the receiver window.",
+   "prose": "This is the only part of the SCAR strip that needs tools, and both of them are specific: a small flathead for the detent and the piston removal tool on an 8-32 threaded cleaning rod. Softly is the operative word on the tapping — you are driving a piston out of a gas block, not a stuck pin, and the tool bottoming against the block is the stop. Take the heat shield out first if one is fitted; FN says it makes access to the regulator and piston easier, and it does.",
+   "quote": "Use a small flathead screwdriver or similar tool to push in on the gas regulator detent and turn the gas regulator clockwise to the 3 o’clock position (Figure 45 A-B).",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §19.5 Removal of the gas regulator and gas piston, step 8, p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "The gas system is cleaned dry — no lubricant at all",
+   "action": "Wipe the gas piston with a cleaning cloth, using a bronze bristle brush if carbon has built up on it. Inspect the gas ports in the regulator and clear any carbon with a dental pick if they are fouled. Put no lubricant on the piston, the regulator or the gas block.",
+   "prose": "This is the rule that separates the SCAR from a direct-impingement rifle at the bench: the gas system runs dry by design, and oil in there bakes into a varnish that seizes the regulator and can damage the rifle. Carbon on the piston is normal and comes off with a cloth and a brush; blocked regulator ports are not normal and are the reason a SCAR starts cycling badly. The vent hole in the front of the regulator is what blows most of the carbon clear, so keep it open.",
+   "quote": "Inspect the gas ports in the gas regulator to ensure they are free of debris and carbon build-up.",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §20.1 Cleaning procedures, step 9, p.44",
+   "warn": "NOTICE! DO NOT APPLY LUBRICANT TO THE GAS PISTON, GAS REGULATOR OR GAS BLOCK, THESE COMPONENTS ARE NOT TO BE LUBRICATED IN ANY WAY. USING LUBRICATION IN THE GAS SYSTEM COULD DAMAGE YOUR RIFLE."
+  },
+  {
+   "phase": "Clean",
+   "title": "Trigger module: hammer lowered under thumb, then cleaned in place",
+   "action": "With the trigger module out of the receiver, move the safety selector to off safe, put your thumb over the hammer and pull the trigger, keeping tension on the hammer and lowering it slowly to its forward resting position. Clean the group with a polymer-safe aerosol gun cleaner, let it dry, then lightly lubricate the trigger and hammer contact points.",
+   "prose": "Letting the hammer slam forward on a module that is out of the rifle is what damages it — there is no bolt carrier there to take the blow, so the hammer runs into its own stop at full speed. Thumb on it, trigger pulled, lowered under control. Clean it where it sits and do not go further: FN's instruction is not to alter or attempt to disassemble any part of the trigger module, and the trigger has already been set at the factory to a pull it does not want changed.",
+   "quote": "Release the hammer by placing your thumb over the hammer and pulling the trigger. Be sure to keep tension on the hammer and lower it slowly to the forward resting position.",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §20.2 Cleaning the trigger module, step 4, p.45",
+   "warn": "NOTICE! NEVER ALLOW THE HAMMER TO SLAM FORWARD, THIS MAY DAMAGE THE TRIGGER MODULE."
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore and chamber: bronze yes, stainless never",
+   "action": "Clean the 5.56 bore from the breech end with a rod, brass jag and a snug patch wet with military-grade cleaner. If fouling is heavy use a bronze bore brush, pushing it completely through the barrel before withdrawing it. Use an M16-style chamber brush sized for the chamber, rotated clockwise several times. Wipe dry, then a lightly lubricated patch for preservation.",
+   "prose": "A stainless brush will take the chrome lining out of a SCAR barrel, and that is not recoverable. Pushing the bronze brush all the way through before it comes back is what stops bristles snapping off inside the rifling. Keep the rod off the crown at the muzzle — FN singles that out because damage there costs accuracy directly, and on a 16S with a 16.25-inch barrel the crown is doing real work.",
+   "quote": "NOTICE! DO NOT USE A STAINLESS-STEEL BRUSH TO CLEAN THE BORE. IT COULD DAMAGE THE CHROME PLATING.",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §20.1 Cleaning procedures, step 3, p.44"
+  },
+  {
+   "phase": "Clean",
+   "title": "Suppressor choice is a warranty question on a SCAR",
+   "action": "If you shoot this 16S suppressed, use a properly installed forward-venting suppressor and switch the gas regulator to the 10 o'clock suppressed setting. Watch for the signs of the rifle running too fast: increased recoil, more gas at the ejection port, and cases thrown further forward than unsuppressed.",
+   "prose": "FN puts this in warranty terms, which is unusual and worth reading literally — a properly installed forward-venting can such as the QD556 or QD762 does not affect the rifle's warranty, and damage from improperly installed devices or high-back-pressure cans is not covered. The 10 o'clock setting is FN's suppressed position and the book is careful to say it does not guarantee safe and reliable operation with all suppressors. Aftermarket devices must be fitted by a qualified gunsmith with bore concentricity checked before use.",
+   "aside": "FN's suppressed gas setting: 10 o'clock setting - Suppressed operation. Does not guarantee safe and reliable operation with all suppressors (Figure 16).",
+   "quote": "A properly installed forward-venting suppressor, such as the FN QD556 and QD762, on your SCAR rifle will not affect the warranty of your rifle.",
+   "cite": "FN SCAR® 16S, 17S AND 20S SECOND GENERATION AUTOLOADING RIFLE OWNER'S MANUAL — 2512-SCAR 16S/17S/20S-OM 38-101764 — §14.1 Firing procedures, suppressor note, p.27"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER & LOCKING LUGS",
+   "tasks": [
+    "Rifle cleaning rod with a brass jag and a snug patch, wet with military-grade cleaner or lubricant, in from the breech end and worked back and forth several times",
+    "Keep the rod off the crown of the muzzle — damage there affects accuracy",
+    "Heavy fouling: bronze bore brush, pushed completely through before withdrawing so bristles do not break off in the bore",
+    "Never a stainless steel brush — it could damage the chrome plating",
+    "M16-style chamber brush sized for the chamber, cleaner applied, rotated clockwise several times",
+    "Wipe chamber and bore dry, then one lightly lubricated patch through for preservation, and check no patch has been left behind"
+   ]
+  },
+  {
+   "name": "RECEIVER, BOLT GROUP & SLED",
+   "tasks": [
+    "Small brush or rag through the inside of the receiver and the rest of the action, then light lubricant on all moving parts",
+    "Small brush and cleaner on the bolt, bolt carrier body, bolt carrier rail and charging sled — then wipe dry and reassemble",
+    "Wipe all exposed metal with a lightly oiled cloth so no finger marks are left; finger marks are where moisture accumulates",
+    "The metal should get a light film of oil any time the rifle has been exposed to weather or handling"
+   ]
+  },
+  {
+   "name": "GAS SYSTEM — DRY, AND MAGAZINE",
+   "tasks": [
+    "Cleaning cloth on the gas piston, bronze bristle brush if carbon has built up",
+    "Dental pick to clear the gas ports in the regulator if they are fouled",
+    "NOTHING on the piston, regulator or gas block — no lubricant of any kind, ever",
+    "Trigger module: polymer-safe aerosol cleaner, allowed to dry, then very light lubricant on the trigger and hammer contact points only",
+    "Magazine: polymer-safe aerosol cleaner sprayed inside and out, drained, dried with compressed air or left to air dry and lightly oiled. FN does not recommend disassembling the magazine"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Gas piston into the gas block with its gas rings towards the muzzle and the ring notches NOT aligned, then the regulator installed by pushing the detent in and rotating counterclockwise to the 2 o'clock position.",
+  "Bolt into the front of the carrier body with the extractor on the right, cam pin in with its tab horizontal, firing pin in from the rear, retaining pin seated firmly — it will not sit completely flush.",
+  "Charging sled in from the rear, then both charging handles refitted at the rearmost slot openings.",
+  "Bolt carrier assembly back into the rear of the receiver, then the recoil spring and guide rod assembly.",
+  "Buttstock module back up onto the backplate, then the trigger module rotated into place and the takedown pin pressed home from the right.",
+  "Confirm the safety selector is on safe, wipe down all external surfaces, and run the function check."
+ ],
+ "fncheck": "With the 16S empty and reassembled, FN's own check is two movements and a state: operate the charging handle and confirm the bolt assembly moves freely; operate the safety selector and confirm it moves between on safe and off safe freely; then leave the selector on safe and store the rifle. Add the gas regulator to that — it should cycle through its 2, 10 and 3 o'clock positions on its detent without sticking, and be left at 2 o'clock for standard operation."
+}

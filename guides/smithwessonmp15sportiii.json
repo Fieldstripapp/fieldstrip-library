@@ -1,0 +1,192 @@
+{
+ "row": "smithwessonmp15sportiii",
+ "make": "Smith & Wesson",
+ "model": "M&P15 Sport III",
+ "sourcedFrom": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 (2024)",
+ "sourceSha256": "d78b0c6d9571e66e18ee5aa74094e937cda6540ded176599687a4d4ff84c91d4",
+ "cleanIntro": "Smith & Wesson's centerfire MSR manual covers the M&P SPORT and S&W Volunteer series, and the M&P15 Sport III is a SPORT series rifle. It publishes a full field strip and, past that, a component teardown of the bolt carrier, the extractor and the buffer — so this listing has a Deep Clean as well.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Make sure this is the book for your rifle",
+   "action": "This procedure comes from Smith & Wesson's Safety & Instruction Manual for Centerfire Semi-Automatic Rifles, which scopes itself to the M&P SPORT series and the S&W Volunteer series. The M&P15 Sport III is a SPORT series rifle. Check the model number and serial number stamped on the left side of the lower receiver before you go further.",
+   "prose": "The book never prints \"Sport III\" as a variant name — it identifies rifles by series and shows the model number location in a figure instead, which is how one document covers a decade of SPORT and Volunteer production. A Sport III is the SPORT series rifle with the forward assist and dust cover restored; neither part changes the takedown, and the book already shows the dust cover and bolt assist in its identification figures. If your rifle carries a Juggernaut Tactical magazine lock with a quick-release rear takedown pin, this is the wrong book: that configuration has its own California-compliant manual and its own takedown.",
+   "aside": "Record the serial number before shipping, in case you wish to check on the repair status of your firearm.",
+   "quote": "NOTE: The M&P® SPORT™ Series and S&W® Volunteer® Series of rifles, as sold by Smith & Wesson®, are classified as rifles.",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Model and Features Identification note, p.2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out — that alone does not unload it",
+   "action": "Point the muzzle in a safe direction with your finger off the trigger, press the magazine release and take the magazine out of the rifle. Then strip the remaining live rounds out of the magazine by sliding them forward and out.",
+   "prose": "Smith & Wesson prints the warning in capitals because it is the mistake people make: the chamber holds a round independently of the magazine, and a rifle with the magazine out will still fire if one is chambered, the safety is on FIRE and the trigger is pulled. The magazine coming out is step one of unloading, not the whole of it.",
+   "quote": "Press magazine release and remove magazine from the rifle",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Unloading, p.27",
+   "warn": "REMOVING THE MAGAZINE FROM A SMITH & WESSON® M&P® RIFLE DOES NOT UNLOAD THE CHAMBER."
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt back, held open, safety to SAFE, and look",
+   "action": "Pull the charging handle fully to the rear and push in the lower portion of the bolt catch to hold the bolt open. Return the charging handle forward until it latches, set the safety selector to SAFE, then look into the chamber through the ejection port and confirm it is empty.",
+   "prose": "Pull the charging handle uniformly by both sides — dragging it by one ear cants it in its channel and it will bind. The order matters here: the safety on an AR-pattern rifle cannot rotate to SAFE with the hammer down, so if the selector will not turn, that is the rifle telling you the hammer needs to be cocked by cycling the bolt, not that the selector is stiff.",
+   "quote": "Look into the chamber through ejection port to ensure that the chamber is empty",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Unloading, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt forward, then push the rear takedown pin through",
+   "action": "Push the top of the bolt release so the bolt runs fully forward to the closed position. Then push the takedown pin — the one above and behind the trigger — in from the left side, and pull it out on the right until it comes to a positive stop.",
+   "prose": "Close the bolt first. Splitting the receivers with the bolt locked back leaves the carrier free to run out of the upper the moment it tips open, and it also puts the buffer under load against a lower you are about to swing away. The pin is captive by design and stops when it is far enough out; if you are still pulling, you are pulling on the wrong thing.",
+   "quote": "The takedown pin is captive and does not come fully out.",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Field Stripping/Disassembly, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hinge the lower away from the upper",
+   "action": "Pivot the lower receiver down and away from the upper receiver on the front pivot pin. If you want them fully apart, press the front pivot pin out in the same way and separate the two receivers completely.",
+   "prose": "For routine cleaning the hinge is enough — it opens the bolt raceway and the underside of the charging handle, which is where the fouling actually is. The front pivot pin is captive as well and cannot come out completely, so nothing is going to roll off the bench.",
+   "caution": "Never dry-fire the rifle when it is disassembled. Damage to the parts may result.",
+   "quote": "Pivot lower receiver down and away from upper receiver",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Field Stripping/Disassembly, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier out, down and back",
+   "action": "Unlatch the charging handle and pull it to the rear, then take the bolt carrier assembly out of the upper receiver with a down-and-back motion.",
+   "prose": "The carrier rides out on the charging handle and then drops clear of it; if it will not come, the handle has not been pulled far enough back for the gas key to clear its channel. Everything you need for a routine clean is now in your hand.",
+   "quote": "Once the charging handle is pulled rearward, remove bolt carrier assembly down and back out of the upper receiver",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Field Stripping/Disassembly, p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle back to the notch, then down and out",
+   "action": "With the carrier out of the way, pull the charging handle backwards to the takedown notch and drop it down out of the upper receiver.",
+   "prose": "The notch is a widened cutout in the underside of the upper that lines up with the wide section of the handle. It only lines up at one point in the travel, which is why the handle refuses to come out anywhere else and why forcing it there bends the ears.",
+   "quote": "Remove charging handle by pulling it backwards to the takedown notch",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Field Stripping/Disassembly, p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Upper, lower, bolt carrier group and charging handle, with the magazine set aside. That is the field strip Smith & Wesson publishes for this rifle, and it is enough for a routine clean. The component teardown of the carrier, the extractor and the buffer is in Deep Clean.",
+   "prose": "The manual draws its line here in capitals, and it draws the same line three separate times — in the field-stripping section, in the assembly section and again in cleaning. What lies beyond the procedures it prints is a gunsmith's work with factory-authorized parts.",
+   "quote": "NEVER DISASSEMBLE YOUR FIREARM BEYOND THE DISASSEMBLY/FIELD STRIPPING PROCEDURE DETAILED IN THIS MANUAL, OR PERFORM ANY MAINTENANCE, ADJUSTMENT, OR SERVICE NOT SPECIFIED.",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Field Stripping/Disassembly, p.29",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Bolt forward to unlocked, firing pin retaining pin out",
+   "action": "With the bolt carrier out of the rifle, grasp the bolt and pull it fully forward in the carrier to the forward-most, unlocked position. Then push the firing pin retaining pin out with a drift or a small punch — very little effort is needed.",
+   "prose": "The bolt has to be forward or the retaining pin fouls the firing pin collar and simply will not move, and that is when people reach for a hammer. It is a split cotter pin, and the manual is explicit that its split end must not be altered: squeezing it closed to make it feel tighter is exactly how it stops holding at all.",
+   "caution": "Do not alter the split end of the firing pin retaining pin.",
+   "quote": "grasp the bolt and pull it fully forward in the bolt carrier to the forward-most (unlocked) position",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Special Component Disassembly, p.34"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Bolt back to locked, firing pin out of the rear",
+   "action": "Push the bolt back into the carrier to put it in the locked position, then take hold of the rear of the firing pin and draw it out of the rear of the bolt carrier.",
+   "prose": "Unlocked to free the retaining pin, locked to release the firing pin — that reversal is the part of this sequence people get wrong. With the bolt back in the locked position the firing pin tail clears the cam pin and comes out of the back of the carrier under its own weight.",
+   "quote": "Grasp the rear of the firing pin and remove it out of the rear of the bolt carrier",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Special Component Disassembly, p.34"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Cam pin a quarter turn, then lift it out",
+   "action": "Turn the bolt cam pin a quarter turn, lift it out of the bolt carrier, and then pull the bolt forward and out of the carrier.",
+   "prose": "The quarter turn is what lines the cam pin's flats up with the slot in the carrier; without it the pin cannot pass and the bolt stays captive. Once the pin is out the bolt slides straight out the front. Note for reassembly: the cam pin only goes into the bolt from one side, and the staked side goes down.",
+   "quote": "Turn the bolt cam pin 1/4 turn",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Special Component Disassembly, p.34",
+   "warn": "THE BOLT CAM PIN MUST BE INSTALLED PRIOR TO FIRING."
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Test the extractor spring before you take it apart",
+   "action": "Press the rear of the extractor and feel for spring tension. If there is tension, leave it alone. If there is none, that is the signal to take the extractor off the bolt and clean both.",
+   "prose": "This is a diagnostic, not a routine step, and it is worth respecting as one — the extractor spring on an AR-pattern bolt carries an internal buffer and an o-ring, and every removal is a chance to lose or misalign one of them. A dead-feeling extractor is almost always carbon packed under it rather than a broken spring.",
+   "quote": "Press the rear of the extractor to check that the spring works",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Special Component Disassembly, p.35"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Extractor pin out, extractor off the bolt",
+   "action": "Press the extractor slightly and hold it down, then push the extractor pin out with a small drift and lift the extractor off the bolt. Clean both, and reassemble in reverse order: realign the extractor on the bolt, press to line the hole up, and put the pin back in.",
+   "prose": "Holding the extractor down is what takes the spring load off the pin so it drifts out instead of shearing. Further disassembly of the extractor parts is not needed and the manual says so; if the spring with its internal buffer and the o-ring get dislodged during cleaning, press the assembly back into the extractor with a flat drift rather than picking at it.",
+   "quote": "Press the extractor slightly and hold it down. Use a small drift to push the extractor pin out",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Special Component Disassembly, p.35"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Buffer and buffer spring out of the tube",
+   "action": "Push the buffer in slightly at the rear of the receiver, depress the buffer retainer to release it, and let the buffer and spring come out of the buffer tube under control. Clean both and reassemble in reverse order.",
+   "prose": "The buffer is under spring pressure the whole time, so keep a hand over it as the retainer releases — it will otherwise launch the spring across the room, and the small detent retainer with it. This is the one part of the teardown where the parts are trying to leave.",
+   "caution": "The buffer is under spring pressure. Control its movement as the retainer releases.",
+   "quote": "Push the buffer in slightly (at the rear of the receiver/front of the stock) and depress buffer retainer to release the buffer",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Special Component Disassembly, p.36"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Gas rings staggered, cam pin staked-side down, back together",
+   "action": "Assemble the rifle in the reverse order you took it apart. Stagger the gaps between the ends of the three gas rings on the bolt, put the cam pin in with the staked side down, and install the charging handle part-way into the upper first so the gas key rides up into its groove.",
+   "prose": "Staggering the gas ring gaps is the detail that decides whether the rifle short-strokes: three aligned gaps make one continuous leak path straight past the bolt. The cam pin only enters the bolt from one side, so if it will not drop in, turn it over rather than pressing harder.",
+   "quote": "There are 3 gas rings on the bolt. Stagger the gaps between the ends of the gas rings on the bolt when reassembling",
+   "cite": "Safety & Instruction Manual for\nCenterfire Semi-Automatic Rifles — p/n 3015611  S&W_M&P_CF_MSR_REV_022724 — Assembly, p.38",
+   "warn": "DO NOT INTERCHANGE BOLT ASSEMBLIES FROM ONE RIFLE TO ANOTHER."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Remove excessive firing residue from the bore and chamber with a properly fitted brass brush dipped in gun cleaning solvent",
+    "Finish by running a dry cotton cloth patch through the bore and chamber to carry residue and solvent out",
+    "Use a rod long enough to push the brush and jag completely through the barrel rather than reversing a brush inside the bore"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Scrape and solvent the carbon off the bolt tail, the bolt face and the locking lugs — that ring behind the bolt head is what eventually stops the bolt seating",
+    "Clean the inside of the carrier, the gas key channel and the cam pin slot",
+    "Clean under the extractor if it was removed; carbon packed beneath it is the usual cause of a dead-feeling extractor spring",
+    "Lubricate all metal parts by wiping them with a cloth dampened with a high-quality firearm oil, then remove the excess and leave a light film"
+   ]
+  },
+  {
+   "name": "RECEIVERS, BUFFER TUBE AND MAGAZINE",
+   "tasks": [
+    "Wipe the bolt raceway in the upper, the underside of the charging handle channel and the lower receiver interior",
+    "Wipe the buffer, spring and the inside of the buffer tube; do not oil the inside of the tube, it only collects grit",
+    "Clean the exterior of the rifle with a non-abrasive cloth and remove cleaning solution, oil and fingerprints",
+    "Keep magazines with the rifle they were designed for — a magazine from another model may insert and still not function properly"
+   ]
+  },
+  {
+   "name": "LEAVE ALONE",
+   "tasks": [
+    "The gas tube will discolor from heat. Do not attempt to remove the discoloration",
+    "Avoid prolonged solvent immersion and prolonged ultrasonic cleaning; never use ammoniated or other strong alkaline solvents",
+    "It is not generally necessary to remove the forend for routine cleaning; if a one-piece rail is fitted, just check its three screws are secure"
+   ]
+  },
+  {
+   "name": "AFTER CORROSIVE PRIMERS, AND BEFORE STORAGE",
+   "tasks": [
+    "Oil and solvent-based cleaners will NOT dissolve corrosive primer residue — it must be dissolved with a water-based cleaner, then the excess water-based cleaner removed and every metal part re-oiled",
+    "For extended storage oil the bore, chamber and internal surfaces and coat the receiver, bolt and barrel with an anti-rust oil",
+    "Do not store the rifle in leather or heavy cloth, or with a plug in the barrel",
+    "Check for signs of wear every time you clean it; if wear is noted, stop using the rifle"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Assemble the rifle in the reverse order you took it apart, with the chamber and magazine well confirmed empty first.",
+  "Install the charging handle part-way into the upper receiver, then feed the bolt carrier in so the gas key rides up into the charging handle groove, and push both home together.",
+  "Close the upper onto the lower and push the rear takedown pin back through until it seats flush on the left side; if a pin will not go, the receivers are not squarely closed.",
+  "Leave a light film of oil on all metal parts inside and out, and wipe the excess off."
+ ],
+ "fncheck": "With the magazine out and the chamber visually confirmed empty: cycle the charging handle and check the bolt runs fully into battery and locks, then that the bolt catch holds it open and releases cleanly from the top of the paddle. Confirm the safety selector rotates to SAFE with the hammer cocked and refuses to let the trigger move, and that it rotates to FIRE cleanly. Seat an empty magazine and pull on it to confirm the catch is holding, then press the release and check it drops free."
+}

@@ -1,0 +1,92 @@
+{
+ "row": "rugersr9c",
+ "make": "Ruger",
+ "model": "SR9c",
+ "sourcedFrom": "Ruger SR-Series (SR9, SR9c, SR40, SR40c, SR45) Instruction Manual — SR-Series (part code not printed on cover) (2014)",
+ "sourceSha256": "6a0341b4b332c4922085acacaa61351ec7b5d252cc858ea005780352ae9ff508",
+ "cleanIntro": "The SR-Series has a gate in the middle of its strip: the ejector must be pushed down and locked forward, or the pistol simply will not come apart.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, trigger forward",
+   "action": "Keep the pistol pointed in a safe direction and press down on the magazine latch to remove the magazine. The trigger must be forward for the pistol to come apart.",
+   "prose": "Ruger notes the trigger position as a precondition, not an afterthought.",
+   "quote": "Trigger should be in the forward position in order to disassemble the pistol.",
+   "cite": "Ruger SR-Series (SR9, SR9c, SR40, SR40c, SR45) Instruction Manual — SR-Series (part code not printed on cover) — Disassembly, step 1 note, p.27",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide open and check",
+   "action": "Pull the slide to the rear and lock it open by pressing upward on the rear of the slide stop, then confirm the chamber is empty.",
+   "prose": "Ruger repeats the chamber check here with an exclamation mark.",
+   "quote": "Again, be sure chamber is empty!",
+   "cite": "Ruger SR-Series (SR9, SR9c, SR40, SR40c, SR45) Instruction Manual — SR-Series (part code not printed on cover) — Disassembly, step 2, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Push the ejector down — nothing works until you do",
+   "action": "Keep upward pressure on the slide stop so the slide cannot run forward, then reach through the ejection port and push the ejector down until it locks in its forward position.",
+   "prose": "Use a finger or something non-metallic like a pencil eraser. Ruger is blunt about what happens if you skip it.",
+   "caution": "The open slide is under strong spring tension and could injure fingers if allowed to slam shut.",
+   "quote": "Further disassembly is impossible unless this is done.",
+   "cite": "Ruger SR-Series (SR9, SR9c, SR40, SR40c, SR45) Instruction Manual — SR-Series (part code not printed on cover) — Disassembly, step 3, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin out",
+   "action": "Take your fingers out of the ejection port, then press inward on the takedown pin from the right side of the pistol and remove it.",
+   "prose": "From the right side — the pin only travels one way.",
+   "quote": "From the right side of the pistol, press inward on the takedown pin",
+   "cite": "Ruger SR-Series (SR9, SR9c, SR40, SR40c, SR45) Instruction Manual — SR-Series (part code not printed on cover) — Disassembly, step 4, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Ease the slide off",
+   "action": "Carefully let the slide move forward until it is no longer under spring tension, then push it forward and off the frame.",
+   "prose": "Let the tension off before you push. This is the step the caution above is about.",
+   "quote": "Carefully allow the slide to move forward until it is no longer under spring tension. Now push the slide forward and remove the entire slide assembly from the frame.",
+   "cite": "Ruger SR-Series (SR9, SR9c, SR40, SR40c, SR45) Instruction Manual — SR-Series (part code not printed on cover) — Disassembly, step 5, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring off the lug",
+   "action": "With the slide upside down, slightly depress the recoil spring to disengage it from its seat against the barrel lug.",
+   "prose": "Depress, unseat, control it out.",
+   "caution": "Spring under tension. Keep it pointed away from your face.",
+   "quote": "With the slide held upside down, slightly depress the recoil spring to disengage it from its seat against the barrel lug.",
+   "cite": "Ruger SR-Series (SR9, SR9c, SR40, SR40c, SR45) Instruction Manual — SR-Series (part code not printed on cover) — Disassembly, step 6, p.28",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The SR-Series manual documents the field strip only — ejector, takedown pin, slide, recoil spring. No further disassembly is published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent patch through the bore, correctly sized brush, then dry patches until clean",
+    "Wipe the feed ramp and chamber mouth"
+   ]
+  },
+  {
+   "name": "SLIDE & FRAME",
+   "tasks": [
+    "Scrub the breech face and around the extractor",
+    "Wipe the striker channel DRY — no oil in an ignition channel",
+    "One drop of oil on each slide rail"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Wipe magazine bodies dry, inside and out — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Seat the recoil spring against the barrel lug and return the slide assembly to the frame.",
+  "Reinstall the takedown pin from the right side.",
+  "Release the ejector back to its normal position and cycle the action before handling further."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, confirm the ejector has returned to its normal position and the slide cycles freely, pointed in a safe direction."
+}

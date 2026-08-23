@@ -1,0 +1,89 @@
+{
+ "row": "silencercospectre22",
+ "make": "SilencerCo",
+ "model": "Spectre 22",
+ "sourcedFrom": "SilencerCo Spectre 22 Field Manual — ⛔ No form or revision code is printed in this book. (UNDATED)",
+ "sourceSha256": "d548898d2407393ad456ada7a1af97347ac4da61fa5a039b5fc86d28afb4765a",
+ "cleanIntro": "The Spectre 22 is a rimfire can built to come apart, and SilencerCo says so: \"The user-serviceable nature of the Spectre 22 makes cleaning quick and simple.\" Rimfire ammunition is filthy, so the interval matters. ⛔ Off the host firearm before anything comes apart, and note that the baffle stack goes back BLAST BAFFLE FIRST — it is not symmetrical.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ NO GAP at the shoulder — check the fit before firing",
+   "action": "This is the check that prevents a baffle strike. The thread mount must be FULLY shouldered against the barrel with no visible gap. If there is a gap, the silencer does not go on the gun that day.",
+   "quote": "The thread mount must be fully shouldered on the barrel. There should be no visible gap between the barrel shoulder and the face of the suppressor thread mount.",
+   "cite": "SilencerCo Spectre 22 Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Off the host firearm before anything comes apart",
+   "action": "Completely remove the silencer from the firearm before assembly or disassembly is attempted, with the action open and the chamber checked empty first.",
+   "quote": "Assembly and disassembly should never be performed while the suppressor is affixed in any manner to a host firearm.",
+   "cite": "SilencerCo Spectre 22 Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Caps off, stack out — and note which end is the BLAST BAFFLE",
+   "action": "Back cap off, baffle stack out of the tube. Look at which end came out last: the stack goes back BLAST BAFFLE FIRST, against the back cap. That is the one orientation detail on this can and it is easy to lose once the parts are in a tray.",
+   "quote": "Screw back cap onto either end of the suppressor tube until hand tight. Once back cap is shouldered, slide the baffle stack into the suppressor tube, blast baffle first, until the stack rests against the back cap.",
+   "cite": "SilencerCo Spectre 22 Field Manual — ⛔ No form or revision code is printed in this book. — Assembly & Disassembly"
+  },
+  {
+   "phase": "Clean",
+   "title": "Every 1,000 rounds",
+   "action": "SilencerCo names a number rather than leaving it to judgement. On a rimfire can that is a real interval, not a formality — lead and unburnt powder build up fast enough to make the parts hard to separate.",
+   "quote": "It is recommended to clean the Spectre 22 after 1,000 rounds.",
+   "cite": "SilencerCo Spectre 22 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Internals take solvent and even ultrasonic — the TUBE does not",
+   "action": "The internal components can be cleaned with solvents, ultrasonic tanks or light abrasive media. ⛔ The OUTER TUBE is excluded from all of that — SilencerCo puts the exclusion in capitals in the sentence itself, and the serial number lives on that tube.",
+   "quote": "internal components (NOT the outer tube) can be cleaned using solvents, ultra sonic tanks, or light abrasive media.",
+   "cite": "SilencerCo Spectre 22 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Oil the baffles after a water-based cleaner",
+   "action": "If you used a water-based cleaner, lightly coat the baffles with oil or another corrosion-resistant product afterwards. Water left on a rimfire baffle stack rusts it where you cannot see.",
+   "quote": "If using a water-based cleaner, make sure to lightly coat the baffles with oil or other corrosion-resistant product after cleaning.",
+   "cite": "SilencerCo Spectre 22 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  }
+ ],
+ "deepAbsentReason": "SilencerCo publishes ONE level of disassembly for the Spectre 22 and it is the routine cleaning itself — the strip is what an owner does at the interval, not an occasional deep service. Nothing deeper is published and nothing was borrowed.",
+ "cleaning": [
+  {
+   "name": "STRIP FIRST",
+   "tasks": [
+    "⛔ Off the host firearm completely before anything comes apart",
+    "Firearm unloaded, action open, chamber checked"
+   ]
+  },
+  {
+   "name": "BAFFLES & INTERNALS",
+   "tasks": [
+    "Solvents, ultrasonic tanks or light abrasive media are all permitted",
+    "⛔ Oil the baffles after any water-based cleaner",
+    "Everything DRY before it goes back together"
+   ]
+  },
+  {
+   "name": "⛔ OUTER TUBE",
+   "tasks": [
+    "⛔ NOT solvents, NOT ultrasonic, NOT abrasives — the serial is on it"
+   ]
+  },
+  {
+   "name": "INTERVAL",
+   "tasks": [
+    "About every 1,000 rounds, sooner on dirty ammunition"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Back cap onto either end of the tube until hand tight and shouldered.",
+  "⛔ Baffle stack in BLAST BAFFLE FIRST, until it rests against the back cap.",
+  "Front cap on and tightened.",
+  "Threaded onto the barrel hand tight, no barrel thread visible, no gap at the shoulder."
+ ],
+ "fncheck": "Reassembled: back cap shouldered, ⛔ baffle stack in BLAST BAFFLE FIRST and resting against the back cap, front cap tightened. Mounted: hand tight with no barrel thread visible and no gap at the shoulder."
+}

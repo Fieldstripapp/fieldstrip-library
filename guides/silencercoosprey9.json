@@ -1,0 +1,93 @@
+{
+ "row": "silencercoosprey9",
+ "make": "SilencerCo",
+ "model": "Osprey 9",
+ "sourcedFrom": "SilencerCo Osprey Field Manual — ⛔ No form or revision code is printed in this book. This is the PRE-2.0 Osprey book — it prints \"Osprey 2.0\" zero times. (UNDATED)",
+ "sourceSha256": "de46ee90e9eb001a90f7d953162dd4c1b3ac0f3cf1200b9215fa8aece3384d1e",
+ "cleanIntro": "⛔ The Osprey 9 is a piston gun, and the piston assembly is the part that actually needs servicing. It is the pre-2.0 Osprey, so the control at the back is a CAM LEVER rather than the 2.0's indexing button — if a procedure you have read mentions pressing a button, it is describing the newer can.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Firearm unloaded and the action OPEN before the can moves",
+   "action": "Open the action and see that the firearm is visibly clear of ammunition — before the silencer goes on and before it comes off. A suppressed gun is quieter, not safer, and the book says so in as many words.",
+   "quote": "Before installing the silencer on the host firearm, be sure the firearm is unloaded and the action is opened so the firearm is visibly clear of any ammunition.",
+   "cite": "SilencerCo Osprey Field Manual — ⛔ No form or revision code is printed in this book. This is the PRE-2.0 Osprey book — it prints \"Osprey 2.0\" zero times. — WARNING"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ NO GAP at the shoulder — check the fit before firing",
+   "action": "This is the check that prevents a baffle strike. The thread mount must be FULLY shouldered against the barrel with no visible gap between the barrel shoulder and the face of the mount. If there is a gap, the silencer does not go on the gun that day.",
+   "aside": "Silencers must be free of obstructions such as mud, dirt, etc. DO NOT attempt to shoot through an obstructed silencer.",
+   "quote": "The thread mount must be fully shouldered on the barrel. There should be no visible gap between the barrel shoulder and the face of the silencer thread mount.",
+   "cite": "SilencerCo Osprey Field Manual — ⛔ No form or revision code is printed in this book. This is the PRE-2.0 Osprey book — it prints \"Osprey 2.0\" zero times. — WARNING"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Re-check tightness every 30 rounds",
+   "action": "Silencers back off under recoil, and a partly-unthreaded can is how baffle strikes happen. SilencerCo names an interval rather than leaving it to feel: verify the attachment is secure after about 30 discharges.",
+   "quote": "To ensure your silencer remains secure while firing, it is of the utmost importance that you frequently verify the silencer is securely tightened onto the barrel. We recommend checking the security of the attachment after 30 discharges of the firearm.",
+   "cite": "SilencerCo Osprey Field Manual — ⛔ No form or revision code is printed in this book. This is the PRE-2.0 Osprey book — it prints \"Osprey 2.0\" zero times. — WARNING"
+  },
+  {
+   "phase": "Strip",
+   "title": "Piston assembly out, and fully apart",
+   "action": "Remove the piston assembly from the back of the silencer and take all of its parts apart. This is the routine service on an Osprey — it is where the carbon collects and where a seized piston stops the host cycling.",
+   "quote": "The piston assembly should be regularly cleaned. Remove the assembly and disassemble all parts.",
+   "cite": "SilencerCo Osprey Field Manual — ⛔ No form or revision code is printed in this book. This is the PRE-2.0 Osprey book — it prints \"Osprey 2.0\" zero times. — Servicing the Piston Assembly"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ If it is stuck: back on the gun, CAM LEVER open, rotate",
+   "action": "A carbon-locked piston will not come out by hand. Thread the Osprey back onto the host, OPEN THE CAM LEVER, and rotate the can back and forth for a few seconds — that breaks the carbon up. Then lock the cam lever, take the can off, and carry on. ⚠ On the 2.0 this same trick uses the indexing button instead; do not mix them up.",
+   "aside": "After rotating the silencer back and forth for a few seconds, lock the cam lever, detach the Osprey, and continue disassembly.",
+   "quote": "If the assembly is difficult to remove from the back of the silencer, thread the Osprey back onto the host weapon, open the cam lever, and rotate the Osprey back and forth.",
+   "cite": "SilencerCo Osprey Field Manual — ⛔ No form or revision code is printed in this book. This is the PRE-2.0 Osprey book — it prints \"Osprey 2.0\" zero times. — Servicing the Piston Assembly"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrub the carbon off, then grease ONE O-ring",
+   "action": "Scrubbing brush and cleaner over every piston part until the carbon and buildup are gone. Then white lithium grease on the O-ring INSIDE the spring retainer, and the assembly goes back into the rear of the silencer. ⛔ Nothing abrasive: sandpaper or blast media ruins both the finish and the tolerances the piston depends on.",
+   "aside": "Never use hard abrasives such as sand paper or aluminum oxide blast media to clean your silencer components as this can ruin the finish and precise tolerances of your silencer, resulting in malfunction and further damage.",
+   "quote": "When finished, apply white lithium grease to the O-Ring inside the spring retainer, reinsert the piston assembly into the back of the silencer.",
+   "cite": "SilencerCo Osprey Field Manual — ⛔ No form or revision code is printed in this book. This is the PRE-2.0 Osprey book — it prints \"Osprey 2.0\" zero times. — Servicing the Piston Assembly"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Never submerge it, never ultrasonic",
+   "action": "Do not put the silencer completely into chemical cleaner and do not put it in an ultrasonic tank — either can damage it. The piston parts get scrubbed; the can does not get dunked.",
+   "quote": "Do not completely submerge in chemical cleaner or use an ultrasonic cleaner, as this has the potential to damage the silencer.",
+   "cite": "SilencerCo Osprey Field Manual — ⛔ No form or revision code is printed in this book. This is the PRE-2.0 Osprey book — it prints \"Osprey 2.0\" zero times. — Maintenance"
+  }
+ ],
+ "deepAbsentReason": "SilencerCo publishes ONE level of disassembly for this silencer and it is the routine cleaning itself — the strip in the Assembly & Disassembly section is what an owner does every cleaning interval, not an occasional deep service. There is nothing deeper published, and nothing was borrowed: the SEALED SilencerCo cans in this same batch publish LESS, not more, so there is no sibling to take a deeper procedure from even if one were wanted.",
+ "cleaning": [
+  {
+   "name": "PISTON ASSEMBLY (regularly)",
+   "tasks": [
+    "Out of the rear and fully disassembled",
+    "Scrubbing brush and cleaner, all carbon and buildup off",
+    "White lithium grease on the O-ring INSIDE the spring retainer",
+    "⛔ No sandpaper, no blast media, no hard abrasives"
+   ]
+  },
+  {
+   "name": "MOUNTING SURFACES",
+   "tasks": [
+    "Threads and shouldering surface clean; no gap at the shoulder"
+   ]
+  },
+  {
+   "name": "⛔ THE SILENCER BODY",
+   "tasks": [
+    "⛔ Never completely submerged in cleaner, never ultrasonic"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Piston parts reassembled, white lithium grease on the spring-retainer O-ring.",
+  "Assembly into the rear of the silencer, tightened until securely seated.",
+  "Threaded onto the host until seated securely against the barrel shoulder — no visible gap.",
+  "⛔ Cam lever locked before firing."
+ ],
+ "fncheck": "Piston assembly back in the rear and tightened until securely seated, with the spring-retainer O-ring greased. Mounted: hand tight against the barrel shoulder with no visible gap, and the cam lever locked. Re-check the attachment after about 30 rounds."
+}

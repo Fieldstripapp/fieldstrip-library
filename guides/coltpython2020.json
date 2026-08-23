@@ -1,0 +1,89 @@
+{
+ "row": "coltpython2020",
+ "make": "Colt",
+ "model": "Python (2020)",
+ "sourcedFrom": "OPERATOR’S MANUAL FOR: \nColt® Python™ Revolver — Rev. - (2020)",
+ "sourceSha256": "51af2e82642ba53331c6201fcef3f2ae2aaaf95a2bc5c6a0226c07677b63eee3",
+ "cleanIntro": "The Python's strip is the cylinder swung out to the left and the ejector rod pushed back — that is the whole of it. Colt publishes its cleaning and lubrication procedure against that open cylinder and states the revolver is not to be stripped further, so there is no Deep Clean path in this book.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Read your own Python first",
+   "action": "Before you touch anything, look at what is actually on your gun: the barrel length (Colt gives specifications for a 4.25\" version and a 6\" version), the front sight fitted, and whether the rear sight has adjustment screws. Read the cartridge designation rolled on the barrel and confirm it says .357 Magnum.",
+   "prose": "Colt built one book for several Python configurations. The 2020 Python ships with a red ramp front sight as standard but can carry a Tritium, brass bead or fiber optic front instead, and the sight section prints an adjustable rear with an elevation screw, a windage screw and a windage lock screw. The rest of this guide never touches a sight, but you need to know which gun is in your hand before a procedure tells you something that does not match it.",
+   "caution": "Colt also carries a double-action-only warning in this book. If your Python has no hammer spur it is DAO and there is no sear to hold the hammer back — never try to cock it.",
+   "aside": "The book contradicts itself on the rear sight: the Operating Features page calls it a fixed notch in the top strap, while the Sights page gives it elevation and windage screws. Believe your gun, not the page.",
+   "quote": "DETAILS OF THE SIGHTS FURNISHED WITH YOUR REVOLVER MAY BE DIFFERENT DEPENDING ON YOUR MODEL",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® Python™ Revolver — Rev. - — Operation — Sights, p.19"
+  },
+  {
+   "phase": "Clear",
+   "title": "Hammer down, finger out, cylinder out to the left",
+   "action": "Keep your finger off the trigger and outside the guard, confirm the hammer is fully down, then pull the cylinder latch to the rear and push the cylinder out to the LEFT side of the frame. It should swing out on the crane under light thumb pressure.",
+   "prose": "The latch is pulled rearward, not pressed inward — that is the Colt pattern and it catches people coming off other brands. The hand doubles as a safety device that stops the cylinder opening or closing while the hammer is cocked, so if the cylinder will not swing out, check the hammer before you push harder.",
+   "quote": "Open revolver by pulling cylinder latch to the rear and pushing the cylinder out to the left of the revolver.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® Python™ Revolver — Rev. - — Cleaning & Lubrication, step 3, p.17",
+   "warn": "Never force the cylinder open with the hammer cocked. Colt states this can damage the revolver mechanism."
+  },
+  {
+   "phase": "Clear",
+   "title": "Eject, then look and feel all six",
+   "action": "With the cylinder swung out and the muzzle raised, push the ejector rod rearward to lift every case or round clear of the chambers, take them out of the gun, and let the rod return on its own. Then check all six chambers by eye and by finger.",
+   "prose": "The ejector rod spring should carry the rod and ratchet back to their seated position without help; a rod that stays out or returns sluggishly is fouling behind the ratchet, which is exactly what the cleaning step for that area exists to remove. Six chambers means six checks — a Python holds six, and the one you skip is the one that was loaded.",
+   "quote": "Push ejector rod rearward forcing out all live rounds or empty cartridge cases from the chambers. When they are clear of the chambers, remove from revolver.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® Python™ Revolver — Rev. - — Cleaning & Lubrication, step 4, p.17",
+   "warn": "Colt's own standard: the revolver is clear only when all chambers are empty and the hammer is in the uncocked position."
+  },
+  {
+   "phase": "Strip",
+   "title": "Salt air, water, mud or sand — stop here",
+   "action": "If this Python has been used in salt air, water, mud or sand, do not carry on with a bench clean. Colt's instruction is that it goes to a competent gunsmith or back to Colt to be completely disassembled, cleaned and inspected.",
+   "prose": "This is the one condition in the book that takes the gun past what you may do to it. Salt and grit travel under the sideplate and into the lockwork, where nothing you can reach with a brush through an open cylinder will get them out, and the damage shows up later as a gritty double-action pull or a rusted rebound.",
+   "quote": "Note: If the revolver has been used in salt air, water, mud, or sand, it should be completely disassembled, cleaned, and inspected by a competent gunsmith or returned to Colt for service.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® Python™ Revolver — Rev. - — Maintenance, p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The cylinder is out to the left, the chambers are empty and the ejector rod is seated. That is the full extent of the strip Colt publishes for the Python — nothing else comes off, and the sideplate stays where it is.",
+   "prose": "You now have access to everything the cleaning procedure asks for: the bore, all six chambers, the front face of the cylinder, the rear face of the barrel, the frame window, and the ratchet with the ejector rod pushed back. Going further costs you the service agreement and buys you nothing this procedure needs.",
+   "quote": "IMPORTANT: DO NOT FIELD STRIP YOUR REVOLVER. IF YOU DO SO YOU WILL VOID YOUR SERVICE AGREEMENT.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® Python™ Revolver — Rev. - — Cleaning & Lubrication, closing note, p.18",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Colt's Python manual documents a cylinder-open clean only — thirteen numbered cleaning and lubrication steps against the bore, the six chambers, the cylinder faces, the ratchet and the frame — and then states in the same section that the revolver is not to be field stripped, that doing so voids the service agreement, and that any maintenance beyond this goes to a competent gunsmith or back to Colt. It publishes nothing further, so there is no deeper procedure to walk.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBERS",
+   "tasks": [
+    "Clean the bore of the barrel — a bore brush or a cleaning patch, depending on how much shooting the gun has had since the last clean",
+    "Clean each of the six chambers the same way, with a chamber brush or a patch",
+    "Finish each with a lightly oiled patch through the bore and through every chamber, leaving a thin film"
+   ]
+  },
+  {
+   "name": "CYLINDER FACES, RATCHET & FRAME",
+   "tasks": [
+    "With a small brush and a little cleaning solution, work the front face of the cylinder, the rear face of the barrel and the frame — this is where the ring of carbon from the barrel/cylinder gap builds",
+    "Clean the rear face of the cylinder and the ratchet, then push the ejector rod rearward and clean in behind the ratchet",
+    "Wipe all cleaning solution off the revolver before any oil goes on"
+   ]
+  },
+  {
+   "name": "OIL & WIPE DOWN",
+   "tasks": [
+    "If the internals need it, cock the hammer and put a few drops of oil in — Colt's own conditional, not a routine step",
+    "Wipe every external surface with a cloth lightly moistened with gun oil",
+    "Before the gun is fired again, run a dry patch through the barrel and each chamber to take as much oil back out as you can",
+    "If the Python has a decorative finish, keep solvents, thinners and gun-cleaning products off it — a soft cloth damp with water is what Colt specifies for that surface"
+   ]
+  }
+ ],
+ "reassembly": [
+  "With the hammer still down, push the cylinder into the frame until the cylinder latch moves forward into its closed position — press it home, never swing or slam it.",
+  "Rotate the closed cylinder until the bolt drops into a notch, so you know it is locked and indexed.",
+  "Dry-patch the bore and chambers before the next range trip; oil left in a chamber raises pressure and drives the case back against the recoil shield."
+ ],
+ "fncheck": "With every chamber confirmed empty and the hammer down: the cylinder latch should sit fully forward on its own and the cylinder should not swing out until the latch is pulled rearward; rotating the closed cylinder should end with the bolt dropping audibly into a notch; the cylinder should refuse to open or close with the hammer cocked, which is the hand doing its job; and with the trigger at rest there should be a gap between hammer and firing pin, because the transfer bar only rises while the trigger is held back."
+}

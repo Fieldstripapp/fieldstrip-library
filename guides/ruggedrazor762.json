@@ -1,0 +1,151 @@
+{
+ "row": "ruggedrazor762",
+ "make": "Rugged",
+ "model": "Razor 762",
+ "sourcedFrom": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document (UNKNOWN — no copyright line is printed anywhere in the document)",
+ "sourceSha256": "15427ec5a690971b06de2f1589a2759f85eae1fe2a871863159b05eb0208c368",
+ "cleanIntro": "The Razor762 is a sealed rifle can. Rugged publishes no way to open it — because of its construction and its exotic materials it needs, in Rugged's own words, limited service/maintenance, and the whole of that service is keeping the mounting threads clean and confirming the bore is clear. So the field strip below is exactly one operation: getting the can off the Dual Taper Lock muzzle device correctly. Everything else that matters on a Razor762 happens at the host end — thread concentricity, the crush washer that is prohibited outright, and the ammunition the operator has to match to the barrel's twist. The Razor762 is a suppressor and not a firearm, so clearing the rifle it comes off is the rifle's own manual's job.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host rifle — its own manual owns that procedure",
+   "action": "Magazine out, bolt or carrier locked back, then check the chamber by eye and by finger before you touch the can. Rugged prints this at the head of the removal procedure because a suppressor is a bore extension for as long as it is on the muzzle. This manual describes no host: how your rifle locks open, whether it locks open at all, and where its chamber can be seen are answered only by that rifle's own operator's manual. Read it first.",
+   "prose": "The Razor762 mounts on anything with the right muzzle device, so no single clearing routine could ever cover its hosts.",
+   "quote": "Before removal of your Razor762 suppressor, remove the magazine and check the chamber of the firearm to confirm that it’s in a safe condition and completely unloaded. Failure to do so could result in serious personal injury or death.",
+   "cite": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Razor762 Removal, p.2",
+   "warn": "Magazine out and chamber verified before the can is handled."
+  },
+  {
+   "phase": "Clear",
+   "title": "Never clean a Razor762 that is still on the gun",
+   "action": "The can comes off the host before any solvent, brush or compressed air comes near it. Rugged states this as a death-risk warning rather than a preference, and the mechanics are obvious once you see them: cleaning means gripping and twisting a tube that is locked to a muzzle with a chamber behind it. Put the rifle down clear and open and work on the suppressor as a separate object.",
+   "prose": "It also protects the rifle — solvent driven back into a muzzle device and crown is not a trade worth making.",
+   "quote": "Never attempt to clean a suppressor while it’s attached to a host weapon, as this could lead to personal injury or death.",
+   "cite": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "A crush washer is PROHIBITED under a Razor762 muzzle device",
+   "action": "If the Dual Taper Lock muzzle device on your barrel was installed on a crush washer, stop and have it redone before the Razor762 goes anywhere near it. Rugged prohibits crush washers outright on this mount and gives the reason: a crush washer times a device by deforming unevenly, so the device ends up sitting off the bore axis, and an off-axis device puts the can off-axis with it. The consequence Rugged names is a baffle strike. Timing is done with the supplied shims instead, and the device is locked with Red Loctite or Rocksett.",
+   "prose": "This is the one host-side error that destroys the suppressor rather than just degrading it. It is worth checking even on a device somebody else fitted.",
+   "quote": "The use of a crush washer is prohibited due to improper bore alignment, which can result in baffle strikes. DO NOT EVER USE A CRUSH WASHER",
+   "cite": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Muzzle Device Installation, p.2",
+   "warn": "No crush washer, ever, under a Razor762 muzzle device."
+  },
+  {
+   "phase": "Clear",
+   "title": "Host thread concentricity is the operator's problem, not the can's",
+   "action": "Before you mount a Razor762 on a rifle for the first time, satisfy yourself that the muzzle threads are actually concentric with the bore. Rugged calls this imperative, and it is the same failure mode as the crush washer approached from the other side: threads cut off-axis point the can off-axis, and nothing about the mount can correct it. Rugged's stated remedy if you are unsure is a qualified gunsmith, not a shim and not a guess.",
+   "prose": "A barrel threaded in a lathe off the bore rather than off the outside diameter is the usual culprit, and it is invisible by eye.",
+   "quote": "It is imperative that the host weapon’s threads are concentric to the bore. This ensures there is no misalignment between the bore and the suppressor. If you are unsure about the quality of the threads on your rifle, have it checked by a qualified gunsmith.",
+   "cite": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Concentricity, p.1",
+   "warn": "Unsure about the threads? A qualified gunsmith checks them, not you."
+  },
+  {
+   "phase": "Clear",
+   "title": "Ammunition — quality factory loads, and the twist is yours to match",
+   "action": "Rugged asks for quality factory-loaded ammunition of the correct grain weight in a Razor762, and puts the projectile-to-barrel-twist decision explicitly on the operator. A bullet too heavy for the barrel's twist rate leaves the muzzle unstable, and an unstable bullet entering a suppressor's bore is the other route to a baffle strike besides misalignment. This is a per-shooter check because only you know the twist of your barrel and what you are feeding it.",
+   "prose": "The 1:12 twist barrel and the heavy long bullet is the classic combination that gets a can hit.",
+   "caution": "Match the projectile to your barrel's twist. The manual will not do it for you.",
+   "quote": "Rugged Suppressors recommends that only quality factory loaded ammunition of the correct grain weight be used. It is up to the operator to determine the correct projectile/barrel twist to ensure proper stabilization in the host weapon.",
+   "cite": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Ammunition, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Let it cool to ambient before it moves to another host",
+   "action": "If you are taking the Razor762 off one rifle to put it on another, wait until it is back at ambient temperature before it goes on the new host. Rugged names ambient, not merely warm — a Dual Taper Lock relies on a friction taper and on spring arms in the locking collar, and hot metal seated onto cold metal does not stay where you put it once both settle. The same applies to changing between the short and long configurations.",
+   "prose": "This is the rule that gets broken at a range day with two rifles and one can. Plan the string order around it instead.",
+   "quote": "When transferring the Razor762™ between host weapons, wait until the suppressor has cooled to ambient temperatures before attaching the Razor762 to a new host.",
+   "cite": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Razor762 Installation, p.2",
+   "warn": "Ambient temperature before it goes on a new host."
+  },
+  {
+   "phase": "Strip",
+   "title": "Locking collar back a half turn to release the taper",
+   "action": "Turn the locking collar counter-clockwise half a rotation. That half turn is not a loosening in the ordinary sense — it disengages the rear locking taper, which is the friction lock holding the can concentric to the muzzle device. Use the lock and unlock arrows engraved on the suppressor body for the direction, and expect a positive change in feel as the taper lets go rather than a gradual slackening.",
+   "prose": "Trying to unscrew the can with the collar still locked is what rounds off a collar. Half a turn first, every time.",
+   "quote": "Turn the locking collar counter-clockwise a 1/2 rotation; this disengages the rear locking taper.",
+   "cite": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Razor762 Removal, step 1, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Two and a half turns and slide it off the muzzle device",
+   "action": "With the collar disengaged, take hold of the body of the Razor762 — not the collar — and rotate the whole can counter-clockwise two and a half turns, then slide it forward off the muzzle device. Gripping the body is the point: the collar is a spring-loaded part and turning the can by it puts the load through the spring arms instead of the thread. Two and a half turns is the full thread engagement of this mount, so if it comes free earlier it was not fully seated when you shot it.",
+   "prose": "Keep the muzzle device on the barrel. It stays with the rifle; only the can comes off.",
+   "quote": "With the rear locking collar disengaged, hold the body of the Razor762 and rotate the suppressor counter clockwise 2.5 turns and slide the suppressor over the muzzle device.",
+   "cite": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Razor762 Removal, step 2, p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Mounting threads clean, solvent and a brush",
+   "action": "With the can off, the maintenance is the mounting threads: clean them with a small amount of gun cleaning solvent and a brush, and get the carbon out of the taper seat as well as the thread itself. On a friction-taper mount the taper is a locating surface, so fouling there does not merely make the can hard to fit — it makes it fit crooked. Do the same to the muzzle device on the barrel while you have it exposed.",
+   "prose": "Rugged also has you check the bore of the suppressor for debris and obstructions before any use and after every maintenance cycle. Do that with a light, looking through it.",
+   "quote": "This can be accomplished with a small amount of gun cleaning solvent and a brush.",
+   "cite": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Get the solvent back out — hot water, drain, compressed air",
+   "action": "All solvent must be out of the suppressor before it is fired again. Rugged's method is hot soapy water, then letting the can fully drain, with compressed air highly recommended to finish. This is not fussiness on a sealed can: solvent that has run down inside a body you cannot open has nowhere to go, and firing it wet is how you find out where it pooled.",
+   "prose": "Stand it muzzle-down to drain and give it longer than feels necessary.",
+   "quote": "All solvent should be fully removed from the suppressor prior to use. This can be accomplished with hot soapy water taking care to let the suppressor fully drain before use. The use of compressed air is highly recommended.",
+   "cite": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "warn": "No solvent left inside before firing."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "That is the whole of it: the Razor762 is off the muzzle device and the muzzle device is still on the barrel. The can does not open any further, and that is a published outcome rather than a gap — Rugged states that its construction and exotic materials mean it requires only limited service, and that service is the mounting threads and a clear bore. There is no baffle stack to lay out and no front cap to unscrew. Clean the threads, confirm the bore, and put it back on correctly.",
+   "prose": "Do not go looking for a way in. There is no published disassembly for this model at any level.",
+   "quote": "Due to the construction and use of exotic materials, the Razor762™ requires limited service/maintenance. It is important to keep all the mounting threads clean and free from debris.",
+   "cite": "RUGGED SUPPRESSORS | Razor762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Rugged publishes NO disassembly of the Razor762 at any level. The manual's Service/Maintenance section states that because of its construction and its exotic materials the Razor762 requires limited service/maintenance, and defines that service as keeping the mounting threads clean and free from debris plus confirming the bore is free of obstructions. The only teardown described anywhere in the document is removing the suppressor from the Dual Taper Lock muzzle device, which is the field strip above. There is no baffle stack removal, no front cap removal and no user-serviceable interior in this book, so there is nothing deeper to present and none has been invented.",
+ "cleaning": [
+  {
+   "name": "MOUNTING THREADS & TAPER SEAT",
+   "tasks": [
+    "A small amount of gun cleaning solvent and a brush on all mounting threads",
+    "Clean the rear locking taper as well as the thread — it is a locating surface, not just a seal",
+    "Clean the Dual Taper Lock muzzle device on the barrel at the same time",
+    "Keep the threads free from debris; this is the whole of the published maintenance"
+   ]
+  },
+  {
+   "name": "AFTER ANY SOLVENT",
+   "tasks": [
+    "Remove all solvent before the can is fired again",
+    "Hot soapy water, then let the suppressor fully drain",
+    "Compressed air is highly recommended to finish drying",
+    "Do not fire a Razor762 with solvent still inside it"
+   ]
+  },
+  {
+   "name": "BORE CHECK",
+   "tasks": [
+    "Check the bore is free of debris and obstructions before any use",
+    "Check it again after every maintenance cycle",
+    "This is stated as the operator's responsibility"
+   ]
+  },
+  {
+   "name": "HOST-SIDE CHECKS (per rifle, not per can)",
+   "tasks": [
+    "No crush washer under the muzzle device — prohibited outright; shims and Red Loctite or Rocksett instead",
+    "Muzzle threads must be concentric to the bore; if unsure, a qualified gunsmith checks them",
+    "Quality factory ammunition of the correct grain weight, with the projectile matched to your barrel's twist"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Confirm the suppressor bore is clear and that all solvent has been removed and the can is dry.",
+  "Open the locking collar by twisting it clockwise until it stops, using the engraved lock/unlock arrows for reference.",
+  "Hold the suppressor by the main body — not the collar — and thread it onto the muzzle device until fully seated, about 2.5 turns.",
+  "Turn the locking collar clockwise half a turn until tight, again using the engraved arrows.",
+  "Verify the can is fully seated via the go gauge on the muzzle device: you should only be able to see GO.",
+  "If the can is being moved to a different host, let it reach ambient temperature first."
+ ],
+ "fncheck": "Look through the bore against a light and confirm it is clear of debris and obstructions — Rugged makes that the operator's responsibility before any use and after every maintenance cycle. Check the go gauge on the wrench flat of the Dual Taper Lock muzzle device using the bottom of the lock collar as the visual guide: when the Razor762 is properly mounted you can only see GO, and any sight of NO-GO means it is not seated. Confirm the locking collar is tight after its half turn and that the can does not move by hand. Confirm no solvent remains inside and that the can is dry before firing."
+}

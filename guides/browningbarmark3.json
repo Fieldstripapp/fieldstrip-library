@@ -1,0 +1,173 @@
+{
+ "row": "browningbarmark3",
+ "make": "Browning",
+ "model": "BAR Mark 3",
+ "sourcedFrom": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "8ed6e752911d3816b5eb2ae817ebb60b53e243936cdca7ba1fba6e74e0403156",
+ "cleanIntro": "The BAR MK 3 — Browning prints the designation as 'MK 3', the abbreviated form of Mark 3 — is a gas-operated autoloading hunting rifle whose published maintenance is deliberately shallow: bore from the muzzle behind a guard, receiver brushed through the open action, and one rarely-needed deep procedure that lifts the trigger group out on two pins. The bolt mechanism is expressly off-limits — the manual bars removing or disassembling it in the same notice that bars opening the trigger group. What the book spends its depth on instead is configuration: two non-interchangeable magazine systems, a reversible safety that ships in either hand, a shim-adjustable stock, and a suppressor prohibition stated as flatly as Browning states anything. This guide walks that map.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check the book against the rifle — Browning prints it 'BAR MK 3'",
+   "action": "Confirm what you are holding: this manual names its subject in one front-matter line, and the designation it prints is 'BAR MK 3' — the abbreviated form of the Mark 3 name this rifle also sells under. Note also which version you have, because both exist: right- and left-hand BAR MK 3 rifles have been produced, the manual's images show the right-hand version, and several controls mirror between them. The gas-operated action fires one cartridge per trigger pull and locks the bolt open after the last round from the magazine.",
+   "prose": "The ammunition rule rides on your individual barrel: only what is inscribed on the right side of it, and examine every cartridge you load.",
+   "quote": "Important operating instructions for: Browning BAR MK 3 Rifle.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Front matter, the line below the title"
+  },
+  {
+   "phase": "Clear",
+   "title": "The safety ships in either hand — verify yours before trusting any direction",
+   "action": "The crossbolt safety at the rear of the trigger guard is reversible, and unlike most Brownings the BAR MK 3 ships BOTH ways from the factory: right-hand rifles with a right-hand safety (push right for on safe), left-hand rifles with a left-hand safety (push left for on safe). A used rifle may have been reversed again. So the first act is a verification, not an operation: work out which way YOUR safety goes on safe, confirm the red warning band hides in that position, and only then put it there. The manual prints a NOTICE specifically about used rifles for exactly this trap.",
+   "prose": "Every direction in this guide assumes the factory right-hand installation. If yours mirrors, so do the safety steps.",
+   "quote": "NOTICE: IF YOU PURCHASED YOUR RIFLE USED, THE “SAFETY” MAY HAVE BEEN REVERSED FOR A LEFT-HANDED SHOOTER. INSPECT THE “SAFETY” FOR THE POSITIONING MENTIONED ABOVE, AND BECOME FAMILIAR WITH ITS OPERATION AND POSITION IN THE ON SAFE AND OFF SAFE MODES.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Operation of the \"Safety\"",
+   "warn": "Verify which hand your safety is installed for before anything else."
+  },
+  {
+   "phase": "Clear",
+   "title": "Which magazine system your rifle has — they do not interchange",
+   "action": "BAR MK 3 rifles carry one of two magazine systems and the parts do not cross: a detachable box magazine attached to a hinged floorplate (opened by the latch in front of the trigger guard, four rounds standard calibers, three magnum and WSM), or a plain detachable box magazine with no floorplate (dropped by the ambidextrous release behind the magazine block, ten rounds). Identify yours now, because unloading, loading and magazine cleaning all fork on it — and a spare magazine bought for the wrong system fits neither the rifle nor the floorplate.",
+   "prose": "Cartridge bases must sit flush with the rear of either magazine — a nose proud of the front is a feeding problem waiting to happen.",
+   "caution": "Two magazine systems, zero interchange. Know which one is yours.",
+   "quote": "BAR MK 3 rifles utilize either a detachable box magazine attached to a hinged floorplate or a detachable box magazine not attached to a hinged floorplate. The two types of magazines are not interchangeable between rifles.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Magazine"
+  },
+  {
+   "phase": "Clear",
+   "title": "Unload: magazine away first, then the chamber — and the bolt will NOT hold itself open",
+   "action": "Safety on, muzzle safe. Floorplate rifles: pull the magazine latch in front of the trigger guard rearward and let the floorplate-magazine unit swing down. Box-magazine rifles: press the release and take the magazine out. Then pull the operating handle fully rearward to extract and eject any chambered round — and here is this rifle's trap: the bolt will not automatically lock rearward with the magazine removed, so HOLD it open with your hand while you look into the chamber. Only the last shot from a magazine locks the bolt; an unloading stroke does not.",
+   "prose": "The magazine coming off proves nothing about the chamber — the manual repeats that a chambered round fires with no magazine present at all.",
+   "quote": "Pull rearward on the operating handle to draw the bolt to its rearmost, open position. This will extract and eject any live cartridge that may be in the chamber. Remember that the bolt will not automatically lock in the rearward position when the magazine is removed or when the magazine is loaded. As a good safety practice, hold the bolt open and visually inspect the chamber to be absolutely certain a live cartridge is not present.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Unloading > UNLOADING THE RIFLE (FLOORPLATE-STYLE MAGAZINE)",
+   "warn": "No magazine in the rifle does not mean it cannot fire. Hold the bolt open and look."
+  },
+  {
+   "phase": "Clear",
+   "title": "Never fire this rifle with a sound suppressor installed",
+   "action": "Browning's suppressor section for the BAR opens with an absolute: the BAR rifle is not designed to be fired with a sound suppressor installed, and doing so will damage the rifle and can injure or kill. This is a gas gun whose port pressure and cycling were engineered unsuppressed; the prohibition is about the rifle's design, not about accessories in general — the same section walks through muzzle-brake handling, thread protectors, and the point-of-impact shift that comes with changing weight at the muzzle. But on the suppressor question there is no qualified version: not designed for it, do not do it.",
+   "prose": "Muzzle brakes are permitted with their own rules: caliber-matched, installed on a verified-empty rifle with the magazine out and action open, checked periodically for seating, and touched only cool.",
+   "quote": "WARNING: THE BAR RIFLE IS NOT DESIGNED TO BE FIRED WITH A SOUND SUPPRESSOR INSTALLED. FAILURE TO FOLLOW THIS WARNING WILL DAMAGE THE RIFLE AND MAY RESULT IN INJURY OR DEATH TO YOU AND THOSE AROUND YOU.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Suppressors",
+   "warn": "No suppressor on a BAR, ever. The design prohibition has no exception."
+  },
+  {
+   "phase": "Clear",
+   "title": "The trigger is set at four pounds and stays that way",
+   "action": "The single-stage trigger leaves the factory holding close to four pounds, and the manual recommends no attempt be made to change the weight of pull — then hardens that into a NOTICE: do not alter or attempt to disassemble any part of the trigger group, and do not remove or disassemble the bolt mechanism. That one sentence sets the boundary for this whole rifle's deep work: the trigger group comes OUT as a unit for cleaning (the deep branch below), but it never comes APART, and the bolt never comes out at all. Service for either is Arnold, Missouri or a qualified gunsmith.",
+   "prose": "This is why the BAR's deep clean is one procedure long. The book means it.",
+   "quote": "NOTICE: DO NOT ALTER OR ATTEMPT TO DISASSEMBLE ANY PART OF THE TRIGGER GROUP OR REMOVE OR DISASSEMBLE THE BOLT MECHANISM.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Cleaning The Trigger Group",
+   "warn": "Trigger group: out as a unit only. Bolt mechanism: never removed, never opened."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the BAR cleans through the open action",
+   "action": "Lock the bolt open — operating handle fully rearward, bolt lock (right side of the receiver, just behind the forearm) pressed upward — and that IS the BAR MK 3's cleaning state. No barrel removal, no forearm removal, no bolt removal is published; everything the routine asks for is reached through the locked-open action and the muzzle. The one deeper procedure the book offers, lifting the trigger group out when the receiver has been soaked or fouled beyond brushing, lives in the Deep Clean branch and the manual expects it to happen rarely, if ever.",
+   "prose": "With no magazine in the rifle, closing the bolt later means pulling the handle rearward to disengage the bolt lock — keep fingers clear of the ejection port; the bolt closes hard.",
+   "quote": "The bolt lock can be used to lock the bolt in the rearward position when the magazine is removed. To lock the bolt in the open or rear position, pull the operating handle all the way to the rear and press upward on the bolt lock.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Bolt Lock",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the muzzle behind a guard, and copper is the real enemy",
+   "action": "With the bolt locked open, clean the bore from the muzzle: rod with a snug tip and patch, run back and forth — and use a muzzle guard, because every stroke passes the crown that decides this rifle's accuracy. Powder fouling lifts with nitro solvent on a patch; heavy fouling takes a brass brush pushed completely through before withdrawing. Then the centerfire-rifle specific: modern bullet jackets are mainly copper, copper sticks to the barrel, and the manual recommends swabbing with a good copper solvent to maintain accuracy — with magnum calibers needing it more often.",
+   "prose": "Dry the chamber and bore, one lightly oiled patch for preservation, then the patch check — nothing left behind in barrel or chamber.",
+   "caution": "Muzzle guard on, always. Copper solvent per its maker's procedure.",
+   "quote": "To maintain the utmost accuracy of your rifle it is recommended you clean the bore with a copper solvent. Modern bullet jackets are made mainly of copper. Residues from copper bullet jackets stick to the barrel and require more frequent cleaning. Magnum calibers will require more frequent inspection and cleaning.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, step 2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver brushed, oil in films, wood kept dry of it",
+   "action": "Use a small brush or rag to lift dirt from inside the receiver and the reachable action parts, then lightly lubricate the moving parts — a very light film of fine, light gun oil is sufficient, and the manual bars pouring quantities of oil into the receiver because it drains into the stock wood, softens it and loosens the stock permanently. Wipe every exposed metal surface with a lightly oiled cloth until the finger marks are gone; refresh the film any time the rifle has seen weather or handling.",
+   "prose": "Wood takes a light gun oil or a quality furniture wax, never both; oil-finish stocks spot-repair with rubbing alcohol and a linseed-oil-based finish worked into the checkering with a soft brush.",
+   "caution": "Films, not pours — the stock wood is downhill of the receiver.",
+   "quote": "NOTICE: DO NOT POUR LARGE QUANTITIES OF OIL INTO THE RECEIVER OR OTHER PARTS. IT CAN DRAIN DOWN TO THE WOOD AND SOFTEN IT, CAUSING PERMANENT DAMAGE AND LOOSENING OF THE STOCK.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, steps 5-6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Magazines on their own schedule, whichever system you have",
+   "action": "Inspect magazines frequently — lubricant and dirt collect in the mechanism — and clean them normally after 500 to 1000 cartridges: out of the rifle, sprayed inside and out with an aerosol solvent that will not attack the polymer follower or corrode the metal, shaken out, dried with cloth or compressed air, then a very thin coat of oil wiped on and wiped clean again. Floorplate magazines detach from the plate for this by pulling them off; they reattach front lip first into the floorplate groove, rear snapped firmly home.",
+   "prose": "Strip cartridges from a box magazine by pushing forward on the top round's rim and sliding each out one at a time — and unload the spares while you are at it.",
+   "quote": "Frequently inspect magazines to determine the need for cleaning as lubricant and dirt will gradually collect in the mechanism. Normally, the magazine should be cleaned after firing 500 to 1000 cartridges.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Cleaning The Magazine"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stock shims and scope bases — the configuration work",
+   "action": "Six stock shims ship with the rifle for drop and cast — No. 2 neutral installed; 1 and 3 move comb about 1/16 inch and heel about 1/8; the R/L shims add roughly 1/8 inch of cast either way. Fitting one means recoil pad off through the greased access slits, the stock screw out with a long 5mm Allen wrench, buttstock off, shim swapped — and never more than one shim on the buttstock. For glass, the receiver top is drilled and tapped under four filler screws: correct bases, correct-length screws for real thread engagement, and a check from inside the receiver that no screw reaches the bolt's path.",
+   "prose": "Thread-locking compound on base screws is fine by the manual's lights — kept out of the action.",
+   "caution": "One shim, correct bases, and screws that stop short of the bolt.",
+   "quote": "NOTICE: DO NOT USE MORE THAN ONE SHIM ON THE BUTTSTOCK.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Stock Adjustment (bases: Mounting a Scope)"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Trigger group out on two pins — the BAR's one deep procedure",
+   "action": "Reserved for a receiver that has been soaked or is fouled beyond brushing — the manual says this should rarely, if ever, be needed. Rifle verified empty, safety on. Release the bolt to its forward position by pressing down on the bolt lock. Push the two trigger group pins clear through the receiver with a non-marring punch, working from either side, and remove them. Grasp the trigger guard and pull the whole assembly out of the receiver. Clean group and receiver cavity with a quality aerosol gun solvent, let everything dry completely, then oil the moving parts very lightly.",
+   "prose": "The group is a fitted four-pound mechanism and the boundary is printed at the end of the procedure: beyond this point it may be damaged beyond repair.",
+   "quote": "NOTICE: DO NOT DISASSEMBLE THE TRIGGER GROUP BEYOND THIS POINT. THIS IS A SPECIALIZED, FINELY FITTED MECHANISM; ANY ATTEMPT TO DISASSEMBLE THE TRIGGER GROUP MAY DAMAGE IT BEYOND REPAIR.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Cleaning The Trigger Group > TRIGGER GROUP REMOVAL",
+   "warn": "Out as a unit, cleaned as a unit, back as a unit."
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger group home: bolt forward and locked, safety verified, pins tapped in",
+   "action": "Before the group goes back, two states must be true: the bolt fully forward and engaged in the locked position, and the safety — visually checked on the group itself — still on safe. Insert the group into the receiver, line its holes up with the holes in both receiver walls, and tap the pins in gently from either side, protecting the receiver's finish. The rifle is now fully assembled; confirm the safety immediately, then give the externals their oiled-cloth wipe-down.",
+   "prose": "A group that will not drop in flush is almost always a bolt that crept out of position — fix the bolt, never force the group.",
+   "quote": "1. Before reinstalling the trigger group, make sure that the bolt is fully forward and engaged in the locked position.",
+   "cite": "Browning BAR MK 3 Rifle Owner's Manual — UNKNOWN — not printed in the document — Cleaning The Trigger Group > TRIGGER GROUP INSTALLATION",
+   "warn": "Bolt forward and locked first, or the group cannot seat."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER (from the muzzle, bolt locked open)",
+   "tasks": [
+    "Muzzle guard on the rod — every stroke passes the crown",
+    "Nitro solvent patch for powder fouling; brass brush pushed fully through for heavy fouling",
+    "Copper solvent swab per its manufacturer's procedure — jacket fouling is the accuracy tax, worst in magnums",
+    "Wipe dry, one lightly oiled patch, then check nothing was left in barrel or chamber"
+   ]
+  },
+  {
+   "name": "RECEIVER & ACTION (through the open action)",
+   "tasks": [
+    "Small brush or rag for dirt in the receiver and reachable action parts",
+    "Very light film of fine gun oil on moving parts — sparingly",
+    "Never pour oil into the receiver: it drains to the stock wood and loosens the stock"
+   ]
+  },
+  {
+   "name": "MAGAZINES (both systems)",
+   "tasks": [
+    "Clean after 500-1000 rounds or whenever inspection shows build-up",
+    "Aerosol solvent safe for the polymer follower, inside and out; shake, dry, thin oil coat wiped clean",
+    "Floorplate magazines: off the plate to clean, front lip into the groove and rear snapped firm to refit",
+    "Cartridge bases flush with the magazine rear on reloading — a proud nose is a feed stoppage"
+   ]
+  },
+  {
+   "name": "EXTERIOR, MUZZLE & WOOD",
+   "tasks": [
+    "Exposed metal wiped with a lightly oiled cloth; finger marks hold moisture",
+    "Muzzle brake or thread protector: periodically checked tight and seated, handled only cool, swaps only on a verified-empty rifle",
+    "Keep solvents, insect repellents and sunscreen off the finishes",
+    "Wood: light gun oil or furniture wax, never both; oil-finish repair via rubbing alcohol + linseed-oil-based finish"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Nothing comes off in the routine clean — this is a return-to-service check. If the trigger group was out (deep), it is already pinned back with the bolt forward and the safety verified on safe.",
+  "Close the bolt from the locked-open state by pulling the operating handle rearward to disengage the bolt lock and releasing it — fingers clear of the ejection port.",
+  "When a round is ever chambered for use, the bolt must SLAM closed from the operating handle's full travel — a gently ridden bolt may not close completely, and the proof is the operating handle sitting in front of the red bolt-forward indicator dot near the ejection port.",
+  "Confirm the safety hides its red band in your rifle's on-safe direction.",
+  "Magazine home last: floorplate swung up until the catch takes it, or the box magazine pressed in until it locks.",
+  "Never test the mechanical function with live ammunition."
+ ],
+ "fncheck": "With the rifle verified empty: cycle the operating handle and feel the bolt run and return under gas-spring resistance; confirm the bolt lock will hold it open and that pulling the handle rearward releases it. Practice the bolt-forward check — handle in front of the red indicator dot — with an empty chamber, exactly as the manual tells you to practice it. Confirm the safety blocks the trigger in its on-safe position, whichever hand yours is installed for. Confirm the magazine latches positively — floorplate catch or box release — and that no base screw or accessory intrudes into the bolt's path inside the receiver. Do not attempt trigger-weight measurement or adjustment, and never test function with live ammunition."
+}

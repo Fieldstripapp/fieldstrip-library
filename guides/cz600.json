@@ -1,0 +1,154 @@
+{
+ "row": "cz600",
+ "make": "CZ",
+ "model": "600",
+ "sourcedFrom": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "fa168da6b18a9b55d71b972e9ef7b27b04b9c066247e93f8a6cc022410ad1828",
+ "cleanIntro": "The CZ 600's field strip is three steps and no tools: point it safe, drop the magazine, push the bolt catch and pull the bolt out. What makes this family unusual among CZ's books is that it also publishes a real second-level procedure — the bolt itself comes apart, expressly only on a rifle that has been shot heavily. The other thing to settle first is which CZ 600 you have, because the Trail and MDT models carry a different safety, no magazine lock, and an action that is not interchangeable with the rest. Everything below is read off the English section of CZ's CZ 600 manual, PDF pages 2 to 26.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Establish which CZ 600 this is before you touch the safety",
+   "action": "Look at the safety. A standard CZ 600 has a vertical safety button pushed up from the underside of the stock neck. A Trail or MDT model has neither — those use a BREN 2 style rotating lever on both sides of the stock or chassis, turned horizontal to \"S\" for safe and slanted to \"F\" for fire.",
+   "prose": "This is not a cosmetic difference and it is the first thing that decides whether the rest of the book describes your rifle. The vertical button on a standard 600 is pressed up to secure and pressed down on the top of the pistol grip to release; the Trail and MDT lever rotates instead and reads S and F like a service rifle. Both share the important behaviour — the safety cannot be engaged until the striker is cocked — and both leave the bolt releasable by the bolt release even while on safe.",
+   "quote": "The said models of the rifle are not fitted with the vertical safety, but with a BREN 2 style safety on both sides of the stock/chassis.",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Operating Instructions — Trail and MDT Model Safety Operation, p.9"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine lock — a standard 600 has one, a Trail or MDT does not",
+   "action": "Check for the magazine lock before you press anything. On a standard CZ 600 the magazine release button slides FORWARD in the direction of fire to lock the magazine against accidental release, showing a white tab under the button, and rearward to unlock. The Trail and MDT models do not have this feature at all.",
+   "prose": "Reaching for a lock that is not there is one thing; failing to unlock one that is, is another, and it is the usual reason a CZ 600 magazine feels seized. Slide the release rearward first and look for the white tab to disappear. On an MDT the magazine is released instead by pushing the ambidextrous lever in front of the trigger guard forward in the direction of fire, and on a Trail the catch button is ambidextrous — three different releases across one family.",
+   "aside": "The Trail model feeds from CZ MAG magazines for self-loading centerfire rifles and CZ BREN 2 assault rifles; in 223 Rem. and 300 BLK it also takes ten- and thirty-round and Magpul P-MAG magazines, but in 7.62x39 it is compatible only with the ten-round CZ MAG magazine.",
+   "quote": "The Trail and MDT models do not feature the magazine lock.",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Operating Instructions — Trail Model Magazines, p.9"
+  },
+  {
+   "phase": "Clear",
+   "title": "Point it safe, finger outside the guard, magazine out",
+   "action": "Point the rifle in a safe direction with your fingers outside the trigger guard. Press the magazine catch and remove the magazine. On a standard 600 the release button must be rearward — unlocked — for the magazine to come out.",
+   "prose": "CZ writes the muzzle direction and the finger position into the numbered step rather than assuming them, and on a bolt rifle that is worth keeping because the muzzle swings a long way when you set the rifle down to work the bolt. The magazine seats with an audible click going in, so its absence coming out is a cue worth noticing. Note also that CZ says the magazine can be loaded while inserted in the rifle, which means a magazine still in the well is never evidence that it is empty.",
+   "quote": "2. Press the magazine catch and remove the magazine.",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 2, p.14",
+   "warn": "WARNING: ALWAYS WEAR EYE PROTECTION WHEN DISASSEMBLING THE RIFLE — CZ heads the whole maintenance section with this."
+  },
+  {
+   "phase": "Clear",
+   "title": "Open the bolt hard and account for the round",
+   "action": "Open the bolt and pull it to its rearmost position to extract and eject any loaded cartridge. Move the bolt vigorously — a slow stroke will not throw the case clear. If the safety is engaged, push the bolt release button to open the bolt.",
+   "prose": "The CZ 600 is a controlled-feed rifle with a spring-loaded ejector, which means the case is held on the bolt face until the stroke itself flings it out; a gentle pull leaves a live round sitting in the raceway or dropping back into the magazine well. That is CZ's own note in capitals at the end of the unloading section. Watch the round leave the rifle and account for it before going further, then close the bolt, disengage the safety if it is on, and pull the trigger.",
+   "aside": "The cocking indicator is on the rear of the bolt: a red flag protrudes while the striker is cocked and disappears once it is released. Read it before and after the dry press.",
+   "quote": "NOTE: THE RIFLE FEATURES CONTROL FEEDING SYSTEM WITH SPRING-LOADED EJECTOR. TO ENSURE PROPER CARTRIDGE EJECTION, ALWAYS MOVE THE BOLT VIGOROUSLY TO ITS REARMOST POSITION.",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Operating Instructions — Unloading of the Rifle, closing note, p.10"
+  },
+  {
+   "phase": "Clear",
+   "title": "Do not swap a stock across the family line",
+   "action": "If a stock change is part of this session, check the compatibility table first and then check the model. Stocks can only be changed within the corresponding receiver size, and the Trail and MDT chassis and action are stated to be incompatible with the rest of the CZ 600 models outright.",
+   "prose": "This is CZ's own capitalised caution and it is a genuine hard stop rather than a fitment preference — the Trail and MDT are a different action, not a different shell around the same one. Even inside the compatible group the barrel profile constrains the stock: the Lux stock takes only the American thin-walled barrel, while the Alpha, Ergo, Range and MDT stocks take American, semi-heavy and Varmint. If the stock does come off, the action screws go back at 5 Nm with a Torx 25 torque wrench, rear screw first, and the forend must not touch the barrel on either side.",
+   "quote": "TRAIL AND MDT MODEL CHASSIS AND ACTION ARE INCOMPATIBLE WITH THE REST OF CZ 600 MODELS.",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stock replacement, CAUTION, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt catch pushed, bolt out of the receiver",
+   "action": "With the bolt open, push the bolt catch and remove the bolt from the firearm. On a rifle fitted with a height-adjustable cheekpiece you will usually have to set the cheekpiece to its lowest position, or take it off, before the bolt will clear.",
+   "prose": "The catch is at the rear right of the receiver and it is the same control that lets the bolt come out with the safety on — a useful property, because it means you never have to take a bolt rifle off safe to unload it. The cheekpiece point is the one that catches people on an MDT: the bolt does not jam, it simply has nowhere to go past a raised comb, and forcing it marks the receiver. Draw the bolt straight back and out rather than lifting the rear.",
+   "quote": "3. Open the bolt, push the bolt catch (Fig. 3, page II) and remove the bolt from the firearm.",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 3, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Receiver and barrel in the stock, bolt out in your hand, magazine set aside. That is the whole field strip CZ publishes for the CZ 600 — the barrel stays clamped in the receiver, the trigger mechanism stays fitted, and no tool has been used.",
+   "prose": "Those pieces reach everything the cleaning section asks for: the barrel and chamber cleaned from the breech end with the bolt out of the way, the bolt face, extractor and the semi-fixed ejector, the raceway inside the receiver, and the magazine well. CZ's caution at the end of the strip is unambiguous about going further without cause. The one deeper procedure the book does publish is the bolt itself, and it is fenced to rifles that have been shot heavily.",
+   "quote": "CAUTION: Do not strip your firearm any further. If your firearm requires adjustment or repair, entrust this work to a competent gunsmith in a specialized workshop!",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, CAUTION, p.14",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "First decide whether the bolt should come apart at all",
+   "action": "Do not strip the bolt as routine. CZ fences this procedure to rifles that have been shot heavily — hundreds to thousands of shots — and states plainly that it is not necessary for standard maintenance. If your CZ 600 has had a box of ammunition through it, stop here and clean it assembled.",
+   "prose": "This is the whole reason the procedure is on the deep path and not in the field strip. The bolt carries a compressed main spring behind a plastic cap, and every unnecessary strip is another chance to release the striker in your hand or cross-thread the cap on reassembly. The signal to do it is round count and contamination, not a schedule: a bolt that has been through dust, water or a very long season is one thing, a bolt that has been fired twice is another.",
+   "quote": "CAUTION: PERFORM THIS OPERATION ONLY IN CASE THE RIFLE HAS BEEN SHOT HEAVILY (HUNDREDS TO THOUSANDS OF SHOTS). THIS OPERATION IS NOT NECESSARY FOR STANDARD MAINTENANCE.",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Disassembly and assembly of the Bolt, CAUTION, p.16",
+   "warn": "The maintenance section opens with a standing instruction to wear eye protection whenever the rifle is being disassembled. On this step in particular, the striker assembly is under main spring load."
+  },
+  {
+   "phase": "Strip",
+   "title": "Turn the bolt cap to the open-lock pictogram and lift the striker out",
+   "action": "With the bolt out of the rifle, turn the bolt cap towards the open lock pictogram to release the striker assembly, then remove the striker assembly from the bolt.",
+   "prose": "The pictograms on the cap are the instruction: an open padlock releases, a closed padlock locks. The cap is plastic and the main spring behind it is heavy, so it will want to push back at you as it unwinds — keep a palm over it and let it come. Once the striker assembly is out, look at the striker nut and the striker tip; the nut's alignment with the bolt guide slot is the thing you will have to reproduce on the way back in.",
+   "quote": "4. Turn the bolt cap towards the open lock pictogram (Fig. 6, page II) to release the striker assembly and to remove it from the bolt.",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Disassembly and assembly of the Bolt, step 4, p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Ejector button forward, bolt head off the body",
+   "action": "Push the ejector button forward in the direction of fire to release the bolt head, then pull the bolt head down off the bolt body.",
+   "prose": "The button is the release for the bolt head and it works in the direction of fire, which is easy to get backwards with the bolt loose in your hand — orient the bolt as if it were still in the rifle before pushing. With the head off you have the two locking lugs, the spring-loaded extractor and the semi-fixed ejector directly accessible, which is the entire point of the exercise. Clean the disassembled bolt of dust, contamination and fouling now, while everything is open.",
+   "quote": "5. Push the ejector button forward in the direction of fire to release the bolt head, and pull it down from the bolt body (Fig. 7, page III).",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Disassembly and assembly of the Bolt, step 5, p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "Reassemble against the marks, and prove the striker nut is in line",
+   "action": "Slide the bolt head back onto the body and lock it by pushing the ejector button forward; check it is locked by trying to slide it back off. Put the striker assembly in with the bottom of the striker nut aimed at the dot marked on the bolt body's lip, then press the cap against the main spring and turn it to the locked-lock pictogram.",
+   "prose": "There are two verifications built into this and both are worth doing rather than assuming. The bolt head is proved locked by attempting to remove it again; the striker assembly is proved correct by the bolt guide slot lining up with the striker nut. If handling has released the striker so it protrudes from the bolt head face, CZ gives you a recovery: recock it with the attached tool, or insert the bolt into the receiver backwards, striker first, and turn the bolt handle clockwise while holding both rifle and bolt firmly. Finish by dry-testing bolt movement, the safety and a safety shot into a safe space.",
+   "quote": "The correct mutual position of all bolt components can be recognized by that the bolt guide slot is aligned with the striker nut.",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Disassembly and assembly of the Bolt, reassembly step 3, p.16",
+   "warn": "Never try to insert a bolt with a released striker into the receiver — CZ states this may result in aesthetic damage to the receiver. Recock it first."
+  },
+  {
+   "phase": "Clean",
+   "title": "And that is the end of what the owner may open",
+   "action": "Stop at the reassembled bolt. Any disassembly beyond what this manual describes is a professional gunsmith's or an authorised CZ gunsmith's work, and a malfunction is not to be repaired by the owner.",
+   "prose": "CZ gives this its own heading rather than a footnote, which is unusual for the range and worth reading as the boundary it is. The trigger mechanism is a replaceable assembly containing the safety, and the barrel is held in the receiver by a clamping joint — both are things that look removable and are not owner work. If the rifle needs adjustment or repair after the bolt has been cleaned and refitted, it goes to a professional or an authorised CZ service centre.",
+   "quote": "The firearm must not be disassembled any further than stated in this user manual.",
+   "cite": "CZ 600 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Expert disassembly beyond routine maintenance, p.17"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL & CHAMBER",
+   "tasks": [
+    "Do the field strip first — CZ's caution is to perform the stripping steps before cleaning any part of the firearm",
+    "Clean patch on the rod through barrel and chamber, changing patches, until the last one comes out clean; enough on its own if the rifle has fired only a few rounds",
+    "For a heavily fouled barrel, apply gun cleaning solution with a brush, let it act about 10 minutes, then scrub the barrel out thoroughly",
+    "Rod and brush enter from the CHAMBER end and the brush is pushed right out of the muzzle before reversing — reversing inside the bore jams the brush",
+    "Dry barrel and chamber with a clean patch and check all powder residue and fouling has been removed"
+   ]
+  },
+  {
+   "name": "BOLT, RACEWAY & MAGAZINE WELL",
+   "tasks": [
+    "Wipe the bolt body, the bolt face, the spring-loaded extractor and the semi-fixed ejector with a dry cloth, old toothbrush, copper bristle brush or wooden scraper",
+    "Clean the raceway inside the receiver and the locking recesses the bolt lugs engage in the barrel",
+    "Never use bore cleaning agents on other parts of the firearm — they stay in the joints and cause corrosion later",
+    "Clear the magazine well and the feed lips of the magazine; on a standard 600 check the magazine lock slides freely both ways and shows its white tab when forward",
+    "Check that no cloth particles or brush bristles have lodged in any part of the rifle"
+   ]
+  },
+  {
+   "name": "PRESERVING",
+   "tasks": [
+    "With barrel, chamber and all accessible parts clean and dry, wipe them with a cloth soaked in gun oil or apply it as a spray, then remove all excess",
+    "At very low temperatures remove the oil from all accessible parts or apply a lubricant specifically designed for those conditions",
+    "Thick preserving grease is for long-term storage in severe climates only and must be thoroughly removed from every part before use",
+    "Pull a dry patch through the barrel before shooting"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Insert the bolt with the firing mechanism COCKED, about one third of its length into the receiver, with the bolt release pushed; a bolt with a released striker must not be forced in.",
+  "Release the bolt catch and rotate the bolt slightly in both directions until a loud click tells you it has locked into its guide — from then on it can only rotate and lock in its forwardmost position.",
+  "If the rifle has a height-adjustable cheekpiece it may need to be at its lowest setting or removed for the bolt to go in, exactly as when it came out.",
+  "Reinsert the empty magazine and check it seats with an audible click; on a standard 600 slide the release forward to lock it if you use that feature.",
+  "Dry-test the function of the firearm — bolt movement, safety mechanism function, and a safety shot into a safe space.",
+  "Take special care throughout not to mark the receiver's surface treatment; CZ raises that specifically for bolt insertion."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty. The safety must refuse to engage until the striker is cocked — that is by design on every CZ 600, vertical button or BREN 2 lever. With the safety on, the bolt should stay locked closed but must still open when the bolt release at the rear right of the receiver is pressed. The cocking indicator's red flag should protrude at the rear of the bolt while the striker is cocked and vanish once released. Cycle the bolt vigorously several times to prove the spring-loaded ejector throws clear, check the magazine seats with a click, and if the stock was off confirm the forend does not touch the barrel on either side and the action screws are at 5 Nm, rear screw first."
+}

@@ -1,0 +1,158 @@
+{
+ "row": "springfieldarmorysa16a2",
+ "make": "Springfield Armory",
+ "model": "SA-16A2",
+ "sourcedFrom": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) (undated on cover)",
+ "sourceSha256": "6ec15f8232b41fd5b353f5148c9e2e9e2d0e12086b9a81fdf0ad3652f272605b",
+ "cleanIntro": "Springfield's own field strip for the SA-16A2 — a retro A2-profile AR-15, so the sequence is the familiar one: takedown pin, hinge the receivers open, charging handle back, carrier out. Springfield's own text adds two things worth having: an ALTERNATE method that separates the receivers completely, and the note that routine cleaning does not need the buffer out at all.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Eye protection, muzzle safe, finger off",
+   "action": "Eye protection on, muzzle in a safe direction, finger off the trigger.",
+   "prose": "The rifle fires with or without a magazine in place — the magazine coming out proves nothing about the chamber.",
+   "quote": "Always use proper eye protection when cleaning firearms.",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.27, step 1",
+   "warn": "ALWAYS REMEMBER THE FIREARM IS ABLE TO FIRE WITH OR WITHOUT THE MAGAZINE IN PLACE."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, unload, close the bolt, safety on",
+   "action": "Remove the magazine and unload the rifle, fully retract the charging handle and release it to close the bolt, then rotate the safety selector to SAFE.",
+   "prose": "The bolt is closed deliberately: with the hammer down the receivers hinge freely, and the safety can only be applied on a cocked hammer.",
+   "quote": "Fully retract the charging handle then release to completely close the bolt.",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.27, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin — press left, pull right",
+   "action": "Depress the takedown pin on the LEFT side of the receiver, just above and to the rear of the safety selector, then from the RIGHT side pull the pin outward until its mechanical stop.",
+   "prose": "The pin is captive and stops on its own. If it will not move, the receivers are under tension somewhere — check the bolt is forward.",
+   "quote": "Depress the take down pin located just above and to the rear of the safety/selector on the left side of the receiver.",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.27, step 6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hinge the receivers open to 45 degrees",
+   "action": "Let the lower pivot down and away from the upper, and rotate the rifle until the two receivers sit at roughly 45 degrees.",
+   "prose": "The angle matters — it is what lets the carrier clear the buffer retainer on the way out.",
+   "quote": "The lower receiver can now pivot downward and away from the upper receiver.",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.27, step 8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle back an inch, carrier out",
+   "action": "Unlatch and retract the charging handle about an inch to expose the rear of the bolt carrier, then grasp the carrier and pull it rearward clear of the receiver.",
+   "prose": "An inch is enough. Pulling the charging handle further before the carrier is out just fights the buffer.",
+   "quote": "Grasp the rear of the carrier and pull it rearward until free of the",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIPPING & CLEANING, printed p.27, step 9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field stripped for routine cleaning",
+   "action": "Upper, lower, bolt carrier group and charging handle. Springfield says explicitly that the trigger components stay in the lower.",
+   "prose": "An aerosol cleaner through the lower is the manufacturer's own suggestion — you are not expected to take the fire control apart.",
+   "quote": "It's not necessary or recommended to remove the trigger action components from the lower receiver to clean.",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — printed p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Full separation, if you want it",
+   "action": "To take the receivers fully apart, also depress the pivot pin just below the delta ring on the left side and pull it out from the right until its stop. The two receivers then separate.",
+   "prose": "Springfield offers this as an ALTERNATE method, not the standard one — useful for a deep clean, unnecessary for a range-day wipe-down.",
+   "quote": "The two receivers can now be separated.",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — printed p.31"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Seat the bolt, then pull the firing pin retaining pin",
+   "action": "Press the bolt fully into the carrier, remove the firing pin retaining pin, and withdraw the firing pin rearward out of the carrier.",
+   "prose": "Seating the bolt first is what lets the firing pin clear. With the bolt extended it fouls and you will be tempted to force it.",
+   "quote": "Remove the firing pin retaining pin, the firing pin can now be withdrawn rearward from the carrier",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — BCG disassembly, printed p.28"
+  },
+  {
+   "phase": "Deep",
+   "title": "Cam pin: rotate 90 degrees, lift out, bolt forward",
+   "action": "Rotate the bolt cam pin 90 degrees and lift it out; the bolt then comes out of the FRONT of the carrier.",
+   "prose": "Front, not back. The cam pin is the only thing holding the bolt in and it goes back the same way — see the cam pin warning below before the rifle is reassembled.",
+   "aside": "We do not advise extractor removal unless you are experiencing extractor issues.",
+   "quote": "Remove the bolt cam pin by rotating the pin 90 degrees and remove. The bolt can now be removed from the front of the carrier",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — BCG disassembly, printed p.28"
+  },
+  {
+   "phase": "Deep",
+   "title": "Extractor, only if it is giving trouble",
+   "action": "If the extractor genuinely needs to come out, press its pin from the bolt with a suitable punch and keep control of the extractor spring, the insert and the O-RING.",
+   "prose": "The O-ring is the part people lose. It sits inside the extractor spring and it is what keeps extractor tension on a short-barrelled gun.",
+   "quote": "If extractor removal is desired, use a suitable punch to press the extractor pin from the bolt. Maintain control of the extractor spring, extractor insert and O-ring",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — BCG disassembly, printed p.28"
+  },
+  {
+   "phase": "Deep",
+   "title": "Clean the BCG, then lightly lubricate",
+   "action": "Clean all the parts with a quality powder solvent, rinse, dry and inspect them, then lightly lubricate the bolt and wipe the excess away.",
+   "prose": "Inspect is not filler — this is when a cracked bolt lug or a chipped extractor is visible, and it is the only time you will see them.",
+   "quote": "Clean all parts with a quality powder solvent, rinse, dry and inspect. Lightly lubricate the bolt, wipe away any excess lubricant.",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — BCG disassembly, printed p.28"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Buffer and spring — under tension, and usually unnecessary",
+   "action": "Routine cleaning does not usually need the buffer out at all. If it does: separate the receivers, depress the buffer slightly, depress the buffer retainer, and let the buffer and spring come out of the receiver extension UNDER CONTROL.",
+   "prose": "⛔ The buffer is spring-loaded against the retainer. Release the retainer without a hand on the buffer and it launches out of the extension.",
+   "quote": "depress the buffer retainer and allow the buffer and spring to be removed from the receiver extension",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — BUFFER AND BUFFER SPRING, printed p.31"
+  },
+  {
+   "phase": "Deep",
+   "title": "Clean and lightly oil the extension bore",
+   "action": "Inspect and clean the buffer, the spring and the bore of the receiver extension with powder solvent, wipe dry, then lightly lubricate the buffer and the bore and wipe the excess away.",
+   "prose": "A gritty extension bore is a buffer that stutters, and a stuttering buffer reads on the range as a short-stroking gun.",
+   "quote": "Inspect and clean the buffer, spring and receiver extension bore as needed with powder solvent.",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — BUFFER AND BUFFER SPRING, printed p.31"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Cam pin check before it closes up",
+   "action": "Before the receivers close, confirm the cam pin is installed in the BCG.",
+   "prose": "⛔ The rifle will fire without it, out of battery. This is the one check on the deep clean that is not about wear.",
+   "quote": "Make certain to re-install the cam pin in the BCG. The firearm can fire without cam pin and this creates a catastrophic EXTREMELY hazardous condition, that could cause property damage, personal injury or death.",
+   "cite": "Springfield Armory SA-16A2 Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — printed p.30"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL & CHAMBER",
+   "tasks": [
+    "Bore solvent through the barrel and chamber per the solvent maker's instructions",
+    "Chamber and locking lug recesses with the correct brush",
+    "Dry patches until clean"
+   ]
+  },
+  {
+   "name": "UPPER RECEIVER",
+   "tasks": [
+    "Powder solvent down the carrier way (tunnel), then light lubrication",
+    "Wipe the charging handle and its channel",
+    "Lightly oil exposed metal on the BCG and carrier way, wipe the excess"
+   ]
+  },
+  {
+   "name": "LOWER RECEIVER",
+   "tasks": [
+    "Brush or wipe heavy fouling out; an aerosol cleaner is acceptable",
+    "⛔ Leave the trigger action components in place — removal is not recommended",
+    "Light oil on exposed metal of the trigger components, excess wiped away"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Reassemble the bolt carrier group with the bolt fully forward in the carrier — and the CAM PIN installed.",
+  "Retract the charging handle about three inches and reinstall the BCG, pushing it fully forward until the rear of the carrier is flush with the rear of the upper.",
+  "Close the receivers and press the takedown pin home."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty, cycle the charging handle, check the safety selector will only engage on a cocked hammer, and confirm the takedown pin is fully seated."
+}

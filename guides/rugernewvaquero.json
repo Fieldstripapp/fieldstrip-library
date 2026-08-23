@@ -1,0 +1,103 @@
+{
+ "row": "rugernewvaquero",
+ "make": "Ruger",
+ "model": "New Vaquero",
+ "sourcedFrom": "Ruger Vaquero & Bisley Ruger Vaquero Instruction Manual — PM170 (2024)",
+ "sourceSha256": "485ed0db45ba8b82a8e0db9f4a81a1fec3e2b674cf27807f9bd5915b8427c3d8",
+ "cleanIntro": "This is the manual for revolvers marked \"New Vaquero\" — Ruger says so explicitly, and it does not extend to the original Vaquero.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check the marking first",
+   "action": "Confirm your revolver is marked \"New Vaquero\". This procedure is the one Ruger publishes for those guns and no others.",
+   "prose": "The original Vaquero is a different revolver with its own book. Same name on the barrel is not the same gun.",
+   "quote": "apply only to RUGER VAQUERO",
+   "cite": "Ruger Vaquero & Bisley Ruger Vaquero Instruction Manual — PM170 — Disassembly preamble / General Information, p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Gate open, check every chamber",
+   "action": "Point the revolver in a safe direction, open the loading gate — this lowers the cylinder latch into the frame — and rotate the cylinder, examining every chamber. Leave the gate open.",
+   "prose": "The gate has to stay open for the base pin to clear.",
+   "quote": "Examine every chamber in the cylinder to be certain the revolver is unloaded. Leave the loading gate open.",
+   "cite": "Ruger Vaquero & Bisley Ruger Vaquero Instruction Manual — PM170 — Disassembly, step 1, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Withdraw the base pin",
+   "action": "Press in fully on the left side of the base pin latch and, holding it in, pull the base pin forward in line with the barrel until it is out.",
+   "prose": "Straight forward along the barrel.",
+   "quote": "Press in fully on the left side of the base pin latch, and, while holding it in that position, withdraw the base pin by pulling it forward, in line with the barrel, until it is removed.",
+   "cite": "Ruger Vaquero & Bisley Ruger Vaquero Instruction Manual — PM170 — Disassembly, step 2, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cylinder out",
+   "action": "Remove the cylinder from the loading gate side of the frame.",
+   "prose": "That is the routine strip complete.",
+   "quote": "Remove the cylinder from the loading gate side of the frame. This is as far as you need to go for routine cleaning.",
+   "cite": "Ruger Vaquero & Bisley Ruger Vaquero Instruction Manual — PM170 — Disassembly, step 3, p.19",
+   "warn": "Never remove, replace or carry a loaded cylinder that is not installed in a revolver. The cartridges can fire if their primers are struck.",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Ruger allows more, with conditions",
+   "action": "Past the strip the manual documents the ejector housing and the base pin latch.",
+   "prose": "Read the cautions before touching either.",
+   "quote": "The revolver is disassembled as far as it needs to be for major cleaning and maintenance.",
+   "cite": "Ruger Vaquero & Bisley Ruger Vaquero Instruction Manual — PM170 — Disassembly, beyond routine, p.19"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Ejector housing off — hold it",
+   "action": "Wrap one hand firmly around the barrel and housing before you loosen the ejector housing screw, then lift the housing away from the barrel.",
+   "prose": "The housing holds a compressed spring and the ejector rod. Your hand around it is the only thing keeping it together when the screw lets go.",
+   "caution": "Spring under tension. Keep it pointed away from your face.",
+   "quote": "Wrap one hand firmly around the barrel and housing when loosening the ejector housing screw.",
+   "cite": "Ruger Vaquero & Bisley Ruger Vaquero Instruction Manual — PM170 — Disassembly, Ejector Assembly/Ejector Housing, p.19"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Re-glue the ejector housing screw",
+   "action": "That screw came out of thread-locking adhesive. Put a non-permanent thread locker back on it.",
+   "prose": "Skip it and the screw walks out under recoil.",
+   "quote": "The ejector housing screw is installed with a thread-locking adhesive. If the screw is removed it is recommended that a non-permanent thread-locking adhesive be reapplied to the screw.",
+   "cite": "Ruger Vaquero & Bisley Ruger Vaquero Instruction Manual — PM170 — Disassembly, Ejector Assembly/Ejector Housing, p.19"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Base pin latch, nut and spring",
+   "action": "Hold the nut firmly with jaw-protected pliers while unscrewing the latch, and do not lose the spring. On reassembly the nut and spring go on the LEFT side of the frame.",
+   "prose": "Jaw-protected, because bare pliers mark the nut and the frame behind it.",
+   "quote": "The nut must be held firmly (with jaw-protected pliers) while the latch is being unscrewed.",
+   "cite": "Ruger Vaquero & Bisley Ruger Vaquero Instruction Manual — PM170 — Disassembly, Base Pin Latch/Nut and Spring, p.19"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBERS",
+   "tasks": [
+    "With the cylinder out, run a solvent-coated patch through the bore several times",
+    "Push a correctly sized bronze brush the full length of the bore, then swab and dry-patch until clean",
+    "Clean each chamber the same way, and the face of the cylinder"
+   ]
+  },
+  {
+   "name": "BASE PIN & FRAME",
+   "tasks": [
+    "Wipe the base pin and its bore in the frame clean and dry — grit here is what makes a base pin hard to seat",
+    "Clean the frame window and the recoil shield face",
+    "Light oil only"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the cylinder through the loading gate side of the frame.",
+  "Slide the base pin back in, in line with the barrel, until the latch snaps fully over it.",
+  "If the action feels wrong afterwards, seat the base pin again — Ruger names an unseated base pin as the first thing to check."
+ ],
+ "fncheck": "With every chamber confirmed empty: the cylinder should spin freely with distinct clicks as the pawl indexes it, the hammer should not cock with the gate open, and the gate should not open with the hammer cocked."
+}

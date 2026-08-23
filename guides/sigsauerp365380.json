@@ -1,0 +1,186 @@
+{
+ "row": "sigsauerp365380",
+ "make": "SIG Sauer",
+ "model": "P365-380",
+ "sourcedFrom": "P365 \n® PISTOLS — P/N 2700116-01 REV12 (2025)",
+ "sourceSha256": "b106aadd6e9834d479e404020b7aac68c069fcef0295fa65582a9a2e9f861ca6",
+ "cleanIntro": "SIG's P365 field strip, applied to the .380 chambering. This edition of the book covers the .380 as a caliber of the P365 rather than as a separately named model, so the procedure below is the P365 procedure and the caliber only changes what goes down the bore.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm the caliber and what the pistol is fitted with",
+   "action": "Read the caliber engraved on the barrel and make sure the ammunition on the bench matches it. Then check the frame for a manual safety lever, the slide top for a loaded chamber indicator, and the grip module for a magazine disconnect.",
+   "prose": "The magazine disconnect is not general to the line. SIG restricts the magazine-disconnect grip module to California compliant fire control units, and where one is fitted the trigger is blocked with the magazine out — which changes how this pistol behaves while you clear it and during the function check. Note also that this manual names the .380 as one of two calibers the P365 is offered in; it does not print a separate 'P365-380' model designation or a .380-specific parts diagram, so every procedure here is the general P365 procedure.",
+   "aside": "SIG's own wording on caliber is that the P365 is offered in .380 auto and 9mm. Never load 9mm into a .380 pistol — the proper caliber is permanently engraved on the barrel and that engraving is the authority.",
+   "quote": "Magazine disconnect mechanisms are only available in California compliant FCU’s.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 18.7 P365 California Compliant Parts Diagram, p.122"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out first",
+   "action": "Muzzle in a safe direction, finger outside the trigger guard, press the magazine catch and drop the magazine clear of the grip module. Move it and any loose .380 to the far side of the bench.",
+   "prose": "Unless yours is one of the California compliant fire control units above, a chambered round will still fire with the magazine gone. This step deals with the feed source only.",
+   "quote": "REMOVING THE MAGAZINE FROM THE FIREARM DOES NOT PREVENT A CHAMBERED ROUND FROM BEING FIRED UNLESS THE FIREARM IS EQUIPPED WITH A MAGAZINE DISCONNECT MECHANISM.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 9.5 Unloading and Clearing the Pistol, p.33",
+   "warn": "Magazine out is not cleared. The chamber has not been checked yet."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide back and check the chamber twice",
+   "action": "Pull the slide fully rearward, push the slide catch lever up to hold it open, then look into the ejection port and the magazine well and put a finger in each. Then do the whole check again.",
+   "prose": "SIG wants two passes, by eye and by touch. A .380 case is short and its rim sits low in a small chamber mouth, which makes the visual check less conclusive than it feels — the finger is what settles it.",
+   "quote": "Check the firearm twice, both visually and physically.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 9.5 Unloading and Clearing the Pistol, step 6, p.33"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hold the slide open on the catch lever",
+   "action": "With the pistol cleared, draw the slide rearward again and push the slide catch lever up so the slide locks open on it. Ease it forward and feel it stop hard.",
+   "prose": "The takedown lever only turns from this position. A slide that has crept forward a few millimetres will make the next step feel jammed, and forcing a takedown lever is how the frame gets damaged.",
+   "quote": "Lock the slide to the rear by pulling the slide rearward and pushing up on the slide catch lever.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 2, p.50"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rotate the takedown lever clockwise to its stop",
+   "action": "Turn the takedown lever on the left of the frame clockwise, roughly a quarter turn, until it stops. Fingertip pressure is enough.",
+   "prose": "SIG puts one exception in this step and it belongs to the P365 SAS, whose lever is cut flush and needs a screwdriver. That does not apply here — if your lever will not turn by hand, the slide is not fully locked back.",
+   "quote": "Rotate the takedown lever clockwise until it stops (P365 SAS requires a screwdriver or similar tool).",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 3, p.50"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the catch with a hand on the slide",
+   "action": "Grip the slide firmly, pull it slightly rearward to take the load off the slide catch lever, let the lever drop, and control the slide forward.",
+   "prose": "Once the lever is down your hand is the only thing holding the slide on the frame. The .380 uses a lighter recoil spring than the 9mm, which makes it easier to control here and easier to get careless with.",
+   "caution": "Eye protection from here. The recoil spring assembly inside the slide is still compressed.",
+   "quote": "Pull the slide slightly rearward to disengage the slide catch lever while maintaining control of the slide assembly.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 4, p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward off the frame",
+   "action": "Run the slide assembly straight forward off the frame rails, taking the barrel and recoil spring with it.",
+   "prose": "Square and straight. Lifting the rear of the slide as you pull binds it on the rails, and there is very little rail length on a pistol this size to work with.",
+   "quote": "Pull the slide forward and off of the frame.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 5, p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and guide out",
+   "action": "Invert the slide, push the recoil spring and guide forward toward the muzzle to unseat the guide head from under the barrel lug, then lift the rear of it up and out.",
+   "prose": "Forward, then up — in that order. Lifting first traps the guide head under the lug, and you end up prying on a loaded spring in a confined space.",
+   "caution": "Point the muzzle end away from your face while the guide unseats.",
+   "quote": "Push the recoil spring and spring guide forward, then lift up and away from the slide to remove.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 6, p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out of the slide",
+   "action": "Push the barrel forward in the slide until the lug clears the locking recess, then lift it out. Read the caliber marking on it while it is in your hand.",
+   "prose": "It should lift out with no resistance. If it will not go forward, the recoil spring guide is still in the slide — nothing here is a press fit, so resistance means a part is still in place.",
+   "quote": "Slide the barrel forward and lift the barrel from the slide.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, step 7, p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Slide, barrel, recoil spring and guide assembly, and frame with grip module — four pieces, and that is the whole owner-level strip.",
+   "prose": "The striker, the extractor and the fire control unit sit past the line this manual draws, and disassembly beyond it voids the warranty. The recoil spring guide assembly is sealed and gets replaced rather than opened.",
+   "quote": "This level of disassembly is sufficient to allow a thorough cleaning.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.1 Field Strip the Pistol, note, p.53",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Magazine floorplate off — the insert is holding a compressed spring",
+   "action": "Empty the magazine, stand it on the bench, press the tab of the magazine insert inward through the floorplate hole with a punch, and slide the floorplate off. Keep a thumb over the insert throughout.",
+   "prose": "The spring under the insert is compressed the length of the tube. Push the tab only as far as it needs to clear its notch. SIG prints this procedure for the 10, 12, 15, 17, 21 and 25-round magazines — check yours falls in that list before starting.",
+   "aside": "The 12-round extended magazine takes a different first step — a floorplate retainer that slides off — so identify your floorplate before prying.",
+   "quote": "Using a punch or similar tool, push the tab of the magazine insert inward to release and remove the floorplate.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.4.1 Magazine Disassembly, step 1, p.65",
+   "warn": "Eye protection. This is the only step in the guide where a part can leave under spring power."
+  },
+  {
+   "phase": "Strip",
+   "title": "Insert, spring and follower out of the tube",
+   "action": "Let the insert out of the bottom of the tube with the spring attached, then draw the spring and follower out behind it. Note the follower's orientation before it leaves.",
+   "prose": "The follower is handed. A .380 follower is also not interchangeable with a 9mm one, so keep this magazine's parts together and do not mix them with parts from another P365 on the bench.",
+   "quote": "Remove the insert, magazine spring, and follower from the magazine tube.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.4.1 Magazine Disassembly, step 2, p.66"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrub the tube and follower",
+   "action": "Wipe the tube inside and out and the follower with a cloth, then run a soft brush wet with CLP down the tube and over the follower.",
+   "prose": "The .380's shorter cases leave residue high in the tube around the feed lips where the follower has least clearance. Soft brush only — nothing steel goes inside the tube.",
+   "quote": "Wipe the magazine tube and follower with a cloth. Clean the magazine tube and follower with a soft brush and CLP.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.4.2 Magazine Cleaning, step 1, p.68"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light oil on the spring and tube exterior only",
+   "action": "Light coat of CLP on the spring and the outside of the tube; wipe the inside dry.",
+   "prose": "SIG oils the spring and the exterior, not the inside. Oil in the tube picks up grit and migrates onto the cartridges, and oiled ammunition is a hazard of its own.",
+   "quote": "Apply a light coat of CLP to the spring and outside of magazine tube.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.4.2 Magazine Cleaning, step 3, p.68"
+  },
+  {
+   "phase": "Strip",
+   "title": "Back together — floorplate on until the insert snaps",
+   "action": "Fit follower and insert onto the spring, feed the follower into the tube and compress the spring, then press the insert down and slide the floorplate on until the insert snaps into it.",
+   "prose": "The snap is the confirmation. A floorplate that goes fully on without one is held by friction and will part company with the tube the first time it is dropped.",
+   "quote": "Press the insert and slide the floorplate onto the magazine tube until the insert snaps into the floorplate.",
+   "cite": "P365 \n® PISTOLS — P/N 2700116-01 REV12 — 11.4.3 Magazine Assembly, step 3, p.70"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "SLIDE ASSEMBLY",
+   "tasks": [
+    "Remove all old lubricant before applying new",
+    "Cloth first, then a soft brush with CLP on carbon buildup",
+    "Extractor, rail slots and breech face clean of dirt and residue",
+    "Light CLP in the frame rail slots of the slide",
+    "Striker channel stays dry — oil in it buys light strikes, and a light strike on a .380 primer is a dead round"
+   ]
+  },
+  {
+   "name": "BARREL",
+   "tasks": [
+    "CLP patch from the chamber end out past the muzzle — never from the muzzle back",
+    "Soak a few minutes to soften the carbon",
+    "Bronze brush of the correct caliber — .380, not 9mm — then dry patches until clean",
+    "Feed ramp with a soft brush and CLP",
+    "Wipe the exterior with a CLP cloth; strip all oil out of bore and chamber before firing"
+   ]
+  },
+  {
+   "name": "FRAME AND GRIP MODULE",
+   "tasks": [
+    "Soft cloth over frame and grip module",
+    "Cotton swabs into the recesses; frame rails get the attention",
+    "Light CLP on the frame rails and accessible moving parts",
+    "Wipe the magazine well clean of dust and residue"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING GUIDE ASSEMBLY",
+   "tasks": [
+    "CLP and a soft brush, then a light coat back on",
+    "Do not take it apart — SIG services it as one unit",
+    "Replace at 2,500-round intervals; look for kinked coils or a loose head"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Verify the barrel is clear, then drop it into the inverted slide.",
+  "Put the larger outer spring of the recoil spring guide assembly into the front of the slide and seat the guide head centred on the barrel lug.",
+  "Confirm the takedown lever is still rotated clockwise to its stop; raising the slide catch lever slightly may be needed before it will turn.",
+  "If your pistol has a manual safety, push the safety lever DOWN before installing the slide — fitting it with the lever up damages the pistol.",
+  "Run the slide onto the frame rails to the fully retracted position, lock it there on the slide catch lever, rotate the takedown lever counterclockwise to its stop, then press the catch lever down to release the slide forward."
+ ],
+ "fncheck": "Magazine out, chamber confirmed empty. Insert an empty magazine — audible click, and it stays. Rack the slide fully back; the follower should push the slide catch lever up and lock the slide open. Press the magazine catch: the magazine must fall free under its own weight. If your pistol has a magazine disconnect, the striker must NOT release with the magazine out and must release with an empty magazine in. If it has a manual safety, the striker must NOT release with the safety engaged. Safety off: pull and hold the trigger for a loud click, hold it back and rack the slide, release the trigger for a light reset click, then pull again for a second loud click."
+}

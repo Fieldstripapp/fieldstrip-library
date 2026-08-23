@@ -1,0 +1,213 @@
+{
+ "row": "deadairnomadtiotb",
+ "make": "Dead Air",
+ "model": "Nomad Ti OTB",
+ "sourcedFrom": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "888d371429bfdf4a540b1b6189427f4ddbfb233895d8cf3b7485fc1dab15664e",
+ "cleanIntro": "The Nomad Ti OTB is an over-the-barrel can: the rear telescopes back over the muzzle onto a Xeno radial brake, so it sits further rearward than a muzzle-forward suppressor and its rear cap has a flush job of its own. It ships with one specific brake, its mount is left-hand threaded, and its warranty is conditioned on what you clean it with. Nothing in this book asks you to open the body. Note: some trademark symbols in the quotes below extract as the letters TM.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Unloaded, cold, and by the firearm maker's instructions",
+   "action": "The firearm must be unloaded with the magazine out, the chamber empty, and at ambient temperature before anything is fitted or removed. When the current muzzle device comes off, Dead Air directs you to your agency's policy and to the firearm manufacturer's own instructions — the host's book governs work on the host, not this one.",
+   "prose": "Ambient temperature is part of the precondition here, not a comfort note. This can is torque-critical and a hot barrel is not at its final dimension.",
+   "quote": "Depending on the specific firearm, ensure the barrel is constrained with a barrel-action rod, barrel clamp, or action clamp. Remove the current muzzle device from the firearm per agency policy and the firearm's Original Equipment Manufacturer (OEM) instructions.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Muzzle Device Installation, p.6",
+   "warn": "Unloaded, magazine out, chamber empty, ambient temperature — every time."
+  },
+  {
+   "phase": "Clear",
+   "title": "Rated for 300 RUM and 7mm Backcountry, down to 16 inches",
+   "action": "Check the host against the rating Dead Air actually prints for this can: all Nomad Ti OTB variants are rated for 300 Remington Ultra Magnum and 7mm Backcountry on barrels as short as 16 inches. That short-barrel permission is specific to this model and does not transfer to the Nomad Ti XC or any other Dead Air can.",
+   "prose": "The manual says 'in all variants' but never enumerates them, so treat the rating as covering whichever OTB you have.",
+   "quote": "The NOMAD TI OTB in all variants is rated for 300 Remington Ultra Magnum and 7mm Backcountry on barrels as short as 16 inches.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Product Overview, p.4"
+  },
+  {
+   "phase": "Clear",
+   "title": "Ceiling — projectile size AND 300 RUM pressure",
+   "action": "Two limits, both binding. The suppressor will not function safely with a projectile larger than what is specified for your unit, or with cartridges above 300 Remington Ultra Magnum pressure. Read the engraving on the tube and the packaging first — those specify the projectile for your particular can.",
+   "prose": "Being inside the pressure limit does not put you inside the projectile limit, and the reverse is equally true.",
+   "quote": "OUR PRODUCTS ARE CALIBER SPECIFIC. UNLESS STATED OTHERWISE ON THE SUPPRESSOR ITSELF OR ON THE PACKAGING, THE SUPPRESSOR WILL NOT FUNCTION SAFELY WITH ANY PROJECTILE LARGER THAN WHAT IS SPECIFIED OR CARTRIDGES WITH PRESSURES HIGHER THAN 300 REMINGTON ULTRA MAGNUM. USE OF YOUR SUPPRESSOR OUTSIDE OF ITS INTENDED SCOPE COULD RESULT IN DAMAGE TO YOUR FIREARM, DAMAGE TO PROPERTY, BODILY INJURY, OR DEATH.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Muzzle Device Installation and Removal, p.6",
+   "warn": "Ceiling: 300 Remington Ultra Magnum pressure, and the projectile size specified on your can."
+  },
+  {
+   "phase": "Strip",
+   "title": "One brake, named — DA870 Xeno radial, 5/8-24, .30 bore",
+   "action": "Confirm what is on the muzzle. This can ships with one specific muzzle device: the Dead Air DA870 Xeno radial brake in 5/8-24 with a .30 calibre bore, and that brake does not require timing. If a different brake is on the barrel, the mount interface the OTB was designed around is not there.",
+   "prose": "No timing means no shims and no clocking to chase — but it also means the taper on that specific brake is the only alignment reference the can has.",
+   "aside": "The trademark superscript on Xeno extracts from the PDF as the letters TM.",
+   "quote": "The Nomad Ti OTB ships with Dead Air Silencers DA870 Xeno™ Radial Brake, 5/8-24, .30 Cal Bore.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Muzzle Device Installation, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Torque ceiling — 25 ft-lbs target, 30 absolute",
+   "action": "Torque the brake with a torque wrench to 25 foot-pounds, give or take 2.5, using a 3/4 inch twelve-point socket. Never exceed 30 foot-pounds: Dead Air ties over-torque directly to reduced accuracy in this system. If Rocksett was used, give it 24 hours to cure before live fire.",
+   "prose": "The barrel must be constrained on a rod or clamp while you do it, or you are torquing against the action.",
+   "quote": "Do not exceed 30 foot-pounds of torque, as this could reduce the system's accuracy.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Muzzle Device Installation, p.6",
+   "warn": "30 foot-pounds is an absolute ceiling. Rocksett needs 24 hours to cure."
+  },
+  {
+   "phase": "Strip",
+   "title": "LEFT-HANDED mount — it goes on and comes off one way",
+   "action": "Before you turn anything, understand the thread hand. The Xeno mounting system on the Nomad Ti OTB is LEFT-HANDED: the suppressor mounts by rotating counterclockwise onto the brake's taper and comes off clockwise. There is exactly one way on and one way off, and turning it the habitual way is turning it tighter.",
+   "prose": "Mounting torque is roughly 15 foot-pounds plus or minus 2.5, two-handed, and it should thread on smoothly with no binding.",
+   "quote": "The suppressor can only go on one way and come off one way. The Xeno™ mounting system is a LEFT-HANDED thread.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Nomad Ti OTB Installation and Removal — Preparation, p.7",
+   "warn": "LEFT-HANDED thread. Counterclockwise on, clockwise off."
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the OTB off the brake",
+   "action": "With the firearm unloaded and the can at ambient temperature, grip the suppressor body — or engage its tool features with a TL001 — and rotate it clockwise until it is fully disengaged, then pull it forward off the barrel. Because it is an over-the-barrel design, that forward pull is a real part of the removal rather than an afterthought.",
+   "prose": "When the taper torque breaks the wrench can swing. Keep your hand clear of where it will land.",
+   "quote": "While gripping the suppressor body or using a TL001 tool to engage the suppressor body tool features, rotate the suppressor body in a clockwise direction until the suppressor body is fully disengaged.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Nomad Ti OTB Removal, p.7",
+   "warn": "NEVER touch a hot suppressor. Let it reach ambient temperature."
+  },
+  {
+   "phase": "Strip",
+   "title": "The front cap stays where the factory put it",
+   "action": "Leave the front cap alone in normal service. Every Nomad Ti OTB has a factory-installed front cap that does not require removal for use. If it ever must come off, it is a RIGHT-HAND thread, the suppressor goes into a vice block with only enough clamping force to hold it rotationally, and a DA208 tool engages the tines counterclockwise.",
+   "prose": "Note the mixed handedness on this can: the mount is left-hand, the front cap is right-hand. Getting those the wrong way round is how a cap gets damaged.",
+   "caution": "Do not over-clamp the tube in a vice block — enough to stop rotation, no more.",
+   "quote": "All Nomad Ti OTB models have factory-installed front caps and do not require removal for use.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Front Cap Installation and Removal, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear cap — off only to flush the OTB section",
+   "action": "The rear cap does not come off as routine. Dead Air's only stated reason to remove it is to flush the rear over-the-barrel portion during cleaning. It takes a DAT006 tool held in a vice with the rear cap engaged on it and a second DAT006 on the suppressor body turning counterclockwise, and it goes back at 17 foot-pounds plus or minus 2.",
+   "prose": "That rear cavity is the part of an OTB can that traps water and fouling, which is exactly why the access exists at all.",
+   "caution": "Rear cap reassembly torque is 17 foot-pounds +/- 2.",
+   "quote": "The rear cap on the Nomad Ti OTB does not need to be removed, unless during cleaning of the suppressor to flush the rear OTB portion.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Cleaning Adapter, Front Cap, and Suppressor Control Surfaces, p.12"
+  },
+  {
+   "phase": "Clean",
+   "title": "After rain, snow, humidity or coastal air — clean it",
+   "action": "Treat wet exposure as a cleaning trigger in its own right, not just after firing. Dead Air asks that the suppressor be disassembled where it is user-serviceable and thoroughly cleaned with a non-corrosive solvent after humidity, rain, snow or coastal environments, with particular attention to the muzzle device and the front cap.",
+   "prose": "Then dry it properly — compressed air or a low-humidity space — and do not store it warm or wet. Trapped moisture is what turns an afternoon in the rain into pitting.",
+   "quote": "After exposure to humidity, rain, snow, or coastal environments, the suppressor should be disassembled (if user-serviceable) and thoroughly cleaned using a non-corrosive solvent. Pay particular attention to muzzle devices and front caps.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Cleaning and Maintenance Notes — Preventive Maintenance Measures, p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wrong chemistry voids the warranty",
+   "action": "Check what is in the bottle before it goes anywhere near this can. Dead Air limits cleaning to non-toxic, water-soluble, biodegradable solutions, and states that using anything outside that — or anything that dissolves metal — results in a loss of warranty, with the owner carrying any repair cost from chemical erosion.",
+   "prose": "An ultrasonic tank is permitted on titanium, steel or Haynes 282 provided it runs WITHOUT heat and without corrosive chemicals. Discolouration of coating or paint from that process does not void the warranty.",
+   "quote": "SUPPRESSORS AND/OR ANY SUPPORTING PRODUCTS THAT ARE CLEANED USING CHEMICALS OUTSIDE OF THE NON-TOXIC, WATER-SOLUBLE, BIO-DEGRADABLE CLEANING SOLUTIONS AND/OR CHEMICALS THAT DISSOLVE ANY METAL WILL RESULT IN A LOSS OF WARRANTY.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Main Suppressor Body Cleaning, p.13",
+   "warn": "Metal-dissolving or non-biodegradable chemistry voids the warranty on this suppressor."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The can is off the brake, the brake is either still torqued on the barrel or off it under a constrained barrel, and the front cap has been left alone. That is the routine job. Deep Clean covers the muzzle device taper, the rear cap flush and the internal cleaning method the warranty permits.",
+   "prose": "Full coverage eye and skin protection goes on for all of it — this is where the lead lives.",
+   "quote": "Ensure that proper full coverage eye and skin protection is worn during all cleaning and/ or maintenance operations.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Disassembly and Preparation, p.12",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "The muzzle device taper is a critical surface",
+   "action": "Inspect the brake for fouling or rust and clear it with a brass or nylon brush and CLP, taking care not to strip the nitride. Never put a knife or any edged tool on the taper — that surface is what the whole suppressor aligns on, and a scrape in it is permanent.",
+   "prose": "This is the single most consequential surface on an OTB mount, because the can hangs back over the barrel from it.",
+   "quote": "THE TAPER ON THE MUZZLE DEVICE IS A CRITICAL SURFACE. NEVER USE A KNIFE OR EDGED TOOL ON THE TAPER.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Muzzle Device Cleaning and Inspection, p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lead and carbon ahead of the taper — around 4000 rounds",
+   "action": "Over time the muzzle device accumulates lead and carbon on the surfaces in FRONT of the taper. At roughly 4000 rounds, work those deposits off with a scraping tool, a brush or a polymer scouring pad and a small amount of oil or CLP — again without taking the nitride surface treatment with them.",
+   "prose": "In front of the taper, not on it. The taper gets a brush and nothing else.",
+   "quote": "Over time, the muzzle device will accumulate lead and carbon from use on the surfaces in front of the taper. After roughly 4000 rounds of use, use a scraping tool, brush, and/or a polymer base scouring pad to apply a small amount of oil or CLP, then remove the lead and carbon deposits.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Muzzle Device Cleaning and Inspection, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear cap off to flush the OTB cavity",
+   "action": "Put a DAT006 tool in a vice with the suppressor's rear cap engaged on it, then use a second DAT006 on the main body tool locations and rotate the suppressor counterclockwise. Flush the rear over-the-barrel section, then reverse the process and torque the rear cap back to 17 foot-pounds plus or minus 2.",
+   "prose": "Two tools, one held. Trying it with one and a hand on the tube twists the tube instead of the joint.",
+   "caution": "TAKE SPECIAL CARE NOT TO DAMAGE THE TAPER OR THREADS OF ANY COMPONENT.",
+   "quote": "When finished repeat the process and ensure the rear cap is torqued to 17 foot-pounds +/- 2 foot pounds.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Cleaning Adapter, Front Cap, and Suppressor Control Surfaces, p.12"
+  },
+  {
+   "phase": "Clean",
+   "title": "Internal cleaning — what is actually allowed",
+   "action": "For the inside of the body, use commercially available non-toxic, water-soluble, biodegradable cleaning solutions. Dead Air's own Silencer Cleaning System is the preferred method for reaching the internal geometry. An ultrasonic tank may be used on titanium, steel or Haynes 282 provided it runs WITHOUT heat and without corrosive chemicals.",
+   "prose": "You are solely responsible for disposing of the used solution, which will be carrying heavy metals.",
+   "quote": "To clean the suppressor's internal body, end users are encouraged to use any commercially available, non-toxic, water-soluble, biodegradable cleaning solutions and methods.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Main Suppressor Body Cleaning, p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry it properly, then store it dry and off the gun",
+   "action": "After cleaning, dry every component thoroughly with compressed air or let it air-dry somewhere with low humidity, and never put it away warm or wet from use. Store it cool and dry with desiccant, and avoid leaving it mounted on the firearm for long periods in salt air, because that traps moisture between the mating surfaces.",
+   "prose": "The exception the manual itself names is a suppressor that has been semi-permanently torqued onto the firearm.",
+   "quote": "Moisture trapped within the suppressor can continue to degrade metal surfaces over time. After cleaning, dry all components thoroughly with compressed air or allow them to air-dry in a low-humidity environment.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Cleaning and Maintenance Notes — Dry thoroughly, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "If Rocksett was used, soak — do not heat",
+   "action": "To get the muzzle device off a barrel where Rocksett was used, soak the barrel and device in water for 12 to 24 hours, hot water speeding it up, then constrain the barrel and break the device counterclockwise with a 3/4 inch twelve-point socket. Do not reach for heat: Dead Air rules heating the muzzle device threads out where Rocksett is involved.",
+   "prose": "That is the opposite of the advice in Dead Air's Xeno and KeyMo books, where heating a seized adapter is the published remedy. Rocksett is why.",
+   "quote": "IF ROCKSETT WAS USED, DO NOT HEAT THE MUZZLE DEVICE THREADS IN AN EFFORT TO LOOSEN THE THREADS.",
+   "cite": "NOMAD Ti OTB  OWNERS MANUAL — Rev042926 — Muzzle Device Removal, p.6"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "MUZZLE DEVICE",
+   "tasks": [
+    "Inspect for fouling and rust; brass or nylon brush with CLP only",
+    "Never use a knife or edged tool on the taper",
+    "At roughly 4000 rounds, clear lead and carbon from the surfaces in front of the taper",
+    "Take care not to remove the nitride surface treatment"
+   ]
+  },
+  {
+   "name": "SUPPRESSOR BODY",
+   "tasks": [
+    "Non-toxic, water-soluble, biodegradable cleaning solutions only — anything else voids the warranty",
+    "The Dead Air Silencer Cleaning System is the preferred method for internal geometry",
+    "Ultrasonic tank permitted on titanium, steel or Haynes 282 WITHOUT heat and without corrosive chemicals",
+    "Dispose of used solution properly; it carries heavy metals"
+   ]
+  },
+  {
+   "name": "REAR CAP & OTB CAVITY",
+   "tasks": [
+    "Remove the rear cap only to flush the rear over-the-barrel section",
+    "Two DAT006 tools, one held in a vice, body turning counterclockwise",
+    "Re-torque the rear cap to 17 foot-pounds +/- 2"
+   ]
+  },
+  {
+   "name": "AFTER WET OR COASTAL USE",
+   "tasks": [
+    "Clean with a non-corrosive solvent, paying particular attention to the muzzle device and front cap",
+    "Dry with compressed air or in a low-humidity space; never store warm or wet",
+    "A light film of corrosion-inhibiting oil or firearm protectant on bare threads and exposed steel",
+    "Store cool and dry with desiccant, and not left mounted in salt air"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Constrain the barrel, clean and degrease both sets of threads, and fit the DA870 Xeno radial brake — it does not require timing.",
+  "Torque the brake to 25 foot-pounds +/- 2.5 with a 3/4 inch twelve-point socket, never above 30; allow Rocksett 24 hours to cure before live fire.",
+  "Check the brake taper and threads are clean and free of debris.",
+  "Align the suppressor body over the muzzle device, insert the device into the rear of the can, and rotate counterclockwise until it meets the taper.",
+  "Tighten two-handed to approximately 15 foot-pounds +/- 2.5; it should thread smoothly with no binding.",
+  "If the rear cap was removed, torque it back to 17 foot-pounds +/- 2."
+ ],
+ "fncheck": "Put a certified alignment rod of the barrel's calibre through the suppressor bore into the barrel with about an inch protruding; it must sit centred and must not touch the front cap. If it touches or is drastically off, stop and contact Dead Air. Then remove the rod, grip the suppressor and try to turn, shake and wobble it — it must not move, rotate or wobble, and the rod must be out before firing."
+}

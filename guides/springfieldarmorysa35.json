@@ -1,0 +1,120 @@
+{
+ "row": "springfieldarmorysa35",
+ "make": "Springfield Armory",
+ "model": "SA-35",
+ "sourcedFrom": "Springfield Armory SA-35 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) (undated — no copyright line is printed anywhere in this document)",
+ "sourceSha256": "a7f747be42e13b89431786f797a56a194fcece91ce6603d5910bac6d634e743f",
+ "cleanIntro": "The SA-35 is a Hi-Power pattern and it does NOT come apart like Springfield’s striker pistols. There is no disassembly lever: the MANUAL SAFETY is what holds the slide in the takedown notch, and the recoil spring system is non-captive.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check this book is for your pistol",
+   "action": "This procedure comes from the SA-35 manual. Springfield states on its cover that this manual is for SA-35 firearms only.",
+   "prose": "Nothing from the XD, Hellcat or Echelon books applies here. The takedown mechanism is a different one.",
+   "quote": "THIS MANUAL IS FOR SA-35 FIREARMS ONLY.",
+   "cite": "Springfield Armory SA-35 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — Cover, safety information panel"
+  },
+  {
+   "phase": "Clear",
+   "title": "Eye protection, muzzle safe, finger off",
+   "action": "Point the gun in a safe direction with your finger off the trigger and wear eye protection.",
+   "prose": "Springfield puts eye protection in capitals at the head of this section, not as an afterthought.",
+   "quote": "POINT GUN IN SAFE DIRECTION WHILE KEEPING FINGER OFF THE TRIGGER.",
+   "cite": "Springfield Armory SA-35 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 1",
+   "warn": "ALWAYS REMEMBER THE FIREARM IS ABLE TO FIRE WITH OR WITHOUT THE MAGAZINE IN PLACE."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, firearm unloaded",
+   "action": "Remove the magazine and unload the firearm.",
+   "prose": "Springfield states the field strip is the same on every SA-35 regardless of caliber, so nothing here changes with chambering.",
+   "quote": "FIELD STRIPPING PROCEDURES ON THE SA-35 ARE THE SAME REGARDLESS OF CALIBER.",
+   "cite": "Springfield Armory SA-35 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, section note and step 2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety into the disassembly notch",
+   "action": "Retract the slide fully rearward and press the manual safety upwards into the disassembly notch on the slide.",
+   "prose": "This is the step that has no equivalent on a Springfield striker pistol — the safety lever itself is the slide hold. Feel it seat in the notch before you let go.",
+   "quote": "Retract the slide fully rearward and press the manual safety upwards into the disassembly notch on the slide.",
+   "cite": "Springfield Armory SA-35 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 3 (printed p.22, per Fig 22-1; this edition prints no page folios; the printed page is the prefix of the figure caption on the same page)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber",
+   "action": "Visually inspect the chamber to confirm the firearm is unloaded.",
+   "prose": "With the slide held back by the safety, this is your clear view of the chamber. Take it.",
+   "quote": "Visually inspect the chamber to confirm the firearm is unloaded.",
+   "cite": "Springfield Armory SA-35 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide stop out",
+   "action": "Push the protruding slide stop pin on the right side of the pistol while lifting slightly on the serrated portion of the slide stop, and take the slide stop out of the frame.",
+   "prose": "Push from the right, lift on the left. Pushing without lifting will not release it.",
+   "quote": "Remove the slide stop from the frame by pushing the protruding slide stop pin on the right side of the pistol while lifting up slightly on the serrated portion of the slide stop",
+   "cite": "Springfield Armory SA-35 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 5 (printed p.22, per Fig 22-2)",
+   "warn": "Do not attempt to disassemble this or any other firearm until you have"
+  },
+  {
+   "phase": "Strip",
+   "title": "Safety back down, slide off the front",
+   "action": "Grasp the slide firmly, pull it rearward slightly, then move the manual safety lever down. The slide runs forward under spring tension — keep a firm grip and take the slide assembly off the frame.",
+   "prose": "You are releasing a compressed spring by hand here, with nothing captive holding it. Hold it before you drop the safety, not after.",
+   "caution": "The SA-35 has a Non-Captive recoil spring system. Spring is under tension. Maintain control.",
+   "quote": "Grasp the slide firmly and pull it rearward slightly, then move the manual safety lever down.",
+   "cite": "Springfield Armory SA-35 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 6 (printed p.23, per Fig 23-1)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and guide out",
+   "action": "Holding the slide, press the head of the recoil spring guide towards the muzzle to release it from the barrel lug, then remove the recoil spring and its guide.",
+   "prose": "Forward pressure first to unhook the guide head from the lug. It is a loose spring and guide, not an assembly — keep them together and keep them pointed away from your face.",
+   "caution": "Spring is under tension. Maintain control.",
+   "quote": "While holding the slide, press the head of the recoil spring guide towards the muzzle to release the head of the recoil spring guide from the barrel lug. Remove the recoil spring and its guide",
+   "cite": "Springfield Armory SA-35 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 7 (printed p.23, per Fig 23-2)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out — strip complete",
+   "action": "Remove the barrel from the slide by lifting the lug and sliding the barrel rearward.",
+   "prose": "Lug up, barrel back — rearward out of the slide, not forward. That is the whole field strip Springfield publishes for the SA-35.",
+   "quote": "Remove the barrel from the slide by lifting the lug and sliding the barrel rearward.",
+   "cite": "Springfield Armory SA-35 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 8 (printed p.24, per Fig 24-1)",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The SA-35 manual publishes the field strip and its reassembly and nothing beyond it, warning against disassembly without training from a competent gunsmith. No detail strip is published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Solvent-wet patch through the bore, correctly sized brush, then dry patches until clean",
+    "Wipe the feed ramp and the barrel exterior",
+    "A light pass of oil outside; nothing pooled"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Scrub the breech face and around the extractor",
+    "Clean the slide rails",
+    "Wipe the striker channel DRY — no oil in an ignition channel"
+   ]
+  },
+  {
+   "name": "FRAME & MAGAZINES",
+   "tasks": [
+    "Brush the frame rails",
+    "Wipe the magazine bodies dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Install the barrel into the slide.",
+  "Reinstall the recoil system, checking it is properly aligned.",
+  "Install the slide assembly onto the frame. If you meet interference, take the slide back off and check the barrel is seated and the recoil system aligned — NEVER FORCE SLIDE ASSEMBLY ONTO FRAME.",
+  "Retract the slide fully, put the safety back into the disassembly notch, refit the slide stop, then release."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, rack the slide and confirm the trigger resets and the manual safety engages, pointed in a safe direction."
+}

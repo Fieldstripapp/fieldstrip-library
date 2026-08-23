@@ -1,0 +1,97 @@
+{
+ "row": "keltecp17",
+ "make": "Kel-Tec",
+ "model": "P17",
+ "sourcedFrom": "P17™ SAFETY, INSTRUCTION & PARTS MANUAL — REV2019NOV (UNKNOWN — not printed in the document)",
+ "sourceSha256": "f142331fba277cbe4437dad23c94a2c172bc5da7febe2e04cc667eb40b2f92a9",
+ "cleanIntro": "A 16+1 .22 LR blowback whose slide comes off by rotating up over the barrel trunnion — no pins, no tools, but one precondition that will stop you dead if you skip it. Kel-Tec's procedure ends with the slide off and states that is as far as it recommends going, so there is no Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm what this pistol is fed: high velocity .22 LR only",
+   "action": "Check what is in the magazine and what is on the bench. The P17 is built around high velocity ammunition, and standard or subsonic loads are outside its design.",
+   "prose": "This is not a preference, it is the design condition of a straight-blowback .22 with a 10.9-ounce slide: the round has to carry enough energy to cycle it. Low power ammunition and light bullets will short-stroke the slide, and the failures that follow get blamed on the gun. It matters at cleaning time because a P17 that has been fed weak ammunition presents exactly like a dirty one, and cleaning it will not fix it. Brass-cased, US-made, SAAMI-spec only; the book voids the warranty over the rest.",
+   "quote": "The P17 pistol has been designed and chambered to operate with standard .22 LR cartridges that are HIGH VELOCITY AMMUNITION ONLY.",
+   "cite": "P17™ SAFETY, INSTRUCTION & PARTS MANUAL — REV2019NOV — Overview — V. Ammunition, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety up, magazine out, then inspect the chamber, bolt and magazine well",
+   "action": "Sweep the safety lever up to SAFE, press down either side of the magazine release and pull the magazine out. Then turn the P17 on its side and check the chamber, the bolt face and the magazine well by eye and by finger.",
+   "prose": "Turning the pistol on its side is the manual's own instruction and it is there because the P17's ejection port sits under a polymer slide cover that shadows the chamber from directly above — held level, an empty-looking chamber and a chambered .22 look much the same. Check the magazine well too; a partly stripped rimfire round hung on the feed lips is a real state on this gun. Note that the slide does NOT lock back when you chamber from the magazine, so there is no held-open action to reassure you.",
+   "caution": "BE EXTREMELY CAUTIOUS NOT TO MOVE THE SLIDE WHEN IT IS IN THE LOCKED POSITION. AN ACCIDENTAL RELEASE OF THE ACTION CAN CAUSE A SEVERE INJURY",
+   "quote": "Turn the P17 to the side, visually and physically inspect the chamber, bolt, and magazine well to make sure no cartridges are left in the action.",
+   "cite": "P17™ SAFETY, INSTRUCTION & PARTS MANUAL — REV2019NOV — Operating Instructions — IV. Unloading, step 2, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "If a thread adapter is fitted, take it off and put the stock muzzle nut back on",
+   "action": "With the slide locked back, remove any thread adapter, suppressor mount or compensator from the muzzle and install the factory muzzle nut before you attempt the strip.",
+   "prose": "This is the precondition that stops the strip cold if it is missed. The P17's slide comes off by travelling FORWARD over the barrel, so the muzzle end has to be within the diameter the slide passes over — a thread adapter is wider and the slide will jam against it. Forcing it damages the slide bushing or the adapter, and neither failure is obvious until you try to reassemble. Kel-Tec puts this instruction ahead of numbered step 1 for exactly that reason.",
+   "quote": "With the slide locked back, REMOVE THE THREAD ADAPTER AND INSTALL THE STOCK MUZZLE NUT BEFORE PROCEEDING.",
+   "cite": "P17™ SAFETY, INSTRUCTION & PARTS MANUAL — REV2019NOV — Breakdown — I. Disassembly, preamble, p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the buffer down and take the slide to its furthest rear position",
+   "action": "With the P17 on SAFE, pull the slide back and hold it. Press the buffer downward, then pull the slide back further still — past its normal travel, to where the rearmost visible part of the frame is. Keep the buffer held down and lift the slide upward.",
+   "prose": "The plastic buffer is doing double duty on this pistol: it damps the slide in firing and it is the takedown lever. Held down, it releases the slide to travel beyond its working stroke; let it up and the slide stops in the normal range and nothing happens. The feel to look for is the slide reaching a hard stop noticeably further back than it goes when you rack it, and then being free to rise at the rear. If the slide will not rise, the buffer is not fully down or the slide is not far enough back — do not lever it up.",
+   "quote": "Put the P17 on SAFE and pull back the slide and hold in place. Press the buffer downward and then pull the slide back in the furthest position.",
+   "cite": "P17™ SAFETY, INSTRUCTION & PARTS MANUAL — REV2019NOV — Breakdown — I. Disassembly, step 1, p.15",
+   "warn": "Always wear safety glasses when disassembling the P17 to protect your eyes from components that are under pressure, such as springs."
+  },
+  {
+   "phase": "Strip",
+   "title": "Rotate the slide up until the bolt clears the trunnion, then run it forward",
+   "action": "Rotate the rear of the slide upward far enough that the bolt clears the barrel trunnion, then let the slide travel slowly forward and off, past the barrel thread.",
+   "prose": "The rotation is the whole trick: the bolt sits behind the trunnion until the slide is tipped, and only then is there a clear path forward over the barrel. Go forward before the bolt has cleared and it catches on the trunnion — the correct answer is more rotation, never more force. Let it run off under control rather than launching it; the recoil spring and barrel stay captive with the grip on this design, so what you are holding at the end is a slide and slide cover assembly, and the pistol keeps its barrel.",
+   "quote": "Now raise the slide by rotating upwards so that the bolt can clear the barrel trunnion (figure 8). Allow the slide to slowly go forward past the barrel thread.",
+   "cite": "P17™ SAFETY, INSTRUCTION & PARTS MANUAL — REV2019NOV — Breakdown — I. Disassembly, step 2, p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Slide-and-cover assembly off, grip assembly with barrel, trunnion, recoil spring and fire control still together, magazine out. That is the whole strip Kel-Tec publishes for the P17.",
+   "prose": "That is enough to reach everything the cleaning procedure names: the bolt and its exterior faces, the bore and chamber from the breech, the breech end of the barrel, and the magazines. Rimfire fouling is waxy and it collects on the bolt face and the chamber mouth rather than in the bore, so this is the right level of strip for a .22 — and the reason the book tells you to clean it after every session. Anything past this is tied straight to the warranty, which is void if the P17 is disassembled beyond the breakdown procedure listed in the manual.",
+   "quote": "This is as far as Kel-Tec CNC Industries, Inc. recommends field stripping the P17. From this point, the cleaning procedure can be implemented if necessary.",
+   "cite": "P17™ SAFETY, INSTRUCTION & PARTS MANUAL — REV2019NOV — Breakdown — I. Disassembly, step 3, p.16",
+   "warn": "Further disassembly should only be performed by a certified gunsmith or Kel-Tec CNC Industries, Inc. Attempting further disassembly may void your warranty.",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The P17 manual names its own stopping point inside the numbered disassembly: step 3 states that is as far as Kel-Tec recommends field stripping the pistol and that the cleaning procedure runs from there, and the note immediately under it sends any further disassembly to a certified gunsmith or to Kel-Tec, warning that attempting it may void the warranty. The Limitations of Warranty section repeats the same bound as a voiding condition. The book publishes nothing between that point and shipping the pistol back, so there is no deeper procedure to walk.",
+ "cleaning": [
+  {
+   "name": "BOLT & BREECH",
+   "tasks": [
+    "Thoroughly clean all exterior sides of the bolt with solvent and a brush — rimfire residue is waxy and builds on the bolt face first",
+    "Small brush dipped in solvent around the breech of the barrel and every adjacent area that has taken powder or primer residue",
+    "Check the extractor for visible damage and that its spring is working while the bolt is accessible"
+   ]
+  },
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Brush the barrel bore and chamber with a good powder-removing solvent and bore brush, then wipe clean with patches or a swab",
+    "Pay attention to the chamber mouth: lead and wax build a ring there on a .22 and it is what starts the failures to chamber"
+   ]
+  },
+  {
+   "name": "MAGAZINES & OIL",
+   "tasks": [
+    "Clean the magazines with solvent and a brush if needed — the P17's single stack .22 magazine rim-locks when it is dirty or loaded wrong",
+    "Use a cloth to apply a light coating of high-quality gun oil to all interior and exterior metal surfaces and wipe clean",
+    "Manually cycle the action back and forth to check the function of the firearm before the pistol goes away"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Wear safety glasses; the assembly works against spring pressure.",
+  "Pull the hammer all the way back to the cocked position first — the slide will not fit over an uncocked hammer.",
+  "Place the front of the slide over the barrel thread and pull back slightly so the slide cover clears the barrel trunnion and rests on the flat of the frame.",
+  "Put your trigger finger on the buffer, press it all the way down and hold; pull the slide back slightly and rotate it down so the bolt clears the frame, aligning the frame rails with the slots on the bolt.",
+  "Still pressing the buffer, pull the slide slightly back and then SLOWLY follow it forward — do not let it run.",
+  "Refit the thread adapter afterwards if you removed one."
+ ],
+ "fncheck": "With the magazine out and the chamber checked empty: the slide should run its full stroke and return fully forward under spring pressure, and the buffer should spring back up on its own when released. The safety should only engage with the hammer fully cocked, and when it is engaged the trigger should not move the sear — if the lever stops midway you may still be able to pull the trigger, so it has to reach its stop. Insert an empty magazine and the magazine safety should prevent the hammer releasing until the magazine is seated correctly."
+}

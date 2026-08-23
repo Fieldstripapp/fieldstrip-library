@@ -1,0 +1,200 @@
+{
+ "row": "deadairlazarus6",
+ "make": "Dead Air",
+ "model": "Lazarus 6",
+ "sourcedFrom": "LAZARUS 6  OWNERS MANUAL — Rev081924 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "ee7eb9265a115b20e300f504c0d439556c8fbdd90e9d9c3d02f909e20c36abbb",
+ "cleanIntro": "The LAZARUS 6 is a printed Haynes 282 body with three Triskelion baffles, shipped as a LAZARUS 6 KM on a KeyMo adapter or a LAZARUS 6 XM on a Xeno adapter. Its defining limit is a projectile diameter, not a pressure — 6mm (.243) — and its two configurations behave differently in the hand. Everything that comes apart is at the ends: the adapter, the muzzle device and the front cap.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host, and use the host's own manual",
+   "action": "Magazine out, bolt locked back, chamber checked by eye and by finger before the can is handled. Dead Air then sends you to the operator's manual for your own rifle for the clearing procedure, and rules out fitting or removing the suppressor on a closed action.",
+   "prose": "This can lives mostly on AR-pattern 5.56 hosts, where locking the bolt back is the first thing and the easiest thing to skip.",
+   "quote": "CHECK YOUR WEAPON’S CHAMBER AND MAKE CERTAIN THAT THE WEAPON IS UNLOADED AND THE MAGAZINE REMOVED BEFORE PROCEEDING ANY FURTHER. IF THERE IS ANY QUESTION OR DOUBT, CONSULT THE OPERATOR’S MANUAL APPLICABLE TO YOUR FIREARM AS TO THE PROPER PROCEDURE FOR CLEARING AND/ORUNLOADING YOUR WEAPON. DO NOT INSTALL YOUR NEW SUPPRESSOR ON A FIREARM WITH A CLOSED ACTION!",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Product Overview, p.5",
+   "warn": "Never mount or unmount on a closed action."
+  },
+  {
+   "phase": "Clear",
+   "title": "LAZARUS 6 limit — projectiles no larger than 6mm (.243)",
+   "action": "Confirm the projectile diameter, not just the cartridge name. The LAZARUS 6's published restriction is on projectile size: nothing greater than 6mm (.243) unless the tube or the packaging states otherwise for your unit. That is a bore limit, and a cartridge that fits the chamber is not automatically inside it.",
+   "prose": "This is a differently shaped limit from Dead Air's .30 cans, which are capped by chamber pressure. Read it as printed.",
+   "quote": "OUR PRODUCTS ARE CALIBER SPECIFIC. UNLESS STATED OTHERWISE ON THE SUPPRESSOR ITSELF OR ON THE PACKAGING, THE LAZARUS 6 SUPPRESSOR WILL NOT FUNCTION SAFELY WITH ANY CARTRIDGE WITH PROJECTILES GREATER THAN 6MM (.243). USE OF YOUR SUPPRESSOR OUTSIDE OF ITS INTENDED SCOPE  COULD RESULT IN DAMAGE TO YOUR FIREARM, DAMAGE TO PROPERTY, BODILY  INJURY, OR DEATH.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Installation and Removal, Step One, p.9",
+   "warn": "Projectile ceiling: 6mm (.243)."
+  },
+  {
+   "phase": "Clear",
+   "title": "Host chamberings Dead Air names",
+   "action": "Check your host against the list the manual actually prints. The LAZARUS 6 is optimised for 5.56x45 and Dead Air also names 6mm Creedmoor and 6mm ARC as effective hosts. Those three are the chamberings this book puts its name to; anything else has to be judged against the 6mm projectile limit above.",
+   "prose": "6mm Creedmoor is a very different pressure and heat load from 5.56, and both are named. The governing limit is still bullet diameter.",
+   "quote": "Although optimized for use on 5.56 x 45 hosts, the LAZARUS 6 can also be used effectively on hosts chambered for 6mm Creedmoor and 6mm ARC.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Product Overview, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "1/2-28 muzzle device — and the crush washer goes in the bin",
+   "action": "Check the barrel threads match the 1/2-28 muzzle device that shipped with your Lazarus 6. Take off whatever device is on the muzzle now and throw away the crush washer or shims that come off with it. Dead Air states that reusing them can adversely affect suppressor alignment and damage the can or worse.",
+   "prose": "A crush washer has already deformed to one clock position. Reused, it lets the new device sit wherever it lands.",
+   "quote": "Ensure your barrel has threads that match the 1/2-28 muzzle device that shipped with your Lazarus 6. Remove any existing muzzle device that may still be on the host weapon’s barrel. Dispose of any crush washer or shims that were used. Do not reuse as they may have an adverse affect on suppressor alignment, causing damage to the suppressor or worse.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Muzzle Device Installation, Step One, p.7",
+   "warn": "Never reuse a crush washer or shims under a suppressor muzzle device."
+  },
+  {
+   "phase": "Strip",
+   "title": "Torque values — adapter 25-30, muzzle device 25-35",
+   "action": "Two joints, two figures. The adapter into the rear of the suppressor takes 25-30 ft-lbs, with the Xeno adapter accepting a 1-1/8 socket. The muzzle device onto the barrel takes 25-35 ft-lbs, and the manual attaches precision problems to anything over 35.",
+   "prose": "Do not borrow one number for the other joint. They are printed apart because they are different fits.",
+   "quote": "Torque Values: Adapter torque:  25-30 ft-lbs  (Xeno adapter will accept a 1-1/8 socket) Muzzle device torque: 25-35 ft-lbs",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Installation and Removal, Torque Values, p.12",
+   "warn": "Adapter 25-30 ft-lbs. Muzzle device 25-35 ft-lbs, never over 35."
+  },
+  {
+   "phase": "Strip",
+   "title": "XM configuration — the Xeno is LEFT HAND threaded",
+   "action": "If your can is a LAZARUS 6 XM, the Xeno adapter is deliberately left-hand threaded so the suppressor always comes off the muzzle device rather than unscrewing the device off the barrel or leaving the adapter behind. It mounts anticlockwise looking down from above and comes off clockwise from above.",
+   "prose": "The system also warns you at mounting time if the adapter is under-torqued into the suppressor. That is a feature of the thread hand, not a coincidence.",
+   "quote": "NOTE:  The Xeno system is designed with a LEFT HAND threads to ensure that when the suppressor is removed, it will always come off the muzzle device without either unscrewing the muzzle device or leaving the adapter behind if not fully tightened into the suppressor.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Installation and Removal, Step Two — Xeno, p.13",
+   "warn": "Xeno is LEFT HAND thread. Direction reverses."
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the can off the muzzle device",
+   "action": "On a Xeno, turn the body clockwise looking down from above to break the taper, then keep unscrewing until it is free of the muzzle device. On a KeyMo, turn the body counter-clockwise until it stops and slide the can off the brake or flash hider. Turn the suppressor body only — there is no need to grab the compression nut at the rear.",
+   "prose": "Grabbing the compression nut fights the mount instead of releasing it, and on a KeyMo it disturbs the start/stop index.",
+   "quote": "1. Simply turn in a right hand direction (clockwise when looking down it from above) to break the torque on the tapers and continue to unscrew until free from the muzzle device.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Installation and Removal, Suppressor Removal — Xeno, p.14",
+   "warn": "Let the can reach ambient temperature after firing before removal."
+  },
+  {
+   "phase": "Strip",
+   "title": "KM configuration — the detent ring is a WEAR ITEM",
+   "action": "If your can is a LAZARUS 6 KM, service the detent ring after every shooting session. Pull it back away from its spring, put a drop of lube or high temperature grease on its face at two to four points, then mount and dismount the can a few times to spread it evenly.",
+   "prose": "It is a clutch plate, not a lock. Dry, it stops resisting the taper and the can walks loose under vibration and heat cycling.",
+   "caution": "KeyMo configuration only. Replacement detent rings are stocked.",
+   "quote": "MAINTENANCE:  NOTE THAT THE DETENT RING IS A CLUTCH PLATE, AND AS SUCH, IS A WEAR ITEM.  AFTER EACH SHOOTING SESSION PULL BACK THE DETENT RING AWAY FROM THE SPRING AND APPLY A DROP OF LUBE OR HIGH TEMP GREASE ON AT LEAST 2-4 POINTS TO ITS FACE TO ENSURE COVERAGE AND THEN ACTIVATE THE SUPPRESSOR A FEW TIMES TO EVENLY DISTRIBUTE IT.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Installation and Removal, Step Two — KeyMo, p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean every 4,000 rounds",
+   "action": "Dead Air's published interval for the LAZARUS 6 is a clean every 4,000 rounds using one of the commercial products made to strip built-up material out of a suppressor. Letting it run past that costs acoustic performance and raises back pressure into the host — which on a gas gun means more gas in your face and a faster-cycling action.",
+   "prose": "The interval is round count, not time. Log it.",
+   "quote": "In order to maintain optimum performance from your suppressor, it is recommended that users clean their LAZARUS 6 after every 4,000 rounds.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Cleaning, p.12"
+  },
+  {
+   "phase": "Clean",
+   "title": "Threads and tapers, then check for gaps",
+   "action": "Clean the rear threads, the taper the adapter seats on, the muzzle device taper and the front cap interface, then re-grease. Everything must come back snug with no gaps and no rattle; a joint that will not close means damage or debris, not more torque.",
+   "prose": "On a thread-to-taper mount, debris on the taper is exactly what allows a projectile strike on a baffle or the front cap.",
+   "quote": "NOTE: DEBRIS ON THE THREADS AND TAPER SURFACES MAY CAUSE MISALIGNMENT OF SUPPRESSOR PARTS AND ALLOW FOR PROJECTILE STRIKES ON BAFFLES OR THE FRONT CAP.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Inspection Upon Assembly, p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The can is off the muzzle device with its adapter and front cap accounted for, and the detent ring has been lubed if yours is a KM. That is the whole strip Dead Air publishes for this model. Deep Clean covers the adapter swap and the front cap removal — the three Triskelion baffles inside do not come out.",
+   "prose": "The habit that keeps it right is checking tightness often; barrel thread quality decides how fast a mount loosens.",
+   "quote": "We recommend checking tightness often. All direct thread suppressors will loosen with use and are very dependent on the quality of the barrel threading.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Installation and Removal, Step One, p.9",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Adapter out of the back",
+   "action": "Hook one spanner on the adapter and one on the suppressor so the adapter turns counter-clockwise and the suppressor clockwise, with an inch or two between the handles, and squeeze them together. Keep loosening and draw the adapter out of the rear, then clean the threads before the replacement goes in.",
+   "prose": "The handles rush together when the joint breaks. Fingers out of the gap.",
+   "quote": "STEP TWO: Continue loosening adapter and remove from back of suppressor. Clean threads and follow instructions for Adapter Installation for the new mount.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Adapter Removal, Step Two, p.7",
+   "warn": "WHEN THE TORQUE BREAKS BETWEEN THE TWO PARTS, THE WRENCHES MAY SWING ENOUGH TO CREATE A PINCH POINT."
+  },
+  {
+   "phase": "Strip",
+   "title": "A seized adapter may need warming",
+   "action": "If two spanners will not free it, Dead Air's published remedy is to heat the suppressor to loosen the threads. That makes it a hot-part job — gloves on before the wrenches go back, and expect surface heat long after the joint has broken.",
+   "prose": "The better long-term answer is degreased threads and a medium strength, high temperature thread locker, so heat cycling stops locking the mount in.",
+   "quote": "YOU MAY NEED TO HEAT THE SUPPRESSOR UP TO LOOSEN THE THREADS. PAY SPECIAL ATTENTION TO THE HEATED SURFACES TO AVOID BURNS!",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Adapter Removal, p.7",
+   "warn": "Heated surfaces burn."
+  },
+  {
+   "phase": "Strip",
+   "title": "Front cap off with the DA208 tool",
+   "action": "Set the pins of the Sandman Front Cap Tool into the holes in the front cap with the tool flat and every pin fully engaged, then apply counter-clockwise torque. A rocking tool loads one pin and rounds its hole out, and a rounded hole is a cap that never comes off again.",
+   "prose": "The tool is a separate purchase. Nothing improvised belongs in those holes.",
+   "quote": "Ensure tool is flat against the front cap with the pins evenly and fully engaged and apply torque Counter-Clockwise to loosen and remove.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Front Cap Installation, Step One, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Adapter back in, bottomed on the rear face",
+   "action": "Grease the chosen adapter's threads and thread it in until it bottoms on the rear suppressor face, then torque to 25-30 ft-lbs. If it keeps turning past where it should have stopped, back it out and look for a cross-thread rather than pressing on.",
+   "prose": "Then set the spanners so the adapter turns clockwise and the suppressor counter-clockwise to snug it.",
+   "quote": "Thread the adapter into the suppressor until it bottoms out on the rear suppressor face.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Adapter Installation, Step Two, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Front cap back on — grease, hand tight",
+   "action": "Clean the threads and the taper, apply high quality grease to both surfaces, and install the cap hand tight. The taper does the locating and the sealing; extra torque adds nothing and costs you the pin holes on the next removal.",
+   "prose": "Then check the whole assembly for gaps and rattle before it goes near a muzzle.",
+   "quote": "Clean threads and taper. Apply high quality grease to the surfaces and install new cap and hand tighten.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Front Cap Installation, Step Two, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Interior cleaning at the 4,000 round mark",
+   "action": "At the published interval, clean the inside with one of the commercially available products designed for suppressors. There is no baffle stack to withdraw on a LAZARUS 6 — the cleaning is done through the can, and the product does the work the dowel would do on a modular design.",
+   "prose": "Confirm any product you use is compatible with a Haynes 282 printed body before it goes in.",
+   "quote": "There are a number of commercially available products designed specifically to remove built-up material from the inside of a suppressor.",
+   "cite": "LAZARUS 6  OWNERS MANUAL — Rev081924 — Cleaning, p.12"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "ADAPTER & REAR THREADS",
+   "tasks": [
+    "Clean carbon from the rear threads and the internal taper",
+    "Grease the adapter threads and torque the adapter to 25-30 ft-lbs",
+    "Where heat cycling loosens the mount, degrease and use a medium strength, high temperature thread locker instead"
+   ]
+  },
+  {
+   "name": "KEYMO DETENT RING — KM ONLY",
+   "tasks": [
+    "After every shooting session, pull the detent ring back off its spring",
+    "Apply lube or high temperature grease at 2-4 points on its face",
+    "Mount and dismount the can a few times to distribute it",
+    "Treat the ring as a consumable — it is a declared wear item"
+   ]
+  },
+  {
+   "name": "MUZZLE DEVICE & FRONT CAP",
+   "tasks": [
+    "Clean the 1/2-28 muzzle device taper and threads; torque the device to 25-35 ft-lbs",
+    "Never reuse a crush washer or shims under it",
+    "Clean and grease the front cap threads and taper, then hand tighten"
+   ]
+  },
+  {
+   "name": "INTERIOR",
+   "tasks": [
+    "Clean the inside every 4,000 rounds with a product made for suppressors",
+    "The Triskelion baffles are not user-removable — do not attempt to withdraw them"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Grease the adapter threads and thread the adapter in until it bottoms on the rear suppressor face, then torque to 25-30 ft-lbs.",
+  "Grease the front cap threads and taper and install the cap hand tight with the DA208 tool.",
+  "Fit the 1/2-28 muzzle device to a clean barrel thread at 25-35 ft-lbs with fresh hardware, never a reused crush washer.",
+  "XM: mount left-handed — anticlockwise looking down from above — until the tapers meet, then torque two-handed.",
+  "KM: check the compression nut and detent ring start/stop tabs are touching before mounting, and turn the suppressor body only."
+ ],
+ "fncheck": "Before firing, confirm the suppressor is concentric to the bullet path — an alignment rod is the recommended check — and that after mounting it is solid on the end of the barrel with no free movement. Ensure the muzzle device is clean and lubed and that nothing rattles. Any alignment doubt, and it does not get fired."
+}

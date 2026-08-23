@@ -1,0 +1,196 @@
+{
+ "row": "sigsauerp238",
+ "make": "SIG Sauer",
+ "model": "P238",
+ "sourcedFrom": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 (2024)",
+ "sourceSha256": "1ddabd00fd98d6d9f300cbaf476fb350fa07d6e6ab330510d34cbd58700d0697",
+ "cleanIntro": "The P238 comes apart on its slide stop, not on a takedown lever — you line a notch in the slide up with the stop's tab and pull the stop out. It is a locked-breech single action with a frame-mounted thumb safety, and there is one thing you must not do while the slide is off. It is in the steps below where it happens.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "This book covers two pistols — know which parts of it are yours",
+   "action": "This is the shared P238/P938 manual. The disassembly, cleaning and assembly procedures are written for both pistols and apply to your P238. What does not apply is the Bullseye sight section: SIG scopes that to the 938 SAS, so if your P238 has conventional drift-adjustable sights, ignore it.",
+   "prose": "SIG describes the P238 and P938 together as mechanically locked, short-recoil pistols with semi-automatic reloading, and the field strip below is common to both. The book prints no specification tables at all in this revision — it sends you online for those — so do not expect to confirm your barrel length or capacity from it.",
+   "aside": "SIG's sight-scope statement is at 8.2 Bullseye Sight (SAS only), p.75, and it names the 938 SAS specifically. Specification tables are online only in this revision (12.0 Technical Specifications, p.89).",
+   "quote": "The SIG SAUER P238/P938 pistol is a modern handgun incorporating the latest technical advances in firearm design for military, law enforcement, and sporting use.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 2.1.1 Description of Firearm, General, p.24"
+  },
+  {
+   "phase": "Clear",
+   "title": "What this manual does not cover — it routes you to another manual for optics",
+   "action": "Know where this book stops. This manual covers the pistol itself; it does not cover the adjustment of any electro-optic mounted on it, and SIG routes that to a separate manual — the operator's manual for your specific sight. It also carries no specification tables in this revision: all specification tables for each 238/938 model are online only, so you cannot confirm barrel length, capacity or weight from these pages.",
+   "prose": "Two consequences for a P238 owner. If you have a red dot on the slide, nothing in the procedures below tells you how to zero or adjust it, and guessing at a sight's adjustment from a pistol manual is how zeroes get lost. And SIG's own caution here is that fixed-sight corrections should be performed only by a certified SIG SAUER armorer — so drifting the iron sights is not an owner job either.",
+   "quote": "For SIG SAUER ELECTRO-OPTICS adjustments, please see the operators manual for your specific sight.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 8.1 Sights, General Information, note, p.74",
+   "warn": "Do not substitute another sight's instructions. The routing is to the manual for YOUR specific sight, not to a generic optics procedure."
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety on, magazine out",
+   "action": "Muzzle in a safe direction, finger outside the trigger guard. Engage the manual safety, then press the magazine catch and remove the magazine from the frame.",
+   "prose": "SIG puts the safety on before the magazine comes out. On a single-action pistol carried cocked and locked, that thumb safety is the only thing standing between a cocked hammer and the sear while you work the slide.",
+   "quote": "Press the magazine catch and remove the magazine.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 5.1 Unloading the Pistol (Magazine Not Empty), step 3, p.45",
+   "warn": "The P238 will fire a chambered cartridge with the magazine removed. Magazine out is not unloaded."
+  },
+  {
+   "phase": "Clear",
+   "title": "Eject the chambered round and lock the slide open",
+   "action": "Pull the slide completely to the rear, watching for a live cartridge to eject, and push up on the slide stop to lock the slide open.",
+   "prose": "Watch the round leave and find it. On a pistol this small the ejection is brisk and a .380 case can end up somewhere you will not look again, which is exactly the round that turns up later chambered by accident.",
+   "quote": "Pull the slide completely to the rear while watching for the ejection of a live cartridge. Push up on slide stop, locking the slide open.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 5.1 Unloading the Pistol (Magazine Not Empty), step 4, p.45"
+  },
+  {
+   "phase": "Clear",
+   "title": "Check chamber, magazine well and breech face",
+   "action": "With the slide locked open, check all three — the chamber, the magazine well and the breech face — by eye and with a finger.",
+   "prose": "SIG names the breech face as well as the chamber here, and on a P238 that is deliberate: the extractor can hold a case against the breech face after the slide has been racked, so a round can be present without being in the chamber at all.",
+   "quote": "Visually and physically check the chamber, magazine well, and breech face to ensure that the pistol is completely free of ammunition.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 5.1 Unloading the Pistol (Magazine Not Empty), step 5, p.45"
+  },
+  {
+   "phase": "Strip",
+   "title": "Line the disassembly notch up with the slide stop tab",
+   "action": "Manually retract the slide until the slide disassembly notch on its lower edge sits over the tab of the slide stop. Hold it there — the alignment is a specific position, not a range.",
+   "prose": "This is not the slide-lock notch; it is a second, shallower cut further forward. Feel for the point where the stop suddenly becomes free to move rather than looking for it, and hold the slide still while you work the stop out.",
+   "caution": "Eye protection on. The slide is under spring tension throughout this and the recoil spring is not captive.",
+   "quote": "Manually retract the slide until the slide disassembly notch is aligned with the slide stop tab.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 7.1 Pistol Disassembly, step 2, p.53"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide stop out of the frame",
+   "action": "With the notch aligned, push the slide stop through from the right side and draw it out of the frame on the left.",
+   "prose": "It should come out with light pressure. If it fights you, the notch is not aligned — move the slide a fraction and try again rather than levering the stop, which bends its shaft.",
+   "quote": "Remove the slide stop from the frame.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 7.1 Pistol Disassembly, step 3, p.54"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide assembly forward off the frame — and leave the safety alone",
+   "action": "Run the slide assembly forward until it comes off the frame. From this moment until the slide is back on, do not rotate the manual safety levers upward.",
+   "prose": "This is the P238's one real trap. With the slide off, nothing limits the safety's travel, so rotating it up can carry it past the point where it engages the safety detent plunger — and that lets the spring-loaded plunger jump out of the frame. It is a small part under spring load in a frame you cannot easily reassemble, and it is entirely avoidable by not touching the levers.",
+   "quote": "Move the slide assembly forward until removed from the frame.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 7.1 Pistol Disassembly, step 4, p.54",
+   "warn": "Do not rotate the manual safety levers upward while the slide assembly is off the frame — SIG warns the safety detent plunger can be dislodged."
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and guide out",
+   "action": "Invert the slide, push the recoil spring guide forward slightly to unseat it, then lift it out from the rear.",
+   "prose": "Forward, then lift from the rear. The spring is short and stiff on a pistol this size and it is not captive — keep a hand over it as it releases rather than letting it decide where to go.",
+   "quote": "Push the recoil spring guide forward slightly and lift from rear to remove the recoil spring and guide from the slide.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 7.1 Pistol Disassembly, step 5, p.55"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out of the slide",
+   "action": "Lift the barrel slightly and draw it rearward out of the slide.",
+   "prose": "Up a fraction so the locking lug clears the slide's recess, then straight back. If it resists, the recoil spring guide is still in the slide — nothing here is a press fit.",
+   "quote": "Remove the barrel from the slide by pulling upward slightly and to the rear.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 7.1 Pistol Disassembly, step 6, p.55"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Slide, barrel, recoil spring and guide, slide stop, and the frame. That is the whole owner-level P238 strip.",
+   "prose": "The hammer, sear, safety detent plunger and extractor all stay in place — and the plunger in particular is the reason the safety levers stay where they are until the slide is back on. Keep the slide stop somewhere it cannot roll off the bench; without it the pistol will not go back together.",
+   "quote": "This level of disassembly is sufficient to allow a thorough cleaning after firing.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 7.1 Pistol Disassembly, note, p.55",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Capture the magazine spring through a witness hole",
+   "action": "Empty the magazine. Press the follower down, then push a small punch or pin through one of the cartridge witness holes in the tube so it traps the spring below the follower.",
+   "prose": "This is a different magazine teardown from SIG's larger pistols — there is no floorplate to slide off. The pin through the witness hole is what holds the spring compressed while your hands are busy with the follower, so it has to be in before you start rotating anything.",
+   "quote": "Capture the magazine spring by inserting a small punch or pin through one of the cartridge witness holes in the magazine tube.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 7.2 Magazine Disassembly, step 2, p.56",
+   "warn": "Eye protection. The magazine spring is compressed and an uncontrolled release can cause injury."
+  },
+  {
+   "phase": "Strip",
+   "title": "Follower out, then the spring",
+   "action": "Lift and rotate the follower until it is clear of the tube, then withdraw the pin under control and take the spring out.",
+   "prose": "The follower has to turn to clear the feed lips — it will not come straight up. Note its orientation as it goes, because it is handed and a reversed follower will not feed.",
+   "quote": "Lift and rotate the magazine follower until clear of the magazine tube.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 7.2 Magazine Disassembly, step 3, p.56"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrub the tube and follower",
+   "action": "Wipe the tube inside and out and the follower with a cloth, then clean both with a soft brush and CLP.",
+   "prose": "A six or seven-round .380 magazine has very little spring travel to spare, so residue drag on the follower rails shows up quickly as failures to feed. Soft brush only — nothing steel goes inside the tube.",
+   "quote": "Wipe the magazine tube and follower with a cloth. Clean the magazine tube and follower with a soft brush and CLP.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 7.3 Cleaning the Pistol, Magazine, step 1, p.60"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light oil on the spring and tube",
+   "action": "Put a light coat of CLP on the spring and the magazine tube, then wipe the inside so nothing is left where the cartridges sit.",
+   "prose": "Light means a film, not a coating. Oil inside the tube collects grit and transfers onto the ammunition, and a P238 magazine sits in a pocket where it picks up lint as it is.",
+   "quote": "Apply a light coat of CLP to the spring and magazine tube.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 7.3 Cleaning the Pistol, Magazine, step 3, p.60"
+  },
+  {
+   "phase": "Strip",
+   "title": "Back together — follower on the spring, in through the top",
+   "action": "Orient the follower on the magazine spring and insert them through the top of the magazine tube, rotating the follower as it passes the feed lips and letting the spring down under control.",
+   "prose": "It goes back in the way it came out — through the top, not the bottom. Check afterwards that the follower travels the full length of the tube freely and returns; a follower that binds is one that was put back rotated.",
+   "quote": "Orient the magazine follower on the magazine spring and insert through the top of the magazine tube.",
+   "cite": "SIG P238 ®/ P938 ® — P/N 1202508-01 REV 05 — 7.5 Magazine Assembly, step 1, p.65"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "SLIDE ASSEMBLY",
+   "tasks": [
+    "Strip all old lubricant off before applying new",
+    "Cloth first, then a soft brush with CLP on heavy carbon",
+    "Extractor, rail slots and breech face free of dirt and residue",
+    "Light coat of CLP in the frame rail slots of the slide",
+    "Lightly oil the external parts"
+   ]
+  },
+  {
+   "name": "BARREL",
+   "tasks": [
+    "CLP patch from the chamber end out past the muzzle — never from the muzzle back",
+    "Soak to loosen residue and soften carbon",
+    "Correct-caliber bronze brush on a rod, then dry patches until they come out clean",
+    "Never a steel wire brush",
+    "Oil bore and chamber only for storage, and take that oil back out before firing"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING AND GUIDE",
+   "tasks": [
+    "CLP and a soft brush on the guide assembly",
+    "Soft cloth lightly coated in CLP on the spring itself",
+    "Light coat back on afterwards",
+    "Look for kinked or set coils while it is out — this is a short, hard-worked spring"
+   ]
+  },
+  {
+   "name": "FRAME ASSEMBLY",
+   "tasks": [
+    "Soft cloth over the frame",
+    "Cotton swabs into the corners; the frame rails get the attention",
+    "Light coat of CLP on the frame rails and the accessible moving parts",
+    "Wipe the magazine well clear of dirt, dust and residue",
+    "Leave the manual safety levers alone while the slide is off"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Verify the pistol is clear of all foreign matter, then insert the barrel into the slide.",
+  "Insert the recoil spring guide assembly into the slide in the orientation shown in the manual's illustration.",
+  "Guide the slide assembly onto the frame rails from the front until the barrel lug lines up with the slide stop pin hole in the frame, then partially insert the slide stop pin.",
+  "⚠ Press the ejector only far enough to clear the slide during assembly. SIG warns that pressing it beyond that point can bind the ejector in the frame, that it will then not return to its normal position, and that this is not correctable at operator level — the pistol has to go back to SIG.",
+  "Retract the slide rearward until the slide disassembly notch is aligned with the slide stop tab, press the slide stop inward until it is fully seated, and release the slide."
+ ],
+ "fncheck": "Magazine out and the pistol confirmed unloaded and cleared, muzzle in a safe direction. Check the recoil spring and slide travel: retract the slide fully and release, verify it locks fully closed, and repeat. Check the trigger and safety: place the manual safety ON (safety up) and press the trigger — the hammer must not fall; switch the safety OFF (safety down) and the hammer must still not fall; then press the trigger and the hammer should fall. Check the slide stop: insert an empty magazine, retract the slide fully and release, verify the slide stop holds it open, press the slide stop and verify the slide releases and closes in the locked position, then remove the magazine."
+}

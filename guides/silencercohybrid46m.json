@@ -1,0 +1,86 @@
+{
+ "row": "silencercohybrid46m",
+ "make": "SilencerCo",
+ "model": "Hybrid 46M",
+ "sourcedFrom": "SilencerCo Omega 36M & Hybrid 46M Field Manual — ⛔ No form or revision code is printed in this book. (UNDATED)",
+ "sourceSha256": "7d6df1e17d49ceebe936f0c93ee5345671f64a8864840ccfe7ca9ec06a756dd2",
+ "cleanIntro": "⛔ The Hybrid 46M is a MODULAR sealed can — the tube configuration changes, the internals do not come apart. SilencerCo's own line is the clearest statement of that in the whole catalogue: \"Functionally similar to a car muffler, cleaning of the internal volume and baffles is not necessary.\" What you DO maintain is the mount, the threads, and the piston O-ring.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Firearm unloaded and the action OPEN before the can moves",
+   "action": "Open the action and see that the firearm is visibly clear of ammunition — before the silencer goes on and before it comes off. A suppressed gun is quieter, not safer.",
+   "quote": "Before installing the silencer on the host firearm, be sure the firearm is unloaded and the action is opened so the firearm is visibly clear of any ammunition.",
+   "cite": "SilencerCo Omega 36M & Hybrid 46M Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Re-check tightness every 30 rounds",
+   "action": "Silencers back off under recoil, and a partly-unthreaded can is how baffle strikes happen. SilencerCo names an interval rather than leaving it to feel.",
+   "quote": "To ensure your silencer remains secure while firing, it is of the utmost importance that you frequently verify the silencer is securely tightened onto the barrel. We recommend checking the security of the attachment after 30 discharges of the firearm.",
+   "cite": "SilencerCo Omega 36M & Hybrid 46M Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
+  },
+  {
+   "phase": "Clean",
+   "title": "Mounts get the solvent and the brush",
+   "action": "The mount is where carbon collects and where a loose fit turns into a baffle strike. Standard gun cleaning solvent and a brush, periodically — that is the maintenance this can actually needs.",
+   "quote": "Functionally similar to a car muffler, cleaning of the internal volume and baffles is not necessary.",
+   "cite": "SilencerCo Omega 36M & Hybrid 46M Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Bore: a brush if it needs one, NEVER a patch",
+   "action": "If the bore has light fouling, run a cleaning BRUSH through it. Do not run patches: a patch can come off inside the silencer, sit there invisibly, and cause damage the next time the gun is fired. This is the single most important don't in the whole book.",
+   "quote": "DO NOT run cleaning patches through the bore of the silencer as the patches may become lodged inside and can cause damage upon firing.",
+   "cite": "SilencerCo Omega 36M & Hybrid 46M Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ The O-ring is the one wear part you replace",
+   "action": "When a piston is used, the O-ring inside the spring retainer wears. Replace it when you see substantial wear or breakage: take the piston assembly apart and fit a new one into the groove on the inside of the spring retainer. ⛔ Keep it lubricated with white lithium grease — SilencerCo ties that directly to reliable operation AND accuracy.",
+   "aside": "The 36M and 46M use a Viton size-018 O-Ring available on our website (AC88).",
+   "quote": "Regulary lubricate the O-Ring with white lithium grease to ensure reliable operation and accuracy.",
+   "cite": "SilencerCo Omega 36M & Hybrid 46M Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
+  }
+ ],
+ "deepAbsentReason": "SilencerCo publishes NO disassembly for the Hybrid 46M. Its maintenance section is one paragraph — \"Functionally similar to a car muffler, cleaning of the internal volume and baffles is not necessary.\" — plus a bore brush and an explicit ban on patches. ⛔ AND THE SUBSTITUTION WAS AVAILABLE AND REFUSED: SilencerCo's rimfire and pistol cans DO publish full strips, and borrowing one would produce a confident, wrong, warranty-voiding procedure for a can that does not come apart. Sealed suppressors stay sealed (Darren guardrail 2026-08-21).",
+ "cleaning": [
+  {
+   "name": "MOUNT & THREADS",
+   "tasks": [
+    "Standard gun solvent and a brush on the mount, periodically",
+    "Carbon and fouling off the threads and shouldering surface",
+    "⛔ Check for a gap at the shoulder before every session"
+   ]
+  },
+  {
+   "name": "BORE",
+   "tasks": [
+    "A cleaning BRUSH only, and only for light fouling",
+    "⛔ NEVER a patch — it can lodge inside and cause damage on firing"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wiped down; carbon off the outside of the tube",
+    "⛔ Solvents used with ventilation, skin and eye protection"
+   ]
+  },
+  {
+   "name": "⛔ WHAT YOU DO NOT DO",
+   "tasks": [
+    "This can does not come apart — no disassembly is published for an owner",
+    "Anything wrong with it goes back to SilencerCo under the lifetime warranty"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Threads and shouldering surface clean and dry before it goes back on.",
+  "Silencer threaded on by hand, taking care not to cross-thread, until firmly secured.",
+  "⛔ No visible gap between the barrel shoulder and the face of the mount.",
+  "Bore checked clear of obstructions.",
+  "Tightness re-verified after about 30 discharges."
+ ],
+ "fncheck": "Back on the host: thread it on until firmly secured with no barrel thread still visible, then check the shoulder for a gap by eye and by fingernail. ⛔ If there is any gap, do not fire it. Re-check tightness after about 30 rounds, and look through the bore for obstructions before the first shot of any session."
+}

@@ -1,0 +1,222 @@
+{
+ "row": "browningbuckmark",
+ "make": "Browning",
+ "model": "Buck Mark",
+ "sourcedFrom": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "aa9866eb053767ce3ecfa7657d708c49daf7a46d2eabaef2f1d2bbe7764e96d6",
+ "cleanIntro": "The Buck Mark is a single-action, straight blow-back autoloading .22 pistol on a CNC-machined 7075-T6 aluminium frame, and the whole of its published maintenance happens with the pistol assembled and the slide locked open. Browning prints no field strip for it — no slide removal, no barrel removal, no bolt teardown — and states outright that taking the firearm further apart than the manual explains may permanently damage it. So this guide walks what the book actually publishes: unloading the pistol and the magazine, the ammunition limits that are specific to a rimfire Buck Mark, the dry-fire prohibition, and the cleaning routine done through the open action. It also covers the sight and optic work, because which rear sight and which base your Buck Mark carries changes what you may touch — the manual illustrates a Buck Mark Camper and handles model-specific procedures separately.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out — and on a Buck Mark that proves nothing about the chamber",
+   "action": "Press the magazine release with your thumb and draw the magazine fully out of the well. The Buck Mark carries a magazine \"safety\" that blocks the trigger whenever the magazine is out, and that is the trap in this pistol specifically: a trigger that will not move feels like a gun that cannot fire, while a live round can still be sitting in the chamber behind it. Browning puts the correction in the same sentence as the instruction — removing the magazine does not mean the chamber is unloaded. Set the magazine aside and keep treating the pistol as loaded until you have seen the chamber yourself.",
+   "prose": "Keep the muzzle pointed somewhere safe for the whole of this; the slide has not moved yet and nothing has been proved.",
+   "quote": "1. Press the magazine release and remove the magazine. Remember, merely removing the magazine does not mean the chamber is unloaded.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — UNLOADING > UNLOADING THE PISTOL, step 1",
+   "warn": "The magazine \"safety\" blocks the trigger. It does not empty the chamber."
+  },
+  {
+   "phase": "Clear",
+   "title": "Slide back, eject, lock it open, then look into the chamber",
+   "action": "Move the manual thumb \"safety\" down into the off safe position — the Buck Mark's safety is a sear block and the slide will not run with it up — then pull the slide fully back to eject whatever is in the chamber and push the slide release/stop latch upward to hold it there. With the slide locked rearward the ejection port and the chamber mouth are both open to view, so look into the chamber and confirm it is empty rather than assuming the ejected case was the only one. Keep your fingers clear of the chamber mouth while the slide is under spring pressure; released, it closes hard and fast.",
+   "prose": "This is the position the pistol stays in for the whole cleaning routine, so getting it locked open now saves doing it twice.",
+   "quote": "3. Pull back on the slide and eject the cartridge in the chamber. Lock the slide to the rear by sliding the slide release/stop latch up. 4. Inspect the chamber to ensure no cartridge is present.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — UNLOADING > UNLOADING THE PISTOL, steps 3-4",
+   "warn": "Look into the chamber with the slide locked back. Do not judge it by the case that came out."
+  },
+  {
+   "phase": "Clear",
+   "title": "Empty the magazine as well, and any spares",
+   "action": "The Buck Mark magazine is a ten-round single-column box and it does not dump its contents when you drop it — cartridges have to be stripped out one at a time. Push forward on the rim of the top cartridge and slide it out of the feed lips, then let the follower rise and repeat until the body is empty. Do the same to every spare you have out on the bench, because a loaded spare in the cleaning area is the one round that finds its way back into the pistol. Browning also has you unload the pistol first, in that order, so a stripped magazine is never the thing that reassures you about the chamber.",
+   "prose": "Rimfire rims are soft; pushing forward on the rim rather than prising up on the case is what keeps the bullet seated.",
+   "quote": "3. Strip the cartridges from the magazine by pushing forward on the rim of the top cartridge and sliding each cartridge out, one at a time, as each moves up in the magazine.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — UNLOADING > UNLOADING THE MAGAZINE, step 3"
+  },
+  {
+   "phase": "Clear",
+   "title": "Only what is inscribed on the right side of the Buck Mark's barrel",
+   "action": "Read the inscription on the right side of your Buck Mark's barrel before any ammunition goes near the bench, and treat it as the entire permitted list. Browning chambers Buck Mark pistols for 22 Long Rifle cartridges only, and the barrel marking is where that is recorded on your individual pistol. This matters more on a blow-back .22 than on a locked-breech centrefire, because the action is timed by the mass of the slide against a specific pressure curve and nothing about a wrong cartridge will announce itself before it is fired. Examine each cartridge as it goes in rather than trusting the box it came from.",
+   "prose": "Mixed rimfire on a bench is how the wrong round gets loaded; keep other calibres in separate marked containers.",
+   "caution": "22 Long Rifle only, and only what the barrel inscription names.",
+   "quote": "BUCK MARK PISTOLS ARE CHAMBERED FOR 22 LONG RIFLE CARTRIDGES ONLY. DO NOT USE AMMUNITION OTHER THAN WHAT IS INSCRIBED ON THE RIGHT SIDE OF THE BARREL.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — AMMUNITION"
+  },
+  {
+   "phase": "Clear",
+   "title": "22 Short, 22 Long and blanks are barred even though they chamber",
+   "action": "The three rimfire loads that will physically fit a Buck Mark chamber and must never be fired in it are 22 Short, 22 Long and blanks. All three share the .22 rimfire case head, so they load and the slide closes on them, which is precisely why Browning states the prohibition as a NOTICE rather than leaving it to the barrel marking. A Short or a Long does not develop enough impulse to work a slide sized for Long Rifle, and blanks put no projectile through a bore that then gets fired into. Buy Long Rifle and keep nothing else in the range bag.",
+   "prose": "This is the failure that gets blamed on the pistol — short-cycling, stovepipes, a slide that will not lock back — when the cause is in the ammunition box.",
+   "quote": "NOTICE: BUCK MARK PISTOLS MUST BE USED WITH ONLY 22 LONG RIFLE RIMFIRE AMMUNITION AS DESIGNATED ON THE BARREL. DO NOT SHOOT 22 SHORT OR 22 LONG AMMUNITION OR BLANKS.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — AMMUNITION",
+   "warn": "No 22 Short, no 22 Long, no blanks in a Buck Mark."
+  },
+  {
+   "phase": "Clear",
+   "title": "Do not dry fire the Buck Mark to prove the trigger",
+   "action": "Resist the reflex to snap the trigger at the end of the cleaning routine. Browning prohibits dry firing the Buck Mark outright, and the mechanism is why: a rimfire firing pin driven onto an empty chamber strikes the chamber mouth rather than a cartridge rim, and repeated hits peen the mouth and can damage the pin itself, possibly rendering the pistol inoperable. If you need to lower the hammer for storage, do it with the slide cycled rather than by pressing the trigger on nothing. There is no snap cap procedure published in this book, so the safe answer is simply not to.",
+   "prose": "The note appears twice in the manual — once in the general description and again under its own DRY FIRING heading — which is Browning saying it is not an incidental remark.",
+   "quote": "NOTICE: DO NOT DRY FIRE THE BUCK MARK PISTOL. DRY FIRING MAY DAMAGE THE FIREARM COMPONENTS, POSSIBLY RENDERING THE FIREARM INOPERABLE.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — GENERAL DESCRIPTION AND OPERATION (repeated under DRY FIRING)",
+   "warn": "Never dry fire a Buck Mark."
+  },
+  {
+   "phase": "Clear",
+   "title": "Which Buck Mark is in your hands — the book illustrates a Camper",
+   "action": "Check your pistol against the procedure before you follow it, because this one manual covers the whole Buck Mark line and its figures are drawn from a single variant. Browning states that the general functions and procedures are described and illustrated using a Buck Mark Camper, and that anything unique to an individual model is discussed separately. In practice that is what decides your rear sight procedure, whether you have an optics base, and whether there is an accessory rail under the barrel. Read the model-specific paragraph where one exists rather than working from the Camper figure alone.",
+   "prose": "Buck Mark variants differ in barrel, sight and grip fitment far more than they differ in mechanism, which is why the general sections can be shared.",
+   "caution": "The figures show a Buck Mark Camper. Your variant may have its own separate paragraph.",
+   "quote": "General functions and procedures are described and illustrated using a Buck Mark Camper pistol. Procedures unique to individual models are discussed separately.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — GENERAL DESCRIPTION AND OPERATION > NOMENCLATURE"
+  },
+  {
+   "phase": "Strip",
+   "title": "Browning publishes no Buck Mark field strip — the cleaning is done assembled",
+   "action": "Stop here and clean the pistol through the open action, because there is no further disassembly in this book to walk. Browning gives no slide removal, no barrel removal and no internal teardown for the Buck Mark, and states that attempting to disassemble the inner mechanism assemblies may permanently damage the firearm. Everything the manual asks for is reachable with the slide locked rearward: the breech face, the chamber, the bore from the muzzle, and the frame rails the slide runs on. If your pistol needs more than that — a soaking, a dropped-in-water recovery, a mechanical fault — Browning routes it to a qualified gunsmith rather than to you.",
+   "prose": "The same notice is printed twice, under INITIAL CLEANING and again after the magazine cleaning procedure. It is the boundary of the whole document.",
+   "quote": "NOTICE: NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL. YOUR FIREARM IS A SPECIALIZED, FINELY FITTED MECHANISM. YOU MAY PERMANENTLY DAMAGE IT BY ATTEMPTING TO DISASSEMBLE THE INNER MECHANISM ASSEMBLIES. IF FURTHER DISASSEMBLY FOR SERVICE OR CLEANING IS REQUIRED, TAKE YOUR FIREARM TO A QUALIFIED GUNSMITH",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — INITIAL CLEANING (repeated after CLEANING THE MAGAZINE)",
+   "warn": "No further disassembly is published. Further work goes to a gunsmith or to Browning."
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrub the breech and the face of the slide",
+   "action": "With the slide still locked open, wet a small stiff nylon brush with a quality gun solvent and scrub the breech and the face of the slide. On a straight blow-back .22 this is where the work is: the case head is unsupported by any locking system and the breech face collects a hard ring of lead, wax lubricant and unburnt powder that eventually holds the slide off battery. Work the brush across the face rather than along it and get into the extractor cut at the edge. Nylon is specified for a reason — a steel brush on the breech face burnishes it and does not lift baked-on wax any faster.",
+   "prose": "Wear eye protection here. You are flicking solvent off a brush at close range with a spring-loaded slide open in front of you.",
+   "quote": "2. Dip or spray a small, stiff bristled nylon brush with a quality gun cleaning solvent and scrub the breech and face of the slide to remove build up (Figure 11).",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — CLEANING AND MAINTENANCE SUGGESTIONS > CLEANING PROCEDURES, step 2",
+   "warn": "Solvents are flammable and eye protection is required for this step."
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the muzzle, and never let the rod touch the crown",
+   "action": "The Buck Mark's barrel does not come off, so the bore is cleaned from the muzzle with a pistol rod carrying a 22-calibre slotted tip or jag and patch. Insert the rod carefully and run it through several times, keeping the rod off the crown throughout — the crown is the last surface the bullet touches and a rod that rides on it will cost you accuracy that no amount of later cleaning brings back. Expect a normal amount of powder residue and do not chase it; where fouling is genuinely heavy, use a brass bore brush wet with nitro solvent and push it fully out of the muzzle before drawing it back, so the bristles do not fold and shed inside the bore.",
+   "prose": "A muzzle-entry rod guide is worth having on any pistol whose barrel is fixed to the frame, and the Buck Mark's is.",
+   "caution": "Never let the rod strike the muzzle crown.",
+   "quote": "Carefully insert the rod and patch into the muzzle and run it back and forth several times. Do not allow the cleaning rod to strike the crown of the muzzle, as damage to this area can affect the accuracy of your pistol.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — CLEANING AND MAINTENANCE SUGGESTIONS > CLEANING PROCEDURES, step 3"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry the bore, then oil the rails and the spring guide sparingly",
+   "action": "Wipe the chamber and bore dry once the fouling is out, pass one lightly oiled patch through for preservation, then move to the action. Lubricate the moving parts, the frame where the slide contacts it, and the spring guide with a light film of quality gun oil — the Buck Mark runs on aluminium frame rails and a light film is genuinely sufficient. Too much oil is a real fault on this pistol rather than a tidiness point: excess runs back into wooden grips and softens them until the grips loosen, and a flooded action collects the lead and wax the blow-back throws back.",
+   "prose": "Use a small nylon brush to lift dirt out of the rest of the action before the oil goes on, or you are just making a paste.",
+   "caution": "Excess oil runs back into wooden grips and softens them.",
+   "quote": "6. Lightly lubricate all moving parts, the frame where the slide contacts it and the spring guide with a high-quality, lightweight gun oil. Use oil sparingly, a very light film is sufficient.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — CLEANING AND MAINTENANCE SUGGESTIONS > CLEANING PROCEDURES, step 6"
+  },
+  {
+   "phase": "Clean",
+   "title": "The magazine gets cleaned on its own schedule",
+   "action": "The Buck Mark magazine is not disassembled — it is flushed. Spray it inside and out with an aerosol solvent that will not attack the polymer follower or corrode the steel body, cycle the follower up and down to break the dirt loose, then depress the follower and run a patch on a rod into the top of the magazine to lift the built-up deposit at the front. Spray it again, shake the excess out and dry it with a cloth or compressed air. Browning's interval is by round count rather than by day: normally after 500 to 1000 cartridges.",
+   "prose": "Rimfire wax lubricant plus grit is what makes a Buck Mark magazine feel gritty and hold the follower down; solvent alone fixes most of it.",
+   "quote": "Frequently inspect magazines to determine the need for cleaning as lubricant and dirt will gradually collect in the mechanism. Normally, the magazine should be cleaned after firing 500 to 1000 cartridges.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — CLEANING AND MAINTENANCE SUGGESTIONS > CLEANING THE MAGAZINE"
+  },
+  {
+   "phase": "Clean",
+   "title": "Pro-Target rear sight — screw adjusted, 16 clicks per revolution",
+   "action": "Check what is on the back of your slide before you touch a sight screw. Most Buck Mark pistols carry a Browning Pro-Target rear sight, which is screw adjustable for both windage and elevation at 16 clicks per revolution. Windage is the screw on the right side of the sight — clockwise moves the point of impact right — and elevation is the screw just forward of the rear sight notch, turned counterclockwise to raise impact. Count clicks rather than eyeballing the sight, because 16 to a revolution means a half turn is a real correction and the screws give no visual reference for where you started.",
+   "prose": "Do this with the pistol unloaded, the magazine out and the chamber checked, exactly as for cleaning.",
+   "quote": "Most Buck Mark pistols are equipped with a Browning Pro-Target™ rear sight.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — SIGHT ADJUSTMENT > PRO TARGET ™ REAR SIGHT ADJUSTMENT"
+  },
+  {
+   "phase": "Clean",
+   "title": "Drift-adjustable rear sight — a different procedure on the same slide",
+   "action": "Some Buck Mark models instead carry a rear sight that is drift adjustable for windage only, set at the factory and moved in the dovetail cut in the slide. That one is not adjusted by clicks: you loosen its set screw with a 1/16\" hex wrench turned counterclockwise, support the pistol on a padded bench or in a vise, and tap the sight base at the dovetail with a wood or fibre dowel — right to move impact right — then retighten the set screw. Applying the Pro-Target instructions to this sight is the mistake it invites, because there is no elevation screw to turn and the only thing forward of the notch is the slide.",
+   "prose": "Browning calls the drift adjustment a process of trial and error; move it in small taps and shoot between them.",
+   "caution": "A drift sight has no elevation screw. Do not hunt for one.",
+   "quote": "Some models are equipped with a rear sight that is drift adjustable for windage.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — SIGHT ADJUSTMENT > DRIFT - ADJUSTABLE REAR SIGHT"
+  },
+  {
+   "phase": "Clean",
+   "title": "Fiber-optic front sights take a damp cloth and nothing else",
+   "action": "If your Buck Mark has a fiber-optic front sight, keep every solvent and chemical you have just been using away from the light pipe. The pipe is a soft plastic rod that collects light along its length, and solvent crazes and clouds it — which kills the glow it exists for, permanently and invisibly at first. Clean it with a damp cloth only. This is easy to get wrong because the front sight sits right beside the muzzle you have just been running solvent through.",
+   "prose": "Wipe the pipe before you oil the slide, not after, so a solvent-wet rag never passes over it.",
+   "quote": "NOTICE: USE ONLY A DAMP CLOTH TO CLEAN FIBER-OPTIC LIGHT PIPES. SOLVENTS OR CHEMICALS COULD DAMAGE FIBER-OPTIC LIGHT PIPES.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — SIGHT ADJUSTMENT > FIBER-OPTIC FRONT SIGHTS",
+   "warn": "No solvent or chemicals on a fiber-optic light pipe. Damp cloth only."
+  },
+  {
+   "phase": "Clean",
+   "title": "Optic bases — check screw length from inside the receiver",
+   "action": "Some Buck Mark models include an integrated base, an RMSc pattern base or a Picatinny base for a scope or electronic sight, and the check that belongs in a cleaning routine is screw length. Use screws long enough for proper thread engagement, then look inside the receiver and confirm they do not protrude far enough to interfere with the slide's travel — on a pistol whose slide runs the full length of the frame, a screw a millimetre too long is a slide that binds or gouges. If you use a thread-locking compound to stop the screws walking loose, keep it out of the action; cured compound in the rails is worse than a loose screw.",
+   "prose": "Follow the sight manufacturer's own mounting instructions for torque; Browning does not publish a figure here.",
+   "caution": "Check inside the receiver that mounting screws do not interfere with the slide.",
+   "quote": "Some Buck Mark models include an integrated base, RMSc pattern (Reflex Mini Sight Compact) base, or Picatinny base that allows the installation of a scope or electronic sight.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — MOUNTING OPTICS"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "That is the whole of the published routine for a Buck Mark, and it ends with the pistol still assembled — slide locked open, bore clean and lightly oiled, breech face scrubbed, rails filmed with oil, magazine flushed and dry. There is no parts tray to lay out because Browning publishes no disassembly for this pistol at any level. Clean it after every day of shooting, and more often if it gets excessively dirty; a minimum session is wiping down the action and oiling the key parts. If a function problem survives a thorough clean, that is the point at which the pistol goes to a Browning service centre rather than deeper into your hands.",
+   "prose": "Close the slide with the slide release/stop latch, not by riding it, and put the safety up before the pistol goes away.",
+   "quote": "Clean your Buck Mark pistol after every day of shooting and more often if it becomes excessively dirty. A minimum cleaning includes wiping down the action and oiling key parts. Most regular maintenance will also include cleaning the barrel.",
+   "cite": "Buck Mark Owner's Manual — UNKNOWN — not printed in the document — CLEANING AND MAINTENANCE SUGGESTIONS > CLEANING PROCEDURES",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The Buck Mark Owner's Manual publishes NO disassembly of the pistol at any level — no slide removal, no barrel removal, no bolt or sear teardown, and no grip removal. Its entire maintenance content is performed with the pistol assembled and the slide locked open by the slide release/stop latch: scrubbing the breech and slide face, cleaning the bore from the muzzle with a 22-calibre rod and patch, brushing dirt from the exposed action parts, lightly oiling the moving parts and the frame where the slide contacts it, and flushing the magazine as an assembled unit. Browning states in two separate places — under INITIAL CLEANING and again after CLEANING THE MAGAZINE — that the owner should never take the firearm apart further than the manual explains, that attempting to disassemble the inner mechanism assemblies may permanently damage it, and that any further disassembly for service or cleaning goes to a qualified gunsmith or to the Browning service facility in Arnold, Missouri. There is therefore no deeper procedure to present, and none has been invented.",
+ "cleaning": [
+  {
+   "name": "BREECH, SLIDE FACE & EXPOSED ACTION",
+   "tasks": [
+    "Slide locked rearward on the slide release/stop latch for the whole routine",
+    "Small stiff nylon brush wet with gun solvent across the breech and the face of the slide",
+    "Work the extractor cut at the edge of the breech face",
+    "Small nylon brush to lift dirt and foreign matter out of the rest of the action",
+    "Eye protection on — solvent, springs and a spring-loaded slide are all in play"
+   ]
+  },
+  {
+   "name": "BORE & CHAMBER (barrel stays on the pistol)",
+   "tasks": [
+    "Pistol rod with a 22-calibre slotted tip or jag, entered at the muzzle",
+    "Never let the rod strike the crown — crown damage costs accuracy permanently",
+    "Nitro solvent on a patch for powder fouling; brass bore brush only if fouling is heavy",
+    "Push a bore brush fully through before withdrawing it so bristles do not break off",
+    "Wipe chamber and bore dry, then one lightly oiled patch for preservation"
+   ]
+  },
+  {
+   "name": "LUBRICATION",
+   "tasks": [
+    "Light film of quality lightweight gun oil on moving parts, the frame where the slide contacts it, and the spring guide",
+    "Use oil sparingly — excess interferes with function",
+    "Keep oil out of wooden grips; it soaks in, softens the wood and loosens the grips",
+    "Do not place large quantities of oil into the action"
+   ]
+  },
+  {
+   "name": "MAGAZINE (assembled — never taken apart)",
+   "tasks": [
+    "Clean normally after 500 to 1000 cartridges, or whenever inspection shows build-up",
+    "Aerosol solvent that will not attack the polymer follower or corrode the metal, inside and out",
+    "Cycle the follower to break dirt loose",
+    "Depress the follower and run a patch on a rod into the top to clear deposits at the front",
+    "Shake out excess solvent and dry with a cloth or compressed air"
+   ]
+  },
+  {
+   "name": "SIGHTS & OPTICS",
+   "tasks": [
+    "Fiber-optic light pipes: damp cloth ONLY, never solvent or chemicals",
+    "Pro-Target rear sight: screw adjustable, 16 clicks per revolution, windage right-side screw, elevation forward of the notch",
+    "Drift-adjustable rear sight: 1/16\" hex set screw loosened, tapped in the dovetail with a wood or fibre dowel",
+    "Optic base screws: correct length for thread engagement, checked from inside the receiver for slide interference",
+    "Keep thread-locking compound out of the action"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Nothing was removed — the Buck Mark is cleaned assembled, so this is a return-to-service check rather than a rebuild.",
+  "Confirm the bore is clear by looking through it, and that only a light film of oil remains anywhere in the action.",
+  "Wipe any oil off the fiber-optic front sight with a damp cloth if the pistol has one.",
+  "Close the slide by pressing down on the slide release/stop latch, keeping fingers away from the chamber as it runs forward.",
+  "Put the manual thumb \"safety\" up into the on safe position — the slide must be fully forward with the hammer cocked for it to engage.",
+  "Insert an EMPTY magazine if you need to disengage the magazine \"safety\"; do not use a loaded one.",
+  "Never test the mechanical function of the pistol with live ammunition, and never prove the trigger by dry firing it."
+ ],
+ "fncheck": "Look through the bore against a light and confirm it is clear of patch material and obstructions before the pistol goes away or gets fired. With the pistol unloaded and the magazine out, check that the slide runs its full travel and locks back on the slide release/stop latch, and that pressing the latch down releases it cleanly — a slide that hangs is usually breech-face build-up or too much oil in the rails. Confirm the thumb \"safety\" pushes fully up into its recess in the slide with firm pressure and is completely engaged, with the slide forward and the hammer cocked. Confirm optic base screws are tight and do not protrude inside the receiver into the slide's path. Do NOT dry fire the Buck Mark to check the trigger, and never test function with live ammunition."
+}

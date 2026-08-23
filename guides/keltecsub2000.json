@@ -1,0 +1,118 @@
+{
+ "row": "keltecsub2000",
+ "make": "Kel-Tec",
+ "model": "SUB-2000",
+ "sourcedFrom": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "54c17ed7e6192c6e24e67b29b7d69dc0e5582aa028b204c9268ee534c6b671eb",
+ "cleanIntro": "A 9mm folding pistol-calibre carbine that comes apart around one stock pin. Before anything else: this book is the SECOND generation book, and Kel-Tec says plainly it does not apply to first generation guns. The field strip ends with the bolt assembly out of the receiver tube, and the only further procedure in the manual belongs to the suppressed CQB, so there is no Deep Clean path for the standard SUB2000.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Find your serial number — it decides whether this procedure is yours at all",
+   "action": "Look for the serial number. If it is on the RECEIVER TUBE, this is a second generation SUB2000 and this procedure applies. If it is on the LEFT GRIP, you have a first generation rifle and this procedure does not apply to it.",
+   "prose": "This is the single most important check on this gun and it takes five seconds. Kel-Tec redesigned the SUB2000 substantially for the second generation — the stock, the buffer, the sights and the takedown all changed — and the manual states outright that it will not apply to a first generation weapon. The serial number location is the tell, and it is unambiguous: receiver tube for gen 2, left grip for gen 1. If yours is on the grip, stop here and get the first generation manual from Kel-Tec; nothing below is written for your rifle.",
+   "quote": "This manual is for the second generation SUB2000 weapon (serial number on receiver tube). If you have a first generation weapon (serial number on the left grip), this manual will not apply.",
+   "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — B. Overview — Description, p.5",
+   "warn": "First generation SUB2000 (serial number on the left grip): do not follow this procedure. Kel-Tec supplies the first generation manual free on request."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine catch in, magazine out, bolt back briskly",
+   "action": "Press in the magazine catch and remove the magazine. Pull the bolt briskly back by the operating handle to extract whatever is in the chamber. Keep clear of the ejection port and keep fingers away from the trigger and the muzzle.",
+   "prose": "The SUB2000 has no automatic bolt stop — it does not hold open on an empty magazine, so nothing about the rifle's appearance tells you it is empty. That makes the manual stroke and the look that follows the only evidence you have. Pull it briskly: a slow stroke on a heavy blowback bolt can lift a 9mm case partway and set it back down on the feed ramp. Do the magazine first so the stroke cannot chamber a fresh round.",
+   "quote": "To unload the SUB2000, press in the magazine catch, remove the magazine and briskly pull the bolt back to extract the round from the chamber.",
+   "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — C. Operation Instructions — Unloading, p.10"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the bolt back in its notch and look into the chamber",
+   "action": "Pull the operating handle back and rotate it into the machined slot in the receiver tube so the bolt is held open. Look into the chamber and confirm it is empty.",
+   "prose": "The bolt is held open by rotating the operating handle into a machined notch — it is a deliberate action, not a catch that engages by itself, and it is the only way to get a held-open action on this rifle. With the bolt back you can see straight through to the chamber. One rule goes with it: never release the bolt out of that notch while the barrel is folded into storage mode, because the bolt then runs against the receiver tube and can damage it.",
+   "caution": "Do not release the bolt assembly from the notched, or locked back, position in the receiver tube with the barrel assembly in the storage mode; doing so could damage the receiver tube.",
+   "quote": "Lock the bolt in the back position and visually inspect the chamber to make sure it is empty.",
+   "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — C. Operation Instructions — Unloading, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Unfold the rifle and set it to the state the strip starts from",
+   "action": "Rotate the barrel assembly forward into the firing position if it was folded. Confirm the rifle is unloaded, then close the bolt forward, leave the hammer cocked and engage the push-bolt safety.",
+   "prose": "Four conditions, and they are all load-bearing. Barrel forward, because the buffer cannot be pressed with the rifle folded. Bolt forward, because the strip works against a closed bolt. Hammer cocked, because a dropped hammer with the bolt out puts the rifle out of action. Safety engaged, and on this rifle that means pushed until the red o-ring is visible on the fire side is hidden — check it rather than assuming it. Wear eye protection from here: the buffer is on a compressed recoil spring.",
+   "quote": "Rotate the barrel assembly into the forward position (if the barrel assembly was folded) and make sure the SUB2000 rifle is unloaded. Make sure the bolt assembly is in the forward (closed) position, hammer is cocked and push-bolt safety is engaged.",
+   "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — D. Field Strip, p.15",
+   "warn": "Always wear safety glasses when disassembling the SUB2000 to protect your eyes from components that are under pressure, such as springs."
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the buffer assembly forward to free the stock pin",
+   "action": "Press the buffer assembly in towards the front of the rifle. It moves about 3/32 of an inch and bottoms out on the stock pin. Then let a small amount of tension back off so the pin can begin to move.",
+   "prose": "The stock pin is held captive by the buffer assembly, so it will not come out with the buffer at rest and it will not come out with the buffer pressed hard forward either — it comes out in the small window between. Press in until it stops on the pin, then ease back a fraction. That is the feel: pressure on, hard stop, tiny release. Keep a hand on the buffer throughout, because the recoil spring is behind it and the pin is the only thing containing it.",
+   "quote": "Press the buffer assembly in, towards the front of the weapon.",
+   "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — D. Field Strip, p.15",
+   "warn": "The stock pin is NOT held captive in the stock once it is removed. DO NOT LOSE THE STOCK PIN."
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the stock pin out and take the buffer assembly off under control",
+   "action": "With a cartridge tip or another pointed object, press the stock pin out from either side until it is free. Put it somewhere safe. Then let the buffer assembly out under control and set it aside.",
+   "prose": "The moment the pin clears, the recoil spring has nothing holding it but your hand — keep positive contact on the buffer and walk it out rather than letting it launch. The stock pin is the part this strip loses: it is not retained once it is out, it is small, and it is the part the rifle cannot be reassembled without. It also sets the stock position, so note which of the three alignment holes it came out of if you want the same length of pull back.",
+   "quote": "With a cartridge or other pointed object, press the stock pin from either side until the stock pin is removed.",
+   "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — D. Field Strip, p.15",
+   "warn": "The buffer assembly is under tension from the recoil spring. Keep positive contact with the buffer assembly while the stock pin is removed as parts may fly loose."
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring out, operating handle down and out, bolt out the back",
+   "action": "Pull the bolt assembly back by the operating handle and pull the recoil spring out. Then pull the operating handle out downwards, which frees the bolt assembly to slide out of the rear of the receiver tube. Lift the bolt head off the bolt to separate the two.",
+   "prose": "The operating handle is the key that holds the bolt in the tube — it comes out downward, not rearward, and only once the recoil spring is out of the way. The bolt itself is a heavy two-piece machined steel unit and it will slide out of the back of the tube under its own weight if you tip the rifle, so control it. Lifting the bolt head off the bolt is the last separation the book publishes; the firing pin and extractor stay in the bolt head.",
+   "quote": "Pull the bolt assembly back by the operating handle and pull out the recoil spring. The operating handle can now be pulled out downwards, allowing the bolt assembly to slide out of the rear of the receiver tube. The bolt assembly can be separated by lifting the bolt head off of the bolt.",
+   "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — D. Field Strip, p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Grip assembly with the barrel, receiver tube, bolt and bolt head, recoil spring, buffer assembly, operating handle, stock and stock pin. The collar and barrel stay together — that is Kel-Tec's stopping point.",
+   "prose": "The book says further field stripping is not required for normal operation, and that the barrel assembly can simply be rotated up for cleaning or inspection from here — that is your access to the chamber end of the bore. The collar and barrel are assembled with special tools and thread compounds, so unscrewing them is discouraged in the manual's own words and risks damage. The one procedure this book publishes past this point is headed Disassembly of Integrally Suppressed Barrel (CQB ONLY) and belongs to the suppressed CQB variant, not to a standard SUB2000 — if your rifle has no integrally suppressed barrel, there is nothing further for you to take apart.",
+   "quote": "We strongly discourage unscrewing the collar or barrel. These parts are assembled with special tools and compounds and may cause damage if removed improperly.",
+   "cite": "SUB2000™ SUB CQB™ SAFETY, INSTRUCTION & PARTS MANUAL — REV #013020 — D. Field Strip, closing notes, p.16",
+   "warn": "Do not release the hammer with the bolt assembly removed. This will make the SUB2000 rifle inoperable.",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "For a standard SUB2000 the manual publishes nothing past the field strip. It states in the same paragraph that further field stripping is not required for normal operation, that the barrel assembly can simply be rotated up for cleaning or inspection, and that unscrewing the collar or barrel is strongly discouraged because those parts are assembled with special tools and compounds. The only deeper procedure printed anywhere in the book is headed \"Disassembly of Integrally Suppressed Barrel (CQB ONLY)\" — the baffle stack of the integrally suppressed SUB2000 CQB — and it is scoped to that variant by its own heading, so it is not a SUB2000 procedure and is deliberately not offered here. A plain SUB2000 has no baffles to remove.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Rotate the barrel assembly up to open the breech end, then brush the bore and chamber with a good powder-removing solvent and bore brush",
+    "Run a clean patch through from the chamber end until it comes out with no oil or cleaner-lubricant-preservative on it — this is the manual's own pre-firing requirement, not just tidiness",
+    "Check the bore is free of obstruction before anything goes back together"
+   ]
+  },
+  {
+   "name": "BOLT, BOLT HEAD & RECEIVER TUBE",
+   "tasks": [
+    "Clean the bolt and bolt head with solvent and a brush — this is a blowback action, so the bolt face and extractor take the worst of the fouling",
+    "Wipe the inside of the receiver tube and the recoil spring; blowback carbon collects along the tube where the bolt rides",
+    "Clean around the ejector and the feed ramps in the grip assembly"
+   ]
+  },
+  {
+   "name": "OIL & FOLDING HARDWARE",
+   "tasks": [
+    "Use a cloth to apply a light coating of high quality gun oil to all internal and external metal surfaces and wipe clean",
+    "Wipe the latching tab and the trigger guard latch that holds the barrel down — it is the part that has to re-engage with an audible snap when the rifle is unfolded",
+    "Manually cycle the action back and forth to check the function of the firearm"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Rotate the barrel assembly forward if it is folded, then slide the bolt and bolt head together by aligning the machined slots in the two parts.",
+  "Insert the combined bolt and bolt head into the receiver, line up the operating handle hole with the operating handle slot below, and fully insert the operating handle.",
+  "Put the recoil spring into the bolt, then slide the bolt assembly forward.",
+  "Add the stock to the receiver and set the stock position — position 1 is shortest, position 2 adds 5/8 inch, position 3 adds 1.25 inches.",
+  "Add the buffer assembly, pressing the bolt assembly slightly rearward if needed so the recoil spring and buffer align.",
+  "Line up the slot in the buffer assembly with the desired stock position and the receiver, then push the stock pin completely in.",
+  "Release the tension on the buffer assembly and cycle the bolt a few times to check the action."
+ ],
+ "fncheck": "With the magazine out and the chamber checked empty: the operating handle should run the bolt its full stroke and return fully forward under spring pressure, and should rotate into the machined slot to hold the bolt open. The stock pin should be fully home and flush with no protrusion, and the buffer assembly should be under spring tension with no free play. Fold and unfold the rifle once: the barrel assembly should latch into the latching tab when folded, and on unfolding it should positively re-engage the trigger guard, usually with an audible snap. Remember the latching tab is a storage detent, not a lock or a safety."
+}

@@ -1,0 +1,140 @@
+{
+ "row": "springfieldarmoryxde",
+ "make": "Springfield Armory",
+ "model": "XD-E",
+ "sourcedFrom": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) (undated on cover)",
+ "sourceSha256": "2186502e4e36948a59e54309f20c9ab4e378173e0b4f8528f8dfa395010f7a24",
+ "cleanIntro": "Springfield's own field strip for the XD-E — the hammer-fired, decocking member of the XD family, and the only one whose first step is a lever the striker guns do not have. It strips on a rotating disassembly lever, and its recoil system is CAPTIVE, so the spring stays under tension in your hand after it leaves the slide. Springfield also publishes a magazine strip for this pistol.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Thumb safety / decock lever to SAFE first",
+   "action": "Before anything else, move the thumb safety / decock lever to the safe position. On an XD-E that lever also decocks the hammer, so this one movement does two jobs the striker XDs never ask for.",
+   "prose": "It is step 1 in the book and it comes BEFORE the muzzle-direction line — Springfield puts the mechanical safety ahead of everything.",
+   "quote": "Move thumb safety / decock lever to safe position",
+   "cite": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP, printed p.30, step 1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, finger off",
+   "action": "Point the pistol in a safe direction with your finger off the trigger, and keep it that way through the whole strip.",
+   "prose": "The XD-E fires with or without a magazine in it — dropping the mag changes nothing about the round in the chamber.",
+   "quote": "POINT FIREARM IN SAFE DIRECTION WHILE KEEPING FINGER OFF THE TRIGGER.",
+   "cite": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP, printed p.30, step 2",
+   "warn": "ALWAYS REMEMBER THE FIREARM IS ABLE TO FIRE WITH OR WITHOUT THE MAGAZINE IN PLACE."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, pistol unloaded, slide locked back",
+   "action": "Remove the magazine and unload the pistol, then draw the slide back to its rear stop and push the slide stop lever up to lock it open. If it will not catch, use an EMPTY magazine to hold the slide back, then remove the magazine again.",
+   "prose": "Confirm the magazine is genuinely empty before using it as a tool, or the trick loads the pistol.",
+   "aside": "Visually inspect the chamber to confirm the firearm is unloaded.",
+   "quote": "Draw back the slide to the rear stop position and lock it open, pushing up the slide stop lever",
+   "cite": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP, printed p.30, steps 3-4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Disassembly lever clockwise to 12 o'clock",
+   "action": "With the slide locked open, rotate the disassembly lever clockwise until it stands vertical at 12 o'clock.",
+   "prose": "It is a definite position, not a range — the lever stops when it is there. If the slide is not locked fully back the lever will not reach vertical, and that is the gun telling you the previous step is incomplete.",
+   "quote": "Rotate the disassembly lever clockwise to a vertical 12 o'clock position",
+   "cite": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP, printed p.30, step 6"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Release the slide stop and ride the slide forward",
+   "action": "Pull the slide slightly rearward to release the slide stop lever, then grip the slide firmly and let it move forward SLOWLY until the spring tension is gone.",
+   "prose": "⛔ This is the step that hurts people. The slide is under recoil spring tension the entire way; letting go halfway sends it forward hard with your fingers in the wrong place.",
+   "quote": "Pull the slide slightly to the rear to release the slide stop lever. Then, firmly gripping the slide, allow the slide to slowly move forward until the spring tension is released",
+   "cite": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP, printed p.30, step 7",
+   "warn": "CAUTION: Slide is under spring tension. Maintain control. Do not grip the slide in the area of the muzzle or ejection port."
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide off the frame, then recoil system and barrel out",
+   "action": "Run the complete slide assembly forward off the frame, then lift the recoil system out of the slide and take the barrel out.",
+   "prose": "⛔ The recoil spring assembly is CAPTIVE, which means it stays under tension in your hand rather than relaxing once it is out. Do not try to separate it.",
+   "quote": "Move the complete slide assembly forward and off the frame",
+   "cite": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP, printed p.30, steps 8-10",
+   "warn": "CAUTION: Captive Recoil Spring System. Spring is under tension. Maintain control."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel, recoil system and magazine. That is the whole published field strip.",
+   "prose": "Springfield's blanket warning applies past this point — no further disassembly without training from a competent gunsmith.",
+   "quote": "Remove the barrel from the slide",
+   "cite": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP, printed p.30, step 10",
+   "warn": "Do not attempt to disassemble this or any other firearm until you have received training and instructions from a competent gunsmith."
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "When the magazines are actually due",
+   "action": "Springfield's interval for magazine cleaning is every three to four months, and sooner if they have been in dirt or if inspection says so. It is not a per-range-trip job.",
+   "prose": "Magazines are the commonest cause of feeding failures on this pistol, and the manual sends you to them first when it lists malfunction cures.",
+   "quote": "Disassembling and cleaning magazines every 3-4 months is normally sufficient, unless the magazines have been exposed to dirt or other adverse conditions or inspection indicates a need for cleaning.",
+   "cite": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — MAGAZINE DISASSEMBLY, printed p.35-36"
+  },
+  {
+   "phase": "Deep",
+   "title": "⛔ Eye protection, and a thumb on the spring",
+   "action": "Put safety glasses on before touching a magazine floor plate, and keep downward pressure on the spring with your thumb the whole time the base plate is moving.",
+   "prose": "⛔ The spring, follower and inner floor plate are all under tension behind that plate. Released uncontrolled they leave at speed, and the manual names eye injury specifically.",
+   "quote": "The magazine spring, follower, and inner floor plate are under spring tension, and can cause eye injury if not controlled during removal.",
+   "cite": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — MAGAZINE DISASSEMBLY, printed p.35-36",
+   "warn": "ALWAYS WEAR PROTECTIVE SAFETY GLASSES WHEN DISASSEMBLING OR REASSEMBLING ANY MAGAZINE."
+  },
+  {
+   "phase": "Deep",
+   "title": "Depress the floor plate, slide the base forward",
+   "action": "Press the magazine floor plate in and slide the base plate forward off the body, then ease the inner floor plate, spring and follower out under control.",
+   "prose": "Note which way round the spring sits before it comes out — it is not symmetrical and it will go back in backwards without complaint.",
+   "aside": "Make note of magazine spring orientation.",
+   "quote": "Disassembly of the XD-E™ magazine is accomplished by depressing the magazine floor plate and sliding the base plate forward.",
+   "cite": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — MAGAZINE DISASSEMBLY, printed p.35-36"
+  },
+  {
+   "phase": "Deep",
+   "title": "Clean dry, reassemble dry",
+   "action": "Clean the body inside and out and wipe the follower and spring. Magazines go back together DRY — oil inside a magazine collects grit and sits against ammunition.",
+   "prose": "Check the feed lips for nicks, burrs and deformation while it is apart; that is the inspection the interval exists for.",
+   "quote": "Check that magazine lips are free of nicks and burrs and are not deformed.",
+   "cite": "Springfield Armory XD-E Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — TO ELIMINATE MALFUNCTIONS, printed p.28"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Solvent-wetted patch through the bore several times, then a correctly sized bristle brush full length",
+    "Dry patches until clean, then a lightly oiled patch",
+    "One drop of lubricant on the chamber area of the barrel"
+   ]
+  },
+  {
+   "name": "SLIDE & BREECH",
+   "tasks": [
+    "Solvent and bristle brush on the breech face, extractor and feed ramp",
+    "Wipe scrubbed areas with a solvent-wetted patch, then dry",
+    "⛔ No oil or grease on the firing pin"
+   ]
+  },
+  {
+   "name": "FRAME & HAMMER AREA",
+   "tasks": [
+    "Wipe powder residue out of the frame and around the hammer and sear area",
+    "One drop of lubricant each side of the rear slide railways, then work the slide five to ten times",
+    "Wipe magazines dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Install the barrel into the slide, chamber flush with the top of the slide.",
+  "Reinstall the recoil system, properly aligned. ⛔ NEVER FORCE THE SLIDE ONTO THE FRAME — if it interferes, reseat the barrel and check the trigger is fully rearward.",
+  "Run the slide onto the frame, move it to its most rearward position and push the slide stop up to lock it back.",
+  "Rotate the disassembly lever counter-clockwise to the normal locked position, then lower the slide."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty, work the decocker and check the hammer drops safely, then rack the slide and confirm it locks back on an empty magazine."
+}

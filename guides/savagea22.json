@@ -1,0 +1,426 @@
+{
+ "row": "savagea22",
+ "make": "Savage",
+ "model": "A22R",
+ "sourcedFrom": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" (UNKNOWN — no copyright line is printed anywhere in the document; the only dates are the 10/18 and 10/2018 codes in the part number lines)",
+ "sourceSha256": "4aa394a2172610e92c82e886a91441c2dbb5a802f372221b624bd13551e27893",
+ "cleanIntro": "This is a single-rifle book. Its cover reads MODEL A22R .22LR and every reference inside is to the A22R, so unlike most Savage manuals there is no second model sharing the pages and nothing here has to be sorted by family. That matters more than it sounds, because Savage publishes a SEPARATE book for the A17 and the A22 MAGNUM, and those are a different action. Nothing in this guide is taken from it. What this manual does publish, in SECTION 5, is a full owner disassembly: close the bolt, lift the dust cover off with a punch through its own opening, take out the recoil assembly, two action screws, the stock, the trigger housing retaining pin, the trigger housing, then the bolt handle and the bolt. That is further than most rimfire manuals go. It also draws a hard line at the end of it — the bolt assembly, the trigger assembly and the recoil assembly are all named as things you do not open. One gap is worth stating up front rather than filling: this book says bolt assemblies are specifically matched to your firearm, but it publishes NO way to verify the match. There is no serial-number check on the bolt anywhere in these twenty-five pages. The remedy Savage gives is procedural — strip one rifle at a time — and that is the remedy repeated below.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "This book is one rifle, and its name is A22R",
+   "action": "Check the designation on your receiver before you follow anything below. This manual covers the A22R and nothing else — Savage names it on the cover as MODEL A22R .22LR and calls it the A22R in every reference in the body. The reason to be careful is that Savage publishes a second, similar-looking rimfire book for the A17 and the A22 MAGNUM, and that one is a different action with different internals and a different bolt-verification requirement. If your rifle is a Magnum, close this and find that book.",
+   "prose": "The two are not revisions of each other. They are separate documents for separate rifles that happen to share three characters in their names.",
+   "caution": "A22R only. The A17 / A22 MAGNUM have their own manual and their own procedure.",
+   "quote": "The Savage A22R is a unique firearm and incorporates features that you may not be familiar with. Read and understand this manual completely before loading or using your new firearm. Failure to do so may result in serious injury or death.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Opening WARNING page, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": ".22 Long Rifle only — and nothing else in .22",
+   "action": "Before the rifle comes apart, know what is allowed to go in it, because the first thing you will do is look for a live round. Savage bounds this rifle to .22 Long Rifle and says plainly it is not compatible with any other .22 calibre ammunition — not Short, not Long, not WMR. Inspect each round for damage as you handle it. A .22 case that has been sitting loose in a range bag is exactly the round that will not extract cleanly when you cycle the bolt in a moment.",
+   "prose": "SECTION 3 repeats the bound in its own words: \"Use only ammunition specifically designated as '22 Long Rifle (22 L.R.)'. This firearm is not compatible with any other 22 caliber ammunition.\"",
+   "quote": "Use only .22 Long Rifle ammunition in good condition—inspect for damage before use.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Opening WARNING page, p.1",
+   "warn": ".22 Long Rifle only. No other .22 calibre ammunition is compatible."
+  },
+  {
+   "phase": "Clear",
+   "title": "The safety only goes fully on when the action is cocked",
+   "action": "Push the safety button fully to the right and look at the red band. On this rifle the safety is interlocked with the cocking state: if the action is uncocked the button will only travel half way, and it completes its own travel the moment the action is cocked. So a button that stops half way is not a broken safety — it is telling you the action is not cocked. Do not force it, and do not read a half-travelled button as FULL SAFE. Red band covered is safe; red band showing is ready to fire.",
+   "prose": "In the FULL SAFE position the trigger is blocked from releasing the hammer and striking the firing pin.",
+   "quote": "If the action has been cocked (BOLT HANDLE pulled fully rearward), the SAFETY BUTTON can be pushed fully to the right covering the red band. If the action is uncocked, the SAFETY BUTTON can only be pushed half way to the right.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 2, Two Position Safety, p.4",
+   "warn": "Red band covered = FULL SAFE. Red band exposed = ready to fire."
+  },
+  {
+   "phase": "Clear",
+   "title": "The magazine latch is at the FRONT of the box",
+   "action": "With the muzzle in a safe direction, your finger off the trigger and the safety on, put one hand under the magazine and depress the latch at the FRONT of the magazine, then take the box out of the rifle. Note the location — front, not rear. It is not where a Savage bolt-action rimfire puts it, so if you also own one of those, your hand will go to the wrong end of the box. The magazine comes out first, before the bolt is touched, so that nothing is left to feed the chamber while you work.",
+   "quote": "With the muzzle pointed in a safe direction, your finger off the TRIGGER and the SAFETY on, depress the latch at the front of the MAGAZINE and remove it from the firearm.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 4, Unloading, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the bolt fully rearward",
+   "action": "With the magazine out, pull back on the bolt handle until the bolt locks at the fully rearward position. You will hear it click into the lock. Keep your fingers clear of the action while you do it — the manual is explicit that the bolt moves forward forcefully when released, and this is a self-loading action with a live spring behind the bolt at all times. Once it is locked back, leave it there; the chamber checks below need it open.",
+   "caution": "The bolt moves forward forcefully when released. Keep fingers out of the action.",
+   "quote": "Pull back on the BOLT HANDLE to lock the BOLT fully rearward.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 4, Unloading, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look in the chamber, and do not assume",
+   "action": "With the bolt locked back, look into the chamber and confirm it is empty. Savage's own wording is an instruction not to assume, and on a rimfire the reason is physical: a .22 case is small, dull-coloured and sits low in a dark receiver, so a glance across the top of the action can pass right over one. Get light into the ejection port and look at the chamber mouth itself rather than at the general area.",
+   "quote": "Look in the chamber to ensure it is empty. Do not assume!",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 4, Unloading, p.8",
+   "warn": "Chamber empty, confirmed by eye. Do not assume."
+  },
+  {
+   "phase": "Clear",
+   "title": "Check the magazine too — the coloured stripe is the tell",
+   "action": "Now check the magazine you set aside. Look down into the cartridge opening: when it is empty, a coloured stripe becomes visible, and that stripe is the manual's own indicator that you are looking at cartridge slot number one with nothing above it. This is a check on the box, not on the rifle, and it is worth doing properly because the magazine is going back into the rifle at the end of the job.",
+   "quote": "Carefully look down into the cartridge opening of the MAGAZINE to be sure it is empty. A colored stripe will be visible indicating that it is cartridge slot #1.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 4, Unloading, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Unloaded and on safe before anything is opened",
+   "action": "Say it out loud if it helps: the rifle is unloaded and the safety is on. Savage attaches both conditions to the whole of disassembly and cleaning, not just to shooting, and asks you to look AND feel rather than to look only. Do that now — eyes into the chamber and the magazine well, then a finger. Everything from here on has both your hands occupied with tools, and there is no way to keep watch on a chamber while that is true.",
+   "quote": "Ensure the gun is unloaded and the safety is on before dissembling or cleaning in any way. Never attempt to disassemble, clean, or oil a loaded firearm. Look and feel! Be sure the chamber and magazine are completely empty – do not assume!",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Maintenance, p.8",
+   "warn": "Never disassemble, clean or oil a loaded firearm."
+  },
+  {
+   "phase": "Strip",
+   "title": "Three assemblies you do not open, named by the manufacturer",
+   "action": "Read this before you pick up a tool, because it defines where the job ends. Savage names three subassemblies specifically — the bolt assembly, the recoil assembly and the trigger group — and says opening them can disable critical safety features. All three come OUT of the rifle in the procedure below, and all three stay shut once they are out. The bound is on the parts, not on the strip: taking the recoil assembly out of the receiver is published; taking the recoil assembly apart is not.",
+   "prose": "The manual repeats the same bound again at the end of the disassembly sequence, in stronger language, once all three are in your hand.",
+   "quote": "Never dissemble your A22R beyond what’s recommended in this manual; particularly the bolt assembly, the recoil assembly and the trigger group. Doing so can disable critical safety features and result in injury.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Opening WARNING page, p.1",
+   "warn": "Bolt assembly, recoil assembly and trigger group: removed, never opened."
+  },
+  {
+   "phase": "Strip",
+   "title": "One rifle on the bench — the parts are matched and there is no way to check",
+   "action": "Clear the bench of every other firearm before you start. Savage says bolt assemblies and other parts are specifically matched to your firearm, and gives exactly one remedy for mixing them up: strip one rifle at a time. Take that literally on this model, because — unlike the companion A17 / A22 MAGNUM book, which prints a serial-number check on the bolt — this manual publishes NO way to verify that a bolt belongs to this receiver. There is no number to compare. That gap is stated here rather than filled in with a check from another book, so procedure is the only safeguard you have.",
+   "prose": "If a bolt has already been mixed up between two rifles, that is a gunsmith question, not a bench question.",
+   "quote": "Bolt assemblies and other parts are specifically matched to your firearm. Interchanging parts from other firearms can cause serious injury or gun damage. To avoid mixing components, disassemble only one firearm at a time.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Maintenance, p.8",
+   "warn": "No bolt-to-receiver verification is published for the A22R. One firearm at a time is the only safeguard."
+  },
+  {
+   "phase": "Strip",
+   "title": "The safety stays FULL SAFE for the whole teardown",
+   "action": "Leave the safety in FULL SAFE and keep it there. This is not a leftover from the clearing sequence — Savage gives it a mechanical purpose that lasts through the entire disassembly and reassembly: with the safety on, the hammer cannot snap forward while you are working. You will be closing the bolt on an empty chamber in a moment, which cocks the mechanism, and the safety is what holds it. There is one point in reassembly where the manual asks you to centre the safety so it clears the stock; put it straight back to FULL SAFE afterwards.",
+   "quote": "Be sure the SAFETY stays in the FULL SAFE position to prevent the hammer from snapping forward during the disassembly/assembly process.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.9",
+   "warn": "FULL SAFE for the whole job, disassembly and assembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Close the bolt — this rifle strips shut, not open",
+   "action": "With the rifle confirmed unloaded and the safety on, press the repeater handle to CLOSE the bolt. This is the opposite of what most semi-automatic strips ask for and it is easy to get wrong out of habit. The repeater handle is the separate charging device on this rifle: pressing it rearward releases the bolt from its rearward lock and lets it run forward. Do not skip it and do not leave the bolt locked back.",
+   "quote": "After confirming the firearm is unloaded (as detailed in SECTION 4) and the safety is on, CLOSE THE BOLT by pressing the REPEATER HANDLE.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Why the bolt has to be shut first",
+   "action": "If you are tempted to shortcut this, here is what the shortcut does. With the bolt held rearward the recoil assembly is compressed, and the first thing the procedure has you do is push that assembly forward and up with a punch. Doing that with the spring already loaded puts extreme pressure on it, and it is a captive spring in a small housing that will let go in one direction only. Check the bolt is fully forward before the punch goes anywhere near the dust cover.",
+   "quote": "Attempting to disassemble with the bolt open will put extreme pressure on the recoil assembly, which could cause injury.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.9",
+   "warn": "Never begin disassembly with the bolt open."
+  },
+  {
+   "phase": "Strip",
+   "title": "Eye protection on before the first spring moves",
+   "action": "Put safety glasses on now. Savage asks for eye protection during disassembly and cleaning specifically, not just during shooting, and this rifle earns it — the recoil assembly, the trigger housing and the bolt all come out under or near spring tension, and the extractor spring in the bolt is a part small enough to leave without being seen. Keep your fingers out of the path of anything that is compressed.",
+   "caution": "Eye protection for disassembly and cleaning, not just for shooting.",
+   "quote": "Parts are under tension. Keep your fingers and eyes away from springs and moving parts and always wear eye protection during disassembly and cleaning.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "A small punch through the dust cover's own opening",
+   "action": "Look at the dust cover and find the opening in it — the same one the grey dot of the recoil assembly shows through when the rifle is together. Insert a small punch through that opening and push the recoil assembly gently forward and upward. Gently is the word Savage uses: you are unseating a spring-loaded assembly from its retention, not driving a pin. If it does not move, check the bolt is fully closed before applying more force.",
+   "prose": "The opening in the dust cover is a disassembly feature. It is not one of the two holes discussed in the scope-mounting section.",
+   "quote": "Insert a small punch through the opening of the DUST COVER, gently pushing the RECOIL ASSEMBLY forward and upward (see FIGURE 7).",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lift the dust cover off the receiver",
+   "action": "With the recoil assembly unseated, lift the dust cover clear of the receiver. It straddles the receiver with a tab at the front inside it, so it comes up and back rather than straight off — take it carefully rather than levering it. The dust cover is a pressure-retaining part on this rifle, not a cosmetic shroud, so put it somewhere it will not get stood on or bent.",
+   "quote": "Carefully lift the DUST COVER from the receiver (see FIGURE 8).",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the recoil assembly out — the spring is still live",
+   "action": "Lift the recoil assembly out of the receiver, keeping it pointed away from your face and letting the spring extend under control rather than releasing it. Savage's warning here is unusually direct: parts will be under tension, release the spring slowly, keep it away from your eyes. Once it is out, look it over — if the recoil spring, retention clip or guide rod appear damaged, bent or unsecured, the rifle does not go back together until that is resolved.",
+   "prose": "Inspecting it is published. Opening it is not — see the prohibition step below.",
+   "quote": "Carefully remove the RECOIL ASSEMBLY (see FIGURE 9).",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.9",
+   "warn": "Parts will be under tension. Release the spring slowly and keep it away from your eyes."
+  },
+  {
+   "phase": "Strip",
+   "title": "From here the bolt can fall out of the rifle",
+   "action": "Stop and change how you are holding the rifle. With the recoil assembly gone, nothing retains the bolt handle any more, and the manual states that the handle and the bolt assembly will fall out if the action is tilted. Keep the receiver flat and level on the bench from this point on, and be aware that the trigger housing retaining pin will do the same thing a few steps later. This is the part of the procedure where parts end up on the floor.",
+   "caution": "Keep the action level. The bolt handle and bolt are now unretained.",
+   "quote": "With the RECOIL ASSEMBLY removed, the BOLT HANDLE is no longer retained, allowing it and the BOLT assembly to fall out if the action is tilted.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "The recoil assembly is inspected, never opened",
+   "action": "Look the recoil assembly over now, while it is in your hand and before it goes back in — but do not take it apart. Savage names it as one of the assemblies that stays shut and gives the specific inspection instead: recoil spring, retention clip, guide rod. Any of the three damaged, bent or unsecured and the assembly is out of service; the rifle goes to a gunsmith, your dealer or Savage rather than back together.",
+   "quote": "Do not attempt to disassemble the RECOIL ASSEMBLY. Inspect the RECOIL ASSEMBLY for damage. If the RECOIL SPRING, RETENTION CLIP or GUIDE ROD appear damaged, bent or unsecured, DO NOT USE.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.10",
+   "warn": "Inspect the recoil assembly. Never open it."
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear action screw, 5/32-inch Allen",
+   "action": "Turn the rifle over and back out the REAR stock assembly screw with a 5/32-inch Allen wrench. Savage calls these stock assembly screws and action screws interchangeably — they are the same two fasteners. Seat the key fully before applying any force; a 5/32 socket in a rimfire action screw is not deep, and a rounded head here means the stock cannot come off at all. Rear first, then front, in that order.",
+   "quote": "Remove the rear STOCK ASSEMBLY SCREW (also known as ACTION SCREW) using a 5/32 inch Allen wrench",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front action screw, same wrench",
+   "action": "Now the FRONT stock assembly screw, with the same 5/32-inch Allen wrench. Support the barrelled action with your free hand as this one comes clear — it is the screw at the recoil lug end, and once it is out the action is only sitting in the inletting. There is a washer listed in the parts diagram for the rear screw; keep the two screws and any washer together and know which is which, because reassembly torques the FRONT one first.",
+   "quote": "Remove the front STOCK ASSEMBLY SCREW (also known as ACTION SCREW) using a 5/32 inch Allen wrench (see FIGURE 11).",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Centre the safety so it clears the stock",
+   "action": "Before you lift the action out, move the safety button to a central position. The button protrudes through the stock on both sides, and with it pushed fully to either side it fouls the stock as the action comes up. This is the one moment in the whole job when the safety is not at FULL SAFE — do it deliberately, get the stock off, and be conscious that the hammer is no longer blocked while the button is centred. Keep hands and tools out of the trigger housing until it is back on safe.",
+   "caution": "Centring the safety un-blocks the hammer. Return it to FULL SAFE as soon as the stock is off.",
+   "quote": "Centrally position the SAFETY so that it does not interfere with removing the STOCK.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stock off — and the retaining pin is now loose",
+   "action": "Lift the stock away from the barrelled action, keeping the assembly level as you do it. Savage warns in the same breath that the trigger housing retaining pin will fall out if the action is tilted sideways, so the pin may already be halfway out before you have decided to remove it. Set the stock down, then look for the pin in the receiver before you look for it on the floor.",
+   "caution": "Keep the action level — the trigger housing retaining pin is unretained once the stock is off.",
+   "quote": "Remove the STOCK. The TRIGGER HOUSING RETAINING PIN will fall out if the action is tilted sideways.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide the trigger housing retaining pin out",
+   "action": "Slide the trigger housing retaining pin out of the receiver by hand. It is a slip-fit pin, not a drift pin, so it should not need driving — if it does, something is still under load and forcing it will gall the receiver hole. Put it somewhere it cannot roll; it is a small plain pin and it looks like nothing on a bench.",
+   "quote": "Slide the TRIGGER HOUSING RETAINING PIN from the receiver (see FIGURE 12).",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger housing: forward first, then tip the rear down",
+   "action": "The trigger housing does not drop straight out. Slide the whole assembly forward first to disengage the tabs on the receiver from the flats on the housing, then tip the rear of it downward and lift it away. Doing it in the other order jams the housing against the receiver tabs, and doing it by force bends the ejector, which is a slim part on the housing that sits in a slot in the bolt. Forward, then down.",
+   "prose": "Reassembly runs this exactly in reverse — in, then slide rearward until it rests against the rear of the receiver.",
+   "quote": "Remove the TRIGGER HOUSING ASSEMBLY by sliding it forward then tipping the rear downward (see FIGURE 13).",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt handle out first, then the bolt itself",
+   "action": "Take the bolt handle out before the bolt, then slide the bolt assembly back through the receiver and lift it upward and out. The order matters because the handle passes through a slot in the receiver and locates in the bolt — trying to draw the bolt out with the handle still fitted binds both. Once the bolt is out, that is the field strip complete: this is as far as Savage's published owner disassembly goes.",
+   "quote": "Remove the BOLT HANDLE and then BOLT ASSEMBLY by sliding it back through the receiver and upward (see FIGURE 14).",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "This is the end of the road, and Savage says so twice",
+   "action": "Do not go further. The bolt assembly, the trigger assembly and the recoil assembly are each named again at this point, with the instruction not to open them, and this is the second time the book has drawn the same line. On this rifle the bolt carries the firing pin and its spring plus the extractor under a retaining pin, and the trigger housing carries the hammer under tension — parts that leave under their own power and do not go back by inspection, because no reassembly order for either is published anywhere in these pages. Inspect all three for damage from the outside and leave them assembled.",
+   "quote": "Do not disassemble your A22R beyond this point. Disassembling anything (such as but not limited to: bolt assembly, trigger assembly, recoil assembly, etc.) other than what you have been instructed to do may cause damage to the firearm and/or injury to the shooter or bystander.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Disassembly, p.11",
+   "warn": "This is the published limit. Bolt, trigger and recoil assemblies stay closed."
+  },
+  {
+   "phase": "Clean",
+   "title": "Rifle horizontal, rod in at the chamber end",
+   "action": "Lay the barrelled action horizontally on the bench and put a small amount of powder solvent on a correct-calibre brush. Push the rod through from the CHAMBER end and out the muzzle, several times. With the bolt out there is no reason ever to rod this rifle from the muzzle — the crown is what sets the last thing the bullet touches, and a rod entering there is the standard way to ruin a .22's accuracy. Chamber to muzzle, every pass.",
+   "prose": "Set the area up first: suitable surface, adequate ventilation, correct calibre rod, brush, patches, powder solvent and lubricant.",
+   "caution": "Chamber end to muzzle. Never rod this barrel from the muzzle.",
+   "quote": "Using a small amount of powder solvent on the brush, push the cleaning rod through the barrel several times. Always start from the chamber end and push the cleaning rod from the bore out the muzzle end.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Cleaning, p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Patches from the chamber end until they come out clean",
+   "action": "Swap the brush for a patch tip and push new patches through, again from the chamber end and out the muzzle, repeating until a patch comes out clean. A .22 bore fouls with lead and bullet lube rather than copper, so it responds to repeated dry passes rather than to more solvent — soaking the bore just carries the residue back into the chamber and down into the action you have just opened up. Finish with one patch saturated with gun lubricant and one dry patch behind it to take the excess back off.",
+   "quote": "Push a new patch through the bore starting from the chamber end and out the muzzle.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Cleaning, p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe the bolt whole, and lubricate it very lightly",
+   "action": "Clean the bolt as one unit — wipe every component you can reach from the outside, get the unburnt powder and bullet lube off the bolt face and out from around the extractor, and go no further into it. Then a VERY LIGHT coat of gun lubricant. Savage's emphasis is on the word light: a thin film protects, and excess oil on a rimfire bolt collects the wax and soot that .22 ammunition sheds until the bolt drags. Wet is not clean.",
+   "prose": "The opening page adds the standing instruction for this rifle: keep the A22R bolt lightly lubricated at all times.",
+   "caution": "A very thin film is sufficient. Do not over lubricate.",
+   "quote": "Carefully wipe all BOLT components, removing any contaminants and apply a VERY LIGHT coat of gun lubricant. A very thin film is sufficient protection – do not over lubricate!!!",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Cleaning, p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Check the bore from the breech end, not the muzzle",
+   "action": "Before anything goes back together, look through the bore from the BREECH end and make sure nothing is left in it — a piece of cleaning patch, a brush, a section of rod. The manual specifies the breech end rather than the muzzle for the inspection as well as for the cleaning. A patch fragment left in a .22 barrel is a barrel obstruction, and the pressure that builds behind one is what bulges or bursts a barrel.",
+   "quote": "Check the bore carefully by looking through the breech end (not the muzzle) to be sure there are no obstructions (i.e., pieces of cleaning patch, a cleaning brush, cleaning rod).",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Cleaning, p.11",
+   "warn": "Bore clear, checked from the breech end."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench should be the barrelled action, the stock, two action screws, the dust cover, the recoil assembly, the trigger housing assembly with its retaining pin, the bolt handle, the bolt assembly and the magazine. That is the whole of Savage's published owner disassembly for an A22R — further than most rimfires go, and it stops exactly there. Use the access: shine a light into the ejection port and look down a clear barrel, inspect the inside of the receiver and the bolt face for damage, excessive wear, excessive firing residue or missing components, and run your fingers down the outside of the barrel feeling for bulges. Deep Clean covers the interior metal surfaces and the reassembly sequence, which on this rifle has three alignment traps in it.",
+   "prose": "Nothing here is taken from the A17 / A22 MAGNUM manual. That is a different action and a different book.",
+   "quote": "While the action is open, inspect the inside of the receiver and bolt face for signs of damage, excessive wear, excessive firing residue, or missing components.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Maintenance, p.8",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Interior metal is only reachable now",
+   "action": "With the trigger housing and bolt out, clean and lightly lubricate the interior metal surfaces of the receiver — the raceways the bolt runs in, the underside of the action, the recesses the trigger housing tabs sit in. This is the only point in the procedure where those surfaces exist as far as a cloth is concerned, so do them properly rather than wiping what shows. Keep the film thin here for the same reason as on the bolt: the trigger housing goes straight back into this space.",
+   "quote": "Clean and lightly lubricate all interior metal surfaces.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Cleaning, p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "A lightly lubricated bolt is a standing requirement on this rifle",
+   "action": "Before the bolt goes back, note that Savage does not treat bolt lubrication as a post-cleaning step but as a permanent condition of the rifle. Keep it lightly lubricated at all times. On a blowback rimfire the bolt is the only thing timing the action against the cartridge, and a dry one drags in exactly the way that produces the short-stroking and failure-to-lock-back symptoms the maintenance section tells you to bring back to SECTION 5. Light, and always.",
+   "quote": "For optimal performance, keep your A22R bolt lightly lubricated at all times.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Opening WARNING page, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt back in first, and orientation is on you",
+   "action": "Reassembly begins with the bolt: insert the bolt assembly into the BACK of the receiver, orientated correctly. Savage points at a figure rather than describing the orientation in words, so match the part to FIGURE 15 rather than guessing — the extractor and the ejector slot have to end up on the correct sides, and the ejector slot is what the trigger housing's ejector will fit into two steps from now. A bolt in backwards will feel almost right and will bend the ejector when the housing goes in.",
+   "quote": "Insert the BOLT ASSEMBLY into the back of the RECEIVER, being sure to orient it properly (see FIGURE 15).",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Reassembly, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Check the magazine ejector spring before the trigger housing goes in",
+   "action": "Stop before the trigger housing goes anywhere near the receiver and check the magazine ejector spring is sitting properly, and that the safety is still at FULL SAFE. This is the first of the three traps in this reassembly: the ejector spring is trapped under the trigger housing once it is in, so a spring out of position is invisible until the magazine will not eject and the whole thing has to come apart again. Look at it now, with the housing still in your other hand.",
+   "caution": "Safety at FULL SAFE — moving it off may allow the hammer to snap forward.",
+   "quote": "Prior to installing the TRIGGER HOUSING ASSEMBLY, verify that the MAGAZINE EJECTOR SPRING is positioned properly (see FIGURE 16) and the SAFETY is still in the FULL SAFE position.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Reassembly, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "The ejector fits the bolt slot snugly — align it, do not push it",
+   "action": "Bring the trigger housing in, aligning the tabs on the receiver to the flats on the housing, and watch the ejector as it approaches the bolt. It is a snug fit into the ejector slot in the bolt, which means it is also a part that bends if it arrives at an angle. Line the two up by eye and let the housing settle; if it resists, back it off and look rather than pressing. A bent ejector on a rimfire gives erratic ejection, which reads on the range as an ammunition problem.",
+   "prose": "Once it is in, slide the whole housing rearward until it rests firmly against the rear of the receiver, then refit the retaining pin.",
+   "caution": "Align the ejector into the bolt slot. Never force the housing home.",
+   "quote": "The EJECTOR fits snugly in the EJECTOR SLOT in the bolt (see FIGURE 17). Align the two carefully so that the EJECTOR does not get bent or distorted.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Reassembly, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "The bolt handle hole has to line up, or the handle can leave the rifle",
+   "action": "This is the trap that matters most. Orientate the bolt handle so its recoil assembly hole lines up before the recoil assembly goes in, then slide the bolt rearward until you can see the hole. If the alignment is wrong the recoil pin simply will not pass through — and Savage names the consequence of proceeding anyway: the bolt handle may fall out, or be forcefully ejected during firing. Verify it positively afterwards by pulling gently on the bolt handle away from the firearm, as FIGURE 21 shows. If it comes away, the pin is not retaining it.",
+   "quote": "If the BOLT HANDLE HOLE is not aligned properly (see FIGURE 18), the RECOIL PIN will not go through the hole when the RECOIL ASSEMBLY is installed in the next step. If that happens, the BOLT HANDLE may fall out or be forcefully ejected during firing.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Reassembly, p.12",
+   "warn": "Prove the recoil pin retains the bolt handle by pulling on it before the rifle is fired."
+  },
+  {
+   "phase": "Strip",
+   "title": "Front screw first, 50 inch pounds, action pushed back into the recoil lug",
+   "action": "Centre the safety again to clear the stock, seat the action into it, and push firmly rearward so the recoil lug area makes contact before either screw is tightened. Then the FRONT stock assembly screw first, to 50 inch pounds. The order and the push are both load-bearing: pushing back sets the action against the recoil lug abutment, and torquing the front screw first locks that position in. Do it in the other order and the action is clamped wherever it happened to be sitting.",
+   "caution": "Push rearward into the recoil lug, then FRONT screw first.",
+   "quote": "Centrally position the SAFETY and place the action back into the STOCK. Push firmly rearward to ensure contact in the recoil lug area and secure the front STOCK ASSEMBLY SCREW first to 50 inch pounds.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Reassembly, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear screw to the same 50 inch pounds",
+   "action": "Then the rear stock assembly screw, to the same 50 inch pounds. Use a torque driver if you have one — 50 inch pounds is roughly four foot pounds, which is far less than an Allen key in a firm hand will apply without noticing. On a rimfire in a synthetic or laminate stock, an over-torqued rear screw crushes the inletting and changes the point of impact, and it will be blamed on the ammunition long before it is blamed on the screw.",
+   "quote": "Install the rear STOCK ASSEMBLY SCREW to 50 inch pounds.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Reassembly, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "The dust cover is a pressure part — seat it and prove it",
+   "action": "Position the dust cover with its front tab inside the receiver and the sides straddling the receiver, then slide it forward and down until it locks. Check two things afterwards: the sides sit flush with the receiver, and the grey button — the rear of the recoil assembly — is fully engaged in the opening. Savage is explicit that an unsecured dust cover may come off during firing and injure the shooter, and that the recoil assembly's own position is what retains it. This is not a cosmetic panel.",
+   "quote": "Ensure the DUST COVER is seated properly and locked into position (sides flush with the receiver and grey ‘button’ fully engaged in the opening). An unsecured DUST COVER may come off during firing and injure the shooter.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Reassembly, p.13",
+   "warn": "Sides flush, grey button fully engaged. An unsecured dust cover can come off during firing."
+  },
+  {
+   "phase": "Strip",
+   "title": "Never fire it with the dust cover off",
+   "action": "If the dust cover will not seat and lock, the rifle does not get fired. Savage says the components inside are under pressure and can come off during firing, which is the same statement made from the other direction: the cover is what contains the recoil assembly against the gas and spring forces of the shot. A missing, broken or altered dust cover is listed alongside the action screws and the extractor as a component you do not shoot without.",
+   "quote": "Never fire with the dust cover off or installed incorrectly. Components inside are under pressure and could come off and cause injury during firing.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Opening WARNING page, p.1",
+   "warn": "No dust cover, or a badly fitted one, means the rifle does not get fired."
+  },
+  {
+   "phase": "Strip",
+   "title": "Cycle it and work the safety before a round exists",
+   "action": "With everything back together and no ammunition anywhere near the bench, cycle the action and engage the safety several times. Both, several times — Savage asks for the safety to be proved as part of the same check, and the cleaning section repeats that the two-position safety must be verified operational when the job is done. If the action does not cycle properly or the bolt binds, the instruction is specific: take the dust cover back off and review the steps. Binding after reassembly almost always means the ejector, the bolt orientation or the recoil pin.",
+   "quote": "Cycle the action and engage the SAFETY several times to assure that it is functioning properly prior to loading. If the action does not cycle properly or the BOLT binds, remove the DUST COVER and review the steps above.",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 5, Reassembly, p.13",
+   "warn": "Bolt binds or the action will not cycle: strip it back down, do not shoot it."
+  },
+  {
+   "phase": "Strip",
+   "title": "The two holes in the dust cover are not scope mounts",
+   "action": "One last thing that gets people, and it is worth knowing while the rifle is in pieces in front of you. There are two holes in the A22R dust cover, and Savage states outright that they are not intended for mounting a scope. Given what the previous steps established — that the dust cover is a pressure-retaining part held on by the recoil assembly — hanging an optic off it would load the one component the manual says must not come loose during firing. Scope bases and their screws are separate items in the parts list.",
+   "caution": "Do not mount an optic to the dust cover.",
+   "quote": "The model A22R dust cover has two holes that are not intended for mounting a scope (see FIGURE 24).",
+   "cite": "SAVAGE ARMS MODEL A22R .22LR — REV. 0 (10/18) — printed as \"113711 REV. 0 (10/18)\" and again as \"113711 Rev 0 - 10/2018\" — Section 7, Rings and Bases for Mounting a Scope, p.17"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Bolt out, rifle laid horizontally, correct-calibre rod, brush, patches, solvent and lubricant to hand",
+    "Small amount of powder solvent on the brush; rod in at the CHAMBER end and out the muzzle, several passes",
+    "Swap the brush for a patch tip; new patches from the chamber end until one comes out clean",
+    "One patch saturated with gun lubricant, then one dry patch to remove the excess",
+    "Shine a light into the ejection port and look down the barrel for obstructions or damage",
+    "Check the bore from the BREECH end for patch fragments, brushes or rod sections",
+    "Nicks, scratches, rust or pitting in barrel or chamber: DO NOT USE"
+   ]
+  },
+  {
+   "name": "BOLT ASSEMBLY (exterior only)",
+   "tasks": [
+    "Never disassemble the BOLT ASSEMBLY — Savage names it twice as off limits",
+    "Wipe all bolt components, removing contaminants, then a VERY LIGHT coat of gun lubricant",
+    "A very thin film is sufficient protection — do not over lubricate",
+    "Inspect the bolt face for damage, excessive wear, excessive firing residue or missing components",
+    "Keep the A22R bolt lightly lubricated at all times, not only after cleaning",
+    "One firearm on the bench at a time — bolt assemblies are matched and this manual publishes no way to verify a match"
+   ]
+  },
+  {
+   "name": "RECOIL ASSEMBLY, TRIGGER HOUSING & RECEIVER",
+   "tasks": [
+    "Never disassemble the RECOIL ASSEMBLY or the TRIGGER ASSEMBLY — inspect only",
+    "Recoil spring, retention clip or guide rod damaged, bent or unsecured: DO NOT USE, contact a gunsmith, dealer or Savage",
+    "Any part of the trigger assembly damaged or unsecured: DO NOT USE",
+    "Clean and lightly lubricate all interior metal surfaces while the bolt and trigger housing are out",
+    "Check the magazine ejector spring is correctly positioned before the trigger housing goes back",
+    "Be sure the DUST COVER is in place and the RECOIL ASSEMBLY properly seated in its place"
+   ]
+  },
+  {
+   "name": "BEFORE THE NEXT SESSION",
+   "tasks": [
+    "Lock the bolt handle open, light into the ejection port, bore clear of obstructions with no nicks, scratches, rust or pitting",
+    "Function the BOLT HANDLE and REPEATER HANDLE and confirm the bolt cycles without binding",
+    "Run your fingers down the outside of the barrel feeling for bulges or damage",
+    "Examine the stock and the studs that secure the carrying strap",
+    "Check the scope rings and bases for tightness",
+    "Be sure the action screws are tight prior to each shooting session",
+    "Verify the two-position safety is operational, every time"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Confirm the chamber and magazine are empty and the bore is clear of patch material before anything goes back.",
+  "Insert the BOLT ASSEMBLY into the back of the receiver, orientated as FIGURE 15 shows.",
+  "Before fitting the trigger housing, verify the MAGAZINE EJECTOR SPRING is positioned properly and the safety is still FULL SAFE.",
+  "Insert the TRIGGER HOUSING ASSEMBLY, aligning the tabs on the receiver to the flats on the housing; the EJECTOR fits snugly into the EJECTOR SLOT in the bolt and bends if it is forced.",
+  "Slide the trigger housing rearward until it rests firmly against the rear of the receiver.",
+  "Insert the TRIGGER HOUSING RETAINING PIN — it will fall out again if the action is tilted sideways.",
+  "Orientate the BOLT HANDLE so the RECOIL ASSEMBLY HOLE aligns, then slide the bolt rearward so the hole is visible.",
+  "Insert the RECOIL ASSEMBLY into the back of the bolt and compress its rear slightly to secure it in the receiver.",
+  "Prove the RECOIL PIN is retaining the bolt handle by pulling gently on the handle away from the firearm.",
+  "Centre the SAFETY, place the action into the stock and push firmly rearward for contact in the recoil lug area.",
+  "Front STOCK ASSEMBLY SCREW first to 50 inch pounds, then the rear STOCK ASSEMBLY SCREW to 50 inch pounds.",
+  "Position the DUST COVER with the front tab inside the receiver and the sides straddling it, then slide it forward and down until it locks.",
+  "Confirm the dust cover sides are flush and the grey button — the rear of the recoil assembly — is fully engaged in the opening.",
+  "Return the safety to FULL SAFE, then cycle the action and engage the safety several times before loading."
+ ],
+ "fncheck": "With no ammunition on the bench, cycle the action and engage the safety several times and confirm both work — the bolt must run and lock without binding, and the safety button must travel fully right to cover the red band once the action is cocked. Remember the interlock: a button that will only go half way is reporting an uncocked action, not a fault. Pull gently on the bolt handle away from the rifle to prove the recoil pin is retaining it; if the handle moves out, the bolt handle hole was not aligned and the rifle must not be fired. Check the dust cover sides are flush with the receiver and the grey button of the recoil assembly is fully engaged in its opening. Insert the empty magazine and confirm it latches at the front and ejects cleanly, which is also the check that the magazine ejector spring went back correctly under the trigger housing. Look through the bore from the breech end for patch fragments or any other obstruction, and confirm the action screws are tight. If the action does not cycle properly or the bolt binds, Savage's instruction is to remove the dust cover and review the reassembly steps rather than to shoot it."
+}

@@ -1,0 +1,127 @@
+{
+ "row": "springfieldarmoryxdmelite",
+ "make": "Springfield Armory",
+ "model": "XD-M Elite",
+ "sourcedFrom": "Springfield Armory XD-M Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) (undated — no copyright line is printed anywhere in this document)",
+ "sourceSha256": "211ef8054cd717f3ea7518871cda6af2e41738e83a0209389cc0010fc157e7dd",
+ "cleanIntro": "This is the XD-M book, and it is the right one: the plain XD manual says in so many words not to use it for the XD-M Elite. This one names the Elite in its own text.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check this book is for your pistol",
+   "action": "This procedure comes from the XD-M manual. Springfield states on its cover that this manual is for XD-M firearms only, and the separate XD manual explicitly tells XD-M and XD-M Elite owners not to use it.",
+   "prose": "Two Springfield books, one exclusion each way. A slide that says XD on it is not the same pistol as one that says XD-M.",
+   "quote": "THIS MANUAL IS FOR XD-M FIREARMS ONLY.",
+   "cite": "Springfield Armory XD-M Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — Cover, safety information panel"
+  },
+  {
+   "phase": "Clear",
+   "title": "Know which Elite you have",
+   "action": "Check whether your pistol has a magazine disconnect, and note its barrel length — both change how it behaves later in this procedure.",
+   "prose": "Springfield says some XD-M Elite pistols carry a magazine disconnect and some do not. The manual cannot tell which yours is and neither can this guide; look at the gun.",
+   "quote": "Some XD-M Elite pistols are available with a magazine disconnect.",
+   "cite": "Springfield Armory XD-M Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — READ & UNDERSTAND THIS MANUAL"
+  },
+  {
+   "phase": "Clear",
+   "title": "Eye protection, muzzle safe, finger off",
+   "action": "Point the gun in a safe direction with your finger off the trigger and wear eye protection.",
+   "prose": "Springfield states the field strip is the same on every XD-M regardless of caliber.",
+   "quote": "POINT GUN IN SAFE DIRECTION WHILE KEEPING FINGER OFF THE TRIGGER.",
+   "cite": "Springfield Armory XD-M Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 1",
+   "warn": "ALWAYS REMEMBER THE FIREARM IS ABLE TO FIRE WITH OR WITHOUT THE MAGAZINE IN PLACE."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, firearm unloaded",
+   "action": "Remove the magazine and unload the firearm.",
+   "prose": "On an Elite without the magazine disconnect the pistol will still fire with the magazine out. Removing it is not unloading it.",
+   "quote": "Remove magazine and unload firearm.",
+   "cite": "Springfield Armory XD-M Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide open",
+   "action": "Draw the slide back to the rear stop position and lock it open by pushing up the slide stop lever.",
+   "prose": "All the way to the stop, then the lever up. Half-locked is how people end up fighting the disassembly lever.",
+   "quote": "Draw back the slide to the rear stop position and lock it open, pushing up the slide stop lever",
+   "cite": "Springfield Armory XD-M Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 3 (printed p.24, per Figure 24-1; this edition prints no page folios; the printed page is the prefix of the figure caption on the same page)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber",
+   "action": "Visually inspect the chamber to confirm the firearm is unloaded.",
+   "prose": "Eyes in the chamber before the lever turns.",
+   "quote": "Visually inspect the chamber to confirm the firearm is unloaded.",
+   "cite": "Springfield Armory XD-M Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Disassembly lever up to 12 o’clock",
+   "action": "Rotate the disassembly lever clockwise to a vertical 12 o’clock position.",
+   "prose": "Twelve o’clock on an XD-M — the Echelon’s lever goes to six, and they are not the same pistol. No trigger pull is needed on this one.",
+   "quote": "Rotate the disassembly lever clockwise to a vertical 12 o’clock position",
+   "cite": "Springfield Armory XD-M Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 5 (printed p.24, per Figure 24-2)",
+   "warn": "Do not attempt to disassemble this or any other firearm until you have"
+  },
+  {
+   "phase": "Strip",
+   "title": "Ease the slide forward and off",
+   "action": "Firmly grip the slide and pull it to the rear to release the slide stop lever, keep the grip and let the slide move forward slowly until the spring tension is released, then move the complete slide assembly forward and off the frame.",
+   "prose": "The release is a pull backwards, and the travel afterwards is what needs controlling. Let it run and it will jump off the rails.",
+   "caution": "Remember slide is under spring tension, maintain control.",
+   "quote": "Firmly grip slide and pull to the rear to release the slide stop lever",
+   "cite": "Springfield Armory XD-M Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, steps 6 and 7 (printed p.25, per Figures 25-1 and 25-2)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil system out — and this one branches by barrel length",
+   "action": "Remove the recoil system from the slide. On a 5.25\" the recoil spring system is NON-CAPTIVE and will come apart under tension in your hand; the 4.5\" and 3.8\" use a different figure in the manual.",
+   "prose": "This is the one place the XD-M strip is not the same gun to gun. Check your barrel length before you push on the guide rod.",
+   "caution": "Spring is under tension. Maintain control.",
+   "quote": "Caution: The 5.25\" is a Non-Captive Recoil Spring System. Spring is under tension. Maintain control.",
+   "cite": "Springfield Armory XD-M Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 8 (printed p.26, per Figures 26-1 and 26-2)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out — strip complete",
+   "action": "Remove the barrel from the slide.",
+   "prose": "Frame, slide, barrel, recoil system. Springfield stops the published strip here and says so.",
+   "quote": "The firearm is now fully field stripped and ready for cleaning.",
+   "cite": "Springfield Armory XD-M Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed) — FIELD STRIP, step 9 (printed p.26, per Figure 26-3)",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The XD-M manual ends its published disassembly at the field strip and states in its own words that further dismantling is not necessary and should only be done by Springfield, Inc. or a qualified gunsmith. Its later sections cover magwell and backstrap changes rather than a deeper strip, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Solvent-wet patch through the bore, correctly sized brush, then dry patches until clean",
+    "Wipe the feed ramp and the barrel exterior",
+    "A light pass of oil outside; nothing pooled"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Scrub the breech face and around the extractor",
+    "Clean the slide rails",
+    "Wipe the striker channel DRY — no oil in an ignition channel"
+   ]
+  },
+  {
+   "name": "FRAME & MAGAZINES",
+   "tasks": [
+    "Brush the frame rails",
+    "Wipe the magazine bodies dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Barrel back into the slide, then the recoil system, correctly oriented for your barrel length.",
+  "Run the slide assembly onto the frame rails and fully rearward.",
+  "Rotate the disassembly lever back down, then rack the slide several times."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, rack the slide and confirm the trigger resets, pointed in a safe direction."
+}

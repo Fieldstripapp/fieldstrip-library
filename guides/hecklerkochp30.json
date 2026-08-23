@@ -1,0 +1,187 @@
+{
+ "row": "hecklerkochp30",
+ "make": "Heckler & Koch",
+ "model": "P30",
+ "sourcedFrom": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) (2026)",
+ "sourceSha256": "750af35d0808f3d199732c4153082e36bf0687fa65dc8b68ac9a14dc55b0c2da",
+ "cleanIntro": "A hammer-fired 9x19 duty pistol on HK's short-recoil modified Browning linkless action: 3.86 inch six-sided polygonal barrel, interchangeable backstraps and grip panels, ambidextrous slide and magazine releases. The P30 comes in three trigger variants — V1 and V2 are LEM enhanced double-action-only, V3 is DA/SA with a decocking lever at the rear of the frame — and the P30 book also covers the long-slide P30L, the subcompact P30SK, and the S-suffix safety-lever versions of each. The strip runs through the slide release axle, with one P30 twist: the release does not leave the frame.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "P30, P30L, P30SK — and which trigger variant is yours",
+   "action": "The book covers the whole P30 series: the service P30 (3.86 inch barrel), the P30L (4.45 inch), the P30SK subcompact (3.27 inch), plus S-suffix models carrying ambidextrous safety levers. Its Section 2 tables print each model separately. Identify your model row and then your variant — V1/V2 are LEM enhanced DAO, V3 is DA/SA with the decocker extending out the back of the frame — because the function check after reassembly is printed per trigger system.",
+   "prose": "On a P30 the decocker is not a lever on the slide or the frame's side: it is the serrated button beside the hammer at the rear of the frame. If your pistol does not have it, yours is an LEM and there is nothing to decock.",
+   "quote": "Variant 1 (V1)\n\nLight trigger pull, Law Enforcement Modification (LEM) enhanced DAO\n\nVariant 2 (V2)\n\nStandard trigger pull, Law Enforcement Modification (LEM) enhanced DAO\n\nVariant 3 (V3)\n\nDouble Action/Single Action (DA/SA) with Decocker",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 2 — SPECIFICATIONS, p.9"
+  },
+  {
+   "phase": "Clear",
+   "title": "No conventional manual safety — the empty chamber is the safety",
+   "action": "Muzzle in a safe direction, finger outside the trigger guard. The standard P30 is designed without a conventional manual safety, so treat it as loaded and ready to fire until the magazine is out and you have confirmed the chamber empty visually and physically with a finger.",
+   "prose": "Only the S-suffix models carry safety levers; on every other P30 the passive safeties do their work without giving you anything to switch. That changes the discipline, not the mechanism.",
+   "quote": "Read this manual carefully before handling, loading, or using your HK P30 pistol. Like most modern handguns, the HK P30 pistol is designed without a conventional manual safety. Therefore, you must consider it to be loaded and ready to fire until you have removed the magazine and visually and physically (with your finger) confirmed that the chamber is empty.",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Cover page",
+   "warn": "A chambered round fires on a trigger press whether or not a magazine is fitted."
+  },
+  {
+   "phase": "Clear",
+   "title": "Clear it: safety if fitted, magazine out, slide locked back",
+   "action": "If your model has safety levers, engage them first. Then depress either side of the ambidextrous magazine release and remove the magazine, rack the slide by the rear serrations, push up on either slide release and lock the slide to the rear — watching the ejection port for the round or case that leaves.",
+   "prose": "The P30's ambidextrous slide release means either thumb locks it back; the clearing procedure genuinely does not care which hand you are.",
+   "quote": "3. Remove the magazine. Depress either side of the ambidextrous magazine release. Remove the magazine from the magazine well. 4. Open and lock the slide to the rear. Grasping the rear serrations, rack the slide to the rear while keeping the muzzle pointed in a safe direction. Push upwards on either side of the ambidextrous slide release and lock the slide to the rear. Watch for a cartridge or empty case to be ejected out through the ejection port.",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 4 — CLEARING AND SAFETY CHECK PROCEDURE, p.23"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber inspection: eyes, then a finger through the port",
+   "action": "With the slide locked open, look at the chamber through the ejection port, then insert a finger through the port and sweep the chamber and feed ramp area, removing anything found. Only then is the P30 clear.",
+   "prose": "The feed ramp sweep catches the failure-to-feed round the visual check reads as an empty chamber.",
+   "quote": "5. Inspect the chamber. Inspect the chamber for the presence of a cartridge or empty case by:\n1. Visually inspecting the chamber through the open ejection port. 2. Insert a finger through the ejection port and sweep the chamber and feed ramp",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 4 — CLEARING AND SAFETY CHECK PROCEDURE, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide back to the disassembly notch",
+   "action": "With the magazine out, pull the slide all the way back and lock it on the slide release. Now hold the pistol with your thumb over the rear of the frame and fingers on the slide top, pull the slide slightly back off the lock and ease it forward to the DISASSEMBLY POSITION — the notch on the left side of the slide, forward of the lock position.",
+   "prose": "The P30 gives the takedown alignment its own machined notch, which makes this friendlier than its USP ancestor: you are looking for the notch to line up over the slide release axle, not holding an unmarked position by feel.",
+   "quote": "4. Hold the pistol so that your thumb covers the rear of the frame and your fingers rest on the top of the slide.\n5. Pull slide back and move it forward as far as the disassembly position (Figure 21).",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 5 — DISASSEMBLY, p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the axle right-to-left — the release stays on the frame",
+   "action": "With your free hand, press the slide release axle in from the right side, then pull the slide release out to the LEFT until it reaches its locking position — a red painted area shows on top of the part when it is at its outermost stop. It does not come out of the frame: the left-hand release is captured by the trigger spring's right leg and stays attached. With the release out at its stop, pull the slide forward off the frame.",
+   "prose": "This is the step where USP habits mislead: on a P30 nothing detaches and nothing can roll off the bench. Red showing = far enough. Prying past the stop bends the trigger spring leg that retains it.",
+   "caution": "The left slide release cannot be completely removed during field stripping — do not try.",
+   "quote": "7. Pull the slide release to the left until it reaches the locking position. A red painted area on the top of the part will be exposed, indicating the part is in its outermost position. Pull the slide forward off the pistol’s frame (Figure 22).",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 5 — DISASSEMBLY, p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring out sideways, barrel out through the port",
+   "action": "Turn the slide upside down. Push the recoil spring forward, then up and out to either side, separating it from barrel and slide. Then pivot the barrel slightly forward, press upward on it through the ejection port, and lift it out. Four groups: slide, barrel, recoil spring, frame — exactly the assembly groups the book's Figure 7 draws.",
+   "prose": "Forward first: the guide rod's rear seat has to slide off the barrel's camming lug before the spring will come sideways.",
+   "quote": "8. Turn the slide upside down and carefully push the recoil spring forward, up, and out to either the left or right side, separating the recoil spring from the barrel and slide (see Figure 23).\n9. Pivot the barrel slightly forward and press upward on the barrel through the ejection port, separating the barrel from the slide.",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 5 — DISASSEMBLY, p.25"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Bronze bore brush only on the six-sided polygonal bore",
+   "action": "Clean the bore with a solvent-moistened bronze brush, at least six passes chamber to muzzle, then patches. The P30's barrel is six-sided polygonal and a steel brush scratches it, trading permanent accuracy for one lazy cleaning session.",
+   "prose": "The polygon is also why the bore cleans quickly — less edge for fouling to grip. If patches are coming out filthy after a normal session, look at the chamber and locking block before scrubbing the bore harder.",
+   "quote": "Do not use a steel bore brush which can scratch the polygonal bore and reduce accuracy.",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 6 — CLEANING & MAINTENANCE, p.33",
+   "warn": "Never steel. Bronze."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the armorer line, and the intervals",
+   "action": "The user strip ends at the four groups; HK's line under the last figure is that only a certified armorer disassembles further. Clean on the book's two intervals: Normal after each firing or every twelve months, whichever comes first; Major at 600 cartridges or after sand, dust, water — especially saltwater — or other contamination.",
+   "prose": "There is no hidden fifth group. The backstrap and grip panels come off with a pin punch when you want to refit the grip, but that is fitting, not field stripping, and it has its own section in the book.",
+   "quote": "Disassembly of the pistol is now com­plete. Only an HK certified armorer should disassemble the pistol further.",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 5 — DISASSEMBLY, p.25",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "⛔ Ammunition bounds: factory brass to spec, no +P+",
+   "action": "P30s run quality brass-cased factory ammunition to NATO, SAAMI or CIP specification. Barred outright: +P+, reloads, remanufactured, steel-cased, aluminum-cased and handloads — plus military surplus, corrosive primers, cast lead projectiles, submachine-gun loadings, and ammunition that has been soaked in oil or cooked in sunlight.",
+   "prose": "The caliber marking lives on the barrel locking block, visible through the ejection port — that is where you verify what the gun is, not the box the ammunition came in.",
+   "quote": "P30 pistols are designed to fire quality, brass-cased, factory-loaded ammunition loaded to NATO, SAAMI (Sporting Arms and Ammunition Manufacturers’ Institute), or CIP (Permanent International Commission for the Proof of Small Arms) specifications for use, specifically in handguns. DO NOT USE “+P+”, reloaded, remanufactured, steel cased, aluminum cased, or hand-loaded ammunition because it may not meet applicable NATO, SAAMI or CIP standards and could cause death, serious personal injury, and/or damage to your pistol and may void your warranty.",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 4 — AMMUNITION, p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Backstrap and grip panels — the pin-punch grip refit",
+   "action": "With the pistol CLEAR: drive out the backstrap retaining pin with a 2.8 mm (7/64 inch) pin punch, choose the backstrap/panel combination that fits your hand, slide each panel's grooves onto the frame's guide rails and push forward until flush, seat the backstrap upward until the pin holes align, and drift the pin back in.",
+   "prose": "This is the one owner-level job on the P30 that wants a tool, and the pin is the only fastener in it. If the panels will not seat flush, they are not on their rails — do not close the gap with the pin.",
+   "quote": "1. Using a 2.8 mm (or 7/64”) pin punch, remove the pin holding the backstrap in position. Choose the combination of backstrap and grip panels that provide the most comfortable fit for the operator (see Figure 27).",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 5 — INSTALLATION OF THE BACKSTRAPS AND GRIP PANELS, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine apart — and capacity-specific parts stay with their capacity",
+   "action": "High-capacity magazines: punch on the locking plate in the floorplate, hand over the base, floorplate forward, then ease locking plate, spring and follower out. Ten-round magazines add squeezing the floorplate's side locking tabs. Reassembling, HK adds a P30-specific bound: springs and followers are optimized per capacity, and installing a 10-round spring or follower in a larger magazine is a malfunction waiting to happen.",
+   "prose": "If you own a mix of 10/15/17-round magazines, strip and rebuild them one at a time — the components look interchangeable and are not.",
+   "quote": "Magazine springs and followers are optimized for their specific capacity. Ensure magazines are reassembled with the correct capacity-specific components. Using incorrect components for the stated magazine capacity may result in malfunctions. Example: do not install the 10 round spring or follower inside a larger capacity magazine.",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 5 — MAGAZINE ASSEMBLY, p.31",
+   "warn": "Magazine base away from face and eyes throughout — the spring is compressed."
+  },
+  {
+   "phase": "Clean",
+   "title": "Major cleaning at 600 rounds — magazine apart, parts immersed",
+   "action": "Major cleaning is the normal routine escalated: the magazine comes apart per Section 5, and all parts are rinsed with or immersed in cleaning solution, scrubbed with a nylon brush and dried with compressed air or rag and swabs. Trigger: 600 cartridges fired, or exposure to sand, dust or water — saltwater especially.",
+   "prose": "Dry means dry — solvent left in the firing pin channel or under the extractor turns into sludge that no amount of exterior wiping reaches.",
+   "caution": "Ultrasonic cleaning can strip the colored reference markings from frame, extractor and control lever; it is normally unnecessary.",
+   "quote": "Major Cleaning - Major Cleaning is the same as normal cleaning except that: • The magazine is disassembled for cleaning, following the instructions and warnings in Section 5. • All parts should be rinsed with or immersed in cleaning solution and thoroughly scrubbed with a nylon brush. The parts can then be dried using compressed air or with a rag and cotton swabs.",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 6 — Major Cleaning, p.35"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ No alterations, and rail accessories have a weight ceiling",
+   "action": "Do not alter any part of the pistol or magazine — 'improving' it voids the warranty and can cause serious injury. On the accessory side the book sets a hard number: frame-mounted accessories on the Picatinny dust-cover rail must not exceed 5.64 ounces (160 grams) or reliable function is no longer ensured. Threaded barrels exist for P30/P30L 9mm models but will not fit the P30SK.",
+   "prose": "The 160-gram ceiling is a function bound, not a strength bound — an overweight light changes the slide's recoil impulse against the frame.",
+   "quote": "Weight of any frame (dust cover) mounted accessories should not exceed 5.64 ounces (160 grams) to ensure reliable function.",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 8 — P30 ACCESSORIES, p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lock-Out Device: quarter-turn key lock inside the magazine well",
+   "action": "Every P30 carries the HK Lock-Out device in the bottom of the frame, reached through the magazine well. Clear the pistol AND dry fire it first, then a quarter turn clockwise with the two-pronged key locks trigger, hammer and slide; holes horizontal means locked, vertical means fire. The slide is frozen closed while locked — forcing it damages the pistol.",
+   "prose": "The dry-fire-first instruction is the LEM system releasing its hammer spring; skip it and the lock fights stored energy it was never meant to hold.",
+   "caution": "Never force the slide on a locked pistol.",
+   "quote": "Clear the pistol and dry fire it prior to activating the Lock-Out device. Use the two pronged key supplied with the pistol to lock or unlock the pistol as desired. When the holes on the Lock-Out device are horizontally positioned, the pistol is locked and cannot be fired (see Figure 44).",
+   "cite": "OPERATOR'S MANUAL — P30 SERIES — May 2026 (imprint page) — Section 7 — LOCK-OUT DEVICE, p.38"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Nylon toothbrush and cleaning solution over all internal surfaces",
+    "Rag and cotton swabs to carry the loosened fouling away"
+   ]
+  },
+  {
+   "name": "BARREL AND LOCKING BLOCK",
+   "tasks": [
+    "Bronze bore brush and solution, six passes chamber to muzzle — steel is banned on the polygonal bore",
+    "Patch the bore, then brush the barrel exterior and locking block clean"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING AND FRAME",
+   "tasks": [
+    "Lift all visible fouling off the recoil spring with solution, toothbrush or rag",
+    "Scrub carbon off the frame, concentrating under the slide and at the unlock block area that meets the barrel"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Brush the follower and feed lips at every Normal cleaning",
+    "Disassemble only at Major cleaning — and rebuild with the capacity-matched spring and follower",
+    "Confirm the follower runs freely and rises nearly flush against the feed lips"
+   ]
+  },
+  {
+   "name": "INTERVALS AND LUBRICATION",
+   "tasks": [
+    "Normal cleaning after each firing or every twelve months, whichever comes first",
+    "Major cleaning after 600 cartridges or sand/dust/water exposure",
+    "Light lube on barrel exterior and metal parts; medium on locking block, rails, controls, frame guide rails, extractor and firing pin safety; no heavy lube anywhere on a P30"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Turn the slide upside down and insert the barrel with its angular camming surface up, pivoting it rearward until the locking block snaps into the ejection port.",
+  "Hook the front of the recoil spring into the tang above the muzzle, compress it forward, and pivot the guide rod's rear onto the stepped mounting surface on the barrel's camming lug — spring front facing forward.",
+  "Confirm no magazine is in the well and the left slide release is out at its locked position.",
+  "Mount the slide with the recoil spring centered under the barrel and the frame rails in the slide grooves.",
+  "Pull the slide back to the disassembly notch, hold, and press the slide release back into the frame from the left.",
+  "Perform the function check for your trigger system — LEM or DA/SA — as printed in Section 5."
+ ],
+ "fncheck": "Clear the P30 and rack the slide three or four times — smooth travel, no binding. LEM: dry fire, hold the trigger, cycle the slide, release and listen for the reset, then dry fire again. DA/SA: dry fire, cycle with the trigger held so the hammer stays cocked, then press the decocking button beside the hammer — the hammer must pivot forward WITHOUT reaching the firing pin — and confirm the next trigger pull runs the full double-action arc. Both: an empty magazine must lock the slide back, and either slide catch must drop it."
+}

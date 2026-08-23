@@ -1,0 +1,168 @@
+{
+ "row": "cz75b",
+ "make": "CZ",
+ "model": "75 B",
+ "sourcedFrom": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "f31dc0016fe12dcb7063559a667cf9d7d502bcd8ce7afe98fcc16d437fe57441",
+ "cleanIntro": "The 75 B is the manual-safety, SA/DA CZ 75 with a firing pin safety. Its strip is the classic slide-inside-frame-rails pattern: hammer to half-cock, two scribed lines aligned, slide stop tapped out from the right. The lines are the whole trick — the slide stop will not shift until they are in register, and it will not go back in until they are again. Everything below is read off the English section of CZ's CZ 75 manual, PDF pages 16 to 29.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm the version — this book covers thirteen of them",
+   "action": "Check your pistol against CZ's versions table before you begin. The 75 B is listed as SA/DA with a manual safety, NO decocking device, a firing pin safety and a safety stop on the hammer. If your gun has a decocking lever instead of a thumb safety it is a BD, a P-01 or an SP-01 variant, and parts of this book do not describe it.",
+   "prose": "CZ prints one book for CZ 75 B, 75 B SA, 75 BD, 75 POLICE, 75 DAO, 75 COMPACT, 75 D COMPACT, 75 SEMICOMPACT, 75 P-01, 75 SP-01, 75 SP-01 PHANTOM, 75 SP-01 TACTICAL and CZ MODEL 75, and the safety fit varies down the table. The 75 B's loaded chamber indicator is asterisked — supplied on special order only — so its absence on your gun is not a fault. Read the table row, not the pistol next to yours on the bench.",
+   "caution": "Two sections of this manual explicitly exclude one another. CZ's Engaging the Safety Mode section carries \"The version equipped with a decocking device is not covered in this section!\" — the 75 B is the manual-safety version, so that section is the one that applies to it and the Decocking section is not.",
+   "quote": "The CZ 75 pistol is a semi-automatic handgun with locked breech. It is produced in several versions.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Pistol Description and Terminology, p.19"
+  },
+  {
+   "phase": "Clear",
+   "title": "The Decocking section does not describe a 75 B",
+   "action": "Do not try to decock a 75 B with a lever. It has none. Lowering the hammer on a 75 B is done by thumb on the hammer's grooved thumb piece with the trigger pulled, releasing it slowly forward until it rests on the safety notch, then releasing the trigger.",
+   "prose": "This is the most consequential version split in the book and CZ states it as an exclusion at the head of the section. On a BD, P-01 or SP-01 with a decocker the hammer drops mechanically without touching the trigger; on a 75 B your thumb is the only decocking device, and the trigger has to be pulled for the hammer to move. CZ says to practise the movement with the pistol unloaded first, and that advice is not decorative — a thumb that slips off a spurred hammer with a round chambered fires the gun. If the pistol will be stripped in a moment, the half-cock notch is where you want the hammer anyway.",
+   "quote": "The version equipped with a manual safety is not covered in this section!",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Operating Instructions — Decocking, opening line, p.23",
+   "warn": "The manual safety on a 75 B can only be engaged with the hammer cocked. CZ designed it that way deliberately, so a safety that will not go up is telling you the hammer is down, not that the pistol is broken."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out first",
+   "action": "Point the pistol in a safe direction. Depress the magazine catch with the thumb or middle finger; on the 75 B the magazine rises about 5 to 10 mm out of the housing and is then drawn clear with the other hand.",
+   "prose": "Unlike a modern drop-free pistol the 75 B's magazine only proud-seats and waits — expect to pull it, and do not assume an untouched catch means an empty well. CZ makes the empty well a precondition of disassembly, and on this design the magazine body sits directly in the path of the trigger-side work you are about to do. Count the magazine out of the gun and put it somewhere you can see it.",
+   "quote": "1. Remove the magazine. The pistol must not be disassembled with the magazine inserted!",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 1, p.24"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety OFF so the slide will move, then check the chamber",
+   "action": "Put the manual safety to the Safety-Off position — on a 75 B the safety blocks the slide as well as the trigger, so the slide will not retract while it is up. Then draw the slide back and confirm by eye that the chamber is empty.",
+   "prose": "This is where people fight a 75 B: the safety is not merely a trigger block, it locks the slide, so a stuck slide on this pistol almost always means the thumb safety is still on. With it down, rack the slide fully and look into the chamber — the ejection port is generous and easy to see through. Let the slide run forward and, if you want CZ's own end to the sequence, dry-fire into a safe area.",
+   "quote": "2. If the pistol is equipped with a manual safety shift it to the „Safety-Off“ position in order that the slide can be manipulated.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 2, p.24",
+   "warn": "MAKE SURE THAT THERE IS NO CARTRIDGE IN THE CHAMBER — CZ prints this as its own numbered step, third in the strip."
+  },
+  {
+   "phase": "Clear",
+   "title": "Sight zero, and the screw only the P-01 has",
+   "action": "Note before cleaning near the sights that CZ zeroed this pistol at 25 m. Windage is corrected by drifting the rear sight in its dovetail, then securing it by an indentation; elevation by exchanging the rear sight for a taller or shorter one.",
+   "prose": "The 75 B's rear sight is a plain drift fit held by a staked indentation, and a brush dragged along the dovetail can move a setting you cannot get back without a range trip. Do not go looking for a rear sight retaining screw on a 75 B — CZ prints that instruction against the P-01 version specifically, and applying it here means hunting for a fastener that is not there. Anything beyond drifting the sight, and any front sight change, is work CZ hands to a gunsmith.",
+   "aside": "Adjustable or micrometrical sights can be fitted to a CZ 75 on request, and the front sight is secured by a roll pin. CZ says those exchanges should be entrusted to a competent gunsmith rather than done on the bench.",
+   "quote": "CZ 75 P-01 version: Before starting with rear sight windage adjustments it is necessary to loosen the screw securing the rear sight against falling-out.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Operating Instructions — Sight Adjustment, CAUTION, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hammer to half-cock",
+   "action": "Retract the hammer slightly rearward and let it back down until it catches on the half-cock (safety) notch. Do not leave it fully cocked and do not let it sit fully down.",
+   "prose": "The half-cock notch parks the hammer clear of the firing pin and clear of the slide's rear, which is what makes the next two steps manageable — with the hammer fully down the slide has to fight it, and with the hammer cocked the mainspring is loaded against you. You will feel a distinct small catch as it seats; that catch is the confirmation. CZ describes the point of this step plainly: it makes the handling that follows easier.",
+   "quote": "In this state the handling which follows will be easier.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 4 (hammer to half-cock), p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Align the two vertical lines on frame and slide",
+   "action": "Put your left thumb through the trigger guard and grip the top of the front part of the slide firmly with the other fingers. Push the slide slightly back until the two vertical scribed lines — one on the rear of the frame, one on the slide — sit exactly in line with each other.",
+   "prose": "Those two short scribes are the CZ 75's take-down index and the entire strip hangs on them. At any other slide position the slide stop's shaft is trapped in the barrel's lower lug and no amount of tapping will move it. The thumb through the trigger guard is not a flourish either: it is what lets you hold the slide steady at that one position with the same hand while the other hand works the stop. Get the lines square on, not nearly.",
+   "quote": "5. Put your left thumb through the trigger guard and with the other fingers grasp the top of the front part of the slide firmly (Fig. 8). Push the slide slightly back until the two vertical lines on the rear part of the frame and slide are in line with each other.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 5, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Tap the slide stop out from the right, withdraw it from the left",
+   "action": "Keeping the lines aligned, tap the protruding end of the slide stop shaft on the RIGHT side of the pistol — the magazine base makes a serviceable drift. Then pull the slide stop out from the LEFT side.",
+   "prose": "It comes out one way only: pushed from the right, withdrawn from the left. A tap is what is wanted, not a hammer — if it does not start moving, the lines have drifted, and the cure is to reset the slide, never to hit harder. Keep hold of the slide throughout; the moment the stop clears the frame the slide is free to run forward on you. CZ names the magazine base as the improvised drift, which spares the finish on the stop's head.",
+   "quote": "6. KEEPING THE LINES ALIGNED push (tap) the slide stop from the right hand side of the weapon, i.e. using the magazine base (Fig. 9). Remove the slide stop from the left.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 6, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide and barrel forward off the frame",
+   "action": "Draw the slide, with the barrel still in it, forward off the front of the frame. Support both as they leave the rails.",
+   "prose": "The CZ 75 runs its slide INSIDE the frame rails rather than outside them, so the slide lifts out of a channel rather than off a pair of ledges — keep it square and let it travel straight forward. It is under recoil spring tension the whole way, so do not release your grip mid-travel. Once clear you are holding slide, barrel and recoil assembly together as one unit.",
+   "quote": "7. Pull the slide and the barrel forward off the frame.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 7, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and guide out, then the barrel",
+   "action": "Invert the slide. Lift the recoil spring and its guide out, easing the tension off as they come, then lift the barrel free of the slide.",
+   "prose": "The 75 B's recoil spring rides on a separate guide rod and is not captive — it is compressed in there and will jump if you let one end go. Take it out with a hand on each end and lower it under control. With the spring out the barrel drops back and lifts clear; the barrel's lower lug is what the slide stop shaft passed through, so look at that lug for wear while it is in your hand.",
+   "quote": "8. Remove the recoil spring and guide and finally the barrel.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 8, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel, recoil spring and guide, plus the slide stop and the magazine set aside. That is the whole field strip CZ publishes for the 75 B — the firing pin, extractor, hammer and sear all stay in the pistol.",
+   "prose": "Those pieces reach everything the cleaning section asks for: bore and chamber from the breech end, the breech face and extractor, the inside of the slide and the frame's internal rails, and the whole outside of the barrel including that lower lug. CZ's closing note is that routine maintenance needs nothing further, and that after a heavy session the magazine and the firing pin are the two extra items — of which only the magazine is yours to do. Firing pin disassembly is stated as a gunsmith's job on this pistol.",
+   "quote": "No further disassembly is needed for routine maintenance. When a great number of cartridges has been fired, it is advisable to also disassemble the firing pin and magazine.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, closing note, p.24",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Push the base lock and walk the base forward 5 mm",
+   "action": "Push in the magazine base lock where it protrudes through the hole in the base — or, if your magazine uses the other construction, move the base lock into its disassembly position — then slide the base about 5 mm towards the FRONT of the magazine.",
+   "prose": "Forward, not backward: the CZ 75 magazine base rides guide rails that only release at the front end, and levering it rearward mars the rails. Five millimetres is enough to clear the lock and no more; the base is still captive on the rails at that point, which is exactly the state you want while a compressed spring is underneath it. Identify which base construction your magazine has before pushing anything, because CZ builds both.",
+   "quote": "To remove the magazine base, push on the base lock which sticks out through a hole in the base (in case the construction is different move the magazine base lock into disassembly position) and slide the base about 5 mm towards the front of the magazine.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Magazine Disassembly, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Thumb on the base, then take it off the rails",
+   "action": "Cover the base with your thumb to trap the magazine spring, then use the other hand to take the base off its guiding rails. Release your thumb slowly and let the spring rise rather than launch.",
+   "prose": "The CZ 75's double-column magazine spring is long and stiff and the base is the only thing containing it — this is the step that costs people a spring across the workshop. Do it over a bench with the magazine mouth pointed away from your face. As the follower comes out, note which way up it sits: it is handed, and a reversed follower will present the first round nose-high and stop the pistol on round one.",
+   "quote": "Cover the base with your thumb to prevent losing the magazine spring and with the other hand take off the base from its guiding rails. Be careful during the disassembly as the spring could fly out, or even cause an injury.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Magazine Disassembly, p.24"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry-clean the magazine and stop at the firing pin",
+   "action": "Wipe the magazine body inside, the follower and the spring with a dry cloth or a brass bristle brush and leave them dry — no oil inside the body. Reassemble the magazine. Do not attempt the firing pin.",
+   "prose": "Oil in a magazine body holds grit against the case walls and slows the follower, which on a CZ 75 shows first as a sluggish last round. While it is apart, sight along the feed lips against another magazine; a spread lip is a magazine to retire rather than to bend back. CZ names the firing pin as something to clean after heavy use but hands the job itself to a gunsmith, so that is where owner work on this pistol ends.",
+   "quote": "Firing Pin Disassembly Firing pin disassembly procedure and cleaning should be entrusted to a competent gunsmith.",
+   "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Firing Pin Disassembly, p.24",
+   "warn": "CZ's caution immediately after the magazine section: no further disassembly of the pistol is recommended, and adjustment or repair goes to a competent gunsmith."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Clean patch on the rod through bore and chamber, changing patches, until the last one comes out clean — enough on its own if the 75 B has fired only a few rounds",
+    "For a heavily fouled bore, brush gun cleaning solution in, let it act about 10 minutes, then scrub the bore out thoroughly",
+    "Rod and brush go in from the CHAMBER end and the brush is pushed right out of the muzzle before reversing — reversing inside the barrel jams the brush",
+    "Dry bore and chamber with a clean patch and check that all powder residue and fouling is gone"
+   ]
+  },
+  {
+   "name": "SLIDE, FRAME RAILS & BARREL EXTERIOR",
+   "tasks": [
+    "Dry cloth, old toothbrush, brass bristle brush or wooden scraper on the breech face, the extractor and its cut, and the inside of the slide",
+    "The CZ 75 runs its slide INSIDE the frame rails — clean the internal rail channels in the frame, not just the visible top of the frame; that channel is where a 75 collects grit",
+    "Wipe the outside of the barrel, especially the lower lug the slide stop shaft passes through, and look at that lug for peening while it is in your hand",
+    "Preserving oil or paraffin oil may be used for this cleaning — never the barrel bore cleaning agent, which stays in the joints and corrodes them later",
+    "Check no cloth particles or brush bristles are left lodged in any part of the pistol"
+   ]
+  },
+  {
+   "name": "OIL & WIPE DOWN",
+   "tasks": [
+    "With bore, chamber and all accessible parts clean and dry, wipe them with a cloth soaked in gun oil or spray it on, then remove all excess oil",
+    "At very low temperatures take the oil off all accessible parts or apply a lubricant prepared for those conditions",
+    "Use thick preserving grease only for long-term storage in a demanding climate, and remove it thoroughly from every part before the pistol is used again",
+    "Wipe the barrel bore dry before shooting"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Barrel into the inverted slide first, then the recoil spring and guide — the guide's head seats against the barrel lug and will not sit right if the barrel is not home.",
+  "Run the slide onto the frame rails from the front and push it back until the two vertical lines on frame and slide are in line again; the slide stop will not enter at any other position.",
+  "Insert the slide stop from the LEFT and press it home until it sits flush on the right; it should go in with thumb pressure once the lines are square.",
+  "Let the slide run forward, then cycle it once by hand and check the slide stop stays put.",
+  "Dry-patch the bore before the pistol is carried or fired."
+ ],
+ "fncheck": "Magazine out and chamber confirmed empty: with the hammer cocked the manual safety should go up and, once up, should block BOTH the trigger and the slide — a slide that still retracts with the safety on is a fault, not a feature. With the hammer down the safety should refuse to engage, which is by design. The hammer should catch cleanly on the half-cock notch and, at that position, sit clear of the firing pin. Cycle the slide by hand and confirm the slide stop stays seated flush and that an empty magazine locks the slide to the rear."
+}

@@ -1,0 +1,141 @@
+{
+ "row": "surefiresocom556rc2",
+ "make": "SureFire",
+ "model": "SOCOM556-RC2",
+ "sourcedFrom": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 (2019)",
+ "sourceSha256": "9662a26e77bc8ededfd719e980d7c84cc29b2b1060fafe1f9e249c4cadb8e8ca",
+ "cleanIntro": "A sealed can. The strip is taking it off the host weapon; SureFire's deeper procedure is a 24-hour chemical soak, not a teardown.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the HOST WEAPON first, out of its own manual",
+   "action": "Before you touch the suppressor, unload the rifle it is on and put it on SAFE — and use the rifle's own manual to do it. SureFire says this in as many words: the suppressor manual does not teach you your host weapon, and the safety features and handling of that rifle are its manufacturer's to describe. A can comes off a loaded gun exactly as easily as an empty one, which is the problem.",
+   "quote": "Confirm that weapon is unloaded and on SAFE (Refer to the user manual provided with the weapon for proper weapon safety features and handling instructions)",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §5 Suppressor Adapter Installation Procedures, p.3",
+   "warn": "This step is not satisfied by the suppressor manual alone. Read the host firearm's own manual for its clearing procedure."
+  },
+  {
+   "phase": "Clear",
+   "title": "Let it cool before you put a hand on it",
+   "action": "If it has just been fired, walk away and let it cool. A suppressor and the barrel under it hold far more heat than the rest of the gun and will burn through a glove that would handle a hot receiver. Time is the only remedy the manual offers.",
+   "quote": "Do not handle suppressor immediately after it has been used in live-fire operations. Allow suppressor to cool off sufficiently before handling.",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §6 Suppressor Attachment Procedures, caution, p.3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Latch depressed, lock ring to unlocked",
+   "action": "Press the latch on the lock ring and hold it so the ring stays unlocked, then rotate the ring to the unlocked position following the arrow. The latch is a positive stop — if the ring will not turn, the latch is not fully in, not that the ring is seized.",
+   "aside": "Rotate the lock ring, following the black arrow in Figure 7A, to the unlocked position.",
+   "quote": "Depress the latch on lock ring and hold to keep it unlocked.",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §7 Suppressor Removal Procedures, step 1, p.3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Grasp the tube and pull it straight off",
+   "action": "Take a firm hold of the suppressor tube and pull it away from the host weapon. Straight off the adapter — no twisting once the ring is unlocked, because the indexing tab and slot are still engaged until the can is clear.",
+   "quote": "Firmly grasp the suppressor tube and pull it away from the host weapon as shown in Figure 7B.",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §7 Suppressor Removal Procedures, step 3, p.3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Scrape the attachment area and the adapter",
+   "action": "Brush or scrape carbon and copper residue out of the inside of the suppressor's attachment area, then do the same to the adapter still on the barrel. This is the whole of SureFire's field cleaning: the mount, not the core. Gun cleaner may be used on both mating surfaces.",
+   "aside": "Brush and/or scrape carbon and copper residue from the adapter.",
+   "quote": "Brush and/or scrape carbon and copper residue from the inside of the suppressor attachment area.",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §10.2 Field Cleaning Procedures, step 2, p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Changing adapter types? Clean the back section first",
+   "action": "If you are moving this can between different adapter types — say from a muzzle brake to a flash hider — clean the suppressor's back section before you mount it on the new one. Carbon shaped by one adapter does not sit right on another, and the result is a can that will not shoulder fully.",
+   "quote": "Suppressor back section must be cleaned prior to attachment if alternating between different model adapter types.",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §10.2 Field Cleaning Procedures, note, p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The can is off the weapon and its mount is clean. That is as far as a SureFire SOCOM comes apart in the field. The armorer-level soak is on the Deep Clean path, and SureFire is explicit that even that is optional.",
+   "quote": "SureFire suppressors are manufactured with a permanent dry lubricant on the lock ring and require no additional lubrication.",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §10.1 Lubrication, p.4",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Understand what this is — and is not",
+   "action": "SureFire calls the deeper clean optional and not required. Nothing here opens the can: the core is welded shut and the manual names it as such. If you were expecting to take baffles out, this is the answer to that question.",
+   "quote": "Extensive cleaning of the Surefire SOCOM/SOCOM2 suppressor is optional and not required.",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §10.3 Armorer Level Cleaning Procedures, note, p.4"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Muzzle down in a container, CLR to below the lock ring",
+   "action": "Stand the suppressor muzzle down in a container that will hold liquid and fill with CLR cleaner to just below the lock ring. Below the ring, deliberately — submerging it discolours the ionbond coating, and the manual calls that out as its own note.",
+   "caution": "Be sure the locking ring is not submerged in the CLR cleaner to avoid discoloration of the ionbond coating on the lock ring.",
+   "quote": "Fill container with CLR® cleaner until just below the lock ring.",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §10.3 Armorer Level Cleaning Procedures, step 2, p.4"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Twenty-four hours, undisturbed",
+   "action": "Leave it soaking for a full day and do not poke at it. There is no mechanical shortcut here — the chemistry is doing the work that a teardown would do on a serviceable can.",
+   "quote": "Let the suppressor soak in CLR cleaner undisturbed for 24 hours.",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §10.3 Armorer Level Cleaning Procedures, step 3, p.4"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Rinse, brush the mount, rinse again",
+   "action": "Take it out, rinse with water, brush the attachment areas with the supplied nylon brush to lift the loosened carbon, then rinse again. The nylon brush is specified — a steel one on the mounting surfaces is how a can stops shouldering square.",
+   "quote": "Brush the attachment areas of the suppressor with the supplied nylon cleaning brush",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §10.3 Armorer Level Cleaning Procedures, step 5, p.4"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Fire it clean",
+   "action": "Put five to ten live rounds through it to blow the loosened carbon out of the sealed section. This is the step people skip and then wonder why the can drips solvent on the bench a week later. Note the manual's own phrase — the sealed section — which is why there is no teardown to do.",
+   "quote": "Fire 5-10 rounds of live ammunition through the suppressor to expel loosened carbon in the sealed section of the suppressor.",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §10.3 Armorer Level Cleaning Procedures, step 7, p.4"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Check alignment before the first suppressed shot",
+   "action": "Whenever the can goes onto a firearm for the first time, verify alignment with a bore rod before you fire through it. A baffle strike is not something you get to find out about afterwards.",
+   "quote": "When attaching a SureFire suppressor to a firearm for the first time, alignment should be verified using a suppressor alignment bore rod prior to firing a suppressed shot.",
+   "cite": "SureFire SOCOM Fast-Attach Sound Suppressor System User Manual — 71-01-863 Revision G 05-2021 — §12 Suppressor Alignment, p.6"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "MOUNT & ADAPTER",
+   "tasks": [
+    "Brush or scrape carbon and copper residue from inside the suppressor attachment area",
+    "Brush or scrape carbon and copper residue from the adapter on the barrel",
+    "Gun cleaner may be used on both the adapter and the corresponding internal mounting surfaces"
+   ]
+  },
+  {
+   "name": "LOCK RING",
+   "tasks": [
+    "Leave the permanent dry lubricant alone — no additional lubrication is required",
+    "Any weapons-grade oil may be added to help the lock ring rotate smoothly",
+    "Never submerge the lock ring in CLR"
+   ]
+  },
+  {
+   "name": "HEAT DISCIPLINE",
+   "tasks": [
+    "Avoid firing more than 90 rounds of sustained fire",
+    "If that limit is reached, let the unit cool before resuming fire",
+    "Let the can cool before handling it after live fire"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Slide the suppressor over the adapter and rotate counterclockwise until the indexing slot on the suppressor lines up with and seats onto the indexing tab on the adapter.",
+  "Rotate the lock ring to locked position following the arrow in Figure 6 until it can no longer be rotated.",
+  "Audible clicks will be heard during this process.",
+  "If the lock ring does not rotate approximately 180 degrees, the suppressor is not fully seated — remove it and repeat."
+ ],
+ "fncheck": "With the host weapon confirmed unloaded, try to rotate the suppressor: only slight rotational movement under tension should be felt. If the lock ring did not turn about 180 degrees on installation, the can is not fully seated."
+}

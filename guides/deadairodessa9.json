@@ -1,0 +1,194 @@
+{
+ "row": "deadairodessa9",
+ "make": "Dead Air",
+ "model": "Odessa-9",
+ "sourcedFrom": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "a3d826c151676d305a40309e7b8d5a86eb551ba45ea414796516121c3dfeb6d3",
+ "cleanIntro": "The Odessa-9 is genuinely user-serviceable and genuinely order-sensitive: ten numbered 17-4 stainless baffles that thread into each other, a booster cylinder, a spring retainer and a front cap. Because the baffle count is variable, two things follow that do not apply to a fixed can — the stack must go back in ascending order, and a short stack may need hearing protection. Both are Dead Air's own statements, quoted below.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host, and use the pistol's own manual",
+   "action": "Magazine out, slide locked back, chamber checked by eye and by finger before the can comes off. The Odessa manual then sends you to the operator's manual for your own pistol for the clearing procedure, and rules out mounting or unmounting on a closed action.",
+   "prose": "Different pistols lock back differently and some do not lock back at all. The host's book is the one that knows yours.",
+   "quote": "CHECK YOUR WEAPON'S CHAMBER AND MAKE CERTAIN THAT THE WEAPON IS UNLOADED AND THE MAGAZINE REMOVED BEFORE PROCEEDING ANY FURTHER. IF THERE IS ANY QUESTION OR DOUBT, CONSULT THE OPERATOR'S MANUAL APPLICABLE TO YOUR FIREARM AS TO THE PROPER PROCEDURE FOR CLEARING AND/OR UNLOADING YOUR WEAPON. DO NOT INSTALL YOUR NEW SUPPRESSOR ON A FIREARM WITH A CLOSED ACTION!",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Product Overview, p.5",
+   "warn": "Never mount or unmount on a closed action."
+  },
+  {
+   "phase": "Clear",
+   "title": "Odessa-9 ceiling — 9mm, and no rifle cartridges",
+   "action": "Confirm what this can has been fed. The Odessa-9 tops out at 9mm pressure; sub-calibres like .380 ACP are explicitly acceptable, and high pressure rifle cartridges are explicitly forbidden. It is a pistol can and the manual says so twice in the same paragraph.",
+   "prose": "Read the engraving on your own unit and the packaging first — those override the general statement.",
+   "quote": "OUR PRODUCTS ARE CALIBER SPECIFIC. UNLESS STATED OTHERWISE ON THE SUPPRESSOR ITSELF OR ON THE PACKAGING, THE ODESSA-9 SUPPRESSOR WILL NOT FUNCTION SAFELY WITH ANY CARTRIDGE WITH PRESSURES HIGHER THAN 9MM. SUB-CALIBERS LIKE .380 ACP ARE ACCEPTABLE. USE OF YOUR SUPPRESSOR OUTSIDE OF ITS INTENDED SCOPE COULD RESULT IN DAMAGE TO YOUR FIREARM, DAMAGE TO PROPERTY, BODILY INJURY, OR DEATH.  DO NOT FIRE HIGH PRESSURE RIFLE CARTRIDGES THROUGH YOUR ODESSA-9 SUPPRESSOR.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Installation, p.8",
+   "warn": "9mm ceiling. No high pressure rifle cartridges."
+  },
+  {
+   "phase": "Clear",
+   "title": "Baffle count decides whether you still need ear protection",
+   "action": "Count the baffles in your build before you plan the range trip. This can runs a variable number of baffles, and Dead Air states plainly that it is possible to have so few that hearing protection is needed. A four-baffle short build is a different acoustic object from a ten-baffle full build.",
+   "prose": "It depends on the host and the ammunition too. Treat a short configuration as unproven until you have measured it on your own gun with plugs still in.",
+   "quote": "THIS PRODUCT ALLOWS FOR THE USE OF A VARIABLE QUANTITY OF BAFFLES, WHICH CAN DRASTICALLY AFFECT ITS ABILITY TO REDUCE THE REPORT OF THE FIREARM. IT IS POSSIBLE TO HAVE SO FEW BAFFLES THAT HEARING PROTECTION IS NEEDED.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Get To Know Your Odessa-9, p.5",
+   "warn": "A short baffle stack may still require hearing protection."
+  },
+  {
+   "phase": "Strip",
+   "title": "The barrel must give the piston a shoulder",
+   "action": "Check the host muzzle before the can goes back on. It needs a proper shoulder to seat against or a muzzle face aligned and square to the bore; on a long thread the can seats on the muzzle face and the back of the piston may never contact the shoulder.",
+   "prose": "On a suppressor this low-profile there is very little bore clearance to spare. Squareness is what you are checking, not tightness.",
+   "caution": "No square shoulder or muzzle face, no mount.",
+   "quote": "DO NOT thread onto barrels that don't have a proper shoulder or muzzle face that is aligned and square with the bore.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Installation, Step One, p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Torque ceiling — 70 in-lbs onto the barrel",
+   "action": "If the can worked loose during firing, an Odessa wrench may be used to snug it back onto the barrel, and 70 in-lbs is the ceiling for that. Hand tightening is what Dead Air actually prefers; the wrench is a correction, not a routine.",
+   "prose": "Note the units. This is in-lbs, and 70 of them is a light snug — it is nowhere near the ft-lbs figures on Dead Air's rifle cans.",
+   "quote": "If the suppressor loosens during firing, one of the Odessa wrenches may be used to snug it onto the barrel. Torque should not exceed 70 in-lbs.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Installation, Step Two, p.9",
+   "warn": "Ceiling 70 in-lbs onto the barrel."
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the Odessa off the pistol",
+   "action": "Rotate the body counter-clockwise until the piston starts to unthread from the muzzle, or clockwise if you are running a left-hand metric piston or mount. If the baffles start unscrewing from each other before the piston releases from the barrel, stop turning the body — grip the booster cylinder instead, or use an Odessa wrench there.",
+   "prose": "That is the classic Odessa failure: you unscrew the can into two halves on the muzzle instead of off it. Grip at the back, not the front.",
+   "quote": "If baffles begin to loosen before the piston does from the barrel, then grip by Booster Cylinder or use an Odessa wrench to remove.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Installation, Step Three, p.9",
+   "warn": "A hot can burns. Gloves, or let it cool."
+  },
+  {
+   "phase": "Strip",
+   "title": "Disassembly is the assembly sequence, reversed",
+   "action": "Dead Air documents no separate teardown order — it tells you to undo the build. That means front cap off the last baffle, then baffles off one at a time from the front working back, then the spring retainer, then spring and piston out of the booster cylinder. Lay them out left to right in the order they come off.",
+   "prose": "Keep the numbers facing you as you go. The numbers are the only thing that makes reassembly safe, and a pile of loose baffles is a guess.",
+   "quote": "STEP ONE: Disassembly is done in reverse order of assembly (page 6).",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Disassembly and Cleaning, Step One, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "BAFFLE ORDER — numbers must ascend away from the barrel",
+   "action": "Read the number stamped on each baffle as it comes off and keep them in sequence. On the Odessa-9 the bore gets wider as the number goes up, so baffle 1 sits closest to the muzzle and the stack must always ascend away from the barrel. Putting a lower number after a higher one narrows the bore downstream and increases the likelihood of a baffle strike.",
+   "prose": "This is the one Odessa mistake that damages the can and the shooter rather than just the group. It is why the baffles are numbered at all.",
+   "quote": "BAFFLE SEQUENCE MUST ALWAYS INCREASE IN NUMBER AS THE BAFFLES GET FURTHER AWAY FROM THE BARREL. PLACING A LOWER NUMBER BAFFLE AFTER A HIGHER NUMBER WILL INCREASE THE LIKELIHOOD OF A BAFFLE STRIKE.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Get To Know Your Odessa-9, p.5",
+   "warn": "Out-of-sequence baffles increase the likelihood of a baffle strike."
+  },
+  {
+   "phase": "Strip",
+   "title": "Piston compatibility — Griffin Armament is ruled out",
+   "action": "If you are fitting a piston from another maker, check whose it is. Dead Air names Rugged Suppressors and SilencerCo as compatible, warns that SilencerCo pistons vent gas rearward and shorten O-ring life, and specifically does not recommend Griffin Armament pistons in an Odessa-9 because of nominal dimensional variation.",
+   "prose": "A piston that is nominally right and dimensionally slightly wrong binds in the cylinder bore, and that is a mount that stops decoupling.",
+   "quote": "Due to slight nominal dimensional variations, pistons from Griffin Armament are not recommended for use in your Odessa-9.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Assembly Before Use, Step One, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "No harsh solvents on this finish",
+   "action": "Keep brake cleaner, surface treatment stripping solutions and aggressive copper fouling agents away from the Odessa. The body is 17-4 PH stainless with a QPQ Black Nitride+ surface finish, and those chemistries attack surface treatments. Test anything you do use on a small area first.",
+   "prose": "If you use an ultrasonic cleaner, keep the cycle short, use light detergents, and stop the parts knocking against each other in the tank.",
+   "quote": "Avoid harsh solvents such as brake cleaner, surface treatment stripping solutions, and aggressive copper fouling stripping agents.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Disassembly and Cleaning, Step Two, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You should have the front cap, the numbered baffles in order, the spring retainer, the spring, the piston and the booster cylinder laid out. Threads and taper fit-ups are what get cleaned, and Dead Air asks for that after every range session on this design. Deep Clean covers the booster and O-ring service and the rebuild torque sequence.",
+   "prose": "Do not lose the sequence between now and reassembly. Everything downstream of this step depends on it.",
+   "quote": "Due to the highly optimized design of the Odessa, it is recommended to clean all threads and taper fitups after each range session.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Disassembly and Cleaning, Step Two, p.10",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Booster and O-rings — every session",
+   "action": "Clean the booster mechanism with its spring and piston, grease it, and inspect the O-rings every shooting session. Replacement O-rings are size -018. Running the can wet softens carbon inside the piston, and most of it then wipes out of the housing once spring and piston are drawn.",
+   "prose": "If you are running a SilencerCo piston, expect to be doing this more often — the vented slots cut O-ring life noticeably.",
+   "quote": "The Booster mechanism with the spring and piston should be cleaned and lubed with grease every shooting session and the O-Rings inspected.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Disassembly and Cleaning — Piston and Booster Cylinder, p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Baffle and front cap threads, every range session",
+   "action": "Clean the threads on every baffle and on the front cap after each session. This is not cosmetic on a modular can — it is what keeps the stack coming apart and going back together by hand instead of needing wrenches that then over-torque a taper.",
+   "prose": "Lube the threads and the tapers behind them lightly when they are clean.",
+   "quote": "BAFFLES AND FRONT CAP: It is recommended to clean the baffle and Front Cap threads after each range session. This will allow them to easily disassemble and reassemble as needed.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Disassembly and Cleaning, p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Ultrasonic cleaning — short, light, no metal-on-metal",
+   "action": "If an ultrasonic tank is part of your routine, keep the cycle as short as it can be and use light detergents. Stop the parts touching each other in the basket — cavitation plus metal-on-metal contact is what wears the finish off tapers that need to stay dimensionally true.",
+   "prose": "The tapers are the locating surfaces on this can. Rounding them costs alignment, not just looks.",
+   "quote": "If an ultrasonic cleaner is used in the cleaning process, it's recommended to clean for as short of duration as possible and to use light detergents. Avoid or minimize metal-on-metal contact during the ultrasonic cleaning process.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Disassembly and Cleaning, Step Two, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rebuild the booster — piston flat, teeth between the pins",
+   "action": "Grease the inside of the booster cylinder, the O-rings, the threads and the tapers behind them. Push the correct piston for your barrel into the back of the cylinder — it is a tight fit and it will bind if it goes in tilted — and seat it flat against the internal face with the piston teeth between the two pins inside the cylinder.",
+   "prose": "A piston that is one flat out of index will not let the booster stroke correctly, and you will find that out as a failure to cycle.",
+   "quote": "Insert the Piston that fits your host pistol's barrel into the back of the Booster Cylinder. This will be a tight fit. The piston will bind on the bore of the cylinder if is tilted.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Assembly Before Use, Step One, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stack the baffles in ascending order, finger tight",
+   "action": "Thread baffle number 1 into the front of the booster cylinder and finger tighten, then 2, then 3, and so on to whatever count your configuration uses — in sequence, every one finger tight, on lubed threads and tapers. Then thread the front cap onto the final baffle of the series.",
+   "prose": "Finger tight is the assembly state. The wrenches only come out for the final torque pass, and they work back to front.",
+   "quote": "Thread Baffle number 1 into the front of the Booster Cylinder and finger tighten. Continue this process with Baffles 2, 3, etc. until the desired quantity is reached, ensuring that they are in sequence, and finger tightened.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Assembly Before Use, Step Four, p.6",
+   "warn": "Ascending order only — numbers increase away from the barrel."
+  },
+  {
+   "phase": "Strip",
+   "title": "Final torque — back to front, adjacent parts only",
+   "action": "Tighten the spring retainer and then baffle 1 into the booster cylinder with the provided wrenches, and keep working forward, always with both wrenches on two immediately adjacent parts and one of them being the part you just snugged. End at the front cap. Baffles take 20 to 60 in-lbs, the spring retainer 40 to 80 in-lbs, and the front cap only hand tightening with the cap tool.",
+   "prose": "Skipping a joint or torquing across a non-adjacent pair simply unscrews something in the middle of the stack that you cannot see.",
+   "quote": "Fully tighten the Spring Retainer and then Baffle #1 into the Booster Cylinder with the provided wrenches. Only tighten immediately adjacent parts one to another, starting from the back and work to the front, ending with the Front Cap.",
+   "cite": "ODESSA-9  DEAD AIR silencers  OWNER'S MANUAL — Rev121323 — Assembly Before Use, Step Six, p.7"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BAFFLES",
+   "tasks": [
+    "Keep the numbered baffles in the order they came off — the number is the only ordering information there is",
+    "Clean each baffle's threads and the taper behind them after every range session",
+    "Light lube on threads and tapers before reassembly",
+    "Avoid brake cleaner, stripping solutions and aggressive copper fouling agents"
+   ]
+  },
+  {
+   "name": "PISTON, SPRING & BOOSTER CYLINDER",
+   "tasks": [
+    "Clean and grease the booster spring and piston every shooting session",
+    "Inspect the O-rings; replacements are size -018",
+    "Wipe carbon out of the booster housing with the spring and piston removed",
+    "Booster cylinder, piston, spring and spring retainer may be submerged in carbon scrubbing chemicals"
+   ]
+  },
+  {
+   "name": "IF USING AN ULTRASONIC TANK",
+   "tasks": [
+    "Shortest practical cycle, light detergents only",
+    "Keep parts from touching each other in the basket"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Grease the inside of the booster cylinder, the O-rings, the threaded surfaces and the tapers behind the threads.",
+  "Insert the correct piston flat into the back of the booster cylinder with its teeth between the two internal pins.",
+  "Place the spring over the piston and drop it into the booster cylinder.",
+  "Check the spring retainer O-rings, slip the retainer over the piston until it seats, engage the threads and finger tighten.",
+  "Thread baffle 1 into the front of the booster cylinder finger tight, then 2, 3 and onward in ascending sequence.",
+  "Thread the front cap onto the final baffle of the series.",
+  "Torque back to front, adjacent parts only: baffles 20-60 in-lbs, spring retainer 40-80 in-lbs, front cap hand tight with the cap tool."
+ ],
+ "fncheck": "Every component should be snug with no gaps and no rattling; anything that will not tighten means damaged or dirty threads, not more force. Confirm the baffle numbers ascend from the booster cylinder to the front cap, sight the bore path against the light, and remember that a short stack may still call for hearing protection."
+}

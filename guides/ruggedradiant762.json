@@ -1,0 +1,161 @@
+{
+ "row": "ruggedradiant762",
+ "make": "Rugged",
+ "model": "Radiant 762",
+ "sourcedFrom": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document (UNKNOWN — no copyright line is printed anywhere in the document)",
+ "sourceSha256": "42380b814afb3c5203b2aeade97242cebc1dc2c25e67e8028e3c22c964b3ab97",
+ "cleanIntro": "The Radiant762 is a modular but SEALED rifle can. It has two published take-apart operations and no more: the ADAPT Module unscrews from the body to change the can between its short and long configurations, and the whole assembly comes off the Dual Taper Lock muzzle device. There is no baffle stack teardown in this manual at any level — Rugged states that the Radiant762's construction and exotic materials mean it requires limited service/maintenance, and defines that as clean mounting threads and a clear bore. The rest of what decides whether this can survives is at the host end: thread concentricity, the crush washer that is prohibited outright, and matching the projectile to your barrel's twist. It is a suppressor and not a firearm, so clearing the rifle is the rifle's own manual's job.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear the host rifle — its own manual owns that procedure",
+   "action": "Magazine out, bolt or carrier locked back, then look and feel inside the chamber before touching the can. Rugged prints this instruction at the head of both the module removal and the suppressor removal, because a can on a muzzle is a bore extension until it is off. This book describes no host: how your rifle locks open, whether it locks open at all, and where its chamber is visible are answered by that rifle's own operator's manual. Settle those first.",
+   "prose": "The Radiant762 fits any rifle carrying the right muzzle device, so no single clearing routine could cover its hosts.",
+   "quote": "Before removal of your RADIANT762 suppressor, remove the magazine and check the chamber of the firearm to confirm that it’s in a safe condition and completely unloaded. Failure to do so could result in serious personal injury or death.",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — RADIANT762 Removal, p.2",
+   "warn": "Magazine out and chamber verified before the can is handled."
+  },
+  {
+   "phase": "Clear",
+   "title": "Never clean a Radiant762 that is still on the gun",
+   "action": "The can comes off the host before any solvent, brush or compressed air goes near it. Rugged states this as a death-risk warning rather than housekeeping: cleaning means gripping and twisting a tube that is locked to a muzzle with a chamber a short distance behind. Set the rifle down clear and open and work on the suppressor as a separate object on the bench.",
+   "prose": "It protects the rifle as well — solvent driven back into a muzzle device and crown is not a trade worth making.",
+   "quote": "Never attempt to clean a suppressor while it’s attached to a host weapon, as this could lead to personal injury or death.",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "A crush washer is PROHIBITED under a Radiant762 muzzle device",
+   "action": "If the Dual Taper Lock muzzle device on your barrel was fitted on a crush washer, have it redone before the Radiant762 goes on it. Rugged prohibits crush washers outright and gives the reason: a crush washer times a device by deforming unevenly, so the device ends up off the bore axis, and an off-axis device carries the can off-axis with it. The consequence Rugged names is a baffle strike. Timing is done with the supplied shims instead, and the device is locked with Red Loctite or Rocksett.",
+   "prose": "This is the host-side error that destroys the suppressor rather than merely degrading it, and it is worth checking on a device somebody else fitted.",
+   "quote": "The use of a crush washer is prohibited due to improper bore alignment, which can result in baffle strikes. DO NOT EVER USE A CRUSH WASHER",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Muzzle Device Installation, p.2",
+   "warn": "No crush washer, ever, under a Radiant762 muzzle device."
+  },
+  {
+   "phase": "Clear",
+   "title": "Host thread concentricity is the operator's problem",
+   "action": "Before a Radiant762 goes on a rifle for the first time, satisfy yourself that the muzzle threads run true to the bore. Rugged calls this imperative and it is the same failure as the crush washer approached from the other end — threads cut off-axis point the can off-axis and no mount corrects it. The stated remedy when you are unsure is a qualified gunsmith, not a shim and not an eyeball.",
+   "prose": "A barrel threaded off its outside diameter rather than off the bore is the usual cause, and it is invisible without measuring.",
+   "quote": "It is imperative that the host weapon’s threads are concentric to the bore. This ensures there is no misalignment between the bore and the suppressor. If you are unsure about the quality of the threads on your rifle, have it checked by a qualified gunsmith.",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Concentricity, p.1",
+   "warn": "Unsure about the threads? A qualified gunsmith checks them."
+  },
+  {
+   "phase": "Clear",
+   "title": "Ammunition — the projectile-to-twist decision is yours",
+   "action": "Rugged asks for quality factory-loaded ammunition of the correct grain weight in a Radiant762 and puts the projectile-to-barrel-twist match explicitly on the operator. A bullet too long for the barrel's twist leaves the muzzle unstable, and an unstable bullet entering the can's bore is the second route to a baffle strike after misalignment. Only you know your barrel's twist rate and what you are loading, so only you can make this check.",
+   "prose": "Heavy long-for-calibre bullets out of a slow-twist barrel is the classic combination that gets a can hit.",
+   "caution": "Match the projectile to your barrel's twist. The manual will not do it for you.",
+   "quote": "It is up to the operator to determine the correct projectile/barrel twist to ensure proper stabilization in the host weapon.",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Ammunition, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Let it cool before removal, and to ambient before a new host",
+   "action": "Never take a hot Radiant762 off without proper protective gear; let it cool. And if the can is moving from one rifle to another, Rugged requires it back at ambient temperature before it goes on the new host — not merely cool enough to touch. The Dual Taper Lock works by a friction taper and by spring arms in the collar, and hot metal seated onto cold does not stay where you put it once both settle. The same rule covers changing between the short and long configurations.",
+   "prose": "This is the rule broken at every range day with two rifles and one can. Order the strings around it instead.",
+   "quote": "When transferring the RADIANT762™ between host weapons, wait until the suppressor has cooled to ambient temperatures before attaching the RADIANT762 to a new host. This also applies to changing between the short and long configurations;",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — RADIANT762 Installation, p.2",
+   "warn": "Ambient temperature before it goes on a new host or changes configuration."
+  },
+  {
+   "phase": "Strip",
+   "title": "Locking collar back a half turn to release the taper",
+   "action": "Turn the locking collar counter-clockwise half a rotation. That half turn does not loosen the can in the ordinary sense — it disengages the rear locking taper, which is the friction lock keeping the Radiant762 concentric with the muzzle device. Use the lock and unlock arrows engraved on the suppressor body for direction, and expect a distinct change in feel as the taper releases rather than a gradual slackening.",
+   "prose": "Trying to unscrew the can with the collar still locked is what damages a collar. Half a turn first, every time.",
+   "quote": "Turn the locking collar counter-clockwise a 1/2 rotation; this disengages the rear locking taper.",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — RADIANT762 Removal, step 1, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Two and a half turns and slide it off the muzzle device",
+   "action": "With the collar disengaged, take hold of the body of the Radiant762 — not the collar — and rotate the whole can counter-clockwise two and a half turns, then slide it forward off the muzzle device. Gripping the body matters: the collar is a spring-loaded part, and turning the can by it drives the load through the spring arms instead of the thread. Two and a half turns is this mount's full engagement, so if it frees earlier it was not fully seated when you shot it.",
+   "prose": "The muzzle device stays on the barrel. Only the can comes off.",
+   "quote": "With the rear locking collar disengaged, hold the body of the RADIANT762 and rotate the suppressor counter clockwise 2.5 turns and slide the suppressor over the muzzle device.",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — RADIANT762 Removal, step 2, p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Muzzle cap off the ADAPT Module with the supplied tool",
+   "action": "To take the module off, the muzzle cap comes off first. Drop the supplied tool into the cap so its grooves engage the matching grooves in the cap, then rotate counter-clockwise until it comes free. That tool is the only thing that should touch this cap — its grooves are the drive feature and a wrench or pliers on the cap's outside deforms a surface that has to thread and seal.",
+   "prose": "Confirm the rifle is clear again before this step if it has been out of your hands, because the module operations are printed with the same warning at their head.",
+   "quote": "To remove the ADAPT Module, first remove the muzzle cap from the end of the Module using the supplied tool. This is accomplished by inserting the grooves of the tool into the corresponding grooves in the muzzle cap and rotating the tool counterclockwise until removed.",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — ADAPT Module Removal, step 1, p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Module off, then cap the body — never run it open",
+   "action": "With the muzzle cap off, hold the suppressor body in one hand and rotate the module counter-clockwise until it separates. Then thread the muzzle cap directly onto the suppressor body and take it up hand tight — that is what makes the short configuration a complete suppressor rather than an open tube. Hand tight is the specification; there is no torque figure here and none should be invented.",
+   "prose": "A Radiant762 fired in the short configuration without the muzzle cap on the body is an unfinished can, not a shorter one.",
+   "quote": "With the Module removed, you can now thread the muzzle cap onto the suppressor body until it’s hand tight.",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — ADAPT Module Removal, step 3, p.1",
+   "warn": "The muzzle cap goes onto the body in the short configuration. Hand tight."
+  },
+  {
+   "phase": "Clean",
+   "title": "Mounting threads clean, then all the solvent back out",
+   "action": "The published maintenance is the mounting threads: a small amount of gun cleaning solvent and a brush, working the carbon out of the taper seat as well as the thread, because on a friction-taper mount the taper is a locating surface and fouling there makes the can fit crooked rather than merely tight. Then get every trace of solvent back out with hot soapy water, let the can fully drain, and finish with compressed air. On a can you cannot open, solvent that runs inside has nowhere to go.",
+   "prose": "Check the bore for debris and obstructions before any use and after every maintenance cycle. Rugged makes that the operator's responsibility in as many words.",
+   "quote": "All solvent should be fully removed from the suppressor prior to use. This can be accomplished with hot soapy water taking care to let the suppressor fully drain before use. The use of compressed air is highly recommended.",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "warn": "No solvent left inside before firing."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You should have the suppressor body, the ADAPT Module and the muzzle cap, with the Dual Taper Lock muzzle device still on the barrel. That is as far as a Radiant762 goes, and it is a published outcome rather than a gap: Rugged states that its construction and exotic materials mean it needs only limited service, and defines that service as keeping the mounting threads clean and free from debris. There is no baffle stack to lay out and no way into the body. Clean the threads, confirm the bore, and reassemble.",
+   "prose": "Do not go looking for a way in. No disassembly beyond this point is published for this model.",
+   "quote": "Due to the construction and use of exotic materials, the RADIANT762™ requires limited service/maintenance. It is important to keep all the mounting threads clean and free from debris.",
+   "cite": "RUGGED SUPPRESSORS | RADIANT762 | OPERATOR’S MANUAL — UNKNOWN — no revision or edition code is printed anywhere in the document — Service/Maintenance, p.1",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Rugged publishes NO internal disassembly of the Radiant762. The manual describes exactly two take-apart operations — removing the suppressor from the Dual Taper Lock muzzle device, and unscrewing the ADAPT Module from the body to change configuration — and both are in the field strip above. Its Service/Maintenance section states that because of its construction and its exotic materials the Radiant762 requires limited service/maintenance, defined as keeping the mounting threads clean and free from debris plus confirming the bore is clear of obstructions. There is no baffle stack removal and no user-serviceable interior anywhere in the document, so nothing deeper is presented and none has been invented.",
+ "cleaning": [
+  {
+   "name": "MOUNTING THREADS & TAPER SEAT",
+   "tasks": [
+    "A small amount of gun cleaning solvent and a brush on all mounting threads",
+    "Clean the rear locking taper as well as the thread — it is a locating surface",
+    "Clean the Dual Taper Lock muzzle device on the barrel at the same time",
+    "Clean the module-to-body threads and the muzzle cap's tool grooves"
+   ]
+  },
+  {
+   "name": "AFTER ANY SOLVENT",
+   "tasks": [
+    "Remove all solvent before the can is fired again",
+    "Hot soapy water, then let the suppressor fully drain",
+    "Compressed air is highly recommended to finish drying"
+   ]
+  },
+  {
+   "name": "BORE CHECK",
+   "tasks": [
+    "Check the bore is free of debris and obstructions before any use",
+    "Check it again after every maintenance cycle",
+    "Stated as the operator's responsibility"
+   ]
+  },
+  {
+   "name": "HOST-SIDE CHECKS (per rifle, not per can)",
+   "tasks": [
+    "No crush washer under the muzzle device — prohibited outright; shims and Red Loctite or Rocksett instead",
+    "Muzzle threads must be concentric to the bore; if unsure, a qualified gunsmith checks them",
+    "Quality factory ammunition of the correct grain weight, projectile matched to your barrel's twist"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Confirm the bore is clear and that all solvent has been removed and the can is dry.",
+  "For the long configuration, thread the ADAPT Module onto the suppressor body and fit the muzzle cap to the module with the supplied tool.",
+  "For the short configuration, thread the muzzle cap directly onto the suppressor body until it is hand tight.",
+  "Open the locking collar by twisting it clockwise until it stops, using the engraved lock/unlock arrows.",
+  "Hold the suppressor by the main body — not the collar — and thread it onto the muzzle device until fully seated, about 2.5 turns.",
+  "Turn the locking collar clockwise half a turn until tight.",
+  "Verify the can is fully seated via the go gauge on the muzzle device: you should only be able to see GO.",
+  "If the can is moving to a different host, or changing configuration, let it reach ambient temperature first."
+ ],
+ "fncheck": "Look through the bore against a light and confirm it is clear of debris and obstructions — the operator's responsibility before any use and after every maintenance cycle. Check the go gauge on the wrench flat of the Dual Taper Lock muzzle device, using the bottom of the lock collar as the visual guide: properly mounted you can only see GO, and any sight of NO-GO means it is not seated. Confirm the locking collar is tight after its half turn and that the can will not move by hand. In the short configuration confirm the muzzle cap is on the suppressor body and hand tight; in the long configuration confirm the module is threaded home and its cap fitted with the supplied tool."
+}

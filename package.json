@@ -1,0 +1,11 @@
+{
+  "name": "fieldstrip-library",
+  "private": true,
+  "version": "0.0.0",
+  "description": "The Fieldstrip library shelf: authored guide JSON and a versioned index, served by GitHub Pages.",
+  "scripts": {
+    "gates": "node tools/run_gates.js",
+    "publish-dry": "node tools/publish.js --dry-run",
+    "publish": "node tools/run_gates.js && node tools/publish.js"
+  }
+}

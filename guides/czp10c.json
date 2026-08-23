@@ -1,0 +1,168 @@
+{
+ "row": "czp10c",
+ "make": "CZ",
+ "model": "P-10 C",
+ "sourcedFrom": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "fd70270a3d902c6d18302ad55a63ca63a69762d27be0ebb7290dfc5a410ba49a",
+ "cleanIntro": "The P-10 C is the compact P-10, and CZ's book covers the whole P-10 line in one procedure: trigger to the rear, slide back 5 mm, disassembly plate down, slide off. The unusual part is that the trigger must be PULLED before the slide will come off and pulled again before it will go back on — a striker pistol whose strip depends on trigger position in both directions. Everything below is read off the English section of CZ's P-10 manual, PDF pages 2 to 14.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm this is a P-10 C, and which P-10 C you have",
+   "action": "Read the slide legend. This procedure is CZ's P-10 book, which covers the standard P-10 as well as the Ported, Optics Ready, Suppressor Ready and Optics & Suppressor Ready builds. Note which of those your gun is before you strip it, because the parts you will find are not the same on all of them.",
+   "prose": "The P-10 C is the compact size in a family that also runs an SC and an F, and CZ prints size-specific instructions for all three. A Ported P-10 C has a port cut through both slide and barrel near the muzzle, so the bore is not a plain tube and the fouling sits in the port as well as the rifling. A Suppressor Ready gun carries a 1/2\" x 28 UNEF - 3A muzzle thread and factory high sights. Getting this wrong does not stop the strip, but it makes you hunt for a part your pistol never had.",
+   "caution": "CZ's parts list marks the slide, barrel, magazine catch, magazine catch plug, trigger bar disconnector, frame, recoil spring, magazine catch spring, magazine catch pin, front and rear sight screws, front sight, magazine, cover with screws and thread guard as version-dependent. You must determine which features are present on your own P-10 C rather than assume the full list applies.",
+   "quote": "The parts marked * differ according to versions, or as case may be in some versions are entirely missing.",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — List of Parts, closing note, p.13"
+  },
+  {
+   "phase": "Clear",
+   "title": "Suppressor and optic fitment — the P-10 C takes the compact can only",
+   "action": "If a sound suppressor is fitted or is going to be, check its size class against your pistol. CZ specifies a compact size suppressor for the P-10 C; only the SC and F sizes are cleared for a standard size can. Remove the suppressor before stripping.",
+   "prose": "This is a real limit, not a preference — the compact frame and the C-length slide are what CZ tested the recommendation against, and a standard-size can hangs more mass off a shorter slide. If your P-10 C is fired only suppressed with a reflex sight, CZ also wants the return spring assembly replaced preventatively every 2,000 rounds, which is well short of what an unsuppressed P-10 asks for. With the can off, cover the thread again — CZ's instruction is that the thread and muzzle get a muzzle cap whenever no suppressor is installed.",
+   "quote": "using a compact size sound suppressor for the CZ P-10 C pistol; the SC and F versions can also be used with a standard size sound suppressor",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Pistol Description — Optics & Suppressor Ready recommendations, p.6",
+   "warn": "A reflex sight on the OR interface is limited to 35 g maximum weight, and CZ wants the suppressor's tightness on the muzzle thread checked after firing no more than two full magazines."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out first — the P-10 will not strip with one in",
+   "action": "Point the pistol in a safe direction. Depress the ambidextrous magazine catch with the thumb or middle finger and let the magazine fall clear of the frame. Set it aside.",
+   "prose": "On the P-10 the catch is reversible and the magazine drops rather than being pulled, so a loaded one leaves the gun the instant you touch it — keep your other hand under the well until you know where it went. CZ makes the empty well a hard precondition of the strip, not a courtesy: the disassembly plate sits in the frame directly above the magazine and the plate cannot travel down with a magazine body in the way. Do not slap a fresh magazine home on the compact frame to 'check' it either; CZ warns that hard seating of a magazine not designed for that frame size shortens the cartridge ejector's life.",
+   "quote": "1. Remove the magazine. The pistol must not be disassembled with the magazine inserted!",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 1, p.9"
+  },
+  {
+   "phase": "Clear",
+   "title": "Rack, look into the chamber, then dry-fire into a safe area",
+   "action": "Draw the slide fully back and look and feel into the chamber to confirm the last cartridge has been extracted and ejected. Release the slide forward, then pull the trigger as an aimed safety shot into a safe area.",
+   "prose": "The P-10 C's ejection port is short and the compact slide throws a live round only a little way, so watch where the case or cartridge lands rather than assuming it left the gun. CZ's own unloading sequence ends in a deliberate dry shot, and on the P-10 that press is not just a safety check — it is the step that puts the trigger in the rear position the strip needs. Look into the chamber with your eyes before you press anything; a striker pistol gives you no hammer position to read.",
+   "quote": "Draw back the slide and verify the last cartridge has been extracted from the chamber and ejected",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Operating Instructions — Unloading the Pistol, p.8",
+   "warn": "MAKE SURE THAT THERE IS NO CARTRIDGE IN THE CHAMBER before going any further — CZ prints this as its own numbered step in the strip, after the magazine comes out."
+  },
+  {
+   "phase": "Clear",
+   "title": "Sight zero on this pistol is a 15 m setting",
+   "action": "Before you touch the sights, know what the factory set them to. CZ zeroed the P-10 C at 15 m — only the P-10 F leaves the factory zeroed at 25 m. Windage is corrected by drifting the rear sight in its dovetail and locking it with the screw; elevation by swapping the front sight for a taller or shorter one.",
+   "prose": "This matters during cleaning because it tells you what you are allowed to disturb. The rear sight is a drift fit secured by a screw and the front is a screwed-in blade, so a solvent-soaked brush dragged across either can move a setting you cannot restore without a range trip. Some P-10 versions use sights that are not screw-secured at all, which is exactly the version difference the parts list warns about. Wipe the sights, do not scrub them.",
+   "quote": "The pistol sights were sighted in at the manufacturing plant at a distance of 15 m (CZ P-10 F at 25 m) so that the mean point of impact approximately conforms to the point of aim.",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Operating Instructions — Sight Adjustment, p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger back and held there",
+   "action": "Pull the trigger and confirm it stays in the rear position. It should sit back on its own once pressed with the striker down; if it springs forward, the pistol has re-cocked and the slide has to be dry-fired again.",
+   "prose": "This is the step people skip on a P-10 and then blame the disassembly plate for. With the striker released the trigger bar drops out of the slide's path; with the trigger forward it does not, and the plate will feel jammed. You are checking a position, not applying force — a rearward trigger you can see and feel resting against the frame is the confirmation, and no tool is needed to hold it there.",
+   "quote": "3. Pull the trigger and make sure that it remains in the rear position.",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 3, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Five millimetres of slide, no more",
+   "action": "Grasp the frame in your palm and use the fingers of the same hand to grip the rear of the slide from the top. Move the slide rearward by no more than 5 mm and hold it there.",
+   "prose": "Five millimetres is roughly the width of the rear serration block on a P-10 C — a short, deliberate nudge, not a rack. Go further and the disassembly plate's cut moves past its window and the plate will not drop; go nowhere and the plate is still locked by the slide. The compact slide gives you less to hold than an F, so use the frame hand to do the work and keep the other hand free for the plate.",
+   "quote": "4. Grasp the frame with your palm, use the fingers of the same hand to grasp the rear part of the slide from the top. Use your fingers to move the slide back by no more than 5 mm (Fig. 7).",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 4, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Push the disassembly plate down until it stops",
+   "action": "With the slide still held at that 5 mm, use the fingers of your other hand to push the disassembly plate downwards until it stops. Both sides go down together.",
+   "prose": "The plate is the flat tab standing proud on both sides of the frame just above the trigger — it is not a slide stop and does not rotate. It travels a short distance and then hits a definite stop; that stop is the confirmation, and forcing past it is how the plate spring gets bent. If it will not move, the fault is upstream: the trigger has come forward or the slide is off its 5 mm.",
+   "quote": "5. Use the fingers of your other hand to push the disassembly plate downwards until it stops. (Fig. 8).",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 5, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Ease the slide forward and off",
+   "action": "Release the pressure on the slide and run it forward off the front of the frame. Keep the muzzle pointed away and control the slide with both hands as it comes clear.",
+   "prose": "Once the plate is down the slide has nothing holding it, so it leaves the rails under the recoil spring's push rather than needing to be pulled. Let it go forward, do not lift it — the P-10 C's rails are short and levering the rear up first scrapes them. There is no take-down lever to return; the plate springs back up by itself once the slide is off.",
+   "quote": "6. Release the pressure on the slide and remove it from the frame (Fig. 9)",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 6, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring out, then the barrel",
+   "action": "Turn the slide upside down. Lift the captive recoil spring assembly out of its seat at the muzzle end first, then lift the barrel out of the slide.",
+   "prose": "The order matters: the recoil spring assembly bears on the barrel lug, so the barrel will not lift while the spring is in. Take the spring out by its forward end and let the tension off gradually — the P-10's assembly is captive but the compact one is short and stiff, and it will jump if you let go of it at an angle. With both out, the P-10 C is in the four pieces CZ's procedure produces: frame, slide, barrel, recoil spring assembly, plus the magazine.",
+   "quote": "7. Remove the recoil spring from the slide and finally the barrel.",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 7, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel and recoil spring assembly, with the magazine set aside. That is the whole field strip CZ publishes for the P-10 — the striker, the trigger bar, the extractor and the back strap all stay where they are.",
+   "prose": "Those four pieces reach everything the cleaning instructions call for: the bore and chamber from the breech end, the breech face and extractor claw, the slide's inner rails and the frame rails, and the whole outside of the barrel. CZ's next line after step 7 is that nothing more is needed for routine maintenance, and that firing pin cleaning goes to a gunsmith rather than to you. The one thing worth doing yourself after a heavy session is stripping the magazine, which the book does publish.",
+   "quote": "No further disassembly is needed for routine maintenance. When a great number of cartridges has been fired, it is advisable to also disassemble magazine and to entrust the pistol to a competent gunsmith for the firing pin cleaning.",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, closing note, p.9",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Read your magazine base before you push anything",
+   "action": "Look at the base of the P-10 C magazine. Either there is a hole in the base with a lock visible through it, or the rear of the magazine carries a sliding base lock. Which one you have decides the first move.",
+   "prose": "CZ ships both designs across the P-10 line and they are not interchangeable in handling: on the holed base you push the lock in through the hole with a punch or a pen, on the sliding type you move the lock itself into its disassembly position first. Trying the hole technique on a sliding lock just marks the polymer. This is the one deeper job CZ names for the owner, and it is worth doing after a heavy session because the compact magazine's follower channel collects fouling that slows the last two rounds.",
+   "quote": "There is a difference depending on the magazine design. If there is a hole in the magazine base, push the base lock through the hole and slide the base slightly forward.",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Magazine Disassembly, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Thumb over the base, then slide it off the rails",
+   "action": "With the lock depressed and the base moved slightly forward, cover the base with your thumb to hold the spring down and use the other hand to slide the base completely out of its guiding rails. Ease your thumb up slowly and let the spring rise under control.",
+   "prose": "The magazine spring is under real compression and the base is the only thing holding it — let go and the spring, follower and base all leave at once. Work over a bench, not over a carpet, and keep the mouth of the magazine pointed away from your face. Note the follower's orientation as it comes out; it is handed, and a follower put back the wrong way up will feed the first round nose-high.",
+   "quote": "Cover the base with your thumb to hold the spring and use the other hand to slide the base completely out of its guiding rails. Be careful during the disassembly as the spring could fly out, or even cause an injury.",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Magazine Disassembly, p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean the magazine body dry, and stop there",
+   "action": "Wipe the inside of the magazine body, the follower and the spring with a dry cloth or a brass bristle brush. Do not oil the inside of the magazine body. Reassemble it, then go no further into the pistol.",
+   "prose": "A magazine tube holds oil against the cartridge cases and turns dust into a paste on the follower, which is the usual cause of a P-10 C that feeds fine when clean and stops at the last round when dirty. Check the feed lips by eye against the other magazine while it is apart — a spread lip is a magazine to retire, not to bend back. Once it is together, that is the end of what CZ authorises the owner to open.",
+   "quote": "No further disassembly of your pistol is recommended. Should your pistol require adjustment or repair be sure the task is entrusted to a competent gunsmith!",
+   "cite": "CZ P-10 — INSTRUCTION MANUAL / MANUAL DE INSTRUCCIONES / NÁVOD NA POUŽITÍ / BEDIENUNGSANLEITUNG / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — CAUTION following Magazine Disassembly, p.10",
+   "warn": "The firing pin assembly is explicitly a gunsmith job on the P-10, even though CZ lists its seven sub-parts. If a light or absent primer strike sends you looking at it, that is the point at which the pistol goes to someone else."
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Run a clean patch on a rod through the bore and chamber and repeat with fresh patches until the last one comes out clean — that alone is enough if the P-10 C has fired only a few rounds",
+    "If the bore is heavily fouled, brush a gun cleaning solution in, let it work about 10 minutes, then scrub the bore through",
+    "Enter the bore from the CHAMBER end with both rod and brush, and push the brush all the way out of the muzzle before reversing — reversing inside a 4-inch compact barrel is how a brush gets stuck",
+    "On a Ported P-10 C, clear the compensator port through both slide and barrel as well as the rifling; it fouls faster than the bore",
+    "Dry the bore and chamber with a clean patch and check that all powder residue is gone before any oil goes on"
+   ]
+  },
+  {
+   "name": "SLIDE, BREECH FACE & FRAME",
+   "tasks": [
+    "Dry cloth, old toothbrush, brass bristle brush or a wooden scraper on the breech face, the extractor claw and its cut, the inner rails of the slide and the frame rails",
+    "Preserving oil or paraffin oil may be used for this cleaning — never the bore cleaning agent, which sits in the joints and corrodes them later",
+    "Wipe the outside of the barrel, including the locking lug and the barrel hood, with the same dry technique",
+    "Check that no cloth particles or brush bristles have lodged anywhere on the pistol before reassembly",
+    "If the front or rear insert roll pins have ever been removed, replace them with new ones rather than reusing them"
+   ]
+  },
+  {
+   "name": "OIL & WIPE DOWN",
+   "tasks": [
+    "With the bore, chamber and all accessible parts clean and dry, wipe them with a cloth soaked in gun oil or apply oil as a spray, then remove all excess",
+    "In very cold weather take the oil off every accessible part or use a lubricant made for those temperatures",
+    "Save thick preserving grease for long-term storage in a demanding climate, and strip it off completely before the pistol is used again",
+    "Wipe the bore dry before shooting"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Barrel into the inverted slide first, then the recoil spring assembly seated on the barrel lug — the spring will not seat if the barrel is not home.",
+  "Put the trigger to the rear (pulled) position BEFORE running the slide onto the frame; CZ's note is that this stops the frame colliding with the protrusion on the trigger bar.",
+  "Run the slide on from the front, all the way back, and let it come forward; the disassembly plate springs back up on its own and needs no help.",
+  "Rack the slide once to reset the trigger and the striker, then check the trigger returns forward and resets with a click.",
+  "Wipe the bore dry with a patch before the P-10 C is carried or fired."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty: the slide should run the full length of its travel without the disassembly plate creeping down; the trigger should reset forward with a click after a dry press and the trigger safety blade should stand proud, refusing to move unless it is pressed first; the striker should not move with the trigger untouched, which is the firing pin block working; and with an empty magazine inserted the slide should lock back on the slide stop and drop when the stop is thumbed. If a Suppressor Ready thread is bare, put the muzzle cap back on before the pistol goes away."
+}

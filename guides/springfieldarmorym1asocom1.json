@@ -1,0 +1,143 @@
+{
+ "row": "springfieldarmorym1asocom1",
+ "make": "Springfield Armory",
+ "model": "M1A SOCOM 16",
+ "sourcedFrom": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) (2020 (\"Copyright 2020. Contents property of Springfield, Inc. All rights reserved.\"))",
+ "sourceSha256": "28837081f40d759c8368b8811a00656c00f2c40068138952141f5b935f6706e4",
+ "cleanIntro": "The M1A strip, unchanged by the short barrel: three groups — trigger housing, barrelled receiver, stock — then the operating rod spring, the operating rod and the bolt. Springfield asks you not to do it more often than you need to.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Do not strip a match rifle for the sake of it",
+   "action": "Before starting, note that Springfield asks you to keep disassembly to a minimum, and to leave a glass-bedded match rifle alone unless it is absolutely necessary.",
+   "prose": "Repeated stripping wears the fit and, on a National Match or Super Match action, undoes the bedding that the accuracy depends on. That is Springfield’s reasoning, not ours.",
+   "quote": "Please do not field strip your match firearm unless it is absolutely necessary.",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — DISASSEMBLY/ASSEMBLY, p.26"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety on, rifle unloaded",
+   "action": "Put the safety on and unload the firearm before anything else.",
+   "prose": "Safety first and then unload — that is the order the manual prints it in.",
+   "quote": "Prior to disassembly, put safety on and unload the firearm!",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — THE THREE MAIN GROUPS, p.26"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, bolt closed",
+   "action": "With the rifle unloaded, remove the magazine and close the bolt by pulling back on the operating rod handle and letting the bolt run forward.",
+   "prose": "The bolt has to be forward before the groups will separate. Ride it, do not slam it.",
+   "quote": "After the firearm is unloaded, remove the magazine and close the bolt prior to disassembly.",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — DISASSEMBLY, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger housing group out",
+   "action": "Turn the rifle upside down with the barrel pointing away from you, hold the fore-end with your left hand, grasp the rear of the trigger guard with the thumb and forefinger of your right hand and pull upward and outward until the mechanism releases. Lift the trigger housing group out.",
+   "prose": "The trigger guard is the handle. It swings open and then levers the whole housing free — nothing needs to be pressed or punched.",
+   "quote": "Grasp the rear of the trigger guard with the thumb and forefinger of your right hand",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — DISASSEMBLY, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrelled receiver out of the stock",
+   "action": "Lay the rifle on a flat surface, sights down and muzzle to the left. Grasp the top of the fore-end grip with your left hand, take the rear sight and receiver in your right and pull down. On a standard rifle the stock should separate easily.",
+   "prose": "If it does not, the manual’s own remedy is to raise the buttstock and strike down firmly on a hard surface against the stock’s cheek surface while pulling the receiver down — that is the published method for a tight or bedded rifle, not improvisation.",
+   "quote": "With a standard firearm the stock should separate easily.",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — DISASSEMBLY, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Operating rod spring — the dangerous one",
+   "action": "Put the barrel and receiver group on a flat surface, sights down and muzzle to the left. With your left hand pull the operating rod spring and spring guide toward the muzzle to relieve pressure on the connector lock, slide the connector lock toward the operating rod handle side with your right forefinger, then let the spring expand SLOWLY and remove the spring and guide together before separating them.",
+   "prose": "This is the step the manual singles out as dangerous. The spring is long and it is holding the guide captive; if you lose it, the guide is launched.",
+   "caution": "Removing the operating rod spring is a dangerous procedure.",
+   "quote": "Allowing the operating rod spring to expand slowly, disconnect and remove the operating rod spring and operating rod spring guide",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — DISASSEMBLY OF BARREL AND RECEIVER GROUP — REMOVING THE OPERATING ROD SPRING AND OPERATING ROD SPRING GUIDE, p.28",
+   "warn": "Wear eye protection at all times."
+  },
+  {
+   "phase": "Strip",
+   "title": "Operating rod off",
+   "action": "Turn the group sights up and muzzle away from you. Pull the operating rod handle back until the guide lug on its inside surface lines up with the disassembly notch on the right side of the receiver, then rotate the rod upward and outward and pull it to the rear off the operating rod guide.",
+   "prose": "It only leaves at one point in its travel. If it will not rotate, the lug is not on the notch yet — move it, do not lever it.",
+   "quote": "Rotate the operating rod upward and outward, then pull it to the rear disengaging it from the operating rod guide",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — REMOVING THE OPERATING ROD, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out — strip complete",
+   "action": "Grasp the bolt roller and, sliding it forward, lift it upward and outward to the right front with a slight counter-clockwise rotating motion.",
+   "prose": "Forward, then up and out to the right with a twist. Do not go further: Springfield states the bolt should not be disassembled and does not require internal cleaning, and that taking it apart needs a special reassembly tool.",
+   "quote": "The bolt should NOT be disassembled. It does NOT require internal cleaning.",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — REMOVING THE BOLT and BOLT EXPLODED VIEW, p.30",
+   "warn": "it is imperative that bolts NEVER be exchanged from rifle to rifle",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Gas cylinder plug out — counterclockwise, with the right tool",
+   "action": "Clear the rifle first, then back the gas cylinder plug out counterclockwise with a Springfield combination tool or a 3/8\" six-point socket. Six-point, not twelve: the plug is soft enough to round off, and a rounded plug is a gunsmith job. This is the only routine maintenance on an M1A that needs any disassembly at all.",
+   "aside": "After clearing the action, making sure the rifle is unloaded and safe, remove gas cylinder plug (29) using a Springfield Armory® combination tool or a 3/8” (6 point) socket wrench by turning it counter-clockwise and withdrawing it from the gas cylinder (23).",
+   "quote": "The only normal maintenance procedure requiring any disassembly pertains to gas system care [see figure 6].",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — GAS SYSTEM, printed p.21"
+  },
+  {
+   "phase": "Deep",
+   "title": "Piston out muzzle-down, cleaned and wiped DRY",
+   "action": "Tip the muzzle down and let the gas piston come out into your hand, then clean it with bore solvent and wipe it dry — dry, not oiled. Clean the inside of the gas cylinder the same way. Oil in an M14-pattern gas system bakes into carbon and the rifle stops cycling.",
+   "aside": "Clean the inside of the gas cylinder and wipe dry.",
+   "quote": "Tilting the firearm muzzle down, remove the gas piston (27), clean with bore solvent and wipe dry.",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — GAS SYSTEM, printed p.21"
+  },
+  {
+   "phase": "Deep",
+   "title": "Carbon out of the piston and plug bores — two named drill bits",
+   "action": "Springfield names the tools: a #15 aircraft-length drill bit and a letter \"P\" standard bit, turned by hand, to scrape the carbon out of the inside of the piston and the plug. Hand pressure only — these are being used as reamers on purpose-sized holes, not drilled.",
+   "quote": "Use a #15 aircraft length drill bit and a letter “P” standard drill bit to remove carbon from inside the piston and plug.",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — GAS SYSTEM, printed p.21"
+  },
+  {
+   "phase": "Deep",
+   "title": "Back together DRY — flat side up, and below the threads",
+   "action": "The piston goes back flat side up toward the barrel and must sit completely below the threads in the gas cylinder before the plug starts, or you will cross-thread the plug onto the piston. Assemble dry, with only a small dab of grease on the plug threads. The piston is designed to run dry and Springfield says so outright.",
+   "aside": "CAUTION: The gas piston was designed to operate dry.",
+   "quote": "Make sure the piston is completely below the threads in the gas cylinder before replacing plug.",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — Operation & Safety Manual (no part code printed) — GAS SYSTEM, printed p.21"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent-wet patch from the chamber end where possible, correctly sized brush, then dry patches until clean",
+    "Clean the chamber and the locking lug recesses"
+   ]
+  },
+  {
+   "name": "BOLT & OPERATING ROD",
+   "tasks": [
+    "Wipe the bolt exterior, the bolt face and the locking lugs — do NOT disassemble the bolt",
+    "Clean carbon from the operating rod and its guide",
+    "Light oil on bearing surfaces only"
+   ]
+  },
+  {
+   "name": "GAS SYSTEM & STOCK",
+   "tasks": [
+    "Clean carbon from the gas piston and plug per the manual — a #15 aircraft-length drill bit and a letter \"P\" standard drill bit are the tools Springfield names",
+    "Wipe the receiver and trigger housing group",
+    "Wipe the stock interior dry; oil in a stock is what softens the bedding"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bolt back on the receiver bridge with the firing pin tang down, turn it slightly clockwise until the tang clears, guide the left locking lug into its groove, seat the right lug and slide the bolt halfway back.",
+  "Operating rod front end into its guide, recess in the rod hump over the bolt roller, handle left until the guide lug enters the disassembly notch, then push forward until the bolt closes.",
+  "Spring guide hump-up into the operating rod spring, feed the spring into the operating rod, compress until the guide hole aligns with the connector lock and push the lock in.",
+  "Stock ferrule into the barrel band, lower the stock onto the barrelled receiver, then place the trigger housing group straight down with its guide rib in the receiver slot and strike the trigger guard home with the palm of your hand."
+ ],
+ "fncheck": "With the magazine out and the chamber confirmed empty, cycle the operating rod and confirm the bolt closes fully into battery and the safety blocks the trigger. Never dry fire or pull the trigger with the bolt out of battery."
+}

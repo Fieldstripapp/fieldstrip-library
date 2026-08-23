@@ -1,0 +1,228 @@
+{
+ "row": "mltradpennsylvania",
+ "make": "Traditions",
+ "model": "Pennsylvania Rifle",
+ "sourcedFrom": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 (none printed)",
+ "sourceSha256": "945c5bf07f41d451f14050f1d2d08ffae1c15c9b69290e0c3456230f7dc76b83",
+ "cleanIntro": "Traditions publishes one book for its sidelock muzzleloaders and it names no model — it is scoped by action type, its load table is indexed by caliber and barrel length, and its warranty card asks you to write the model in by hand. Every step below is one that book states generally for flintlock sidelocks. The routine is the same every session: prove the barrel is empty, get the barrel out of the stock, flush the bore and the fire channel, dry it and oil it. What the book forbids outright is backing the bolster, drum or breech plug out of the barrel — that joint is torqued at the factory and is not a service item.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Treat it as loaded before anything else",
+   "action": "Point the muzzle somewhere safe and settle it in your mind that the rifle is charged and primed until you have proved otherwise. A muzzleloader carries no action to open and nothing to look into, so there is no glance that answers this question.",
+   "quote": "WARNING: ALWAYS POINT THE MUZZLE IN A SAFE DIRECTION AND TREAT THE FIREARM AS IF IT WAS LOADED AND CAN FIRE. WARNING: CONFIRM THE FIREARM IS UNCHARGED AND UNPRIMED BEFORE CONDUCTING ANY OF THE FUNCTION TESTS.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 5. Function Test For Sidelock Muzzleloaders, printed p.18"
+  },
+  {
+   "phase": "Clear",
+   "title": "Half-cock, open the frizzen, clear the pan",
+   "action": "Bring the hammer back to half cock, tip the frizzen forward off the pan and brush out any priming powder still sitting in it. Until the pan is empty the rifle is a primed gun, and the pan is the only place you can see that from.",
+   "quote": "Flintlock models: With the gun pointed in a safe direction, upward and down range, move the hammer to the half-cock position. Tilt frizzen (striker) forward to expose the pan and clear of any residue powder from firing.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 11. Depriming Your Muzzleloader After Firing, printed p.30"
+  },
+  {
+   "phase": "Clear",
+   "title": "Mark the ramrod where it leaves the muzzle",
+   "action": "Run the ramrod all the way down the bore and put a mark on it level with the muzzle. Keep the same jag or tip on the rod every time you do this or the mark means nothing.",
+   "quote": "1. Insert the ramrod down the bore of the barrel and mark it at the point where it exits the muzzle. In the event that the ramrod completely enters the barrel, take note of the distance between the end of the ramrod and the muzzle.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 5. Function Test For Sidelock Muzzleloaders, printed p.18"
+  },
+  {
+   "phase": "Clear",
+   "title": "Read the mark against the breech end",
+   "action": "Lay the marked rod alongside the barrel with the mark at the muzzle and look at where the far end lands. Two inches short of the touch hole is the tell that something is down there.",
+   "quote": "2. Remove the ramrod and lay it alongside the barrel. 3. Align the reference mark on the ramrod even with the end of the muzzle. If the gun is unloaded, the other end of the ramrod should be even with the nipple of a percussion gun or touch hole area of a flintlock. If it is significantly higher (2'') than that, the barrel is probably either obstructed or loaded. In either case, this situation must be resolved before continuing with the loading and shooting procedures.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 5. Function Test For Sidelock Muzzleloaders, printed p.18"
+  },
+  {
+   "phase": "Clear",
+   "title": "A charged barrel is not cleared by firing it",
+   "action": "If the rod says the barrel is loaded or obstructed, stop. Traditions sends you to the uncharging procedure — barrel out of the stock, breech end soaked, ball puller on the rod — and expressly not to the range.",
+   "quote": "4. If you find an obstruction, please consult the \"Unloading & Uncharging Your Rifle\" section of this manual. Do not attempt to clear the barrel by firing.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 5. Function Test For Sidelock Muzzleloaders, printed p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "This strip is owed after every session, not occasionally",
+   "action": "Black powder fouling is hygroscopic and starts pitting steel the same evening. The field disassembly below is the routine one: barrel out of the stock, ignition parts out, everything cleaned and oiled.",
+   "quote": "The field disassembly procedure is most often used for general cleaning, lubrication and inspection of your rifle. It must be completed after each shooting session. This procedure allows for quickly cleaning, lubrication and inspection of all important parts and assemblies.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — Field Cleaning & Disassembly Procedure, printed p.38"
+  },
+  {
+   "phase": "Strip",
+   "title": "Find out which way YOUR barrel is held in",
+   "action": "Traditions builds sidelocks two ways and the book will not tell you which one you own — it tells you to look. A hooked breech pivots out of the tang; an integral tang is screwed to the barrel and lifts straight up. Identify yours before you tap anything.",
+   "caution": "Traditions™ barrels are held in place by one of two methods. Select the appropriate procedure for your gun.",
+   "quote": "Traditions™ barrels are held in place by one of two methods. Select the appropriate procedure for your gun.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — Disassembly Procedure, printed p.40"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hooked breech: wedges out, tang screw out, muzzle up",
+   "action": "Ramrod out first. Tap the barrel tenon wedge or wedges through from one side and out, back the tang screw out, then lift the muzzle end and let the barrel pivot up on its breech hook. It usually sticks on the first break — steady upward pressure, not a pry bar.",
+   "quote": "FOR HOOKED-BREECH MODELS 1. Remove ramrod. 2. Gently tap barrel tenon wedge(s) through and out of the barrel and stock. 3. Remove tang screw. 4. Remove barrel from stock by lifting the muzzle end of the barrel upward and out of the stock and pivoting around the breech as you elevate the front of the barrel from the stock. It may require a little force to initially break the barrel free of the stock.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — Disassembly Procedure, printed p.40"
+  },
+  {
+   "phase": "Strip",
+   "title": "Integral tang: tenon pins out, tang screw out, lift",
+   "action": "Ramrod out, then drive the tenon pins out of the forend the way they went in and take care of the wood on the exit side. Back out the tang screw at the very rear of the barrel and lift the barrel clear.",
+   "quote": "FOR INTEGRAL TANG MODELS 1. Remove ramrod. 2. Carefully tap barrel tenon pins to drive them out the opposite side of the forend. Take care not to damage the stock. 3. Remove tang screw located at the very back end of the barrel. 4. Lift barrel from stock. Light tapping may be necessary to initially break the barrel free of the stock.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — Disassembly Procedure, printed p.40"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stop here: the bolster, drum and breech plug stay in the barrel",
+   "action": "This is the one operation Traditions forbids on this gun. The bolster or drum and the breech plug are torqued to interlock with each other, and backing either out breaks that lockup. Clean the fire channel through the touch hole liner's seat instead — that is the access the maker provides.",
+   "quote": "Important: Never remove the bolster/drum or breech plug from the barrel. They have been installed at the factory such that they interlock with each other for maximum lockup strength. The removal or alteration of these key parts will compromise the performance of your gun, void your warranty, and can create an unsafe situation.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — General Cleaning, printed p.39",
+   "warn": "The removal or alteration of these key parts will compromise the performance of your gun, void your warranty, and can create an unsafe situation."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Barrel, stock with the lock in it, and the ramrod: that is the whole field strip on a sidelock, and it is as far as this manual goes. Everything past this point is cleaning. Deep Clean covers taking the lock out of the stock, the ignition consumables, and the function test Traditions requires afterwards.",
+   "quote": "WARNING: NEVER DISASSEMBLE YOUR FIREARM beyond the instructions outlined in this manual. Improper disassembly or reassembly of your firearm may create a dangerous situation which can lead to serious injury or death to you or others or also the destruction of property.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 1. Your Safety Responsibilities, printed p.6",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Open the ignition path before you wet anything",
+   "action": "Back the touch hole liner out of the barrel. With that open the barrel has a second hole, which is what lets solvent flow through instead of hydraulicking against a dead end.",
+   "quote": "1. Remove the nipple and clean-out screw from the bolster/drum of a percussion gun or the touch hole liner from a flintlock.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — General Cleaning, printed p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "Pump solvent down the muzzle and out the breech",
+   "action": "Patch on a jag on a rod, and pump warm soapy water or black powder solvent down the bore until it runs out of the touch hole at the breech. Fouling from black powder is water-soluble, which is why plain hot soapy water works here and does not on smokeless.",
+   "quote": "2. Wrap a cleaning patch around a loading jag attached to a ramrod. 3. Pump warm soapy water or a black powder solvent down the muzzle and out the hole(s) in the breech end of the gun.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — General Cleaning, printed p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "Pipe-cleaner the fire channel, then rinse and dry",
+   "action": "Work a pipe cleaner into the fire channel in the bolster or drum until it comes out clean — this is the passage that carries the flash into the charge, and a plugged one is the usual cause of a misfire. Rinse the barrel and dry it.",
+   "quote": "4. Insert a pipe cleaner into the bolster/drum fire channel to help remove any residue. 5. Rinse and dry barrel.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — General Cleaning, printed p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stand the barrel breech-down and draw solution through it",
+   "action": "Set the barrel breech end down in a pail of solution and pump a patched jag up and down the bore. The barrel becomes a syringe: the suction pulls solution up through the breech and past the fouling instead of just wiping it around.",
+   "quote": "1. An easy procedure is to stand the barrel in a pail of cleaning solution, breech end down. 2. With a cleaning patch on a loading/cleaning jag attached to the end of a ramrod, draw the solution in and out of the barrel by means of a pumping action to create suction.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — Cleaning Process, printed p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe the outside, rinse warm, dry it immediately",
+   "action": "Wipe every exterior surface with a cloth in the same solution, rinse the barrel with warm water and dry it without pausing. The warm rinse is doing work — a hot barrel flashes off its own moisture, and a barrel left wet while you make tea is a rusted barrel.",
+   "quote": "3. Wipe the exterior surfaces of the barrel and the rest of the gun with a cloth dipped in the same cleaning solution. 4. Rinse the barrel with warm water and immediately dry the barrel.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — Cleaning Process, printed p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "Oil every metal surface, the inside of the lock plate included",
+   "action": "Once the parts are dry, put a light film of rust preventative or gun oil on all the metal. The inside of the lock plate is called out by name because it is the surface everybody forgets and the one closest to the flash.",
+   "quote": "6. When the gun parts are dry, treat all metal surfaces, including the inside of the lock plate, with a light coating of a rust preventative or gun oil. Reassemble. 7. Store the gun in a cool, dry place which can be securely locked. Storage in a gun case is not recommended. It may retain moisture and hasten corrosion.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — Cleaning Process, printed p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lube the threads before they go back in",
+   "action": "Put WonderLube on the touch hole liner threads before you reinstall it. Black powder residue in a dry thread seizes, and the next person to try to remove it rounds it off instead.",
+   "quote": "CAUTION: Each time the gun is cleaned, be sure to remove both the clean-out screw from the end of the bolster/drum and the nipple. (On flint-lock models remove the touch hole.) Clean the fire channel in the bolster with a pipe cleaner or the like. Reinstall the clean-out screw and nipple (or touch hole). Be sure to always lube the threads of the clean-out screw, nipple or touch hole liner with WonderLube to insure their easy future removal.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — Cleaning Process, printed p.41"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Take the lock out without losing the ramrod spring",
+   "action": "The lock plate and trigger assembly come out of the stock for a full clean. Traditions warns that on most models the ramrod retaining spring is trapped under the forward lock screw — loosen that one only partly, tape its head so it cannot back out, then remove the other screw and lift the lock.",
+   "quote": "5. The lock plate and trigger assembly can be removed from the stock, as well as the other metal components. Note: Lock Removal Hint On most models the ramrod retaining spring is attached to the stock by the lock plate screw closest to the barrel tenon pin or wedge. If that lock plate screw is unscrewed entirely, the spring may become dislodged in the stock. As a preventative measure, partially loosen that lock plate screw. Place a piece of tape over screw head to hold the screw (and ramrod retaining spring) in place. Unscrew the remaining lock plate screw. Remove the lock from the stock.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — Cleaning Process, printed p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "Coat the ignition threads on a schedule",
+   "action": "The book asks for this before first firing and on a regular basis afterwards, whenever a new touch hole liner goes in. It is the difference between a part that unscrews with a wrench and one that has to be drilled out.",
+   "quote": "Caution: Before loading and firing your new Traditions™ gun for the first time, remove the nipple and clean-out screw from the bolster or the touch hole liner from the flintlock and coat the threads of each with Traditions™ WonderLube.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — Field Cleaning & Disassembly Procedure, printed p.38"
+  },
+  {
+   "phase": "Clean",
+   "title": "There is no cap-firing purge on a flintlock — patch the oil out",
+   "action": "Traditions states plainly that the percussion trick of firing caps to blow oil out of the bore has no flintlock equivalent. After oiling, run a progressive series of clean patches down the bore until they come back dry; oil left in the breech is what kills the charge.",
+   "quote": "FOR FLINTLOCK MODELS Unfortunately no similar cleaning procedure exists for a flintlock model. It is best to wipe the interior of the barrel with a progressive series of cleaning patches affixed to the cleaning jag end of a ramrod until as much of the oil and moisture as possible has been removed.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 6. Initial Cleaning, printed p.21"
+  },
+  {
+   "phase": "Clean",
+   "title": "Function test before you call the rifle done",
+   "action": "Reassembly is not finished until the lock has been proved. Traditions makes this a caution on the disassembly procedure itself, not an optional extra.",
+   "quote": "Caution: Perform a function test as described earlier in this manual to confirm your rifle is fully operational and reassembly was correctly completed.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 15. Cleaning & Maintenance — Detailed Cleaning & Disassembly Procedure, printed p.40"
+  },
+  {
+   "phase": "Clean",
+   "title": "Run the hammer and trigger test",
+   "action": "Half cock first and try the trigger — nothing should move. Then full cock and push forward on the hammer; it must stay put. Finally, with the rifle empty and pointed somewhere safe, pull the trigger and let the hammer fall, and check it lands square on the frizzen area.",
+   "quote": "1. Cock the rifle by rotating the hammer rearward until you hear a metallic click and the hammer is locked into place. This means the rifle is now half-cocked and the safety feature is engaged. 2. Pull the trigger to ensure that the half-cock setting has arrested the pivoting ability of the trigger, as well as the hammer's ability to rotate forward. 3. Rotate the hammer to the fully cocked position. 4. Push forward on the rear of the cocked hammer. The hammer should remain in place and does not fall. 5. While empty and pointed in a safe direction, pull trigger in a rearward motion and hold. Hammer should now fall forward impacting the nipple (or frizzen area on a flintlock).",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 5. Function Test For Sidelock Muzzleloaders — Function testing the Hammer & Trigger, printed p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "Leave the lock adjustment alone unless it misbehaves",
+   "action": "There is a sear engagement screw on the tumbler and it is set at the factory. Turning it the wrong way produces a hair trigger — a lock that fires off the half-cock notch or from a jar. If the lock passed the test above, do not touch the screw.",
+   "quote": "If the lock of your gun functions properly as described in the Loading and Shooting Instructions, do not attempt to adjust it.",
+   "cite": "Safety & Instruction Manual For Sidelock Muzzleloaders — no FIT code, no revision and no copyright line printed anywhere; sha256 945c5bf07f41d451 — 4. Learning The Basics Of The Sidelock Muzzeloader — Lock Adjustment, printed p.17"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "Bore",
+   "tasks": [
+    "Pump warm soapy water or black powder solvent from the muzzle through the breech",
+    "Stand the barrel breech-down in solution and draw it through with a patched jag",
+    "Rinse with warm water and dry the barrel immediately",
+    "Dry-patch until the patches come out clean",
+    "Leave a light film of rust preventative or gun oil in the bore"
+   ]
+  },
+  {
+   "name": "Ignition system",
+   "tasks": [
+    "Back the touch hole liner out before wetting the bore",
+    "Pipe-cleaner the fire channel in the bolster or drum until it runs clean",
+    "Lube the touch hole liner threads with WonderLube on reinstallation"
+   ]
+  },
+  {
+   "name": "Lock and metalwork",
+   "tasks": [
+    "Wipe every exterior surface with a cloth dipped in the cleaning solution",
+    "Oil all metal surfaces including the inside of the lock plate",
+    "Check the ramrod retaining spring is still captured on the forward lock screw",
+    "Perform the hammer and trigger function test after reassembly"
+   ]
+  },
+  {
+   "name": "Storage",
+   "tasks": [
+    "Store cool, dry and locked — not in a gun case, which holds moisture",
+    "During long storage, check the bore and the outside for pitting and rust"
+   ]
+  }
+ ],
+ "reassembly": [
+  "If the lock came out, set it back into its mortise and start both lock plate screws by hand; make sure the ramrod retaining spring is captured on the forward screw before either screw is tightened.",
+  "Reinstall the touch hole liner with its threads lubed and seat it without forcing — the threads are in the barrel and they do not forgive cross-threading.",
+  "Set the barrel back into the stock breech first, hooking or seating the breech as your model requires, then start the tang screw before anything else is tightened.",
+  "Tap the barrel tenon wedges or tenon pins back in from the side they were driven out of, and no further than flush.",
+  "Return the ramrod to its thimbles.",
+  "Traditions asks for a function test at this point to confirm the rifle is fully operational and that reassembly was correctly completed."
+ ],
+ "fncheck": "Half cock and pull the trigger — the hammer must not move and the trigger must not pivot. Full cock and push forward on the hammer — it must stay locked. Then, empty and pointed somewhere safe, let the hammer fall and confirm it lands in line with the priming system. Traditions treats this test as part of reassembly, not as an afterthought."
+}

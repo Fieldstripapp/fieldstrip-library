@@ -1,0 +1,103 @@
+{
+ "row": "rugersingleten",
+ "make": "Ruger",
+ "model": "Single-Ten",
+ "sourcedFrom": "Ruger New Model Single-Six, Single-Ten, Single-Nine & Hunter Instruction Manual — PM055 (2024)",
+ "sourceSha256": "fe2754b53793503bbe4addbc2dffba81a1dc9ff084ff84cf6e7f577a74d1cbd6",
+ "cleanIntro": "Gate open, base pin out, cylinder out — the whole routine strip. The Deep Clean path carries Ruger’s further teardown, including its warning about the rear sight springs.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Gate open, check every chamber",
+   "action": "Point the revolver in a safe direction, open the loading gate — this lowers the cylinder latch into the frame — and rotate the cylinder, examining every chamber a few times. Leave the gate open.",
+   "prose": "Ruger says a few times, not once. Rimfire cases are small and easy to miss.",
+   "quote": "Examine every chamber in the cylinder a few times to be certain the revolver is unloaded. Leave the loading gate open.",
+   "cite": "Ruger New Model Single-Six, Single-Ten, Single-Nine & Hunter Instruction Manual — PM055 — Disassembly, step 1, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Withdraw the base pin",
+   "action": "Press in fully on the left side of the base pin latch and, holding it there, pull the base pin forward in line with the barrel until it comes out.",
+   "prose": "In line with the barrel — angling it binds the pin in its bore.",
+   "quote": "Press in fully on the left side of the base pin latch, and while holding it in that position, withdraw the base pin by pulling it forward, in line with the barrel, until it is removed.",
+   "cite": "Ruger New Model Single-Six, Single-Ten, Single-Nine & Hunter Instruction Manual — PM055 — Disassembly, step 2, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cylinder out",
+   "action": "Remove the cylinder from the loading gate side of the frame.",
+   "prose": "Out through the right-hand side, where the gate is standing open.",
+   "quote": "Remove the cylinder from the loading gate side of the frame. This is as far as you need to go for routine cleaning.",
+   "cite": "Ruger New Model Single-Six, Single-Ten, Single-Nine & Hunter Instruction Manual — PM055 — Disassembly, step 3, p.21",
+   "warn": "Never remove, replace or carry a loaded cylinder that is not installed in a revolver. The cartridges can fire if their primers are struck.",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Know the parts before you start",
+   "action": "Ruger asks you to read the disassembly directions and study the illustrations and parts list before taking this revolver apart.",
+   "prose": "Few parts, but they come out in an order and go back in one.",
+   "quote": "Know the names and location of the parts before removing any of them.",
+   "cite": "Ruger New Model Single-Six, Single-Ten, Single-Nine & Hunter Instruction Manual — PM055 — Disassembly, preamble, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Ejector housing off — hold it",
+   "action": "Wrap one hand firmly around the barrel and housing before you loosen the ejector housing screw, then lift the housing away from the barrel.",
+   "prose": "The housing holds a compressed spring and the ejector rod. Your hand around it is the only thing keeping it together when the screw lets go.",
+   "caution": "Spring under tension. Keep it pointed away from your face.",
+   "quote": "Wrap one hand firmly around the barrel and housing when loosening the ejector housing screw.",
+   "cite": "Ruger New Model Single-Six, Single-Ten, Single-Nine & Hunter Instruction Manual — PM055 — Disassembly, Ejector Assembly/Ejector Housing, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Re-glue the ejector housing screw",
+   "action": "That screw came out of thread-locking adhesive. Put a non-permanent thread locker back on it.",
+   "prose": "Skip it and the screw walks out under recoil.",
+   "quote": "The ejector housing screw is installed with a thread-locking adhesive. If the screw is removed it is recommended that a non-permanent thread-locking adhesive be reapplied to the screw.",
+   "cite": "Ruger New Model Single-Six, Single-Ten, Single-Nine & Hunter Instruction Manual — PM055 — Disassembly, Ejector Assembly/Ejector Housing, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Base pin latch, nut and spring",
+   "action": "Hold the nut firmly with jaw-protected pliers while unscrewing the latch, and do not lose the spring. On reassembly the nut and spring go on the LEFT side of the frame.",
+   "prose": "Jaw-protected, because bare pliers mark the nut and the frame behind it.",
+   "quote": "The nut must be held firmly (with jawprotected pliers) while the latch is being unscrewed.",
+   "cite": "Ruger New Model Single-Six, Single-Ten, Single-Nine & Hunter Instruction Manual — PM055 — Disassembly, Base Pin Latch/Nut and Spring, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Leave the rear sight alone unless you must",
+   "action": "The rear sight can come off by drifting out the pivot pin and removing the elevation screw — but Ruger advises against it.",
+   "prose": "If you do remove it, a tiny dab of gun grease in the sight base recesses holds the elevation springs upright while the pivot pin goes back in.",
+   "quote": "Unless it is essential, the rear sight should not be removed because there is the risk of losing the very small elevation springs.",
+   "cite": "Ruger New Model Single-Six, Single-Ten, Single-Nine & Hunter Instruction Manual — PM055 — Disassembly, Rear Sight, p.21"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBERS",
+   "tasks": [
+    "With the cylinder out, run a solvent-coated patch through the bore several times",
+    "Push a correctly sized bronze brush the full length of the bore, then swab and dry-patch until clean",
+    "Clean each chamber the same way, and the face of the cylinder"
+   ]
+  },
+  {
+   "name": "BASE PIN & FRAME",
+   "tasks": [
+    "Wipe the base pin and its bore in the frame clean and dry — grit here is what makes a base pin hard to seat",
+    "Clean the frame window and the recoil shield face",
+    "Light oil only"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the cylinder through the loading gate side of the frame.",
+  "Slide the base pin back in, in line with the barrel, until the latch snaps fully over it.",
+  "If the action feels wrong afterwards, seat the base pin again — Ruger names an unseated base pin as the first thing to check."
+ ],
+ "fncheck": "With every chamber confirmed empty: the cylinder should spin freely with distinct clicks as the pawl indexes it, the hammer should not cock with the gate open, and the gate should not open with the hammer cocked."
+}

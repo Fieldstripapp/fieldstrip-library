@@ -1,0 +1,69 @@
+{
+ "row": "rugersilentsr",
+ "make": "Ruger",
+ "model": "Silent-SR",
+ "sourcedFrom": "Ruger Silent-SR Sound Suppressor Instruction Manual — PM386 (undated on cover)",
+ "sourceSha256": "e73b6a0ee3d8a6dea52ad2af128fd670a763abfeb96e607b28caa84722ae8a31",
+ "cleanIntro": "A serviceable rimfire can: it comes apart, and it is meant to. Ruger’s own caution comes first — do not open a dirty suppressor unless you are going to finish the job.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Host clear, and commit to finishing",
+   "action": "Clear the host firearm completely first. Then decide: once this can is open you are cleaning it.",
+   "prose": "Ruger states this outright, in capitals. A part-cleaned can reassembled dirty is worse than one left alone.",
+   "quote": "DO NOT DISASSEMBLE A DIRTY SUPPRESSOR UNLESS YOU PLAN ON CLEANING IT.",
+   "cite": "Ruger Silent-SR Sound Suppressor Instruction Manual — PM386 — Cleaning, p.8",
+   "warn": "Once fired, suppressors contain a great deal of lead residue."
+  },
+  {
+   "phase": "Strip",
+   "title": "End caps off",
+   "action": "Using the provided disassembly tool, remove the front and rear caps.",
+   "prose": "The tool that came with the can is the tool for the job — the caps are thin-walled and a wrench marks them.",
+   "quote": "Using the provided disassembly tool, remove the front and rear caps.",
+   "cite": "Ruger Silent-SR Sound Suppressor Instruction Manual — PM386 — Disassembly, step 1, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Baffle stack out",
+   "action": "Slide the entire baffle stack out of the rear of the suppressor tube. If it is stubborn, tap or push it through with a wooden dowel.",
+   "prose": "Wooden, so nothing steel touches the baffles or the bore of the tube.",
+   "quote": "Slide the entire stack of baffles out of the rear of the suppressor tube. If necessary, you may tap or push the baffle stack with a wooden dowel.",
+   "cite": "Ruger Silent-SR Sound Suppressor Instruction Manual — PM386 — Disassembly, step 2, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Separate the baffles — keep the order",
+   "action": "Snap each baffle apart from the next, by hand where you can. A hex key or punch in the apertures will pry them apart if carbon has locked them.",
+   "prose": "Lay them out in the order they came off. Baffles are directional and the stack goes back the way it came.",
+   "quote": "Each component of the baffle stack will need to be snapped apart from the others.",
+   "cite": "Ruger Silent-SR Sound Suppressor Instruction Manual — PM386 — Disassembly, step 3, p.7",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "The Silent-SR baffle strip IS the full disassembly Ruger documents — caps off, stack out, baffles separated. There is no further level published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BAFFLES",
+   "tasks": [
+    "Clean each baffle individually with a solvent suited to lead and carbon",
+    "Work wet and wear gloves — a fired can holds a great deal of lead residue",
+    "Keep the stack in order as you clean; baffles are directional"
+   ]
+  },
+  {
+   "name": "TUBE & REAR CAP — MATERIAL LIMITS",
+   "tasks": [
+    "The tube is titanium and the rear cap aluminum",
+    "Do NOT ultrasonically clean these, and do not scrub them with a steel brush",
+    "Do not use chemicals corrosive to aluminum or titanium",
+    "A soft brass, plastic or cotton brush is what Ruger permits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Reassemble the baffle stack in its original order and orientation.",
+  "Slide the stack back into the tube and fit both caps with the provided tool."
+ ],
+ "fncheck": "With the can reassembled, sight through the bore path against the light — daylight straight and centred — before it goes back on a host."
+}

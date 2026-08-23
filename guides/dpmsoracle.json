@@ -1,0 +1,151 @@
+{
+ "row": "dpmsoracle",
+ "make": "DPMS",
+ "model": "Oracle",
+ "sourcedFrom": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages (UNKNOWN — not printed in the document)",
+ "sourceSha256": "f20fd928a7a6b703e4105e32556985f5ae993e13740cd2d60b4f131a1a583cf5",
+ "cleanIntro": "DPMS's own .223 procedure, which is the military pattern done their way: rear takedown pin, pivot pin, receivers apart, then the bolt carrier group broken down on the bench. DPMS stops it at the extractor and says so in capitals — past that point the book sends you to the factory.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Unloaded and confirmed before a pin moves",
+   "action": "Magazine out, charging handle back, and look into the chamber — then let the bolt go home before you start on the pins. DPMS's .30 caliber section states the condition outright and it governs here too: nothing in this strip is safe to begin on a rifle you have not just checked yourself.",
+   "prose": " ⚠ Cited to the .223 block, which is this rifle's own: DPMS prints this condition at the head of BOTH caliber blocks, and the two field strips are not interchangeable.",
+   "aside": "Both of this book's field strips assume a cleared rifle. The .223 block relies on the general handling cautions at the front rather than repeating it.",
+   "quote": "Make sure your rifle is unloaded, with no ammunition in the chamber.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, opening condition, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear takedown pin pressed from the left",
+   "action": "Press the takedown pin in from the left side of the lower and pull it out to the right until it stops. It is captive — it comes to a positive stop and stays in the receiver. A new rifle can be tight enough that DPMS expects you to reach for a punch, and that is normal rather than a sign something is wrong.",
+   "quote": "Press take down pin in from left of lower receiver (it may be necessary to use a punch as the fit between upper and lower may be very tight). Pull it out the right side until it comes to a positive stop.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, step 1, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lower pivoted open on the front pin",
+   "action": "Swing the lower down and away from the upper. The rifle hinges open on the front pivot pin — do not try to pull the receivers apart yet, nothing has released them.",
+   "quote": "Pivot lower receiver down and away from upper portion of receiver.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, step 2, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front pivot pin out, receivers separated",
+   "action": "Press the front pivot pin in from the left and draw it out to the right to its stop, then lift the two halves apart. Same captive behaviour as the rear pin: it stops rather than falling free.",
+   "aside": "You can now separate the upper and lower receivers.",
+   "quote": "Press front pivot pin in from left side of lower receiver and pull out right side until it comes to a positive stop.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, step 3, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier group drawn out on the charging handle",
+   "action": "Pull the charging handle to the rear and the bolt and carrier come back with it, out of the upper. Take them off the handle once they clear.",
+   "quote": "Pull charging handle to rear and remove bolt and carrier assembly.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, step 5, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle back to its keyway and down out",
+   "action": "With the carrier off it, run the charging handle back until its lugs reach the keyway cut in the receiver, then drop it down and out. It only releases at that one point — it will not come out anywhere else along its travel.",
+   "quote": "Remove charging handle by pulling it backwards to key way and down out of receiver.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, step 6, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin pushed out right to left",
+   "action": "Push the small retaining pin through the carrier from right to left and pull it clear on the left side. DPMS prints a warning beside this step about the pin itself: do not open or close the split end. Spreading it is how it stops holding.",
+   "caution": "DO NOT OPEN OR CLOSE SPLIT END OF PIN — the manual's own caption at this step. The retaining pin holds by spring tension in its split end.",
+   "aside": "The manual reads 'right-toleft' at this point; that is the printed text, and it means right to left.",
+   "quote": "Push in firing pin retaining pin right-toleft of bolt carrier and remove it by pulling it out to the left.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, step 7, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt face up, firing pin dropped out the rear",
+   "action": "Turn the carrier so the bolt face points up and let the firing pin fall out of the back of the carrier. Catch it — DPMS puts that in capitals for a reason. It drops free with nothing retaining it once the pin is gone.",
+   "aside": "Drop firing pin out rear of bolt carrier. CATCH IT!",
+   "quote": "Tilt bolt face up and remove firing pin.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, step 8, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt pushed in, cam pin turned a quarter and lifted",
+   "action": "Push the bolt into the carrier until it rotates and stops, then give the cam pin a quarter turn and lift it straight out. The bolt has to be pushed in first — the cam pin will not clear the carrier key with the bolt extended.",
+   "aside": "Remove cam pin by lifting it out away from bolt and carrier.",
+   "quote": "Push bolt in towards the carrier until it rotates and comes to a stop, then turn cam pin 90°.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, step 9, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt drawn forward out of the carrier",
+   "action": "With the cam pin out, pull the bolt straight forward out of the front of the carrier. That is the carrier group apart.",
+   "quote": "Pull bolt forward out of carrier.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, step 11, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor pin out, extractor and spring off — spring stays on",
+   "action": "Drift the extractor pin out of the bolt with a punch and lift the extractor and its spring off. Do not pull the spring off the extractor: DPMS says so in capitals, because the spring has a rubber insert that is easy to lose and the assembly is designed to be handled as one piece. Press the rubber tip to check the spring still has life in it.",
+   "caution": "DO NOT remove the spring from extractor.",
+   "aside": "Press top of extractor spring rubber tip to test spring function.",
+   "quote": "With a punch, remove the extractor pin from the bolt assembly.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, steps 13-15, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and spring eased out of the receiver extension",
+   "action": "This one is under load. Press the buffer in and keep the pressure on, depress the buffer retainer, then let the buffer and spring come forward under control — depressing the hammer so they can travel all the way out. Let go early and the retainer launches the buffer across the room.",
+   "caution": "The buffer spring is compressed in the receiver extension. Keep positive pressure on the buffer the entire time the retainer is down.",
+   "quote": "Depress buffer, maintaining pressure as buffer is under spring tensions, to prevent it from being ejected when buffer retainer is depressed.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, step 12, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Handguards off the delta ring — and that is the end of it",
+   "action": "Push the delta ring back toward the receiver and lift one handguard half away, then repeat for the other. That completes the strip DPMS publishes. The book then stops, in capitals: further disassembly is factory work, and anything beyond this goes to a competent gunsmith.",
+   "quote": "To remove handguards, push delta ring towards receiver while pulling up on half of the handguard. Repeat process for other half of handguard.",
+   "cite": "DPMS/Panther Arms Operations Manual — .223 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .223 Caliber, Field Stripping/Disassembly, step 16, p.13",
+   "warn": "FURTHER DISASSEMBLY SHOULD ONLY BE PERFORMED BY THE FACTORY (DPMS). Do not strip your firearm further than previously described.",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "DPMS publishes exactly one teardown for this caliber and it is the one above — sixteen steps ending at the extractor and the handguards. The book then halts in capital letters: FURTHER DISASSEMBLY SHOULD ONLY BE PERFORMED BY THE FACTORY (DPMS), with a following note that the rifle should not be stripped further than described and that additional maintenance is for a competent gunsmith. There is no trigger group, hammer, safety selector, gas block, barrel nut or receiver extension procedure anywhere in the forty pages. That is the manufacturer's published DON'T and it stands: no deeper procedure was invented from it.",
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER & LOCKING LUGS",
+   "tasks": [
+    "Brush the bore from the receiver end straight through and out the muzzle or compensator — do not reverse direction while the brush is in the bore",
+    "Clean the chamber and the barrel locking lugs",
+    "Reach the gas tube where it protrudes into the receiver with a worn bore brush, sides and bottom"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Clean the outer and inner surfaces of the carrier and the carrier key",
+    "Clean the firing pin recess and the firing pin itself",
+    "Use a pipe cleaner in the firing pin hole",
+    "Clear powder fouling, corrosion, dirt and rust from every surface"
+   ]
+  },
+  {
+   "name": "RECEIVERS & BUFFER",
+   "tasks": [
+    "Wipe the upper and lower receiver interiors",
+    "Wipe the buffer and check the spring is not kinked or collapsed",
+    "Wipe the charging handle and its channel"
+   ]
+  }
+ ],
+ "reassembly": [
+  "DPMS's own instruction is that the rifle goes back together the way it came apart: reverse the order of the field strip.",
+  "Extractor and spring onto the bolt, extractor pin back through.",
+  "Bolt into the carrier, cam pin in and turned back a quarter, firing pin dropped in with the bolt face up, then the retaining pin from left to right.",
+  "Buffer and spring back into the receiver extension until the retainer catches over the buffer.",
+  "Charging handle into its keyway and forward, then the bolt carrier group in on it and both run home together.",
+  "Close the receivers, seat the front pivot pin, then the rear takedown pin.",
+  "Handguards back over the barrel and let the delta ring snap forward over them."
+ ],
+ "fncheck": "With the rifle confirmed empty and the magazine out, check that the bolt carrier goes fully into battery, that the charging handle latches, and run the function check DPMS prints at the front of the manual before the rifle goes back into service."
+}

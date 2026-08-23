@@ -1,0 +1,57 @@
+{
+ "row": "rugerprecisionrimfire",
+ "make": "Ruger",
+ "model": "Precision Rimfire",
+ "sourcedFrom": "Ruger Precision Rimfire Instruction Manual — PM697 (2026)",
+ "sourceSha256": "9130844260bddda69b91cc7165c50d1eda7f06ab729fd84810f6957625af466e",
+ "cleanIntro": "One control does the whole strip on a Precision Rimfire: depress the bolt stop and the bolt slides out.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear it and drop the magazine",
+   "action": "Point the rifle in a safe direction, remove the magazine, open the bolt and confirm the chamber is empty.",
+   "prose": "Magazine first, then chamber, then anything else.",
+   "quote": "Remove the bolt from the rifle by depressing the bolt stop and sliding the bolt out of the firearm.",
+   "cite": "Ruger Precision Rimfire Instruction Manual — PM697 — Disassembly, p.16",
+   "warn": "Rifle must be unloaded prior to disassembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out at the bolt stop",
+   "action": "Depress the bolt stop and slide the bolt out of the rifle.",
+   "prose": "That is the strip. Nothing else is published for cleaning.",
+   "quote": "depressing the bolt stop and sliding the bolt out of the firearm.",
+   "cite": "Ruger Precision Rimfire Instruction Manual — PM697 — Disassembly, p.16",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "PM697 documents bolt removal as the disassembly. Nothing past it is published, so this listing has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Solvent patch, correctly sized brush, then dry patches until clean",
+    "Rimfire fouling is waxy and builds fast — the chamber needs as much attention as the bore",
+    "Clean from the chamber end where the design allows"
+   ]
+  },
+  {
+   "name": "BOLT / ACTION",
+   "tasks": [
+    "Wipe the bolt face and around the extractor",
+    "Clean the receiver raceways and the magazine well",
+    "Light oil on bearing surfaces only"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Wipe magazine bodies dry — no oil where ammunition sits"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Depress the bolt stop and insert the bolt into the receiver, closing the bolt handle fully down."
+ ],
+ "fncheck": "With the magazine out and chamber confirmed empty, check the safety blocks the trigger and the bolt closes fully."
+}

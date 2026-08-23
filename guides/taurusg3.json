@@ -1,0 +1,162 @@
+{
+ "row": "taurusg3",
+ "make": "Taurus",
+ "model": "G3",
+ "sourcedFrom": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "dc569dc6df8c9770484c10087fd3544a3d662a649d45eb1fd6d02c5bb84c2e2e",
+ "cleanIntro": "One Taurus book covers the G3 and the G3c together and separates them in exactly one place - the specifications table - so before anything else, establish which of the two is on your bench. The G3 is the full-size gun: 4-inch barrel, 7.28 inches overall, 15+1 or 17+1 rounds of 9mm Luger. Taurus publishes a five-step field strip for it and says the pistol is cleaned and lubricated with those steps and no others, every 200 rounds.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Confirm it is the G3, not the G3c",
+   "action": "Read the slide and the magazine before you start. The G3 is the 4-inch gun at 7.28 inches overall and 15+1 or 17+1 rounds; the G3c beside it in the same table is 3.27 inches of barrel, 6.20 overall and 12+1. Both are 9mm Luger and both are single action with restrike, so the barrel length and the magazine are what actually tell them apart.",
+   "prose": "This matters more than it looks: the two guns share this manual, share the strip procedure, and do not share a recoil spring assembly or a magazine. A G3 magazine seated in a G3c is the usual way a shooter discovers he has been reading the wrong column. The 17-round G3 body also carries a sleeve as its own part number, which is why a 17-round magazine looks different from a 15 at the floorplate.",
+   "aside": "The G3 is 9mm Luger, and 9mm Luger is one of the four calibers Taurus lists as approved for SAAMI +P use - the list ends 'All firearms chambered in 9mm Luger.' That is permission, not a recommendation; the same page says unless you need +P, do not use it, particularly for practice.",
+   "quote": "Model\nG3 (9mm Luger)\nG3c (9mm Luger)",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Specifications, printed p.15 (PDF p.8)"
+  },
+  {
+   "phase": "Clear",
+   "title": "This book is the G3/G3c book and nothing else",
+   "action": "Do not carry any of what follows across to another Taurus pistol because it looks similar. Taurus prints its own warning about this, and the G3's takedown - slide back an eighth of an inch, latch DOWN, trigger pulled - is not the GX4's quarter-turn takedown pin or the TX22's push-forward slide.",
+   "prose": "The tell is always a control the other gun does not have. If the pistol in your hand has no disassembly latch on the left of the frame above the trigger, it is not a G3 and this procedure will not work on it. Taurus's own remedy is on the same page: their website carries every model's manual.",
+   "quote": "FIREARMS ARE NOT ALL ALIKE\nMany makes and models of firearms might LOOK nearly the same. However, they differ widely in design, operation, and in the location and function of various controls.",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Ammunition, printed p.21 (PDF p.11)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, slide locked back, then look AND feel",
+   "action": "Point the muzzle somewhere safe, finger on the Memory Pad rather than the trigger, thumb the magazine release beside the trigger guard and strip the magazine out. Lock the slide back on the slide catch, then look into the chamber and the magazine well and put a finger into both.",
+   "prose": "The fingertip is not ceremony. A 9mm case head sitting deep in the G3's chamber reads as chamber wall to the eye at bench-light angles, and the loaded chamber indicator on top of the slide is a check, not the check. Order matters as well - magazine first, then the chamber; racking first only feeds a fresh round in.",
+   "quote": "1. Before disassembly always (1) Keep your finger off the trigger and on the memory pad (2) point the muzzle in a safe direction (3) remove the magazine by pressing the magazine release button (4) pull the slide to the rear and locking back and (5) look and feel the magazine well and chamber to confirm the pistol is empty. An empty firearm cannot fire.",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Disassembly, printed p.26 (PDF p.14)",
+   "warn": "After removing the magazine, always check the chamber and make sure it is empty."
+  },
+  {
+   "phase": "Clear",
+   "title": "The G3 has no magazine disconnect - an empty well is not an empty gun",
+   "action": "Treat the pistol as live until you have seen and felt the chamber, even with the magazine on the bench. Taurus states outright that these pistols will fire with the magazine removed, so the magazine coming out changes nothing about the round that may still be chambered.",
+   "prose": "This is the single most consequential sentence in the G3 book for a cleaning session, because the next thing the procedure asks you to do is pull the trigger. A G3 that was carried chambered, had its magazine dropped and was then 'checked' by feel through the magazine well alone is exactly the gun that goes off at step five.",
+   "caution": "The manual safety is not a substitute either. Taurus says it must be fully engaged to work and the pistol must never be operated with the lever between 'on' and 'off'.",
+   "quote": "These Taurus pistols do not have a magazine disconnect (safety). They are capable of firing with the magazine removed.",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Operating Instructions, printed p.24 (PDF p.13)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide back an eighth of an inch, then the disassembly latch DOWN",
+   "action": "Wrap four fingers over the slide with your thumb on the rear of the grip and draw the slide back about 1/8 inch - a shove, not a rack. Hold it there and pull the disassembly latch on the left side of the frame straight down with the other hand, then release the slide forward and release the latch.",
+   "prose": "That eighth of an inch is the whole trick: it takes the slide's takedown notch onto the latch and unloads the latch so it will rotate. Pull the slide too far and the notch runs past, the latch will not move, and people conclude the gun is stuck when they have simply overshot. It should feel like the latch drops with almost no resistance once the slide is in the right place.",
+   "quote": "2. Hold the pistol in your hand in such a way that four fingers rest over the slide and your thumb rests on the rear of the grip. Using the fingers draw back the slide about 1/8\". With your other hand, pull the disassembly latch down. Release the slide. Release disassembly latch.",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Disassembly, printed p.26 (PDF p.14)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pull and release the trigger, then run the slide off the front",
+   "action": "With the pistol confirmed empty and pointed in a safe direction, pull the trigger and let it return. Then push the slide forward off the frame rails - it lifts away at the front, not upward off the back.",
+   "prose": "The trigger press releases the pre-cocked striker so the slide can clear the sear, and there is no way around it on a G3: this is a single-action striker gun and the slide will not come off cocked. It is also why the previous step's chamber check has to have been done properly, because this step's whole content is a deliberate trigger press.",
+   "quote": "3. Pull and release the trigger. Then remove the\nslide from the grip.",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Disassembly, printed p.26 (PDF p.14)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lift the recoil spring assembly out of the barrel's underlug",
+   "action": "Turn the slide upside down and lift the recoil spring assembly clear of its seat on the bottom of the barrel, front end first. Keep a hand cupped over it as it comes out.",
+   "prose": "The G3's assembly is a captured nested pair - internal and external springs on their own guides - so it comes out as one unit and must never be taken apart. It leaves the seat with a small snap once the tension breaks; that snap is what launches it across the room if you are pulling with your fingertips instead of controlling it.",
+   "quote": "4. Release the recoil spring assembly from its position on the bottom of the barrel.",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Disassembly, printed p.26 (PDF p.14)",
+   "warn": "Please take care to prevent the forcible ejection of the recoil spring assembly as the spring is under compression."
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out - forward, then up",
+   "action": "Slide the barrel forward within the slide until the locking lug clears the ejection port cut, then lift it up and out. Forward first and up second; straight up from the seated position binds the lug against the slide.",
+   "prose": "That is the whole field strip: slide, barrel, recoil spring assembly, frame. With the barrel in hand, look down the bore against a light before it goes anywhere near a brush - Taurus's own instruction for an odd-sounding shot is exactly this check, and a lodged bullet is the reason for it.",
+   "aside": "Once the barrel is removed from the slide, look down the bore. If you do not see light, there is something stuck in the bore.",
+   "quote": "5. Remove the barrel from the slide by pulling it to the front and up.",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Disassembly, printed p.26 (PDF p.14)"
+  },
+  {
+   "phase": "Strip",
+   "title": "If yours is a G3 T.O.R.O., the slide cover stays where it is",
+   "action": "Look at the top rear of the slide. On the T.O.R.O. build of the G3 there is a factory-installed slide cover held down by two screws, over an optic cut; on the standard G3 there is no cut and no cover. Clean around it and leave both screws alone as part of a routine strip.",
+   "prose": "The cover is only removed to fit a red dot, and Taurus's own instruction for that is a specific plate from a table of four, Loctite 242 on the threads, 8.2 in-lbs and a 24-hour cure before the pistol is fired. None of that belongs in a cleaning session, and a cover screw run up dry during a wipe-down will back out under recoil.",
+   "caution": "This applies to the T.O.R.O. variant only. A standard G3 slide has no cover and no plate, and nothing on top of it should be unscrewed.",
+   "quote": "The Taurus G3 T.O.R.O. comes with a factory-installed slide cover. The firearm also comes with 4 different adapter plates that allow you to mount a red dot sight on the slide.",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Taurus Optic Ready Mount Install Instructions, printed p.30 (PDF p.16)"
+  },
+  {
+   "phase": "Clean",
+   "title": "What Taurus actually asks of a G3 clean",
+   "action": "Clean and lubricate at least every 200 rounds, and check for loose screws or pins at the same time - the sight screws and the grip's pins are what work loose on this pistol. Then run the checklist: bore and chamber with a brass brush and solvent, a dry patch, a non-abrasive wipe of slide and rails, oil on the rails and lockup points.",
+   "prose": "Two hundred rounds is roughly four boxes; a G3 shot at a match will pass it in an afternoon. The screws-and-pins line is worth taking literally, because the drift-adjustable rear sight is held by a screw and a sight that walks under recoil looks like a shooting problem long before it looks like a maintenance one.",
+   "quote": "We recommend you clean and lubricate your firearm at least every 200 rounds for optimal performance. At the same time check for any lose screws or pins. Tighten the screws and press pins back in as needed.",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Care and Maintenance, printed p.30 (PDF p.16)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel and recoil spring assembly - four pieces, and that is the whole of the G3 field strip. Taurus stops the owner here: anything past this point is a gunsmith's job, so the striker, the firing pin block, the extractor, the sear and the trigger bar all stay inside.",
+   "prose": "The exploded view in the back of the book runs to more than fifty numbered parts, and none of them come with a procedure - it is a parts list for ordering, not an invitation. The one thing beyond the field strip that Taurus does publish is the magazine strip, which is where Deep Clean goes.",
+   "quote": "No further disassembly is recommended unless done by a skilled gunsmith.",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Magazine Disassembly, printed p.28 (PDF p.15)",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Punch the seat, run the floorplate off the front",
+   "action": "Press a punch into the magazine spring seat through the hole in the floorplate and, while it is held down, slide the floorplate toward the FRONT of the magazine - not the rear. Keep a thumb over the plate as it comes free; the spring is compressed under it and will launch the seat if you let go.",
+   "prose": "The G3's 15- and 17-round bodies both come apart this way, and the 17-round body carries a sleeve as a separate part, so expect it to stay with the body rather than the plate. Front is the direction because the retainer's dimple sits toward the rear of the slot - pushing rearward jams it harder.",
+   "quote": "A) Use a punch to press in on magazine spring seat/clip. B) Slide the magazine floor plate toward the front of the magazine as shown in pic 1 and 2. C) Withdraw magazine spring plate and magazine spring",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Magazine Disassembly, printed p.28 (PDF p.15)",
+   "warn": "Wear the eye protection Taurus specifies (ANSI Z87.1+). A magazine spring under compression is the most common eye injury on a cleaning bench."
+  },
+  {
+   "phase": "Clean",
+   "title": "Spring and follower out, body brushed dry",
+   "action": "Withdraw the spring plate and spring, then turn the body upside down and let the follower drop out. Brush the inside of the body dry and wipe the follower - do not oil either; oil in a magazine body is what turns .22-fine grit into a paste that drags the follower.",
+   "prose": "Note which way the spring's closed end faced before it leaves the body, because a G3 spring installed inverted will still fit and will still short-stroke the top round. The follower is handed too - its front edge is the one that lifts under the feed lips.",
+   "caution": "This is the end of the road. Taurus stops the owner here and sends anything further to a skilled gunsmith, so the striker, the sear and the trigger bar are not part of a G3 clean.",
+   "quote": "Take care to prevent the forcible ejection of the magazine spring",
+   "cite": "TAURUS\nG3 + G3c\nINSTRUCTION MANUAL — Rev.3 — Magazine Disassembly, printed p.28 (PDF p.15)"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER & FEED RAMP",
+   "tasks": [
+    "Remove firing residue from the bore and chamber with a properly fitted brass brush dipped in gun cleaning solvent, then finish with a dry cotton patch through the bore",
+    "Work from the chamber end where you can - the barrel is out of the slide, so nothing forces you to drag a rod back past the crown",
+    "Scrub the feed ramp and the outside of the chamber hood, where 9mm carbon bakes hardest",
+    "Hold the barrel up to a light and look through it: no light means an obstruction, and Taurus says the pistol does not get fired in that condition"
+   ]
+  },
+  {
+   "name": "SLIDE INTERIOR, BREECH FACE & EXTRACTOR",
+   "tasks": [
+    "Clean the exterior of the firearm, slide and rails with a non-abrasive cloth and clear dust and residue from small crevices with a small brush",
+    "Pick the carbon ring off the breech face and out from under the extractor claw with a brush, not a screwdriver",
+    "Wipe the inside of the slide where the barrel lugs cam - a bright wear line there is normal, a gritty one is not",
+    "Leave the striker channel alone: it is dry by design and it is behind the slide cap, which is past the limit this book publishes"
+   ]
+  },
+  {
+   "name": "FRAME, RAILS & MAGAZINE",
+   "tasks": [
+    "Lubricate the frame rails and barrel lockup points - a film, not a bead, or it collects the next range trip's grit",
+    "Brush the magazine well out dry and check the ejector and the disassembly latch are clean and unbent",
+    "Wipe magazine bodies down externally and leave the springs dry",
+    "After cleaning, rub the pistol with a lightly oiled cloth",
+    "A pistol with a laser must not go into a well or ultrasonic machine that submerges it"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Place the barrel in the slide and push it to the rearward position.",
+  "Insert the recoil spring assembly into the slide over the barrel, compressing the spring slightly to get it into position - the assembly seats in the barrel's underlug, and it will sit proud and jam the slide if it is a quarter-turn out.",
+  "Run the slide onto the frame rails from the front, pull it fully to the rear and move the slide catch upward to hold it back, then release it.",
+  "Cycle the slide several times with no magazine inserted and no rounds in the chamber to confirm the barrel / slide / frame relationship is correct."
+ ],
+ "fncheck": "With the pistol confirmed empty: the slide should run the full stroke and return fully into battery under spring pressure alone; the slide catch should hold the slide back on an empty magazine and drop it cleanly; the trigger should reset with an audible click as the slide returns; the manual safety must go all the way to 'on' and all the way to 'off' with no middle position; and the loaded chamber indicator should sit flush on an empty chamber. Taurus's own carry advice for these pistols is a full magazine and an empty chamber except in high-threat circumstances."
+}

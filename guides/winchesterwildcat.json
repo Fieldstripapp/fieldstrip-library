@@ -1,0 +1,208 @@
+{
+ "row": "winchesterwildcat",
+ "make": "Winchester",
+ "model": "Wildcat",
+ "sourcedFrom": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "2cdd5d731170ddadd92fb87bc4346a6fce8308c6e987256631f1052f54df771d",
+ "cleanIntro": "The Wildcat is Winchester's straight-blowback .22 autoloader, and its party trick is the strip: the entire fire control group — trigger, hammer, bolt and guide rails, all of it — pivots out of the stock as one unit at the press of a single button, no tools. That leaves the barrel open at the breech through a hole in the rear of the receiver, so a rimfire bore can be cleaned rod-in-from-the-rear, which almost no autoloading .22 allows. Two things below deserve your full attention before you start. First, the disassembly button is under spring pressure until the rifle has been dry fired, so the procedure begins with a deliberate, verified-empty trigger pull — Winchester's instruction, printed in so many words. Second, the rotary magazine never comes apart, and if you run Ruger 10/22-pattern magazines in this rifle, the last-round bolt hold-open stops working — a behavior change worth knowing before it surprises you.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety on — the button behind the trigger guard, pressed to the right",
+   "action": "Press the safety button at the rear of the trigger guard to the right. On safe, the trigger is blocked; pressed left, a red warning band appears on the button's left end and the rifle will fire. Check which way yours is installed before trusting the direction: the Wildcat's safety is reversible for left-hand use and ships in the right-hand position, so a previous owner may have swapped it.",
+   "prose": "Everything in this manual's instructions assumes the right-hand installation. If the red band shows when you press right, yours has been reversed — the logic below mirrors.",
+   "quote": "The “safety” on this rifle is reversible for right- or left-hand operation. It comes from the factory in the right-hand position. Verify the installation of your firearm’s “safety.”",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Operation of the \"Safety\"",
+   "warn": "A reversible safety means the red-band direction depends on how yours is installed. Verify."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out — two releases do the same job, use either",
+   "action": "Drop the rotary magazine with either of the Wildcat's two releases: slide both side releases, on the flanks of the rifle above the magazine, rearward — or hook your index finger on the release tab at the forward edge of the magazine well and pull it to the rear. Either way the box drops into your waiting hand. Then remember what you have not done yet: the chamber can still hold a round, and this rifle fires without a magazine present.",
+   "prose": "The twin releases exist so the magazine drops from a shooting grip or a bench grip alike. Neither one touches the chamber.",
+   "quote": "REMOVING THE MAGAZINE FROM THE RIFLE DOES NOT PREVENT THE RIFLE FROM BEING FIRED. IF A CARTRIDGE IS IN THE CHAMBER, THE “SAFETY” IS IN THE OFF SAFE POSITION, AND THE TRIGGER IS PULLED, THE RIFLE WILL FIRE EVEN IF NO MAGAZINE IS PRESENT IN THE RIFLE.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Magazine",
+   "warn": "An absent magazine is not an empty chamber."
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt back, look in, lock it open",
+   "action": "Pull the bolt handle fully rearward to eject anything chambered, then look into the chamber and confirm it is empty. Lock the bolt open by holding it rearward and pushing up the bolt lock in front of the trigger guard. With the magazine out and the bolt locked back, inspect the chamber, barrel and feed area one more time in good light before anything else happens.",
+   "prose": "The bolt lock is manual insurance: it holds the action visibly, provably open while you work, instead of trusting a spring-loaded bolt to stay where you left it.",
+   "quote": "EVEN WITH THE BOLT OPEN AFTER SHOOTING, DO NOT ASSUME THE RIFLE IS UNLOADED. ALWAYS INSPECT THE CHAMBER, BARREL, FEED MECHANISM AND MAGAZINE TO BE CERTAIN THE RIFLE IS COMPLETELY UNLOADED.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Magazine",
+   "warn": "Look into the chamber. Do not assume."
+  },
+  {
+   "phase": "Clear",
+   "title": "10/22 magazines work — but they cost you the bolt hold-open",
+   "action": "Know which magazines you are running, because it changes how the rifle behaves when it runs dry. Factory Wildcat rotary magazines trip the bolt lock after the last shot, leaving the action open — your visual confirmation the gun is empty. The Wildcat also accepts Ruger 10/22-compatible magazines, and with those the hold-open never trips: the bolt closes on an empty chamber and the rifle looks exactly as it does when loaded.",
+   "prose": "An aftermarket magazine turns 'bolt closed' from information into silence. Clear the rifle by looking, not by what the bolt did.",
+   "caution": "With 10/22-pattern magazines the last-round hold-open does not function.",
+   "quote": "If you are using aftermarket magazines, the bolt will return to the closed position.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Firing"
+  },
+  {
+   "phase": "Clear",
+   "title": "No trigger, safety or firing-mechanism alterations",
+   "action": "Do not alter the trigger, the safety or any other part of the Wildcat's firing mechanism — this manual publishes no owner adjustment for any of them, so the rule has no exception here. Winchester reserves the right to refuse service on altered rifles and specifically disclaims aftermarket trigger systems as parts that may fail SAAMI minimum pull standards.",
+   "prose": "The fire control group comes out as a unit for cleaning, which makes it tempting territory. Out for cleaning is the licensed operation; apart is not.",
+   "quote": "DO NOT, UNDER ANY CIRCUMSTANCES, ALTER THE TRIGGER, \"SAFETY\" OR OTHER PARTS OF THE FIRING MECHANISM OF THIS OR ANY OTHER FIREARM EXCEPT AS OTHERWISE DESCRIBED IN THIS MANUAL.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Firearm Safety, rule 25",
+   "warn": "The fire control group comes OUT as a unit. It does not come APART."
+  },
+  {
+   "phase": "Strip",
+   "title": "Verify empty again — then dry fire to relax the disassembly button",
+   "action": "This is the step that makes or breaks the Wildcat strip, so do it exactly: magazine out, bolt back, look into the chamber and verify it is empty. Then point the rifle in a safe direction, move the safety off safe, and squeeze the trigger to dry fire. That deliberate dry fire is not optional — it releases the spring pressure held against the disassembly button, and the fire control group fights you on the way out until it is done.",
+   "prose": "A trigger pull on a rimfire you have just triple-checked, pointed somewhere safe, is the maker's own procedure. A trigger pull on a rifle you assumed was empty is how accidents read in reports. The whole difference is the verification that came first.",
+   "quote": "AFTER VERIFYING THAT THE CHAMBER IS EMPTY OF ANY AMMUNITION, point the rifle in a safe direction, place the “safety” in the off safe position and squeeze the trigger to dry fire the rifle. Dry firing releases the spring pressure on the disassembly button to make disassembly easier.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Cleaning and Maintenance — CLEANING PROCEDURES, step 4",
+   "warn": "Dry fire ONLY after looking into the empty chamber, muzzle in a safe direction."
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the disassembly button and pivot the fire control group out",
+   "action": "Find the disassembly button at the rear of the action. Press and hold it until the retainer is clear of the upper cover while pulling the trigger guard away from the stock — the whole lower receiver assembly starts to pivot out. As it comes, watch the bolt handle: it pivots to fit through the ejection port, and it may need a small nudge to clear. Keep rotating the group until it is free of the rifle.",
+   "prose": "No tools, one button. If it will not budge, the dry-fire step was skipped and the retainer is still under spring load — go back one step rather than pulling harder.",
+   "quote": "Press and hold the disassembly button at the rear of the action until the retainer is clear of the upper cover while pulling the trigger guard away from the stock. Notice that the bolt handle pivots to allow the bolt handle to fit through the ejection port (Figure 13).",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Cleaning and Maintenance — CLEANING PROCEDURES, step 6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt assembly out of the lower — rearward, then lift",
+   "action": "With the fire control group on the bench, pull the bolt assembly to the rear until it clears the front of the lower receiver assembly, then lift it carefully out. You now have the rifle's entire operating system in two hand-sized pieces: the lower with its trigger group and rails, and the bolt with its extractor and firing pin. This is the full depth of the published strip — neither piece comes apart further.",
+   "prose": "Lay the bolt down the way it came out. At reassembly it lowers back into the lower in the same orientation, and there is only one way it sits naturally.",
+   "quote": "Pull the bolt assembly to the rear until it clears the front of the lower receiver assembly then carefully lift the bolt assembly from the lower receiver assembly (Figure 17).",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Cleaning and Maintenance — CLEANING THE LOWER RECEIVER ASSEMBLY, step 2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the breech — through the hole at the rear of the receiver",
+   "action": "Run a .22-caliber rod and patch in through the hole at the rear of the receiver and work it back and forth through the bore. This breech-end access is the payoff of the whole strip — Winchester points out it is an advantage over other autoloading rimfires, because the rod exits at the muzzle instead of entering there, and the crown stays untouched. A lightweight gun oil handles ordinary fouling; step up to nitro solvent when the bore needs it.",
+   "prose": "Rimfire fouling is soft lead and wax, and it yields to patience rather than force. The crown you are protecting is what keeps this rifle grouping.",
+   "quote": "An advantage of the Winchester Wildcat over other autoloading rimfire rifles is the ability to clean the barrel from the breech end instead of at the muzzle. Cleaning from the breech helps prevent striking and damaging the muzzle crown and degrading accuracy.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Cleaning and Maintenance — CLEANING PROCEDURES"
+  },
+  {
+   "phase": "Clean",
+   "title": "Spray the lower and bolt clean, then oil by the drop",
+   "action": "Spray the lower receiver assembly and the bolt assembly thoroughly with a metal- and polymer-safe aerosol gun solvent to loosen the debris, then chase what remains with a small brush or rag — inside the upper cover in the stock too, where blowback actions throw their soot. Re-oil with single drops of lightweight gun oil at the wear points, and stop there: a very light film is the specification, and a .22's action gums faster than any centerfire when over-oiled.",
+   "prose": "Blowback means every shot vents a little of itself into the action. This spray-and-brush pass is where the rifle's reliability actually lives.",
+   "quote": "Use a small brush or rag to remove dirt or other foreign matter from inside the upper cover, lower assembly and bolt assembly.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Cleaning and Maintenance — CLEANING THE LOWER RECEIVER ASSEMBLY, step 3",
+   "warn": "Oil sparingly — a light film only, never poured."
+  },
+  {
+   "phase": "Clean",
+   "title": "The published limit — and the magazine is on the far side of it",
+   "action": "Fire control group out, bolt out of the lower: that is the whole published disassembly. The bolt does not strip, the trigger group does not open, and the rotary magazine — a torsion-sprung mechanism — is explicitly sealed: Winchester's notice says do not disassemble it, full stop. Its cleaning procedure is spray, shake and dry, covered in Deep Clean. Anything deeper than what is printed here is a gunsmith or the Arnold, Missouri facility.",
+   "prose": "A wound torsion spring in a plastic drum is exactly the kind of thing that does not go back together on a kitchen table. The maker knows it, hence the notice.",
+   "quote": "NOTICE: NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL. YOUR FIREARM IS A SPECIALIZED, FINELY FITTED MECHANISM. YOU MAY PERMANENTLY DAMAGE IT BY ATTEMPTING TO DISASSEMBLE THE INNER MECHANISM.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Cleaning and Maintenance — closing NOTICE",
+   "warn": "No disassembly beyond the printed procedure — and the magazine never opens."
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench: the stock with its upper cover and barrel, the lower receiver assembly with the fire control group, the bolt assembly, and the magazine. Nothing is under load and nothing else comes off. Deep Clean covers the fouling-day bore regimen with brush and solvent, the sealed rotary magazine's spray-and-shake procedure, the rear sight's hex adjustments, and the wipe-down that keeps fingerprints from becoming rust.",
+   "prose": "Four pieces, no tools, and a bore you can clean from the correct end — this is the Wildcat's whole argument as a trainer and truck rifle.",
+   "quote": "Continue to pivot the fire control group until it is free of the rifle. The bolt handle may need to be moved slightly to allow it to pass through the ejection port.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Cleaning and Maintenance — CLEANING PROCEDURES, step 6",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Nitro solvent and the brass brush — through the muzzle before reversing",
+   "action": "When the chamber and bore carry real fouling, saturate a patch with nitro solvent for the first passes, and move to a brass bore brush for what remains: dip or spray the brush with solvent and scrub until the fouling lifts. Push the brush completely through the barrel before drawing it back — reversing inside the bore folds the bristles and snaps them off, and a lodged bristle becomes an obstruction in a bore this small.",
+   "prose": "A .22 bore rarely needs the brush after every outing. When it does, the through-then-back rule is what keeps the cure from becoming the problem.",
+   "quote": "Inspect the chamber and bore for powder fouling. A normal amount of powder residue can be expected and is not serious. It can usually be removed with a patch saturated with nitro solvent.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Cleaning and Maintenance — CLEANING PROCEDURES, step 7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry, oil lightly, then look for the patch you may have left behind",
+   "action": "After the fouling is out, wipe the chamber and bore dry and follow with one lightly oiled patch of fine, light gun oil for preservation. Then inspect the barrel and chamber to be certain no patch stayed behind — on the Wildcat you can do this properly, looking straight through from the open breech with light at the muzzle.",
+   "prose": "The forgotten patch is the oldest bore obstruction there is, and the only defense is deliberately looking.",
+   "quote": "After all fouling has been removed, the chamber and bore should be wiped dry. When the bore is dry, pass a slightly oiled patch through it for preservation. A fine, light gun oil is recommended.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Cleaning and Maintenance — CLEANING PROCEDURES, step 8"
+  },
+  {
+   "phase": "Clean",
+   "title": "The rotary magazine: spray it, shake it, dry it — never open it",
+   "action": "Every 500 to 1,000 rounds, clean each magazine as a sealed unit: spray inside and out with a metal- and polymer-safe solvent to loosen the crud rimfire ammunition sheds, put a finger over the loading port, shake vigorously with the port aimed away from you, and let it air dry or blow it out with compressed air. The torsion drive spring and follower stay inside — Winchester's notice forbids disassembly, and a wound rotary magazine spring does not reinstall on a bench.",
+   "prose": ".22 wax and lead shavings collect in magazines faster than in any other part of a rimfire. This is the procedure that keeps feeding smooth without voiding anything.",
+   "quote": "Frequently inspect magazines to determine the need for cleaning as lubricant and dirt will gradually collect in the mechanism. Normally, the magazine should be cleaned after firing 500 to 1,000 cartridges.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Cleaning and Maintenance — CLEANING THE MAGAZINE",
+   "warn": "DO NOT DISASSEMBLE THE MAGAZINE — spray, shake, dry, done."
+  },
+  {
+   "phase": "Clean",
+   "title": "Ghost ring sight — the 1/20\" hex wrench lives on the rifle",
+   "action": "The Wildcat's rear ghost ring adjusts for windage and elevation with a 1/20-inch hex wrench that ships with the rifle, stored on the right side of the lower receiver assembly — check it is still there while the group is out for cleaning. Loosen the screw on top of the sight, slide the ring toward where you want the point of impact to move (left/right for windage, forward to raise, rearward to lower), and retighten gently.",
+   "prose": "Gently is the operative word — Winchester prints a specific overtightening notice for this screw because the sight and the upper cover are the casualties.",
+   "caution": "The sight wrench stores on the right side of the lower receiver assembly — confirm it is present.",
+   "quote": "NOTICE: TAKE CARE NOT TO OVERTIGHTEN THE REAR SIGHT SCREW, DAMAGE CAN OCCUR TO THE REAR SIGHT AND UPPER COVER.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Sight Adjustment"
+  },
+  {
+   "phase": "Clean",
+   "title": "Exterior wipe-down — fingerprints off, film of oil on",
+   "action": "Wipe all exposed metal with a lightly oiled cloth until every finger mark is gone, and repeat any time the rifle has been out in weather or passed around. The Wildcat's composite stock needs nothing, but the metal it carries rusts like any other — and a rimfire that lives in a truck or behind a door gets handled far more than it gets cleaned.",
+   "prose": "The rifle most likely to rust is the one nobody thinks of as needing care. This one step is most of the defense.",
+   "quote": "Wipe all exposed metal surfaces with a lightly oiled cloth making certain that all finger marks are removed. Finger marks provide a place where moisture can accumulate. The metal of the gun should receive a light film of oil any time the rifle has been exposed to weather or handling.",
+   "cite": "Wildcat Owner's Manuals — UNKNOWN — no edition statement; the page's only document code is 18-WRA-095 — Cleaning and Maintenance — CLEANING PROCEDURES, step 10"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Fire control group out first — the bore cleans from the breech through the rear receiver hole",
+    ".22 rod and patch, lightweight gun oil for routine passes; nitro solvent when fouled",
+    "Brass brush with solvent for heavy fouling; push fully through the muzzle before withdrawing",
+    "Wipe dry, then one lightly oiled patch for preservation",
+    "Confirm no patch remains — look straight through from the open breech"
+   ]
+  },
+  {
+   "name": "ACTION — LOWER & BOLT",
+   "tasks": [
+    "Spray lower assembly and bolt assembly with metal- and polymer-safe aerosol solvent",
+    "Small brush or rag inside the upper cover, lower assembly and bolt assembly",
+    "Single drops of lightweight oil at the wear points — a very light film only",
+    "Never pour oil into the receiver"
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Clean each magazine after roughly 500–1,000 rounds — never disassemble",
+    "Spray inside and out, finger over the port, shake with the port away from you",
+    "Compressed air or air dry",
+    "Remember: aftermarket 10/22-pattern magazines do not trip the bolt hold-open"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wipe all exposed metal with a lightly oiled cloth; remove every fingerprint",
+    "Re-oil after weather or handling",
+    "Keep solvents, DEET repellents and sunscreen off the finishes",
+    "Confirm the sight hex wrench is in its keeper on the lower receiver assembly"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Seat the disassembly button in the lower assembly with its notch facing down, and confirm it sits fully rearward against the lower receiver assembly.",
+  "Push the bolt assembly rearward and lower it into position in the lower receiver assembly as it clears the front.",
+  "Place the tab at the front of the lower receiver assembly into the slot at the front of the stock opening.",
+  "Align the bolt handle with the ejection port, then rotate the lower receiver assembly up into the upper cover.",
+  "Press the disassembly button and rotate the group fully home until the retainer button locks into place with a click.",
+  "Confirm the safety is on safe — red band hidden.",
+  "Wipe the exterior down to lift the fingerprints reassembly left behind."
+ ],
+ "fncheck": "With the rifle unloaded and no magazine fitted, look through the bore from the breech and confirm it is clear with no patch left inside. Confirm the lower receiver assembly sits flush in the stock and the retainer button is locked — press upward on the trigger guard and confirm there is no movement. Cycle the bolt by hand several times and confirm it runs smoothly and the handle does not snag the ejection port. Lock the bolt rearward with the bolt lock, then release it with the bolt release and confirm it snaps closed — fingers clear of the chamber. Check the safety both ways: on safe (pressed right on a factory installation) must block the trigger; off safe must expose the red band. Insert an empty factory magazine, cycle the bolt, and confirm the magazine seats and drops freely from both releases. Leave the chamber empty, the safety on safe."
+}
