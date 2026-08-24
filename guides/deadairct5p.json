@@ -1,0 +1,205 @@
+{
+ "row": "deadairct5p",
+ "make": "Dead Air",
+ "model": "CT5P",
+ "sourcedFrom": "CT5P OWNER’S MANUAL — Rev011226 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "e7d4deb9730c615ca4457f36387143ffac5356834c35f2843e3def7f0c97ca71",
+ "cleanIntro": "The CT5P is Dead Air Defense's patrol 5.56 can, and it ships in three forms that do NOT service the same way: CT5PKM on a KeyMo/KeyMicro GOV adapter, CT5PXN on a Xeno GOV adapter, and CT5PDT direct thread. ⛔ Dead Air states that the KM is the only one of the three with adapter maintenance to do — the compression nut, wave spring and detent ring come out of it. The front cap is right-hand threaded and factory fitted, and the Triskelion baffle stack inside the Haynes body never opens.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Host clear first — and the can does not go on a closed action",
+   "action": "Magazine out, action locked open, chamber checked by eye and by finger. Dead Air sends you to your own rifle's manual for the clearing procedure itself, and then rules out fitting the suppressor with the action closed.",
+   "prose": "The CT5P lives on a duty carbine. Whoever's rifle it is, its own book owns the unload.",
+   "quote": "CHECK YOUR FIREARM’S CHAMBER AND MAKE CERTAIN THAT THE FIREARM IS UNLOADED AND THE MAGAZINE REMOVED BEFORE PROCEEDING ANY FURTHER. IF THERE IS ANY QUESTION OR DOUBT, CONSULT THE OPERATOR’S MANUAL APPLICABLE TO YOUR FIREARM FOR THE PROPER PROCEDURE FOR CLEARING AND/OR UNLOADING YOUR FIREARM.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — General Considerations, p.4",
+   "warn": "DO NOT INSTALL YOUR NEW SUPPRESSOR ON A FIREARM WITH A CLOSED ACTION!",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Cold, and rated — 5.56 NATO and 6mm ARC, nothing above",
+   "action": "Let the can and the rifle come down to ambient temperature before you touch either. Then confirm what you have been shooting: Dead Air rates every CT5P variant for 5.56 NATO and 6mm ARC, and the pressure ceiling is 6mm ARC.",
+   "prose": "A patrol can gets fed whatever is in the trunk. The rating is the whole answer to whether that was all right.",
+   "quote": "Ammunition will have a significant impact on how your new suppressor functions and performs. Use high-quality factory-new ammunition in your firearm. The CT5P in all variants is rated for 5.56 NATO and 6mm ARC.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — General Considerations — Ammunition, p.4",
+   "warn": "THE SUPPRESSOR MAY BECOME EXTREMELY HOT AFTER USE. NEVER TOUCH A HOT SUPPRESSOR AS IT CAN RESULT IN BURNS AND INJURY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Which CT5P is it? Only the KM has adapter maintenance",
+   "action": "Read the marking on the body. CT5PKM is on a KeyMo/KeyMicro GOV adapter, CT5PXN is on a Xeno GOV adapter, CT5PDT threads directly. Dead Air names the KM as the only version of the family that requires adapter maintenance — if yours is XN or DT, the adapter strip below is not yours to do.",
+   "prose": "This is the one thing that decides how long the job takes. Everything after it is common.",
+   "caution": "XN and DT owners: skip the compression-nut steps. There is nothing there to take apart.",
+   "quote": "The CT5PKM – KeyMo®/KeyMicro GOV is the only version of the CT5P family that requires adapter maintenance.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Cleaning and Maintenance, Step Two — Adapter Maintenance, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "KM only — detent ring back, compression nut off",
+   "action": "Stand the can with the KeyMo GOV compression nut upward. Engage the detent ring tab and pull the ring down far enough that the compression nut clears the detent stop, then rotate the nut counter-clockwise. It takes several goes — repeat pulling the ring and turning the nut until the nut spins free, and set it aside.",
+   "prose": "The ring is a ratchet stop, not a lock. You are lifting it over one tooth at a time.",
+   "quote": "Engage the detent ring tab as shown in the image below. Pull the detent ring downward enough so the compression nut clears the detent stop.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Cleaning and Maintenance, Step Two — Adapter Disassembly, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "KM only — note the detent DIRECTION before the wave spring comes out",
+   "action": "Take the detent ring off and NOTE WHICH WAY THE DETENT FACES before anything else moves, then lift the wave spring out of the compression nut. Ring, wave spring, compression nut — three loose parts and one of them only goes back one way round.",
+   "prose": "Dead Air puts \"note the detent direction\" in the middle of its own sentence. That is where a reassembly goes wrong.",
+   "caution": "Photograph the ring before it leaves the nut if you are not certain.",
+   "quote": "Remove the detent ring, note the detent direction, and remove the wave spring from the KeyMo® compression nut; set them aside.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Cleaning and Maintenance, Step Two — Adapter Disassembly, p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "Threads, tapers and mating faces — brass or nylon, never an edge",
+   "action": "Inspect the compression nut inside and out for rust or fouling and take it off with CLP and a brass or nylon brush. ⛔ The taper on the muzzle device is a critical surface: no knife, no scraper, no edged tool on it, ever.",
+   "prose": "A scratched taper is a misaligned can, and a misaligned can is a baffle strike.",
+   "quote": "Inspect the KeyMo™compression nut & compression nut for any signs of rust or fouling. If fouling or rust is present, use a high-quality Cleaner, Lubricant & Protectant (CLP) and a brass or nylon brush to clean the fouling or rust away from the outside or inside of the body.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Cleaning and Maintenance, Step Two, p.19",
+   "warn": "THE TAPER ON THE MUZZLE DEVICE IS A CRITICAL SURFACE. NEVER USE A KNIFE OR EDGED TOOL ON THE TAPER.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "The front-cap rust limit is a NUMBER — 0.010 inch",
+   "action": "If there is rust on the front cap, measure how deep it has gone into the front face. Dead Air's limit is 0.010 inch (0.254 mm). Past that it is not a cleaning job any more.",
+   "prose": "Most makers say \"inspect for damage\". This one gives you the figure, so use it.",
+   "quote": "NOTE: If rust or corrosion is present on the front cap, ensure that the amount of rust has not exceeded more than 0.010 inches (0.254mm) into the front face of the front cap.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Cleaning and Maintenance, Step Two, p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "Muzzle device: lead and carbon in front of the taper, around 4000 rounds",
+   "action": "Brush the muzzle device with CLP and a brass or nylon brush, taking care not to cut the Nitride. The surfaces IN FRONT OF the taper collect lead and carbon; Dead Air puts a scraping tool, brush or polymer scouring pad with a little oil on them at roughly 4000 rounds.",
+   "prose": "4000 rounds is a schedule, not a symptom. For a high-round-count shooter it arrives sooner than the calendar suggests.",
+   "quote": "Over time, the muzzle device will accumulate lead and carbon from use on the surfaces in front of the taper. After roughly 4000 rounds, use a scraping tool, brush, and/or polymer base scouring pad to apply a small amount of oil or CLP, then remove the lead and carbon deposits.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Cleaning and Maintenance, Step Three, p.20"
+  },
+  {
+   "phase": "Clean",
+   "title": "Body: non-toxic, water-soluble, biodegradable — or the warranty goes",
+   "action": "Clean the internal body only with commercially available non-toxic, water-soluble, biodegradable solutions. An ultrasonic tank may be used WITHOUT heat and WITHOUT corrosive chemicals on titanium, steel or Haynes 282. Dead Air's own preference is its Silencer Cleaning System.",
+   "prose": "Discoloration from those chemicals is explicitly not a warranty problem. Dissolving metal is.",
+   "quote": "To enhance cleaning of the internal surfaces and geometry, the Dead Air Silencer Cleaning System (SCS) is preferred. An ultrasonic tank WITHOUT HEAT AND/OR CORROSIVE CHEMICALS may be used on any materials such as titanium, steel, or Haynes® 282®.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Cleaning and Maintenance, Step Four, p.21",
+   "warn": "SUPPRESSORS AND/OR ANY SUPPORTING PRODUCTS THAT ARE CLEANED USING CHEMICALS OUTSIDE OF THE NON-TOXIC, WATER-SOLUBLE, BIO-DEGRADABLE CLEANING SOLUTIONS AND/ OR CHEMICALS THAT DISSOLVE ANY METAL WILL RESULT IN A LOSS OF WARRANTY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Blow it out, oil the steel — and NOT the Haynes body",
+   "action": "After the body is clean, blow it out with compressed air, wipe off residual solution and put a light coat of oil on the steel components. ⚠ The main body is Haynes-282 and does NOT want oil. On a KM the 17-4 back-nut area does — inside and out — but keep excess oil off the taper surface.",
+   "prose": "Oiling everything is the reflex and it is wrong here: the taper is a friction lock-up and oil on it is a loose can.",
+   "caution": "Excess oil should not be present on the taper surface.",
+   "quote": "After cleaning the main body of the suppressor, blow the suppressor out with compressed air, wipe away any residual cleaning solution, and apply a light coating of oil to all steel components.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Cleaning and Maintenance, Step Four, p.21"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Grease is measured: 0.25 CC across the nut and cap threads",
+   "action": "Using a high-temperature, high-quality grease, coat the threads of the KeyMo compression nut and the threads of the front cap with 0.25 CC of grease — Dead Air says that is enough for both — then put a thin coat on the detents of the detent ring.",
+   "prose": "A quarter of a cc is about a pea. More is not better on a taper mount.",
+   "quote": "Using high-temperature, high-quality grease brands such as Lucas® or Valvoline®, evenly coat the threads of the KeyMo® compression nut and the threads of the front cap with 0.25 CC of grease.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Cleaning and Maintenance, Step Two, p.20"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Nothing rattles — and if it does, it is threads or debris",
+   "action": "Put the adapter back together, refit the can, and check the whole assembly by feel. Everything should be snug with no gaps and no rattle. Anything loose means damaged threads or debris on a mating face — clean both parts and tighten again rather than pulling harder.",
+   "prose": "Debris on a thread or a taper is what puts a bullet into a baffle.",
+   "quote": "INSPECTION UPON ASSEMBLY All components should fit snugly with no gaps or rattling. If any component is not fully tightened, check the threads for damage or debris. Clean both mating parts as necessary and repeat the tightening step.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Inspection Upon Assembly, p.8",
+   "warn": "DEBRIS ON THE THREADS AND TAPER SURFACES MAY CAUSE MISALIGNMENT OF SUPPRESSOR PARTS AND ALLOW FOR PROJECTILE STRIKES ON BAFFLES OR THE FRONT CAP.",
+   "warnSrc": "maker"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Front cap off — 11/16 inch, right-hand thread, and only if you must",
+   "action": "All CT5P models leave the factory with the front cap fitted and Dead Air says it does not need removing for use. If cleaning genuinely calls for it, hold the can in a suppressor vice block — only enough clamping force to stop it rotating — engage the tines on the RXD206 front cap with an 11/16 inch socket and turn counter-clockwise.",
+   "prose": "The block is there so the torque goes into the fixture and not into the tube wall. Overclamping a thin can is its own failure.",
+   "caution": "Take special care not to crush the suppressor in the block.",
+   "quote": "Using an 11/16” socket and wrench, engage the tines on the RXD206 front cap and rotate the wrench in a counterclockwise motion to unthread the front cap.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Front Cap Removal, step 5, p.16"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Front cap back on at 35 inch-pounds — inch, not foot",
+   "action": "Refit the cap with an 11/16 inch socket on a torque wrench, clockwise, to 35 INCH-pounds — Dead Air puts that at roughly 3 foot-pounds. It is a light figure and it is deliberate.",
+   "prose": "Thirty-five inch-pounds is finger-tight plus a nudge. Treating it as 35 ft-lbs would wreck the cap.",
+   "quote": "Torque the front cap to 35 inch-pounds (approximately 3 footpounds).",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Front Cap Installation, step 4, p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Muzzle device off — Rocksett needs a 12–24 hour SOAK, not heat",
+   "action": "If the flash hider was fitted with Rocksett, soak the barrel and muzzle device in water for 12 to 24 hours first; hot water speeds it up. Then constrain the barrel with a rod or clamp and take the device off counter-clockwise with a 3/4 inch wrench on the flats.",
+   "prose": "This is a next-day job, not a range-bag job. Plan it that way.",
+   "quote": "If Rocksett® thread-locker was used, soak the barrel and muzzle device in water for 12-24 hours. Hot water will help accelerate the process.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Muzzle Device Removal, step 2, p.8",
+   "warn": "IF ROCKSETT WAS USED, DO NOT HEAT THE MUZZLE DEVICE THREADS IN AN EFFORT TO LOOSEN THE THREADS.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Timing the flash hider — shims to 11:00–11:30, torque carries it to 12:00",
+   "action": "Fit one shim against the barrel shoulder and thread the flash hider on. With the rear face against the shim, look at the timing slot (KeyMo/KeyMicro GOV) or the caliber engraving (Xeno GOV): you want 11:00 to 11:30 BEFORE torque. If it is not there, add shims and try again. Then unthread, add a small drop of Rocksett, rethread, and pull it to 12:00 with 25 ft-lbs ±2.5 using a 3/4 inch crow's-foot.",
+   "prose": "The final quarter-hour of rotation is bought with torque. That is why the pre-torque target is short of 12 o'clock.",
+   "aside": "Once complete, allow 24 hours for the Rocksett® to cure before live fire. Do not exceed 30 foot-pounds of torque, as this could reduce the system’s accuracy.",
+   "quote": "If the timing features are NOT at the 11:00 to 11:30 position, unthread the muzzle device and add the requisite number of shims, then repeat the process to align the timing features to the 11:00 to 11:30 position.",
+   "cite": "CT5P OWNER’S MANUAL — Rev011226 — Muzzle Device Installation, step 7, p.6"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "ADAPTER — CT5PKM ONLY",
+   "tasks": [
+    "Detent ring pulled back, compression nut off counter-clockwise",
+    "Detent DIRECTION noted before the ring leaves the nut",
+    "Wave spring out; nut inspected inside and out for rust and fouling",
+    "0.25 CC high-temperature grease across the nut and front-cap threads",
+    "Thin coat of the same grease on the detent ring's detents"
+   ]
+  },
+  {
+   "name": "MUZZLE DEVICE",
+   "tasks": [
+    "Brass or nylon brush and CLP; never an edged tool on the taper",
+    "Lead and carbon in front of the taper scraped at roughly 4000 rounds",
+    "Nitride left intact — that is the wear surface"
+   ]
+  },
+  {
+   "name": "FRONT CAP",
+   "tasks": [
+    "Inspected for rust; 0.010 inch (0.254 mm) into the front face is the limit",
+    "Threads and taper greased before refitting",
+    "Torqued to 35 INCH-pounds, not foot-pounds"
+   ]
+  },
+  {
+   "name": "MAIN BODY",
+   "tasks": [
+    "Non-toxic, water-soluble, biodegradable solutions only",
+    "Ultrasonic without heat and without corrosive chemicals, or the Dead Air SCS",
+    "Blown out with compressed air and wiped dry",
+    "Light oil on steel components; the Haynes-282 body needs none",
+    "No oil left on the taper surface"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Wave spring into the compression nut, detent ring back the way it came off (KM).",
+  "Compression nut rotated on until it clears the detent stop and seats (KM).",
+  "0.25 CC grease across the nut threads and the front-cap threads.",
+  "Front cap, if it was removed, to 35 inch-pounds with an 11/16 inch socket.",
+  "Suppressor onto the muzzle device: teardrop cut/latch at 12:00, insert, then rotate.",
+  "Nothing rattles, nothing gaps — clean and retighten rather than forcing.",
+  "Alignment rod through the bore before any live fire."
+ ],
+ "fncheck": "⛔ Alignment rod FIRST. With the can installed, run a certified rod of the barrel's caliber through the suppressor and into the barrel so about an inch protrudes. The rod must be centred and must NOT touch the front cap. If it touches or is badly off, stop — that is a Dead Air customer-service call, not something to shoot and see. Then grip the silencer and try to turn, shake and wobble it: it should not move, rotate or wobble. Remove the rod and put it back in its case before the rifle is loaded."
+}

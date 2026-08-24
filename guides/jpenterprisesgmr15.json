@@ -1,0 +1,130 @@
+{
+ "row": "jpenterprisesgmr15",
+ "make": "JP Enterprises",
+ "model": "GMR-15",
+ "sourcedFrom": "JP ENTERPRISES OWNER’S MANUAL — GMR-15 9mm RIFLES — UNKNOWN — no version line printed (UNKNOWN — not printed in the document)",
+ "sourceSha256": "d505f7953e759f1206e76f969908f51f3393b617ec17781dca37d9a6d5f3844e",
+ "cleanIntro": "The GMR-15 is JP's dedicated 9mm blowback carbine, built on either a forged JP-15 upper or the side-charging PSC-17. ⚠ It is NOT a JP-5: there is no roller delay and no lock piece here, and the two books are not interchangeable even though the receiver work reads the same. The strip is AR-shaped — two captured pins, upper off lower, carrier out — and the 9mm-specific part is what fouls: the crown and the compensator.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "SAFE first — and it will not go there unless the rifle is cocked",
+   "action": "Place the safety selector on SAFE. If the rifle is not cocked, the lever cannot be turned toward SAFE — that is a feature, and it tells you the state of the hammer before you have looked at anything else. Then the magazine, then lock the bolt back and inspect.",
+   "prose": "A selector that refuses to move is information, not a fault.",
+   "quote": "1.  Place the safety selector lever on \nSAFE.  If the rifle is not cocked, the \nlever cannot be turned towards \nSAFE.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — GMR-15 9mm RIFLES — UNKNOWN — no version line printed — Disassembly and Reassembly — Clearing the Rifle, step 1, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lay the parts out FIRST",
+   "action": "Decide where the small parts are going before anything comes off. JP opens its field strip with this instruction in both of its books.",
+   "prose": "Same sentence, same reason: things get lost off a bench.",
+   "quote": "Before beginning the “field strip” described in the following steps, take care to lay out \nthe removed components in an organized way as some can easily be misplaced and lost.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — GMR-15 9mm RIFLES — UNKNOWN — no version line printed — Disassembly and Reassembly — Disassembly, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Rear takedown pin — captured, and a mallet can break the receiver",
+   "action": "Press the rear takedown pin in from the LEFT and pull it out the RIGHT until it stops. It is retained by a detent plunger and cannot come out. ⛔ If it is tight and you use a punch and mallet, be very gentle: JP states that excessive force can break the detent plunger out of the side of the receiver, that this is not covered under any warranty, and that it means replacing the lower.",
+   "prose": "The warranty consequence is JP's own sentence and it is worth reading twice.",
+   "caution": "Left to right. The detent plunger is on one side only.",
+   "quote": "1. Press the rear takedown pin in \nfrom the left of the lower receiver \nand pull it out the right side until it \ncomes to a positive stop.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — GMR-15 9mm RIFLES — UNKNOWN — no version line printed — Disassembly and Reassembly — Disassembly, step 1, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hinge the lower away from the upper",
+   "action": "With the rear pin out to its stop, pivot the lower receiver down and away from the upper. Most cleaning can be done from here without separating them.",
+   "prose": "Hinged open is enough for the bore and the carrier. Fully apart is for the buffer.",
+   "quote": "2.   Pivot the lower receiver down and away from the upper receiver.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — GMR-15 9mm RIFLES — UNKNOWN — no version line printed — Disassembly and Reassembly — Disassembly, step 2, p.23"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Brush ALL THE WAY THROUGH before reversing",
+   "action": "Brass bristle brush on the rod dipped in cleaning solution, entering from the breech end only, all the way through before you reverse. Changing direction with the brush inside can stick it. Then patches on a TIGHT jag — JP is specific that slotted jags are not what it wants — until one comes out clean.",
+   "prose": "Same discipline as the JP-5, and the same two failure modes.",
+   "quote": "•   Cleaning rod with a tight jag (not the slotted-type jags)",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — GMR-15 9mm RIFLES — UNKNOWN — no version line printed — Cleaning and Maintenance — Cleaning the Rifle, tools, p.30"
+  },
+  {
+   "phase": "Clean",
+   "title": "⚠ Low- to medium-viscosity oil, and no aggressive solvents",
+   "action": "JP names what it wants: a good-quality gun oil of LOW to MEDIUM viscosity, and explicitly not the high-viscosity oils used for handguns. ⛔ And no carburetor cleaner or ultra-aggressive industrial solvent — damage from inappropriate solvent use is not covered under warranty.",
+   "prose": "Both halves of this are warranty language, which is how JP signals it means it.",
+   "quote": "•   Gun cleaning solution (Avoid using carburetor cleaner or any ultra aggressive\n      solvents formulated for other industrial cleaning.  Damage from inappropriate \n     solvent use is not covered under warranty.)",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — GMR-15 9mm RIFLES — UNKNOWN — no version line printed — Cleaning and Maintenance — Cleaning the Rifle, tools, p.30"
+  },
+  {
+   "phase": "Clean",
+   "title": "Nylon toothbrush and dental picks — the tools JP lists",
+   "action": "JP's tool list for this rifle is short and specific: a small nylon toothbrush, dental picks, a brass wire bristle bore cleaning brush, a chamber cleaning brush and a chamber mop. The toothbrush is what goes on the receivers and the carrier; the brass brush is for the BORE only.",
+   "prose": "Two brushes with two jobs. Using the bore brush on an aluminium receiver is how anodising comes off, and anodising does not come back.",
+   "aside": "•   Brass wire bristle bore cleaning brush",
+   "quote": "•   Small nylon toothbrush",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — GMR-15 9mm RIFLES — UNKNOWN — no version line printed — Cleaning and Maintenance — Cleaning the Rifle, tools, p.31"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lower assembly: buffer components out, tube wiped, LIGHT OIL on the SCS",
+   "action": "Remove the buffer components as the disassembly section describes, wipe lubricant and dirt off them, and wipe the extension tube out with large patches on the rod or a piece of cloth. ⚠ Lubricate the Silent Captured Spring with LIGHT OIL — ⛔ not grease, which causes malfunctions in cold conditions. Check no patch or material is left in the tube before the SCS goes back.",
+   "prose": "The cold-weather grease warning is the part people get wrong, and a PCC that short-strokes in January is the result.",
+   "quote": "4. Use light oil to lubricate the Silent Captured Spring.  Do not use grease, as it \nwill cause malfunctions in cold conditions.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — GMR-15 9mm RIFLES — UNKNOWN — no version line printed — Cleaning and Maintenance — Cleaning the Lower Assembly, step 4, p.31"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "⛔ Fire control stays put — JP or a gunsmith only",
+   "action": "Regular cleaning of the lower does not require removing the fire control components, and because of the fine-tuned relationship between those parts, removal or adjustment should only be performed by JP Enterprises or a qualified gunsmith.",
+   "prose": "A JP trigger is the reason many people buy the rifle. It is also the reason not to open it.",
+   "quote": "Because of the fine-tuned relationship between these parts, removal or \nadjustment of the fire control mechanism should only be performed by JP Enterprises, \nInc. or a qualified gunsmith.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — GMR-15 9mm RIFLES — UNKNOWN — no version line printed — Cleaning and Maintenance — Cleaning the Lower Assembly, p.31"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "⚠ Side-charge uppers take a different handle removal",
+   "action": "The PSC-17 side-charging upper does not release its handle the way a top-charging rifle does. JP notes the difference explicitly and gives the side-charge steps as an ADDITION to the standard ones rather than a replacement — so do the standard strip, then the side-charge steps.",
+   "prose": "Two uppers under one model name, and knowing which you have decides two steps.",
+   "quote": "These processes vary slightly between the forged JP-15™ and \ndedicated 9mm PSC-17™ upper receivers due to the side-charging handle of the latter.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — GMR-15 9mm RIFLES — UNKNOWN — no version line printed — Disassembly and Reassembly, p.22"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Brass bristle brush from the breech only, through before reversing",
+    "Tight jag — not a slotted jag — with cotton flannel patches cut to fit snugly",
+    "Patched until the last one comes out clean"
+   ]
+  },
+  {
+   "name": "RECEIVERS",
+   "tasks": [
+    "Nylon toothbrush on the receivers; the brass bristle brush is for the BORE only",
+    "Low- to medium-viscosity gun oil only",
+    "⛔ No carburetor cleaner or ultra-aggressive industrial solvents"
+   ]
+  },
+  {
+   "name": "LOWER AND BUFFER",
+   "tasks": [
+    "Buffer components out and wiped",
+    "Extension tube wiped with large patches",
+    "⚠ LIGHT OIL on the Silent Captured Spring — never grease",
+    "Tube checked clear of patches before the SCS returns",
+    "⛔ Fire control left to JP or a qualified gunsmith"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Silent Captured Spring and buffer components back into the extension tube.",
+  "Carrier and charging handle back into the upper, fully forward into battery.",
+  "Side-charge uppers: slider lowered onto the takedown notch and slid forward to its stop.",
+  "Upper onto lower, front pivot pin first, rear takedown pin second.",
+  "Function checked by cycling the charging handle before anything is loaded."
+ ],
+ "fncheck": "With the rifle confirmed unloaded, cycle the charging handle fully and check the action runs free and locks back. Dry-fire pointed in a safe direction, cycle and repeat, then lock the action open. Confirm the safety selector will only reach SAFE with the rifle cocked. ⚠ Confirm nothing was left in the bore or the buffer tube — a patch in an extension tube is a rifle that will not go back into battery."
+}

@@ -1,0 +1,166 @@
+{
+ "row": "deadairrxd30ti",
+ "make": "Dead Air",
+ "model": "RXD30Ti",
+ "sourcedFrom": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "448a30527d7b84f4988fc4be56bea9500f1ad89b94d2e49dfa1674bc66771767",
+ "cleanIntro": "The RXD30Ti is a HUB-threaded .30 can — 1.375-24 TPI on the back — that ships on a DTB324HT 5/8-24 Direct Thread Brake Mount and will take Dead Air's KeyMo and Xeno adapters in exactly the same way. ⚠ Its ceiling is .300 PRC. What you service is the mount, the front cap and the control surfaces; the baffle stack is not something you open.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Host clear, and never on a closed action",
+   "action": "Magazine out, action open, chamber checked by eye and by finger. Dead Air sends you to your own rifle's manual for the clearing procedure and rules out installation on a closed action.",
+   "prose": "Same discipline every time the can comes off the rifle, not just the first time.",
+   "quote": "CHECK YOUR FIREARM’S CHAMBER AND MAKE CERTAIN THAT THE FIREARM IS UNLOADED AND THE MAGAZINE REMOVED BEFORE PROCEEDING ANY FURTHER. IF THERE IS ANY QUESTION OR DOUBT, CONSULT THE OWNER’S MANUAL APPLICABLE TO YOUR FIREARM AS TO THE PROPER PROCEDURE FOR CLEARING AND/OR UNLOADING YOUR FIREARM.",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — General Considerations, p.4",
+   "warn": "DO NOT INSTALL YOUR SUPPRESSOR ON A FIREARM WITH A CLOSED ACTION!",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Cold first, and .300 PRC is the ceiling",
+   "action": "Let it cool to ambient before you handle it. Then confirm the host cartridge: unless the can or its packaging says otherwise, the RXD30Ti will not function safely above .300 Precision Rifle Cartridge pressure.",
+   "prose": "A .30 can gets shared across a safe full of rifles. The ceiling travels with the can, not the rifle.",
+   "quote": "OUR PRODUCTS ARE CALIBER SPECIFIC. UNLESS STATED OTHERWISE ON THE SUPPRESSOR ITSELF OR ON THE PACKAGING, THE SUPPRESSOR WILL NOT FUNCTION SAFELY WITH ANY CARTRIDGE WITH PRESSURES HIGHER THAN 300 PRECISION RIFLE CARTRIDGE (PRC).",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — Installation Notes, p.5",
+   "warn": "THE SUPPRESSOR MAY BECOME EXTREMELY HOT AFTER USE. NEVER GRAB A HOT SUPPRESSOR AS IT CAN RESULT IN BURNS AND INJURY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Can off the barrel — and if the mount stays behind, that is normal",
+   "action": "Rotate the body counter-clockwise until it unthreads from the muzzle (clockwise if your barrel thread is left-handed). If the suppressor unthreads from the MOUNT and leaves the mount on the barrel, a 13/16 inch wrench or the supplied TL Tool engages the hex feature or the TL slots.",
+   "prose": "Two things can come apart here and only one of them is the one you meant. Both have a tool.",
+   "caution": "A strap wrench is the maker's own suggestion for a can too hot to hold.",
+   "quote": "If the suppressor unthreads from the mount with the mount remaining on the barrel, then a 13/16” wrench or supplied TL Tool can be used to loosen it by engaging the hex tool feature or TL Tool slots, respectively.",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — Suppressor Installation and Removal — Removal, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Mount out of the back — 13/16 inch on the mount, DAT002 on the body",
+   "action": "Put a 13/16 inch socket or the TL tool on the Direct Thread Brake Mount and the supplied DAT002 wrench on the wrench flats of the suppressor body, then rotate the mount counter-clockwise. Two tools, opposed — the body is held, the mount turns.",
+   "prose": "Holding the body by hand while you break a 25 ft-lb joint is how a titanium tube gets crushed.",
+   "quote": "Using either a 13/16” socket or TL tool on the Direct Thread Brake Mount and the supplied DAT002 wrench on the wrench flats of the suppressor body, respectively, rotate in the Direct Thread Brake Mount in a counterclockwise direction.",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — Mount and Adapter Removal, p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "Control surfaces after the mount and cap are off",
+   "action": "With the mount, adapter and front cap removed, get threads, tapers and mating surfaces clean. Nylon or brass brush with cleaning oil where there is build-up, then wipe the excess away. Everything on the brake mount OTHER than threads, tapers and mating faces can be cleaned however you like.",
+   "prose": "The distinction is the point: control surfaces are precision, the rest is just metal.",
+   "caution": "Caustic or acidic chemicals discolor Nitride and PVD and strip Cerakote.",
+   "quote": "Once complete, ensure control surfaces such as threads, taper surfaces, and all mating surfaces, are clean of any debris. If debris or build-up is present, using a nylon or brass brush and cleaning oil, lightly brush the surfaces until the build-up or debris is removed.",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — Suppressor Cleaning and Maintenance, Step Two, p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Body: solvent or ultrasonic without heat",
+   "action": "Clean the body with commercially available non-toxic, water-soluble, biodegradable solutions, following the chemical maker's own instructions. An ultrasonic tank WITHOUT HEAT may be used on titanium, steel or Haynes without harming the finish. ⛔ Never aluminium.",
+   "prose": "Discoloration will not cost you the warranty. Dissolved metal will.",
+   "quote": "To enhance cleaning of the exterior surfaces and internal geometry, an ultra-sonic tank WITHOUT HEAT may be used on any materials such as titanium, steel, or Haynes®, without causing harm to your finish.",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — Suppressor Cleaning and Maintenance, Step Three, p.10",
+   "warn": "NEVER USE ULTRA-SONIC TANKS AND ALUMINUM.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Mount back in: grease, bottom it out, 25 ft-lb ±5",
+   "action": "Lightly coat the mount or adapter threads with high-quality grease and thread it into the suppressor until it bottoms on the rear suppressor face. Then, 13/16 inch socket or TL tool on the mount and the RXD30Ti wrench on the hex, turn clockwise until body and mount fully mate and torque to 25 foot-pounds ±5 with a torque wrench.",
+   "prose": "Dead Air's own yardstick: the average person makes about 15 ft-lb by hand. This joint wants a wrench.",
+   "aside": "Note: The average human can apply roughly 15 foot-pounds by hand.",
+   "quote": "Tighten the Direct Thread Brake Mount to 25 foot-pounds, plus or minus 5 foot-pounds with a torque wrench.",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — Mount and Adapter Installation, Step Three, p.8"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Front cap: grease, hand tight, then 35 INCH-pounds",
+   "action": "Clean the cap threads and taper, grease them, fit the cap hand tight, then engage an 11/16 inch socket or open-ended wrench FULLY and torque to 35 INCH-pounds clockwise. Counter-clockwise to remove.",
+   "prose": "Inch-pounds again. Partial engagement of the wrench is what rounds a cap.",
+   "quote": "Clean threads and taper. Apply high-quality grease to the surfaces and install new cap and hand tighten. Using an 11/16” socket or open-ended wrench onto the front cap, ensure the 11/16” socket or open-ended wrench is fully engaged. Torque to 35 inch-pounds in a clockwise direction to install, and a counterclockwise direction to remove.",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — Front Cap Installation, p.9"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Snug, no gaps, no rattle — then a rod",
+   "action": "Check the whole assembly by feel. Anything loose is threads or debris, not insufficient force: clean both mating parts and tighten again.",
+   "prose": "Debris on a taper is what allows a bullet to find a baffle.",
+   "quote": "All components should be snug with no gaps or rattling. If any component is not fully tightened, then check threads for any damage or debris. Clean both mating parts as necessary and repeat the tightening step.",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — Inspection Upon Assembly, p.9",
+   "warn": "DEBRIS ON THE THREADS AND TAPER SURFACES MAY CAUSE MISALIGNMENT OF SUPPRESSOR PARTS AND ALLOW FOR PROJECTILE STRIKES ON BAFFLES OR THE FRONT CAP.",
+   "warnSrc": "maker"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "⛔ Never a crush washer or a shim with the Direct Thread Brake Mount",
+   "action": "When the brake mount goes onto the barrel it seats on the shoulder — no crush washer, no shims. Barrel torque for the brake mount and for KeyMo/KeyMicro and Xeno devices must not exceed 30 foot-pounds; 25 ±5 is the target.",
+   "prose": "A crush washer under a suppressor mount is a deliberately compliant joint under a part that must not move.",
+   "aside": "Barrel torque for Direct Thread Brake Mounts, KeyMo/KeyMicro, and Xeno muzzle devices should not exceed 30 foot-pounds. A target of 25 plus or minus 5 foot-pounds is optimal.",
+   "quote": "NEVER USE CRUSH WASHERS OR SHIMS WITH THE DIRECT THREAD BRAKE MOUNT.",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — Suppressor Installation and Removal, Step One, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "It WILL loosen with use — check it during the session",
+   "action": "Dead Air says outright that all Direct Thread Brake Mount suppressors loosen with use, and that how much depends on the quality of the barrel threading. Check tightness often; a loose mount shifts point of impact and can put the bullet into the baffles or the front cap.",
+   "prose": "For a high-round-count shooter this is a mid-string check, not an end-of-day one.",
+   "caution": "If it loosens during firing, the supplied TL tool will snug it back onto the barrel.",
+   "quote": "We recommend checking tightness often. All Direct Thread Brake Mount suppressors will loosen with use and are very dependent on the quality of the barrel threading.",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — Suppressor Installation and Removal, Step One, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Left-hand barrel threads exist — know yours before you turn anything",
+   "action": "Before you put a wrench on anything, know your barrel's thread pitch AND handedness, and make sure the matching brake mount is installed in the suppressor. Some pitches are left-handed and turn the opposite way to what you expect.",
+   "prose": "Reversing a left-hand thread under torque is how threads get destroyed in one movement.",
+   "quote": "Note: Be aware of the barrel thread pitch of your barrel and ensure the matching Direct Thread Brake Mount is properly installed in the suppressor. Be aware that some thread pitches are left-handed, meaning they turn in the opposite direction than what you may be used to.",
+   "cite": "RXD30Ti .30 CALIBER TITANIUM SUPPRESSOR OWNER’S MANUAL — Rev061225 — Suppressor Installation, Step Two, p.6"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "MOUNT AND HUB THREADS",
+   "tasks": [
+    "Mount out with 13/16 inch on the mount and DAT002 on the body flats",
+    "Rear HUB threads (1.375-24 TPI) and the rear face cleaned",
+    "Threads greased before the mount goes back",
+    "Torqued to 25 ft-lb ±5 — never a crush washer or shim on the barrel"
+   ]
+  },
+  {
+   "name": "FRONT CAP",
+   "tasks": [
+    "Off counter-clockwise with an 11/16 inch socket fully engaged",
+    "Threads and taper cleaned and greased",
+    "Back on at 35 INCH-pounds"
+   ]
+  },
+  {
+   "name": "CONTROL SURFACES",
+   "tasks": [
+    "Threads, tapers, mating faces — nylon or brass brush and cleaning oil",
+    "Excess wiped off; non-control surfaces of the brake mount by any method",
+    "No caustic or acidic chemicals on Nitride, PVD or Cerakote"
+   ]
+  },
+  {
+   "name": "MAIN BODY",
+   "tasks": [
+    "Non-toxic, water-soluble, biodegradable solutions per the chemical maker",
+    "Ultrasonic WITHOUT heat on titanium, steel or Haynes",
+    "⛔ No aluminium in the tank"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Mount threads greased, mount bottomed on the rear suppressor face.",
+  "13/16 inch on the mount, RXD30Ti wrench on the hex, clockwise until fully mated.",
+  "Mount torqued to 25 ft-lb ±5 with a torque wrench.",
+  "Front cap threads and taper greased, cap hand tight, then 35 in-lb with 11/16 inch.",
+  "Onto the barrel: clean threads, no crush washer, no shims, 25 ±5 ft-lb, never over 30.",
+  "Snug everywhere, no gaps, no rattle.",
+  "Alignment rod through the bore before live fire."
+ ],
+ "fncheck": "Mount the can and inspect it visually against the centreline of the bore with a caliber-appropriate alignment rod. If it is not in line, STOP the installation and call Dead Air — firing an improperly mounted can causes irreparable harm to it. Confirm the can is seated fully against the shoulder or crown, that nothing rotates or wobbles, and that the cartridge you are about to fire is at or below .300 PRC pressure. Re-check tightness during the string, not just before it."
+}

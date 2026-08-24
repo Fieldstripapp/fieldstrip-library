@@ -1,0 +1,326 @@
+{
+ "row": "txar15",
+ "make": "AR-15 pattern",
+ "model": "AR-15-pattern rifle (direct gas)",
+ "sourcedFrom": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 (2011 (© 2011 ArmaLite, Inc.; November 2013 revision))",
+ "sourceSha256": "e90202be5a70f835bbea21175312ac7350f3456a2ece985d87e1c8cfa695f7aa",
+ "cleanIntro": "⚠ THIS IS A PATTERN GUIDE. Your rifle is an AR-15-pattern direct-gas carbine or rifle, and every rifle built to that pattern strips the same way: two pins, two receivers, a bolt carrier group that comes apart in four pieces without a tool, and a buffer and spring in the stock tube. It is written from ArmaLite's own M-15 manual and says so on every step. ⛔ What it deliberately does NOT tell you is anything about the parts your rifle does not share with the pattern — barrel length, gas length, handguard attachment, your particular trigger. For those, ArmaLite's own notice is the right instruction: ask the maker.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⚠ First — what a pattern guide covers, in ArmaLite's own words",
+   "action": "Read this before anything else. This guide is written from a manual that covers numerous models and calibers of one maker's AR-pattern rifles, and it is being applied to the AR-15 pattern generally. The pins, the receivers and the bolt carrier group are the same on every one. Parts that are unique to YOUR model are not covered here and are a question for the company that built your rifle.",
+   "prose": "Saying which document a guide comes from is not a disclaimer; it is what makes the rest of it checkable.",
+   "quote": "NOTICE: THIS MANUAL MAY COVER NUMEROUS MODELS AND/OR CALIBERS OF OUR FIREARMS. THE TEXT, PICTURES, AND EXPLODED VIEWS DO NOT NECESSARILY DEPICT ALL MODEL VARIATIONS. YOU MAY NEED TO CONTACT US FOR INFORMATION ON PARTS THAT ARE UNIQUE TO YOUR MODEL.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 1. Read This First!, p.3"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ SAFE, then MAGAZINE, then chamber — in that exact order",
+   "action": "Safety lever to SAFE first (it will not go there unless the rifle is cocked). Then drop the magazine by pressing the magazine catch button. ONLY THEN pull the charging handle back and look into the receiver and chamber. ⛔ The order is not stylistic: clear the chamber before the magazine is out and closing the bolt chambers a fresh round.",
+   "prose": "This is the single most-repeated mistake on this platform, and ArmaLite spells out exactly how it produces a loaded rifle you believe is empty.",
+   "quote": "1. Place safety lever (L-24) on “SAFE”. NOTE: If the rifle is not cocked, the lever cannot be pointed toward SAFE.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 10. Clearing / Unloading the Firearm, step 1, p.25",
+   "warn": "WARNING: THE STEPS IN UNLOADING YOUR FIREARM MUST BE FOLLOWED IN THE EXACT ORDER GIVEN. THE MAGAZINE MUST BE REMOVED BEFORE THE CHAMBER IS INSPECTED. IF YOU CLEAR THE CHAMBER BEFORE REMOVING THE MAGAZINE, YOU MAY REMOVE ONE CARTRIDGE FROM THE CHAMBER AND THEN, UPON CLOSING THE BOLT, CHAMBER ANOTHER CARTRIDGE FROM THE MAGAZINE. THE FIREARM WILL STILL BE LOADED. REMEMBER THAT A CARTRIDGE IN THE CHAMBER CAN STILL BE FIRED EVEN AFTER THE MAGAZINE IS REMOVED.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the bolt back and put your EYES in the chamber",
+   "action": "Pull the charging handle rearward, press the bottom of the bolt catch and let the bolt come forward until the bolt stop holds it, then return the charging handle forward. Now look into the receiver AND the chamber. Empty the magazines too.",
+   "prose": "The bolt catch is what holds it open for you so both eyes and one finger can do the check.",
+   "quote": "3. Extract the cartridge (if any) from the chamber. To lock the bolt carrier assembly (U-3) open, pull the charging handle rearward, press the bottom of the bolt catch, and allow the bolt to move forward until the bolt stop retains it. Return the charging handle forward.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 10. Clearing / Unloading the Firearm, step 3, p.26",
+   "warn": "WARNING: NEVER ASSUME THAT THE CHAMBER IS EMPTY UNTIL YOU HAVE VISUALLY EXAMINED IT AND SEE THAT IT IS EMPTY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Safety glasses on — the operating spring is under high compression",
+   "action": "Put safety glasses on before the rifle comes apart. The operating spring in the buffer tube is under high compression and it is the one part of this strip that can leave your hand at speed.",
+   "prose": "It is the last step of the strip and the one people rush. Wear the glasses from the start rather than remembering at the buffer.",
+   "quote": "WARNING: ALWAYS WEAR SAFETY GLASSES WHEN DISASSEMBLING, MAINTAINING, OR ASSEMBLING YOUR FIREARM. IN PARTICULAR, THE OPERATING SPRING IS UNDER HIGH COMPRESSION. IF IT SLIPS FROM YOUR GRASP, IT COULD CAUSE INJURY.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 12. Disassembly, p.29",
+   "warn": "WARNING: ALWAYS UNLOAD YOUR FIREARM BEFORE CLEANING, LUBRICATION, DISASSEMBLY, OR REASSEMBLY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin, then hinge the upper open — and TAKE IT EASY",
+   "action": "Push the rear TAKEDOWN pin out as far as it will go and pivot the upper receiver away from the lower. ⛔ Excess force damages the receiver: these pins push, they do not get hammered. A cartridge rim or a punch is the tool if a pin is stiff, not a hammer.",
+   "prose": "Aluminium receivers take a set. A pin driven hard once leaves a rifle that rattles for the rest of its life.",
+   "quote": "1. Push the takedown pin (L-23) as far as it will go.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 12.3 Upper and Lower Receivers, step 1, p.29",
+   "warn": "CAUTION: EXCESS FORCE CAN SEVERELY DAMAGE THE RECEIVER. TAKE IT EASY!",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pivot pin out — the two receivers separate",
+   "action": "With the upper hinged open, push the front PIVOT pin as far as it will go and lift the two receivers apart. Same rule: press, do not force.",
+   "prose": "Most cleaning is done with the rifle hinged open. Separating fully is for when the lower needs work of its own.",
+   "quote": "2. Pivot the upper receiver (U-1) from the lower receiver (L-1). 3. Push the receiver pivot pin (L-20) as far as it will go. Take it easy!",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 12.3 Upper and Lower Receivers, steps 2-3, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier out, then the charging handle BACK AND DOWN",
+   "action": "Pull the charging handle and the bolt carrier assembly back together and lift the carrier out. Then pull the charging handle further BACK AND DOWN to drop it out of its track. ⚠ Back and down — it does not come straight back, and forcing it straight back is how the track gets damaged.",
+   "prose": "The handle rides lugs in a slot; the slot has a relief cut only at the rear. That relief is what 'down' means.",
+   "quote": "3. Pull the charging handle back and down to remove it.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 12.4 Charging Handle and Bolt Carrier Assembly, step 3, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt FORWARD, firing pin retaining pin out — do not open its split end",
+   "action": "Push the bolt assembly forward to the unlocked position and pull the firing pin retaining pin out of the side of the carrier. ⛔ Do not open or close the split end of that pin — it is a spring cotter and spreading it ruins its grip.",
+   "prose": "That little cotter pin is the cheapest part in the rifle and the one most often destroyed by helpfulness.",
+   "quote": "4. Move the bolt assembly (BC-7) forward to the unlocked position and remove the firing pin retaining pin (BC-1). Do not open or close the split end of the firing pin retaining pin.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 12.4 Charging Handle and Bolt Carrier Assembly, step 4, p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt BACK, firing pin drops out the rear — catch it",
+   "action": "Push the bolt assembly IN to the locked position and the firing pin falls out of the rear of the carrier. Catch it. Forward to release the pin, back to release the firing pin — two opposite bolt positions, one after the other.",
+   "prose": "If the firing pin will not drop, the bolt is not fully back. It is a position problem, never a force problem.",
+   "quote": "5. Push in on the bolt assembly (BC-7) to put it in the locked position. 6. Catch the firing pin (BC-2) as it drops out of the rear of the bolt carrier assembly.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 12.4 Charging Handle and Bolt Carrier Assembly, steps 5-6, p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin a QUARTER TURN, then lift it out — and the bolt follows",
+   "action": "Give the bolt cam pin a quarter turn and lift it straight out, then draw the bolt assembly out of the front of the carrier. The quarter turn is what lines its flats up with the slot; without it the pin will not clear.",
+   "prose": "This is the joint that makes the whole thing a rotating-bolt rifle, and it comes apart with no tool at all.",
+   "quote": "7.Give the bolt cam pin (BC-3) a ¼ turn and lift it out.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 12.4 Charging Handle and Bolt Carrier Assembly, step 7, p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Extractor: check the spring, and leave the plunger assembly alone",
+   "action": "Press the rear of the extractor to confirm the spring works. If it has to come out, drive the extractor pin with a punch or a dummy round and lift the extractor and spring assembly clear. ⛔ Do NOT pull the spring assembly, its plunger or the O-ring out of the extractor — ArmaLite says so, and a lost plunger is a rifle that stops extracting.",
+   "prose": "Most owners never need this. The spring press-check is the part worth doing every time.",
+   "quote": "11. Remove the extractor and spring assembly. Do not remove the spring assembly (B-4), its plunger (B-3) or the O-ring (B-5) from the extractor (B-6).",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 12.4 Charging Handle and Bolt Carrier Assembly, step 11, p.32"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and operating spring — hammer COCKED, detent depressed",
+   "action": "Cock the hammer with your thumb first. Then push the buffer in, depress the buffer detent to release it, and let the buffer and operating spring come out of the tube UNDER CONTROL. ⛔ Glasses on for this one.",
+   "prose": "Cocking the hammer first is what keeps it out of the buffer's path. Skip it and the buffer catches on the hammer every time.",
+   "quote": "1. Cock the hammer (L-28) with your thumb. Push in the buffer (L-5) and depress the buffer detent (L-8) to release the buffer.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 12.5 Lower Receiver Assembly, step 1, p.33"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ NEVER reverse a bore brush inside the bore",
+   "action": "Solvent on the bore and chamber, the gas tube, the upper receiver and barrel assembly, the locking lugs and everywhere fouling has collected. Run the rod through from the chamber and out the muzzle several times. ⛔ Never change the brush's direction while it is in the bore — push it all the way through and unscrew it, or use a pull-through cable, which is ArmaLite's own recommendation for breech-to-muzzle cleaning.",
+   "prose": "Reversing a bronze brush in a rifled bore is how crowns and lands get damaged, and it is entirely avoidable.",
+   "quote": "1. Use cleaning solvent on the bore and chamber, the gas tube (U-9), the upper receiver and barrel assembly, locking lugs and all areas of powder fouling, corrosion, dirt or dust.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 13.2 Upper Receiver and Barrel Assembly, step 1, p.35",
+   "warn": "CAUTION: DON’T REVERSE THE DIRECTION OF THE BORE BRUSH WHILE IT’S IN THE BORE.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Chamber brush into the chamber AND the locking lugs — push and twist",
+   "action": "Fit the chamber brush to the rod, dip it in solvent, insert it into the chamber and the locking lug recesses, and clean by PUSHING AND TWISTING. The lug recesses are where carbon actually causes stoppages, and a bore brush never reaches them.",
+   "prose": "This is the single most-skipped step on an AR and the one that fixes the most failures to go into battery.",
+   "quote": "2. Install the chamber brush on the cleaning rod, dip it in cleaning solvent, and insert it into the chamber and locking lugs. Clean by pushing and twisting the cleaning rod.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 13.2 Upper Receiver and Barrel Assembly, step 2, p.36"
+  },
+  {
+   "phase": "Clean",
+   "title": "Gas tube: OUTSIDE only, with a worn-out brush",
+   "action": "Clean the OUTSIDE of the protruding gas tube with a worn-out bore brush — the procedure ruins the brush, so keep an old one for it. ⛔ Do not try to clean the INSIDE of the gas tube, and do not bend it: a bent tube slows or blocks the carrier. ⚠ Heat discolouration on the tube is normal — do not chase it.",
+   "prose": "The gas tube is the one part of an AR where doing more is strictly worse. ArmaLite says so twice on the same page.",
+   "quote": "3. Use a worn out bore brush to clean the outside surface of the protruding gas tube (U-9) (get the sides and bottom from the bottom of the upper receiver). This procedure ruins the brush.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 13.2 Upper Receiver and Barrel Assembly, step 3, p.36",
+   "warn": "CAUTION: DO NOT BEND THE GAS TUBE. IF THE TUBE IS BENT, IT WILL SLOW OR BLOCK FORWARD MOVEMENT OF THE BOLT CARRIER ASSEMBLY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Carrier key with a worn brush, then DRY it and one drop inside",
+   "action": "Clean the bolt carrier key with a worn bore brush dipped in solvent and dry it with a pipe cleaner. At the end, dry the key again and put ONE drop of lubricant inside it. ⚠ And leave the carbon in the groove at the bottom of the carrier's gas cylinder alone — ArmaLite says trying to remove it causes more damage than leaving it.",
+   "prose": "\"Avoid the instinct to over clean your rifle\" is ArmaLite's own sentence about this platform, and it is the correct instinct to resist.",
+   "aside": "NOTE: Carbon in the groove at the bottom of the gas cylinder in the carrier cannot accumulate enough to become a problem. Efforts to remove it cause more damage than leaving it. Avoid the instinct to over clean your rifle.",
+   "quote": "2. Clean the bolt carrier key (BC-6) with a worn bore brush dipped in solvent and dry with a pipe cleaner.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 13.3 Charging Handle and Bolt Carrier Assembly, step 2, p.38"
+  },
+  {
+   "phase": "Clean",
+   "title": "Work the ejector until the brass shavings fall out, then lube it generously",
+   "action": "Press the ejector in repeatedly to shake accumulated brass shavings out of the ejector hole and to prove it moves freely. Then lubricate it GENEROUSLY. Clean behind the bolt rings and under the extractor lip while you are there.",
+   "prose": "A sticky ejector throws brass into the shooter's face and reads as an ammunition problem for months.",
+   "quote": "5. Press the ejector (B-10) in repeatedly to remove accumulated brass shavings from the ejector hole and assure the ejector moves freely. Lubricate it generously.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 13.3 Charging Handle and Bolt Carrier Assembly, step 5, p.38"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Inspect the bolt at the CAM PIN HOLE — that is where they crack",
+   "action": "Inspect the bolt assembly for cracks or fractures, especially around the cam pin hole. Then the firing pin retaining pin for bends, breaks or dents; the cam pin for cracks or chips; the firing pin for bends, cracks or a sharp, chipped or blunted tip; and the charging handle for cracks, bends or breaks.",
+   "prose": "The cam pin hole is the thinnest section of the bolt and it is where a high-round-count bolt fails. Look at it every time it is out.",
+   "quote": "7. Inspect the bolt assembly for cracks or fractures, especially in the cam pin hole area.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 13.3 Charging Handle and Bolt Carrier Assembly, step 7, p.39",
+   "warn": "WARNING: DO NOT INTERCHANGE BOLTS BETWEEN RIFLES.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lubrication is DELIBERATELY UNEVEN — light here, generous there",
+   "action": "LIGHT on the firing pin and its recess, on the inner and outer surfaces of the carrier, and on the charging handle. GENEROUS on the outside of the cam pin and the firing pin retaining pin, on the cam pin hole, the bolt rings and the outside of the bolt, and on the carrier's slide and cam pin area. ArmaLite splits the two words on purpose.",
+   "prose": "For a high-round-count shooter this is the whole reliability story: an AR wants to be wet where it slides and dry where it strikes.",
+   "aside": "11. Lightly lubricate the firing pin and firing pin recess in the bolt assembly.",
+   "quote": "12. Generously lubricate the outside of the bolt cam pin and the firing pin retaining pin. Make certain to lubricate the bolt cam pin hole, bolt rings, and outside of the bolt.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 13.3 Charging Handle and Bolt Carrier Assembly, step 12, p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Lower receiver: no wire brush, no abrasives — it is aluminium",
+   "action": "Wipe the trigger with a swab; swab and brush powder fouling, corrosion and dirt out of the lower; a pipe cleaner through the buttstock screw vent hole; and a solvent swab through the buffer, the recoil spring and the inside of the lower. Then LIGHT lube on the buffer and operating spring, GENEROUS on the takedown and pivot pins and the internal parts.",
+   "prose": "Aircraft-grade aluminium anodising is thin. A wire brush takes it off and the corrosion starts underneath.",
+   "quote": "4. Clean the buffer, recoil spring, and inside lower receiver with a swab dipped in solvent. 5. Lightly lubricate the buffer and operating spring.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 13.4 Lower Receiver Assembly, steps 4-5, p.40",
+   "warn": "CAUTION: DO NOT USE A WIRE BRUSH OR ANY TYPE OF ABRASIVE MATERIAL TO CLEAN ALUMINUM SURFACES",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ No graphite — ever — on an aluminium-receivered rifle",
+   "action": "Whatever you clean and lubricate with, it must not contain graphite: graphite encourages rapid corrosion of the aircraft-grade aluminium this rifle is made from. ⚠ And keep lubricant and preservative off the ammunition — it can leave a bullet lodged in the bore.",
+   "prose": "Graphite is galvanically noble against aluminium. It is a battery, in a receiver.",
+   "quote": "Under NO conditions should any lubricant containing graphite be used with your rifle. Graphite can encourage rapid corrosion to the aircraft-grade aluminum used in your rifle.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 13.1 Cleaning Solvents and Lubricants, p.35",
+   "warn": "WARNING: DO NOT APPLY LUBRICANT OR PRESERVATIVE TO YOUR AMMUNITION. DOING SO MAY CAUSE THE CARTRIDGE TO PARTIALLY MALFUNCTION, LEAVING THE BULLET LODGED IN THE BORE, CREATING A BORE OBSTRUCTION.",
+   "warnSrc": "maker"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "⚠ Two-piece handguards are a two-person job — the \"buddy system\"",
+   "action": "ArmaLite's own name for it. Stand the rifle on its buttstock, one hand on the stock and one on the lower end of the handguard, and have a second person press DOWN on the slip ring — that is a two-hand job by itself — while you pull the handguard free. Repeat for the other half. ⚠ This applies to TWO-PIECE handguards; a free-float rail is a different part and is not covered by this book.",
+   "prose": "Every jig and lever sold for this exists because the honest answer in the manual is \"get help\".",
+   "quote": "2. While your buddy presses down on the slip ring (U-8), which is a two-hand job, pull the handguard free. 3. Repeat this procedure to remove the other handguard.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 12.2 Two Piece Hand Guards – The “Buddy System”, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine strip — pry the floorplate, and do NOT separate spring from follower",
+   "action": "Use a cartridge tip or a similar tool to pry the REAR of the floorplate up just enough to slide it off. The spring comes out easily; the follower has to be twisted and withdrawn REAR FIRST. ⛔ Do not remove the spring from the follower — and that is the end of the strip: ArmaLite states no further disassembly of the firearm is required.",
+   "prose": "Rear first is the whole trick with the follower, and the reason people snap them.",
+   "aside": "NO FURTHER DISASSEMBLY OF THE FIREARM IS REQUIRED.",
+   "quote": "Remove the spring and attached follower from the magazine shell. The spring will exit the shell easily, but the follower must be twisted and withdrawn, rear first. Do not remove the spring from the follower.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 12.6 Disassembling the Magazine, p.34"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ ArmaLite's National Match trigger is NOT user adjustable",
+   "action": "If your rifle carries ArmaLite's National Match trigger assembly, it is intentionally built with a small amount of creep in the second stage for safety reasons and it is not user adjustable. It breaks in over 200 to 500 rounds; if excess creep remains it is a gunsmith job. ⚠ Your rifle's trigger may not be this one — triggers are exactly the kind of part ArmaLite's own notice says to ask the maker about.",
+   "prose": "Included because a trigger that feels 'wrong' out of the box is the commonest reason someone opens a lower they should not.",
+   "quote": "WARNING: ARMALITE’S NATIONAL MATCH TRIGGER ASSEMBLY ISN’T USER ADJUSTABLE. FOR SAFETY REASONS, IT IS INTENTIONALLY BUILT WITH A SMALL AMOUNT OF CREEP IN THE SECOND STAGE.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 13.4 Lower Receiver Assembly, p.40"
+  },
+  {
+   "phase": "Clean",
+   "title": "Long-term storage — preservative on, magazines DOWN five rounds",
+   "action": "Clean the rifle well and apply a good-quality preservative. Clear it, drop the magazine, check the chamber twice, then dry fire so the hammer sits in the fired position rather than under spring load. ⛔ Never dry fire without the bolt carrier assembly installed — the firing pin is what stops the hammer, and without it the hammer strikes the lower receiver. Store magazines empty, or five rounds down from capacity.",
+   "prose": "Springs take a set. Five down is a cheap way to keep a stored magazine working.",
+   "quote": "It is always best to store your magazines empty. However if you need to store them loaded, we recommend that you store them with 5 rounds less than their stated capacity.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 13.5 Long Term Storage, p.41",
+   "warn": "CAUTION: NEVER DRY FIRE YOUR FIREARM WITHOUT THE BOLT CARRIER ASSEMBLY INSTALLED. THE FIRING PIN STOPS THE FALL OF THE HAMMER. WITHOUT THE BOLT CARRIER ASSEMBLY INSTALLED, THE HAMMER CAN IMPACT ON THE LOWER RECEIVER, DAMAGING IT.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "⛔ STAGGER THE GAS RING GAPS",
+   "action": "When the bolt goes back into the carrier, stagger the gaps in the three gas rings so they do not line up. Aligned gaps let gas past and the rifle short-strokes.",
+   "prose": "Thirty seconds of attention that prevents a fault that looks exactly like an ammunition problem.",
+   "quote": "4. Stagger the gaps in the gas rings (B-1) to prevent gas loss.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 14.2 Charging Handle and Bolt Carrier, step 4, p.42"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "⛔ The shake test — the firing pin must NOT fall out",
+   "action": "With the bolt group back together, turn the carrier assembly up and try to shake the firing pin out. It must NOT fall out. If it does, the firing pin retaining pin is not seated and the rifle is not safe to fire. ⛔ And never pound that pin into place — it damages it.",
+   "prose": "A ten-second test that catches the one bolt-group assembly error that can hurt someone.",
+   "quote": "9. Turn the bolt carrier assembly up and try to shake out the firing pin. The firing pin must not fall out.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 14.2 Charging Handle and Bolt Carrier, step 9, p.43",
+   "warn": "CAUTION: DO NOT POUND OR FORCE THE FIRING PIN RETAINING PIN INTO POSITION; IT MAY BE DAMAGED.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Hammer COCKED before the receivers join — and shut the port cover first",
+   "action": "The hammer must be cocked to join the receivers. ⛔ Close the ejection port cover BEFORE the receivers come together, or the cover gets damaged. Then join them, align the pivot pin holes and push the pivot pin in, close them up and push the takedown pin home.",
+   "prose": "Two small preconditions that turn a fight into a click.",
+   "quote": "NOTE: The hammer must be in cocked position to join the receivers.",
+   "cite": "ARMALITE®, INC OWNER’S MANUAL FOR M-15™ RIFLES AND CARBINES — November 2013 Rev 28, P/N: MANUAL M15 — 14.3 Upper and Lower Receivers, p.44",
+   "warn": "CAUTION: TO AVOID DAMAGE TO THE EJECTION PORT COVER, CLOSE THE EJECTION PORT COVER BEFORE THE RECEIVERS ARE JOINED.",
+   "warnSrc": "maker"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE, CHAMBER AND LOCKING LUGS",
+   "tasks": [
+    "Solvent on bore, chamber, locking lugs and all fouled areas",
+    "⛔ Never reverse the bore brush inside the bore",
+    "Chamber brush pushed AND twisted into the chamber and lug recesses",
+    "Swabbed dry chamber-to-muzzle, then lightly lubricated",
+    "Barrel, gas tube and handguards inspected for cracks, bends or breaks"
+   ]
+  },
+  {
+   "name": "GAS TUBE",
+   "tasks": [
+    "OUTSIDE only, with a worn-out bore brush",
+    "⛔ Never the inside — not needed and not effective",
+    "⛔ Never bent — a bent tube blocks the carrier",
+    "Heat discolouration left alone"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Carrier and all parts swabbed with solvent",
+    "Carrier key brushed, dried with a pipe cleaner, one drop of lube inside",
+    "Locking lugs brushed; behind the bolt rings and under the extractor lip",
+    "Ejector pressed repeatedly until the brass shavings fall out, then lubed generously",
+    "Bolt inspected at the CAM PIN HOLE for cracks",
+    "Carbon in the carrier's gas-cylinder groove LEFT ALONE",
+    "⛔ Bolts never interchanged between rifles"
+   ]
+  },
+  {
+   "name": "LOWER RECEIVER",
+   "tasks": [
+    "Trigger wiped; fouling swabbed and brushed out of the lower",
+    "Pipe cleaner through the buttstock screw vent hole",
+    "Buffer, recoil spring and inside of the lower swabbed with solvent",
+    "LIGHT lube on buffer and operating spring; GENEROUS on takedown and pivot pins",
+    "⛔ No wire brush and no abrasive on aluminium"
+   ]
+  },
+  {
+   "name": "WHAT NOT TO USE",
+   "tasks": [
+    "⛔ No lubricant containing graphite — it corrodes the aluminium",
+    "⛔ No lubricant or preservative on the ammunition"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Operating spring and buffer into the lower.",
+  "Extractor and spring into the bolt; extractor pin in with the holes aligned.",
+  "⛔ Gas ring gaps STAGGERED.",
+  "Bolt into the carrier only far enough to insert the cam pin; cam pin in, quarter turn.",
+  "Firing pin dropped in; bolt pulled forward; retaining pin in behind the firing pin flange.",
+  "⛔ SHAKE TEST — the firing pin must not fall out.",
+  "Charging handle lugs engaged in the upper's track, pushed part way in.",
+  "Bolt carrier, bolt extended, slid in; handle and carrier pushed home together.",
+  "Ejection port cover CLOSED, hammer COCKED, receivers joined, pivot pin then takedown pin.",
+  "Two-piece handguards back on with a second pair of hands on the slip ring."
+ ],
+ "fncheck": "ArmaLite's own functional check, in order. 1) Magazine out, chamber inspected empty, then an EMPTY magazine installed — confirm the magazine catch holds it solidly. 2) Charging handle to the rear and returned forward by hand: the bolt should stay back against the bolt stop. Remove the magazine and press the bolt stop — the carrier should be driven forward by the operating spring. 3) Safety on SAFE, squeeze the trigger: the trigger should NOT fall. 4) Safety to FIRE, squeeze and HOLD the trigger: the hammer should fall. Cycle the charging handle, then release the trigger — you should hear a click as it resets. Squeeze again and the hammer should fall. ⛔ If your rifle fails this test it does not get loaded; ArmaLite's instruction is to call the maker."
+}

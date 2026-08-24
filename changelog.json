@@ -2,6 +2,38 @@
  "_doc": "One entry per published index version, newest first. `added` is the row ids whose guide first appeared at that version, so a client holding version N can ask for everything since N without a redesign.",
  "versions": [
   {
+   "version": 9,
+   "publishedAt": "2026-08-24",
+   "appCommit": "f340037f56a9f813aaf46e63faf1fb392bc288d5",
+   "counts": {
+    "catalogRows": 1166,
+    "guides": 692,
+    "plates": 54
+   },
+   "added": [
+    "danieldefenseddm4isr",
+    "deadairct5p",
+    "deadairnomax33",
+    "deadairrxd22ti",
+    "deadairrxd30ti",
+    "deadairrxd910ti",
+    "deadairsandmanl",
+    "jpenterprisesgmr15",
+    "jpenterprisesjp5",
+    "qjumboshrimp",
+    "qporqchop",
+    "qshortchop",
+    "rileydefenserak47",
+    "ruggedsuppressorsaxial",
+    "sigsauermodx9",
+    "txar15",
+    "wilsoncombatsilentbandit"
+   ],
+   "changed": [],
+   "removed": [],
+   "platesAdded": []
+  },
+  {
    "version": 8,
    "publishedAt": "2026-08-23",
    "appCommit": "c72b472aa31fb870778b4e88cf31608ef906edd6",

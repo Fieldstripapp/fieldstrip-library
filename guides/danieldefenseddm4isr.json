@@ -1,0 +1,163 @@
+{
+ "row": "danieldefenseddm4isr",
+ "make": "Daniel Defense",
+ "model": "DDM4ISR",
+ "sourcedFrom": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "ba04a6e3fc59ad56c164bb803c0ac432fb08a40a2db7c8ce574627c665bc2e39",
+ "cleanIntro": "The DDM4ISR is an INTEGRALLY suppressed 300 Blackout rifle — the suppressor is part of the barrel assembly, not something you unscrew. ⛔ Daniel Defense's whole maintenance position on it is that the baffle CAN come out and normally should NOT: a BoreSnake is the routine method, the monolithic baffle comes out only when that fails or there is an obstruction, and the baffle threads are LEFT-HAND. ⛔ Removing any suppressor component other than the monolithic baffle may be an illegal modification, in Daniel Defense's own words.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, safe, chamber empty — then split the receivers",
+   "action": "Remove the magazine, put the rifle on safe and confirm the chamber is empty. Then push out the takedown and pivot pins to separate the upper from the lower, and take the bolt carrier group and charging handle out of the upper.",
+   "prose": "Every route into this barrel — routine or not — starts with the upper off and empty. The suppressor is inside the upper, not on the end of it.",
+   "quote": "1. Remove the magazine, place the firearm on safe, and make sure that the chamber is empty. 2. Remove the upper receiver from the lower receiver by pushing out the takedown and pivot pins. 3. Remove the bolt carrier group and charging handle from the upper receiver.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 5.6 Barrel Cleaning Procedure, items 1-3, p.39",
+   "warn": "MAKE SURE THAT THE MAGAZINE IS REMOVED AND THAT THE FIREARM IS UNLOADED SO THAT IT CANNOT BE FIRED.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ The routine method is a BORESNAKE — and frequent cleaning is NOT recommended",
+   "action": "This is the position the whole guide rests on. For normal use, a BoreSnake (Daniel Defense names the Hoppe's .308 24015 or similar) with a quality bore solvent is ALL that is needed. The suppressor itself is designed for minimum maintenance and frequent cleaning of the internals is neither required nor recommended.",
+   "prose": "On an integral can, over-servicing costs more than under-servicing. The maker says so in the same sentence that tells you what to do instead.",
+   "quote": "The DDM4ISR Sound Suppressor itself is designed to require minimum maintenance, and frequent cleaning of the internals is not required or recommended.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 5.6 Cleaning Procedure for DDM4ISR Barrel and Suppressor, p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "Solvent forward of the brush, muzzle DOWN, breech to muzzle",
+   "action": "Put a high-quality bore solvent (Kano Kroil is the named recommendation) on the BoreSnake forward of the brush. Hold the upper receiver group vertical, MUZZLE DOWN, drop the weighted end into the barrel from the BREECH and let it pass through the suppressor's baffle core and out the muzzle. Pull it through, and repeat two or three times.",
+   "prose": "Muzzle down is deliberate: gravity carries the solvent and the loosened carbon out of the can instead of back into the chamber.",
+   "quote": "Holding the upper receiver group vertical, muzzle down, take the weighted end of the BoreSnake and insert into the barrel from the breech. Allow it to pass through the baffle core of the sound suppressor and out the muzzle.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 5.6 Barrel Cleaning Procedure, item 5, p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ NO CLEANING ROD AND PATCHES with the baffle installed",
+   "action": "This is the prohibition that defines the routine procedure. A rod and patches with the baffle in place can damage the baffle core or leave a patch inside the suppressor assembly. If a rod must be used, the baffle comes out FIRST — that is the whole reason section 5.7 exists.",
+   "prose": "A patch lost inside an integral suppressor is not retrievable from either end, and it is in the bore.",
+   "quote": "DO NOT USE A CLEANING ROD AND PATCHES TO CLEAN THE BARREL WITH THE BAFFLE INSTALLED. YOU MAY DAMAGE THE BAFFLE CORE OR LEAVE PATCHES IN THE SUPPRESSOR ASSEMBLY. IF A CLEANING ROD MUST BE USED, REMOVE THE BAFFLE FROM THE SUPPRESSOR.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 5.6 Barrel Cleaning Procedure, p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "Finish with a light oil pass on the tail",
+   "action": "Put a small amount of high-quality gun oil on the TAIL of the BoreSnake and pass it through the barrel one final time. That is the end of the routine procedure.",
+   "prose": "Tail, not brush. The oil goes on last and thin, behind everything that just scrubbed.",
+   "quote": "Apply a small amount of high-quality gun oil to the tail of the BoreSnake and pass through the barrel a final time.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 5.6 Barrel Cleaning Procedure, item 7, p.39"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "⛔ Baffle SECURE before shooting — and no other component comes out",
+   "action": "After any cleaning or maintenance on the suppressor assembly, confirm the monolithic baffle is securely tightened in place before firing. ⛔ And understand the boundary: Daniel Defense states that modifying or attempting to remove suppressor components OTHER than the monolithic baffle may result in illegal modifications to the sound suppressor.",
+   "prose": "That is a legal statement as much as a mechanical one, and it is the reason this guide stops where it stops.",
+   "quote": "ALWAYS ENSURE THAT THE MONOLITHIC BAFFLE IS SECURE IN THE SUPPRESSOR ASSEMBLY BEFORE SHOOTING.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 3.1 Suppressor Handling Cautions (DDM4ISR), item 1, p.10",
+   "warn": "ANY MAINTENANCE REQUIRED PAST WHAT IS DESCRIBED IN THIS MANUAL SHOULD ONLY BE ATTEMPTED BY A QUALIFIED GUNSMITH.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "⛔ NEVER fire it with liquid inside the suppressor",
+   "action": "Before the rifle goes back together and forward, make sure no solvent, oil or water is standing inside the suppressor assembly. Daniel Defense's reason is pressure: liquid inside may induce dangerous pressure fluctuations on firing.",
+   "prose": "On an integral can this is the direct consequence of a solvent-heavy clean and a rifle reassembled too soon.",
+   "quote": "NEVER DISCHARGE THE FIREARM WITH ANY LIQUID INSIDE OF THE SUPPRESSOR ASSEMBLY. a. The presence of liquid may induce dangerous pressure fluctuations upon firing.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 3.1 Suppressor Handling Cautions (DDM4ISR), item 2, p.10"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "⚠ WHEN the baffle comes out — and it is a short list",
+   "action": "Section 5.7 applies ONLY where the BoreSnake method has failed to clean the barrel adequately, or there is an obstruction in the suppressor bore that cannot easily be removed. Daniel Defense states the suppressor does not need regular cleaning and will run without loss of sound reduction for many thousand rounds.",
+   "prose": "Two triggers, both symptoms. Neither of them is a round count or a calendar.",
+   "quote": "This procedure should only be used in the event that the boresnake cleaning method fails to adequately clean the barrel or there is an obstruction (dirt, debris) in the suppressor bore that cannot be easily removed.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 5.7 Barrel Cleaning Procedure (Cleaning Rod, Baffle Removed), p.40",
+   "warn": "WEAR SAFETY GLASSES AND CHEMICAL-RESISTANT GLOVES.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Soak the MUZZLE HALF overnight before you touch the baffle",
+   "action": "The baffle is usually stuck with carbon. Daniel Defense's recommended approach is to immerse the MUZZLE HALF of the suppressor in Kano Kroil OVERNIGHT — stand the upper receiver group vertically in a small container so only the muzzle end is submerged, which also keeps the amount of solvent down.",
+   "prose": "This is a next-day job. Attacking a carbon-locked baffle with a wrench on the same evening is how the tool slots get destroyed.",
+   "quote": "Immerse the muzzle half of suppressor in Kano Kroil overnight. This can be done by using a small container and by positioning the upper receiver group vertically so that only the muzzle end is submerged.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 5.7, item 4a, p.40"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ LEFT-HAND THREADS — turn CLOCKWISE to loosen the baffle",
+   "action": "Support the upper in a bench vise on an upper receiver block that carries the barrel extension LUGS. Then, with a torque-limiting (preferred) or standard 1/2 inch square drive and the provided removal tool, back the baffle out of the suppressor tube. ⛔ The threads are LEFT HAND: clockwise loosens.",
+   "prose": "Every instinct says counter-clockwise. Following it here tightens a carbon-locked joint until something gives.",
+   "caution": "The block must support the barrel extension lugs, not the receiver walls.",
+   "quote": "Using a torque limiting (preferred) or standard 1/2\" square drive wrench and the provided tool, remove the baffle from the suppressor tube. The threads are left hand so turn clockwise to loosen.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 5.7, item 4c, p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "Baffle out: soak, NYLON brush, and mind the threaded portion",
+   "action": "With the baffle out, soak it in a quality solvent — Kano Kroil, Hoppe's No. 9 or similar — until the carbon starts to loosen, then gently scrub it off with a NYLON brush, paying special attention to the THREADED portion. ⚠ Wear at the rear of the baffle, closest to the barrel muzzle, is normal and does not affect function.",
+   "prose": "The threads are what you are really cleaning. That is the surface that decides whether it ever comes out again.",
+   "quote": "With a nylon brush, gently scrub the loosened carbon from the baffle. Pay special attention to the threaded portion of the baffle.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 5.7 Baffle Cleaning Procedure, item 2, p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "Now the rod is legal — barrel, tube and baffle core",
+   "action": "With the baffle removed the barrel can be cleaned normally with a rod, brush, jag and patches. The inside of the suppressor tube and the baffle core can also be cleaned with standard bore solvents and brushes. ⚠ Carbon fouling on suppressor internals is normal and does not affect function — you are not chasing bare metal.",
+   "prose": "The whole reason to take the baffle out was to make the rod safe. Use it, then stop.",
+   "quote": "Once the baffle is removed, the barrel can be cleaned with a cleaning rod, brush, jag, and patches as normal. The inside of the suppressor tube and the baffle core can also be cleaned using standard bore solvents and brushes. Carbon fouling on the internals of a sound suppressor is normal and does not affect function.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 5.7, item 4d, p.41"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "⛔ Baffle back in LEFT-HAND at 20-25 lb-ft, and NOT past 25",
+   "action": "Lightly oil the baffle threads and reinstall — remembering the threads are LEFT-HANDED — then torque to 20-25 lb-ft. ⛔ Do not exceed 25 lb-ft: Daniel Defense states that excessive torque can damage the suppressor, the barrel or both and increases the likelihood of a baffle strike. Its own recommendation is to avoid this procedure unless absolutely necessary and to have a qualified gunsmith perform it.",
+   "prose": "A torque window with a stated failure mode on the high side. Use a wrench that reads, not a wrench that feels.",
+   "aside": "It is recommended that this procedure be avoided unless absolutely necessary, and be performed by a qualified gunsmith.",
+   "quote": "DO NOT OVER TIGHTEN PAST 25 LB-FT. THIS MAY DAMAGE THE SUPPRESSOR ASSEMBLY AND RESULT IN THE PROJECTILE STRIKING THE BAFFLE UPON FIRING.",
+   "cite": "DD4 / DDM4 / DD5 MANUAL — single_pg_1.4 — 5.7, item 4e, p.41"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "ROUTINE — BORESNAKE ONLY",
+   "tasks": [
+    "Upper off the lower, BCG and charging handle out",
+    "Quality bore solvent on the BoreSnake forward of the brush",
+    "Upper held vertical, MUZZLE DOWN, snake fed from the breech",
+    "Pulled through 2-3 times, then a light oil pass on the tail",
+    "⛔ No cleaning rod and no patches while the baffle is installed"
+   ]
+  },
+  {
+   "name": "BAFFLE OUT — ONLY IF THE SNAKE FAILED OR THERE IS AN OBSTRUCTION",
+   "tasks": [
+    "Muzzle half immersed in Kano Kroil overnight",
+    "Upper in a bench block that supports the barrel extension lugs",
+    "⛔ LEFT-HAND thread — clockwise to loosen, 1/2 inch square drive",
+    "Baffle soaked, then nylon brush, threads especially",
+    "Barrel, tube and baffle core cleaned normally with the baffle out",
+    "⛔ Reinstalled left-hand at 20-25 lb-ft, never past 25"
+   ]
+  },
+  {
+   "name": "BEFORE IT GOES BACK TOGETHER",
+   "tasks": [
+    "Monolithic baffle confirmed securely tightened",
+    "⛔ No liquid left standing inside the suppressor assembly",
+    "Bore and suppressor confirmed clear of obstructions",
+    "⛔ Nothing but the monolithic baffle removed — anything else may be an illegal modification"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Baffle threads lightly oiled; baffle installed LEFT-HAND at 20-25 lb-ft.",
+  "Bolt carrier group and charging handle back into the upper.",
+  "Upper onto the lower; takedown and pivot pins seated.",
+  "Baffle confirmed secure and the suppressor confirmed dry before any firing."
+ ],
+ "fncheck": "⛔ Confirm the monolithic baffle is securely tightened — Daniel Defense makes that an always, before shooting, after any suppressor maintenance. Confirm the chamber, bore, suppressor and action are clean and clear of obstructions. ⛔ Confirm nothing liquid is left inside the suppressor assembly. Then function-check the rifle: bolt carrier cycling freely, charging handle latching, safety selector working through its positions on an empty chamber."
+}

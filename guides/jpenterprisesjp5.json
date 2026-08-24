@@ -1,0 +1,229 @@
+{
+ "row": "jpenterprisesjp5",
+ "make": "JP Enterprises",
+ "model": "JP-5",
+ "sourcedFrom": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "c0b5f4cf7dd348f1200f7d0d5a8291948d7167afbc7271a7e45f6d17e534c84b",
+ "cleanIntro": "The JP-5 is a ROLLER-DELAYED 9mm carbine, not a straight blowback, and the part that makes it one is the LOCK PIECE — a wedge whose angle sets how long the bolt stays closed. ⚠ Two things about maintaining it are unusual and both are JP's own words: the bolt does NOT need taking apart for routine cleaning, and the hand guard is Loctited on and is not meant to come off for cleaning at all. What DOES want attention on a 9mm is the crown and the compensator — JP says vaporized lead builds up there very quickly.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, bolt LOCKED BACK, chamber looked at",
+   "action": "Remove the magazine if it is not already out, pull the charging handle rearward and press the bottom of the bolt catch button until the bolt locks. Then look into the chamber and the receiver.",
+   "prose": "Locking the bolt back is what holds the action open while both eyes do the check — this is JP's own order.",
+   "quote": "2. Pull the charging handle rearward and press the bottom of the bolt catch button until the bolt locks.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Disassembly and Reassembly — Clearing the Rifle, step 2, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lay the parts out FIRST — JP says so, and it is the step people skip",
+   "action": "Before anything comes off, decide where the parts are going. JP opens its field strip with this instruction because some of what comes out of a JP-5 is small and easy to lose — the lock piece and the firing pin spring especially.",
+   "prose": "A one-line instruction that exists because someone lost a lock piece.",
+   "quote": "Before beginning the “field strip” described in the following steps, take care to lay out the removed components in an organized way as some can easily be misplaced and lost.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Disassembly and Reassembly — Disassembly, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Rear takedown pin — it does NOT come out, and a mallet can break the receiver",
+   "action": "Press the rear takedown pin in from the LEFT of the lower and pull it out the RIGHT until it stops. It is retained by a detent plunger and cannot come all the way out. ⛔ If the fit is tight and you reach for a punch and mallet, be very gentle — JP states that excessive force can break the detent plunger out of the side of the receiver, that this is not covered by any warranty, and that it means a new lower.",
+   "prose": "The warranty sentence is JP's, and it is the clearest statement of consequence in the whole book.",
+   "caution": "Left to right, always. The detent is on one side only.",
+   "aside": "The pin cannot be completely removed as it is retained by a detent plunger.",
+   "quote": "1. Press the rear takedown pin in from the left of the lower receiver and pull it out the right side until it comes to a positive stop.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Disassembly and Reassembly — Disassembly, step 1, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hinge it open, then the front pivot pin — same rule",
+   "action": "Pivot the lower down and away from the upper. Then press the front pivot pin in from the left and pull it out the right until it stops — this one is also captured by a detent plunger and also cannot be removed.",
+   "prose": "Two pins, two detents, neither of them ever leaves the receiver. Anything that does come out is a broken part.",
+   "quote": "2. Pivot the lower receiver down and away from the upper receiver.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Disassembly and Reassembly — Disassembly, step 2, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Separate the halves — and catch the bolt on the way out",
+   "action": "Lift the two assemblies apart, holding the upper level. The bolt assembly is not retained once the lower is off and will fall out of the back of the upper if you tip it.",
+   "prose": "On an AR the carrier stays put until you pull it. On this one it does not.",
+   "quote": "4. Separate the upper and lower assemblies. Take care that the bolt assembly does not fall out the back of the upper assembly.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Disassembly and Reassembly — Disassembly, step 4, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier out, charging handle back-and-DOWN",
+   "action": "Pull the charging handle to the rear of the upper and draw the bolt carrier assembly out. Then take the top charging handle out by pulling it BACKWARDS until it stops and then DOWN out of the upper receiver.",
+   "prose": "Back until it stops, then down. Straight back does not clear the track.",
+   "quote": "7. Remove the top charging handle by pulling it backwards until it stops and then down out of the upper receiver.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Disassembly and Reassembly — Disassembly, step 7, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ The Silent Captured Spring is NOT a routine removal",
+   "action": "The SCS comes out by depressing the buffer retainer pin and sliding it from the extension tube — but JP says outright that this is not necessary for regular maintenance. It wants inspection every 1,000 to 2,000 rounds, or once a year, unless a specific problem needs access to it.",
+   "prose": "An interval and a condition, both stated. Pulling it every clean buys nothing.",
+   "quote": "The Silent Captured Spring need only be removed for inspection every 1,000 to 2,000 rounds (or at least once a year) unless there is a specific problem requiring access to it.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Disassembly and Reassembly — Disassembly, step 5, p.24"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Brush ALL THE WAY THROUGH before reversing — and keep the rod off the crown",
+   "action": "Brass bristle brush on the rod, dipped in cleaning solution, entering from the BREECH end ONLY. Pass the brush all the way through before reversing direction — JP warns that changing direction with the brush inside can stick it. And avoid letting the rod touch the muzzle: that wear costs accuracy.",
+   "prose": "Two failures in one step — a stuck brush and a worn crown — and both are avoidable by direction and care.",
+   "caution": "Avoid contact between the cleaning rod and the muzzle, as resultant wear will reduce accuracy.",
+   "quote": "Inserting the brush from the breech/receiver end only, thoroughly scrub out the barrel, passing the brush all the way through before reversing motion. If you try to change direction with the brush in the barrel, it may stick.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Cleaning and Maintenance — Cleaning the Upper Assembly, step 1, p.31"
+  },
+  {
+   "phase": "Clean",
+   "title": "Patch until clean, then a chamber brush — and a drill if you are careful",
+   "action": "Saturated flannel patch on a tight jag through the chamber and out the barrel, repeating with fresh patches until the last one comes out clean. If the bore is still dirty, the chamber brush goes on the rod with bore solution; JP even sanctions a variable-speed drill at medium speed, plunging in and out — with eye protection.",
+   "prose": "Chamber fouling in a blowback PCC is what turns a rifle sluggish long before the bore does.",
+   "quote": "Attach a cotton flannel patch to a jag on the end of the cleaning rod. Saturate the patch with bore solvent. Insert it through the chamber and pass the rod and patch through the barrel. Repeat the process with a fresh patch until the last patch comes out clean.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Cleaning and Maintenance — Cleaning the Upper Assembly, step 2, p.31"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt, carrier and LOCK PIECE — toothbrush, dental pick, then compressed air",
+   "action": "With the bolt carrier group apart, work a nylon toothbrush dipped in solvent over the bolt assembly, the bolt carrier and the LOCK PIECE. A dental pick gets hardened fouling the brush will not. Then dry all three completely with compressed air.",
+   "prose": "The lock piece is the part that makes this rifle roller-delayed. Fouling on its faces changes how the gun cycles.",
+   "quote": "6. With the bolt carrier group disassembled (See Disassembly above), dip a nylon toothbrush in solvent and thoroughly scrub and scour the bolt assembly, bolt carrier and lock piece.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Cleaning and Maintenance — Cleaning the Upper Assembly, step 6, p.32"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Check for bristles and fibres before it goes back together",
+   "action": "Verify that no fibres or brush bristles have lodged anywhere in the firearm, the bore especially, and remove excess lubricant or solvent. On a side-charging rifle, clean ferrous debris off the integral magnet of the side-charge handle.",
+   "prose": "A brass bristle left in a bore is an obstruction, and it arrived there from your own brush ten minutes earlier.",
+   "quote": "8. Verify that no fibers or brush bristles have become lodged anywhere in the firearm such as the bore.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Cleaning and Maintenance — Cleaning the Upper Assembly, step 8, p.32"
+  },
+  {
+   "phase": "Clean",
+   "title": "Run it WET — and wipe your fingerprints off",
+   "action": "Re-lubricate the bolt carrier assembly with an oil cloth, leaving a LIGHT FILM over the whole bolt assembly. JP's position is explicit: running the upper receiver wet is the best thing you can do for the longevity of the operating system. Then take gun solution, oil and fingerprints off the outside — finger moisture left on the metal corrodes it.",
+   "prose": "\"Wet\" is a real instruction here, not a shooting-forum opinion. It is in the maker's own maintenance section.",
+   "aside": "11. Remove any gun cleaning solution, oil or fingerprints from the outside surfaces of the firearm. Finger moisture, if left uncleaned, could cause corrosion.",
+   "quote": "Running the upper receiver wet is the best thing you can do to increase the longevity of your operating system and receiver.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Cleaning and Maintenance, p.30"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Lock piece: spring in, then rotate COUNTER-clockwise to capture",
+   "action": "Insert the firing pin and firing pin spring into the lock piece, then compress the spring by pushing the lock piece all the way in and rotating it COUNTERCLOCKWISE just enough to secure it. Then place the bolt onto the lock piece and keep turning counterclockwise until it CLICKS into place.",
+   "prose": "It comes apart clockwise and goes together counter-clockwise, under spring tension both ways. The click is the confirmation.",
+   "aside": "4. Place the bolt onto the lock piece and continue turning counterclockwise until the lock piece clicks into place.",
+   "quote": "3. Compress the firing pin spring with the lock piece by inserting it as shown all the way in and then rotating it counterclockwise just enough to secure it.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Disassembly and Reassembly — Reassembly, step 3, p.26"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Carrier key under the charging handle, then FRONT pin before rear",
+   "action": "Insert the bolt carrier assembly with the carrier key in the underside of the top charging handle and slide both fully forward into battery. Then set the upper on the lower and press the FRONT PIVOT PIN in FIRST and the rear push pin second. If they are too tight for fingers, a plastic or rubber mallet — never a steel one.",
+   "prose": "Front first is the order JP prints, and it is the one that lets the receivers line themselves up.",
+   "quote": "7. Place the complete upper assembly on the complete lower assembly and press the front pivot pin in first, then the rear push pin in next to fully capture the upper on the lower.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Disassembly and Reassembly — Reassembly, step 7, p.28"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "⚠ The bolt does NOT need taking apart for routine service",
+   "action": "JP states that cleaning the bolt assembly does not require disassembling its component parts, and that a complete disassembly is NOT recommended as part of regular maintenance. If you do need to: bolt face toward you, rotate the bolt assembly CLOCKWISE until it stops and pull it free; then rotate the lock piece clockwise until vertical, where it pops free — ⛔ grip it firmly, it is under spring tension.",
+   "prose": "Two instructions in one paragraph: don't, and if you must, here is how. Read them in that order.",
+   "aside": "9. Rotate the lock piece clockwise until it is vertical, at which point it will pop free. Grip the lock piece firmly while rotating it as it is under spring tension.",
+   "quote": "When servicing the JP-5™, cleaning of the bolt assembly does not require you to disassemble its component parts, and such a complete disassembly is not recommended as part of regular maintenance.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Disassembly and Reassembly, p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ The hand guard is LOCTITED ON — leave it",
+   "action": "Unlike other rifles of this kind, removing the hand guard is not necessary for routine cleaning and maintenance: Loctite secures the hand guard components at installation, and JP says they should only come off to address a specific gunsmithing concern needing access to that area.",
+   "prose": "This is the sentence that saves someone an afternoon and a set of rounded screws.",
+   "quote": "Unlike other rifles of this kind, removal of the hand guard is not necessary for routine cleaning and maintenance.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Disassembly and Reassembly, p.26"
+  },
+  {
+   "phase": "Clean",
+   "title": "⚠ 9mm lead builds on the CROWN and COMPENSATOR — after every use if you can",
+   "action": "Short-term maintenance is the bore and operating system every 1000 rounds or so. ⛔ But JP asks you to clean the crown and the compensator AFTER EVERY USE if possible, because vaporized lead buildup happens very quickly with 9mm. If the buildup gets heavy, that is a gunsmith question, not a scrubbing one.",
+   "prose": "This is the single most JP-5-specific maintenance fact in the book and it is nothing like a rifle-calibre schedule.",
+   "quote": "However, take care to clean the crown and compensator after every use, if possible. Vaporized lead buildup occurs very quickly with 9mm.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Cleaning and Maintenance, p.30"
+  },
+  {
+   "phase": "Clean",
+   "title": "Sear grease every 300 rounds; bolt oil every 200-300 in a long session",
+   "action": "Apply a good sear lubricant to the trigger mechanism every 300 rounds — JP names the included Armite LP-250 Sear Grease. And if you are shooting hundreds of rounds in a sitting, lubricate the bolt assembly at least every 200 to 300 rounds, working the bolt back and forth to disperse the oil.",
+   "prose": "Two intervals aimed squarely at a high-round-count shooter, in the maker's own numbers.",
+   "aside": "If you’re expecting to fire hundreds of rounds in a sitting, lubricate your bolt assembly at least every 200 to 300 rounds.",
+   "quote": "Apply a good sear lubricant to the trigger mechanism every 300 rounds. We recommend the included Armite LP-250 Sear Grease.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Cleaning and Maintenance, p.30"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Fire control is JP's job, not yours — and no grease on the SCS",
+   "action": "Regular cleaning of the lower does not require removing the ejector or the fire control components; because of the fine-tuned relationship between those parts, removal or adjustment should only be done by JP Enterprises or a qualified gunsmith. ⚠ Lubricate the Silent Captured Spring with LIGHT OIL — not grease, which causes malfunctions in cold conditions.",
+   "prose": "The cold-weather grease warning is easy to miss and expensive to learn.",
+   "quote": "Because of the fine-tuned relationship between these parts, removal or adjustment of the fire control mechanism should only be performed by JP Enterprises, Inc. or a qualified gunsmith.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — JP-5 — Version 01.16.24 — Cleaning and Maintenance — Cleaning the Lower Assembly, p.32"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Brass bristle brush from the BREECH end only, all the way through before reversing",
+    "Rod kept off the muzzle — that wear costs accuracy",
+    "Flannel patch on a tight jag until the last patch comes out clean",
+    "Chamber brush with bore solution if the bore is still dirty",
+    "Chamber mop to take the remaining solvent out, then a final dry patch"
+   ]
+  },
+  {
+   "name": "BOLT, CARRIER AND LOCK PIECE",
+   "tasks": [
+    "Nylon toothbrush and solvent over bolt, carrier and lock piece",
+    "Dental pick for hardened fouling the brush leaves",
+    "All three dried completely with compressed air",
+    "Inspected for excessive wear, corrosion or mechanical damage",
+    "⛔ No fibres or bristles left anywhere, the bore especially"
+   ]
+  },
+  {
+   "name": "LUBRICATION — RUN IT WET",
+   "tasks": [
+    "Light film of oil over the entire bolt assembly",
+    "Bolt assembly roller channels, charging handle lug bearing surfaces",
+    "Extractor and extractor spring, ejector axel and alignment channel",
+    "Bolt carrier rail channels, lock piece, action springs and pins, bolt catch",
+    "Sear grease on the trigger mechanism every 300 rounds"
+   ]
+  },
+  {
+   "name": "9mm-SPECIFIC",
+   "tasks": [
+    "⛔ Crown and compensator after EVERY use if possible — lead builds fast",
+    "Bore and operating system every 1000 rounds or so",
+    "Silent Captured Spring inspected every 1,000-2,000 rounds or yearly",
+    "⚠ LIGHT OIL on the SCS — never grease, it malfunctions in the cold"
+   ]
+  },
+  {
+   "name": "LEAVE ALONE",
+   "tasks": [
+    "Hand guard — Loctited at installation, not a cleaning removal",
+    "Fire control components — JP or a qualified gunsmith only",
+    "Bolt internals — not recommended as part of regular maintenance"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Silent Captured Spring back into the extension tube, buffer retainer pin depressed.",
+  "Firing pin and spring into the lock piece; lock piece in and rotated COUNTER-clockwise.",
+  "Bolt onto the lock piece, turning counter-clockwise until it CLICKS.",
+  "Charging handle tabs located over the cutout and pressed down into the slot.",
+  "Bolt carrier in with the carrier key under the top charging handle, both fully forward.",
+  "Upper onto lower: FRONT pivot pin first, rear push pin second; rubber mallet if tight."
+ ],
+ "fncheck": "JP's own check: with the rifle confirmed unloaded, fully cycle the charging handle and look for proper assembly and function; dry-fire it pointed in a safe direction, repeat the process, and finally lock the action open. ⚠ Before that, confirm nothing was left in the bore — no patch, no bristle, no fibre. And confirm which LOCK PIECE angle is fitted against the ammunition you are about to shoot: JP's own tuning note is that under-delaying the JP-5 combined with high-pressure ammunition can damage the gun."
+}
