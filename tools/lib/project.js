@@ -27,6 +27,13 @@ const SPEC_EMITTED = new Set([
   'row', 'make', 'model',            // identity
   'manual', 'edition', 'year',       // -> sourcedFrom line
   'sha256',                          // -> sourceSha256
+  /* ⛔ A ROW MAY CITE TWO OF THE MAKER'S OWN BOOKS (app, 2026-08-23). Walther's SSP-E
+     supplement tells the owner in print to use the SSP manual as well, so `waltherssp e`
+     names both. Without these keys the projection EXCLUDED them and then built every
+     doc:2 step's citation from the FIRST book — putting the SSP manual's name under four
+     sentences that are the supplement's. A wrong citation is worse than none: the shelf
+     would be asserting provenance it does not have. */
+  'manual2', 'edition2', 'sha256_2',
   'sourceClass',                     // read, deliberately NOT rendered (Darren struck the label)
   'cleanIntro', 'steps', 'deep', 'deepAbsentReason',
   'cleaning', 'reassembly', 'fncheck',
@@ -46,6 +53,10 @@ const SPEC_INTERNAL = new Set([
 const STEP_EMITTED = new Set([
   'phase', 'title', 'action', 'prose', 'caution', 'aside',
   'quote', 'quoteLang', 'quoteEnglish', 'section', 'warn', 'branch',
+  /* ⛔ `doc` NAMES WHICH OF THE ROW'S TWO BOOKS THIS STEP CAME FROM, and it must reach
+     citeFor() or the citation is built from the wrong one. It is read, not rendered:
+     the reader sees the second book's NAME in the citation, never the index. */
+  'doc',
   /* ⛔ warnSrc — WHOSE SENTENCE THE WARNING IS (Darren ruling, vC34 item 17).
      714 of the app's 1,637 warn values were measured to be the manufacturer's
      own words, verbatim in the book the row cites, and every one of them was
@@ -70,7 +81,11 @@ const langName = t => LANGS[String(t).toLowerCase()] || String(t);
 
 /* The citation the splice builds for a step. Identical join, identical order. */
 function citeFor(spec, st) {
-  return [spec.manual, spec.edition, st.section].filter(Boolean).join(' — ');
+  /* a step marked doc:2 belongs to the SECOND book and is cited to it by name and
+     edition — the same rule splice_authored.js applies on the app side */
+  const man = st.doc === 2 ? spec.manual2 : spec.manual;
+  const ed = st.doc === 2 ? spec.edition2 : spec.edition;
+  return [man, ed, st.section].filter(Boolean).join(' — ');
 }
 
 function projectStep(spec, st, unknown, where) {
@@ -121,8 +136,10 @@ function projectGuide(spec) {
      exist. sourceClass itself is never published: Darren struck the label, so a
      best-practices guide is indistinguishable from a manufacturer one. */
   if (!bp) {
-    g.sourcedFrom = spec.manual + ' — ' + spec.edition + ' (' + spec.year + ')';
+    g.sourcedFrom = spec.manual + ' — ' + spec.edition + ' (' + spec.year + ')' +
+      (spec.manual2 ? '  +  ' + spec.manual2 + ' — ' + spec.edition2 : '');
     g.sourceSha256 = spec.sha256;
+    if (spec.sha256_2) g.sourceSha256_2 = spec.sha256_2;
   }
 
   g.cleanIntro = spec.cleanIntro;

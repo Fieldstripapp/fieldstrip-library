@@ -1,0 +1,237 @@
+{
+ "row": "caniktticombat",
+ "make": "Canik",
+ "model": "TTI Combat",
+ "sourcedFrom": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) (2023 (© 2023, Samsun Yurt Savunma Sanayi ve Ticaret A.Ş.))",
+ "sourceSha256": "39cb7835652654ce9a707bf0b6a8ef09e4b0f12dae50070c66a8e5950c96b03c",
+ "cleanIntro": "⛔ THE COMPENSATOR COMES OFF BEFORE THE BARREL DOES, AND IT NEEDS THE CANiK PUNCH. This is the step that makes the TTI Combat a different strip from every other pistol in the METE/Rival family: after the recoil spring is out you move the barrel forward in the slide, rotate the compensator with your thumb while pushing its lock with the punch, rotate it off the lock, take it off the barrel — and only THEN does the barrel come out. ⚠ AND THERE ARE TWO RECOIL SPRINGS IN YOUR CASE. The one marked \"LOW\" on its front face is for competition low-power loads around 1000 fps; factory 1150 fps and up runs the original spring. Know which one is in the gun before you diagnose a cycling problem. ⛔ Striker down and the red indicator gone before any of this — the pistol will fire with the magazine out.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out first — and this pistol fires with the magazine removed",
+   "action": "Muzzle in a safe direction. Hold the pistol in one hand, press the magazine release with your thumb and let the magazine fall into your free hand. ⛔ Do this FIRST. Canik states plainly that the pistol will fire if the magazine is removed and the trigger is pulled with a cartridge still in the chamber — there is no magazine disconnect standing between you and that.",
+   "prose": "Magazine, then chamber, then striker. Every one of Canik's own three steps is in that order and the reason is in the warning.",
+   "quote": "1. While keeping the pistol pointed in a safe direction, hold the pistol with one hand, depress the magazine release button with your thumb and the magazine should fall into your free hand.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Unloading the Pistol, printed p.15",
+   "warn": "WARNING! The pistol will fire if the magazine is removed and if the trigger is pulled when a cartridge is in the chamber."
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber checked twice — by eye and by finger",
+   "action": "Grasp the slide under the rear sight, run it fully rearward and hold it open, and inspect the chamber. With the magazine out, cycle the slide AGAIN to confirm nothing remains — Canik says to confirm it visually and by feel with your little finger.",
+   "prose": "The second cycle is the part people skip. It is in the book because one look into a dark chamber is not a check.",
+   "caution": "Look AND feel. A brass case head in shadow reads as an empty chamber.",
+   "quote": "2. Grasp the slide under the rear sight and move it fully rearward, holding the slide fully open inspect the chamber to ensure it is empty.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Unloading the Pistol, printed p.15"
+  },
+  {
+   "phase": "Clear",
+   "title": "Striker down, and the red indicator is how you know",
+   "action": "Let the slide go forward on the empty chamber, then — muzzle still safe — pull the trigger to lower the striker. ⛔ The strip does not begin until this is done. When the striker is down the RED striker indicator is not visible; if you can see red, it is still cocked.",
+   "prose": "A visible tell for a striker state is unusual and worth using every time rather than trusting the trigger pull you think you just made.",
+   "caution": "Red showing = striker still cocked. No red = down.",
+   "quote": "3. Allow the slide to go forward on the empty chamber. While pointing the pistol in a safe direction pull the trigger to lower the striker.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Unloading the Pistol, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Eye protection, and support the pistol before the catches move",
+   "action": "Put eye protection on — Canik asks for it explicitly for the strip, against chemicals and tensioned parts such as springs. Then secure the unloaded pistol firmly on your lap or a table rather than working it in mid-air, and pull the trigger to lower the striker if it is not already down.",
+   "prose": "A supported pistol is what lets both hands do their separate jobs in the next step. This one is written as a step because it is one.",
+   "quote": "1. While remembering to maintain a safe muzzle direction, secure the unloaded pistol firmly in a supported location such as your lap, or on a table. Pull the trigger to lower the striker.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Field Stripping, printed p.16",
+   "warn": "WARNING! Wear eye protection, such as shooting glasses or goggles, when disassembling your firearm to protect your eyes from chemicals and tensioned parts, such as springs that could be dislodged during disassembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Both take-down catches DOWN while the slide goes forward 0.6 inch",
+   "action": "Grasp the take down catches above the trigger and pull them DOWN with the index finger and thumb of your secondary hand. At the same time, push the slide FORWARD with the thumb of your primary hand. ⚠ It only travels about 0.6 inch — that is the whole movement, not a false stop. Then lift the slide up and off the frame.",
+   "prose": "Two hands, two directions, at the same moment. If the slide will not go, one of the catches is not fully down — this is a both-sides part.",
+   "caution": "0.6 inch forward is the full travel. Lift the slide off at that point; do not force it further forward.",
+   "quote": "2. While holding the pistol in your primary hand, grasp the take down catches, located above the trigger. Pull them down using index finger and thumb of your secondary hand.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Field Stripping, printed p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring — push it toward the MUZZLE, then lift it out",
+   "action": "Hold the slide in your primary hand and, with the secondary hand, push the recoil spring TOWARD THE MUZZLE and lift it free. It comes out forward-then-up, not straight up. ⚠ Check which spring you are holding: the case contains an optional low-force spring whose front face is labelled \"LOW\".",
+   "prose": "Compressing it slightly is what releases it from its seat. Trying to lift it straight out binds it against the front of the slide.",
+   "quote": "1. Holding the slide with primary hand, use your secondary hand to push the recoil spring toward the muzzle and lift it free.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Disassembly, printed p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ TWO recoil springs ship with this pistol — read the front face",
+   "action": "Included in the case is an OPTIONAL low-force recoil spring, identified by \"LOW\" printed on its front face. CANiK scopes it: it is for competition low-power loads around 1000 feet per second. For factory ammunition around 1150 fps or higher, use the original spring that was installed in your pistol.",
+   "prose": "This is the first thing to check when a TTI Combat short-strokes on factory ammo or batters itself on match loads. The answer is written on the spring.",
+   "caution": "LOW = ~1000 fps competition loads. Original = ~1150 fps and up.",
+   "aside": "face of this spring is labeled “LOW”.",
+   "quote": "NOTE: Included in the case is an optional low force recoil spring. For easy identification, the front",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Disassembly, printed p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel forward in the slide — the compensator has to clear first",
+   "action": "Move the barrel FORWARD in the slide. On this pistol the barrel does not come out yet: the compensator is locked to it and has to be released before the barrel will leave the slide.",
+   "prose": "If you try to lift the barrel here it will not come, and it is not stuck — there are three more steps before it is free.",
+   "quote": "2. Move the barrel forward in the slide as shown in the illustration.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Disassembly, printed p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ CANiK Punch on the compensator lock — and only where the book shows it",
+   "action": "Hold the slide in your primary hand with the INSIDE of the slide facing you. Put your thumb on the compensator to rotate it, and use the CANiK Punch to push the lock on the compensator. ⛔ CANiK is specific that the punch has to be placed on the compensator exactly as its illustration shows — this is a small locking detent, not a general prying point.",
+   "prose": "The supplied punch is the right diameter for that detent. A screwdriver will mark the compensator and may not reach the lock at all.",
+   "caution": "CANiK Punch only, positioned as the book's illustration shows.",
+   "aside": "use CANiK Punch to push lock on the compensator.",
+   "quote": "3. Hold the slide with your primary hand, with the inside of the slide facing you. Put your thumb on the compensator to rotate it and",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Disassembly, printed p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hold the punch, rotate the compensator off its lock, then off the barrel",
+   "action": "With the lock pushed in by the punch, KEEP HOLDING THE PUNCH and rotate the compensator until it releases from the lock on the barrel. Then take the compensator off the barrel. Two hands and two jobs again: the punch holds the lock down, the thumb turns.",
+   "prose": "Let the punch go early and the lock springs back into the compensator mid-rotation. Nothing breaks; you just start again.",
+   "aside": "barrel.",
+   "quote": "5. After pushing the lock with CANiK Punch, hold the punch and rotate the compensator until it is released from the lock on the",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Disassembly, printed p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Now the barrel — slightly up, forward, back, and out",
+   "action": "With the compensator off, lift the barrel slightly and push it forward toward the muzzle; then pull it back and lift it free of the slide. Same motion as every pistol in this family — it is only reachable on the TTI Combat once the compensator has gone.",
+   "prose": "Seven steps to a barrel instead of two. That is the price of a locked-on compensator, and it is the reason this row does not borrow another gun's guide.",
+   "quote": "7. Lift the barrel slightly and push it forward toward the muzzle. Then you can pull it back and lift it free from the slide.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Disassembly, printed p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the CHAMBER to the muzzle, nylon brush and CLP",
+   "action": "Correct-calibre nylon bore brush on the rod, dampened with CLP, pushed and pulled through the barrel several times FROM THE CHAMBER TO THE MUZZLE. Then patch until a patch comes out clean and leave a light CLP coat in the bore. ⚠ With the compensator off, clean it separately — it is the part that collects the most.",
+   "prose": "A ported compensator on a 9mm competition gun fouls faster than the bore does, and it is off the gun at this point anyway.",
+   "quote": "4. Dampen the screw-in nylon bore brush with cleaner, lubricant, protectant (CLP) and then push/pull the brush through the barrel several times from the chamber to the muzzle.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Cleaning and Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "CLP goes on FIVE named places and nowhere else",
+   "action": "Residue off the slide, barrel exterior and action parts with the supplied brush and cloth. Then a LIGHT coat of CLP on: the rails, the trigger bar, the inside of the ejector assembly of the frame, the rails on the slide and the firing pin block, and the slide's inner side where the barrel operates.",
+   "prose": "Short, precise, and everything outside it gets cleaned but not oiled.",
+   "quote": "7. Remove shooting residue from the slide, barrel's exterior, and action parts using the brush and cloth supplied. Apply a light coating of CLP to the rails, trigger bar and inside of the ejector assembly of frame and rails on the slide and firing pin block together with the slide's inner side where the barrel operates.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Cleaning and Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Nothing more abrasive than Scotch Brite, ever",
+   "action": "No sandpaper, no emery cloth, on any part of the firearm or a suppressor. Abrasives more aggressive than Scotch Brite damage the pistol's precision contact surfaces and the resulting friction causes malfunctions. Solvents only in a well-ventilated area away from open flames.",
+   "prose": "Carbon on a compensator invites a wire wheel. It is exactly the surface this warning is protecting.",
+   "quote": "Abrasives more aggressive than Scotch Brite may damage the precision contact surfaces of the pistol, resulting in friction that can lead to malfunctions of the firearm.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Cleaning and Maintenance — MAINTAINING THE FINISH ON YOUR PISTOL"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Rebuild — compensator on and LOCKED before the barrel goes in",
+   "action": "Slide muzzle-DOWN, barrel dropped in, slide turned muzzle-UP so the barrel seats. Then hold the compensator TILTED and push it through the barrel from the MUZZLE side. Rotate it to lock it to the barrel until you HEAR A CLICK, with the compensator and slide aligned. ⛔ Confirm the locking lever is FULLY ENGAGED with the barrel index point before anything else — then place the barrel in the slide closed and locked, seat the recoil spring flat-end-to-chamber, and run the slide on 0.6 inch from the rear.",
+   "prose": "The click and the visible index-point engagement are two separate confirmations and CANiK asks for both. A compensator that is on but not locked is a projectile.",
+   "caution": "Hear the CLICK, then SEE the locking lever fully engaged with the barrel index point.",
+   "aside": "compensator and the slide is aligned.",
+   "quote": "3. Rotate the compensator as shown in illustration to lock it to the barrel until hearing click sound. Please make sure that the",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Reassembly, printed p.20",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "⛔ Oil in the bore is not a cleaning mistake, it is a pressure event",
+   "action": "Before the pistol is fired again, the bore must be DRY and clear. Canik's warning is about what a partially obstructed bore does: firing with oil, grease or any other material even partially obstructing the bore may damage the firearm and injure the shooter and those nearby. Run a dry patch through before the first round.",
+   "prose": "The CLP coat you left in the bore at the end of the clean is exactly the material this warning is about. Leave it for storage; take it out before shooting.",
+   "caution": "Dry patch through the bore before the first shot after every clean.",
+   "quote": "Firing a firearm with oil, grease or any other material even partially obstructing the bore may result in damage to the firearm and injury to the shooter and those nearby.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Lubrication Warning, printed p.33"
+  },
+  {
+   "phase": "Clean",
+   "title": "⚠ Never spray lubricant onto ammunition — and why",
+   "action": "Do not spray or apply lubricants directly on ammunition. Canik spells out the chain: if the powder charge is affected by the lubricant it may not ignite, but the primer alone can still push the bullet into the bore, where it lodges — and the NEXT round fired into that obstructed bore damages the firearm.",
+   "prose": "This is the squib mechanism described from the cause end. It is why a magazine full of rounds does not get wiped with an oily rag.",
+   "quote": "Do not spray or apply lubricants directly on ammunition.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Lubrication Warning, printed p.33"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Aftermarket parts void the warranty — Canik says which parts do not",
+   "action": "Accessories come from the CANiK Official Accessory Program and are to be installed by a qualified gunsmith. ⛔ Installing anything other than a CANiK Accessory Program part VOIDS the pistol warranty and may result in damage to the pistol or injury or death. That is the maker's own line and it is worth knowing before a trigger kit goes in.",
+   "prose": "On a competition pistol this is the warning most likely to matter, because these are the guns people modify.",
+   "quote": "Installation of anything other than a CANiK Accessory Program part will void the pistol warranty and may result in damage to the pistol or injury or death.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Warning Concerning Alterations and Aftermarket Parts!, printed p.33"
+  },
+  {
+   "phase": "Clean",
+   "title": "Storage — cleaned, lightly oiled, and the bore checked DRY on the way out",
+   "action": "Before it goes away: clean it thoroughly and lubricate it lightly, with a light coat of good gun oil on all exposed surfaces. Remove all excess lubrication. ⛔ And when you take it OUT of storage and before firing it, use a cleaning rod and patch to make sure the bore is dry and free of obstructions. Store the firearm and its ammunition separately and locked.",
+   "prose": "Canik puts the bore check on the way out of storage rather than on the way in, which is the right end — that is when it matters.",
+   "quote": "Your pistol should be thoroughly cleaned and lightly lubricated before being put away for storage. A light coating of good quality gun oil should be applied to all exposed surfaces.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Storage, printed p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Backstrap — the CANiK Punch, and the pin goes back CENTRED",
+   "action": "Clear the pistol and remove all live ammunition, loaded magazines and other firearms from the working area first. Then use the CANiK Punch supplied in the case to push the Backstrap Pin out. Fit the backstrap and check it seats properly to the frame, then drive the pin back in with the punch and ⛔ make sure it ends up CENTRED.",
+   "prose": "A backstrap pin left proud on one side rubs the web of the hand and can walk further out under recoil. Centred is a checkable state, not a feeling.",
+   "caution": "Use the CANiK Punch, not a drift of your own. Pin centred when it goes back.",
+   "aside": "4. Re-insert the Backstrap Pin and ensure that the Backstrap Pin is centered. Use the CANiK Punch to push in the Backstrap Pin",
+   "quote": "2. Use the CANiK Punch included in the package content to push out the Backstrap Pin.",
+   "cite": "CANiK TTI COMBAT Owner's Manual — TTI COMBAT Owner's Manual (no form code printed) — Changing the Backstrap, printed p.26"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "9x19 nylon brush with CLP, CHAMBER to MUZZLE",
+    "Patch until a patch comes out CLEAN",
+    "Light CLP coat left in the bore",
+    "⛔ Dry patch it out before the next round"
+   ]
+  },
+  {
+   "name": "COMPENSATOR",
+   "tasks": [
+    "Off the barrel and cleaned separately — it fouls fastest",
+    "⛔ Nothing more abrasive than Scotch Brite on it",
+    "Locking lever and barrel index point wiped and checked",
+    "⛔ Back on and CLICKED before the barrel goes into the slide"
+   ]
+  },
+  {
+   "name": "CLP — THE FIVE NAMED PLACES",
+   "tasks": [
+    "Frame rails",
+    "Trigger bar",
+    "Inside of the ejector assembly of the frame",
+    "Rails on the slide and the firing pin block",
+    "The slide's inner side where the barrel operates"
+   ]
+  },
+  {
+   "name": "⚠ RECOIL SPRING — WHICH ONE IS IN IT?",
+   "tasks": [
+    "Front face marked \"LOW\" = competition loads around 1000 fps",
+    "Unmarked original = factory loads around 1150 fps and up",
+    "Check before diagnosing any cycling fault"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Slide muzzle-DOWN, barrel dropped in; turn muzzle-UP and it seats.",
+  "⛔ Compensator TILTED, pushed through the barrel from the MUZZLE side.",
+  "⛔ Rotated until it CLICKS onto the barrel, compensator aligned with the slide.",
+  "⛔ Locking lever confirmed FULLY ENGAGED with the barrel index point.",
+  "Barrel placed in the slide closed and locked.",
+  "Recoil spring FLAT END toward the CHAMBER — and the right spring for your ammunition.",
+  "Slide on about 0.6 inch from the rear, then pushed rearward.",
+  "Function check before loading."
+ ],
+ "fncheck": "Magazine out, chamber clear. ⛔ First: confirm the compensator's locking lever is FULLY ENGAGED with the barrel index point and that the compensator is aligned with the slide — CANiK asks for that as its own confirmation step and it is the one thing on this pistol that is unique to it. Then cycle the slide through full travel, confirm it returns fully into battery and both take-down catches have sprung back up flush. Dry-fire on the empty chamber and watch the red striker indicator go out and return. ⚠ Confirm which recoil spring is fitted against the ammunition you are about to shoot. Then dry-patch the bore."
+}

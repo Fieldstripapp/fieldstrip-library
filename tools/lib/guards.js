@@ -74,6 +74,16 @@ const PNG_MAGIC = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]);
    working matter or something nobody has reviewed for publication. */
 const GUIDE_KEYS = new Set([
   'row', 'make', 'model', 'sourcedFrom', 'sourceSha256', 'cleanIntro',
+  /* ⛔ sourceSha256_2 — REVIEWED AND ADMITTED ON THE SAME GROUND AS sourceSha256.
+     A row may cite TWO of the maker's own books where the maker himself joins them
+     (app, 2026-08-23; the Walther SSP-E supplement tells its owner in print to use the
+     SSP manual as well). It is a hex digest and nothing else — it names no file, no
+     path and no person, and it is what lets a reader confirm the SECOND document is the
+     one the quotes were checked against. Publishing the first hash and withholding the
+     second would leave half the row's provenance unprovable.
+     ⚠ `file2` is NOT admitted and must never be: it is a repo path, exactly like
+     `file`, and the projection excludes it. */
+  'sourceSha256_2',
   'steps', 'deepSteps', 'deepAbsentReason', 'cleaning', 'reassembly', 'fncheck',
 ]);
 const STEP_KEYS = new Set([

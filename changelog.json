@@ -2,6 +2,29 @@
  "_doc": "One entry per published index version, newest first. `added` is the row ids whose guide first appeared at that version, so a client holding version N can ask for everything since N without a redesign.",
  "versions": [
   {
+   "version": 8,
+   "publishedAt": "2026-08-23",
+   "appCommit": "c72b472aa31fb870778b4e88cf31608ef906edd6",
+   "counts": {
+    "catalogRows": 1166,
+    "guides": 675,
+    "plates": 54
+   },
+   "added": [
+    "canikmetemc9prime",
+    "caniksfxrival",
+    "caniksfxrivals",
+    "caniktticombat",
+    "feinwerkbauaw93",
+    "hammerlixessesport",
+    "walthergspexpert",
+    "waltherssp e"
+   ],
+   "changed": [],
+   "removed": [],
+   "platesAdded": []
+  },
+  {
    "version": 7,
    "publishedAt": "2026-08-23",
    "appCommit": "34b276cb71e00a2bd29c1227148f83cb1a85885b",

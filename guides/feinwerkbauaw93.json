@@ -1,0 +1,198 @@
+{
+ "row": "feinwerkbauaw93",
+ "make": "Feinwerkbau",
+ "model": "AW93",
+ "sourcedFrom": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 (2025)",
+ "sourceSha256": "c3afd7e882aa50759097bfa7a7e47b34cbaf50102810310e8e2adf74cc5281df",
+ "cleanIntro": "⛔ NO TOOLS, AND A HARD STOP. Feinwerkbau's whole published strip is seven operations and it needs nothing in your hand — \"The AW93 pistol can easily be dis-assembled into its main components for cleaning and maintenance without the need for tools.\" The gun comes apart into barrel-with-frame, slide, locking device, grip and magazine, and that is where the book stops and says so. This is a blow-back .22 with a mass-coupled locking device under the barrel, so the fouling that matters is waxy rimfire lead on the breech face, the chamber mouth and the slide rails, not carbon deep in a gas system. ⚠ Feinwerkbau splits cleaning in two by ROUND COUNT: a normal clean after every session, and a major clean at about 1000 rounds or once a year. Both are below.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Empty magazine, empty chamber — checked before anything moves",
+   "action": "Magazine out. Pull the slide fully back while pressing the slide release upwards so it locks open, and LOOK into the chamber. Feinwerkbau puts three conditions on the front of the cleaning section: pistol unloaded, barrel free of obstructions, magazine empty — and repeats the first two at the top of the strip.",
+   "prose": "On a 5+1 match gun it is easy to be sure of the magazine and careless about the chamber. The +1 is the round that gets left.",
+   "quote": "Check that the chamber is empty.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Disassembly of the pistol, printed p.28",
+   "warn": "During disassembly and reassembly of the pistol any use of force must be avoided."
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the slide catch, then let the slide run home",
+   "action": "With the chamber confirmed empty, pull the slide back a little to unload the slide stop lever, then let the slide go forward again. The gun must be closed and at rest before the safety flank moves — the strip does not start from slide-locked-back.",
+   "prose": "Two moves that look like nothing and are the reason the next step works. A slide held open on its catch will not let the protective flank swing.",
+   "quote": "Pull back slide a little to release slide stop lever",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Disassembly of the pistol, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Button left, protective flank up",
+   "action": "Press the button on the protective flank fully to the LEFT — to the stop, not part way — and then swing the flank upwards. This is the same latch you use to engage the firing pin safety, moved the same way.",
+   "prose": "The button has a definite stop. If the flank will not swing, the button is not all the way over; nothing here is forced.",
+   "quote": "Press the button on the protective flank (2) fully to the left and then turn the protective flank upwards.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Disassembly of the pistol, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Locking latch up, locking device off the front",
+   "action": "Press the locking latch (14) upwards and draw the locking device — the weight-and-buffer unit that sits under the barrel — off FORWARD. On an AW93 Light this is the lighter C2 unit; the operation is the same.",
+   "prose": "This is the part that makes the AW93 shoot flat: it is coupled to the slide through a buffer so the two masses move together. It comes off as one piece and goes back as one piece.",
+   "quote": "Press the locking latch (14) upwards and remove the locking device (C1/C2) in a forward direction.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Disassembly of the pistol, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward over the barrel — the spring guide comes loose here",
+   "action": "Pull the slide slightly rearward to free the locking latch, then push the slide FORWARDS over the barrel and over the front sight. As it clears, the slide spring guide releases — expect it, and catch it.",
+   "prose": "The slide goes off the front, not the back. Feinwerkbau flags the spring release in the same sentence as the push, which is where it actually happens.",
+   "caution": "The spring guide lets go as the slide clears the front sight. Work over the bench, not over the floor.",
+   "quote": "Push the slide (4) forwards over the barrel and the front sight. This action releases the slide spring (37).",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Disassembly of the pistol, printed p.28"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the chamber end, oiled brush then dry wicks",
+   "action": "Run an oil-moistened cleaning brush through the barrel, follow it with clean dry cleaning wicks, then lightly oil the barrel inside and out. Use a commercial .22 kit, cleaning rods and rags, and a chlorine- and acid-free solvent.",
+   "prose": "Lead, not carbon, is what a match .22 barrel accumulates — and Feinwerkbau is specific that a lead-removing agent is used strictly to the maker's own timing, because leaving it in the bore damages the barrel.",
+   "caution": "Barrel cleaning agents for removing lead residues must be used in strict accordance with the manufacturer's instructions, since damage can occur to the barrel if these agents are left to act for too long.",
+   "quote": "Moisten a cleaning brush with oil and pass dry cleaning rods through and subsequently lubricate the exterior and interior of the barrel.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Normal Cleaning, printed p.26"
+  },
+  {
+   "phase": "Clean",
+   "title": "Fouled surfaces, then the magazine lips and follower",
+   "action": "Clean the fouled parts and surfaces with a cleaning brush and rags and lightly lubricate them. Then clean the magazine and its guide and oil them lightly. ⛔ Two areas are excluded by the book's own colour-coded warning: the component marked red is never oiled or greased, and the dark grey one gets a minimum only.",
+   "prose": "That red-marked part is the reason a match trigger stays crisp. Oil migrates into lockwork and it does not migrate out.",
+   "quote": "Clean the magazine and guide and oil them lightly.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Normal Cleaning, printed p.26",
+   "warn": "The component marked in red must not be oiled or lubricated ! Please preserve the dark grey component only minimally !"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Do not clean with metal, do not clean with water",
+   "action": "No metal objects and no water, and no cleaner that attacks the finish — Feinwerkbau names copper remover specifically as one that does. On a .22 there is no copper to remove anyway; the residue is lead.",
+   "prose": "Copper solvent on a blued match pistol is a common reflex carried over from centrefire cleaning and it is the wrong reflex here.",
+   "quote": "Do not use cleaner, which can damage the surface of the weapon, copper remover included.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Cleaning and Maintenance, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Back together — and the one thing that must be seated first",
+   "action": "Assembly is the reverse. ⛔ One thing is NOT reversible by feel: before the slide goes back over the barrel, the slide spring guide (37) must already be sitting in the slide with its neck (39) engaged. Seat that first, then the slide, then the locking device, then swing the protective flank down.",
+   "prose": "This is the step that turns a five-minute clean into a twenty-minute one. Feinwerkbau calls it out separately from \"reverse order\" precisely because reverse order does not tell you it.",
+   "quote": "Before pushing the slide (4) over the barrel, the slide spring (37) must be inserted in the slide (4) with its neck (39).",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Assembly of the pistol, printed p.30",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "When the major clean is due — 1000 rounds or once a year",
+   "action": "Feinwerkbau times this by round count and by calendar, not by feel: do the normal clean, then additionally strip the magazine, check and if necessary strip the firing pin, and reassemble. The procedures below are that additional work.",
+   "prose": "For a shooter putting real volume through a match .22, the round count arrives long before the year does. Count rounds.",
+   "quote": "Major cleaning should be performed after about 1000 rounds or once a year, depending on the ammunition used:",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Major Cleaning, printed p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "Grips off — two screws, and this is what opens the frame up",
+   "action": "With the supplied screwdriver, loosen and remove both grip screws (38), pull the anatomical grip off downwards and take the cover off. Feinwerkbau states plainly what this reaches: in this condition ALL the parts of the pistol can be cleaned.",
+   "prose": "This is the published route to the frame internals and it is two screws. It is also the point at which any trigger re-adjustment gets done, which is why the book pairs them in one sentence.",
+   "quote": "In this condition all the parts of the pistol can be cleaned and if necessary a new trigger setting can be made.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Assembly of the pistol — anatomical grips, printed p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine down to five pieces — catch the spring",
+   "action": "Press the cam inwards and pull the floor plate (44) down out of the magazine body, then take the magazine spring (46) out downwards. Slide the locking bolt (30) with the follower (47) down the shaft guide to the hole, pull the locking bolt up and out, and take the follower out downwards. Clean everything and lightly lubricate.",
+   "prose": "Feinwerkbau gates this on condition, not schedule — it is the extreme-fouling procedure, and on a rimfire that condition arrives faster than owners expect.",
+   "caution": "The floor plate is under the magazine spring. Keep a thumb over it as the cam releases.",
+   "quote": "In cases of extreme fouling the magazine must be disassembled and cleaned.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Disassembly and assembly of the magazine, printed p.32"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ The 8 mm follower button is not decoration — read this before you swap one",
+   "action": "The locking bolt supplied has an OUTSIDE DIAMETER OF 8 MM. Feinwerkbau states that the 5 mm version defeats the slide-hold-open. If you have both, or you are rebuilding a magazine from parts, measure the button before it goes back in.",
+   "prose": "A magazine that quietly stopped holding the slide open after a clean is this part, and it is the kind of fault that gets blamed on the gun for a season.",
+   "quote": "The locking bolt with Ø 5 mm stops the function of the catch.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Disassembly and assembly of the magazine — Note, printed p.32",
+   "warn": "The locking bolt has an outside diameter of 8 mm."
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin — a 1.8 mm punch, and it goes back one way only",
+   "action": "Check the firing pin for smooth operation first; strip it only if it needs it. Using a Ø 1.8 mm pin punch drive pin (40) out of the slide from RIGHT to LEFT, then take the firing pin (41) and its spring (42) out to the rear. Clean the bore for the pin, the pin and the spring.",
+   "prose": "The direction matters and so does the punch size. A larger punch will start the pin and then peen the hole.",
+   "quote": "using a Ø 1,8 mm pin punch remove pin (40) from the slide, pushing from right to left,",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Disassembly and assembly of the firing pin, printed p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin back in — the flat faces UP, and the pin sits flush",
+   "action": "Spring onto the pin, then insert the pin into the slide bore so that the FLAT FACE POINTS UPWARDS. Hold it with the 1.8 mm punch from the right and drive pin (40) back in from the left until it is flush and not standing proud.",
+   "prose": "Upside down it will still assemble and it will not strike reliably. Flush matters too — a proud pin drags in the slide raceway.",
+   "caution": "Flat up. Cross pin flush.",
+   "quote": "insert the firing pin with spring into the hole of the slide so that the face (see arrow) points upwards,",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Disassembly and assembly of the firing pin, printed p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Extractor — a paperclip job, and the spring guide is loaded",
+   "action": "Put a thin round object such as a paperclip into the hole behind the extractor (50) in the slide, and lift the extractor out while pushing the spring guide (48) back. ⛔ That guide is under constant spring pressure and the spring will leave if it is not controlled. To refit: push the guide into the extractor, then the extractor into the slide.",
+   "prose": "Do this inside a clear box or a bag. A .22 extractor spring that goes across a workshop is not found again.",
+   "quote": "The spring guide (48) is under constant pressure from the spring.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Removal and reinsertion of extractor, printed p.34",
+   "warn": "When removing the extractor (50) take care not to loose the spring guide (48) and spring (49)."
+  },
+  {
+   "phase": "Clean",
+   "title": "Magazine body inside, follower outside, then reassemble and check",
+   "action": "With the magazine apart, clean the inside of the magazine body and the outside faces of the follower and lightly lubricate them. Rebuild the magazine — follower in until its hole lines up with the widened hole in the shaft guide, locking bolt pressed into the follower, spring onto the floor plate, floor plate up until the cam re-engages. Then reassemble the pistol and run the function check.",
+   "prose": "Feinwerkbau ends both the normal and the major clean the same way and it is worth taking literally: the clean is not finished until the gun has been worked and found to function.",
+   "quote": "after cleaning and assembly check the smooth operation and perfect functioning of the pistol.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — MODELL AW 93 — V07 — November 2025 (code printed on the back cover), Art.-Nr. 3.5.570 — Major Cleaning, printed p.26"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Commercial .22 kit, oiled brush then dry wicks",
+    "Lead-removing agent strictly to its own maker's timing — over-soaking damages the barrel",
+    "⛔ No copper remover: it attacks the finish and there is no copper to remove"
+   ]
+  },
+  {
+   "name": "SLIDE, BARREL, LOCKING DEVICE",
+   "tasks": [
+    "Brush and rags on the fouled faces, then a light oil",
+    "⛔ The red-marked component is never oiled",
+    "⚠ The dark-grey component gets a minimum only"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Lips and follower cleaned and lightly oiled every session",
+    "Stripped and cleaned inside at the 1000-round major clean"
+   ]
+  },
+  {
+   "name": "NEVER",
+   "tasks": [
+    "Metal objects",
+    "Water",
+    "Any cleaner that attacks the surface finish"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Slide spring guide (37) into the slide FIRST, neck (39) engaged — the one non-obvious step.",
+  "Slide back over the barrel and front sight, from the front.",
+  "Locking device on from the front until the locking latch (14) catches.",
+  "Protective flank swung down and its button latched.",
+  "Magazine last, and only after the function check."
+ ],
+ "fncheck": "Feinwerkbau asks for this by name after every clean and every reassembly: with the pistol empty, check it runs smoothly and functions perfectly — \"After cleaning and assembly check the smooth operation and perfect functioning of the pistol.\" Work the slide by hand through the full stroke and feel for a catch, confirm the protective flank swings and latches both ways, and check the firing pin safety only engages with the hammer cocked, which is how the book says it behaves. ⛔ If the slide binds or the locking device will not latch, take it apart and look at the spring guide seating rather than pressing harder."
+}

@@ -1,0 +1,240 @@
+{
+ "row": "waltherssp e",
+ "make": "Walther",
+ "model": "SSP-e",
+ "sourcedFrom": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 (2014 (© Copyrights 2014); SSP-E supplement dated Jan 2015)  +  Walther SSP-E supplement — Anleitung SSP-E — 2788241_Anleitung SSP-E-Stand_Jan2015 (Jan 2015)",
+ "sourceSha256": "7eaf9f28efa6344538403981ab1c0b0a9c6c13826fc10c440f649bd117c8fbcb",
+ "sourceSha256_2": "4ec005e5945173f0ed62424b750562ab29b45dd5c94dc3984d60fef6a51e41ea",
+ "cleanIntro": "⛔ THIS ONE NEEDS ITS OWN TOOL AND IT IS NOT OPTIONAL. The SSP strips with a purpose-made STRIPPING AND ASSEMBLY TOOL that captures the springs before the upper comes off the frame — without it this pistol does not come apart safely, and the tool is also what holds the springs during the rebuild. ⚠ AND THE E IS DIFFERENT IN THE ONE PLACE THAT MATTERS FOR CLEANING: your SSP-E's trigger breaks on a PRESSURE SENSOR with no physical movement at the break point, it is powered by a rechargeable battery, and the trigger assembly is the one area of this gun Walther says must NOT be brushed or wiped — you blow it clean. ⛔ Two nozzle screws control the damping system and they are NOT interchangeable between their holes; note which came from where before either one moves.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety check first — and on an SSP-E, decocked as well",
+   "action": "Run Walther's six-step check: gun in hand, finger off, safe direction; safety on; slide open and locked back; magazine out; all ammunition and cases removed; barrel checked for obstructions. ⚠ The SSP-E supplement adds one condition of its own before any maintenance or cleaning — make sure the pistol is de-cocked.",
+   "prose": "The de-cocked requirement is the E's, not the SSP's, and it is printed in the supplement's own maintenance caution rather than in the strip.",
+   "quote": "Remove any ammunition, such as rounds and shell casings.",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.1 Secure the weapon and check/unload the weapon, printed p.51",
+   "warn": "Before performing any adjustment,"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide open and locked back — that is where the strip starts",
+   "action": "Open the slide and lock it to the rear. Everything that follows is done with the slide held open, and the workspace rule applies — clean and distraction-free, safety check already done.",
+   "prose": "Unlike the GSP this one does NOT start decocked and closed. Read the first line of 4.4 rather than assuming from another Walther.",
+   "caution": "The weapon should only be disassembled in a clean, distraction-free environment, and only after the safety check.",
+   "quote": "Open the slide and lock it to the rear.",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.4 Disassemble the weapon, printed p.55"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ The two nozzle screws — 2 mm key, and NOTE WHICH HOLE",
+   "action": "Remove the two nozzle screws for the striker and damper guide holes with a 2 mm Allen key. ⛔ Note which screw you take from which hole. Both have nozzle openings for the DAMPING SYSTEM, they must not be confused on the way back, and each goes back where it came from.",
+   "prose": "They look identical and they are not. Put them down in the order they came out, on the side of the bench that matches the side of the gun — that habit costs nothing and this is exactly the gun it exists for.",
+   "quote": "Note which you remove from which hole.",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.4 Disassemble the weapon, printed p.55",
+   "warn": "Both of the screws have nozzle openings for the damping"
+  },
+  {
+   "phase": "Strip",
+   "title": "Housing screw out — 4 mm key",
+   "action": "Remove the housing screw using a 4 mm Allen wrench. Two keys total on this pistol, 2 mm and 4 mm, plus the stripping and assembly tool.",
+   "prose": "Have all three to hand before you start. Going looking for the 4 mm with the gun half apart is how the nozzle screws get muddled.",
+   "quote": "Remove the housing screw. Use a 4 mm Allen wrench.",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.4 Disassemble the weapon, printed p.55"
+  },
+  {
+   "phase": "Strip",
+   "title": "The tool goes in from the FRONT, knurled screw DOWN",
+   "action": "Insert the stripping and assembly tool from the front into the receiver so that the TWO PINS of the tool fit into the TWO HOLES in the spring. The knurled screw must point toward the BOTTOM of the weapon. Secure the tool by turning the knurled screw.",
+   "prose": "Both pins in both holes, verified by eye, before the screw is turned. This tool is the only thing standing between you and a loose match-pistol spring, and it is orientation-specific.",
+   "caution": "Knurled screw points DOWN. Both pins in both spring holes before it is turned.",
+   "aside": "and assembly tool by turning the knurled screw.",
+   "quote": "sure that the knurled screw is pointed toward the bottom of the weapon. Secure the stripping",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.4 Disassemble the weapon, printed p.55"
+  },
+  {
+   "phase": "Strip",
+   "title": "Upper slide off the frame, forward",
+   "action": "With the tool locked on, remove the upper slide from the frame by moving it FORWARD.",
+   "prose": "The tool is carrying the spring load at this point. That is the whole reason the previous step is orientation-specific.",
+   "quote": "Now you can remove the upper slide from the frame by moving it forward.",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.4 Disassemble the weapon, printed p.55"
+  },
+  {
+   "phase": "Strip",
+   "title": "Relax the slide, then receiver upside-down — mind the sight",
+   "action": "Release the tension from the slide by pulling the cocking grips forward, then place the receiver upside-down on the work surface in front of you. ⚠ Take care not to damage the sight — that is what it is now resting near.",
+   "prose": "A folded cloth under it. This is a micrometer match sight and the bench is harder than it is.",
+   "caution": "Upside-down on the bench means the rear sight is the low point. Put something soft under it.",
+   "quote": "Make sure not to damage the sight.",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.4 Disassemble the weapon, printed p.55"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin forward, slide up and off, then the pin out to the rear",
+   "action": "Slide the firing pin into its FORWARD-MOST position, then lift the complete slide upwards off the receiver. Finally, take the firing pin out of the slide by pulling it BACKWARD out of the slide.",
+   "prose": "Forward-most first. In any other position the pin fouls the receiver as the slide lifts and it feels like the gun is stuck.",
+   "aside": "from the receiver.",
+   "quote": "Now slide the firing pin into its forward-most position and remove the complete slide upwards",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.4 Disassemble the weapon, printed p.55"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the chamber end, then a nylon brush on the named areas",
+   "action": "From the CHAMBER side, push an oiled brass or copper wire brush up the bore until the lead is gone, then lift the residue with pads, felt wads or a wool mop. Clean the barrel, feeder ramp, guides, magazine well and slide with a soft NYLON brush and finish with a lightly oiled rag. Magazines the same way.",
+   "prose": "Same rimfire logic as every match .22 in this class: lead in the bore and the chamber mouth, wax and unburnt powder everywhere the rounds travel.",
+   "aside": "by wiping the parts down with a lightly oiled rag.",
+   "quote": "Clean the barrel, feeder ramp, guides, magazine well, and slide with a soft nylon brush. Finish",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.6 Care and cleaning, printed p.57"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ THE TRIGGER ASSEMBLY IS BLOWN CLEAN — no brush, no cloth",
+   "action": "Free the trigger assembly from coarse dirt by GENTLY BLOWING on it. ⛔ Do not use brushes or cloths in this area. Only if it is very dirty may a small, soft brush be used, gently. ⚠ On your SSP-E this is not just a mechanical trigger — it is a pressure sensor and its electronics, so treat this instruction as absolute.",
+   "prose": "This is the single most important line in the SSP clean and it is easy to read past. Everything else on the gun gets a brush; this does not.",
+   "quote": "Free the trigger assembly from coarse dirt particles by gently blowing on it.",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.6 Care and cleaning, printed p.57",
+   "warn": "Do not use of brushes"
+  },
+  {
+   "phase": "Clean",
+   "title": "The damping system — dry cloth only, and the choke holes must be clear",
+   "action": "Striker rod and spring, damper rod and spring can be brushed clean of coarse dirt with a soft brush and then wiped with a clean soft cloth. Wipe the striker rod guide hole, the damper guide hole and BOTH NOZZLE SCREWS with a DRY cloth. ⛔ Make sure the choke holes of the nozzle screws are not blocked — clear them with a needle if they are.",
+   "prose": "Those choke holes ARE the damping system. Blocked, the pistol's recoil behaviour changes and nothing visible has moved.",
+   "caution": "Dry cloth on the guide holes and the nozzle screws. No oil in the damping system.",
+   "aside": "use a needle to remove dirt.",
+   "quote": "When doing so, ensure that the choke holes of the nozzle screws are not blocked. If necessary,",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.6 Care and cleaning, printed p.57"
+  },
+  {
+   "phase": "Strip",
+   "title": "Grease the grooves and combs, wipe the outside, and stop there",
+   "action": "Lubricate the guide grooves and guide combs with a small amount of acid-free grease, mount the slide, and wipe the exterior with a soft lightly oiled cloth. That is the whole lubrication list — nothing goes near the trigger and nothing goes in the nozzle screws.",
+   "prose": "On this pistol the lubrication instruction and the do-not-lubricate instruction are two lines apart, and both are load-bearing.",
+   "quote": "Lubricate the guide grooves and guide combs with a small amount of acid-free grease.",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.6 Care and cleaning, printed p.57",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "⛔ The springs — Walther's own answer is usually DON'T",
+   "action": "To take the striker and slide springs out, the stripping and assembly tool has to come off carefully, and the springs and spring rods can then be pushed forward out of the housing. ⛔ Walther's own verdict on doing it: removing the springs is GENERALLY NOT NECESSARY. Treat it as a repair operation, not a cleaning one.",
+   "prose": "The reason it is in the book at all is so that if you must, you do it in the right order. The reason it is qualified is that most cleans do not need it.",
+   "quote": "Removing the springs is generally not necessary.",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.4 Disassemble the weapon, printed p.55",
+   "warn": "When loosening the stripping and assembly tool, it is essential to hold"
+  },
+  {
+   "phase": "Strip",
+   "title": "If the springs do come out — hold BOTH, and never swap them",
+   "action": "⛔ While the tool is being loosened it is essential to hold onto BOTH the receiver AND the stripping and assembly tool during removal. On the way back, replace the slide and firing pin springs if needed and reinsert them with the rods — and it is essential that the parts are NOT switched during reassembly.",
+   "prose": "Two springs, two rods, two guide holes, two nozzle screws — this pistol is built in pairs and every pair is handed. Lay them out in the orientation they came off in and never let them mix.",
+   "quote": "It is essential that the parts are not switched during re-assembly.",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.5 Assemble the weapon, printed p.56",
+   "warn": "onto both the receiver and the stripping and assembly tool during removal."
+  },
+  {
+   "phase": "Clean",
+   "title": "Rods and springs cleaned, then the guide holes dry",
+   "action": "With the springs out, brush the striker rod and spring and the damper rod and spring clean of coarse dirt with a soft brush, then wipe them with a clean soft cloth. The guide holes they came out of get a DRY cloth — no oil goes into the damping system at any point.",
+   "prose": "Oil in a damper guide hole changes the damping and collects the next session's fouling. This is the reason the whole system is specified dry.",
+   "quote": "Striker rod and spring, damper rod and spring can also be cleaned of coarse dirt with a soft brush.",
+   "cite": "Walther SSP Bedienungsanleitung / Instruction Manual — SSP four-language instruction manual (DE/EN/ES/FR), read with Walther's own SSP-E supplement 2788241_Anleitung SSP-E-Stand_Jan2015 — 4.6 Care and cleaning, printed p.57"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ SSP-E ONLY — the battery, and what the diode is telling you",
+   "action": "Your SSP-E is powered by a RECHARGEABLE BATTERY charged over a Mini-B USB cable from a computer or a charger. About 1 minute of charge gives roughly 100 rounds; a full charge takes about 90 minutes and lasts about 6,000 rounds. ⛔ While it is charging the electronics are DEACTIVATED and the trigger does not work — a dead trigger on the charger is normal, not a fault.",
+   "prose": "For a high-volume shooter this is the number that matters: 6,000 rounds a charge and a minute of USB gets you through a hundred. Charge it at the same time you clean it.",
+   "quote": "A fully charged battery will last for approximately 6.000 rounds.",
+   "cite": "Walther SSP-E supplement — Anleitung SSP-E — 2788241_Anleitung SSP-E-Stand_Jan2015 (Jan 2015) — 2. Electronics",
+   "warn": "charging the electronics is deactivated, and the trigger does not work."
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ SSP-E ONLY — standby, and why the gun goes dead in the case",
+   "action": "When it is not in use the electronics go to STANDBY on their own: the diode flashes every two seconds for 20 minutes, then twice a second for 3 minutes, then the electronics turn off completely. Switch it on again before shooting — slide back and locked open, no cartridge and no loaded magazine present, then pull and hold the finger rest until the LED begins to blink.",
+   "prose": "The switch-on sequence has a safety condition built into it and it is worth reading as one: the gun must be empty and open before you hold that trigger back.",
+   "quote": "After this the electronics automatically is turned off completely.",
+   "cite": "Walther SSP-E supplement — Anleitung SSP-E — 2788241_Anleitung SSP-E-Stand_Jan2015 (Jan 2015) — 2. Electronics",
+   "warn": "Make sure that there is no cartridge or loaded magazine in the weapon."
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ SSP-E ONLY — there is NO trigger stop, and that is by design",
+   "action": "The SSP-E's trigger breaks on a pressure sensor with NO PHYSICAL MOVEMENT at the break point. That is why it has no overtravel after release and why the pistol has NO TRIGGER STOP ADJUSTMENT SCREW. ⛔ Do not go looking for one after a clean, and do not fit anything in its place.",
+   "prose": "An SSP-E owner coming off a mechanical match pistol will reach for a stop screw that does not exist. Walther explains the absence rather than leaving it to be discovered.",
+   "caution": "No trigger stop screw exists on this pistol.",
+   "aside": "releasing and why the pistol is not equipped with a trigger stop adjustment screw.",
+   "quote": "the trigger's break point. This is the reason why the SSP-E trigger does not have any overtravel after",
+   "cite": "Walther SSP-E supplement — Anleitung SSP-E — 2788241_Anleitung SSP-E-Stand_Jan2015 (Jan 2015) — 4. Trigger characteristics"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ SSP-E ONLY — dry fire has an order, and it engages the sear",
+   "action": "For dry-fire practice: remove the magazine, pull the slide fully rearward and guide it back forward into battery, THEN turn the safety lever to the right (S). Walther states it is important to follow that course of action — doing it in that order engages the sear, which is what gives the positive feedback during dry firing.",
+   "prose": "Order matters because on an electronic trigger there is nothing else to feel. The sear under load is the feedback.",
+   "caution": "Magazine out, slide cycled to battery, THEN safety to S.",
+   "aside": "battery position. Now turn the safety lever to the right (S).",
+   "quote": "Dry fire practice: Remove the magazine, pull the slide fully rearward and guide it back forward into",
+   "cite": "Walther SSP-E supplement — Anleitung SSP-E — 2788241_Anleitung SSP-E-Stand_Jan2015 (Jan 2015) — 1. Safety / Dry Fire Mode"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "From the CHAMBER end, oiled brass or copper brush until the lead is gone",
+    "Pads, felt wads or a wool mop to lift the residue"
+   ]
+  },
+  {
+   "name": "SOFT NYLON BRUSH",
+   "tasks": [
+    "Barrel · feeder ramp · guides · magazine well · slide",
+    "Then a lightly oiled rag",
+    "Magazines cleaned the same way"
+   ]
+  },
+  {
+   "name": "⛔ TRIGGER ASSEMBLY — AIR ONLY",
+   "tasks": [
+    "Gently blow it clean",
+    "⛔ No brushes and no cloths in this area",
+    "Very dirty only: a small soft brush, gently",
+    "⚠ On the SSP-E this is a pressure sensor and its electronics"
+   ]
+  },
+  {
+   "name": "DAMPING SYSTEM — DRY",
+   "tasks": [
+    "Striker rod and spring, damper rod and spring: soft brush then a clean soft cloth",
+    "Striker guide hole, damper guide hole, both nozzle screws: DRY cloth",
+    "⛔ Choke holes must be clear — a needle if necessary",
+    "⛔ Each nozzle screw returns to ITS OWN hole"
+   ]
+  },
+  {
+   "name": "LUBRICATION",
+   "tasks": [
+    "Acid-free grease, a small amount, guide grooves and combs ONLY",
+    "Lightly oiled cloth on the exterior",
+    "⛔ Oil residue out of magazine and barrel before shooting"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Firing pin into the slide, pushed forward — check the guide is free of dirt first.",
+  "Receiver down on the bench; springs and rods back in if they were removed — NOT switched.",
+  "Rods pressed in until they project from the opposite guide holes.",
+  "Stripping and assembly tool back on, locked with the knurled screw.",
+  "Slide with firing pin in vertically from above — both must engage their tension rods.",
+  "Slide cocked and locked to the rear, receiver onto the frame.",
+  "Tool removed; housing screw in and tightened.",
+  "⛔ Both nozzle screws into THEIR OWN holes, tightened FLUSH with the housing.",
+  "Slide ridden forward slowly, function checked."
+ ],
+ "fncheck": "Walther builds the check into the last step of the rebuild: ride the slide forward slowly and check the function of the weapon. Before that, three things get verified by eye — both nozzle screws tightened FLUSH with the housing, each in its own hole; the housing screw in and tight; and the stripping and assembly tool removed. ⚠ On an SSP-E there is a fourth: the electronics have to be switched on before the pistol will fire at all, and the diode tells you where the battery is — a long flash then short flashes, one per thousand rounds remaining, and four short flashes with a pause means low. ⛔ A gun that will not fire after a clean is a flat battery at least as often as it is a mistake in the rebuild."
+}
