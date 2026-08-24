@@ -1,0 +1,162 @@
+{
+ "row": "jpenterprisesjp15",
+ "make": "JP Enterprises",
+ "model": "JP-15",
+ "sourcedFrom": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "0b30f84e00639a0edae920b547287a981339e1b9354485c2c26feaef398d805e",
+ "cleanIntro": "The JP-15 is a small-frame AR-15-pattern rifle from JP, and it is exactly what this manual is written for — JP says its common text is most comprehensive for its small-frame gas-impingement models with traditional top charging handles. ⚠ It is JP's own AR-15 and the model the common text is written around. ⛔ Two things bracket the strip: the captured takedown pins go LEFT TO RIGHT and a mallet can break a detent plunger out of the receiver, and the buffer must be HELD before the retainer is depressed.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⚠ Read the book's own scope before you read its steps",
+   "action": "JP publishes one manual for seven rifles and tells you how to read it: the common text is written most comprehensively for its small-frame AR-15 gas-impingement models with traditional top charging handles, and where a model differs the difference is in a SIDEBAR. ⛔ Those sidebars SUPERSEDE the common text for the model they name.",
+   "prose": "A manual that states its own precedence rule is doing you a favour. Follow it rather than the page order.",
+   "aside": "Unless noted, the information in these sidebars should be understood to supersede any contradictory instructions described elsewhere for the models in question.",
+   "quote": "The content of this manual refers most comprehensively to our small-frame (AR-15) gas-impingement rifle models with traditional top charging handles, but most of this information is entirely applicable to our other models and operating systems.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Read and Understand this Manual, p.3"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ No round ejecting is NOT evidence the chamber is empty",
+   "action": "Lock the bolt back, then VISUALLY inspect the receiver and the chamber. JP spells out the trap: nothing ejecting when you lock the bolt back does not mean there is nothing in the chamber. There is no substitute for looking.",
+   "prose": "This is the sentence that exists because a case can stay put when the extractor slips off it.",
+   "quote": "Remember that just because no round is ejected from the receiver when locking the bolt back does not mean that there is no round in the chamber. There is no substitute for visually inspecting the chamber.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Clearing the Rifle, step 5, p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lay the parts out FIRST",
+   "action": "Before anything comes off, decide where it is going. JP opens the field strip with this instruction in every one of its books, because the small parts in an AR bolt group are the ones that get lost.",
+   "prose": "Thirty seconds of preparation against an evening looking for a cam pin.",
+   "quote": "As you begin the “field strip” described in the following steps, take care to lay out the removed components in an organized way as some can easily be misplaced and lost.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Disassembly, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Rear takedown pin — captured, and a mallet can cost you a lower",
+   "action": "Press the rear takedown pin in from the LEFT and pull it out the RIGHT until it stops. It is retained by a detent plunger and cannot come all the way out. ⛔ If it is tight and you reach for a punch, be gentle — excessive force can break the detent plunger out of the side of the receiver, and that means a new lower.",
+   "prose": "Left to right, every time. The detent is on one side only.",
+   "quote": "1. Press the rear takedown pin in from the left of the lower receiver and pull it out the right side until it comes to a positive stop.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Disassembly, step 1, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hinge it open, then the front pivot pin",
+   "action": "Pivot the lower down and away from the upper, then press the front pivot pin in from the left and pull it out the right until it stops. This one is also captured and also cannot be removed.",
+   "prose": "Two pins, two detents, and neither ever leaves the receiver. Anything that does come out is broken.",
+   "aside": "3. Press the front pivot pin in from the left side of the lower receiver, and pull it out the right side until it comes to a positive stop.",
+   "quote": "2. Pivot the lower receiver down and away from the upper receiver.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Disassembly, step 2, p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Separate the halves — and catch the carrier",
+   "action": "Lift the two assemblies apart holding the upper level: the bolt carrier assembly is not retained once the lower is off and will fall out of the back if you tip it.",
+   "prose": "It is the one part of an AR strip that can hit the floor before you have noticed it moving.",
+   "quote": "4. Separate the upper and lower assemblies. Take care that the bolt carrier assembly does not fall out the back of the upper assembly.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Disassembly, step 4, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ HOLD THE BUFFER — it ejects when the retainer goes down",
+   "action": "On the lower, HOLD the buffer where it is before you depress the buffer retainer, or it will eject suddenly. Then depress the retainer to let the buffer move forward, and depress the hammer to let the buffer and spring out. ⚠ If your rifle has JP's Silent Captured Spring there is no buffer retainer or spring to fight.",
+   "prose": "A buffer spring under load is the part of an AR that reaches the far wall.",
+   "caution": "Glasses on. This is the spring-loaded end of the rifle.",
+   "quote": "5. On the lower assembly, hold the buffer in its current position to prevent it from ejecting suddenly when the buffer retainer is depressed.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Disassembly, step 5, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ The buffer is NOT a routine removal — 1,000 to 2,000 rounds",
+   "action": "JP is explicit that removing the buffer and action spring, or the Silent Captured Spring, is not necessary for regular maintenance: it wants inspection every 1,000 to 2,000 rounds, or at least once a year, unless a specific problem needs access to it.",
+   "prose": "An interval and a condition. Pulling it every clean buys nothing and risks the detent.",
+   "quote": "Removing the buffer and action spring or Silent Captured Spring is not necessary for regular maintenance. It need only be removed for inspection every 1,000 to 2,000 rounds (or at least once a year) unless there is a specific problem requiring access to it.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Disassembly, step 5 note, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier out on the charging handle",
+   "action": "On the upper, pull the charging handle to the rear and remove the bolt and carrier assembly. Then the charging handle comes back and DOWN out of its track.",
+   "prose": "Back until it stops, then down. Straight back does not clear.",
+   "quote": "6. On the upper assembly, pull the charging handle to the rear and remove the bolt and carrier assembly or bolt assembly in the case of a .22 LR.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Disassembly, step 6, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin — TWO-PRONGED END goes in first",
+   "action": "Push the TWO-PRONGED end of the firing pin retaining pin into the bolt carrier and out the other side. Direction matters: the pronged end is the one that enters.",
+   "prose": "Driven the wrong way the prongs spread against the carrier, and a spread retaining pin does not hold.",
+   "quote": "8. Push the two-pronged end of the firing pin retaining pin into the bolt carrier and out the other side.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Disassembly, step 8, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt face UP, and TAP the carrier to drop the firing pin",
+   "action": "Tilt the bolt face up and take the firing pin out. JP's own tip: tapping the BACK of the bolt carrier on a hard surface helps dislodge it, and it should fall out of the REAR of the carrier assembly.",
+   "prose": "It falls rearward, not forward. Holding it the other way up is why it seems stuck.",
+   "quote": "9. Tilt the bolt face up and remove the firing pin. Tapping the back of the bolt carrier on a hard surface will help dislodge the firing pin, and it should fall out the rear of the bolt carrier assembly.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Disassembly, step 9, p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt IN until it rotates, then the cam pin 90°",
+   "action": "Push the bolt IN toward the carrier until it rotates and comes to a stop. Then turn the cam pin 90 degrees and lift it out. In, rotate, turn — the quarter turn only clears once the bolt has gone home.",
+   "prose": "The cam pin is what makes this a rotating-bolt rifle and it comes out with no tool at all.",
+   "quote": "10. Push the bolt in towards the carrier until it rotates and comes to a stop. Then, turn the cam pin 90˚.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Disassembly, step 10, p.30"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "⚠ The buffer and spring are an INSPECTION item, not a cleaning one",
+   "action": "JP's interval for the buffer, action spring or Silent Captured Spring is every 1,000 to 2,000 rounds, or at least once a year — unless a specific problem needs access. Everything else on this rifle is cleaned far more often than that.",
+   "prose": "Two schedules on one rifle, and mixing them up is how a detent plunger gets worn out for nothing.",
+   "quote": "Removing the buffer and action spring or Silent Captured Spring is not necessary for regular maintenance. It need only be removed for inspection every 1,000 to 2,000 rounds (or at least once a year) unless there is a specific problem requiring access to it.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Disassembly, step 5 note, p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Where this book is NOT about your rifle, look for a sidebar",
+   "action": "JP's own reading rule: where processes or components differ — the side charging handles of the LRP-07 and SCR-11, or the different operating system for .22 LR rifles — the difference is in a sidebar, and the sidebar supersedes the common text. On a top-charging small-frame rifle those sidebars are the ones that do NOT apply to you.",
+   "prose": "Knowing which sidebars to ignore is as useful as knowing which to follow.",
+   "quote": "Unless noted, the information in these sidebars should be understood to supersede any contradictory instructions described elsewhere for the models in question.",
+   "cite": "JP ENTERPRISES OWNER’S MANUAL — RIFLES AND UPPER ASSEMBLIES — Version 11.19.18 — Read and Understand this Manual, p.3"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Brass bristle brush from the breech end, all the way through before reversing",
+    "Tight jag with flannel patches until the last comes out clean",
+    "Chamber brush with bore solution if the bore is still dirty"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Carrier, bolt, cam pin and firing pin cleaned of carbon",
+    "Firing pin retaining pin checked — the prongs must not be spread",
+    "Gas rings and bolt inspected before reassembly"
+   ]
+  },
+  {
+   "name": "LOWER",
+   "tasks": [
+    "⛔ Buffer and spring only every 1,000-2,000 rounds, or yearly",
+    "Buffer HELD before the retainer is depressed",
+    "⛔ Fire control left to JP or a qualified gunsmith"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Cam pin in and turned back 90°; bolt drawn out to its forward position.",
+  "Firing pin dropped in; retaining pin in two-pronged end first.",
+  "Bolt carrier group back into the upper, fully forward into battery.",
+  "Charging handle lugs into the track, then handle and carrier pushed home together.",
+  "Buffer and spring back in; hammer and buffer retainer seated.",
+  "Upper onto lower: front pivot pin first, rear takedown pin second."
+ ],
+ "fncheck": "With the rifle confirmed unloaded, cycle the charging handle fully and confirm the action runs free and locks back. ⛔ Then look in the chamber again — JP's own rule is that nothing ejecting is not evidence the chamber is empty. Dry-fire with the muzzle safe, cycle, release the trigger and listen for the reset, then squeeze again. Confirm both takedown pins are seated flush and that the buffer retainer has sprung back up."
+}

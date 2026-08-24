@@ -1,0 +1,114 @@
+{
+ "row": "volquartsenblackmamba",
+ "make": "Volquartsen",
+ "model": "Black Mamba",
+ "sourcedFrom": "VOLQUARTSEN BLACK MAMBA OWNER’S MANUAL — UNKNOWN — no revision code printed (UNKNOWN — not printed in the document)",
+ "sourceSha256": "cbd6d515a2fc96cb1a98591a0b215722df1ac6230b9f47a569913761acc481ae",
+ "cleanIntro": "The Black Mamba is a take-down-button rimfire pistol: press the button below the rear of the bolt, rotate the upper DOWN until it clears the bolt stop pin, and lift it straight off the frame. The bolt then pulls straight back out of the upper by its handle. ⛔ The barrel rule is the same one Volquartsen prints on every book and it is the expensive one: breech to muzzle, pull-through only, and a cleaning rod from the muzzle end voids the warranty.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Clear it, then put it on SAFE",
+   "action": "Confirm the pistol is clear — no magazine inserted and the chamber empty — and then engage the safety so the pistol is on safe. Volquartsen puts the safety step SECOND, after the clearing, and the strip starts from there.",
+   "prose": "Clear first, safe second. On this pistol the safety is part of the takedown sequence, not a preliminary.",
+   "quote": "Ensure that the firearm is clear; \n\t no magazine inserted and the\n\t chamber is clear.",
+   "cite": "VOLQUARTSEN BLACK MAMBA OWNER’S MANUAL — UNKNOWN — no revision code printed — Disassembly, step 1, p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the TAKE-DOWN BUTTON below the rear of the bolt",
+   "action": "Hold the upper in one hand and the frame in the other, and press the take-down button located BELOW THE REAR OF THE BOLT. Both hands are doing work here — one is holding the two halves in register while the other presses.",
+   "prose": "Find the button before you need it. It sits under the rear of the bolt, not on the side where most pistols put one.",
+   "quote": "While holding the upper with one\n\t hand and the frame in the other,\n\t press the take-down button that\n\t is located below the rear of the\n\t bolt.",
+   "cite": "VOLQUARTSEN BLACK MAMBA OWNER’S MANUAL — UNKNOWN — no revision code printed — Disassembly, step 3, p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rotate the upper DOWN until it clears the bolt stop pin",
+   "action": "With the button held in, rotate the upper DOWNWARDS so that it clears the bolt stop pin. Only then will it lift. ⚠ Rotating it the wrong way, or lifting before it clears the pin, is what makes this feel stuck.",
+   "prose": "It is a two-motion release: rotate to clear, then lift. Neither alone works.",
+   "quote": "With the take-down button pressed\n\t in, rotate the upper downwards",
+   "cite": "VOLQUARTSEN BLACK MAMBA OWNER’S MANUAL — UNKNOWN — no revision code printed — Disassembly, step 4, p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Upper straight off, bolt straight back",
+   "action": "The upper now lifts straight off the frame. To get the bolt out of the upper, simply pull it straight back on the bolt handle.",
+   "prose": "No tools to this point on this pistol — that is the whole design of the take-down button.",
+   "quote": "To remove the bolt from the upper, \t\n\t simply pull the bolt straight back \t \t\n\t on the bolt handle.",
+   "cite": "VOLQUARTSEN BLACK MAMBA OWNER’S MANUAL — UNKNOWN — no revision code printed — Disassembly, step 6, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ BREECH TO MUZZLE, PULL-THROUGH — with the bolt LOCKED OPEN",
+   "action": "Lock the bolt open using the bolt hold open feature, then clean the barrel ONLY from breech to muzzle with a pull-through system. ⛔ A cleaning rod from the muzzle end voids the warranty and greatly affects accuracy.",
+   "prose": "The hold-open is what gives the pull-through a straight run at the breech. It is in the instruction for a reason.",
+   "quote": "The barrel should be cleaned only from breech to muzzle \nusing a pull-through cleaning system. Lock the bolt open \nusing the bolt hold open feature.",
+   "cite": "VOLQUARTSEN BLACK MAMBA OWNER’S MANUAL — UNKNOWN — no revision code printed — Barrel Cleaning, p.13",
+   "warn": "Any use of a cleaning rod \nfrom the muzzle end will void the warranty and greatly \naffect accuracy.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Every 500-600 rounds — chamber more often, cotton swab only",
+   "action": "Volquartsen's figure for a thorough barrel clean is approximately every 500 to 600 rounds. ⚠ The chamber may need doing more often, and only with a cotton swab.",
+   "prose": "A .22 chamber picks up wax faster than the bore does, and a sticky chamber reads as an extraction fault.",
+   "quote": "It may be necessary to clean the chamber on a more frequent basis using only a cotton swab.",
+   "cite": "VOLQUARTSEN BLACK MAMBA OWNER’S MANUAL — UNKNOWN — no revision code printed — Barrel Cleaning, p.13"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "⚠ Ammunition — 22 LR, and NOT CCI Stinger",
+   "action": "Before it goes back in the safe or on the line, confirm the ammunition. The Black Mamba is designed for 22 Long Rifle. ⛔ CCI Stinger is NOT recommended in this pistol — the cartridge is oversized, it can cause a bore obstruction, and it voids the warranty. ⚠ Volquartsen also notes that tight bore tolerances mean some ammunition may not be manually extractable, and offers to rechamber the barrel for manual extraction.",
+   "prose": "That last note is unusual and worth knowing before you diagnose a stuck case as a fault.",
+   "quote": "Use of CCI® Stinger ammo can cause a bore obstruction and will void the warranty.",
+   "cite": "VOLQUARTSEN BLACK MAMBA OWNER’S MANUAL — UNKNOWN — no revision code printed — Ammunition, p.14"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "The Hogue grip comes off with a 3/32 inch hex",
+   "action": "The grip is removable with a 3/32 inch hex wrench. It is the gateway to the ambidextrous safety — Volquartsen's own safety-removal procedure begins by taking the grip off the frame.",
+   "prose": "Nothing else on this pistol needs the grip off, so this is a configuration job, not a cleaning one.",
+   "quote": "To remove the ambidextrous safety you will have to remove the grip from the frame.",
+   "cite": "VOLQUARTSEN BLACK MAMBA OWNER’S MANUAL — UNKNOWN — no revision code printed — Removing the Ambidextrous Safety, step 1, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Ambidextrous safety — 1/16 inch hex on the RIGHT-side lever",
+   "action": "With the grips off, a 1/16 inch hex wrench removes the RIGHT side safety lever. Volquartsen supplies a spacer to install in its place if you are running the pistol single-sided.",
+   "prose": "Right side only. The left lever is the one that stays.",
+   "quote": "Once grips are removed, using a \t \n\t\n1⁄16˝ hex wrench remove the right\n\t side safety lever.",
+   "cite": "VOLQUARTSEN BLACK MAMBA OWNER’S MANUAL — UNKNOWN — no revision code printed — Removing the Ambidextrous Safety, step 2, p.9"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL — THE RULE THAT VOIDS THE WARRANTY",
+   "tasks": [
+    "Bolt locked open with the bolt hold open feature",
+    "⛔ Breech to muzzle ONLY, pull-through system",
+    "⛔ Never a cleaning rod from the muzzle end",
+    "Thoroughly, approximately every 500-600 rounds",
+    "Chamber more often, cotton swab only"
+   ]
+  },
+  {
+   "name": "UPPER AND BOLT",
+   "tasks": [
+    "Bolt out of the upper by pulling straight back on the handle",
+    "Bolt face, extractor and the inside of the upper wiped",
+    "Take-down button and bolt stop pin checked clear of fouling"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bolt back into the upper, straight in on its handle.",
+  "Upper onto the frame, rotated up past the bolt stop pin until the take-down button seats.",
+  "Button confirmed sprung back out — the upper must not lift.",
+  "Grip and safety refitted if they were removed (3/32 inch and 1/16 inch hex).",
+  "Ammunition confirmed 22 LR — ⛔ not CCI Stinger."
+ ],
+ "fncheck": "With the magazine out and the chamber checked, confirm the take-down button has sprung fully back and the upper will not lift off the frame. Cycle the bolt through full travel on the handle and confirm it locks open on the hold-open. Engage and disengage the safety. ⚠ Then the ammunition check: 22 LR, ⛔ not CCI Stinger — an oversized cartridge in this pistol can cause a bore obstruction and voids the warranty."
+}

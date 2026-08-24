@@ -2,6 +2,32 @@
  "_doc": "One entry per published index version, newest first. `added` is the row ids whose guide first appeared at that version, so a client holding version N can ask for everything since N without a redesign.",
  "versions": [
   {
+   "version": 10,
+   "publishedAt": "2026-08-24",
+   "appCommit": "79d7efef4bc66a9d117927b477d2ea664f663893",
+   "counts": {
+    "catalogRows": 1166,
+    "guides": 703,
+    "plates": 54
+   },
+   "added": [
+    "btapc9pro",
+    "czts2orange",
+    "jpenterprisesctr02",
+    "jpenterprisesjp15",
+    "jpenterpriseslrp07",
+    "rugerhawkeyeafrican",
+    "rugerhawkeyelongrangetarget",
+    "sakos20hunter",
+    "volquartsenblackmamba",
+    "volquartsenscorpion",
+    "volquartsensummit"
+   ],
+   "changed": [],
+   "removed": [],
+   "platesAdded": []
+  },
+  {
    "version": 9,
    "publishedAt": "2026-08-24",
    "appCommit": "f340037f56a9f813aaf46e63faf1fb392bc288d5",
