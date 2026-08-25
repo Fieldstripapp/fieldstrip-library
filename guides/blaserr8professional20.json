@@ -1,0 +1,181 @@
+{
+ "row": "blaserr8professional20",
+ "make": "Blaser",
+ "model": "R8 Professional 2.0",
+ "sourcedFrom": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 (2025 — read from the document's own page footer)",
+ "sourceSha256": "e96a02a0d2421372a5dd8ee6e04475f95885c86dcda8f1d7dbbc5c29e75fc246",
+ "cleanIntro": "The R8 is a STRAIGHT-PULL repeater with a radial collar closure, and like the K 95 its safety slide is a COCKING slide: the firing pin spring sits decocked until the slide goes forward. ⚠ It is also a fully modular rifle — barrel, bolt head and magazine insert all have to match the calibre — so a clean that ends in reassembly is also a calibre check. ⛔ Blaser bounds the owner's disassembly explicitly and forbids greasing or degreasing the trigger at all.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⚠ This book does NOT cover the whole rifle — ten subsystems have their own",
+   "action": "Before anything else, know what you are holding. Blaser's §1.3 lists TEN OTHER APPLICABLE DOCUMENTS, each a separate manual with its own Blaser part number: the R8 Silence, the on-barrel and over-barrel silencers, the exchangeable magazine with the Atzl Match-Hunt trigger, the Magazine unit X, the Ultimate recoil-absorption system (RDS / VSK / VSR) and four mount manuals. ⛔ If your rifle carries any of those, this book does not cover that part of it and neither does this guide.",
+   "prose": "A modular rifle is a stack of subsystems, and Blaser documents them separately. Knowing which stack you have is the first maintenance decision.",
+   "aside": "Instruction manual Blaser R8 Silence",
+   "quote": "1.3 OTHER APPLICABLE DOCUMENTS",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 1.3 OTHER APPLICABLE DOCUMENTS"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Decock, then unload — in that order",
+   "action": "The R8's slide cocks the firing pin spring; back is decocked. Push the slide forward/downward with your thumb and let it run back to its starting position, so the red signalling square disappears. Then open the bolt: the chambered round is pulled out and ejected as the bolt comes back.",
+   "prose": "The red square is the whole state indicator on this rifle. Learn to look for it.",
+   "aside": "Open and pull back the bolt assembly",
+   "quote": "To put the rifle on “safe”, push the safety slide (cocking slide) forward/downward with your thumb (unlocking) and let it slide back into its starting position",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 5.2.3 RETURNING TO THE SAFE POSITION"
+  },
+  {
+   "phase": "Clear",
+   "title": "⚠ The magazine has a safety catch of its own — except one magazine",
+   "action": "Every R8 spare magazine carries a magazine safety catch built into the magazine, locked with the magazine buttons. ⛔ The exception Blaser names is the Ultimate X 10-round magazine, which has NO magazine safety catch and cannot be dismantled by the customer at all.",
+   "prose": "Two magazines, two different rules, and the difference is not visible at a glance.",
+   "quote": "Every Blaser R8 bolt action rifle with a spare magazine, apart from the R8 Ultimate X 10-round magazine, features a magazine safety catch integrated into the magazine.",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 5.3 LOADING THE RIFLE",
+   "warn": "ATTENTION! The Ultimate X 10-round magazines do not have a magazine safety catch and also cannot be disassembled by the customer."
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ ADJUSTABLE COMB? Push it fully IN before anything moves",
+   "action": "Blaser's ATTENTION block sits at the head of the assembly/disassembly chapter and again at the bolt-removal chapter: on variants with an adjustable comb, the comb must be pushed in COMPLETELY before the firearm is assembled or disassembled, or the firearm can be damaged.",
+   "prose": "It is printed twice in one manual. That is a maker telling you it happens.",
+   "caution": "Handle all components with particular caution and without force during assembly / disassembly to avoid damage.",
+   "quote": "For variants with adjustable comb, push the comb in completely before assembling / disassembling the firearm.",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 5.1 ASSEMBLY, DISASSEMBLY — ATTENTION"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine out, then the bolt assembly UNLOCKED and back",
+   "action": "Take the spare magazine out. Then push the safety slide slightly forward with your thumb — about 2 mm — and AT THE SAME TIME pull the bolt handle back with your index and middle fingers to unlock, then draw the bolt assembly straight back. ⚠ Two hands, two motions, simultaneously; the slide is what releases the handle.",
+   "prose": "This is the movement that catches people. The slide is not a safety here, it is a release.",
+   "aside": "Remove spare magazine.",
+   "quote": "Push safety slide (cocking slide) slightly forward with your thumb (approx. 2 mm), at the same time, pull the bolt handle backwards with your index and middle finger (unlock), then pull bolt assembly back in a straight line.",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 5.1.2 DISASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt stop held IN, bolt assembly out of the back",
+   "action": "With the rifle unloaded, push the BOLT STOP in and hold it there while your other hand pulls the bolt assembly out towards the rear. The stop is what limits the travel; nothing comes out until it is held down.",
+   "prose": "One hand holds, the other pulls. Trying it one-handed is how the stop gets bent.",
+   "quote": "Push in the bolt stop and hold it there, at the same time, pull bolt assembly out towards the back, using your other hand.",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 5.1.2 DISASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Some calibres take a DIFFERENT bolt-removal stroke",
+   "action": "Blaser fits a movable SHORT CARTRIDGE LOCK CATCH in the magazine insert for a named list of calibres — 22 Long Rifle, 222, 223, 22-250, 243 Win., 6.5x55 SE, 6.5x57, 7x57, 7.5x55 Suisse, 308 Win. and 8x57 IS. ⛔ On those rifles you pull the bolt back only as far as the REGULAR bolt stop, not all the way, before pressing the stop.",
+   "prose": "Same rifle, same book, two strokes — and which one you need depends on what is stamped on the barrel.",
+   "quote": "A movable short cartridge lock catch is fitted on the right outside the right magazine lip in the magazine insert for the calibres 22 Long Rifle",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 5.6.1 REMOVE BOLT ASSEMBLY"
+  },
+  {
+   "phase": "Strip",
+   "title": "Two barrel nuts, SW5 Allen key, and the barrel is off",
+   "action": "Loosen the two barrel fastening nuts with the supplied SW5 Allen key and lift the barrel out. That is the whole published strip: magazine, bolt assembly, barrel. ⛔ Blaser bars going further in as many words.",
+   "prose": "A modular rifle that opens with one hex key is a pleasure to maintain and an easy one to over-strip.",
+   "aside": "Remove barrel.",
+   "quote": "Using the supplied Allen key SW5, loosen the two barrel fastening nuts [A].",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 5.1.2 DISASSEMBLY",
+   "warn": "Do not disassemble the firearm and its components beyond the activities specified in this instruction manual."
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "⛔ The trigger is maintenance-free — greasing it is PROHIBITED",
+   "action": "Blaser's DANGER block is unusually strong: the trigger system is maintenance-free and additional greasing OR degreasing of the trigger is prohibited, because oils and greases can resinify and dangerously affect function. ⚠ Note it forbids both directions — a solvent flush is as barred as an oiling.",
+   "prose": "Degreasing a trigger feels like the safe option. Here it is named as the same mistake.",
+   "aside": "The trigger unit should always be kept clean and",
+   "quote": "The trigger system is maintenance-free. Additional greasing or degreasing of the trigger is prohibited.",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 7 CLEANING AND CARE — DANGER"
+  },
+  {
+   "phase": "Clean",
+   "title": "⚠ The chamber, not the bore, is where the damage starts",
+   "action": "Blaser singles the chamber out: hand sweat is transported into it by the ammunition, and it can react aggressively and cause corrosion. After chemical cleaning the barrel and PARTICULARLY the chamber are wiped dry and oiled — and then de-oiled again before shooting.",
+   "prose": "Every round you thumb into a magazine leaves something behind in the chamber.",
+   "aside": "After the barrel has been fired, the barrel should be cleaned and conserved, as the powder residues in the chamber and barrel will attract moisture.",
+   "quote": "Special attention should be applied to the chamber: Hand sweat is transported into the chamber by the ammunition.",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 7 CLEANING AND CARE — barrel internal"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Barrel, BOLT HEAD and magazine insert must match the calibre",
+   "action": "This is the modular rifle's one real hazard. Blaser requires that the barrel, the bolt head and the magazine insert all correspond to the calibre, and gives the owner a check: bolt assemblies and barrels are stamped with an abbreviation of the calibre group, and those markings are compared after assembly.",
+   "prose": "Three parts have to agree. Two agreeing is not a rifle, it is a pressure event waiting for a range trip.",
+   "quote": "When assembling, always ensure that the barrel, bolt head and magazine insert correspond to the calibre.",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 5.1.1 ASSEMBLY — ATTENTION",
+   "warn": "In addition, bolt assemblies and barrels are stamped with an abbreviation of the calibre group. These markings have to compare after assembly is completed"
+  },
+  {
+   "phase": "Clean",
+   "title": "⚠ Nine calibre GROUPS — and when the bolt head changes",
+   "action": "There are nine calibre groups. Within a group the barrel can be swapped as often as you like with no bolt-head change; ACROSS groups the bolt head must be changed to match the barrel going in.",
+   "prose": "The group, not the calibre, is the unit that decides. That distinction is the whole system.",
+   "aside": "There are 9 caliber groups",
+   "quote": "When changing barrels from one calibre group to another, the bolt head must be changed so that it matches the calibre group of the barrel being inserted.",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 5.7 EXCHANGING BARRELS"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ 11 Nm, and no extensions on the key",
+   "action": "The two barrel fastening nuts go to 11 Nm with the supplied SW5 Allen key, and Blaser bars extensions outright — the cheater bar that would make it easy is the thing that overtightens it.",
+   "prose": "A torque figure printed in an owner's manual is there because the fit it protects is what the rifle shoots on.",
+   "quote": "Using the supplied Allen key SW5 tighten the two barrelfastening nuts [A] (torque: 11 Nm). Do not use extensions!",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 5.1.1 ASSEMBLY",
+   "warn": "ATTENTION! Until assembly, the bolt handle has to be in a rear position, that means in an angle of approx. 45°."
+  },
+  {
+   "phase": "Clean",
+   "title": "The safety system, and why the slide is not a trigger block",
+   "action": "The R8's safety is a DECOCKED firing pin spring: the slide cocks it immediately before the shot, and the rifle re-cocks on its own as you repeat. In the decocked position the bolt handle is also blocked, so the bolt cannot open by itself while carrying — provided the handle was fully closed.",
+   "prose": "Blaser puts a condition on its own carry safety. That condition is worth remembering.",
+   "quote": "The safety system of the Blaser bolt action rifle model R8 is based on an decocked firing pin spring",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 5.2.1 SAFETY SYSTEM"
+  },
+  {
+   "phase": "Clean",
+   "title": "⚠ Magazine, metal and stock — three different products",
+   "action": "Keep the spare magazine clean and free of contaminants; keep all metal parts clean and slightly oiled, but ⛔ NOT with stock preservative; and polish the oil-rubbed wooden stocks with stock care products, ⛔ not with gun oil.",
+   "prose": "Blaser writes both prohibitions in the same paragraph because both mistakes are common.",
+   "aside": "Metal parts Keep all metal parts of the rifle clean and slightly oiled at all times.",
+   "quote": "Spare magazine Always keep the spare magazine clean and free of contaminants!",
+   "cite": "BLASER R8 — INSTRUCTION MANUAL — 80400551 • 09 / 2025 — 7 CLEANING AND CARE",
+   "warn": "Gun oil is not suitable for stock care!"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL AND CHAMBER",
+   "tasks": [
+    "Bore cleaned and conserved after firing — residues attract moisture",
+    "⛔ CHAMBER first: hand sweat is carried in by the ammunition",
+    "Chamber and bore left FREE OF OIL before shooting, or impact shifts"
+   ]
+  },
+  {
+   "name": "BOLT AND MAGAZINE",
+   "tasks": [
+    "Bolt assembly and bolt head wiped clean, calibre-group stamp checked",
+    "Spare magazine kept clean and free of contaminants",
+    "⛔ Ultimate X 10-round magazine NOT dismantled — Blaser forbids it"
+   ]
+  },
+  {
+   "name": "TRIGGER AND STOCK",
+   "tasks": [
+    "⛔ Trigger NEITHER greased NOR degreased — it is maintenance-free",
+    "Trigger unit kept clean and free of foreign objects",
+    "Oil-rubbed stocks polished with stock care products, ⛔ not gun oil"
+   ]
+  }
+ ],
+ "reassembly": [
+  "⛔ Adjustable comb pushed fully IN before anything goes back together.",
+  "Barrel into the receiver muzzle up and held; two barrel fastening nuts to 11 Nm with the SW5 key — ⛔ no extensions.",
+  "Magazine insert into the spare magazine from above and pressed down; magazine into the receiver until both buttons lock.",
+  "⛔ Bolt handle left in its REAR position, about 45° — a near-vertical handle will not go in.",
+  "Bolt assembly onto the rear of the receiver by its two rail ends, parallel to the bolt rail guide, then pushed forward.",
+  "⛔ Barrel, bolt head and magazine insert confirmed to match the calibre before the rifle is called assembled."
+ ],
+ "fncheck": "With the rifle confirmed unloaded, cycle the bolt straight back and forward a few times and confirm it unlocks with the slide and runs without binding. Cock the slide and watch the RED SQUARE appear behind it, then decock and watch it disappear. ⛔ Then do the check that is specific to a modular rifle: compare the calibre-group abbreviation stamped on the bolt assembly against the one stamped on the barrel. Blaser asks for those markings to be compared after assembly is completed, and on a rifle whose barrels change that is the check that matters most."
+}

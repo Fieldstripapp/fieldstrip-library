@@ -1,0 +1,137 @@
+{
+ "row": "savagerxr22",
+ "make": "Savage",
+ "model": "RXR22",
+ "sourcedFrom": "Savage Arms RXR22 Owner's Manual — RxR22 manual 0626 rev 01 (UNKNOWN — the book carries no copyright year on its pages; the publisher's own file name is dated 0626 rev 01)",
+ "sourceSha256": "860a57f87c81595c1f1338e9e91b44a07887f4d8975cf7eb4182d7fc24144b01",
+ "cleanIntro": "The RXR22 field-strips in three lifts — stock off, trigger group out, bolt and cocking handle out — and Savage asks for eye protection at every one of them. ⚠ Two of the three steps involve a spring under compression, and the manual says so twice in the same words: 'Use caution as the springs are under pressure.' The trigger group comes out as a unit and stays a unit.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Unload, safe, and put eye protection on",
+   "action": "Muzzle in a safe direction, finger off the trigger and outside the guard. Remove the magazine, clear the chamber, and set the safety button to FULL SAFE. Savage asks for safety glasses before the first screw turns — this is a spring-loaded action.",
+   "prose": "The manual repeats the eye-protection warning at the head of the strip, the reassembly and the cleaning sections; it is not incidental.",
+   "quote": "Always wear safety glasses when ﬁeld stripping or during disassembly of your firearm.",
+   "cite": "Savage Arms RXR22 Owner's Manual — RxR22 manual 0626 rev 01 — FIELD STRIPPING & DISASSEMBLY, printed p.23",
+   "warn": "Make sure your ﬁrearm is completely unloaded before attempting any ﬁeld stripping or disassembly."
+  },
+  {
+   "phase": "Strip",
+   "title": "Stock off — one action screw, and it stays with the stock",
+   "action": "With the safety at FULL SAFE and the chamber clear, back the action screw out counterclockwise with a correctly fitting flat blade or a coin. Then take the barrel near the muzzle and lift the action straight up out of the stock.",
+   "prose": "Nothing to lose on the bench here — Savage builds the screw captive.",
+   "quote": "The action screw is captive in the stock.  It will not fall out of the stock on its own.",
+   "cite": "Savage Arms RXR22 Owner's Manual — RxR22 manual 0626 rev 01 — Removing the Stock, printed p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger group out — a punch on the release button, then down and back",
+   "action": "Let the bolt close. Depress the trigger group release button on the right side at the rear of the receiver with a small punch; the rear of the group swings down. Rotate it down and draw it slightly rearward to free it from the receiver.",
+   "prose": "It leaves as an assembly and it stays one — the manual draws a hard line immediately after this step.",
+   "quote": "Using a small punch, depress the trigger group release button on the right side at the rear of the receiver",
+   "cite": "Savage Arms RXR22 Owner's Manual — RxR22 manual 0626 rev 01 — Removing the Trigger Group, printed p.23",
+   "warn": "Do not disassemble the trigger group beyond this point."
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt stop pin out",
+   "action": "Chamber clear, muzzle safe. Drift the bolt stop pin out of the rear of the receiver with a correctly sized punch.",
+   "prose": "This is what releases the bolt to come up and out at the next step.",
+   "quote": "With an appropriately sized punch, remove the bolt stop pin located at the rear of the receiver",
+   "cite": "Savage Arms RXR22 Owner's Manual — RxR22 manual 0626 rev 01 — Removing the Bolt Assembly, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt and cocking handle out — hold the handle back",
+   "action": "Turn the rifle so the bottom of the receiver faces up. Pull the cocking handle fully rearward and hold it there. Lift the front of the bolt to disengage it from the cocking handle assembly, then ease the handle forward, lift the bolt clear, and take the cocking handle assembly out through the ejection port.",
+   "prose": "The spring is compressed the whole time your hand is in there.",
+   "quote": "Carefully lift front of the bolt upwards to disengage it from the cocking handle assembly",
+   "cite": "Savage Arms RXR22 Owner's Manual — RxR22 manual 0626 rev 01 — Removing the Bolt Assembly, printed p.24",
+   "warn": "Use caution as the springs are under pressure."
+  }
+ ],
+ "deepAbsentReason": "NONE DOCUMENTED, AND THE BOOK CLOSES THE DOOR EXPLICITLY. Savage publishes one level of disassembly for the RXR22 and forbids going past it: 'Never disassemble your firearm beyond the ﬁeld stripping process outlined in this manual.' The cleaning it does publish — rod in through the rear cleaning port, brush the bore and chamber, a drop or two of oil — is reachable at field-strip level, so there is no deeper procedure to report. Stating that is the result; inventing a deep clean from general practice is not.",
+ "cleaning": [
+  {
+   "title": "Use the cleaning port, not the muzzle",
+   "action": "With the bolt out, run the rod in from the REAR of the receiver, through the barrel and out of the muzzle. Savage built a port for it.",
+   "quote": "The Savage RXR22 has a cleaning port in the rear of the receiver",
+   "section": "CLEANING & MAINTENANCE TIPS, printed p.32"
+  },
+  {
+   "title": "Bore and chamber",
+   "action": "Take the firing residue out of the bore and chamber with a properly fitted brush, then wipe the outside down with a non-abrasive cloth.",
+   "quote": "Remove excessive ﬁring residue from the bore and chamber using a properly ﬁtted brush.",
+   "section": "CLEANING & MAINTENANCE TIPS, printed p.32"
+  },
+  {
+   "title": "Fingerprints off",
+   "action": "Wipe cleaning solution, oil and fingerprints off every outside surface before the rifle goes away.",
+   "quote": "(Finger moisture, if left on the ﬁrearm, could cause corrosion.)",
+   "section": "CLEANING & MAINTENANCE TIPS, printed p.32"
+  },
+  {
+   "title": "Oil — a drop or two, and no more",
+   "action": "A very light amount of good firearm oil inside the receiver, on the bolt and on the recoil spring assembly, wiped on with a patch.",
+   "quote": "A drop or two of oil is all that is needed – do not over lubricate!",
+   "section": "LUBRICATION OF YOUR FIREARM, printed p.26",
+   "warn": "Excess lubricant can collect quantities of unburned powder and carbon residue, which can interfere with the proper functioning of the firearm.",
+   "warnSrc": "Savage RXR22 Owner's Manual — LUBRICATION OF YOUR FIREARM, printed p.26"
+  }
+ ],
+ "reassembly": [
+  {
+   "phase": "Rebuild",
+   "title": "Cocking handle in first, seated flat",
+   "action": "Bottom of the receiver up. Feed the long end of the cocking handle assembly in through the ejection port and seat its pointed end in the rear seat of the receiver.",
+   "prose": "If it is not sitting flat, nothing after this will line up.",
+   "quote": "The cocking handle assembly should sit flat in the receiver.",
+   "section": "Reassembly of the Bolt Assembly into the Receiver, printed p.27"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Retract and hold — a screwdriver helps",
+   "action": "Holding the assembly in position, grasp the charging handle and pull it fully rearward to compress the spring.",
+   "prose": "Savage suggests a flat blade for leverage rather than fighting it by hand.",
+   "quote": "The use of a flat bladed screwdriver may help with fully compressing the spring.",
+   "section": "Reassembly of the Bolt Assembly into the Receiver, printed p.27",
+   "warn": "Use caution as the springs are under pressure.",
+   "warnSrc": "Savage RXR22 Owner's Manual — printed p.27"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Bolt in, notch down and forward",
+   "action": "With the spring held compressed, drop the bolt into the lower rear of the receiver with the notched portion facing down and towards the barrel, then push down so it mates onto the charging handle.",
+   "prose": "The notch is the key — it is what the charging handle catches.",
+   "quote": "This notch will mate with the charging handle.",
+   "section": "Reassembly of the Bolt Assembly into the Receiver, printed p.27",
+   "warn": "Be careful not to pinch your fingers during installation of the bolt at this step.",
+   "warnSrc": "Savage RXR22 Owner's Manual — printed p.28"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Bolt stop pin back in",
+   "action": "Let the charging handle run forward, cycle it several times to prove it, then reinstall the bolt stop pin into the receiver.",
+   "prose": "Cycle before the pin goes in, not after.",
+   "quote": "Reinstall the bolt stop pin into the receiver.",
+   "section": "Reassembly of the Bolt Assembly into the Receiver, printed p.28"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Trigger group back on — cocked, and on FULL SAFE",
+   "action": "Hammer cocked (rear), safety at FULL SAFE, receiver bottom up. Put the trigger locating pins into their recesses in the receiver and let the group sit in, then press the release button in with the punch to let it seat fully.",
+   "prose": "Then prove it: pull the group away from the receiver and it should not budge.",
+   "quote": "Insert the trigger locating pins into the recesses in the receiver",
+   "section": "Reassembly of the Trigger Group onto the Receiver, printed p.28"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Action back into the stock",
+   "action": "Set the action into the stock and run the captive action screw back in clockwise until it is home.",
+   "prose": "The screw never left the stock, so there is nothing to hunt for.",
+   "quote": "rotate the action screw counterclockwise",
+   "section": "Removing the Stock, printed p.23 (reversed for reassembly)"
+  }
+ ],
+ "fncheck": "Cycle the cocking handle several times once the bolt is back on it. Savage makes smooth travel the pass/fail: “It should move smoothly.  If it hangs up or doesn’t move smoothly, remove the bolt and start over.” Then check the trigger group is seated by pulling it away from the receiver — it should not move."
+}

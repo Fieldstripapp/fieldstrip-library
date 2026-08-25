@@ -1,0 +1,99 @@
+{
+ "row": "danieldefensemute30ti",
+ "make": "Daniel Defense",
+ "model": "MUTE 30Ti",
+ "sourcedFrom": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 (UNKNOWN — no copyright year is printed on the pages; the publisher's own file name carries v2)",
+ "sourceSha256": "6f8ccd993bfdea1187781d2e39686deb19acf8c3dbb227c9e392841199f82723",
+ "cleanIntro": "⛔ NOT USER-SERVICEABLE, AND THE BOOK SAYS SO IN ITS OWN WORDS RATHER THAN BY OMISSION. Section 8.0 opens: 'This section defines what to inspect and when to clean, without stepwise disassembly instructions.' There is no strip to publish, so this guide is mount, inspect, and soak — and saying so is the honest result, not a gap.\n\nBarrel-length minimums are this model's own and are NOT the Null's: 12.5 inches for rifle cartridges, 18 inches for magnum cartridges. Rates above 60 rounds a minute and full-auto fire are discouraged. Maximum operating temperature 750°F.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⚠ This book covers the SUPPRESSOR — your rifle has a separate manual",
+   "action": "Daniel Defense bounds this document in one line: it tells you to follow safe handling practice and refer to your FIREARM'S OWN manual for additional safety instructions. ⛔ So nothing here describes the host rifle — not its clearing procedure, not its strip, not its safety. Read the gun's separate manual for that and this one for the can.",
+   "prose": "A suppressor manual that told you how to clear your rifle would be guessing at which rifle you own.",
+   "quote": "Follow all safe firearm handling practices and refer to your firearm’s manual for additional safety instructions.",
+   "cite": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 — 6.0 DEVICE INSTALLATION, printed p.10"
+  },
+  {
+   "phase": "Clear",
+   "title": "Ammunition out of the work area first",
+   "action": "Clear the firearm and clear the bench before the suppressor comes off.",
+   "prose": "The book puts this at step 1 of installation and repeats it at the head of inspection.",
+   "quote": "Remove all live ammunition from your work area.",
+   "cite": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 — 6.0 DEVICE INSTALLATION, printed p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Off the host — and that is as far as it comes apart",
+   "action": "Unthread the suppressor from the muzzle device. There is no further disassembly: Daniel Defense publishes none.",
+   "prose": "Cycling it on and off is itself part of the maintenance here.",
+   "quote": "Attach and detach the suppressor from the firearm several times to dislodge carbon and metal-fouling buildup.",
+   "cite": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 — 8.0 CLEANING & MAINTENANCE, printed p.13"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Look for a baffle strike",
+   "action": "Visual check for debris, evidence of baffle strike, or loose parts, plus dents, cracks and corrosion after storage or transport.",
+   "prose": "A baffle strike is the finding that ends the range day, not one to note and carry on.",
+   "quote": "Visual check for debris, evidence of baffle strike, or loose parts.",
+   "cite": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 — 8.0 CLEANING & MAINTENANCE, printed p.13"
+  }
+ ],
+ "deepSteps": [
+  {
+   "title": "Soak, do not scrub the inside",
+   "action": "When carbon builds up noticeably or performance drops off, soak the suppressor for 24 hours in an approved cleaner to break the carbon down.",
+   "quote": "Allowing the suppressor to soak for 24 hours in an approved cleaner will break down the carbon.",
+   "cite": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 — 8.0 CLEANING & MAINTENANCE, printed p.14"
+  }
+ ],
+ "cleaning": [
+  {
+   "title": "Brush the mounting surfaces",
+   "action": "Brush and/or scrape carbon and copper residue from the suppressor mounting surfaces and the adapter, positioning the parts so nothing falls into the bore.",
+   "quote": "Brush and/or scrape carbon & copper residue from suppressor mounting surfaces and adapter.",
+   "section": "8.0 CLEANING & MAINTENANCE, printed p.13"
+  },
+  {
+   "title": "Blow it out, then check the host",
+   "action": "Compressed air will move loose debris out of the suppressor — wear eye protection — then inspect the host barrel for anything that fell in.",
+   "quote": "Compressed air can be used to blow loose debris out of the suppressor. (Eye protection recommended)",
+   "section": "8.0 CLEANING & MAINTENANCE, printed p.13"
+  },
+  {
+   "title": "Wipe the outside",
+   "action": "A mild cloth over the external surfaces takes fouling and finger oils off.",
+   "quote": "Wipe external surfaces with a mild cloth to remove fouling and finger oils.",
+   "section": "8.0 CLEANING & MAINTENANCE, printed p.14"
+  }
+ ],
+ "reassembly": [
+  {
+   "phase": "Rebuild",
+   "title": "Clean the threads before it goes back on",
+   "action": "Stiff bristle brush on the barrel threads, wipe the residue off with a clean cloth, then a cotton swab and a degreaser on the muzzle-device threads.",
+   "prose": "Acetone or alcohol is what the book names.",
+   "quote": "Use a stiff bristle brush to remove debris from the",
+   "section": "6.0 DEVICE INSTALLATION, printed p.10"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Hand tight, then torque — and check the hub adapter",
+   "action": "Hand-tighten the suppressor on. The hub adapter ships pre-torqued to 20 ft·lb — verify it has not loosened in transit — then torque the suppressor with the supplied wrench, not past 25 ft·lb.",
+   "prose": "Two different torque figures live in this step; do not run them together.",
+   "quote": "standard torque value is 20 ft lbs.",
+   "section": "6.0 DEVICE INSTALLATION, printed p.11",
+   "warn": "do not exceed 25 ft-lbs of torque.",
+   "warnSrc": "Daniel Defense Mute 30 Ti / Null 9 Ti Manual — printed p.11"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Alignment rod",
+   "action": "Confirm alignment with an alignment rod before the first shot.",
+   "prose": "This is the maker's own final installation step.",
+   "quote": "Ensure alignment with an alignment rod.",
+   "section": "6.0 DEVICE INSTALLATION, printed p.11"
+  }
+ ],
+ "fncheck": "Re-mount and prove alignment before firing: Daniel Defense's last installation step is \"Ensure alignment with an alignment rod.\""
+}

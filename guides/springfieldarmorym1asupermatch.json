@@ -1,0 +1,63 @@
+{
+ "row": "springfieldarmorym1asupermatch",
+ "make": "Springfield Armory",
+ "model": "M1A Super Match",
+ "sourcedFrom": "Springfield Armory M1A Operation & Safety Manual — M1A manual, current support edition (UNKNOWN — read off the manual's own pages)",
+ "sourceSha256": "a65a5f52cbe477b09447cf2b3aa0893879bd7800bb4715972b2e5b13581d4a89",
+ "cleanIntro": "⛔ READ THIS BEFORE YOU START. On a Super Match the action is GLASS BEDDED into the stock, and Springfield's instruction is not 'be careful' — it is don't. Taking it apart when you did not have to is how a match rifle loses the fit it was built around. Clean it assembled where you can; strip it only when you must. When you do, the rifle comes apart in three groups.\n\nGLASS BEDDING is the whole difference. The National Match rear sight with its half-MOA elevation adjustment is 'found only on National Match and Super Match rifles'; the action is bedded to the stock; and the stock will not come off the way a standard M1A's does.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety on, unload, bolt closed",
+   "action": "Put the safety on and unload the rifle before anything else. Remove the magazine, then pull back on the operating rod handle and let the bolt run forward.",
+   "prose": "The bolt goes forward for the strip, not back.",
+   "quote": "Prior to disassembly, put safety on and unload the firearm!",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — M1A manual, current support edition — THE THREE MAIN GROUPS"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger housing group out",
+   "action": "Turn the rifle upside down, barrel pointing away. Hold the fore-end in your left hand; with thumb and forefinger of the right hand take the rear of the trigger guard and pull up and out until the mechanism releases, then lift the trigger housing group out.",
+   "prose": "It comes away as one group.",
+   "quote": "pull upward and outward until the mechanism is released",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — M1A manual, current support edition — THE THREE MAIN GROUPS"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel and receiver out of the stock — MATCH-ONLY TECHNIQUE",
+   "action": "Lay the rifle on a flat surface, sights down, muzzle left. Grip the fore-end with the left hand and the rear sight/receiver with the right, and pull down. ⚠ On a Super Match it will NOT separate easily, because it is bedded: keep it upside down, raise the buttstock and strike down firmly on a hard surface against the stock's cheek surface while pulling the receiver down.",
+   "prose": "Springfield writes this technique for exactly this case — 'or for a match firearm'.",
+   "quote": "With a standard firearm the stock should separate easily.",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — M1A manual, current support edition — THE THREE MAIN GROUPS",
+   "warn": "Please do not field strip your match firearm unless it is absolutely necessary."
+  },
+  {
+   "phase": "Strip",
+   "title": "Operating rod spring and spring guide",
+   "action": "Barrel and receiver group on a flat surface, sights down, muzzle left. With the left hand pull the operating rod spring and spring guide toward the muzzle to take the pressure off the connector lock, then slide the connector lock toward the operating rod handle side with your right forefinger.",
+   "prose": "The spring is under tension throughout — control it, do not let it go.",
+   "quote": "to relieve pressure on the connector lock",
+   "cite": "Springfield Armory M1A Operation & Safety Manual — M1A manual, current support edition — DISASSEMBLY OF BARREL & RECEIVER GROUP"
+  }
+ ],
+ "deepAbsentReason": "NONE PUBLISHED FOR A MATCH RIFLE, AND THAT IS THE POINT. The M1A book carries further disassembly of the barrel and receiver group, but Springfield's standing instruction for this variant runs the other way: 'Please do not field strip your match firearm unless it is absolutely necessary.' A deep-clean routine presented for a glass-bedded Super Match would contradict the maker's own words about the rifle in hand.",
+ "cleaning": [
+  {
+   "title": "Clean it assembled wherever you can",
+   "action": "On a bedded match rifle the least-disturbance path is the right one. Bore and chamber first; leave the action in the stock unless the job genuinely needs it out.",
+   "quote": "Unnecessary removal promotes wear, sloppy fit, inaccuracy and defeats the purpose of the bedding.",
+   "section": "Springfield Armory M1A Manual — maintenance"
+  }
+ ],
+ "reassembly": [
+  {
+   "phase": "Rebuild",
+   "title": "Reverse the order, groups back in",
+   "action": "Barrel and receiver group back into the stock, then the trigger housing group back in and locked by pressing the trigger guard closed.",
+   "prose": "⚠ The book gives the strip in detail and reassembly by reversal; take the bedded fit slowly going back in.",
+   "quote": "The three main groups are the trigger housing group, the barrelled receiver group, and the stock group.",
+   "section": "THE THREE MAIN GROUPS"
+  }
+ ],
+ "fncheck": "Reassembled, confirm the safety works and the bolt cycles fully by hand before any ammunition is near the rifle. On a match rifle also check the bedding has not been disturbed — Springfield's whole caution here is that \"Unnecessary removal promotes wear, sloppy fit, inaccuracy and defeats the purpose of the bedding.\""
+}

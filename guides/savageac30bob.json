@@ -1,0 +1,86 @@
+{
+ "row": "savageac30bob",
+ "make": "Savage",
+ "model": "AC30 B.O.B.",
+ "sourcedFrom": "Savage Arms AC30 B.O.B. Suppressor Owner's Manual — manual_ac30_bob (UNKNOWN — no copyright year is printed on the pages)",
+ "sourceSha256": "bc0636cff60a0237b195176382056cc3fc01dfecc2db94ae57e83e9914a24c5b",
+ "cleanIntro": "The B.O.B. comes apart into two pieces you clean — the tube and the MonoKore — and Savage wants that done after every range day. Leave it and the job gets harder each time: 'carbon deposits can build up on the interior surfaces of the suppressor and harden making disassembly progressively more difficult.' It takes the proprietary spanner and a 1¼\" wrench, and nothing else.\n\n⛔ SERVICEABLE, AND THE MAKER SAYS SO WITH A TOOL LIST. Savage publishes a full DISASSEMBLY and REASSEMBLY procedure with a torque figure, and names the two tools it takes. It also tells you to do it routinely: 'The AC30 B.O.B. should be maintained in this way each time after a range day if possible.'",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Firearm clear, suppressor cool, can off",
+   "action": "Unload the rifle and clear the work area before anything comes apart. The suppressor threads on at 20–30 ft·lb, so back it off the barrel before you take the tube on.",
+   "prose": "Savage's install torque is the number you are undoing here.",
+   "quote": "Tighten the suppressor to 20 - 30 ft*lb to the barrel.",
+   "cite": "Savage Arms AC30 B.O.B. Suppressor Owner's Manual — manual_ac30_bob — INSTALLATION, printed p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Spanner in the vice, 1¼\" on the tube",
+   "action": "Secure the supplied B.O.B. Proprietary Spanner Wrench in a vice and unthread the tube counterclockwise with a 1¼\" socket or wrench.",
+   "prose": "Expect resistance — this is normal, and solvent is the answer rather than more arm.",
+   "quote": "It will take some force to unthread the suppressor tube.",
+   "cite": "Savage Arms AC30 B.O.B. Suppressor Owner's Manual — manual_ac30_bob — DISASSEMBLY, printed p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "If it will not move, wet it",
+   "action": "If the tube is very hard to start, put some solvent or oil into the suppressor to help it, then try again.",
+   "prose": "Savage is explicit that a stuck tube is a maintenance-interval symptom, not a fault.",
+   "quote": "If the tube seems very hard to remove, you may put some solvent or oil into the suppressor in order to aid disassembly.",
+   "cite": "Savage Arms AC30 B.O.B. Suppressor Owner's Manual — manual_ac30_bob — DISASSEMBLY, printed p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Tube off — MonoKore stays in the mount",
+   "action": "With the tube unthreaded it pulls away from the rest of the assembly, leaving the MonoKore threaded into the mount. Leave it there.",
+   "prose": "Particles in the threads at this point are expected, not a problem.",
+   "quote": "When unthreading the tube, it is common to see some particles and material in the threads.",
+   "cite": "Savage Arms AC30 B.O.B. Suppressor Owner's Manual — manual_ac30_bob — DISASSEMBLY, printed p.13"
+  }
+ ],
+ "deepAbsentReason": "NONE BEYOND WHAT IS ALREADY HERE — THE STRIP IS THE MAINTENANCE. Savage's own routine for this suppressor IS the tube-off disassembly above, and it says so: 'The AC30 B.O.B. should be maintained in this way each time after a range day if possible.' The only level below it is separating the MonoKore from the mount, which the maker reserves for a mechanical fault and routes to its own technicians rather than to the owner.",
+ "cleaning": [
+  {
+   "title": "Two surfaces, nylon only",
+   "action": "Clean the deposits off the interior and exterior of the MonoKore and the interior of the tube. Firearms solvent, nylon brushes, rags.",
+   "quote": "Use only firearms solvents, nylon brushes, and rags/towels.",
+   "section": "DISASSEMBLY, printed p.13",
+   "warn": "DO NOT USE METAL BRUSHES OF ANY KIND.",
+   "warnSrc": "Savage AC30 B.O.B. Owner's Manual — printed p.13"
+  },
+  {
+   "title": "Thread crud",
+   "action": "The material that comes out of the threads cleans off with a little solvent and a nylon brush.",
+   "quote": "This is normal and can be cleaned with a small amount of a firearms solvent of your choice and a nylon brush.",
+   "section": "DISASSEMBLY, printed p.13"
+  }
+ ],
+ "reassembly": [
+  {
+   "phase": "Rebuild",
+   "title": "Dry first",
+   "action": "Everything must be dry before it goes back together — no solvent left inside.",
+   "prose": "This is a printed NOTE in capitals, not a suggestion.",
+   "quote": "THE SUPPRESSOR MUST BE DRY BEFORE REASSEMBLY.",
+   "section": "REASSEMBLY, printed p.13"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Tube over the MonoKore, hand-thread to the mount",
+   "action": "Slide the tube over the MonoKore and thread it clockwise until it seats against the mount.",
+   "prose": "Get it seated by hand before any tool goes near it.",
+   "quote": "Slide the tube over the MonoKore™ and thread the tube clockwise until it seats against the mount.",
+   "section": "REASSEMBLY, printed p.13"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Torque the tube to 20 ft·lb",
+   "action": "Using the B.O.B. spanner and the 1¼\" socket, torque the tube into place at 20 ft·lb.",
+   "prose": "Note this is NOT the 20–30 ft·lb figure for mounting the can to the barrel.",
+   "quote": "In order to reinstall the tube properly, it must be torqued to 20 ft*lbs.",
+   "section": "REASSEMBLY, printed p.13"
+  }
+ ],
+ "fncheck": "After reassembly, mount the can and check it by eye: Savage wants it \"perfectly aligned with the centerline of the bore and not tilted in any way\", and says to stop and call if it is not."
+}
