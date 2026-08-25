@@ -2,6 +2,23 @@
  "_doc": "One entry per published index version, newest first. `added` is the row ids whose guide first appeared at that version, so a client holding version N can ask for everything since N without a redesign.",
  "versions": [
   {
+   "version": 13,
+   "publishedAt": "2026-08-24",
+   "appCommit": "37d700d12e77d9c67eb467afbb41f51c029eab09",
+   "counts": {
+    "catalogRows": 1166,
+    "guides": 720,
+    "plates": 54
+   },
+   "added": [
+    "benelli828usport",
+    "coltgoldcupnationalmatch"
+   ],
+   "changed": [],
+   "removed": [],
+   "platesAdded": []
+  },
+  {
    "version": 12,
    "publishedAt": "2026-08-24",
    "appCommit": "47f8ad68072275926bd5c505676b67c2cae96f3e",
