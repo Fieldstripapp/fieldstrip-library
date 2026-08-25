@@ -1,0 +1,151 @@
+{
+ "row": "hkmr762",
+ "make": "Heckler & Koch",
+ "model": "MR762",
+ "sourcedFrom": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture (2026)",
+ "sourceSha256": "65e9afd1c84bf81041bb01aeeba72958bb385a8d03edece288d47bcd15864ee0",
+ "cleanIntro": "The MR762 is HK's SHORT-STROKE GAS PISTON AR-pattern rifle, and that piston is the reason its strip is not an AR-15's. After the usual upper/lower separation and bolt-carrier breakdown, the handguard comes off with a captive retaining screw and the piston and piston rod come out of the gas block — parts a direct-impingement AR simply does not have. Two pins on this rifle are CAPTIVE and are not meant to come all the way out: the firing pin retaining pin and the handguard retaining screw. Forcing either is how the bolt carrier or the handguard gets damaged.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ Magazine out, carrier locked back, chamber checked by EYE and FINGER",
+   "action": "Point the muzzle safely with your finger off the trigger, put the selector on safe, remove the magazine, then retract and lock the bolt carrier fully to the rear. Check the chamber both visually and with a finger. Clear all live ammunition from the bench before anything comes apart.",
+   "prose": "HK's wording is 'never rely solely on a mechanical device or your memory'. The finger check is the part that is not memory.",
+   "aside": "Always wear safety glasses when disassembling your firearm to protect your eyes. Components such as springs are under pressure and could cause serious injury.",
+   "quote": "Always remove the magazine, retract and lock the bolt carrier assembly by pulling it fully to the rear and locking it open, and then visually and physically check with your finger to ensure there is not a cartridge in the chamber.",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly (field stripping) of the MR A4, printed p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin, then pivot pin — both LEFT TO RIGHT",
+   "action": "Push the takedown pin from left to right and pivot the upper away from the lower. Then push the pivot pin, also left to right. Both pins are captive in the lower; they push through to a stop and stay there.",
+   "prose": "Left to right on both. Driving a captive pin the wrong way is how detents get sheared.",
+   "quote": "Push the takedown pin from left to right. Pivot the upper receiver from the lower receiver (Fig. 17). Push the pivot pin from left to right.",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Separating the upper and lower receivers, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle and bolt assembly out the rear",
+   "action": "Depress the catch on the charging handle and withdraw the bolt assembly rearward. Keep pulling the charging handle back until it meets resistance, then pull DOWN on it to separate it from the upper receiver.",
+   "prose": "The handle only leaves at one point in its travel, and that point is where it stops feeling free.",
+   "quote": "Depress the catch on the charging handle and withdraw the bolt assembly from the rear. Continue to pull the charging handle to the rear until resistance is encountered. Pull down on the charging handle and separate the charging handle from the upper receiver",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Bolt assembly, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Firing pin retaining pin is CAPTIVE — push it, do not remove it",
+   "action": "Push the firing pin retaining pin from RIGHT TO LEFT. It is a captive pin and stays attached to the bolt carrier by design. Lift the spring-loaded drop safety and take out the firing pin and its spring, then lift out the cam pin and slide the bolt head off the front of the carrier.",
+   "prose": "HK says trying to remove that pin completely could damage the bolt carrier assembly. Believe it — there is nothing on the other side to catch it.",
+   "caution": "Lift up on the spring loaded drop safety and remove the firing pin and firing pin spring",
+   "aside": "Lift up and remove the cam pin from the shaft of the bolt head",
+   "quote": "The firing pin retaining pin is a captive pin and will therefore remain attached to the bolt carrier. Attempting to completely remove the firing pin retaining pin could lead to damage of the bolt carrier assembly.",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Bolt assembly, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Handguard: captive retaining SCREWS, 11 mm socket, counterclockwise",
+   "action": "Put an 11 mm socket or a flat-head screwdriver into the retaining screw on the lower right of the handguard and turn counterclockwise. HK's own figure for this rifle — Fig. 24 — is captioned for the MR762 A4 handguard and shows SCREWS, plural. Loosen and drift each one from left to right only as far as it travels; they are held captive by a small shaped spring and are not meant to come out. Then slide the handguard off the barrel nut.",
+   "prose": "Plural on this rifle. The MR556 in the same book has a single screw, and the two handguards are not the same part.",
+   "quote": "The retaining screw(s) for the handguard is held captive by a small shaped spring located on the lower right-hand side of the handguard. Attempting to completely remove the retaining screw could lead to damage of the handguard, shaped spring, and/or retaining screw.",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Upper receiver, printed p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Piston rod, then gas piston, out of the gas block",
+   "action": "Grasp the rear of the gas piston while pushing back on the piston rod, disengage the rod from the piston, and slide the rod out of the upper receiver. Then slide the gas piston rearward out of the gas block. This is the part of the rifle a direct-impingement AR does not have, and it is where the carbon actually collects.",
+   "prose": "Piston first at the rod, then the piston itself. They come out as two pieces, not one assembly.",
+   "aside": "Slide the gas piston to the rear and remove the gas piston from the gas block",
+   "quote": "Grasp the rear of the gas piston while pushing back on the piston rod. Disengage the piston rod from the piston and slide out the piston rod from the upper receiver",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Upper receiver, printed p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ HAMMER COCKED before the buffer spring comes out",
+   "action": "Make sure the hammer is in the cocked position (down) before touching the buffer. Then depress the buffer retainer and remove the buffer spring from the receiver extension. An uncocked hammer stands in the path of the buffer and the spring is under compression.",
+   "prose": "This is the step in the whole strip most likely to send a part across the room. Cock the hammer first.",
+   "caution": "Depress the buffer retainer and remove the buffer spring from the receiver extension (buffer tube)",
+   "quote": "Always ensure the hammer is in the cocked position (down) before attempting to remove the buffer spring.",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Lower receiver, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — HK marks the limit here",
+   "action": "That is the operator-level strip. HK states that disassembly beyond it should only be performed by HK certified personnel, and separately that MR762 A4 and MR556 A4 buttstocks are not interchangeable — worth knowing before parts from two rifles end up on one bench.",
+   "prose": "Where the maker stops, the owner stops.",
+   "aside": "MR762 A4 and MR556 A4 buttstocks are not interchangeable.",
+   "quote": "Disassembly beyond the above field stripping procedures should only be performed by HK certified personnel.",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Lower receiver, printed p.24",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Bore brush is PULLED chamber-to-muzzle on a cable rod",
+   "action": "HK specifies a cable cleaning rod and pulling the brush from the chamber toward the muzzle, several passes with bore cleaner and a soak if there is time. A cable rod pulled through cannot flex against the bore the way a pushed rigid rod can.",
+   "prose": "Pulled, not pushed. That is the whole reason for the cable.",
+   "quote": "Clean the bore with a bore brush and a cable cleaning rod. Pull the brush from the chamber to the muzzle.",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — General cleaning, printed p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "Let the chamber soak while you clean the piston and carrier",
+   "action": "Push and twist the chamber brush with bore cleaner and leave it to soak while the upper receiver, piston, piston rod and bolt carrier are cleaned with the all-purpose brush. The sequence is deliberate — the soak happens during work you have to do anyway.",
+   "prose": "The only free time in a cleaning routine is time something is soaking.",
+   "quote": "Rotate the chamber brush with bore cleaner by pushing and twisting and also let it soak for several minutes while the upper receiver, piston, piston rod and bolt carrier assembly are cleaned with the all-purpose brush using bore cleaner.",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — General cleaning, printed p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "A DROP, not a coat, on the small parts",
+   "action": "A drop of oil goes on the ejector, extractor, cam pin, trigger pin, hammer pin, charging handle spring and forward assist. The bolt carrier exterior, cam pin area and bolt head locking lugs get a medium coat. Over-oiling a piston gun just gives the carbon something to stick to.",
+   "prose": "Two different quantities, named separately by the maker. They are not the same.",
+   "aside": "Pay special attention to cam pin area inner and outer surfaces of bolt carrier, anvil, and bolt head’s locking lug.",
+   "quote": "A drop of oil should be placed on the ejector, extractor, cam pin, trigger pin, hammer pin, charging handle spring and forward assist.",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Lubrication, printed p.39"
+  },
+  {
+   "phase": "Inspect",
+   "title": "⛔ Leave the extractor spring and buffer ALONE unless they are worn",
+   "action": "HK says to remove the extractor spring and buffer only if worn or damaged. Both are slightly tapered to help them mount, and repeatedly taking them off and putting them back shortens their life and can impair the rifle's function.",
+   "prose": "A part that is inspected by removing it is a part that gets worn out by inspection.",
+   "quote": "Only remove the extractor spring and buffer from the extractor if worn, or damaged.",
+   "cite": "HK MR A4 SERIES — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Bolt assembly, printed p.22"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Bore brush on a CABLE cleaning rod, pulled from the CHAMBER to the MUZZLE, several times with bore cleaner; let it soak a few minutes.",
+    "Chamber brush on a solid rod handle — push and twist with bore cleaner, and let that soak while the other parts are cleaned.",
+    "Finish with patches pulled chamber-to-muzzle until they come out clean."
+   ]
+  },
+  {
+   "name": "PISTON, PISTON ROD AND BOLT CARRIER",
+   "tasks": [
+    "Clean the upper receiver, piston, piston rod and bolt carrier assembly with the all-purpose brush and bore cleaner.",
+    "Carbon on a piston gun lives on the piston face and inside the carrier — expect it there rather than in the receiver.",
+    "Wipe excess cleaner off with a rag before anything is lubricated."
+   ]
+  },
+  {
+   "name": "LUBRICATION POINTS",
+   "tasks": [
+    "Light coat of lubricant on interior metal surfaces including the bore and the locking lugs in the chamber and on the bolt.",
+    "A DROP of oil on the ejector, extractor, cam pin, trigger pin, hammer pin, charging handle spring and forward assist.",
+    "Medium coat on the exterior of the bolt carrier, the cam pin and the bolt head."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bolt head into the front of the carrier, cam pin down through its slot, firing pin and spring in, then push the CAPTIVE retaining pin back left to right.",
+  "Gas piston into the gas block, then the piston rod engaged to the piston and into the upper receiver.",
+  "Handguard onto the barrel nut, then the captive retaining screw driven back and tightened clockwise.",
+  "⛔ Hammer COCKED, then buffer spring and buffer back into the receiver extension until the retainer captures them.",
+  "Charging handle into its track, bolt assembly in behind it, then close the upper onto the lower and push both pins back right to left.",
+  "Function-check before the rifle goes away."
+ ],
+ "fncheck": "With the rifle CLEAR: work the selector through its positions and confirm it stops positively. Charge the rifle on an empty chamber and let the carrier run forward under spring pressure alone — it should lock up without help. On SAFE, pull the trigger: nothing should happen. To FIRE, pull for a clean break, hold the trigger back, cycle the charging handle, then release the trigger and listen for the reset. Insert an EMPTY magazine and confirm the carrier locks back."
+}

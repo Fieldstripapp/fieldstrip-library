@@ -1,0 +1,138 @@
+{
+ "row": "sigsauercrossmagnum",
+ "make": "SIG Sauer",
+ "model": "Cross Magnum",
+ "sourcedFrom": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE (2024)",
+ "sourceSha256": "0d47a855e69afd6d36962cb6e965e06c9f4d78a3506b2246b987f25078ff0b5e",
+ "cleanIntro": "The Cross Magnum is a bolt-action rifle with a FOLDING STOCK, and the fold is part of the strip: the stock has to come halfway round before the bolt will clear the receiver. The bolt itself comes apart without tools, but only after the striker is DECOCKED by rotating the striker shroud — attempting it cocked is how the shroud gets away from someone. SIG marks the end of the owner's authority explicitly, at the bolt head assembly.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ Unload and clear, selector on SAFE — before the stock moves",
+   "action": "Unload and clear the rifle of all ammunition and confirm the safety selector is on SAFE. Drop the magazine, lift the bolt handle, draw the bolt back and look and feel into the chamber. Only then start the strip.",
+   "prose": "SIG puts an UNLOAD/CLEAR warning at the head of the field-strip section and again at the head of the function check. Twice, in one procedure.",
+   "quote": "Press and hold the bolt catch/release while pulling the bolt assembly to the rear and out of the receiver.",
+   "cite": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE — Field strip the rifle, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Fold the stock HALFWAY, bolt handle upright, bolt catch held",
+   "action": "Press the stock button and fold the stock halfway — not fully, halfway. Lift the bolt handle to its upright position, then press and hold the bolt catch while drawing the bolt assembly straight back and out of the receiver. The catch is what stops the bolt at the end of its travel; held down, the bolt keeps coming.",
+   "prose": "The half-fold is not a convenience. A fully extended stock puts the buttpad exactly where the bolt wants to go.",
+   "quote": "Press and hold the bolt catch/release while pulling the bolt assembly to the rear and out of the receiver.",
+   "cite": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE — Field strip the rifle, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ DECOCK the striker first — shroud counterclockwise",
+   "action": "With the bolt out, rotate the striker shroud counterclockwise to decock the striker. The manual shows the cocked and decocked positions side by side. Everything after this step is done against a decocked striker; doing it cocked means the spring is still holding full load.",
+   "prose": "If the shroud will not turn, the striker is not where you think it is. Stop and look at the cocking indicator rather than forcing it.",
+   "quote": "Rotate the striker shroud counterclockwise to decock the striker.",
+   "cite": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE — Disassemble the bolt assembly, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt face DOWN on a hard surface, shroud pressed, handle out to a 3/16\" gap",
+   "action": "Hold the bolt assembly with the bolt face down against a hard flat surface. Press down on the striker shroud while pulling the bolt handle away from the carrier, leaving a gap of about 3/16 of an inch. Then release the shroud pressure and pull the handle out to release the striker from the carrier.",
+   "prose": "Three sixteenths is a real measurement, not a figure of speech — too little and the handle will not release, too much and the striker goes.",
+   "quote": "Press down on the striker shroud while pulling the bolt handle away from the bolt carrier, leaving a slight gap approximately 3/16 inch.",
+   "cite": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE — Disassemble the bolt assembly, printed p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Striker assembly out by the shroud, then handle, then bolt head pin",
+   "action": "Grasp the striker shroud and pull the striker assembly out of the bolt carrier. Then remove the bolt handle, the bolt head pin, and finally the bolt head assembly.",
+   "prose": "Lay them out in the order they came off. The bolt head pin is small and the only thing locating the head.",
+   "quote": "Grab the striker shroud and remove the striker assembly from the bolt carrier.",
+   "cite": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE — Disassemble the bolt assembly, printed p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Stop at the bolt head assembly — SIG says that is the limit",
+   "action": "No further disassembly of the bolt head assembly is authorised at owner level. SIG restricts anything past this point to a certified SIG SAUER armorer, and says plainly that going further voids the warranty.",
+   "prose": "This is the whole field strip: bolt assembly out, bolt broken down to the head, and no further.",
+   "caution": "Do not attempt to disassemble a SIG SAUER firearm beyond the point explained in the Operator’s Manual. Disassembly beyond the instructions in the Operator’s Manual is restricted to a certified SIG SAUER Armorer.",
+   "quote": "No further disassembly of the bolt head assembly or striker assembly is authorized.",
+   "cite": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE — Disassemble the bolt assembly, printed p.30",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "⛔ One-piece rod only — sectional rods damage the bore",
+   "action": "Clean the bore with a high-quality one-piece rod and use a short chamber rod for the chamber. SIG names metal and military sectional rods specifically as things that can damage the barrel — the joints in a sectional rod are what score the bore.",
+   "prose": "A rod that flexes and a rod that has joints are two different problems.",
+   "quote": "Avoid the use of metal or military sectional cleaning rods as they can damage the bore of the barrel.",
+   "cite": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE — Cleaning the bore and chamber, printed p.32"
+  },
+  {
+   "phase": "Clean",
+   "title": "Every patch enters at the CHAMBER end",
+   "action": "Push patches completely through the bore from the chamber end and out at the muzzle, alternating wet and dry until the dry patches come out clean. If fouling is heavy, swap the jag for a bore brush and push it through until it clears the muzzle, then patch again.",
+   "prose": "Fouling should leave the barrel the way the bullet did. Nothing gets dragged back over the crown.",
+   "quote": "Push the moistened patch completely through the bore from the chamber end.",
+   "cite": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE — Cleaning the bore and chamber, printed p.32"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt face, extractor hook, lugs — then wipe the excess back off",
+   "action": "Scrub the bolt face with a nylon brush and CLP and wipe the excess off. Clean the extractor hook, take the carbon off the bolt lugs, and clean the interior of the carrier. Wipe, do not soak: excess CLP inside a bolt carrier collects the next lot of carbon.",
+   "prose": "The extractor hook is the smallest surface on the rifle and the one most likely to cause a stoppage.",
+   "quote": "Scrub the bolt face with nylon bristle brush and CLP. Wipe off excess CLP.",
+   "cite": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE — Cleaning the bolt assembly, printed p.33"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Prove SAFE actually blocks the trigger — both directions",
+   "action": "On SAFE with the muzzle in a safe direction, pull the trigger: nothing should happen. Then to FIRE, pull and hold: the striker should release with an audible click. Cycle, return to SAFE, and check SAFE again. A safety that has only been tested in one position has not been tested.",
+   "prose": "SIG's own instruction rechecks SAFE after cycling. That second check is the one people skip.",
+   "aside": "Rotate the safety selector lever to the FIRE position and pull and hold the trigger to the rear. The striker should release with an audible click.",
+   "quote": "With the muzzle pointed in a safe direction and the safety selector on SAFE, pull the trigger. Nothing should happen.",
+   "cite": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE — Function check, printed p.40"
+  },
+  {
+   "phase": "Inspect",
+   "title": "A function check is owed after EVERY clean",
+   "action": "SIG states the function check is performed after repairs and after each cleaning and assembly. If the rifle fails it, the manual's instruction is not to use it and to contact customer service.",
+   "prose": "The check exists because reassembly is where mistakes get made.",
+   "quote": "A function check is performed on the assembled firearm to verify its proper function. It should be performed after the completion of repairs and after each cleaning and assembly of the firearm.",
+   "cite": "SIG SAUER CROSS MAGNUM — OPERATOR'S MANUAL — OPERATORS_MANUAL_CROSS_MAGNUM_4900831-01_REV_02_WEB_FILE — Function check, printed p.40"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Use a high-quality ONE-PIECE cleaning rod for the bore and a short chamber rod for the chamber.",
+    "⛔ Avoid metal or military sectional rods — SIG states they can damage the bore.",
+    "Swab the chamber wet, brush it, then wet patch and dry patch until clean.",
+    "Push patches through the bore FROM THE CHAMBER END, alternating wet and dry until the dry patches come out clean."
+   ]
+  },
+  {
+   "name": "BOLT ASSEMBLY",
+   "tasks": [
+    "Scrub the bolt face with a nylon bristle brush and CLP, then wipe off the excess.",
+    "Clean the hook of the extractor and remove carbon from the bolt lugs.",
+    "Clean the interior of the bolt carrier; wipe down the handle, carrier body and striker assembly."
+   ]
+  },
+  {
+   "name": "RECEIVER AND EXTERIOR",
+   "tasks": [
+    "Wipe the receiver rails and the bolt raceway; check the bolt catch moves freely and returns.",
+    "Wipe all external metal with a lightly oiled cloth."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bolt head assembly onto the carrier, then the bolt head pin.",
+  "Bolt handle back into the carrier.",
+  "Striker assembly in by the shroud; press the shroud down and seat the handle.",
+  "⛔ Bolt handle UP, stock still folded halfway, then slide the bolt into the receiver until the catch captures it.",
+  "Unfold the stock and confirm it locks.",
+  "⛔ Function-check before the rifle is put away — SIG requires it after every cleaning and assembly."
+ ],
+ "fncheck": "SIG treats the function check as required after each cleaning and assembly, not optional. With the rifle CLEAR: insert an empty magazine and tug it down to confirm it is seated. Push the bolt forward and rotate the handle down to lock. Selector to SAFE, press the magazine catch — the magazine should drop free with little resistance. Muzzle safe, selector on SAFE, pull the trigger: nothing should happen. Selector to FIRE, pull and hold: the striker should release with an audible click. Cycle the bolt, back to SAFE, recheck SAFE on the trigger, then unlock the bolt and leave it open."
+}

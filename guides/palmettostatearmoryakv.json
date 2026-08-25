@@ -1,0 +1,145 @@
+{
+ "row": "palmettostatearmoryakv",
+ "make": "Palmetto State Armory",
+ "model": "AK-V",
+ "sourcedFrom": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture (2026)",
+ "sourceSha256": "a382d5a0cf3ce4694007eb8a713af81d74047b3f23ec66e7e729be21c2604cc0",
+ "cleanIntro": "The AK-V is PSA's 9 mm AK-pattern carbine, and it strips like an AK: dust cover first, then the driving spring, then the bolt carrier back and up and out. Two things differ from the rifle-calibre AKs in the same book and both matter at the bench. The magazine goes STRAIGHT UP into the well rather than rocking in, and the bolt carrier LOCKS OPEN on a bolt catch when the last round is fired — behaviour PSA prints separately for the AKV and the AK 556 because no other AK in the book does it.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ Clear it — and remember this magazine does NOT rock in",
+   "action": "Point the muzzle somewhere safe, finger off the trigger, safety on SAFE. Press the magazine release and pull the magazine STRAIGHT DOWN out of the well — it went in straight and it comes out straight. Then cycle the bolt handle, lock the carrier back, and check the chamber by eye and by finger.",
+   "prose": "Anyone who has run an AKM will try to rock this magazine forward out of the well. It does not rock, and forcing it is how feed lips get bent.",
+   "aside": "If using an AKV or AK 556 the bolt carrier will lock open on the bolt catch",
+   "quote": "For AKV’s and AK 556 models, you will insert the magazine directly into the magazine well",
+   "cite": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture — General operation, printed p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Dust cover: press the driving spring guide IN, lift the cover REAR END FIRST",
+   "action": "Press the serrated end of the driving spring guide into the bolt cover and hold it in. With it held, lift the cover away rear end first. The guide is what retains the cover; if the cover will not lift, the guide is not far enough in.",
+   "prose": "Rear end first, every time. Levering the front first bends the lip that locates the cover.",
+   "caution": "NOTICE: Your firearm may differ slightly from the images shown; however, the overall function and disassembly instructions will remain the same.",
+   "quote": "Press the serrated end of the driving spring guide (A.) into the bolt cover, and while holding the guide in, lift off the bolt cover, rear end first.",
+   "cite": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture — Disassembly, printed p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Driving spring assembly: push FORWARD to unseat, then draw it out",
+   "action": "Push forward on the end of the driving spring guide to disengage it from its seat in the rear of the receiver, then pull the complete driving spring assembly out of the bolt carrier. It is under compression — keep a hand on it as it comes free.",
+   "prose": "Forward to unseat, not up. The seat is a notch in the rear trunnion and it only releases along the axis of the spring.",
+   "quote": "Push forward on the end of the driving spring guide, disengaging it from it’s seat in the rear of the receiver.",
+   "cite": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture — Disassembly, printed p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier: fully to the REAR, lift slightly, out the back",
+   "action": "Pull the operating handle and bolt carrier fully to the rear, lift the carrier slightly upward, and remove it rearward. There is a cut in the rails at the very back of the travel — that cut is the only place the carrier will lift out, which is why it must go fully back first.",
+   "prose": "If it will not lift, it is not far enough back. Nothing about this step rewards force.",
+   "quote": "Pull the operating handle and bolt carrier (B.) fully to the rear, lift the bolt carrier slightly upward, and then remove the bolt and carrier (B.) by pulling it to the rear",
+   "cite": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture — Disassembly, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out of the carrier: press IN, twist the lug clear of its cam path",
+   "action": "Press the bolt into the carrier until its operating lug can be twisted free of the cam path, then pull the bolt straight forward and out. The lug rides that cam path to rotate the bolt in normal firing; you are walking it out of the same track by hand.",
+   "prose": "Press first, then twist. Twisting against the cam without pressing in is how the lug gets burred.",
+   "quote": "Press the bolt into the carrier until the bolt operating lug can be twisted free of its cam path in the carrier [Figure 19]. Pull the bolt straight forward and out of the carrier.",
+   "cite": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture — Disassembly, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Handguard and tube: rotate the LOCK up, lift the rear, slide REARWARD",
+   "action": "Rotate the gas cylinder tube lock upward to free the upper handguard and tube. Pull up on the REAR of the handguard to take it off, then lift the rear of the tube and slide the tube rearward to clear the gas block. On the AK-V this is the part PSA's own AKV component page calls the Upper Handguard/Gas Tube, retained by the Gas Tube Latch.",
+   "prose": "The lock is a stiff cam and wants a tool or a strong thumb. It should rotate, not bend.",
+   "quote": "Rotate the gas cylinder tube lock upward (C.) to free the upper hand guard and gas cylinder tube.",
+   "cite": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture — Disassembly, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — PSA says stop here",
+   "action": "Dust cover, driving spring assembly, bolt carrier, bolt, handguard and tube. PSA states plainly that no further disassembly is needed for cleaning, and that is the line to hold: the trigger group and the barrel assembly are not part of an owner's clean.",
+   "prose": "A maker who tells you where to stop has done you a favour. Most do not.",
+   "quote": "No further disassembly is needed for cleaning.",
+   "cite": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture — Disassembly, printed p.24",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "⛔ Inside the carrier stays DRY",
+   "action": "Clean the bolt carrier group with CLP or a suitable solvent, then take the excess oil back off the bolt assembly before it goes together. PSA wants the inside of the carrier dry and only the exterior lubricated.",
+   "prose": "Oil inside the carrier collects carbon and turns to grinding paste. That is the whole reason for the rule.",
+   "quote": "Be sure to remove excess oil from the bolt assembly before reassembly, do not lubricate the inside of the carrier. Lubricate the exterior of the carrier only.",
+   "cite": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture — Cleaning the bolt carrier group, printed p.28"
+  },
+  {
+   "phase": "Clean",
+   "title": "Chamber: patch until clean, then DRY — no oil",
+   "action": "Scrub the chamber with a chamber brush and solvent, patch it until a patch stays clean, then run a dry patch and leave it dry. An oiled chamber holds the case against the walls and raises bolt thrust.",
+   "prose": "The one place on the gun where 'a little oil to protect it' is wrong.",
+   "quote": "Clean the chamber with a chamber cleaning brush, and a bore solvent or CLP. Move the brush through the chamber several times to scrub the inside of the chamber. Use a clean patch to wipe the chamber after cleaning. Repeat with clean patches until patch stays clean. After cleaning, run a dry patch through the chamber. Do not oil the chamber.",
+   "cite": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture — Cleaning the chamber, printed p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the chamber end, and mind the rod",
+   "action": "Run the rod from the chamber end so fouling leaves at the muzzle. Keep the rod off the bore and chamber walls — a steel rod dragged across the throat does more damage over a season than the fouling ever would.",
+   "prose": "A bore guide costs less than a barrel.",
+   "aside": "Do not allow cleaning rods to scratch the inside of the barrel or chamber.",
+   "quote": "Using a cleaning rod, pass a patch soaked in bore cleaner through the barrel several times starting from the chamber end.",
+   "cite": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture — Cleaning the barrel, printed p.27"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Solvent choice is a maintenance decision",
+   "action": "Use a cleaning solution made for firearms. PSA warns in its own notice that some solutions and solvents will damage the gun — that covers the household degreasers and brake cleaners that get reached for when the proper stuff runs out.",
+   "prose": "The finish is the corrosion protection. Stripping it is not cleaning.",
+   "quote": "Some cleaning solutions and solvents may damage your firearm. Use a cleaning solution that is designed for use on firearms.",
+   "cite": "PSA AK-STYLE FIREARM OWNER'S MANUAL — 0626 — read from the document's own filename and page furniture — Maintenance, printed p.27"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "CHAMBER",
+   "tasks": [
+    "Verify unloaded and the safety on SAFE before anything else.",
+    "Scrub with a chamber brush and bore solvent or CLP, several passes.",
+    "Patch until a patch stays clean, then run a DRY patch through.",
+    "⛔ Do not oil the chamber — PSA says so explicitly."
+   ]
+  },
+  {
+   "name": "BARREL AND BORE",
+   "tasks": [
+    "Patch soaked in bore cleaner from the CHAMBER end, several passes.",
+    "Brush with more bore cleaner to lift copper fouling and powder residue.",
+    "Patch again until a clean patch exits, then a lightly oiled patch to finish."
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Clean with CLP or a suitable solvent.",
+    "⛔ Remove excess oil from the bolt assembly before reassembly and do NOT lubricate the inside of the carrier — exterior only."
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wipe all metal with a clean cloth, then follow with a lightly oiled cloth."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Handguard and tube back on, tube forward into the gas block, then rotate the lock DOWN to capture it.",
+  "Bolt into the carrier: enter it straight, then twist the operating lug back into its cam path.",
+  "Carrier and bolt into the receiver at the rear cut, then run it forward onto the rails.",
+  "Driving spring assembly into the carrier, then push FORWARD and drop the guide into its seat in the rear of the receiver.",
+  "Dust cover FRONT edge located first, then press the rear down until the driving spring guide snaps through.",
+  "⛔ Function-check before the rifle goes away."
+ ],
+ "fncheck": "With the carbine CLEAR and the safety worked through both positions, cycle the bolt handle several times and watch the carrier return fully forward under spring pressure alone. Confirm the dust cover is captured and does not lift at the rear. Insert an EMPTY magazine straight up into the well and confirm it locks with a click, then confirm the bolt carrier locks open on the bolt catch — on the AK-V it should, which is not true of the other AK patterns in this book."
+}
