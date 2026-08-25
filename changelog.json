@@ -2,6 +2,29 @@
  "_doc": "One entry per published index version, newest first. `added` is the row ids whose guide first appeared at that version, so a client holding version N can ask for everything since N without a redesign.",
  "versions": [
   {
+   "version": 15,
+   "publishedAt": "2026-08-25",
+   "appCommit": "662bc661b64805f019d4e215da549322d03f4c13",
+   "counts": {
+    "catalogRows": 1173,
+    "guides": 736,
+    "plates": 54
+   },
+   "added": [
+    "cmmgdefcan57",
+    "glock17gen6",
+    "hecklerkochmark23",
+    "hecklerkochsl8",
+    "hecklerkochusc",
+    "masterpiecearmsdefender",
+    "masterpiecearmsdefender57",
+    "sigsauerp211"
+   ],
+   "changed": [],
+   "removed": [],
+   "platesAdded": []
+  },
+  {
    "version": 14,
    "publishedAt": "2026-08-25",
    "appCommit": "7636550738dd59fb0a1c2d0f5a1033bbc9542c4e",

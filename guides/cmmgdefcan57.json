@@ -1,0 +1,112 @@
+{
+ "row": "cmmgdefcan57",
+ "make": "CMMG",
+ "model": "DEFCAN-57",
+ "sourcedFrom": "CMMG DEFCAN-57 — OWNER'S MANUAL — undated — the book carries no revision code (ABSENT)",
+ "sourceSha256": "035d416e941572e157f86296059f17379242546d300c9b86ff773dc086de8ae9",
+ "cleanIntro": "The DEFCAN-57 is a SEALED suppressor. CMMG says so directly — the front cap and inner baffles are not meant to come apart — so there is no field strip here and nothing in this guide asks you to open it. What there is: a QD ratchet mount that needs cleaning and light oil, a bore that takes a brush but NEVER a patch, and an inspection you can do in under a minute that will tell you if something inside has come loose.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ Host unloaded and the ACTION OPEN before the can comes off",
+   "action": "Make the host firearm safe first: unloaded, with the action OPEN so the chamber is visible. CMMG asks for the action open specifically — a closed action tells you nothing while your hands are at the muzzle.",
+   "prose": "Everything in this procedure happens at the muzzle end. That is the reason for the emphasis.",
+   "quote": "Make sure firearm is unloaded and the action is open to verify clear before removing your DEFCAN from the host firearm.",
+   "cite": "CMMG DEFCAN-57 — OWNER'S MANUAL — undated — the book carries no revision code — Removal, printed p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Let it COOL — or wear gloves",
+   "action": "Allow the suppressor to cool to ambient temperature before removing or servicing it. If it has to come off hot, wear protective gloves. A can off a 5.7 carbine after a string is hot enough to take skin off.",
+   "prose": "The burn warning is first in CMMG's own safety notices, ahead of everything else.",
+   "caution": "The point of attachment or detachment can present the potential for pinching and caution should be taken, including wearing protective gloves, to avoid severe injury at the pinch point.",
+   "quote": "Allow suppressor to cool to ambient temperature before removal and/or service. If suppressor must be removed or installed while hot, protective gloves should be worn.",
+   "cite": "CMMG DEFCAN-57 — OWNER'S MANUAL — undated — the book carries no revision code — Safety notices, printed p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Removal: ratchet release FORWARD, locking collar COUNTER-CLOCKWISE",
+   "action": "Pull and hold the ratchet release button forward, then turn the locking collar counter-clockwise until it stops in the unlocked position. The suppressor then lifts off the muzzle device. Mind the pinch point at the mount as it separates.",
+   "prose": "Hold the button the whole time. Releasing it part-way through re-engages the ratchet and you start again.",
+   "quote": "Pull and hold the ratchet release button forward. • Turn the locking collar counter-clockwise until it stops in the unlocked position.",
+   "cite": "CMMG DEFCAN-57 — OWNER'S MANUAL — undated — the book carries no revision code — Removal, printed p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ That is as far as it goes — this suppressor is SEALED",
+   "action": "The DEFCAN-57 does not come apart. CMMG states it is a sealed design that eliminates the disassembly other cans need for cleaning — no front cap, no baffle stack to pull. Everything below is maintenance on a closed unit.",
+   "prose": "A sealed can is not a can you have failed to open. It is a can with nothing inside for you.",
+   "quote": "The DEFCAN-57 is a sealed suppressor design, eliminating much of the disassembly required for general cleaning and maintenance such as the front cap and inner baffles.",
+   "cite": "CMMG DEFCAN-57 — OWNER'S MANUAL — undated — the book carries no revision code — General maintenance & inspection, printed p.6",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "⛔ A patch left inside is a burst can",
+   "action": "CMMG's prohibition is specific and absolute: do not run cleaning patches through the bore of the suppressor. A patch that lodges in a sealed tube cannot be retrieved and becomes an obstruction the next round meets.",
+   "prose": "The brush is allowed because it comes back out on the rod. A patch has nothing holding it.",
+   "quote": "Do NOT run cleaning patches through the bore of the suppressor as they could become lodged inside the suppressor and cause damage upon firing.",
+   "cite": "CMMG DEFCAN-57 — OWNER'S MANUAL — undated — the book carries no revision code — General maintenance & inspection, printed p.6"
+  },
+  {
+   "phase": "Inspect",
+   "title": "⛔ Pressure limit: nothing hotter than 5.7x28mm or 4.6x30mm",
+   "action": "The DEFCAN-57 is built for .17–.22 PDW calibers. CMMG states that centerfire cartridges of greater pressure than 5.7x28mm or 4.6x30mm should NOT be fired through it as damage may occur. That is a limit on the HOST, not just the can.",
+   "prose": "It mounts to an MP7-profile flash hider, so it will physically fit things it must not be fired on.",
+   "aside": "The DEFCAN-57 is a full-auto rated centerfire .17-.22 PDW caliber suppressor designed to balance robust build quality and optimal sound suppression.",
+   "quote": "Centerfire cartridges with greater pressure than 5.7x28mm or 4.6x30mm should NOT be fired through the DEFCAN-57 as damage may occur.",
+   "cite": "CMMG DEFCAN-57 — OWNER'S MANUAL — undated — the book carries no revision code — Overview, printed p.2"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Hearing protection still applies — a can is not ear defence",
+   "action": "CMMG's sonic-crack notice is explicit: the suppressor does not protect the user or bystanders when a projectile crosses the sound barrier. Hearing and eye protection at all times. Take the same care with solvents and lead while cleaning.",
+   "prose": "Suppressed does not mean safe to shoot without plugs, and 5.7 is supersonic.",
+   "aside": "Always wear proper protective equipment and take proper precautions when operating or disassembling firearms/suppressors as exposure to toxic materials such as lead and solvents can pose health issues such as lead poisoning.",
+   "quote": "This suppressor does not protect users and those in close proximity if/when a projectile crosses the sound barrier. Proper hearing, and eye protection, should be worn at all times.",
+   "cite": "CMMG DEFCAN-57 — OWNER'S MANUAL — undated — the book carries no revision code — Safety notices, printed p.4"
+  },
+  {
+   "phase": "Clean",
+   "title": "The mount is the part that wears",
+   "action": "Clean and lightly oil the QD mount surfaces and the body every time the can comes off. On a ratchet mount, carbon in the teeth is what turns a solid lockup into play, and play is what puts a baffle in the path of a bullet.",
+   "prose": "The bore is sealed. The mount is where your maintenance actually matters.",
+   "aside": "Shake the suppressor and listen to check for any broken or detached internal parts.",
+   "quote": "Clean and lightly oil the QD mount surfaces and suppressor body.",
+   "cite": "CMMG DEFCAN-57 — OWNER'S MANUAL — undated — the book carries no revision code — General maintenance & inspection, printed p.6"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "INSPECTION — BEFORE AND AFTER USE",
+   "tasks": [
+    "Look through the bore for obstructions or foreign objects.",
+    "SHAKE the suppressor and listen for anything broken or detached inside — on a sealed can this is the only internal check you have.",
+    "Check the exterior for dents or other damage."
+   ]
+  },
+  {
+   "name": "BORE",
+   "tasks": [
+    "A bore brush and CLP may be used to take carbon out of the suppressor bore between regular cleanings.",
+    "⛔ NEVER run a cleaning patch through it — a patch can lodge inside and cause damage when the gun is next fired."
+   ]
+  },
+  {
+   "name": "QD MOUNT AND BODY",
+   "tasks": [
+    "Clean and LIGHTLY oil the QD mount surfaces and the suppressor body.",
+    "Check the locking collar turns freely to both stops and that the ratchet release button returns under its own spring."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Pull the ratchet release button forward and turn the locking collar counter-clockwise to the unlocked position.",
+  "Slide the DEFCAN over the ZEROED 5.7 flash hider — or a compatible HK MP7 profile flash hider — until seated. It can be oriented any way round.",
+  "Turn the locking collar CLOCKWISE until snug, with no play felt between mount and muzzle device.",
+  "⛔ Check for play before firing. A can that can move on its mount is a baffle strike waiting to happen."
+ ],
+ "fncheck": "With the host firearm CLEAR and the action open: fit the suppressor, lock the collar clockwise until snug, and try to move the can by hand — there should be NO play between the mount and the muzzle device. Look through the bore from the breech end and confirm it is clear and concentric. Shake the can and listen for anything loose. Confirm the ratchet release button returns fully under its own spring."
+}

@@ -1,0 +1,127 @@
+{
+ "row": "hecklerkochmark23",
+ "make": "Heckler & Koch",
+ "model": "Mark 23",
+ "sourcedFrom": "HK MARK 23 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture (2026)",
+ "sourceSha256": "565a89d4a869ede7a0e136c5a25d2874c4ce2965c0be4e2d4c973ce5e7ee8e5f",
+ "cleanIntro": "The Mark 23 is HK's full-size .45 ACP pistol and its field strip is short, but it turns on one measurement and one habit. The measurement: the slide comes back about 22 mm — far enough that the front of the slide release lines up with the recess on the LEFT of the slide, and no further. The habit: the recoil/buffer spring assembly is CAPTIVE and HK wants a hand on it while the slide comes off the frame, because it is the part that leaves under its own power.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ CLEAR THE PISTOL — and get the ammunition off the bench",
+   "action": "Clear the pistol and inspect the chamber to confirm it is empty. HK's instruction goes further than most: do not keep live ammunition near the work area at all. Then depress the slide release and let the slide run forward, and take off any mounted accessories.",
+   "prose": "The ammunition rule is about what is within reach when your attention is on a spring, not about what is in the gun.",
+   "quote": "Before starting an inspection procedure CLEAR THE PISTOL! Inspect the chamber to ensure that it is empty. Do not keep live ammunition near maintenance/work areas.",
+   "cite": "HK MARK 23 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Preventative maintenance procedures, printed p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Slide back approximately 22 mm — align to the recess on the LEFT",
+   "action": "Retract the slide and hold it about 22 mm back, until the front end of the slide release is centred on the recess visible on the LEFT side of the slide. This is an alignment, not a distance you guess at: if the release will not move, the recess is not lined up.",
+   "prose": "22 mm is roughly seven eighths of an inch. HK gives a number because feel is not reliable here.",
+   "quote": "Retract and hold the slide to the rear approximately 22 mm until the front end of the slide release is centered on the recess visible on the left side of the slide",
+   "cite": "HK MARK 23 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly (field stripping), printed p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide release: push IN from the RIGHT, lift OUT on the LEFT",
+   "action": "With the alignment held, push the slide release into the recess on the RIGHT side of the frame, then lift and remove it completely from the LEFT side. Two sides, in that order — pushing from the left achieves nothing.",
+   "prose": "It is the same part seen from both sides of the pistol, and the manual names each side separately for a reason.",
+   "quote": "Push the slide release into the recess on the right side of the frame. Lift and completely remove the slide release from the left side of the frame",
+   "cite": "HK MARK 23 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly (field stripping), printed p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Hold the recoil/buffer assembly, then slide the top end FORWARD off",
+   "action": "Keep a hand on the captured recoil/buffer spring assembly and slide the slide, barrel and assembly forward off the frame together. HK prints the caution to hold that assembly BEFORE the procedure starts, which is where it matters — by the time it moves, it has moved.",
+   "prose": "Captive does not mean it will stay where you left it.",
+   "caution": "Hold the recoil/buffer spring assembly in place while removing the slide from the frame.",
+   "quote": "Remove the slide with barrel and captured recoil/buffer spring assembly off of the frame by sliding it forward",
+   "cite": "HK MARK 23 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly (field stripping), printed p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil assembly out by lifting the REAR of the guide rod",
+   "action": "Lift up on the REAR of the guide rod to free the captured recoil/buffer spring assembly from the barrel and slide, then lift the whole assembly out. It stays captured — it is not taken apart at operator level.",
+   "prose": "Rear of the rod, not the front. The front is under the muzzle end.",
+   "quote": "Remove the captured recoil/buffer spring assembly from the barrel and slide by lifting up on the rear of the guide rod. The entire assembly can now be lifted out of the slide.",
+   "cite": "HK MARK 23 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly (field stripping), printed p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel: lift the REAR by the locking block and withdraw it",
+   "action": "Lift the rear of the barrel by the locking block and draw it out of the slide. The locking block is the handle for this — lifting on the barrel itself binds it in the slide.",
+   "prose": "That is the field strip: frame, slide, barrel, captured recoil/buffer assembly, magazine.",
+   "quote": "Lift the rear of the barrel by the locking block and withdraw it from the slide.",
+   "cite": "HK MARK 23 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly (field stripping), printed p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Operator disassembly ends here — trained HK personnel only beyond it",
+   "action": "HK marks the end of the operator's authority explicitly at this point. Anything further is for trained HK personnel. The magazines are a separate published procedure and come apart under spring tension — treat that as its own job, not part of a routine clean.",
+   "prose": "The book says where to stop, so there is nothing to judge.",
+   "quote": "Operator disassembly of the Mark 23 pistol is now complete. Only trained HK personnel should disassemble the weapon further.",
+   "cite": "HK MARK 23 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Maintenance instructions, printed p.21",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Goggles with solvent, and care with compressed air",
+   "action": "HK's caution names both: safety goggles when using solvents, and care if using compressed air. Compressed air drives solvent and carbon into places you cannot then reach, and into eyes.",
+   "prose": "The air line is the tool most likely to make a clean pistol dirtier.",
+   "aside": "Bronze bristle bore brush (.45 caliber)",
+   "quote": "Use safety goggles when using solvents and exercise care if using compressed air.",
+   "cite": "HK MARK 23 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Tools & equipment, printed p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "Every part may be immersed — if the solvent is safe for the finish",
+   "action": "HK states that all parts of the Mark 23 can be immersed in any cleaning solvent that is safe to put your hands in. That is a real permission and a real limit in one sentence: if it is not safe for skin, it is not going near this pistol.",
+   "prose": "A usefully concrete test for a decision people usually make by brand.",
+   "quote": "All parts of the Mark 23 can be immersed in any cleaning solvent",
+   "cite": "HK MARK 23 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Cleaning, printed p.25"
+  },
+  {
+   "phase": "Inspect",
+   "title": "The service record is part of the procedure",
+   "action": "HK asks for the Firearm Service Record to be updated with the correct round count and any maintenance performed BEFORE the service procedures begin. On a pistol built to a service specification, round count is what drives the inspection intervals.",
+   "prose": "Most owners never keep one. On this pistol the manual assumes you do, and the intervals only mean something if you do.",
+   "quote": "ensure that the Firearm Service Record has been updated with the correct round count and any PM service procedures documented. If your equipment fails to operate, refer to the Troubleshooting Table in Section III. WARNING: Before starting an inspection procedure CLEAR THE PISTOL! Inspect the chamber to ensure that it is empty. Do not keep live ammunition near maintenance/work areas. CAUTION: Hold the recoil/buffer spring assembly in place while removing the slide from the frame. NOTE: Before starting any PM service procedure, ensure that the Firearm Service Record has been updated with the corect round count and any PM service performed documented.",
+   "cite": "HK MARK 23 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Preventative maintenance procedures, printed p.19"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL AND BORE",
+   "tasks": [
+    "Bronze .45-calibre bore brush with solvent from the chamber end; then .45-calibre patches on the eyelet until they come out clean.",
+    "Scrub the outside of the barrel and the locking block with the nylon brush."
+   ]
+  },
+  {
+   "name": "SLIDE AND FRAME",
+   "tasks": [
+    "Long-handled nylon brush and solvent through the slide's interior; cotton swabs into the breech face and extractor.",
+    "Wipe the frame rails and the magazine well; check the slide release moves freely from both sides."
+   ]
+  },
+  {
+   "name": "RECOIL/BUFFER ASSEMBLY",
+   "tasks": [
+    "Wipe it down as a unit — it stays captured.",
+    "Inspect for a loss of spring force or any burring on the guide rod."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Barrel into the slide, seated on its locking block.",
+  "Captured recoil/buffer spring assembly into the slide, guide rod seated at the rear.",
+  "Slide, barrel and assembly onto the frame rails and run back to the 22 mm alignment.",
+  "Slide release in from the LEFT, pressed home so it seats on the right.",
+  "Ease the slide forward and confirm it runs fully into battery.",
+  "⛔ Function-check, including the decocked test HK publishes, before the pistol goes away."
+ ],
+ "fncheck": "With the pistol CLEAR: work the safety/decocking lever through its positions. Cycle the slide several times and confirm it returns fully to battery under spring pressure alone. Check the slide release rises and holds on an empty magazine. With the gun empty and pointed safely, confirm the trigger breaks cleanly in single action, then decock and confirm the double-action pull. HK publishes a specific decocked test — run it as printed."
+}

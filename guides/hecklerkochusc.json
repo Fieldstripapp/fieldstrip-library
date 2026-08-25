@@ -1,0 +1,131 @@
+{
+ "row": "hecklerkochusc",
+ "make": "Heckler & Koch",
+ "model": "USC",
+ "sourcedFrom": "HK USC — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture (2026)",
+ "sourceSha256": "48ab3e6600838ff348f4c06cd225d73842eb281784d843ba57f3ddc321895ace",
+ "cleanIntro": "The USC is HK's semi-automatic .45 ACP carbine, and it comes apart in a way that surprises anyone expecting AR-pattern takedown pins. There are none. The BUTTSTOCK comes off first — two 5 mm hex screws at the rear of the receiver, then the stock slides straight back out of the lower's guiding rails — and only then does the lower receiver swivel down about 45° off the upper's support bolts. HK supplies a tool for the job and says in the same breath not to use force anywhere in it.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ ON SAFE first — HK's clearing order starts with the selector",
+   "action": "Keep fingers outside the trigger guard and the muzzle in a safe direction. Rotate the safety/selector lever to Safe — the white box with the white bullet symbol inside. Only then take the magazine out.",
+   "prose": "HK numbers this procedure and puts the selector at step 2, ahead of the magazine. Work it in his order and the gun is safe at every intermediate state.",
+   "quote": "ON SAFE – Rotate the safety/selector lever to the “Safe” position.",
+   "cite": "HK USC — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Safety check, printed p.15"
+  },
+  {
+   "phase": "Clear",
+   "title": "Ejection port DOWN, cock it more than once, then lock the bolt open",
+   "action": "Rotate the ejection port toward the ground and pull the cocking lever back one or more times, watching for a live round or empty case to fall clear. Then rotate the cocking lever slightly up and lock it into the indent in its housing to hold the bolt open. Inspect the chamber by eye through the port AND with a finger through the magazine well.",
+   "prose": "Port down means anything in there falls out rather than back in. 'One or more times' is HK's wording, and it is deliberate.",
+   "aside": "INSPECT CHAMBER – Inspect chamber for the presence of a live round or empty case. Visually – View chamber through open ejection port. Physically – Insert index finger through magazine well or ejection port",
+   "quote": "COCKING LEVER – Rotate the ejection port toward the ground and pull the cocking lever rearward one or more times to insure the chamber is empty. Watch for a live round or empty case to be ejected.",
+   "cite": "HK USC — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Safety check, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Buttstock FIRST — two 5 mm hex screws at the rear of the receiver",
+   "action": "Detach the sling. Take the 5 mm Allen wrench from the HK tool and remove the hex-headed screws on the LEFT and RIGHT sides at the rear of the receiver. Then pull the buttstock straight back out of the lower receiver's guiding rails. Straight back — it slides on rails, it does not hinge.",
+   "prose": "This is the step that has no equivalent on an AR, and it is first. Nothing else on the carbine will separate until the stock is off.",
+   "caution": "The USC is easily disassembled and reassembled with the HK Tool. Do not use force in any of the disassembly procedures.",
+   "aside": "Pull the buttstock straight back out of the guiding rails",
+   "quote": "Use the 5 mm Allen wrench of the HK tool and remove the hex headed Allen screws located on the left and right sides at the rear end of the receiver",
+   "cite": "HK USC — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Stripping into assembly groups, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lower receiver swivels DOWN about 45° off the support bolts",
+   "action": "Swivel the lower receiver downward to roughly 45° and lift it off the upper receiver's support bolts. It comes away at an angle; trying to pull it straight down binds it on the bolts.",
+   "prose": "Support bolts, not takedown pins. The lower hangs on them and has to be rotated clear.",
+   "quote": "Swivel the lower receiver downward at an angle of approximately 45° and detach it from the support bolts of the upper receiver",
+   "cite": "HK USC — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Stripping into assembly groups, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cocking lever back, recoil spring assembly and bolt out the REAR",
+   "action": "Pull the cocking lever back and draw the recoil spring assembly and the bolt out to the rear. The spring is under load — keep a hand behind it as it leaves the receiver.",
+   "prose": "Both come out rearward together. Nothing needs levering.",
+   "quote": "Pull back the cocking lever and remove the recoil spring assembly and the bolt to the rear",
+   "cite": "HK USC — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly, printed p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Bolt: hold the firing pin FORWARD, pin out to the LEFT, thumb on the spring",
+   "action": "Push and hold the firing pin forward. Pull the firing pin assembly retaining pin out to the LEFT. Push the locking catch to the right and take the firing pin assembly and spring out to the rear — with your thumb over them, because HK warns in his own words that they will spring out otherwise.",
+   "prose": "Three hands' worth of job with two hands. Do it over a tray, not over a carpet.",
+   "caution": "Prevent the firing pin assembly with firing pin spring from springing out with your thumb.",
+   "quote": "Pull out firing pin assembly retaining pin to the left",
+   "cite": "HK USC — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly of the bolt, printed p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ NEVER disassemble the firing pin itself — it disables the safety",
+   "action": "The firing pin assembly comes OUT of the bolt; it does not come APART. HK states that assembling it incorrectly will disable the USC's firing pin safety. That is the strip complete: upper, lower, buttstock, bolt, recoil spring assembly, firing pin assembly.",
+   "prose": "A safety you have disabled without knowing is worse than one you never had, because you will trust it.",
+   "caution": "Disassembly beyond the procedures outlined in this manual is not recommended and may void the HK Warranty.",
+   "quote": "Never disassemble the firing pin. Assembling the firing pin assembly incorrectly will disable the USC firing pin safety.",
+   "cite": "HK USC — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly of the bolt, printed p.16",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "⛔ HK's tool, and no force anywhere in the procedure",
+   "action": "The USC is designed to come apart with the HK tool. If a step needs force, the step is wrong — HK states it plainly at the head of the disassembly section, before any instruction.",
+   "prose": "It is the first sentence of the section for a reason. Most damage to this carbine happens at the stock screws.",
+   "quote": "The USC is easily disassembled and reassembled with the HK Tool. Do not use force in any of the disassembly procedures.",
+   "cite": "HK USC — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly, printed p.15"
+  },
+  {
+   "phase": "Inspect",
+   "title": "⛔ Past this point is qualified personnel, and the warranty",
+   "action": "HK states that disassembly beyond what the manual outlines is not recommended and may void the warranty, and that anything past operator level is for qualified maintenance personnel only.",
+   "prose": "The line is stated in the book. It is not a matter of confidence.",
+   "quote": "Disassembly beyond the procedures outlined in this manual is not recommended and may void the HK Warranty.",
+   "cite": "HK USC — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly, printed p.15"
+  },
+  {
+   "phase": "Inspect",
+   "title": "The firing pin safety depends on correct assembly",
+   "action": "Because the firing pin assembly must never be taken apart, the only way to check it is to confirm it goes back into the bolt as a unit, retained by its pin from the left, with the locking catch seated. If anything about that feels loose or wrong, stop.",
+   "prose": "There is no way to inspect a safety you have already reassembled wrongly.",
+   "quote": "Never disassemble the firing pin. Assembling the firing pin assembly incorrectly will disable the USC firing pin safety.",
+   "cite": "HK USC — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly of the bolt, printed p.16"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL AND CHAMBER",
+   "tasks": [
+    "Bore brush and solvent from the CHAMBER end; patch until the patches come out clean.",
+    "Scrub the chamber separately — a blowback .45 leaves more in the chamber mouth than a locked-breech gun does."
+   ]
+  },
+  {
+   "name": "BOLT AND RECOIL SPRING ASSEMBLY",
+   "tasks": [
+    "Clean the bolt face and the extractor with a nylon brush and solvent; wipe the excess off.",
+    "Wipe the recoil spring assembly down; do not dismantle it.",
+    "⛔ The firing pin assembly is cleaned as a unit and never taken apart."
+   ]
+  },
+  {
+   "name": "RECEIVERS",
+   "tasks": [
+    "Wipe the upper's bolt raceway and the lower's guiding rails — the rails are what the buttstock rides on and grit there makes reassembly feel wrong.",
+    "Check the support bolts are clean before the lower goes back on."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Firing pin spring onto the firing pin; assembly into the bolt from the REAR, pushed forward.",
+  "Push the rear of the firing pin forward with a pointed object, then insert the retaining pin from the LEFT.",
+  "Bolt and recoil spring assembly into the upper from the rear.",
+  "Lower receiver onto the upper's support bolts at about 45°, then swivel it up.",
+  "Buttstock straight into the lower's guiding rails, then both hex screws back in.",
+  "⛔ Do not force anything — HK says so about this whole procedure."
+ ],
+ "fncheck": "With the carbine CLEAR: work the safety/selector through both positions and confirm it indexes positively. Pull the cocking lever fully back and let it run forward under spring pressure alone — it should close without help. On Safe, pull the trigger: nothing should happen. Off safe, on an empty chamber, pull for a clean break. Insert an EMPTY magazine and confirm it locks in and releases cleanly."
+}

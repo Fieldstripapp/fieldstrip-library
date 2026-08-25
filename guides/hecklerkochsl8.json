@@ -1,0 +1,133 @@
+{
+ "row": "hecklerkochsl8",
+ "make": "Heckler & Koch",
+ "model": "SL8",
+ "sourcedFrom": "HK SL8-1 & SL8-6 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture (2026)",
+ "sourceSha256": "383b68374c741dd487d9da424099f4e5bd1ec13eed0c5ae742997a9ca961a882",
+ "cleanIntro": "The SL8 is HK's .223 self-loading sporting rifle, and it strips into assembly groups with the HK tool rather than by pushing pins. Two things set it apart at the bench. The BUTTSTOCK comes off carrying the trigger group with it — two hex screws and a locking pin above the trigger guard, then the whole stock draws back out of the receiver. And the rifle is GAS-OPERATED with a push rod that HK warns is under considerable spring tension: it is the one part on this rifle that can hurt you while the gun is empty.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ ON SAFE — the white “S” — then the magazine",
+   "action": "Fingers outside the trigger guard, muzzle safe. Rotate the safety/selector lever to Safe, marked by the white \"S\" beside the lever. Then depress the magazine paddle release and take the magazine out of the well.",
+   "prose": "A paddle release, not a button — it sits at the front of the trigger guard and is worked with the trigger finger.",
+   "quote": "ON SAFE – Rotate the safety/selector lever to the “Safe” position (the white “S” adjacent to the safety/selector lever)",
+   "cite": "HK SL8-1 & SL8-6 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly of the SL8-1 & SL8-6, printed p.23"
+  },
+  {
+   "phase": "Clear",
+   "title": "Ejection port DOWN, cocking lever folded out, then lock the bolt back",
+   "action": "Rotate the ejection port toward the ground, fold the cocking lever out and pull it rearward one or more times, watching for a live round or case to be ejected. Holding the lever fully back, press UP on the bolt catch button at the front top corner of the trigger guard to lock the bolt open. Then check the chamber by eye and by finger.",
+   "prose": "The cocking lever folds — it is not a fixed handle, and it will not give you leverage until it is out.",
+   "caution": "BOLT CATCH – While holding the cocking lever fully rearward use the trigger finger to press upward on the bolt catch button located in the front top corner of the trigger guard to lock the bolt rearward.",
+   "aside": "INSPECT CHAMBER – Inspect the chamber for the presence of a live round or empty case. Visually – View the chamber through the open ejection port.",
+   "quote": "COCKING LEVER – Rotate the ejection port toward the ground and fold out and pull the cocking lever rearward one or more times to ensure the chamber is empty. Watch for a live round or empty case to be ejected.",
+   "cite": "HK SL8-1 & SL8-6 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly of the SL8-1 & SL8-6, printed p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Two hex screws, then the locking pin ABOVE the trigger guard",
+   "action": "Use the 5 mm Allen wrench from the HK tool to remove the hex-headed screws on the left and right at the rear of the receiver. Then remove the locking pin above the front end of the trigger guard. Both, before anything moves.",
+   "prose": "The pin above the trigger guard is easy to miss and the stock will not come back without it.",
+   "aside": "Remove the locking pin above the front end of the trigger guard.",
+   "quote": "Use the 5 mm Allen wrench of the HK tool and remove the hex headed Allen screws located on the left and right sides of at the rear end of the receiver",
+   "cite": "HK SL8-1 & SL8-6 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Stripping into assembly groups, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buttstock — WITH THE TRIGGER — draws back out of the receiver",
+   "action": "Pull the buttstock straight back out of the receiver. The trigger group comes with it: on the SL8 the trigger lives in the stock assembly, not in the receiver, so what you are holding is the fire control as well as the stock. Put it down somewhere it will not be knocked.",
+   "prose": "Anyone expecting an AR lower will be surprised by what is in their hand at this point.",
+   "quote": "Pull the buttstock with the trigger back out of the receiver.",
+   "cite": "HK SL8-1 & SL8-6 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Stripping into assembly groups, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out on the cocking lever; handguard forward off its locking pin",
+   "action": "Pull the cocking lever to the rear and remove the bolt. Then pull out the locking pin at the handguard and take the handguard off FORWARD. Finally push the magazine catch, swivel the magazine well downward and detach it.",
+   "prose": "Handguard forward, magazine well downward. Each part leaves in its own direction and none of them needs force.",
+   "aside": "Pull out the locking pin at the handguard and remove the handguard to the front.",
+   "quote": "Pull the cocking lever to the rear and remove the bolt.",
+   "cite": "HK SL8-1 & SL8-6 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Stripping into assembly groups, printed p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ PUSH ROD UNDER CONSIDERABLE SPRING TENSION — never point it at anyone",
+   "action": "Push the push rod to the REAR against spring pressure and remove it from the gas piston, swivel it to the side and take it out to the front. Then remove the gas piston to the rear. HK's caution is explicit and is about people, not parts: never point the compressed push rod in an unsafe direction, because it can release under pressure.",
+   "prose": "This is the step on the SL8 that can injure someone with an unloaded rifle. Treat the compressed rod like a muzzle.",
+   "caution": "The push rod is under considerable spring tension. Use caution when installing and removing it. To avoid injury to yourself and others, never point the compressed push rod in an unsafe direction in the event it is inadvertently released under pressure.",
+   "aside": "Remove the gas piston to the rear.",
+   "quote": "Push the push rod to the rear against spring pressure and remove it from the gas piston.",
+   "cite": "HK SL8-1 & SL8-6 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly of the push rod and the gas piston, printed p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt: firing pin retaining pin LEFT, cam pin LEFT, bolt head FORWARD",
+   "action": "Push the firing pin retaining pin to the LEFT and detach it — HK suggests using the gas piston as the tool, which is already in your hand. Remove the firing pin to the rear, take the cam pin out to the left, and detach the bolt head to the front.",
+   "prose": "Everything on this bolt moves left or rearward except the head, which comes off the front. Lay them out in that order.",
+   "aside": "Take out the cam pin to the left. 4. Detach the bolt head to the front.",
+   "quote": "Push the firing pin retaining pin to the left (e.g. with gas piston) and detach.",
+   "cite": "HK SL8-1 & SL8-6 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly of the bolt assembly, printed p.26",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "⛔ The push rod is the injury risk on an empty rifle",
+   "action": "HK devotes a caution to it: considerable spring tension, and a warning never to point the compressed rod in an unsafe direction in case it releases. That applies going back together as much as coming apart — reassembly is when it is compressed deliberately.",
+   "prose": "Most 'unloaded gun' injuries are springs, not cartridges. This is the spring on this rifle.",
+   "quote": "The push rod is under considerable spring tension. Use caution when installing and removing it. To avoid injury to yourself and others, never point the compressed push rod in an unsafe direction in the event it is inadvertently released under pressure.",
+   "cite": "HK SL8-1 & SL8-6 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly of the push rod and the gas piston, printed p.25"
+  },
+  {
+   "phase": "Clean",
+   "title": "The gas piston is both a part and a tool",
+   "action": "HK's own instruction for the bolt suggests pushing the firing pin retaining pin out with the gas piston. Clean the piston before you use it that way, or you are pressing carbon into the bolt you just cleaned.",
+   "prose": "A tool the rifle supplies to itself, which is worth knowing on a bench with no punch on it.",
+   "quote": "Push the firing pin retaining pin to the left (e.g. with gas piston) and detach.",
+   "cite": "HK SL8-1 & SL8-6 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly of the bolt assembly, printed p.26"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Check the bolt catch and the paddle release while it is apart",
+   "action": "The bolt catch button sits at the front top corner of the trigger guard and is pressed upward with the trigger finger; the magazine release is a paddle at the front of the guard. Both are in the assembly you removed with the stock — check they move freely and return before it goes back on.",
+   "prose": "Both controls live in the part most people set aside and stop thinking about.",
+   "quote": "BOLT CATCH – While holding the cocking lever fully rearward use the trigger finger to press upward on the bolt catch button located in the front top corner of the trigger guard to lock the bolt rearward.",
+   "cite": "HK SL8-1 & SL8-6 — OPERATOR'S MANUAL — 5.12.2026 FINAL — read from the document's own filename and page furniture — Disassembly of the SL8-1 & SL8-6, printed p.23"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL AND CHAMBER",
+   "tasks": [
+    "Bore brush and solvent from the chamber end; patch until clean.",
+    "Scrub the chamber separately and check the gas port area of the barrel for carbon."
+   ]
+  },
+  {
+   "name": "GAS SYSTEM — PISTON AND PUSH ROD",
+   "tasks": [
+    "Carbon lives on the gas piston. Scrub it and the piston bore with a nylon brush and solvent.",
+    "Wipe the push rod and its spring; check the spring for a loss of force.",
+    "⛔ Reassemble the push rod under control — it goes back the way it came out, compressed."
+   ]
+  },
+  {
+   "name": "BOLT AND RECEIVER",
+   "tasks": [
+    "Clean the bolt head, the locking lugs and the cam-pin track; wipe the firing pin and its channel dry.",
+    "Wipe the receiver rails and the bolt raceway."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bolt head into the carrier, cam pin in from the left, firing pin in from the rear, retaining pin back in from the LEFT.",
+  "Gas piston in from the rear, then the push rod compressed and engaged to it.",
+  "Magazine well swivelled up until the catch takes it; handguard on from the front and its locking pin back in.",
+  "Bolt into the receiver on the cocking lever.",
+  "Buttstock with trigger group into the receiver, then the locking pin above the trigger guard, then both hex screws.",
+  "⛔ Function-check before the rifle goes away."
+ ],
+ "fncheck": "With the rifle CLEAR: work the safety/selector to Safe and confirm the trigger is blocked, then off Safe and confirm a clean break on an empty chamber. Fold out the cocking lever, run the bolt fully back and let it go — it should close under spring pressure alone. Press the bolt catch with the lever held back and confirm the bolt locks open, then releases. Insert an EMPTY magazine and confirm the paddle release drops it cleanly."
+}

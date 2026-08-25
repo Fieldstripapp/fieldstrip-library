@@ -1,0 +1,120 @@
+{
+ "row": "masterpiecearmsdefender",
+ "make": "MasterPiece Arms",
+ "model": "Defender Series",
+ "sourcedFrom": "MPA DEFENDER SERIES — OWNER'S MANUAL (10/30 series) — 10-30 Series — read from the document's own cover (ABSENT)",
+ "sourceSha256": "1e062b9a4e4307e88c37962f4d11f8ca3d7f3d91d73daf81ae76092e4747cbb3",
+ "cleanIntro": "The Defender is a simple blowback built around two RECEIVER PINS, and its strip has one order-of-operations trap at each end. Coming apart, the HAMMER MUST BE RELEASED first — safety to Fire, trigger pulled, on a gun you have just proved empty — or the upper will not lift. Going back together, the hammer must be RE-COCKED by hand before the upper goes on, because removing the upper drops it. And the cocking handle has to be rotated so its site-path runs front-to-back, or the bolt will not run forward at all.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ Magazine out FIRST, then assume the chamber is still loaded",
+   "action": "Remove the magazine. Then — MPA's own instruction — assume there is still a round in the chamber. Pull the cocking handle all the way back to eject it and LOOK into the chamber to confirm it is empty.",
+   "prose": "The wording is deliberate: the magazine coming out is not evidence about the chamber, and on a blowback gun it never was.",
+   "quote": "After magazine has been removed from weapon, assume that there is still a round in the chamber. To remove a round from the chamber, open the bolt by pulling the cocking handle all the way back. This should eject the unspent round, but always visually check to make sure the chamber is empty.",
+   "cite": "MPA DEFENDER SERIES — OWNER'S MANUAL (10/30 series) — 10-30 Series — read from the document's own cover — Unloading, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Hammer RELEASED before disassembly — Fire, then trigger, on an empty gun",
+   "action": "With the weapon confirmed completely unloaded, turn the safety selector to Fire and pull the trigger. MPA states the hammer must be released before disassembly. This is a deliberate trigger press on a gun you have just cleared — do it with the muzzle in a safe direction and nothing in the chamber.",
+   "prose": "Every part of the clearing step above exists to make this step safe. Do them in order or not at all.",
+   "caution": "The basic operation is the same for both.",
+   "quote": "Turn the safety selector to the “Fire” Position and pull the trigger. The hammer must be released before disassembly.",
+   "cite": "MPA DEFENDER SERIES — OWNER'S MANUAL (10/30 series) — 10-30 Series — read from the document's own cover — Cleaning and maintenance, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Inner receiver pin out with a 5/32\" punch — then use the PIN as the tool",
+   "action": "Use a 5/32-inch or smaller pin punch to push the INNER receiver pin out far enough to pull by hand. Then turn that pin around and use its HEAD to push the OUTER pin out far enough to remove. The gun supplies its own second tool.",
+   "prose": "A neat trick and worth knowing on a bench with one punch on it. Inner first, then outer — the order is not reversible.",
+   "aside": "After removing the inner receiver pin turn pin around and use the head to push the outer pin far enough out to remove out by hand.",
+   "quote": "Using a 5/32” or smaller pin punch, push inner receiver pin out far enough to pull it out by hand.",
+   "cite": "MPA DEFENDER SERIES — OWNER'S MANUAL (10/30 series) — 10-30 Series — read from the document's own cover — Cleaning and maintenance, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Upper lifts at the FRONT — and the hammer drops as it does",
+   "action": "With both pins out the upper receiver advances forward slightly. Lift the FRONT of the upper and draw the upper and bolt assembly out of the frame. You will hear the hammer release as it comes off — MPA says this is normal, and it is the reason the upper will not simply go back on.",
+   "prose": "The noise is expected. Remember it, because the reassembly depends on you putting that hammer back where it was.",
+   "quote": "Once the receiver pins have been removed, the upper receiver will advance forward slightly. Lift the front of the upper receiver up as shown below. You will hear the hammer release (this is normal).",
+   "cite": "MPA DEFENDER SERIES — OWNER'S MANUAL (10/30 series) — 10-30 Series — read from the document's own cover — Cleaning and maintenance, printed p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out the BACK: slide it fully rearward, cocking handle straight UP",
+   "action": "Slide the bolt assembly all the way back until it stops. At that point the cocking handle lines up with the large hole at the back end of the top slot. Pull the cocking handle STRAIGHT UP and the bolt assembly slides out of the rear opening of the upper receiver.",
+   "prose": "The large hole is the only place the handle will lift. If it will not come up, the bolt is not far enough back.",
+   "quote": "Slide bolt assembly all the back until it stops. At this point the cocking handle is aligned with the large hole at the back end of the top slot in the upper receiver. Pull the cocking handle straight up. This will allow the bolt assembly to slide out the back opening in the upper receiver.",
+   "cite": "MPA DEFENDER SERIES — OWNER'S MANUAL (10/30 series) — 10-30 Series — read from the document's own cover — Cleaning and maintenance, printed p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — frame, upper, bolt, cocking handle, two pins",
+   "action": "That is as far as the owner's manual takes it. Clean the residue off every part and wipe them with a LIGHT oil — MPA's own words, and the tolerances on these guns are the reason it says light.",
+   "prose": "Five pieces and two pins on the mat. Keep the two pins together; they are not the same pin.",
+   "quote": "Clean any residue from all parts and wipe with a light oil.",
+   "cite": "MPA DEFENDER SERIES — OWNER'S MANUAL (10/30 series) — 10-30 Series — read from the document's own cover — Cleaning and maintenance, printed p.11",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Assemble",
+   "title": "⛔ The cocking handle has an orientation, and it is not obvious",
+   "action": "The cocking handle must be rotated so its site-path points front-to-back. MPA states plainly what happens otherwise: the bolt assembly will not be allowed to move forward in the upper receiver. A gun that will not go into battery after a clean is usually this and nothing else.",
+   "prose": "One rotation, and it is the commonest reassembly fault on this gun.",
+   "quote": "If the cocking handle is not oriented in this manner it will not allow the bolt assembly to move forward in the upper receiver.",
+   "cite": "MPA DEFENDER SERIES — OWNER'S MANUAL (10/30 series) — 10-30 Series — read from the document's own cover — Cleaning and maintenance, printed p.11"
+  },
+  {
+   "phase": "Assemble",
+   "title": "⛔ The hammer must be re-cocked BY HAND before the upper goes back",
+   "action": "Removing the upper drops the hammer forward. Before the upper goes back on, rotate the hammer up and back toward the rear of the frame, then down until it clicks and the sear holds it. Only then will the upper seat.",
+   "prose": "You heard it fall during the strip. This is the step that puts it back where it was.",
+   "quote": "After removing the upper receiver the hammer will not be cocked. It will be pivoted forward. Before reinstalling the upper receiver the hammer must be cocked. Rotate hammer up and back toward the back of frame, then down until it clicks and is held back by the sear. The hammer is now cocked.",
+   "cite": "MPA DEFENDER SERIES — OWNER'S MANUAL (10/30 series) — 10-30 Series — read from the document's own cover — Cleaning and maintenance, printed p.11"
+  },
+  {
+   "phase": "Inspect",
+   "title": "One book, several models — check yours matches what you are reading",
+   "action": "This manual covers the Defender carbines and pistols together and says its general information also applies to the Tactical Pistols and Carbines. Where your gun's part looks different from the picture — a side cocker rather than a top cocker, for instance — MPA states the basic operation is the same.",
+   "prose": "The differences across this family are cocker side, stock and barrel. None of them changes the strip.",
+   "aside": "The design and tolerances found in the MPA Defender",
+   "quote": "the general information in this manual also applies to the Tactical Pistols and Carbines.",
+   "cite": "MPA DEFENDER SERIES — OWNER'S MANUAL (10/30 series) — 10-30 Series — read from the document's own cover — Front matter, printed p.2"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL AND CHAMBER",
+   "tasks": [
+    "Brush and patch the bore from the chamber end until the patches come out clean.",
+    "Scrub the chamber — a blowback pistol-calibre gun fouls the chamber mouth heavily."
+   ]
+  },
+  {
+   "name": "BOLT AND UPPER RECEIVER",
+   "tasks": [
+    "Clean the bolt face and the extractor; wipe the bolt body and its rails.",
+    "Clean the top slot of the upper receiver and the large hole the cocking handle lifts through."
+   ]
+  },
+  {
+   "name": "FRAME",
+   "tasks": [
+    "Wipe the frame, the hammer and the sear area; check the hammer pivots freely and holds when cocked by hand.",
+    "⛔ Light oil only — MPA calls for it, and the design's tolerances are the reason."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Bolt assembly back into the upper in the opposite direction it came out.",
+  "Align the hole in the top of the bolt assembly with the large hole at the back of the upper's top slot, then reinstall the cocking handle.",
+  "⛔ Rotate the cocking handle so its SITE-PATH runs front-to-back — otherwise the bolt will not move forward in the upper receiver.",
+  "⛔ RE-COCK THE HAMMER BY HAND: rotate it up and back toward the rear of the frame, then down until it clicks and is held by the sear.",
+  "Upper receiver and bolt assembly back onto the frame, reversing the strip.",
+  "Outer pin, then inner pin, both seated fully by hand."
+ ],
+ "fncheck": "With the gun CLEAR: work the safety selector between Safe and Fire and confirm it indexes. Pull the cocking handle fully back and let it run forward under spring pressure alone — if it binds or will not run forward, the cocking handle's site-path is not oriented front-to-back. Confirm the hammer is cocked and that the trigger releases it cleanly on an empty chamber. Insert an EMPTY magazine and confirm it locks and releases."
+}
