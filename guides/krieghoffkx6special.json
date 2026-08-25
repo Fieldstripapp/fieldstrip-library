@@ -1,0 +1,63 @@
+{
+ "row": "krieghoffkx6special",
+ "make": "Krieghoff",
+ "model": "KX-6 Special",
+ "sourcedFrom": "Krieghoff KX-6 Special Single Barrel Trap Gun — Handling and Service Instructions — 04.12.19 (UNKNOWN — read off the manual's own pages)",
+ "sourceSha256": "fce606d94fad893f1dc8d675943262c59d1ed2a8994bc974be7cfb165071a338",
+ "cleanIntro": "The KX-6 is a single-barrel trap gun and it strips like one: forend button, forend off, barrel off the receiver. ⚠ Same discipline as its over/under sibling — the barrel is rocked free, never levered, and the sharp edges of the forend iron are what mark a receiver when someone hurries.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Open it and prove the chamber",
+   "action": "Open the top lever, take the shell out, and look through the bore before anything else. Krieghoff's safety section is blunt about obstructions.",
+   "prose": "A single-barrel trap gun spends its life being opened and closed on a station; clearing it properly is the habit that matters.",
+   "quote": "Before loading a firearm, inspect the barrel to be certain that it is clean and free of foreign objects.",
+   "cite": "Krieghoff KX-6 Special Single Barrel Trap Gun — Handling and Service Instructions — 04.12.19 — Gun Safety, printed p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forend button, forend off",
+   "action": "Push the button at the end of the forearm to release the catch, and take the forend off.",
+   "prose": "The button is the release — do not fight the latch.",
+   "quote": "Push the forend button, and remove the forend.",
+   "cite": "Krieghoff KX-6 Special Single Barrel Trap Gun — Handling and Service Instructions — 04.12.19 — DISASSEMBLY, printed p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel off — rock and rotate",
+   "action": "Open the top lever and take the barrel off by gently rocking and rotating it until it disengages.",
+   "prose": "One motion is what marks the receiver.",
+   "quote": "carefully remove the barrel by gently rocking and rotating them until it is disengaged",
+   "cite": "Krieghoff KX-6 Special Single Barrel Trap Gun — Handling and Service Instructions — 04.12.19 — DISASSEMBLY, printed p.8",
+   "warn": "Do not attempt to pry them off with a single motion because this may damage the finish of the barrel or the receiver."
+  }
+ ],
+ "deepAbsentReason": "NONE PUBLISHED. The KX-6 book's contents run from Assembly and Disassembly through stock, locking system, point of impact, chokes, triggers and Maintenance, and stop there — no owner-level teardown below the barrel-off strip is given. Krieghoff keeps the lockwork with its own service. Saying so is the result.",
+ "cleaning": [
+  {
+   "title": "Keep the action and bore clean",
+   "action": "Krieghoff's standing instruction for this gun is to keep dirt and foreign objects out of the action and the barrel, and to protect the metal from corrosion.",
+   "quote": "Keep your firearm clean. Prevent dirt and foreign objects from entering the action and the barrel.",
+   "section": "Gun Safety, printed p.6"
+  }
+ ],
+ "reassembly": [
+  {
+   "phase": "Rebuild",
+   "title": "Barrel on at 45°",
+   "action": "Barrel in the left hand, muzzle braced between your legs, receiver and stock by the pistol grip in the right. Engage the barrel at about 45° and rock it up and down to seat the barrel lug fully into the receiver.",
+   "prose": "Lubricate first — the book sends you to the Maintenance section before assembly.",
+   "quote": "Using a rocking motion up and down, seat the barrel lug fully into the receiver",
+   "section": "ASSEMBLY, printed p.8"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Forend on at 30°, latch home",
+   "action": "Hold the gun in one hand and the forearm in the other, position its rear surface against the front of the action at about 30°, push the forend button to release the catch, then press the forearm firmly up into the latched position.",
+   "prose": "⚠ Mind the forend iron's edges against the barrel and receiver on the way up.",
+   "quote": "Avoid striking the underside of the barrels or the receiver with the sharp edges of the forend iron.",
+   "section": "ASSEMBLY, printed p.8"
+  }
+ ],
+ "fncheck": "Reassembled, confirm the forend latch has engaged fully before the gun is closed — the book's assembly step ends \"taking care that the latch engages fully\"."
+}

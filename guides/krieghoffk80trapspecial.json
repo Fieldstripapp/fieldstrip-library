@@ -1,0 +1,118 @@
+{
+ "row": "krieghoffk80trapspecial",
+ "make": "Krieghoff",
+ "model": "K-80 Trap Special",
+ "sourcedFrom": "Krieghoff K-80 / K-20 Instruction Manual — 135Y / 22.09.22 (UNKNOWN — read off the manual's own pages)",
+ "sourceSha256": "3090617e23b0309189bf109846eda763adfe686a8a563e6142e6e981f462356a",
+ "cleanIntro": "The K-80 is a break-action over/under and it comes apart in three pieces — forend, barrels, receiver-and-stock — in that order and no further. ⚠ The one thing that damages these guns is impatience at the barrels: Krieghoff wants them rocked off the pivots, never levered. Grease at the pivots is part of reassembly, not an afterthought.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Open, unload, prove both chambers",
+   "action": "Open the top lever and take both barrels down to empty. The gun must be clear before the forend comes off — the ejectors are sprung and will throw a live shell.",
+   "prose": "Krieghoff's own maintenance line is that the gun gets cleaned after every session, so this is a routine you will run often.",
+   "quote": "The bore and action of the gun should be thoroughly cleaned after every shooting session.",
+   "cite": "Krieghoff K-80 / K-20 Instruction Manual — 135Y / 22.09.22 — MAINTENANCE, printed p.34"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forend off first",
+   "action": "Take the forend off before anything else. It is what holds the barrels to the receiver on a break gun, and the order is not optional.",
+   "prose": "Krieghoff gives the strip as the reverse of assembly, and assembly ends with the forend.",
+   "quote": "Remove the forend.",
+   "cite": "Krieghoff K-80 / K-20 Instruction Manual — 135Y / 22.09.22 — ASSEMBLY AND DISASSEMBLY, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrels off the pivots — rock, do not pry",
+   "action": "Open the top lever and take the barrels off by gently rocking and rotating them until they come free of the pivots.",
+   "prose": "⚠ This is the step that damages guns. One firm pull marks the bottom barrel or the receiver face, and Krieghoff says so in as many words.",
+   "quote": "carefully remove the barrels by gently rocking and rotating them until they are disengaged from the pivots",
+   "cite": "Krieghoff K-80 / K-20 Instruction Manual — 135Y / 22.09.22 — ASSEMBLY AND DISASSEMBLY, printed p.9",
+   "warn": "Do not attempt to pry them off with a single motion because this may damage the finish of the bottom barrel or the receiver."
+  },
+  {
+   "phase": "Strip",
+   "title": "Stock off only if you need it — through the recoil pad",
+   "action": "If the stock has to come off, put the supplied T-handled stock wrench through the small hole in the recoil pad and back the stock bolt out 2–3 turns. If it is tight, lay the receiver on a padded surface and bump the wrench handle or the bottom of the pistol grip with your palm. Make sure the bolt is fully disengaged, then draw the stock straight back.",
+   "prose": "Straight back, every time — this is inletted wood.",
+   "quote": "Make certain that the bolt is completely disengaged and then carefully remove the stock to the rear.",
+   "cite": "Krieghoff K-80 / K-20 Instruction Manual — 135Y / 22.09.22 — STOCK REMOVAL AND REINSTALLATION, printed p.11",
+   "warn": "Do not move the stock up and down to loosen and remove it because this may damage the inletting."
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ The butt plate is not in this book — Krieghoff puts it in another one",
+   "action": "If you came here to adjust the butt plate, stop: this manual does not carry those settings. Krieghoff publishes them separately, at www.krieghoff.de/buttplate. Nothing in this guide covers moving the plate, and nothing here should be used as if it did.",
+   "prose": "On a fitted competition gun the butt plate is the adjustment an owner reaches for most, which is exactly why the boundary is stated instead of left to be discovered.",
+   "quote": "Please find a detailed description regarding the different settings of the butt plate in a separate instruction manual under:",
+   "cite": "Krieghoff K-80 / K-20 Instruction Manual — 135Y / 22.09.22 — Adjustable Butt Plate, printed p.30"
+  }
+ ],
+ "deepAbsentReason": "NONE PUBLISHED FOR THE OWNER BEYOND THE EJECTORS. The K-80 book's deepest owner-level procedure is removing, cleaning and reinstalling the ejectors (printed pp.31–33); below that it publishes no strip. Krieghoff routes the lockwork to its own service rather than to the owner, so there is no deeper routine to report and none is invented here.",
+ "cleaning": [
+  {
+   "title": "Bores — solvent, patches, bronze if you must",
+   "action": "Clean the bores after shooting to take out lead fouling and plastic wad build-up. Conventional bore solvent on patches through the bore; for stubborn fouling, more solvent and a phosphor bronze brush.",
+   "quote": "The barrels must be cleaned after shooting to remove lead fouling and build up of plastic from wads.",
+   "section": "MAINTENANCE, printed p.34"
+  },
+  {
+   "title": "Bearing surfaces — old grease and grit off",
+   "action": "With the gun apart, wipe the bearing surfaces clean of old grease and any grit picked up during shooting.",
+   "quote": "wipe bearing surfaces clean to remove old grease and any grit that may have accumulated during shooting",
+   "section": "MAINTENANCE, printed p.34"
+  },
+  {
+   "title": "Detergents — acid- and resin-free only",
+   "action": "Whatever you clean with, Krieghoff limits the chemistry.",
+   "quote": "Use only acid- and resign-free detergents for cleaning!",
+   "section": "MAINTENANCE, printed p.34",
+   "warn": "Use only acid- and resign-free detergents for cleaning!",
+   "warnSrc": "Krieghoff K-80/K-20 Manual — MAINTENANCE, printed p.34"
+  },
+  {
+   "title": "Wipe down before it goes in the case",
+   "action": "Straight after shooting and before casing, wipe the external metal down and oil it lightly.",
+   "quote": "the gun's external metal surfaces should be wiped down and oiled lightly",
+   "section": "MAINTENANCE, printed p.34"
+  }
+ ],
+ "reassembly": [
+  {
+   "phase": "Rebuild",
+   "title": "Grease the pivots first",
+   "action": "Put a thin coat of Krieghoff Gun Glide or another high-quality gun grease in the barrel pivots, and a very light coat on the flats beside the pivots, the barrel lug, the barrel flats where the top latch engages, and the concave part of the forend iron that meets the receiver.",
+   "prose": "Grease goes on before the barrels go back, not after.",
+   "quote": "place a thin coating of Krieghoff Gun Glide or other high quality gun grease in the barrel pivots",
+   "section": "MAINTENANCE, printed p.34"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Ejectors pushed in, top lever open",
+   "action": "Make sure both ejectors are pushed in and open the top lever before the barrels go anywhere near the action.",
+   "prose": "An ejector left out will not let the barrels seat.",
+   "quote": "Make sure both ejectors are pushed in.",
+   "section": "ASSEMBLY, printed p.9"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Barrels on at 45°, rock them home",
+   "action": "Barrels in the left hand, muzzle braced between your legs, receiver and stock held by the pistol grip in the right. Engage the barrels into the action at about 45°, using the ball of the left hand to direct them onto the pivots, then rock up and down to seat the barrel cutouts fully.",
+   "prose": "Rotate them slightly to confirm they are firmly seated, then close the gun fully.",
+   "quote": "Using a rocking motion up and down, seat the barrel cutouts fully onto the pivots.",
+   "section": "ASSEMBLY, printed p.9"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Stock back on — straight, then firm",
+   "action": "If the stock came off: seat the wrench in the stock bolt, slide the stock straight onto the rear tangs and forward to the receiver, push them together firmly, then seat and tighten the stock bolt firmly but not excessively.",
+   "prose": "A light coat of gun oil at the recoil-pad hole stops the wrench marking it.",
+   "quote": "tighten it firmly, but not excessively, with the stock wrench",
+   "section": "STOCK REINSTALLATION, printed p.11",
+   "warn": "be careful not to force the stock onto the receiver or to rock it up and down because this may damage the inletting",
+   "warnSrc": "Krieghoff K-80/K-20 Manual — STOCK REINSTALLATION, printed p.11"
+  }
+ ],
+ "fncheck": "Back together, work the top lever and confirm the barrels are locked and the gun closes fully — Krieghoff's assembly ends by asking you to \"Rotate the barrels on the pivots slightly to be certain that they are firmly seated\"."
+}
