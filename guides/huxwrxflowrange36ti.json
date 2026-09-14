@@ -1,0 +1,98 @@
+{
+ "row": "huxwrxflowrange36ti",
+ "make": "HUXWRX",
+ "model": "FLOW RANGE 36 Ti",
+ "sourcedFrom": "FLOW RANGE 36 Ti INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. (ABSENT — no copyright year line is printed.)",
+ "sourceSha256": "680552e0f4d71fe15a4e2850b4e3415235b8701e488c6da3fe5176e5ea26b1dd",
+ "cleanIntro": "A 3D-printed titanium Flow-Through can, and the printing is the reason the cleaning rule is a chemistry rule: HUXWRX names titanium-safe cleaners specifically. ⛔ It does not open — the book's own warning forbids going past what it shows, and what it shows is a mount, a torque figure and a solvent. The maintenance cycle is 2,500 rounds or less. And one thing worth knowing before the next range trip: after a wet clean, solvent and debris can come out of the muzzle end on the first shots.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Unloaded, and the ammunition off the bench",
+   "action": "HUXWRX prints the same warning at the head of BOTH its installation and its cleaning sections, word for word: magazine out, chamber checked by eye and by finger, and the ammunition moved out of the workspace entirely.",
+   "box": "none",
+   "aside": "Use proper safety equipment before handling. Ensure firearm is not loaded before installing or removing the suppressor. Only operate the suppressor system with a serviceable firearm and ammunition of the correct caliber.",
+   "quote": "Ensure the firearm is unloaded. Remove the magazine and all ammunition from the workspace. Visually and physically check that the chamber is clear.",
+   "cite": "FLOW RANGE 36 Ti INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — HUXWRX FLOW Range 36 Ti Instruction Manual — SUPPRESSOR INSTALLATION, printed p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Cool before it is touched",
+   "action": "A Flow-Through can vents gas forward and gets hot doing it. The book's warning is about skin and clothing, and it is the first thing on the page.",
+   "box": "limit",
+   "quote": "The suppressor system can reach extremely hot temperatures. Use caution before handling after use. Avoid contact with skin or clothing when hot.",
+   "cite": "FLOW RANGE 36 Ti INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — HUXWRX FLOW Range 36 Ti Instruction Manual — WARNING, printed p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lock nut loose, then the can off the QD device",
+   "action": "The lock nut at the base of the HUB QD adapter comes loose by hand first — that is what frees the can to turn. Then reverse the mounting direction to run it off the muzzle device. The lock/unlock icons on the can and on the nut tell you which way is which, so there is no guessing.",
+   "box": "none",
+   "aside": "Reverse this process to remove the suppressor from the barrel.",
+   "quote": "By hand, loosen the lock nut at the base of the HUB QD Adapter.",
+   "cite": "FLOW RANGE 36 Ti INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — HUXWRX FLOW Range 36 Ti Instruction Manual — SUPPRESSOR INSTALLATION, printed p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ And that is as far as it opens",
+   "action": "There is no end cap procedure and no baffle stack in this book, and the warning page says outright not to go past the level it shows. On a printed titanium core there is nothing behind that instruction to find.",
+   "box": "limit",
+   "quote": "Do not disassemble the suppressor system beyond required level, as shown in this manual, for standard maintenance.",
+   "cite": "FLOW RANGE 36 Ti INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — HUXWRX FLOW Range 36 Ti Instruction Manual — WARNING, printed p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Titanium-safe chemistry, and nothing else",
+   "action": "The material decides the solvent here. HUXWRX names its own Suppressor Sauce as the standard for Flow-Through geometries, and whatever you use, it has to be safe on titanium.",
+   "box": "none",
+   "aside": "Recommended maintenance cycle for the suppressor is 2500 rounds or less.",
+   "quote": "The FLOW Range 36 Ti is 3D-printed Titanium so it care must be taken to use cleaners that are safe on Titanium.",
+   "cite": "FLOW RANGE 36 Ti INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — HUXWRX FLOW Range 36 Ti Instruction Manual — SUPPRESSOR CLEANING AND MAINTENANCE, printed p.2"
+  },
+  {
+   "phase": "Clean",
+   "title": "Threads and taper faces clean before it goes back",
+   "action": "Every mounting surface — the barrel threads, the taper, the HUB interface — gets cleaned while the can is off. A dirty taper is what stops a QD can seating square, and a can that does not seat square is a baffle strike.",
+   "box": "none",
+   "quote": "Ensure all threads and taper mounting surfaces are clean.",
+   "cite": "FLOW RANGE 36 Ti INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — HUXWRX FLOW Range 36 Ti Instruction Manual — SUPPRESSOR INSTALLATION, printed p.2"
+  }
+ ],
+ "deepAbsentReason": "HUXWRX PUBLISHES NO TEARDOWN FOR THIS CAN AND FORBIDS ONE IN ITS OWN WARNING: \"Do not disassemble the suppressor system beyond required level, as shown in this manual, for standard maintenance.\" There is no end-cap step, no baffle count and no internal torque figure anywhere in the manual — the only torque it prints is 25 ft-lbf for the HUB adapter onto the housing and 35 ft-lbf for a flash hider onto the barrel, both of which are mounting figures. A deeper procedure authored here would be invention, and on a single printed titanium core it would be an instruction to destroy the product.",
+ "cleaning": [
+  {
+   "name": "THE CAN (IT DOES NOT OPEN)",
+   "tasks": [
+    "⛔ Titanium-safe cleaners ONLY — it is 3D-printed titanium",
+    "HUXWRX names Suppressor Sauce as its own standard for Flow-Through geometry",
+    "No abrasives, no wire, nothing driven through the bore"
+   ]
+  },
+  {
+   "name": "MOUNT AND THREADS",
+   "tasks": [
+    "All threads and taper mounting surfaces cleaned while the can is off",
+    "HUB adapter torqued to the housing at 25 ft-lbf",
+    "A flash hider / comp / brake torqued to the barrel at 35 ft-lbf where it applies",
+    "Lock nut hand tight, 50 in-lbf minimum"
+   ]
+  },
+  {
+   "name": "⛔ THE CYCLE IS THE MAINTENANCE",
+   "tasks": [
+    "2,500 rounds or less, by the maker's own figure",
+    "Expect solvent and debris to blow out on the first shots after a wet clean"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Nothing to reassemble — the can never opened.",
+  "Threads and taper mounting surfaces clean and dry.",
+  "Lock nut at the base of the HUB QD adapter backed off by hand.",
+  "Can onto the QD muzzle device in the direction its lock/unlock icon shows, until hand tight and firmly seated.",
+  "Lock nut tightened firmly by hand — 50 in-lbf minimum — in the direction ITS icon shows.",
+  "HUB adapter at 25 ft-lbf to the housing; muzzle device at 35 ft-lbf to the barrel where one is fitted.",
+  "⛔ Solvent and debris may shoot out on the first shots after cleaning."
+ ],
+ "fncheck": "Back on the host with the action open and clear: threads and taper clean, the can run on in the direction its own lock icon shows until it is hand tight and firmly seated, then the lock nut tightened by hand to at least 50 in-lbf. Confirm the HUB adapter is still at 25 ft-lbf on the housing and that any muzzle device is still torqued to the barrel — HUXWRX makes both a before-firing check, not an install-day one. ⛔ And expect the first few rounds after a wet clean to throw solvent out of the muzzle: stand clear and do not read it as a fault."
+}

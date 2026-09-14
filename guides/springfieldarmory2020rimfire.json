@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Eye protection, muzzle safe, finger off",
    "action": "Eye protection on, muzzle in a safe direction, finger off the trigger, and no live ammunition anywhere near the bench.",
+   "box": "none",
    "prose": "Springfield opens the field strip with the ammunition caution rather than closing with it.",
    "quote": "Always use proper eye protection when cleaning firearms.",
    "cite": "Springfield Armory Model 2020 Rimfire Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP, printed p.30, step 1",
@@ -20,6 +21,7 @@
    "phase": "Clear",
    "title": "Safety to S, magazine out, rifle unloaded",
    "action": "Put the safety in the 'S' position, remove the magazine and unload the rifle. The rifle will fire with or without a magazine in place.",
+   "box": "none",
    "prose": "Safety first here, before the magazine — the order in the book is deliberate on a bolt gun, because the bolt is about to move.",
    "quote": "Remove magazine and unload firearm.",
    "cite": "Springfield Armory Model 2020 Rimfire Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP, printed p.30, steps 3-4",
@@ -30,6 +32,7 @@
    "phase": "Clear",
    "title": "Bolt fully back, and look",
    "action": "Retract the bolt to its most rearward position and look into the chamber and the magazine well.",
+   "box": "none",
    "prose": "A .22 LR case is small and brass-on-brass in a dark receiver. Get light in there rather than trusting a glance.",
    "aside": "To properly clear a firearm, remove the magazine, then pull charging handle back and check the chamber.",
    "quote": "Retract the bolt to its most rearward position.",
@@ -39,6 +42,7 @@
    "phase": "Strip",
    "title": "Press the bolt stop, bolt out the back",
    "action": "Depress the REAR SURFACE of the bolt stop and draw the bolt rearward out of the receiver.",
+   "box": "none",
    "prose": "It is the rear face of the stop specifically — pressing anywhere else on it does nothing, and the bolt simply will not come.",
    "quote": "Depress the rear surface of the bolt stop",
    "cite": "Springfield Armory Model 2020 Rimfire Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP, printed p.30, step 6"
@@ -47,11 +51,13 @@
    "phase": "Strip",
    "title": "Field strip complete — the bolt stays whole",
    "action": "The rifle is stripped for routine cleaning: barrelled action in the stock, and the bolt in your hand. ⛔ Do not take the bolt apart.",
+   "box": "none",
    "prose": "Springfield states that bolt disassembly is neither required nor recommended for routine cleaning, and there is no published procedure for it in this book.",
    "quote": "The rifle is now field stripped for routine cleaning.",
    "cite": "Springfield Armory Model 2020 Rimfire Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — FIELD STRIP, printed p.30, step 6",
    "warn": "NOTE: Disassembly of the bolt is not required or recommended for routine cleaning.",
-   "warnSrc": "maker"
+   "warnSrc": "maker",
+   "branch": true
   }
  ],
  "deepSteps": [
@@ -59,6 +65,7 @@
    "phase": "Deep",
    "title": "Bore from the chamber, ejection port DOWN",
    "action": "With the bolt out, lay the rifle horizontally with the ejection port facing DOWNWARD, and clean the barrel from the CHAMBER to the muzzle.",
+   "box": "none",
    "prose": "Port down is what keeps solvent and fouling falling out of the action instead of into the trigger group — a rimfire's fouling is waxy and it stays wherever it lands.",
    "quote": "Barrel should lay horizontally with the ejection port facing downward during cleaning. Always clean the barrel from the chamber to the muzzle.",
    "cite": "Springfield Armory Model 2020 Rimfire Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — CLEANING THE BARREL, printed p.33"
@@ -67,6 +74,7 @@
    "phase": "Deep",
    "title": "⛔ Never reverse a brush inside the bore",
    "action": "Push the brush completely out of the muzzle before retracting it. Never change direction while the brush is still in the bore.",
+   "box": "limit",
    "prose": "⛔ A bristle brush reversed mid-bore jams: the bristles fold the wrong way and lock. Getting one out afterwards usually means a rod and a vice, and sometimes a gunsmith.",
    "quote": "You cannot change direction of the brush when brush is in the bore as this can jam the brush in the bore.",
    "cite": "Springfield Armory Model 2020 Rimfire Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — CLEANING THE BARREL, printed p.33"
@@ -75,6 +83,7 @@
    "phase": "Deep",
    "title": "Patches until clean, then oil, then dry",
    "action": "Jag and patch saturated with solvent through the bore, a NEW patch each time, until the patches show no fouling. Then one clean patch with gun oil, and one clean dry patch to take the excess back out.",
+   "box": "none",
    "prose": "Oiled then dried, not oiled and left — a wet rimfire bore collects unburnt lubricant off the bullets and the fouling builds faster.",
    "quote": "Repeat using a new patch each time, until the patch no longer shows fouling present.",
    "cite": "Springfield Armory Model 2020 Rimfire Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — CLEANING THE BARREL, printed p.33"
@@ -83,6 +92,7 @@
    "phase": "Deep",
    "title": "⛔ Action out of the stock — two screws",
    "action": "With the bolt out and the safety on 'S', remove the two action screws fore and aft of the magazine well and lift the barrelled action out of the stock.",
+   "box": "none",
    "prose": "This is the only reason to take a Model 2020 Rimfire further apart, and it exists so the inside of the receiver can be flushed.",
    "quote": "Remove the two action screws located fore and aft of the magazine well and lift the action from the stock",
    "cite": "Springfield Armory Model 2020 Rimfire Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — CLEANING THE RECEIVER, printed p.34"
@@ -91,6 +101,7 @@
    "phase": "Deep",
    "title": "Flush the receiver and let it dry",
    "action": "Spray the inside of the receiver thoroughly with a suitable aerosol action cleaner and let it dry completely before anything goes back together.",
+   "box": "none",
    "prose": "Aerosol action cleaner evaporates dry and leaves nothing behind, which is the point — it is not a lubricant and must not be treated as one.",
    "quote": "Thoroughly spray inside the receiver with a suitable aerosol action cleaner such as Gun Scrubber and allow to dry.",
    "cite": "Springfield Armory Model 2020 Rimfire Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — CLEANING THE RECEIVER, printed p.34"
@@ -99,6 +110,7 @@
    "phase": "Deep",
    "title": "⛔ Torque the action screws — 35 in-lbs, front first",
    "action": "Refit the action and screws, tightening the two screws fore and aft of the magwell FIRST, and do not exceed 35 in-lbs.",
+   "box": "limit",
    "prose": "⛔ This is the number that decides whether the rifle shoots where it did before. Over-torqued action screws bend the receiver and move the zero; under-torqued ones let it wander shot to shot.",
    "quote": "Tighten the two actions fore and aft of the magwell first, do not exceed 35in lbs.",
    "cite": "Springfield Armory Model 2020 Rimfire Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — CLEANING THE RECEIVER, printed p.34"
@@ -107,6 +119,7 @@
    "phase": "Deep",
    "title": "Lubricate the bolt body and lugs — no grease",
    "action": "Light lubricant on the bolt body, in the bolt way of the receiver, and on the rear faces of the bolt locking lugs.",
+   "box": "limit",
    "prose": "⛔ Grease is specifically excluded from the bore of the bolt body and from the firing pin and its spring — a greased rimfire firing pin gets slow in the cold and starts producing light strikes.",
    "quote": "Do not use grease in the bore of the bolt body or on the firing pin or spring.",
    "cite": "Springfield Armory Model 2020 Rimfire Operation & Safety Manual — Operation & Safety Manual (no part or revision code printed) — LUBRICATION POINTS, printed p.36"

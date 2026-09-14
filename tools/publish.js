@@ -25,11 +25,21 @@ const path = require('path');
 
 const app = require('./lib/appsrc');
 const project = require('./lib/project');
+const quotebox = require('./lib/quotebox');
 const { deriveHolds } = require('./lib/holds');
 const guards = require('./lib/guards');
 
+/* ⛔ WHERE THE SHELF IS WRITTEN IS AN ARGUMENT, AND DEFAULTS TO THIS REPO. That
+   is not fixture plumbing: a gate has to serve a real library to a real browser
+   without overwriting the published one, and the only honest way to give it one
+   is to run THE publisher. There is exactly one publisher and this is it — the
+   app repo's second copy was deleted on 2026-09-14 for precisely this reason. */
 const ROOT = path.resolve(__dirname, '..');
-const GUIDES_DIR = path.join(ROOT, 'guides');
+const OUT = (() => {
+  const i = process.argv.indexOf('--out');
+  return i >= 0 ? path.resolve(process.argv[i + 1] || '') : ROOT;
+})();
+const GUIDES_DIR = path.join(OUT, 'guides');
 const DRY = process.argv.includes('--dry-run');
 
 const CR = 'scratchpad/clean-rebuild';
@@ -43,6 +53,16 @@ function build() {
   const headCommit = app.head();
   const holds = deriveHolds();
 
+  /* ⛔ THE APP'S OWN PAGE IS READ ONCE, AT HEAD, AND EVERY DECISION THIS SHELF
+     REPUBLISHES COMES OUT OF IT. The quotation form per step, the derived
+     branch flag, the catalog, the routing and the door verdict are all things
+     the app has ALREADY decided; re-deriving any of them here would be a second
+     answer to a question that has one. */
+  const html = app.show('www/index.html');
+  const boxes = quotebox.readBlock(html);
+  const boxCensus = quotebox.census(boxes);
+  const doorVerdict = project.parseDoorVerdict(html);
+
   /* ---------- guides ---------- */
   const specPaths = app.lsTree(SPECS_DIR).filter(p => p.endsWith('.json'));
   if (!specPaths.length) throw new Error('⛔ REFUSING — zero authored specs at HEAD');
@@ -52,6 +72,7 @@ function build() {
   const refusedHeld = [];   // held rows that HAVE a spec — the live catch
   const quarantined = [];   // guides withheld because their own text leaks a cache path
   const unknownFields = []; // spec fields the projection does not know
+  const notSpliced = [];    // specs on disk the app has not compiled yet
 
   for (const p of specPaths) {
     const spec = app.showJson(p);
@@ -73,8 +94,21 @@ function build() {
       continue;
     }
 
-    const { guide, unknown } = project.projectGuide(spec);
+    const bx = boxes.get(row);
+
+    const { guide, unknown } = project.projectGuide(spec, bx);
     if (unknown.length) unknownFields.push({ row, unknown });
+
+    /* ⛔ AND THE STEP COUNTS MUST AGREE. If the spec and the emitted block
+       disagree about how many steps a guide has, the verdicts would be applied
+       off-by-one — every quotation on the wrong step. That is silent and
+       catastrophic, so it refuses rather than publishes. */
+    if (bx && ((spec.steps || []).length !== bx.steps.length ||
+               (spec.deep || []).length !== bx.deep.length)) {
+      throw new Error('⛔ REFUSING — ' + row + ': the spec has ' + (spec.steps || []).length +
+        '/' + (spec.deep || []).length + ' step(s) and the emitted block has ' +
+        bx.steps.length + '/' + bx.deep.length + '. The splice is out of step with the specs.');
+    }
 
     /* ⛔ A GUIDE THAT NAMES OUR OWN CACHE IS WITHHELD, NOT PUBLISHED AND NOT
        SILENTLY CLEANED. Editing the text here would make the library disagree
@@ -90,6 +124,20 @@ function build() {
        note that had escaped into published text. Withheld, named, fixed upstream. */
     const pleak = guards.personalLeak(guide, opNames);
     if (pleak) { quarantined.push({ row, leak: pleak, spec: p }); continue; }
+
+    /* ⛔ A SPEC THE APP HAS NOT SPLICED YET IS NOT PUBLISHED. Without the app's
+       emitted block there is no quotation verdict and no derived branch flag for
+       it, and publishing it would ship a guide that presents a manufacturer's
+       words differently from the compiled-in one — or silently loses its DEEP
+       CLEAN door. Named in the report, never silently dropped: the fix is to run
+       the splice.
+       ⛔ AND IT IS CHECKED *AFTER* THE LEAK GUARDS, WHICH IS NOT COSMETIC. Put
+       first, it returned before guards.cacheLeak and guards.personalLeak ever saw
+       the guide — and check_publish_ready's selftest went red, because its two
+       MUST-REFUSE fixtures are unspliced rows by construction. A defect in
+       authored text is a defect whether or not the app has compiled it yet, and
+       the gate that exists to find it must be the thing that reports it. */
+    if (!bx) { notSpliced.push(row); continue; }
 
     guides.push({
       row,
@@ -127,7 +175,6 @@ function build() {
   const plateRows = new Map(plates.map(p2 => [p2.row, p2.rec]));
 
   /* ---------- index ---------- */
-  const html = app.show('www/index.html');
   const catalog = project.parseCatalog(html);
   /* ⛔ REACHABILITY COMES FROM THE APP'S OWN ROUTING, NOT FROM THE ROW ID. See
      project.parseRouting — one guide may serve many rows by family. */
@@ -154,6 +201,14 @@ function build() {
     }
     else if (holds.held.has(r.id)) r.held = true;        // stated, so the absence is not a mystery
     else if (quarantined.some(q => q.row === (gid || r.id))) r.withheld = true;
+
+    /* ⛔ THE ROW VERDICT TRAVELS WITH THE ROW, and only where the row has no
+       guide — it is the reason the door gives for an absence, and a row WITH a
+       guide has no absence to explain. A row that reaches a phone by delta is
+       not in that build's compiled DOOR_VERDICT, so without this every new
+       walkless row would fall back to "we don't have it yet", including the ones
+       the manual hunt proved the maker publishes nothing for. */
+    if (!r.guide && doorVerdict[r.id]) r.verdict = doorVerdict[r.id];
 
     /* ⛔ THE PLATE IS INDEPENDENT OF THE GUIDE, AND SO IS ITS FLAG. A row may have
        a guide and no plate, a plate and no guide, both, or neither — a plate comes
@@ -182,8 +237,8 @@ function build() {
   }
 
   /* ---------- version + changelog ---------- */
-  const prevIndex = readJsonIfPresent(path.join(ROOT, 'index.json'));
-  const prevLog = readJsonIfPresent(path.join(ROOT, 'changelog.json'));
+  const prevIndex = readJsonIfPresent(path.join(OUT, 'index.json'));
+  const prevLog = readJsonIfPresent(path.join(OUT, 'changelog.json'));
   const prevVersion = prevIndex && Number.isInteger(prevIndex.version) ? prevIndex.version : 0;
   /* ⛔ KEYED BY THE GUIDE, NOT BY THE ROW. A family guide is reached by several
      rows and owns none of them, so keying this on `id` would find no previous
@@ -245,8 +300,62 @@ function build() {
       : ((prevLog && prevLog.versions) || [entry]),
   };
 
+  /* ---------- the delta files ----------
+     ⛔ ONE FILE PER PUBLISHED VERSION, PRE-RENDERED, AND THAT SHAPE IS THE WHOLE
+     PRIVACY ARGUMENT. A client holding version v asks for delta/<v>.json and
+     gets everything it has not got. The URL therefore carries a number the BUILD
+     chose and nothing else — no query string, so what the owner typed into his
+     search box can never reach an access log. A search API would have put it
+     there the first time it was used, and no copy in the app could take it back.
+
+     ⛔ ROWS ARE WHOLE INDEX RECORDS, so a merge is replace-by-id rather than a
+     patch language nobody can audit.
+
+     ⛔ AND EVERY VERSION IS REGENERATED ON EVERY PUBLISH. A delta written once
+     and left stops being true the next time a guide changes, and the client
+     holding that version has no way to know. */
+  const allVersions = [...new Set(
+    (changelog.versions || []).map(e => e.version).concat([version]))]
+    .filter(v => Number.isInteger(v) && v >= 1 && v <= version)
+    .sort((a, b) => a - b);
+
+  const rowById = new Map(rows.map(r => [r.id, r]));
+  const deltas = allVersions.map(v => {
+    const ids = new Set();
+    const gone = new Set();
+    (changelog.versions || []).forEach(e => {
+      if (e.version <= v) return;
+      (e.added || []).forEach(id => ids.add(id));
+      (e.changed || []).forEach(id => ids.add(id));
+      (e.removed || []).forEach(id => gone.add(id));
+      (e.platesAdded || []).forEach(id => ids.add(id));
+    });
+    /* ⛔ THE CHANGELOG IS KEYED BY GUIDE, THE INDEX BY ROW, and a family guide is
+       reached by many rows and owns none of them. So a guide id is expanded to
+       every row that reaches it — otherwise a client holding an old version
+       would be told about a guide with no row to attach it to. */
+    const out = [];
+    const seenRow = new Set();
+    rows.forEach(r => {
+      if (seenRow.has(r.id)) return;
+      if (ids.has(r.id) || (r.guideId && ids.has(r.guideId))) { seenRow.add(r.id); out.push(r); }
+    });
+    return {
+      version: v,
+      bytes: Buffer.from(j({
+        _doc: 'Everything a client holding version ' + v + ' has not got. Rows are whole ' +
+              'index records: merge by id, replacing any row already held.',
+        from: v,
+        to: version,
+        rows: out,
+        removed: [...gone].filter(id => !rowById.has(id)),
+      }), 'utf8'),
+    };
+  });
+
   /* ---------- the byte payload the guards judge ---------- */
   const files = guides.map(g => ({ path: 'guides/' + g.row + '.json', bytes: g.bytes }));
+  deltas.forEach(d => files.push({ path: 'delta/' + d.version + '.json', bytes: d.bytes }));
   plates.forEach(p2 => files.push({ path: 'plates/' + p2.row + '.json', bytes: p2.bytes }));
   plateImages.forEach(i => files.push(i));
   files.push({ path: 'index.json', bytes: Buffer.from(j(index), 'utf8') });
@@ -255,7 +364,8 @@ function build() {
   return { headCommit, headSubject: app.headSubject(), holds, guides, rows, index, changelog,
            files, added, changed, removed, contentChanged, version, prevVersion,
            refusedHeld, quarantined, unknownFields, specCount: specPaths.length,
-           plates, plateImages, platesAdded, platesRemoved };
+           plates, plateImages, platesAdded, platesRemoved,
+           deltas, boxCensus, notSpliced, doorVerdictRows: Object.keys(doorVerdict).length };
 }
 
 function localDate() {
@@ -299,6 +409,7 @@ function operatorNames() {
 function main() {
   log('FIELDSTRIP LIBRARY — publish');
   log('  app repo   : ' + app.APP);
+  log('  writing to : ' + OUT + (OUT === ROOT ? '' : '   (--out)'));
 
   const payload = build();
   log('  app HEAD   : ' + payload.headCommit);
@@ -312,6 +423,17 @@ function main() {
       '   documents held: ' + payload.holds.heldDocs.size);
   log('  guides built           : ' + payload.guides.length);
   log('  catalog rows           : ' + payload.rows.length);
+  log('  quotation verdicts     : ' + payload.boxCensus.steps + ' step(s) across ' +
+      payload.boxCensus.guides + ' guide(s) in the app block — ' +
+      JSON.stringify(payload.boxCensus.verdicts) + ', branch ' + payload.boxCensus.branch);
+  log('  door verdicts read     : ' + payload.doorVerdictRows + ' row(s)');
+  log('  rows carrying a verdict: ' + payload.rows.filter(r => r.verdict).length +
+      ' (walkless rows only — a row with a guide has no absence to explain)');
+  if (payload.notSpliced.length) {
+    log('  ⚠ specs the app has NOT spliced, so NOT published: ' + payload.notSpliced.length +
+        ' — ' + payload.notSpliced.slice(0, 8).join(', '));
+    log('    Run scratchpad/clean-rebuild/splice_authored.js --apply, then republish.');
+  }
   log('  plates                 : ' + payload.plates.length + ' row record(s), ' +
       payload.plateImages.length + ' image(s)');
 
@@ -361,6 +483,7 @@ function main() {
   log('  added / changed / removed : ' + payload.added.length + ' / ' +
       payload.changed.length + ' / ' + payload.removed.length);
   log('  payload size  : ' + (total / 1024).toFixed(1) + ' KiB across ' + payload.files.length + ' files');
+  log('  delta files   : ' + payload.deltas.length + ' (one per published version, all regenerated)');
 
   if (DRY) { log('\n  --dry-run: nothing written.'); return 0; }
 
@@ -377,12 +500,40 @@ function main() {
   } else {
     fs.mkdirSync(GUIDES_DIR, { recursive: true });
   }
+  /* ⛔ delta/ IS REBUILT LIKE guides/, for the same reason. A delta file for a
+     version that no longer exists would be served forever, and a client that
+     asked for it would merge a set of rows nothing regenerates. */
+  const deltaDir = path.join(OUT, 'delta');
+  if (fs.existsSync(deltaDir)) {
+    fs.readdirSync(deltaDir).filter(f => f.endsWith('.json'))
+      .forEach(f => fs.unlinkSync(path.join(deltaDir, f)));
+  }
+
   payload.files.forEach(f => {
-    const dest = path.join(ROOT, f.path.replace(/\//g, path.sep));
+    const dest = path.join(OUT, f.path.replace(/\//g, path.sep));
     fs.mkdirSync(path.dirname(dest), { recursive: true });
     fs.writeFileSync(dest, f.bytes);
   });
-  log('\n  ✅ written.');
+
+  /* ⛔ THE ROUND TRIP IS PROVED, NOT ASSERTED. Every file is read back off the
+     disk and compared byte for byte with what the guards judged in memory. "The
+     shape is right" is a claim about a format; reading one back identical is a
+     measurement — and it is the only thing that catches a write that silently
+     truncated, re-encoded, or landed somewhere else. */
+  let checked = 0;
+  for (const f of payload.files) {
+    const dest = path.join(OUT, f.path.replace(/\//g, path.sep));
+    const onDisk = fs.readFileSync(dest);
+    if (!onDisk.equals(f.bytes)) {
+      throw new Error('⛔ ROUND TRIP FAILED for ' + f.path + ' — ' + onDisk.length +
+                      ' bytes on disk vs ' + f.bytes.length + ' built');
+    }
+    checked++;
+  }
+  if (!checked) throw new Error('⛔ round trip checked zero files — a zero never wears a green');
+
+  log('\n  round trip    : ' + checked + ' file(s) read back byte-identical');
+  log('  ✅ written.');
   return 0;
 }
 

@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "This book is for the SHIELD and SHIELD M2.0 — not the EZ or the Plus",
    "action": "Confirm your pistol is an M&P SHIELD or SHIELD M2.0. Smith & Wesson publishes separate manuals for the SHIELD EZ and the SHIELD Plus pistols, and this one is not written for either.",
+   "box": "none",
    "prose": "The three are mechanically different where it counts at a bench: the EZ has a grip safety that fouls the slide if you hold the frame wrong, and the Plus uses different magazines. The M2.0 and the original Shield do share this book and this procedure, so either of those is the right gun for these steps.",
    "quote": "THERE ARE SEPARATE MANUALS FOR THE SHIELD® EZ® AND THE SHIELD® PLUS™ PISTOLS. ALL OF THESE ARE AVAILABLE FREE UPON REQUEST OR VIA DOWNLOAD FROM WWW.SMITH-WESSON.COM",
    "cite": "SAFETY & INSTRUCTION MANUAL FOR\nM&P SHIELD® & M&P SHIELD® M2.0™ — REV: M&P_SHIELD_ALL_013026 — Cover page, NOTE, p.1"
@@ -18,6 +19,7 @@
    "phase": "Clear",
    "title": "Read the cartridge designation marked on your Shield",
    "action": "Read the cartridge designation marked on your pistol and fire only that. This manual covers the M&P SHIELD and SHIELD M2.0 across several chamberings and states no caliber of its own anywhere — the marking on your firearm is the only thing that says what yours is. Note the serial number at the same time; Smith & Wesson asks owners to record it before shipping a firearm in for service.",
+   "box": "none",
    "prose": "This matters more on the Shield than on most pistols because 9mm, 40 S&W and 45 versions share a near-identical frame and slide profile, and the magazine strip procedures in this book differ between them. Get the marking wrong and you will also pick the wrong magazine procedure later in this guide.",
    "quote": "Locate the cartridge designation marked on the",
    "cite": "SAFETY & INSTRUCTION MANUAL FOR\nM&P SHIELD® & M&P SHIELD® M2.0™ — REV: M&P_SHIELD_ALL_013026 — Ammunition, p.9",
@@ -28,6 +30,7 @@
    "phase": "Clear",
    "title": "Magazine out, slide back, locked open on the slide stop",
    "action": "Point the pistol in a safe direction with your finger off the trigger, press the magazine release and remove the magazine. Starting with the slide closed, grasp its serrated sides from the rear, hold the pistol upright and draw the slide briskly fully rearward to extract anything in the chamber. Pull it fully to the rear, press upward on the slide stop and let the slide move slightly forward so it locks open.",
+   "box": "none",
    "prose": "Magazine first so nothing can feed behind the round you are extracting. The lock-open is press-then-ease-forward — pressing the stop up into a still-moving slide is what rounds off the notch in the slide and the stop's shelf.",
    "quote": "Pull the slide fully to the rear, press upward on the slide stop while letting the slide move slightly forward thereby locking the slide open (FIGURE 50).",
    "cite": "SAFETY & INSTRUCTION MANUAL FOR\nM&P SHIELD® & M&P SHIELD® M2.0™ — REV: M&P_SHIELD_ALL_013026 — Field Stripping / Disassembly, p.31"
@@ -36,6 +39,7 @@
    "phase": "Clear",
    "title": "Chamber clear before any tool goes into the frame",
    "action": "With the slide locked open, make certain the chamber is clear, and look down through the magazine well as well.",
+   "box": "none",
    "prose": "This is the check that has to be right, because the next step puts a screwdriver through the ejection port and pushes a lever down into the magazine well. A round that failed to eject can be lying in the frame under the feed ramp where a chamber-only glance will not see it.",
    "quote": "Make certain that the chamber is clear (FIGURE 51).",
    "cite": "SAFETY & INSTRUCTION MANUAL FOR\nM&P SHIELD® & M&P SHIELD® M2.0™ — REV: M&P_SHIELD_ALL_013026 — Field Stripping / Disassembly, p.31"
@@ -44,6 +48,7 @@
    "phase": "Clear",
    "title": "Nothing marked +P+, and never a ported barrel in a non-ported slide",
    "action": "Check the headstamps: +P+ ammunition must not be used in Smith & Wesson firearms. And if your Shield is one of the ported models, keep barrel and slide together as a set — a ported barrel must never be installed in a pistol with a non-ported slide.",
+   "box": "limit",
    "prose": "The +P+ objection is that the marking names no defined pressure limit; it is a loader's own designation and two boxes wearing it can be far apart. The porting rule matters at the bench specifically, because barrel and slide are separated on every strip and two similar Shields on the same table get their parts mixed — ports venting into a solid slide have nowhere to send hot gas but back through the gun.",
    "caution": "\"Plus-P-Plus\" (+P+) ammunition must not be used in Smith & Wesson firearms.",
    "quote": "NEVER INSTALL A PORTED BARREL IN A PISTOL WITH A NON-PORTED SLIDE. FAILURE TO FOLLOW THIS WARNING WILL CAUSE SERIOUS PERSONAL INJURY AND DAMAGE TO PROPERTY.",
@@ -53,6 +58,7 @@
    "phase": "Clear",
    "title": "Use the magazine that came with this pistol",
    "action": "Keep this pistol's own magazines with it and do not interchange magazines from one model pistol to another model pistol.",
+   "box": "limit",
    "prose": "The Shield is sold in 9mm, 40 and 45 on near-identical frames, and this manual prints two different magazine strip procedures because the magazines are genuinely different parts. On a bench with more than one Shield present, a wrong magazine will seat and latch and only reveal itself when it fails to feed.",
    "quote": "Do not interchange magazines from one model pistol to another model pistol.",
    "cite": "SAFETY & INSTRUCTION MANUAL FOR\nM&P SHIELD® & M&P SHIELD® M2.0™ — REV: M&P_SHIELD_ALL_013026 — Loading, p.22"
@@ -61,6 +67,7 @@
    "phase": "Strip",
    "title": "Push the yellow sear deactivation lever down into the magazine well",
    "action": "With the slide locked open, look down through the open ejection port and find the small yellowish sear deactivation lever toward the rear of the pistol. Use a small screwdriver or similar device to push it gently down — rotating it forward — into the magazine well. Do not force the lever beyond that position.",
+   "box": "none",
    "prose": "Nothing else will let the takedown lever turn, and forcing the takedown lever against a raised sear lever damages both. This is also why the chamber check two steps ago is not a formality: the tool goes in through the ejection port and the lever ends up in the magazine well.",
    "caution": "Do not force lever down beyond this position.",
    "quote": "Use a small screwdriver (or a similar device) to gently push the yellow(ish) sear deactivation lever down (rotate forward) into the magazine well (FIGURE 52 and FIGURE 53).",
@@ -70,6 +77,7 @@
    "phase": "Strip",
    "title": "Takedown lever 90 degrees clockwise, slide forward off the frame",
    "action": "Rotate the takedown lever 90 degrees clockwise. Then pull the slide slightly rearward to disengage the slide stop and remove the slide forward off the frame, keeping control of the recoil spring and guide rod assembly.",
+   "box": "none",
    "prose": "Clockwise, not down past six o'clock — that is the EZ and the Bodyguard family, not this one. Take the slide off in one controlled movement: the recoil spring is compressed the whole way and the sear lever is still lowered, so this is not a moment to let go and reach for something.",
    "quote": "Pull the slide slightly rearward to disengage the slide stop and then remove the slide forward from the frame while being careful to retain the recoil spring and guide rod assembly (FIGURE 55).",
    "cite": "SAFETY & INSTRUCTION MANUAL FOR\nM&P SHIELD® & M&P SHIELD® M2.0™ — REV: M&P_SHIELD_ALL_013026 — Field Stripping / Disassembly, p.32"
@@ -78,6 +86,7 @@
    "phase": "Strip",
    "title": "Recoil spring out of the barrel lug groove, then the barrel",
    "action": "Take the recoil spring assembly out from below the barrel: compress the rear of the spring forward slightly, lift it up from the rear out of the groove in the barrel lug, and lift it clear of the slide. Then remove the barrel from the bottom of the slide by grasping the lug and lifting up and back.",
+   "box": "none",
    "prose": "The spring's rear end sits in a groove in the lug rather than merely bearing against it, so compressing forward is what releases it — pulling straight up bends the assembly against the lug. The barrel then comes up and back; straight up jams the lug in the slide's locking recess.",
    "quote": "Remove the barrel from the bottom of the slide (FIGURE 57) by grasping the barrel lug and lifting it up and back.",
    "cite": "SAFETY & INSTRUCTION MANUAL FOR\nM&P SHIELD® & M&P SHIELD® M2.0™ — REV: M&P_SHIELD_ALL_013026 — Field Stripping / Disassembly, p.32"
@@ -86,6 +95,7 @@
    "phase": "Strip",
    "title": "Field strip complete",
    "action": "Grip and frame assembly, slide assembly, barrel, recoil spring assembly and magazine — that is the pistol field stripped, and as far as Smith & Wesson takes it. Leave the sear deactivation lever down until the slide goes back on. Deep Clean covers the magazine, using the 9 and 40 procedure for this pistol.",
+   "box": "limit",
    "prose": "The sear lever has to be down again before the slide will reinstall, so returning it now only means doing the job twice.",
    "quote": "NEVER MODIFY OR SWAP OUT ANY OF THE COMPONENTS OF YOUR SMITH & WESSON® FIREARM, UNLESS SPECIFICALLY INSTRUCTED TO DO SO IN THIS MANUAL OR IN AN OFFICIAL SMITH & WESSON ACCESSORY PARTS MANUAL OR INSTRUCTION SHEET.",
    "cite": "SAFETY & INSTRUCTION MANUAL FOR\nM&P SHIELD® & M&P SHIELD® M2.0™ — REV: M&P_SHIELD_ALL_013026 — Field Stripping / Disassembly, WARNING, p.31",
@@ -97,6 +107,7 @@
    "phase": "Deep Clean",
    "title": "Use the 9 and 40 magazine procedure, not the 45 one",
    "action": "This manual prints two magazine procedures — one headed for the M&P45 SHIELD and one for the M&P9 and 40 SHIELD. Yours is the 9 and 40 procedure on page 40. With the magazine out and empty, use a small diameter tool through the hole in the floor plate to depress the floor plate catch, then slide the floor plate forward off the tube while holding the catch down against spring pressure.",
+   "box": "limit",
    "prose": "The two procedures sit two pages apart and are not the same: the 45 version needs its seven-round catch bottomed out until its guides are visible before the plate will move, and that does not apply to your magazine. Forward is the only direction the plate leaves the tube, and your thumb has to take over from the tool as it travels — the moment the plate stops covering the catch, spring pressure is pushing everything out of the bottom.",
    "quote": "MAGAZINE SPRING IS UNDER PRESSURE. CONTROL THE SPRING AND FOLLOWER SO THAT THEY DO NOT FLY OUT AND CAUSE INJURY.",
    "cite": "SAFETY & INSTRUCTION MANUAL FOR\nM&P SHIELD® & M&P SHIELD® M2.0™ — REV: M&P_SHIELD_ALL_013026 — Magazine - M&P9 & 40 SHIELD, WARNING, p.40",
@@ -107,6 +118,7 @@
    "phase": "Deep Clean",
    "title": "Catch, spring and follower out of the bottom",
    "action": "Ease the floor plate catch out, then turn the tube right side up and remove the spring and follower through the bottom of the tube. Note the front-to-back orientation of each part as it comes out.",
+   "box": "none",
    "prose": "They go back front to back in exactly the orientation they came out, and a follower or spring reversed in a single-stack magazine gives nose-dive feeding rather than an obvious failure. Clean the inside of the tube while it is open — residue in a carry magazine that lives loaded is the usual reason the last round feeds sluggishly.",
    "quote": "Turn the tube right side up and remove spring and follower through bottom of the tube.",
    "cite": "SAFETY & INSTRUCTION MANUAL FOR\nM&P SHIELD® & M&P SHIELD® M2.0™ — REV: M&P_SHIELD_ALL_013026 — Magazine - M&P9 & 40 SHIELD, Magazine Disassembly step 4, p.40"

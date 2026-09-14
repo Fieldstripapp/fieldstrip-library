@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Confirm every chamber is empty",
    "action": "Press the cylinder latch, swing the cylinder out, and check every chamber by eye and by finger.",
+   "box": "none",
    "prose": "This is the first line of the manual’s own disassembly section, in capitals, and it is worth the two seconds.",
    "quote": "BE CERTAIN THE REVOLVER IS UNLOADED BEFORE DISASSEMBLY.",
    "cite": "Ruger Redhawk Instruction Manual — PM050 — Disassembly, step 1, p.21"
@@ -18,6 +19,7 @@
    "phase": "Strip",
    "title": "Swing the cylinder out — that is all cleaning needs",
    "action": "For routine cleaning nothing comes off this revolver. Swing the cylinder out and clean it where it stands.",
+   "box": "none",
    "prose": "Ruger’s cleaning instructions begin from the cylinder being open, not from a stripped gun.",
    "quote": "To clean the revolver after firing, swing the cylinder out and clean the barrel from the muzzle",
    "cite": "Ruger Redhawk Instruction Manual — PM050 — Care and Cleaning, p.23",
@@ -29,6 +31,7 @@
    "phase": "Deep Clean",
    "title": "Grip panels off",
    "action": "With a properly fitting screwdriver remove the grip screw and take the grip panels off the frame.",
+   "box": "none",
    "prose": "On 4-inch models the Hogue Bantam grip needs the supplied wedge and the grip maker’s own instructions, not this procedure.",
    "quote": "Using a properly fitting screwdriver, remove the grip screw and remove the grip panels from the frame.",
    "cite": "Ruger Redhawk Instruction Manual — PM050 — Disassembly, step 2, p.21"
@@ -37,6 +40,7 @@
    "phase": "Deep Clean",
    "title": "Pin the mainspring strut",
    "action": "Cock the hammer and insert the disassembly pin about half its length into the hole at the rear of the mainspring strut.",
+   "box": "none",
    "prose": "On this revolver the pin lives in the grip panel locator, so it is already in the gun.",
    "quote": "The disassembly pin is carried in the hole in the grip panel locator",
    "cite": "Ruger Redhawk Instruction Manual — PM050 — Disassembly, step 3, p.21"
@@ -45,6 +49,7 @@
    "phase": "Deep Clean",
    "title": "Hammer out — slowly",
    "action": "Thumb on the hammer spur, squeeze the trigger and keep pressure on the hammer so it goes fully forward slowly, remove the hammer pivot assembly, then with the muzzle down lift the hammer up and out of the frame.",
+   "box": "none",
    "prose": "The hammer link hook may need the mainspring lever moved forward to let go; a jeweller’s screwdriver tip will free it if careful manipulation will not.",
    "quote": "With the muzzle pointing down, slowly lift the hammer upward and out of the frame",
    "cite": "Ruger Redhawk Instruction Manual — PM050 — Disassembly, step 4, p.21"
@@ -53,6 +58,7 @@
    "phase": "Deep Clean",
    "title": "Mainspring lever out",
    "action": "Push the lever pivot pin out with a small punch or nail, then draw the mainspring lever — mainspring and strut still together — out of the frame toward the rear, twisting slightly as it comes.",
+   "box": "none",
    "prose": "This is the Redhawk-specific step. The GP100 has no lever pivot pin.",
    "caution": "Do not remove disassembly pin at this point! Doing so will permit the mainspring to fly off its strut with great force and may cause injury.",
    "quote": "Push the lever pivot pin out with a small punch or nail and remove the mainspring lever from the frame with mainspring and strut intact.",
@@ -64,6 +70,7 @@
    "phase": "Deep Clean",
    "title": "Stop where Ruger stops",
    "action": "Go no further than the manual documents. Beyond it is factory service personnel only.",
+   "box": "limit",
    "prose": "The internal mechanism is designed to be lubricated without disassembly in the first place.",
    "quote": "Any further disassembly should only be undertaken by factory service personnel.",
    "cite": "Ruger Redhawk Instruction Manual — PM050 — Disassembly, p.21"

@@ -1,0 +1,103 @@
+{
+ "row": "silencercentralbanishspeedk",
+ "make": "Silencer Central",
+ "model": "BANISH Speed K",
+ "sourcedFrom": "BANISH SPEED K OWNER'S MANUAL — ABSENT — no revision or edition statement is printed in the document; the cached file is the 2025 posting. (ABSENT — no copyright line printed.)",
+ "sourceSha256": "ada485dc53b4501e3ea11f3c0d5eeec0b570b5beded993612b5b8ab3da1470e0",
+ "cleanIntro": "This one does not come apart, and that is a design decision rather than a warning: it is printed as one piece and the baffles are part of the print. So the whole of its maintenance is a soak, a brush where a brush can reach, and the mount — which is the only thing on it that unthreads. Every 50 to 100 rounds, by the maker's number.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Host unloaded, can off, and let it cool",
+   "action": "Action open and looked into before anything comes off the muzzle, and then give it time — a short can on a short barrel gets hotter faster than anything else you own.",
+   "box": "none",
+   "aside": "When removing the silencer, use extreme caution as it may be hot to the touch after firing.",
+   "quote": "To clean make sure the firearm is unloaded and remove from host firearm.",
+   "cite": "BANISH SPEED K OWNER'S MANUAL — ABSENT — no revision or edition statement is printed in the document; the cached file is the 2025 posting. — CLEANING, printed p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ The mount is the only thing that comes off",
+   "action": "Unthread the mount interface and set it aside. ⛔ That is the entire strip. The tube and the baffles are one printed piece, and no amount of soaking will change that — anything that looks like a seam is not one.",
+   "box": "limit",
+   "aside": "It is recommended that the silencer be cleaned every 50 - 100 rounds fired.",
+   "quote": "The BANISH Speed K is not user-serviceable, it is a solid 3D printed construction and the baffles cannot be removed.",
+   "cite": "BANISH SPEED K OWNER'S MANUAL — ABSENT — no revision or edition statement is printed in the document; the cached file is the 2025 posting. — CLEANING, printed p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Soak it whole, a full day",
+   "action": "Either put the can into a dish-soap bath or plug the muzzle exit and fill it. Twenty-four hours either way. ⛔ Read the label first — a solution that lifts Cerakote will take the finish off a can that cannot be refinished by taking it apart.",
+   "box": "none",
+   "aside": "Ensure not to use solutions that will strip the Cerakote coating from the silencer.",
+   "quote": "Soak the entire can in a dish soap solution OR seal the muzzle exit hole and fill the silencer with any cleaning solution and let it sit for 24hrs in both scenarios.",
+   "cite": "BANISH SPEED K OWNER'S MANUAL — ABSENT — no revision or edition statement is printed in the document; the cached file is the 2025 posting. — CLEANING, printed p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Brass brush where the brush reaches",
+   "action": "The blast chamber and the accuracy baffle are what you can get at, and they are where the fouling is worst. Brass, not steel, and take your time — this is the only mechanical cleaning this can will ever get.",
+   "box": "none",
+   "quote": "Once soaked, take a brass brush, and clean the blast chamber and accuracy baffle.",
+   "cite": "BANISH SPEED K OWNER'S MANUAL — ABSENT — no revision or edition statement is printed in the document; the cached file is the 2025 posting. — CLEANING, printed p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Threads, both sets — and the vent ports",
+   "action": "The mount has internal AND external threads and both foul. Then run a rod down the four vent ports in the muzzle cap; carbon packs into those and nothing else will move it.",
+   "box": "none",
+   "quote": "Ensure to remove the mount and thoroughly clean the threads of any debris or buildup.",
+   "cite": "BANISH SPEED K OWNER'S MANUAL — ABSENT — no revision or edition statement is printed in the document; the cached file is the 2025 posting. — CLEANING, printed p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry, remount — and let the first rounds finish the job",
+   "action": "Let it dry properly before the mount goes back. The maker's last instruction is the one people skip: a short string through it blows out what the brush loosened and could not reach.",
+   "box": "none",
+   "aside": "Shoot 10 - 15 rounds through the silencer. The high pressure will shoot out any loose debris and buildup that was loosened during cleaning.",
+   "quote": "Once clean, allow the silencer to dry. Re-install the mount and you are ready to shoot again.",
+   "cite": "BANISH SPEED K OWNER'S MANUAL — ABSENT — no revision or edition statement is printed in the document; the cached file is the 2025 posting. — CLEANING, printed p.7"
+  }
+ ],
+ "deepAbsentReason": "⛔ SEALED, ON THE MAKER'S OWN SENTENCE, WHICH THE STRIP STEP QUOTES IN FULL. There is no deeper procedure because there is nothing deeper to have: the only removable part is the mount interface, and the field strip already covers it. A baffle-stack teardown written for this can would be borrowed from a different product — the exact substitution this project has already been bitten by — and it would tell an owner to open something that does not open.",
+ "cleaning": [
+  {
+   "name": "THE WHOLE CAN",
+   "tasks": [
+    "Soaked 24 hours — dish-soap bath, or muzzle plugged and filled",
+    "⛔ Nothing that strips Cerakote",
+    "Blast chamber and accuracy baffle brushed with brass",
+    "Dried thoroughly before the mount goes back"
+   ]
+  },
+  {
+   "name": "MOUNT AND THREADS",
+   "tasks": [
+    "Mount removed — the only part that comes off",
+    "Silencer threads, and the mount's internal AND external threads, cleaned",
+    "⛔ No gap between barrel shoulder and thread mount, ever"
+   ]
+  },
+  {
+   "name": "VENT PORTS",
+   "tasks": [
+    "A rod down each of the four muzzle-cap vent ports to push carbon out"
+   ]
+  },
+  {
+   "name": "⛔ LEAVE ALONE",
+   "tasks": [
+    "The baffles are part of the printed body and do not come out",
+    "Solid lead and plated lead are not recommended through this can"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Can fully dry before anything is threaded back on.",
+  "Mount interface back onto the can, threads clean, seated properly.",
+  "Onto the host only with the action open and clear — hand tight, seated against the shoulder, no gap.",
+  "Bore checked clear before a round goes near it.",
+  "First 10–15 rounds treated as part of the cleaning, not as the start of the next session."
+ ],
+ "fncheck": "Dry, mount back on hand tight, bore clear when you look through it. On the host it screws down until it seats against the shoulder with NO visible gap. Then the maker's own last step: 10 to 15 rounds, which is what actually clears the debris the soak loosened."
+}

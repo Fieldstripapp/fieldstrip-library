@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Decide which SP-01 you have before you read another line",
    "action": "Look at the left side of the frame above the grip. If the lever sits up and down with a red dot underneath, it is a manual safety. If it only springs back up after being pushed down, it is a decocker. CZ's versions table lists CZ 75 SP-01 as \"yes / no\" for BOTH manual safety and decocking — the SP-01 is built either way.",
+   "box": "none",
    "prose": "Everything about how this pistol is carried and made safe follows from that lever, and it is the only row in CZ's table with a slash in both columns. The SP-01 PHANTOM and SP-01 TACTICAL are listed as decocker guns with no manual safety; the plain SP-01 can be either. A manual-safety SP-01 also has one behaviour a decocker gun does not: the safety locks the slide, so it must be off before the pistol can be stripped at all.",
    "caution": "CZ's versions table on p.20 lists thirteen designations — CZ 75 B, 75 B SA, 75 BD, 75 POLICE, 75 DAO, 75 COMPACT, 75 D COMPACT, 75 SEMICOMPACT, 75 P-01, 75 SP-01, 75 SP-01 PHANTOM, 75 SP-01 TACTICAL and CZ MODEL 75. Find your own row before applying any operating section.",
    "quote": "The CZ 75 pistol is a semi-automatic handgun with locked breech. It is produced in several versions.",
@@ -19,6 +20,7 @@
    "phase": "Clear",
    "title": "The safety section is written to exclude the decocker guns",
    "action": "If your SP-01 has a manual safety, use CZ's Engaging the Safety Mode procedure: with the hammer cocked, push the safety up until the red warning dot is covered. If your SP-01 has a decocker, that section does not apply to it at all.",
+   "box": "none",
    "prose": "CZ opens the section with the exclusion in as many words, and it matters because the two mechanisms behave in opposite ways. A manual safety on a cocked CZ 75 blocks the trigger AND the slide, so cocked-and-locked is a carry state; the safety cannot be applied at all with the hammer down, by design, so that the pistol is never quietly made un-ready. Nothing in that paragraph describes a decocker SP-01, whose lever does not stay down and never locks anything.",
    "quote": "The version equipped with a decocking device is not covered in this section!",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Operating Instructions — Engaging the Safety Mode, opening line, p.22"
@@ -27,6 +29,7 @@
    "phase": "Clear",
    "title": "And the decocking section excludes the manual-safety guns",
    "action": "If your SP-01 has a decocker, point the pistol in a safe direction and thumb the decocking lever down; the hammer lowers to the safety notch on its own with no need to touch the trigger. If your SP-01 has a manual safety, that section does not apply to it.",
+   "box": "none",
    "prose": "The mirror-image exclusion is printed at the head of the decocking section. On a decocker SP-01 the hammer comes down mechanically and the pistol is then safe to handle and still ready to fire double action; on a manual-safety SP-01 the only way down is thumb on the hammer with the trigger pulled, which is a different and more dangerous movement. Do not apply one section's method to the other's pistol — a thumb slipping off a cocked hammer over a chambered round is the failure this pair of sentences exists to prevent.",
    "quote": "The version equipped with a manual safety is not covered in this section!",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Operating Instructions — Decocking, opening line, p.23"
@@ -35,6 +38,7 @@
    "phase": "Clear",
    "title": "Strip the light off the rail, then the magazine",
    "action": "Take any light, laser or accessory off the frame rail first — the SP-01 series carries attachment rails at the front of the frame and anything on them will foul the slide as it comes off. Then point the pistol in a safe direction, depress the magazine catch and draw the magazine out; it rises about 5 to 10 mm and is then pulled clear.",
+   "box": "none",
    "prose": "The rail is one of the two things that distinguish an SP-01 from a plain 75 B, and a mounted light sits directly in the path the slide travels when it leaves the frame. The magazine does not drop free on this pistol — it proud-seats and waits — so an unattended catch does not mean an empty well. CZ makes the empty well a hard precondition of disassembly, so get the magazine out and put it where you can see it.",
    "quote": "Version P-01 and all versions of SP-01 series are provided with attachment rails located at the front portion of the frame designed for special accessories mounting",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Pistol Description and Terminology — characteristic features, p.19",
@@ -45,6 +49,7 @@
    "phase": "Clear",
    "title": "Safety off if fitted, then look into the chamber",
    "action": "If this SP-01 has a manual safety, put it to Safety-Off so the slide will move. Draw the slide fully back, look into the chamber and confirm it is empty, then let the slide run forward.",
+   "box": "none",
    "prose": "On a manual-safety CZ 75 the safety locks the slide as well as the trigger, so a slide that will not budge is almost always a safety still standing up rather than a fault. A decocker SP-01 has nothing to switch here and the slide moves freely from the start. Either way the chamber gets looked at with your eyes; the SP-01's ejection port is long and there is no excuse for inferring the chamber state from the last thing you remember doing.",
    "quote": "2. If the pistol is equipped with a manual safety shift it to the „Safety-Off“ position in order that the slide can be manipulated.",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 2, p.24",
@@ -55,6 +60,7 @@
    "phase": "Clear",
    "title": "Tritium sights as standard, and a screw the SP-01 does not have",
    "action": "Treat the sights carefully during cleaning. The SP-01 and SP-01 TACTICAL leave the factory with tritium sights as standard, and the pistol is zeroed at 25 m; windage is corrected by drifting the rear sight in its dovetail and securing it by an indentation.",
+   "box": "none",
    "prose": "Tritium inserts are glass capsules set in the sight body and solvent has no business near them — wipe, do not soak, and never scrub the face of a night sight with a brass brush. The rear sight on a CZ 75 is a drift fit staked in place, so a brush dragged along the dovetail can shift a 25 m zero you will only discover at the range. Do not look for a rear sight retaining screw on an SP-01 either: CZ prints that instruction against the P-01 version, and hunting for a fastener that is not there is how a staked sight gets levered.",
    "aside": "Versions SP-01 and SP-01 TACTICAL are provided with tritium sights as standard, per the characteristic-features list on p.19.",
    "quote": "CZ 75 P-01 version: Before starting with rear sight windage adjustments it is necessary to loosen the screw securing the rear sight against falling-out.",
@@ -64,6 +70,7 @@
    "phase": "Strip",
    "title": "Hammer down onto the half-cock notch",
    "action": "Retract the hammer slightly and release it so it catches on the half-cock (safety) notch. Not fully cocked, not fully down.",
+   "box": "none",
    "prose": "Half-cock puts the hammer clear of the firing pin and out of the slide's way, which is the whole reason CZ calls for it before the take-down steps. Fully down and the slide has to push the hammer back as it moves; fully cocked and the mainspring is working against you at the exact moment you need a steady hand on the slide. You will feel a small distinct catch as it seats, and that catch is the confirmation. On a decocker SP-01 the decocking lever is a convenient way to reach this position without touching the trigger.",
    "quote": "In this state the handling which follows will be easier.",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 4 (hammer to half-cock), p.24"
@@ -72,6 +79,7 @@
    "phase": "Strip",
    "title": "Bring the two vertical lines into register",
    "action": "Put your left thumb through the trigger guard and grip the top of the front of the slide with the other fingers. Push the slide slightly back until the two vertical scribed lines — one on the rear of the frame, one on the slide — are exactly in line.",
+   "box": "none",
    "prose": "Those two short scribes are the take-down index for the whole CZ 75 pattern. At any other position the slide stop's shaft is trapped inside the barrel's lower lug and no amount of hitting will move it. The thumb through the trigger guard is a working grip, not a flourish: it lets one hand hold the slide at that exact station while the other hand deals with the stop. The SP-01's slide is heavier than a 75 B's, so set the alignment deliberately and hold it.",
    "quote": "5. Put your left thumb through the trigger guard and with the other fingers grasp the top of the front part of the slide firmly (Fig. 8). Push the slide slightly back until the two vertical lines on the rear part of the frame and slide are in line with each other.",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 5, p.24"
@@ -80,6 +88,7 @@
    "phase": "Strip",
    "title": "Slide stop tapped from the right, pulled from the left",
    "action": "Holding the lines in register, tap the slide stop's protruding shaft on the RIGHT side of the pistol — the magazine base is CZ's own suggested drift — then withdraw the slide stop from the LEFT side.",
+   "box": "none",
    "prose": "It only goes one way, and it only goes at all with the lines square. If it does not start moving under a tap, the slide has drifted off the index — reset it rather than hitting harder, because the shaft bears directly on the barrel lug and a hard blow peens the lug. Keep a firm hold on the slide throughout; the instant the stop clears, the recoil spring is free to send the slide forward. Using the magazine base rather than a steel punch keeps the stop's head unmarked.",
    "quote": "6. KEEPING THE LINES ALIGNED push (tap) the slide stop from the right hand side of the weapon, i.e. using the magazine base (Fig. 9). Remove the slide stop from the left.",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 6, p.24"
@@ -88,6 +97,7 @@
    "phase": "Strip",
    "title": "Slide and barrel forward off the frame, then spring and barrel out",
    "action": "Draw the slide with the barrel still inside it forward off the frame. Invert the slide, lift out the recoil spring and its guide easing the tension off as it comes, then lift the barrel free.",
+   "box": "none",
    "prose": "The CZ 75 runs its slide INSIDE the frame rails, so the slide leaves a channel rather than lifting off ledges — keep it square and let it travel straight forward. The recoil spring rides a separate guide rod and is not captive; it is compressed in there and will jump if one end is released. With the spring out the barrel drops back and lifts clear. Look at the barrel's lower lug while it is in your hand — that is the surface the slide stop shaft bears on, and the SP-01's extra slide mass works it harder.",
    "quote": "8. Remove the recoil spring and guide and finally the barrel.",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, step 8, p.24"
@@ -96,6 +106,7 @@
    "phase": "Strip",
    "title": "Field strip complete",
    "action": "Frame, slide, barrel, recoil spring and guide, plus the slide stop, with the magazine and any rail accessory set aside. That is the whole field strip CZ publishes for the SP-01 — the firing pin, extractor, hammer, sear and the safety or decocker itself all stay in the pistol.",
+   "box": "limit",
    "prose": "Those pieces reach everything the cleaning section asks for: bore and chamber from the breech end, the breech face and extractor, the inside of the slide and the frame's internal rail channels, and the outside of the barrel including the lower lug. CZ closes the strip by saying routine maintenance needs nothing more, and names only two further items after a heavy session — the firing pin and the magazine. Of those, only the magazine is yours; firing pin disassembly is stated as a gunsmith's job.",
    "quote": "No further disassembly is needed for routine maintenance. When a great number of cartridges has been fired, it is advisable to also disassemble the firing pin and magazine.",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Stripping for Cleaning, closing note, p.24",
@@ -107,6 +118,7 @@
    "phase": "Strip",
    "title": "Base lock in, base forward five millimetres",
    "action": "Push in the magazine base lock where it protrudes through the hole in the base — or, on the other construction, move the base lock into its disassembly position — then slide the base about 5 mm towards the FRONT of the magazine.",
+   "box": "limit",
    "prose": "Forward is the only direction that releases it; the guide rails open at the front and levering the base rearward marks them. Five millimetres clears the lock while the base is still captive on the rails, which is where you want it with a compressed double-column spring underneath. The SP-01's magazine is the long full-size body, so there is more spring in there than on a Compact and more reason to do this deliberately.",
    "quote": "To remove the magazine base, push on the base lock which sticks out through a hole in the base (in case the construction is different move the magazine base lock into disassembly position) and slide the base about 5 mm towards the front of the magazine.",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Magazine Disassembly, p.24"
@@ -115,6 +127,7 @@
    "phase": "Strip",
    "title": "Thumb over the base before it leaves the rails",
    "action": "Cover the base with your thumb to hold the magazine spring, then take the base off the guiding rails with the other hand. Let your thumb up slowly so the spring rises under control.",
+   "box": "limit",
    "prose": "The base is the only thing containing a long, fully compressed spring, and released without a thumb on it the base, spring and follower all leave together. Work over a bench with the magazine mouth pointed away from your face. Note the follower's orientation as it clears the body — it is handed, and one put back upside down presents the first round nose-high and stops the pistol on the first shot.",
    "quote": "Cover the base with your thumb to prevent losing the magazine spring and with the other hand take off the base from its guiding rails. Be careful during the disassembly as the spring could fly out, or even cause an injury.",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Magazine Disassembly, p.24"
@@ -123,7 +136,8 @@
    "phase": "Clean",
    "title": "Magazine dry, firing pin left alone",
    "action": "Wipe the magazine body inside, the follower and the spring with a dry cloth or brass bristle brush and leave them dry — no oil inside the body. Reassemble the magazine and stop there; do not attempt the firing pin.",
-   "prose": "Oil inside a magazine holds grit against the case walls and slows the follower, which on a full-size CZ 75 magazine shows up as a sluggish last round rather than an obvious jam. While the magazine is apart, sight along the feed lips against a known-good one; a lip that has spread is a magazine to retire, not to bend back. CZ lists firing pin cleaning as a job for after heavy use but hands the procedure itself to a gunsmith, and that is where owner work on an SP-01 ends.",
+   "box": "limit",
+   "prose": "Oil inside a magazine holds grit against the case walls and slows the follower, which on a full-size magazine shows up as a sluggish last round rather than an obvious jam. While it is apart, sight along the feed lips against a known-good one: a spread lip is a magazine to retire, not to bend back. CZ lists firing pin cleaning as a job for after heavy use but hands the procedure itself to a gunsmith, and that is where owner work on an SP-01 ends.",
    "quote": "Firing Pin Disassembly Firing pin disassembly procedure and cleaning should be entrusted to a competent gunsmith.",
    "cite": "CZ 75 — NÁVOD NA POUŽITÍ / INSTRUCTION MANUAL / BEDIENUNGSANLEITUNG / MANUAL DE INSTRUCCIONES / MODE D'EMPLOI — UNKNOWN — not printed in the document — Maintenance Instructions — Firing Pin Disassembly, p.24",
    "warn": "CZ's caution straight after the magazine section: no further disassembly of the pistol is recommended, and any adjustment or repair goes to a competent gunsmith.",

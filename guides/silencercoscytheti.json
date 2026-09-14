@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Firearm unloaded and the action OPEN before the can moves",
    "action": "Open the action and see that the firearm is visibly clear of ammunition — before the silencer goes on and before it comes off. A suppressed gun is quieter, not safer, and the book says so in as many words.",
+   "box": "none",
    "quote": "Before installing the silencer on the host firearm, be sure the firearm is unloaded and the action is opened so the firearm is visibly clear of any ammunition.",
    "cite": "SilencerCo Scythe-Ti 30 Field Manual — 2023 edition (the file the maker published as scythe-manual_2023.pdf) — WARNING"
   },
@@ -17,6 +18,7 @@
    "phase": "Clear",
    "title": "⛔ Re-check tightness every 30 rounds",
    "action": "Silencers back off under recoil, and a partly-unthreaded can is how baffle strikes happen. SilencerCo names an interval rather than leaving it to feel: verify the attachment is secure after about 30 discharges.",
+   "box": "none",
    "quote": "To ensure your silencer remains secure while firing, it is of the utmost importance that you frequently verify the silencer is securely tightened onto the barrel. We recommend checking the security of the attachment after 30 discharges of the firearm.",
    "cite": "SilencerCo Scythe-Ti 30 Field Manual — 2023 edition (the file the maker published as scythe-manual_2023.pdf) — WARNING"
   },
@@ -24,6 +26,7 @@
    "phase": "Clean",
    "title": "Mounts get the solvent and the brush",
    "action": "The mount is where carbon and fouling collect and where a loose fit turns into a baffle strike. Standard gun cleaning solvent and a brush, periodically — that is the maintenance this can actually needs.",
+   "box": "none",
    "quote": "The Scythe-Ti 30 typically requires limited maintenance. Mounts should periodically be cleaned with any standard gun cleaning solvent and a brush to remove any carbon or fouling.",
    "cite": "SilencerCo Scythe-Ti 30 Field Manual — 2023 edition (the file the maker published as scythe-manual_2023.pdf) — Maintenance"
   },
@@ -31,6 +34,7 @@
    "phase": "Clean",
    "title": "⛔ Bore: a brush if it needs one, NEVER a patch",
    "action": "If the bore has light fouling, run a cleaning BRUSH through it. Do not run patches: a patch can come off inside the silencer, sit there invisibly, and cause damage the next time the gun is fired. This is the single most important don't in the whole book.",
+   "box": "limit",
    "quote": "Do not run cleaning patches through the bore as the patches might become lodged in the silencer and cause damage upon firing.",
    "cite": "SilencerCo Scythe-Ti 30 Field Manual — 2023 edition (the file the maker published as scythe-manual_2023.pdf) — Maintenance"
   },
@@ -38,6 +42,7 @@
    "phase": "Clean",
    "title": "⛔ No chlorine, no acetone — and expect colour change",
    "action": "The Scythe-Ti's titanium finish has its own rules. SilencerCo recommends a rust-preventive firearm lubricant and a microfibre towel, warns that any such lubricant may change the colour of the can, and bans chlorine and acetone products outright.",
+   "box": "limit",
    "aside": "Any rust-preventing firearm lubricants will work, but they may change the color of the Scythe-Ti.",
    "quote": "Do not use chlorine or acetone products on Scythe-Ti.",
    "cite": "SilencerCo Scythe-Ti 30 Field Manual — 2023 edition (the file the maker published as scythe-manual_2023.pdf) — Maintenance"
@@ -46,6 +51,7 @@
    "phase": "Clean",
    "title": "⛔ Never fire it without the Anchor Brake or a front cap",
    "action": "Firing the Scythe-Ti 30 with no Anchor Brake and no SilencerCo front cap fitted negates the point of the silencer and voids the warranty. Check the front of the can is actually complete before you mount it.",
+   "box": "limit",
    "quote": "Firing the Scythe-Ti 30 without the Anchor Brake or a SilencerCo front cap will negate benefits of using a silencer and will void the warranty.",
    "cite": "SilencerCo Scythe-Ti 30 Field Manual — 2023 edition (the file the maker published as scythe-manual_2023.pdf) — Assembly"
   }

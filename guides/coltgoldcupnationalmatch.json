@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "⛔ Prove it empty — magazine out, chamber looked at",
    "action": "Drop the magazine, lock the slide back and LOOK into the chamber, then put a finger in it. Colt's own strip procedure opens with this and its cleaning procedure repeats it as a CAUTION. ⚠ The magazine holds seven rounds; an eighth being absent from the magazine proves nothing about the chamber.",
+   "box": "none",
    "prose": "A target pistol lives on a line where it is loaded and unloaded all day. That is exactly the habit that puts a round in a chamber nobody checked.",
    "quote": "The magazine has seven rounds capacity.",
    "cite": "COLT GOLD CUP NATIONAL MATCH MK IV/SERIES 70 — INSTRUCTION MANUAL — UNKNOWN — no revision code is printed in the document — Section 2 — Main Features, printed p.4"
@@ -18,6 +19,7 @@
    "phase": "Strip",
    "title": "Muzzle UP, resting on the butt and the grip safety",
    "action": "Stand the pistol on the heel of the butt and the grip safety, muzzle pointing upward, on a bench. ⛔ That attitude is not decoration: it puts the recoil spring plug at the top where you can hold it, and it keeps the muzzle off the bench.",
+   "box": "none",
    "prose": "Everything that follows depends on controlling one spring. This is the grip that lets you.",
    "quote": "With muzzle pointing upward,\nrest pistol on heel of butt and\n\"grip safety\" on a table or bench.",
    "cite": "COLT GOLD CUP NATIONAL MATCH MK IV/SERIES 70 — INSTRUCTION MANUAL — UNKNOWN — no revision code is printed in the document — Maintenance — Stripping for Cleaning, step 2, printed p.26"
@@ -26,6 +28,7 @@
    "phase": "Strip",
    "title": "⛔ HOLD THE PLUG — the recoil spring is under it, and the bushing is TIGHT",
    "action": "Push the slide back about a quarter inch, press DOWN on the recoil spring plug just below the muzzle, and at the same time rotate the barrel bushing clockwise about a quarter turn — using the BARREL BUSHING WRENCH if you need it. ⛔ Keep pressure on the plug so the spring cannot launch it, then let plug and spring extend gradually. ⚠ This pistol's bushing is deliberately tighter than a service 1911's; that is where its accuracy comes from and why the wrench exists.",
+   "box": "none",
    "prose": "The one moment in a 1911 strip that puts a spring under your thumb, made stiffer here by the match fit.",
    "caution": "Glasses on. Let it out slowly rather than releasing it.",
    "quote": "Push slide back about one\nquarter inch, press down on recoil\nspring plug (located just below\nmuzzle) and at same time rotate\nbarrel bushing clockwise about 1/4\nturn, using barrel bushing wrench",
@@ -35,6 +38,7 @@
    "phase": "Strip",
    "title": "Plug off the spring, then cock the hammer",
    "action": "Rotate the plug counterclockwise and take it off the spring. Then cock the hammer by pulling back on the hammer spur — with the pistol already proved empty. ⚠ The hammer must be back before the slide stop will come out.",
+   "box": "none",
    "prose": "Cocking an empty pistol you have just verified is not the same act as cocking one you have not.",
    "quote": "Rotate plug counterclockwise\nand remove from spring.",
    "cite": "COLT GOLD CUP NATIONAL MATCH MK IV/SERIES 70 — INSTRUCTION MANUAL — UNKNOWN — no revision code is printed in the document — Maintenance — Stripping for Cleaning, step 4, printed p.26"
@@ -43,6 +47,7 @@
    "phase": "Strip",
    "title": "Slide back to the DISASSEMBLY NOTCH, then the slide stop",
    "action": "Pull the slide rearward until the lug on the slide stop lines up with the DISASSEMBLY NOTCH — a different notch from the one the slide locks back on — then push the rounded end of the slide stop pin inward from the RIGHT side of the receiver and lift the slide stop out.",
+   "box": "none",
    "prose": "Two notches, and only one of them lets the pistol come apart. Lining up the wrong one is why the pin will not move.",
    "aside": "Lift out slide stop (See Figure 9).",
    "quote": "Pull slide to rear until lug on slide stop is opposite disassembly\nnotch (See Figure 9) and push rounded end of pin of slide stop\n(on right of receiver) inward and through receiver to disengage\nslide stop from slide.",
@@ -52,6 +57,7 @@
    "phase": "Strip",
    "title": "Receiver off the back, then the recoil spring and guide",
    "action": "Draw the receiver rearward and off the slide. Then lift the recoil spring and its guide and pull them rearward out of the slide.",
+   "box": "none",
    "prose": "Rearward, both of them. Nothing on a 1911 comes out forward except the barrel.",
    "quote": "Lift recoil spring and guide and pull them rearward out of slide.",
    "cite": "COLT GOLD CUP NATIONAL MATCH MK IV/SERIES 70 — INSTRUCTION MANUAL — UNKNOWN — no revision code is printed in the document — Maintenance — Stripping for Cleaning, step 9, printed p.27"
@@ -60,6 +66,7 @@
    "phase": "Strip",
    "title": "Bushing counterclockwise, then the barrel out the FRONT",
    "action": "Turn the barrel bushing counterclockwise, push the barrel and bushing forward until the bushing is clear of the slide, and take the bushing off the barrel. Then push the LINK forward and draw the barrel out of the front of the slide.",
+   "box": "none",
    "prose": "The link has to be forward or the barrel will not clear. That is the whole trick of the last step.",
    "aside": "Push link forward and remove barrel from front of slide.",
    "quote": "Turn barrel bushing counterclockwise, push barrel and barrel\nbushing forward until bushing is clear of slide, then remove bushing\nfrom barrel.",
@@ -69,9 +76,11 @@
    "phase": "Strip",
    "title": "⛔ That is the whole strip — Colt says stop here",
    "action": "Barrel, bushing, recoil spring and guide, plug, slide stop, slide and receiver. ⛔ Colt's own IMPORTANT note bars going further and routes anything deeper to Service and Repair.",
+   "box": "limit",
    "prose": "A match pistol is fitted. Parts that are fitted are parts a bench strip should leave alone.",
    "quote": "IMPORTANT: Do not strip your\npistol further than previously\ndescribed.",
-   "cite": "COLT GOLD CUP NATIONAL MATCH MK IV/SERIES 70 — INSTRUCTION MANUAL — UNKNOWN — no revision code is printed in the document — Maintenance — Stripping for Cleaning, printed p.27"
+   "cite": "COLT GOLD CUP NATIONAL MATCH MK IV/SERIES 70 — INSTRUCTION MANUAL — UNKNOWN — no revision code is printed in the document — Maintenance — Stripping for Cleaning, printed p.27",
+   "branch": true
   }
  ],
  "deepSteps": [
@@ -79,6 +88,7 @@
    "phase": "Clean",
    "title": "⛔ The cleaning rod is what kills a match barrel",
    "action": "Colt puts this in the cleaning procedure and it is the single most important sentence in it for THIS pistol: avoid contact between the cleaning rod and the muzzle, because the resulting wear will reduce accuracy. ⚠ Work from the breech, and if you must use the muzzle, use a guide.",
+   "box": "none",
    "prose": "The crown is the last thing the bullet touches. A rod dragged across it a thousand times is a slow way to lose what you paid for.",
    "quote": "Note: Avoid contact between cleaning rod and muzzle as resultant\nwear will reduce accuracy.",
    "cite": "COLT GOLD CUP NATIONAL MATCH MK IV/SERIES 70 — INSTRUCTION MANUAL — UNKNOWN — no revision code is printed in the document — Maintenance — How to Clean, printed p.29"
@@ -87,6 +97,7 @@
    "phase": "Clean",
    "title": "⚠ Brush ALL THE WAY THROUGH before reversing",
    "action": "If the bore is still dirty after patches, a brass bristle brush and cleaning solution. ⛔ Pass the brush ALL THE WAY THROUGH the barrel before you reverse it — Colt's own reason is that a brush reversed inside the bore will stick.",
+   "box": "none",
    "prose": "A stuck brush in a match barrel is a genuinely bad afternoon.",
    "quote": "Thoroughly scrub out barrel, passing the brush all the way\nthrough before reversing the movement. If you try to change direction\nwith brush in barrel, the brush will stick.",
    "cite": "COLT GOLD CUP NATIONAL MATCH MK IV/SERIES 70 — INSTRUCTION MANUAL — UNKNOWN — no revision code is printed in the document — Maintenance — How to Clean, step 5, printed p.29"
@@ -95,6 +106,7 @@
    "phase": "Clean",
    "title": "How often, when it has NOT been fired",
    "action": "Colt gives an interval for a pistol that is not being shot: once or twice a year in a temperate climate, as often as once a month in a tropical one. ⚠ And if it gets wet, clean it as soon as possible regardless.",
+   "box": "none",
    "prose": "A safe queen still corrodes. The interval is about humidity, not use.",
    "aside": "If you get your pistol\nwet, clean it as soon as possible.",
    "quote": "When your pistol has not been fired, clean it periodically; we\nsuggest once or twice a year in a temperate climate, or as often as\nonce a month in a tropical climate.",
@@ -104,6 +116,7 @@
    "phase": "Clean",
    "title": "⛔ Below freezing — a DRY lubricant, not oil",
    "action": "Colt's note on cold weather: avoid oil for lubrication and apply a dry lubricant sparingly instead. ⚠ Oil that thickens in the cold slows a 1911's slide, and a target pistol is often shot in exactly the conditions this warns about.",
+   "box": "none",
    "prose": "The lubricant that protects it in summer is the one that slows it in January.",
    "aside": "Strip for cleaning as previously described.",
    "quote": "avoid the use of oil for\nlubrication; instead, apply a dry lubricant sparingly.",
@@ -113,6 +126,7 @@
    "phase": "Clean",
    "title": "⚠ The trigger stop and the Eliason sight — the two adjustables",
    "action": "This pistol carries an ADJUSTABLE TRIGGER STOP that limits finger movement after sear release, and an adjustable square-notch Colt ELIASON rear sight with positive windage and elevation. ⛔ Both are set-and-check items, not clean-every-time items: note where they are before a strip so you can tell if handling has moved them.",
+   "box": "none",
    "prose": "The two things on this pistol that are adjusted for the shooter are the two things worth checking after it has been apart.",
    "aside": "The adjustable square notch Colt Eliason rear sight features\npositive windage and elevation adjustment.",
    "quote": "An adjustable trigger stop limits finger movement after sear release\nso that aim is not disturbed.",

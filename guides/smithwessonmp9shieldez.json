@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Determine which features are present on your specific 9 Shield EZ",
    "action": "Establish what your particular pistol carries before you go further: some M&P9 Shield EZ pistols have a manual thumb safety lever and some have a ported barrel and slide. Both change what you do — the safety locks the slide when it is up, and porting changes what has to be cleaned and what the barrel may be paired with. Note the model name and serial number marked on your pistol while you are looking; Smith & Wesson asks owners to record the serial number before shipping a firearm in for service.",
+   "box": "none",
    "prose": "Every EZ has the grip safety, so that is not the variable; the thumb safety and the porting are. An owner who does not know their pistol has a thumb safety will find the slide immovable and conclude the gun is broken, and an owner who does not know theirs is ported will not clean the ports or realise the barrel is not interchangeable.",
    "quote": "determine which features are present on your specific M&P® 9 SHIELD™ EZ® Pistol and how those features operate. Various models of the M&P® 9 SHIELD™ EZ® Pistols are fitted with DISTINCT features, which MAY include a manual thumb safety AND A PORTED BARREL.",
    "cite": "SAFETY & INSTRUCTION MANUAL M&P® 9 SHIELD™ EZ® — p/n 3013255                   REV:MP9SHIELDEZincPORTED_031520 — Model and Features Identification, WARNING, p.13",
@@ -20,6 +21,7 @@
    "phase": "Clear",
    "title": "Safety up if fitted, magazine out, slide back and locked open",
    "action": "If your pistol has a manual thumb safety, place the lever up in the SAFE position. Press the magazine release and remove the magazine, then grasp the serrated sides of the slide from the rear, hold the pistol upright and draw the slide briskly fully rearward to extract anything in the chamber. Lock it open by holding it fully back and pressing up on the slide stop lever.",
+   "box": "none",
    "prose": "The EZ slide is deliberately light to rack, which makes a half-hearted pull easy and a half-hearted pull is what leaves a live round loose in the action instead of thrown clear. Magazine before chamber, always, so nothing can feed behind what you are extracting.",
    "quote": "Lock the slide open by holding it fully rearward and pressing up on the slide stop lever (FIGURE 40).",
    "cite": "SAFETY & INSTRUCTION MANUAL M&P® 9 SHIELD™ EZ® — p/n 3013255                   REV:MP9SHIELDEZincPORTED_031520 — Field Stripping / Disassembly, p.27"
@@ -28,6 +30,7 @@
    "phase": "Clear",
    "title": "Make certain the pistol is clear of any ammunition",
    "action": "With the slide locked open, look into the chamber and then down through the magazine well and make certain the pistol is clear of any ammunition. Unload the magazine separately.",
+   "box": "none",
    "prose": "Both places, because they can disagree — a round that failed to eject can be sitting in the frame below the feed ramp. On the EZ magazine, pull down slightly on the load assist button to take the tension off each round as you press it up and forward out of the lips.",
    "quote": "Make certain that the pistol is clear of any ammunition",
    "cite": "SAFETY & INSTRUCTION MANUAL M&P® 9 SHIELD™ EZ® — p/n 3013255                   REV:MP9SHIELDEZincPORTED_031520 — Field Stripping / Disassembly, p.27"
@@ -36,6 +39,7 @@
    "phase": "Clear",
    "title": "Nothing marked +P+, and never a ported barrel in a non-ported slide",
    "action": "Check the headstamps: +P+ ammunition must not be used in Smith & Wesson firearms. And if your pistol is one of the ported models, barrel and slide are a matched pair — never install a ported barrel in a pistol with a non-ported slide.",
+   "box": "limit",
    "prose": "The +P+ objection is that the marking names no defined pressure standard, so two boxes carrying it can be far apart. The porting rule is a cleaning-bench hazard specifically, because the barrel is separated from the slide on every strip: ports venting into a solid slide have nowhere to put hot gas but back into the gun and out around the breech.",
    "caution": "\"Plus-P-Plus\" (+P+) ammunition must not be used in Smith & Wesson firearms.",
    "quote": "NEVER INSTALL A PORTED BARREL IN A PISTOL WITH A NON-PORTED SLIDE. FAILURE TO FOLLOW THIS WARNING WILL CAUSE SERIOUS PERSONAL INJURY AND DAMAGE TO PROPERTY.",
@@ -45,6 +49,7 @@
    "phase": "Clear",
    "title": "Use the magazine that came with this pistol",
    "action": "Keep this pistol's own magazines with it and do not interchange magazines from one model pistol to another model pistol.",
+   "box": "limit",
    "prose": "EZ magazines carry load assist buttons and a follower shape particular to the model, so a magazine borrowed from a standard Shield will insert and latch and then fail to feed. With parts from two pistols on one bench that is a real mix-up rather than a theoretical one.",
    "quote": "While your magazine may be able to be inserted into another model pistol, it will only function properly in the specific model for which it was designed. Do not interchange magazines from one model pistol to another model pistol.",
    "cite": "SAFETY & INSTRUCTION MANUAL M&P® 9 SHIELD™ EZ® — p/n 3013255                   REV:MP9SHIELDEZincPORTED_031520 — Loading, p.19"
@@ -53,6 +58,7 @@
    "phase": "Strip",
    "title": "Takedown lever down to 6 o'clock, then ease the slide closed",
    "action": "With the slide locked open, rotate the takedown lever down to the 6 o'clock position. Then grasp the serrated sides, draw the slide rearward until the slide stop disengages and carefully allow it to move forward to its closed position.",
+   "box": "none",
    "prose": "No tool and nothing to press through the ejection port — unlike the Shield Plus, which needs its sear deactivation lever lowered first, the EZ needs only the lever. Ease the slide closed rather than dropping the stop: with the lever rotated there is nothing holding the assembly together.",
    "quote": "Rotate the takedown lever down to the 6 o’clock position (FIGURE 43).",
    "cite": "SAFETY & INSTRUCTION MANUAL M&P® 9 SHIELD™ EZ® — p/n 3013255                   REV:MP9SHIELDEZincPORTED_031520 — Field Stripping / Disassembly, p.28"
@@ -61,6 +67,7 @@
    "phase": "Strip",
    "title": "Hold the frame by the sides — not the grip — and push the slide off",
    "action": "Push the slide forward and off the frame, holding the frame by its sides. Do not grip the pistol firmly enough to depress the grip safety while you do it, and keep control of the recoil spring as the slide comes free.",
+   "box": "limit",
    "prose": "This is the step that defines the EZ family. Squeezing the grip safety raises the firing pin plunger lever into the slide's path, so a natural firing grip is exactly what jams the slide — the harder you hold it the more it binds, and people force it and mark the frame. Hold the frame like a bar of soap and the slide walks off.",
    "quote": "Do not grip the pistol firmly enough to depress the grip safety when attempting to remove the slide. Hold the frame by the sides when removing the slide to allow it to come off easily.",
    "cite": "SAFETY & INSTRUCTION MANUAL M&P® 9 SHIELD™ EZ® — p/n 3013255                   REV:MP9SHIELDEZincPORTED_031520 — Field Stripping / Disassembly, NOTE, p.28",
@@ -71,6 +78,7 @@
    "phase": "Strip",
    "title": "Recoil spring out of the slide, then the barrel",
    "action": "Compress the recoil spring assembly slightly and lift it up and out of the slide. Then take the barrel out by grasping it by the lug and lifting up and back.",
+   "box": "none",
    "prose": "Up and back, not straight up: the barrel lug must clear the slide's locking recess before it will come free. Look at the recoil spring assembly as it comes out — its breech end is rounded top and bottom with flats on the sides, and it only goes back in that orientation.",
    "quote": "Remove the barrel from the slide by grasping the barrel by the lug and lifting up and back (FIGURE 49).",
    "cite": "SAFETY & INSTRUCTION MANUAL M&P® 9 SHIELD™ EZ® — p/n 3013255                   REV:MP9SHIELDEZincPORTED_031520 — Field Stripping / Disassembly, p.29"
@@ -79,6 +87,7 @@
    "phase": "Strip",
    "title": "Field strip complete",
    "action": "Frame, slide, barrel, recoil spring assembly and magazine — that is the pistol field stripped for cleaning, and as far as Smith & Wesson takes it. Do not dry fire the pistol while the slide is removed. Deep Clean covers the magazine, which the manual documents separately.",
+   "box": "limit",
    "prose": "With the slide off there is nothing for the hammer to fall against, and the manual is explicit that dry firing in that state damages the hammer or other internal parts.",
    "quote": "Do not dry fire your M&P® 9 SHIELD™ EZ® pistol while the slide is removed. Doing so can result in damage to the hammer or other internal parts.",
    "cite": "SAFETY & INSTRUCTION MANUAL M&P® 9 SHIELD™ EZ® — p/n 3013255                   REV:MP9SHIELDEZincPORTED_031520 — Field Stripping / Disassembly, WARNING, p.29",
@@ -90,6 +99,7 @@
    "phase": "Deep Clean",
    "title": "Empty chamber flag through the butt plate, catch depressed",
    "action": "With the magazine out and unloaded, use a small tool — the empty chamber flag that comes with the pistol works — to depress the butt plate catch through the hole in the butt plate, and slide the butt plate forward a little while holding the catch down.",
+   "box": "none",
    "prose": "The manual notes that magazine disassembly is generally not required every time the pistol is field stripped, so this is for a magazine that has actually got dirty. The chamber flag is the right diameter for that hole, which is why it is named; something fatter will not reach the catch.",
    "quote": "Using a small tool like the empty chamber flag that comes with the pistol, depress butt plate catch through the hole in the butt plate. Slide the butt plate forward a little bit while holding the catch down (FIGURE 69).",
    "cite": "SAFETY & INSTRUCTION MANUAL M&P® 9 SHIELD™ EZ® — p/n 3013255                   REV:MP9SHIELDEZincPORTED_031520 — Magazine Disassembly, p.33",
@@ -100,6 +110,7 @@
    "phase": "Deep Clean",
    "title": "Butt plate off slowly, catch and spring out of the bottom",
    "action": "With the catch unlocked, slide the butt plate off the tube slowly while controlling the butt plate catch against spring pressure, then take the catch and spring out through the bottom of the tube.",
+   "box": "none",
    "prose": "Slowly and with a thumb over the opening — the catch is what launches, and it is riding a compressed spring. Note how the spring sits: its uphill slant goes toward the front of the magazine when it goes back.",
    "quote": "Once the catch is unlocked, slide the butt plate off of the tube slowly while controlling the butt plate catch in the tube against spring pressure",
    "cite": "SAFETY & INSTRUCTION MANUAL M&P® 9 SHIELD™ EZ® — p/n 3013255                   REV:MP9SHIELDEZincPORTED_031520 — Magazine Disassembly, p.33"
@@ -108,6 +119,7 @@
    "phase": "Deep Clean",
    "title": "Load assist button out at the wide hole, then the follower",
    "action": "Slide the follower and load assist button down to the bottom of the tube where the wider hole lets the button out of the side of the tube, then take the follower out of the bottom.",
+   "box": "none",
    "prose": "That wide hole near the base is the only place the button leaves, and its outline matches the button's shape — sliding down to it first is the whole trick, and prising at the button anywhere else snaps it. Clean the inside of the tube while it is open; residue in there is what makes the top rounds sit low and nose-dive.",
    "quote": "Slide the follower and load assist button down to the bottom of the tube where the wider hole (FIGURE 72) will allow the load assist button to be removed from the side of the magazine tube",
    "cite": "SAFETY & INSTRUCTION MANUAL M&P® 9 SHIELD™ EZ® — p/n 3013255                   REV:MP9SHIELDEZincPORTED_031520 — Magazine Disassembly, p.34"

@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Confirm every chamber is empty",
    "action": "Press the cylinder latch, swing the cylinder out, and check every chamber by eye and by finger.",
+   "box": "none",
    "prose": "This is the first line of the manual’s own disassembly section, in capitals, and it is worth the two seconds.",
    "quote": "BE CERTAIN THE REVOLVER IS UNLOADED BEFORE DISASSEMBLY.",
    "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 1, p.20"
@@ -18,6 +19,7 @@
    "phase": "Strip",
    "title": "Swing the cylinder out — that is all cleaning needs",
    "action": "For routine cleaning nothing comes off this revolver. Swing the cylinder out and clean it where it stands.",
+   "box": "none",
    "prose": "Ruger’s cleaning instructions begin from the cylinder being open, not from a stripped gun.",
    "quote": "To clean the revolver after firing, swing the cylinder out and clean the barrel from the muzzle",
    "cite": "Ruger Super GP100 Instruction Manual — PM501 — Care and Cleaning, p.22",
@@ -29,6 +31,7 @@
    "phase": "Deep Clean",
    "title": "Grip off",
    "action": "With a properly fitting screwdriver remove the grip screw, remove the grip, and pull it downward off the cylinder frame.",
+   "box": "none",
    "prose": "Note this manual says cylinder frame throughout, not frame — the Super GP100 is described as a two-piece frame gun.",
    "quote": "Using a properly fitting screwdriver, remove the grip screw. Remove the grip. Pull the grip downward off the cylinder frame.",
    "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 2, p.20"
@@ -37,6 +40,7 @@
    "phase": "Deep Clean",
    "title": "Pin the mainspring strut — a specified size",
    "action": "Cock the hammer and insert a disassembly pin into the hole at the rear of the mainspring strut. Ruger names the sizes that work.",
+   "box": "none",
    "prose": "This manual is unusually specific about the tool, which is a gift — use it rather than guessing.",
    "quote": "Any 0.095\" to 0.075\" pin or 5/64\" Allen wrench can be used as a disassembly pin.",
    "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 3, p.20"
@@ -45,6 +49,7 @@
    "phase": "Deep Clean",
    "title": "Mainspring assembly out",
    "action": "Thumb on the hammer spur, squeeze the trigger and let the hammer go fully forward, then lift out the mainspring assembly.",
+   "box": "none",
    "prose": "The disassembly pin stays put until the assembly is back in the revolver.",
    "caution": "Do not remove the disassembly pin until the mainspring assembly is reinstalled in the revolver at the time of reassembly. Doing so will permit the mainspring to fly off its strut with great force and may cause injury.",
    "quote": "With your thumb on the hammer spur, squeeze the trigger allowing the hammer to go fully forward. Lift out the mainspring assembly.",
@@ -56,6 +61,7 @@
    "phase": "Deep Clean",
    "title": "Hammer out",
    "action": "Pull the trigger and remove the hammer pivot while holding the trigger rearward, then lift the hammer out of the top of the cylinder frame.",
+   "box": "none",
    "prose": "Different from the GP100, which has you strike the pivot pin — here it is removed while the trigger is held.",
    "quote": "Pull the trigger and remove the hammer pivot while holding the trigger in a rearward position.",
    "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 5, p.20"
@@ -64,6 +70,7 @@
    "phase": "Deep Clean",
    "title": "Trigger guard assembly out",
    "action": "Use the mainspring assembly itself to depress the trigger guard lock plunger inside the cylinder frame, and pull the trigger guard assembly down and out at the same time.",
+   "box": "none",
    "prose": "The mainspring assembly doubles as the tool here. If it will not give enough force, a correctly sized screwdriver through the frame hole does the same job.",
    "quote": "Use the mainspring assembly to depress the trigger guard lock plunger located inside the cylinder frame at the rear of the trigger guard.",
    "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 6, p.20"
@@ -72,6 +79,7 @@
    "phase": "Deep Clean",
    "title": "Cylinder off the frame",
    "action": "Cradle the cylinder frame, press the cylinder latch button, swing the cylinder assembly out and remove it forward.",
+   "box": "none",
    "prose": "Forward, off the crane, exactly as on the GP100.",
    "quote": "press the cylinder latch button, swing out the cylinder assembly and remove it forward from the cylinder frame.",
    "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 7, p.20"
@@ -80,6 +88,7 @@
    "phase": "Deep Clean",
    "title": "Stop here",
    "action": "End of the documented teardown. Beyond this is factory service.",
+   "box": "limit",
    "prose": "The internal mechanism is meant to be lubricated without going further.",
    "quote": "Further disassembly is not essential for normal cleaning purposes.",
    "cite": "Ruger Super GP100 Instruction Manual — PM501 — Disassembly, step 8, p.20"

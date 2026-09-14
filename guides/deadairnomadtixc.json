@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Unloaded, magazine out, chamber empty, and COLD",
    "action": "Before the suppressor comes off or goes on, confirm the firearm is unloaded with the magazine removed and the chamber empty — and that the whole thing is at ambient temperature.",
+   "box": "limit",
    "prose": "⛔ Ambient temperature is not a comfort note. A hot can burns through gloves, and hot threads seize.",
    "quote": "THE SUPPRESSOR MAY BECOME EXTREMELY HOT AFTER USE. NEVER GRAB A HOT SUPPRESSOR AS IT CAN RESULT IN BURNS AND INJURY.",
    "cite": "Dead Air Nomad Ti XC / LTi XC Owners Manual (Rev071824) — Rev071824 — 7. INSTALLATION AND REMOVAL, printed p.8-9"
@@ -18,6 +19,7 @@
    "phase": "Strip",
    "title": "Which way is which",
    "action": "Throughout this procedure, \"back\" is toward the host firearm and \"front\" is away from it. The thread mount goes in the back; the front cap threads into the front.",
+   "box": "none",
    "prose": "Dead Air defines the terms because the next few steps turn parts in opposite directions at the same time, and an ambiguous \"turn it left\" is how a taper gets galled.",
    "quote": "When discussing directionality during assembly, \"back\" will always be toward the host weapon, \"front\" will always be away.",
    "cite": "Dead Air Nomad Ti XC / LTi XC Owners Manual (Rev071824) — Rev071824 — 3. ADAPTER INSTALLATION, printed p.6"
@@ -26,6 +28,7 @@
    "phase": "Strip",
    "title": "Adapter off: spanners in OPPOSITE directions",
    "action": "Use the Hook Spanner wrenches to catch the notches so the ADAPTER turns counter-clockwise while the SUPPRESSOR turns clockwise. Set the hooks an inch or two apart so you can squeeze them together for leverage.",
+   "box": "none",
    "prose": "⛔ Two spanners, opposite directions, because a single wrench puts all the torque through the can's body. And be ready for the break: when the joint lets go the wrenches swing.",
    "quote": "Use the Hook Spanners to catch the notches in the parts such that the adapter is being turned Counter-Clockwise and the suppressor Clock- wise.",
    "cite": "Dead Air Nomad Ti XC / LTi XC Owners Manual (Rev071824) — Rev071824 — 4. ADAPTER REMOVAL, printed p.6",
@@ -36,9 +39,11 @@
    "phase": "Strip",
    "title": "Front cap off with the pinned tool",
    "action": "Align the pins of the Sandman Front Cap Tool (DA208, sold separately) into the holes in the front cap, hold the tool flat with the pins fully and evenly engaged, and turn counter-clockwise to loosen.",
+   "box": "none",
    "prose": "Flat and fully engaged is the whole instruction — a tool sitting proud on one pin will shear it out of the cap.",
    "quote": "Align the pins in the Sandman Front Cap Tool (DA208—sold separately) into the holes cut into the front cap.",
-   "cite": "Dead Air Nomad Ti XC / LTi XC Owners Manual (Rev071824) — Rev071824 — 5. FRONT CAP INSTALLATION, printed p.8"
+   "cite": "Dead Air Nomad Ti XC / LTi XC Owners Manual (Rev071824) — Rev071824 — 5. FRONT CAP INSTALLATION, printed p.8",
+   "branch": true
   }
  ],
  "deepSteps": [
@@ -46,6 +51,7 @@
    "phase": "Deep",
    "title": "⛔ Clean threads and taper, then grease",
    "action": "With the cap off, clean the threads and the taper, apply high-quality grease to those surfaces, and hand-tighten the cap back on.",
+   "box": "none",
    "prose": "⛔ Debris on the threads or taper misaligns the parts, and a misaligned front cap is what a bullet hits. This is the whole reason the cap ever comes off.",
    "quote": "Clean threads and taper. Apply high quality grease to the surfaces and install new cap and hand tighten.",
    "cite": "Dead Air Nomad Ti XC / LTi XC Owners Manual (Rev071824) — Rev071824 — 5. FRONT CAP INSTALLATION, printed p.8",
@@ -56,6 +62,7 @@
    "phase": "Deep",
    "title": "Adapter back in: grease, bottom out, spanners",
    "action": "Coat the chosen adapter's threads with high-quality grease, thread it into the suppressor until it bottoms out on the rear face, and tighten with the hook spanners turning the adapter clockwise and the suppressor counter-clockwise.",
+   "box": "none",
    "prose": "⚠ HUB-taper adapters bottom out on an internal taper instead, which leaves a visible GAP between the notched flange and the rear face. That gap is correct on those versions and is not a sign of a loose adapter.",
    "quote": "Thread the adapter into the suppressor until it bottoms out on the rear suppressor face.",
    "cite": "Dead Air Nomad Ti XC / LTi XC Owners Manual (Rev071824) — Rev071824 — 3. ADAPTER INSTALLATION, printed p.6"
@@ -64,6 +71,7 @@
    "phase": "Deep",
    "title": "Thread locker, only if it keeps loosening",
    "action": "If the mount loosens because the can is taking heavy heat cycles, degrease the threads and use a HIGH-TEMPERATURE thread locker — Dead Air names a medium-strength one, Vibra-Tite 123, for average conditions.",
+   "box": "none",
    "prose": "⛔ Medium strength and high temperature, both. A high-strength locker needs serious heat to break and you may not get the adapter off again.",
    "quote": "Dead Air recommends using a medium strength, high temperature thread locker like Vibra-Tite 123 for average operating conditions.",
    "cite": "Dead Air Nomad Ti XC / LTi XC Owners Manual (Rev071824) — Rev071824 — 3. ADAPTER INSTALLATION, printed p.6"
@@ -72,6 +80,7 @@
    "phase": "Deep",
    "title": "⛔ Inspection on assembly — snug, no gaps, no rattle",
    "action": "With everything back together, check that all components are snug with no gaps and no rattling. If anything is not fully tight, check the threads for damage or debris, clean both mating parts, and repeat the tightening step.",
+   "box": "limit",
    "prose": "⛔ This is the gate before live fire and it is the reason the procedure exists. A rattle here is a baffle strike later.",
    "quote": "All components should be snug with no gaps or rattling. If any component is not fully tightened, then check threads for any damage or debris.",
    "cite": "Dead Air Nomad Ti XC / LTi XC Owners Manual (Rev071824) — Rev071824 — 6. INSPECTION UPON ASSEMBLY, printed p.8"
@@ -80,6 +89,7 @@
    "phase": "Deep",
    "title": "Mounting: hand-tight is preferred, 30 ft-lbs is the ceiling",
    "action": "Hand-tighten the suppressor onto the barrel. If more is wanted, the included hook spanner gives a little extra. Barrel torque for Key-Mount and Xeno muzzle devices and for direct thread adapters must NOT exceed 30 ft-lbs; 25 +/- 5 ft-lbs is optimal.",
+   "box": "limit",
    "prose": "⚠ Some threads are LEFT-HANDED and turn the opposite way to what you expect. Check before applying force in either direction.",
    "aside": "Do not over-tighten the suppressor with any assorted tools or wrenches, as such actions may result in damage to your firearm, the suppressor, or both.",
    "quote": "Barrel Torque for both Key-Mount and Xeno muzzle devices and Direct Thread Adapters shall not exceed 30 ft-lbs. A target of 25 +/- 5 ft-lbs. is optimal.",
@@ -89,6 +99,7 @@
    "phase": "Deep",
    "title": "⛔ Look down the mounted can before you fire it",
    "action": "With the suppressor mounted, look at it: it must sit straight on the centreline of the bore and not canted. If it is not in line, stop and call Dead Air.",
+   "box": "none",
    "prose": "⛔ A loose or canted mount shifts point of impact and can put the bullet into the baffles or the front cap. Direct-thread cans loosen with use — check tightness often.",
    "quote": "If the suppressor is not in line with the bore immediately stop the installation process and contact our Customer Service Department.",
    "cite": "Dead Air Nomad Ti XC / LTi XC Owners Manual (Rev071824) — Rev071824 — 7. INSTALLATION AND REMOVAL, printed p.8-9",

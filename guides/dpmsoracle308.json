@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Unloaded, nothing in the chamber",
    "action": "Magazine out, charging handle back, eyes in the chamber. DPMS states the condition as part of the procedure heading itself on this section rather than leaving it to the general warnings — it is step zero, not a preamble.",
+   "box": "none",
    "quote": "Make sure your rifle is unloaded, with no ammunition in the chamber.",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly heading, p.31"
   },
@@ -17,6 +18,7 @@
    "phase": "Clear",
    "title": "Carrier closed forward before anything is pressed",
    "action": "Let the bolt carrier go home before you start. DPMS makes this the first numbered step on the .308 — the receivers should not be hinged open with the carrier held to the rear.",
+   "box": "none",
    "quote": "Bolt carrier assembly should be closed in the forward position.",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly, step 1, p.31"
   },
@@ -24,6 +26,7 @@
    "phase": "Strip",
    "title": "Rear takedown pin pressed from the left to its stop",
    "action": "Press the rear takedown pin in from the left side of the lower and pull it out until it comes to a positive stop. It does not come free — a detent holds it in the rifle. A tight new fit may want a punch, which DPMS treats as normal.",
+   "box": "none",
    "quote": "Press the rear take down pin in from left of lower receiver (it may be necessary to use a punch as the fit between upper and lower receivers may be very tight.)",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly, step 2, p.31"
   },
@@ -31,6 +34,7 @@
    "phase": "Strip",
    "title": "Upper and barrel pivoted down off the lower",
    "action": "Swing the upper receiver and barrel assembly down and away from the lower. The rifle is hinged on the front pivot pin at this point — nothing is free yet.",
+   "box": "none",
    "quote": "Pivot the upper receiver and barrel assembly down and away from the lower receiver.",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly, step 3, p.31"
   },
@@ -38,6 +42,7 @@
    "phase": "Strip",
    "title": "Front pivot pin out, receivers separated",
    "action": "Press the front pivot pin in from the left and draw it out to the right until it stops — again a detent keeps it captive — then lift the two halves apart.",
+   "box": "none",
    "aside": "A detent keeps the front pivot pin from falling out of the rifle.",
    "quote": "You can now separate the upper and lower receivers.",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly, steps 4-5, p.31"
@@ -46,6 +51,7 @@
    "phase": "Strip",
    "title": "Bolt carrier group out on the charging handle",
    "action": "Draw the charging handle to the rear; the bolt and carrier come back with it and out of the upper. Lift them off the handle once clear.",
+   "box": "none",
    "quote": "Pull charging handle to rear and remove bolt and carrier assembly.",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly, step 6, p.31"
   },
@@ -53,6 +59,7 @@
    "phase": "Strip",
    "title": "Charging handle eased back until it falls free — no forcing",
    "action": "Pull the charging handle back gently until you feel a slight resistance and let it drop out of the upper. DPMS is explicit here in a way the .223 section is not: do not force it. The wings are what break, and they are what you grip.",
+   "box": "limit",
    "caution": "Forcing the handle past its release point damages the charging handle wings.",
    "quote": "Do not force the charging handle, damage to the charging handle wings will occur.",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly, step 7, p.31"
@@ -61,6 +68,7 @@
    "phase": "Strip",
    "title": "Firing pin retainer pushed right to left and drawn out",
    "action": "To get the firing pin you first have to get the retainer: push it from right to left and pull it all the way out of the carrier.",
+   "box": "none",
    "aside": "Remove it by pulling the retainer pin all the way out of the carrier.",
    "quote": "Push the firing pin retainer from",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly, step 8, p.31"
@@ -69,6 +77,7 @@
    "phase": "Strip",
    "title": "Bolt face up, firing pin out",
    "action": "Turn the carrier bolt-face upward and let the firing pin come out the back. Have a hand under it — nothing retains it once the retainer is gone.",
+   "box": "none",
    "quote": "Tilt bolt face up and remove firing pin.",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly, step 9, p.32"
   },
@@ -76,6 +85,7 @@
    "phase": "Strip",
    "title": "Bolt pushed in, cam pin lifted out",
    "action": "Push the bolt into the carrier until it rotates and stops, then lift the cam pin up and away. The bolt must go in first or the cam pin cannot clear.",
+   "box": "none",
    "aside": "Remove cam pin by lifting it out away from bolt and carrier.",
    "quote": "Push bolt in towards the carrier until it rotates and comes to a stop.",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly, steps 10-11, p.32"
@@ -84,6 +94,7 @@
    "phase": "Strip",
    "title": "Bolt drawn forward out of the carrier",
    "action": "With the cam pin out, pull the bolt straight forward and out of the front of the carrier.",
+   "box": "none",
    "quote": "Pull bolt forward out of carrier.",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly, step 12, p.32"
   },
@@ -91,6 +102,7 @@
    "phase": "Strip",
    "title": "Buffer and spring released under control",
    "action": "Press the buffer in and hold it — it is under spring tension — then depress the buffer retainer and let the buffer and spring travel forward out of the receiver extension. Release it early and the retainer throws the buffer.",
+   "box": "none",
    "caution": "The .308 buffer spring is compressed in the receiver extension. Keep pressure on the buffer for as long as the retainer is down.",
    "aside": "DPMS notes the .308 uses a different buffer and spring from the A-15 rifles even though the stock is the same — do not swap one in from a 5.56 rifle.",
    "quote": "Depress buffer, maintaining pressure as buffer is under spring tension, to prevent it from being ejected when buffer retainer is depressed.",
@@ -100,6 +112,7 @@
    "phase": "Strip",
    "title": "Extractor pin out, extractor and spring off — and stop there",
    "action": "Drift the extractor pin out of the bolt with a punch, lift the extractor and spring away as one, and press the spring to check its function. Do not separate the spring from the extractor — DPMS prints that with an exclamation mark. This is where the published procedure ends.",
+   "box": "limit",
    "quote": "Remove the extractor and spring. DO NOT remove the spring from extractor!",
    "cite": "DPMS/Panther Arms Operations Manual — .30 Caliber section — Operations Manual, undated — no copyright line, revision code or print date appears in the 40 pages — .30 Caliber, Field Stripping Disassembly, steps 14-16, p.32",
    "warn": "Do not strip your firearm further than previously described. If additional maintenance is necessary, consult DPMS or a competent gunsmith.",

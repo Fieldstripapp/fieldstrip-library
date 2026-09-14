@@ -1,0 +1,181 @@
+{
+ "row": "berettaa400xcelmultitarget",
+ "make": "Beretta",
+ "model": "A400 Xcel Multitarget",
+ "sourcedFrom": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) (UNDATED — Beretta prints a form code rather than a year)",
+ "sourceSha256": "775abb44fcf9ac7ef102a4fbe6f79b367d85824c0dfcdb217e28a988aa699585",
+ "cleanIntro": "The Multitarget is one A400 asked to shoot several disciplines, so it lives with an adjustable comb and a shell count that never stops climbing. None of that changes the strip: cap, fore-end, barrel, bolt group, no tool needed. What it does change is how often you are into the gas system — and Beretta is explicit that the gas parts are cleaned and then left DRY.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Prove it empty three ways, then check the hammer",
+   "action": "Look through the ejection port, the loading gate and the chamber — three places, three looks — and then confirm the hammer is decocked before a single part moves. On a gun that spends its day being loaded two at a time, the magazine is the one that catches people out.",
+   "box": "none",
+   "aside": "It is advisable to carry out the stripping operations over a table to catch components should they drop.",
+   "quote": "ALWAYS CHECK THAT THE SHOTGUN IS UNLOADED (EMPTY CARTRIDGE CHAMBER, EMPTY RECEIVER, EMPTY MAGAZINE). INSPECT THE FIREARM BY LOOKING THROUGH THE EJECTION PORT, THE LOADING GATE AND THE CHAMBER. IF IT IS NOT EMPTY, UNLOAD IT AS INSTRUCTED IN THE RELEVANT SECTION. CHECK THAT THE HAMMER IS DECOCKED.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — FIELD STRIPPING, printed p.31-32"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stop pin down first, then lock the bolt back",
+   "action": "The carrier stop pin goes all the way down, and the bolt gets pulled fully back so it stays open. Do these in that order — with the bolt already back it is awkward to reach the pin, and with neither done the cap simply will not free the fore-end.",
+   "box": "none",
+   "aside": "Pull the breech bolt all the way back so that it remains open",
+   "quote": "Check that the carrier stop pin is pressed all the way down. If it is not, push it all the way down",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — FIELD STRIPPING, printed p.31-32"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cap anticlockwise, fore-end forward off the barrel",
+   "action": "Spin the front cap off anticlockwise and set it where it cannot roll. Hold the gun by the BARREL and pull the fore-end straight forward off the muzzle end; it comes easily when it is straight and binds the moment it is not.",
+   "box": "none",
+   "aside": "Holding the shotgun by the barrel, pull the fore-end straight out toward the muzzle.",
+   "quote": "Unscrew the front cap of the fore-end in an anticlockwise direction.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — FIELD STRIPPING, printed p.31-32"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Barrel off with the piston held — the valve is not yours",
+   "action": "Keep a hand on the piston inside its cylinder as the barrel comes away, then let the piston and its elastic seal slide off the magazine tube. ⛔ The valve is where this stops: nothing in it is serviceable, and a valve that is genuinely wrong goes to a factory-trained gunsmith rather than onto the bench.",
+   "box": "none",
+   "aside": "The valve device is self-cleaning and requires no maintenance",
+   "quote": "Pull the barrel out of the stock-receiver assembly while holding the piston inside the gas cylinder.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — FIELD STRIPPING, printed p.31-32",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore, then the shoulders the bolt locks into",
+   "action": "Flannel through for residue, bronze brush if it has earned one, then a dry cloth and a light film of oil. The step people skip is the locking shoulders at the barrel breech: clean those thoroughly, because that is where a gun stops closing fully and starts feeling gritty.",
+   "box": "none",
+   "aside": "Pull a soft, clean, dry cloth through the barrel.",
+   "quote": "Thoroughly clean the locking shoulders on the barrel breech.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — ROUTINE MAINTENANCE, printed p.35-36"
+  },
+  {
+   "phase": "Clean",
+   "title": "Heavy powders foul four named parts — clean all four",
+   "action": "The book names them: gas cylinder, piston, elastic piston seal, magazine tube. Clean and spray each, brush the cylinder walls, wipe the inside out. ⛔ Then they go back dry — the components named above must not be lubricated, and that instruction is not a preference about oil brands.",
+   "box": "none",
+   "aside": "The particular composition of the powders of some Super Magnum ammunition can leave consistent deposits of combustion residue.",
+   "quote": "Carefully clean the piston, elastic piston seal and magazine tube and spray with Beretta Gun Oil.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — ROUTINE MAINTENANCE, printed p.35-36"
+  },
+  {
+   "phase": "Clean",
+   "title": "The piston must glide, by hand, before reassembly",
+   "action": "Slide the piston up and down the magazine tube with your fingers. Free is free; any drag at all means it goes back to the brush. A multi-discipline gun that has been running light target loads all morning is exactly the gun that will not cycle a light load once the piston starts to stick.",
+   "box": "none",
+   "aside": "To clean the walls of the gas cylinder, spray them with Beretta Gun Oil and clean thoroughly with a bronze brush.",
+   "quote": "Ensure that the piston glides freely on the magazine tube.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — ROUTINE MAINTENANCE, printed p.35-36"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Right tube in the right barrel",
+   "action": "Changing discipline means changing choke, and a bench full of tubes is where the wrong pattern gets started into an Optima-Bore HP barrel. ⛔ That barrel takes Optimachoke HP tubes only; the book states plainly that other Beretta patterns are incompatible with it.",
+   "box": "none",
+   "aside": "Beretta Optimachoke® HP (High Performance) tubes are built in high resistance steel to ensure a long life and rust protection and are designed to withstand the use of steel shot.",
+   "quote": "THE OPTIMA-BORE® HP BARREL ON MODEL A400 CAN ONLY FIT OPTIMACHOKE® HP CHOKE TUBES. OTHER TYPES OF BERETTA INTERCHANGEABLE CHOKE TUBES ARE INCOMPATIBLE WITH OPTIMA-BORE® HP BARRELS.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — BERETTA OPTIMACHOKE® HP CHOKE TUBES, printed p.42"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "The bolt comes apart to be CLEANED, and for nothing else",
+   "action": "Beretta puts the reason above the procedure, and it is the reason to do this at the end of a season rather than after a squad: the breech bolt assembly is taken down to clean its components. Nothing below is a tuning operation.",
+   "box": "none",
+   "quote": "The breech bolt assembly needs only to be disassembled in order to clean its components.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — FIELD STRIPPING, printed p.31-32"
+  },
+  {
+   "phase": "Deep",
+   "title": "Ride the bolt forward under control",
+   "action": "Keep the index or middle finger on the cocking handle, press the release button, and let the bolt travel forward slowly until it stops. Letting it slam is how a bolt face and a barrel breech get peened over a season of doing it.",
+   "box": "none",
+   "quote": "Keeping the index or middle finger of your left hand on the cocking handle, press the release button and allow the breech bolt to move forward slowly until it stops.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — FIELD STRIPPING, printed p.31-32"
+  },
+  {
+   "phase": "Deep",
+   "title": "Depress the bolt head until the neck groove lines up",
+   "action": "Press the head of the bolt in until the groove in its neck sits level with the edge of the bolt body. With the groove aligned the cocking handle will pull straight out and it takes force; with it misaligned nothing will come and levering it is how the handle gets bent.",
+   "box": "none",
+   "aside": "Keeping the head depressed in this position, extract the cocking handle from the breech bolt, pulling forcefully.",
+   "quote": "Press the head of the breech bolt until the groove on its neck corresponds to the edge of the bolt body.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — FIELD STRIPPING, printed p.31-32"
+  },
+  {
+   "phase": "Deep",
+   "title": "Bolt group forward off the receiver — ejection port UP",
+   "action": "Flat surface, ejection port facing upward, and pull the bolt assembly, the operating rods with sleeve, the recoil spring and the spring holder forward together. Port up is what keeps the firing pin, the locking block and their springs inside the bolt instead of on the floor.",
+   "box": "none",
+   "quote": "Working over a flat surface, with the ejection port pointed upwards, pull forward on the breech bolt assembly, the operating rods with sleeve, the recoil spring, and the spring holder, to force the breech bolt out from the receiver",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — FIELD STRIPPING, printed p.31-32"
+  },
+  {
+   "phase": "Deep",
+   "title": "Trigger plate out — safety ON, hammer cocked",
+   "action": "Engage the safety with the hammer cocked, press the carrier stop pin, then drive the trigger guard retaining pin out with a punch or an awl and lever the plate free by the trigger guard — toward the barrel first, then outward. The order matters; pulling straight out binds it.",
+   "box": "none",
+   "aside": "The trigger plate only needs to be disassembled in order to clean the trigger mechanism.",
+   "quote": "Remove the trigger guard retaining pin by pressing with a pin punch or an awl.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — FIELD STRIPPING, printed p.31-32"
+  },
+  {
+   "phase": "Deep",
+   "title": "Clean bolt, plate and receiver — then put the tools down",
+   "action": "Spray and clean the bolt parts, dry them thoroughly, lubricate lightly. Wipe the trigger plate and put a light film on its metal parts and its retaining pin. Do the receiver the same way, lubricating the internal bolt guides. ⛔ The plate comes OUT to be cleaned; it does not come APART, and the valve stays exactly where the strip left it.",
+   "box": "none",
+   "aside": "Proceed as indicated for the breech bolt. Clean thoroughly with a soft cloth and lubricate the internal breech bolt guides.",
+   "quote": "Lightly lubricate all the metal components and the trigger plate retaining pin.",
+   "cite": "Beretta Semiauto Shotgun User Manual — MAN0088/001 (form code printed in the running header) — SPECIAL MAINTENANCE, printed p.36"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL, BREECH SHOULDERS & CHOKE",
+   "tasks": [
+    "Flannel through the bore for combustion residue; bronze brush or an oiled cloth if it needs more",
+    "Locking shoulders at the barrel breech cleaned thoroughly",
+    "Dry cloth pulled through, light oil, bore and chamber checked clear of obstruction",
+    "⛔ Optima-Bore HP barrels take Optimachoke HP tubes and no other Beretta pattern"
+   ]
+  },
+  {
+   "name": "GAS CYLINDER, PISTON, SEAL, MAGAZINE TUBE",
+   "tasks": [
+    "Piston, elastic piston seal and magazine tube cleaned and sprayed",
+    "Piston made to glide freely along the tube by hand before anything goes back",
+    "Cylinder walls sprayed and brushed with a bronze brush, then wiped out with a clean cloth",
+    "⛔ These components go back DRY — the book forbids lubricating them"
+   ]
+  },
+  {
+   "name": "BREECH BOLT, TRIGGER PLATE, RECEIVER (end of season)",
+   "tasks": [
+    "Bolt parts sprayed and cleaned, dried thoroughly, lightly lubricated",
+    "Trigger plate wiped; metal parts and the retaining pin lightly oiled",
+    "Receiver cleaned as the bolt was, internal bolt guides lubricated"
+   ]
+  },
+  {
+   "name": "⛔ LEAVE ALONE",
+   "tasks": [
+    "The valve assembly is never disassembled",
+    "The valve spring and the valve retaining nut are never stripped",
+    "Oil never goes on a cartridge, and never stays in the bore"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Trigger plate back in with the hammer cocked and the safety engaged, rear of the plate flush to the receiver, pushed firmly toward the stock.",
+  "Retaining pin in only once the trigger guard hole is centred on the receiver.",
+  "Bolt group, operating rods with sleeve, recoil spring and piston stop onto the magazine tube, ejection port UP on a flat surface.",
+  "Bolt head depressed to the neck groove, cocking handle driven home firmly.",
+  "Piston into the barrel's gas cylinder, elastic seal pinched between the fingers to start it.",
+  "Barrel checked clear, carrier stop pin down, fore-end on and the front cap tightened."
+ ],
+ "fncheck": "Reassembled and unloaded: work the bolt several times, confirm it holds open on the carrier stop and closes fully into battery, and check the front cap is tight and the choke fully seated. A gun that suddenly will not cycle its lightest load after a clean has oil where the book says there should be none."
+}

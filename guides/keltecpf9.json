@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Magazine out, then the chamber",
    "action": "Remove the magazine, then briskly pull the slide back to extract the round in the chamber.",
+   "box": "none",
    "prose": "Magazine first, every time. Pull the slide briskly rather than easing it — a slow pull is how a live round gets left half-extracted.",
    "quote": "To unload the pistol, remove the magazine and briskly pull the slide back to extract the round in the chamber.",
    "cite": "Kel-Tec PF-9 Pistol Safety, Instruction, and Parts Manual — REV 0606 — printed on the parts drawing page only (printed p.9); no revision code on the cover or elsewhere — Unloading, printed p.11",
@@ -20,6 +21,7 @@
    "phase": "Clear",
    "title": "Keep the port clear and look into the chamber",
    "action": "Do not obstruct the ejection port and keep your fingers away from the trigger and the muzzle, then visually inspect the chamber to make sure it is empty.",
+   "box": "limit",
    "prose": "A hand over the port is the usual reason a round does not leave the gun. Look at the chamber — do not take the extractor's word for it.",
    "quote": "Do not obstruct the ejector port and keep fingers away from trigger and muzzle. Visually inspect the chamber to make sure it is empty.",
    "cite": "Kel-Tec PF-9 Pistol Safety, Instruction, and Parts Manual — REV 0606 — printed on the parts drawing page only (printed p.9); no revision code on the cover or elsewhere — Unloading, printed p.11"
@@ -28,6 +30,7 @@
    "phase": "Clear",
    "title": "Empty the magazine as well",
    "action": "Push the remaining cartridges in the magazine forward and out.",
+   "box": "none",
    "prose": "Forward and out over the feed lips, one at a time. The magazine is part of the clearing, not an afterthought.",
    "quote": "Push the remaining cartridges in the magazine forward and out.",
    "cite": "Kel-Tec PF-9 Pistol Safety, Instruction, and Parts Manual — REV 0606 — printed on the parts drawing page only (printed p.9); no revision code on the cover or elsewhere — Unloading, printed p.11"
@@ -36,6 +39,7 @@
    "phase": "Strip",
    "title": "Lock the slide open",
    "action": "With the pistol unloaded, pull the slide back and push up the slide stop until the slide is locked open.",
+   "box": "none",
    "prose": "The PF-9's slide stop is pushed up by hand here; the gun is not going to hold it for you on an empty magazine well.",
    "quote": "Unload your pistol. Pull the slide back and push up the slide stop until the slide is locked open.",
    "cite": "Kel-Tec PF-9 Pistol Safety, Instruction, and Parts Manual — REV 0606 — printed on the parts drawing page only (printed p.9); no revision code on the cover or elsewhere — Disassembly, printed p.13"
@@ -44,6 +48,7 @@
    "phase": "Strip",
    "title": "Pull the assembly pin with a case rim",
    "action": "Using the rim of a cartridge case, pull the assembly pin out of the pistol.",
+   "box": "none",
    "prose": "The case rim is the tool Kel-Tec specifies — it fits the pin's groove and will not mark the frame the way a screwdriver blade does.",
    "quote": "Using the rim of a case, pull the assembly pin from the pistol.",
    "cite": "Kel-Tec PF-9 Pistol Safety, Instruction, and Parts Manual — REV 0606 — printed on the parts drawing page only (printed p.9); no revision code on the cover or elsewhere — Disassembly, printed p.13"
@@ -52,6 +57,7 @@
    "phase": "Strip",
    "title": "Ease the slide forward off the frame",
    "action": "Holding the slide, release the slide stop and allow the slide to move slowly forward, off the front of the frame.",
+   "box": "none",
    "prose": "Hold it. With the assembly pin out there is nothing to stop the slide leaving the frame under spring pressure.",
    "quote": "While holding the slide, release the slide stop allowing the slide to slowly move forward, off the frame.",
    "cite": "Kel-Tec PF-9 Pistol Safety, Instruction, and Parts Manual — REV 0606 — printed on the parts drawing page only (printed p.9); no revision code on the cover or elsewhere — Disassembly, printed p.13"
@@ -60,6 +66,7 @@
    "phase": "Strip",
    "title": "Recoil spring and barrel out — and stop there",
    "action": "Take the recoil spring and barrel out of the slide. That is the end of the disassembly Kel-Tec publishes: no further disassembly is recommended.",
+   "box": "limit",
    "prose": "Four parts and the magazine. The bound is the manufacturer's, printed on the same page as the strip itself.",
    "quote": "Remove the recoil spring and barrel. No further disassembly is recommended.",
    "cite": "Kel-Tec PF-9 Pistol Safety, Instruction, and Parts Manual — REV 0606 — printed on the parts drawing page only (printed p.9); no revision code on the cover or elsewhere — Disassembly, printed p.13"
@@ -68,6 +75,7 @@
    "phase": "Strip",
    "title": "Never loosen the extractor spring screw",
    "action": "Leave the extractor spring screw alone. Kel-Tec prints the prohibition immediately after the strip, and separately warns that dry firing can damage the firing pin and that same extractor spring screw.",
+   "box": "limit",
    "prose": "It is the one fastener on the slide that looks like an invitation, and it is the one the manual singles out.",
    "quote": "Do not loosen the extractor spring screw.",
    "cite": "Kel-Tec PF-9 Pistol Safety, Instruction, and Parts Manual — REV 0606 — printed on the parts drawing page only (printed p.9); no revision code on the cover or elsewhere — Disassembly, printed p.13",
@@ -78,6 +86,7 @@
    "phase": "Strip",
    "title": "Field strip complete",
    "action": "Frame, slide, barrel, recoil spring assembly and magazine. This is the disassembly Kel-Tec points you at when routine cleaning is not enough.",
+   "box": "none",
    "prose": "The manual's own maintenance section treats this strip as the deeper option, not as a separate exercise.",
    "quote": "For a more detailed cleaning, the pistol should be disassembled as described in the section \"Disassembly\"",
    "cite": "Kel-Tec PF-9 Pistol Safety, Instruction, and Parts Manual — REV 0606 — printed on the parts drawing page only (printed p.9); no revision code on the cover or elsewhere — Maintenance, printed p.14"

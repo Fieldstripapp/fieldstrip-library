@@ -48,11 +48,23 @@ const SPEC_INTERNAL = new Set([
   'searchRecord', 'consulted', 'sources', 'notes', 'coverageNote',
   'typeRowNote', 'rowTestNote', 'hostFirearmNote', 'withdrawalAndRestore',
   'prohibits',
+  /* ⛔ file2 IS A REPO PATH, exactly like `file`, and is excluded for the same
+     reason. Named here so the report says "excluded on purpose" instead of
+     "new, look at this" — an unrecognised field is a prompt to read, and a
+     prompt that fires every run on a known exclusion trains people past it. */
+  'file2',
 ]);
 
 const STEP_EMITTED = new Set([
   'phase', 'title', 'action', 'prose', 'caution', 'aside',
   'quote', 'quoteLang', 'quoteEnglish', 'section', 'warn', 'branch',
+  /* ⛔ gloss — OUR MARGIN NOTE ON A MAKER'S PASSAGE, and without it a passage
+     step is broken rather than merely plainer. A passage carries NO action: the
+     maker's sentence IS the content, and stPassage(quote, cite, gloss) draws our
+     note under it. Excluded, a downloaded passage step would render the maker's
+     words with an empty margin — the one place the app speaks in its own voice
+     about his, silently missing. Measured: 6 steps, all on one guide today. */
+  'gloss',
   /* ⛔ `doc` NAMES WHICH OF THE ROW'S TWO BOOKS THIS STEP CAME FROM, and it must reach
      citeFor() or the citation is built from the wrong one. It is read, not rendered:
      the reader sees the second book's NAME in the citation, never the index. */
@@ -88,12 +100,19 @@ function citeFor(spec, st) {
   return [man, ed, st.section].filter(Boolean).join(' — ');
 }
 
-function projectStep(spec, st, unknown, where) {
+function projectStep(spec, st, unknown, where, box) {
   Object.keys(st).forEach(k => {
     if (!STEP_EMITTED.has(k) && !STEP_INTERNAL.has(k)) unknown.push(where + '.' + k);
   });
 
   const out = { phase: st.phase, title: st.title, action: st.action };
+  /* ⛔ WHICH QUOTATION FORM THE APP DRAWS FOR THIS STEP, read off the app's own
+     generated block by tools/lib/quotebox.js — never decided here. A fetched
+     guide has to present a manufacturer's words exactly as the compiled-in one
+     does, and the phone cannot re-run the build-time detector that decides it. */
+  if (box && box.box) out.box = box.box;
+  /* only ever on a passage, which is the only form that draws it */
+  if (st.gloss && box && box.box === 'passage') out.gloss = st.gloss;
   if (st.prose)   out.prose = st.prose;
   if (st.caution) out.caution = st.caution;
   if (st.aside)   out.aside = st.aside;
@@ -117,13 +136,27 @@ function projectStep(spec, st, unknown, where) {
   if (st.warn)   out.warn = st.warn;
   /* only ever alongside a warn, and only the two values the sweep writes */
   if (st.warn && (st.warnSrc === 'maker' || st.warnSrc === 'ours')) out.warnSrc = st.warnSrc;
-  if (st.branch) out.branch = true;
+  /* ⛔ THE BRANCH FLAG COMES FROM THE EMITTED BLOCK, NOT FROM THE SPEC. The
+     splice DERIVES it for a guide with a deep section and no authored branch,
+     in memory, and never writes it back — so `st.branch` is false for 83 guides
+     that nonetheless render a DEEP CLEAN door in the app. Publishing the spec's
+     value would ship those guides without their deep door. The spec's own flag
+     still counts where it exists, so a guide the app has not spliced yet is not
+     silently stripped of one it authored. */
+  if ((box && box.branch) || st.branch) out.branch = true;
   return out;
 }
 
-/** spec -> published guide record. */
-function projectGuide(spec) {
+/** spec -> published guide record.
+ *
+ *  `boxes` is {steps:[verdict], deep:[verdict]} for this row, read out of the
+ *  app's generated block. Absent (a spec the app has not spliced yet) means no
+ *  `box` field is emitted rather than a guessed one — see the refusal in
+ *  publish.js, which will not publish a guide the app has not compiled.
+ */
+function projectGuide(spec, boxes) {
   const unknown = [];
+  const bx = boxes || { steps: [], deep: [] };
   Object.keys(spec).forEach(k => {
     if (!SPEC_EMITTED.has(k) && !SPEC_INTERNAL.has(k)) unknown.push(k);
   });
@@ -143,10 +176,10 @@ function projectGuide(spec) {
   }
 
   g.cleanIntro = spec.cleanIntro;
-  g.steps = (spec.steps || []).map((st, i) => projectStep(spec, st, unknown, 'steps[' + i + ']'));
+  g.steps = (spec.steps || []).map((st, i) => projectStep(spec, st, unknown, 'steps[' + i + ']', bx.steps[i]));
 
   if (spec.deep && spec.deep.length) {
-    g.deepSteps = spec.deep.map((st, i) => projectStep(spec, st, unknown, 'deep[' + i + ']'));
+    g.deepSteps = spec.deep.map((st, i) => projectStep(spec, st, unknown, 'deep[' + i + ']', bx.deep[i]));
   } else {
     /* "none documented" is stated, never implied. */
     g.deepAbsentReason = spec.deepAbsentReason;
@@ -244,20 +277,64 @@ function guideIdFor(routing, c) {
   return key ? String(key).replace(/^sg_/, '') : null;
 }
 
-/** catalog row -> index record. Short keys expanded to named ones. */
+/** catalog row -> index record. Short keys expanded to named ones.
+ *
+ *  ⛔ `category` IS PUBLISHED AND THE FIELD LIST IS NOT AN OVERSIGHT. The app's
+ *  picker renders "<chambering> · <category>" on every card and searches the
+ *  category text; a row that arrives by delta without it would render a card
+ *  with a dangling separator and would be unfindable by the words an owner
+ *  actually types. Uniformity is a ruling: a delta row must render exactly as a
+ *  shipped row does.
+ */
 function projectCatalogRow(c) {
   return {
     id: c.i,
     maker: c.mk,
     model: c.md,
     chambering: c.ch,
+    category: c.ct || null,
     family: c.fm || null,
     tier: typeof c.tr === 'number' ? c.tr : null,
     group: c.gp || null,
   };
 }
 
+/* ⛔ THE ROW VERDICT, READ OUT OF THE APP'S OWN GENERATED BLOCK. A row that
+   reaches the phone by delta has no entry in the app's compiled DOOR_VERDICT —
+   it did not exist when that build was made — so without this the door would
+   fall back to "we don't have it yet" for every new row, including the ones the
+   manual hunt proved the maker publishes nothing for.
+   ⛔ AND IT IS READ, NEVER RE-DERIVED. tools/library/gen_door_verdicts.js in the
+   app repo derives it from the hunt's per-row verdicts and the blocked ledger
+   and writes the block; this republishes what that wrote. Two derivations of
+   "does this manufacturer publish a procedure" is exactly the disagreement the
+   sentence cannot survive. */
+function parseDoorVerdict(html) {
+  const decl = 'const DOOR_VERDICT = {';
+  const at = html.indexOf(decl);
+  if (at < 0) {
+    throw new Error('⛔ REFUSING — the app has no generated DOOR_VERDICT block at HEAD');
+  }
+  const start = html.indexOf('{', at);
+  let depth = 0, end = -1, inStr = false, esc = false;
+  for (let i = start; i < html.length; i++) {
+    const c = html[i];
+    if (inStr) {
+      if (esc) esc = false;
+      else if (c === '\\') esc = true;
+      else if (c === '"') inStr = false;
+      continue;
+    }
+    if (c === '"') { inStr = true; continue; }
+    if (c === '{') depth++;
+    else if (c === '}') { depth--; if (depth === 0) { end = i + 1; break; } }
+  }
+  if (end < 0) throw new Error('⛔ REFUSING — DOOR_VERDICT never closes');
+  return JSON.parse(html.slice(start, end));
+}
+
 module.exports = {
   projectGuide, parseCatalog, projectCatalogRow, citeFor, parseRouting, guideIdFor,
+  parseDoorVerdict,
   SPEC_EMITTED, SPEC_INTERNAL, STEP_EMITTED, STEP_INTERNAL,
 };

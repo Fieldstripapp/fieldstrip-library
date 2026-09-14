@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Magazine out, chamber verified, ammunition out of the room",
    "action": "Take the magazine out and verify the chamber is empty before a single pin moves. IWI adds two things to that: no live ammunition anywhere in the area you are cleaning in, and safety glasses on. The glasses are not decoration here — the buffer spring later in this strip is under compression and comes out of the receiver extension with force.",
+   "box": "none",
    "quote": "Before disassembly, remove the magazine and verify that the chamber is empty. Also, ensure there is no live ammunition in the area where cleaning is being performed. Wear safety glasses when performing maintenance.",
    "cite": "IWI ZION Z15® Semi-Auto Rifles & Pistols Operation Manual — Rev: 7/26 — DISASSEMBLY AND ASSEMBLY Authorized at Operator Level, General, printed p.42 (PDF page 43)"
   },
@@ -17,6 +18,7 @@
    "phase": "Strip",
    "title": "Takedown pin pushed left to right, upper hinged up",
    "action": "Push the captured takedown pin at the REAR of the lower receiver from left to right. It is captured, so it stops rather than falling out. The upper then hinges upward on the front pivot pin, opening the receiver like a book and giving you the bolt carrier group and the charging handle in their track.",
+   "box": "none",
    "quote": "After verifying the weapon is clear and no ammunition is present, push the captured tear down pin located at the rear of the lower receiver from left to right.",
    "cite": "IWI ZION Z15® Semi-Auto Rifles & Pistols Operation Manual — Rev: 7/26 — Operator Level Weapon Disassembly and Assembly – Field Stripping, Group Disassembly, step a, printed p.43 (PDF page 44)"
   },
@@ -24,6 +26,7 @@
    "phase": "Strip",
    "title": "Bolt carrier group drawn out on the charging handle",
    "action": "Pull the charging handle back and the bolt carrier group comes with it — take the carrier group off first. Then pull the charging handle further to the rear and gently pull DOWN until it drops clear of the upper. It only releases at one point along its track; if it will not drop, it has not come back far enough, and levering it is how the handle's latch gets bent.",
+   "box": "none",
    "aside": "Pull the charging handle further to the rear then gently pull down until it drops out of the upper receiver.",
    "quote": "The upper receiver will hinge upward. Pull the charging handle and remove the bolt carrier group.",
    "cite": "IWI ZION Z15® Semi-Auto Rifles & Pistols Operation Manual — Rev: 7/26 — Group Disassembly, step b, printed p.43 (PDF page 44)"
@@ -32,6 +35,7 @@
    "phase": "Strip",
    "title": "Pivot pin across, upper off the lower",
    "action": "Push the front pivot pin from left to right and the upper receiver separates from the lower. At that point the rifle is in the four pieces IWI names, and that is the field strip proper — everything after this is the bolt group and the buffer, which the post-firing routine also asks for.",
+   "box": "none",
    "aside": "The weapon is now broken down into its 4 groups: upper receiver, lower receiver, bolt and charging handle.",
    "quote": "Push the pivot pin from left to right until the upper receiver separates from the lower receiver.",
    "cite": "IWI ZION Z15® Semi-Auto Rifles & Pistols Operation Manual — Rev: 7/26 — Group Disassembly, step d, printed p.44 (PDF page 45)"
@@ -40,6 +44,7 @@
    "phase": "Strip",
    "title": "Firing pin retaining pin out right to left, firing pin out the back",
    "action": "Push the firing pin retaining pin from RIGHT to LEFT and take it out of the carrier — note the direction, it is the opposite hand to the takedown and pivot pins you just did. Then tilt the carrier nose-up and the firing pin drops out of the back. Tilt it the wrong way and the pin stays put; it comes out under gravity, not under force.",
+   "box": "none",
    "aside": "Tilt the bolt carrier up and remove the firing pin from the back.",
    "quote": "Push the firing pin retaining pin from right to left and remove it from the bolt carrier.",
    "cite": "IWI ZION Z15® Semi-Auto Rifles & Pistols Operation Manual — Rev: 7/26 — Bolt group disassembly, step a, printed p.46 (PDF page 47)"
@@ -48,6 +53,7 @@
    "phase": "Strip",
    "title": "Bolt pushed back, cam pin turned 90° and lifted out",
    "action": "Push the bolt as far back into the carrier as it will go — that is what lines the cam pin up with its clearance slot. Rotate the cam pin ninety degrees and lift it straight out of the top. If it will not turn, the bolt is not fully rearward; the cam pin is keyed and it only clears in one position.",
+   "box": "none",
    "prose": "Push the bolt as far back as it will go into the bolt carrier.",
    "quote": "Rotate the cam pin 90 degrees and remove it from the top.",
    "cite": "IWI ZION Z15® Semi-Auto Rifles & Pistols Operation Manual — Rev: 7/26 — Bolt group disassembly, step d, printed p.47 (PDF page 48)"
@@ -56,6 +62,7 @@
    "phase": "Strip",
    "title": "Bolt out the front — and the extractor spring stays in",
    "action": "Pull the bolt forward and out of the front of the carrier. To get the extractor off, press on the BACK of the extractor and push the extractor pin through. IWI then says in capitals not to remove the extractor spring. That spring usually carries an insert and sometimes an O-ring, and pulling it out to clean under it is exactly how extraction reliability gets quietly wrecked.",
+   "box": "limit",
    "aside": "Pull forward on the bolt and remove it from the front of the bolt carrier.",
    "quote": "Place pressure on the back of the extractor and push the extractor pin through. DO NOT REMOVE THE EXTRACTOR SPRING.",
    "cite": "IWI ZION Z15® Semi-Auto Rifles & Pistols Operation Manual — Rev: 7/26 — Bolt group disassembly, step f, printed p.49 (PDF page 50)"
@@ -64,6 +71,7 @@
    "phase": "Strip",
    "title": "Buffer spring out — under compression, so control it",
    "action": "With the hammer cocked and the safety on, use the charging handle or something similar to push down on the buffer spring retaining detent, then let the buffer spring and assembly out of the receiver extension. IWI's caution is blunt: it will spring out. Have a hand over it, and keep the safety glasses on for this one step if you take them off for nothing else.",
+   "box": "none",
    "prose": "Ensure that the hammer is cocked and that the safety is on.",
    "quote": "Using the charging handle or other object, push down on the buffer spring retaining detent and remove the buffer spring and assembly.",
    "cite": "IWI ZION Z15® Semi-Auto Rifles & Pistols Operation Manual — Rev: 7/26 — Lower receiver disassembly, step b, printed p.50 (PDF page 51)",
@@ -74,6 +82,7 @@
    "phase": "Strip",
    "title": "Hammer lowered with a thumb — never with the trigger alone",
    "action": "To get at the trigger group for cleaning you need the hammer down, and IWI is explicit about how: put the weapon on FIRE and lower the hammer with your THUMB. Do not just press the trigger. A dropped hammer with no round to strike lands on the lower receiver, and the manual says that over time this damages it. Re-cock the hammer and put the safety back on before anything is reassembled.",
+   "box": "limit",
    "prose": "The lower receiver needs no further disassembly.",
    "aside": "Ensure that the hammer is re-cocked and the safety is on before reassembly.",
    "quote": "To lower the hammer for maintenance, DO NOT JUST PRESS THE TRIGGER. Place the weapon on fire and use your thumb to lower the hammer.",
@@ -83,6 +92,7 @@
    "phase": "Strip",
    "title": "Field strip complete — and the lower goes no further",
    "action": "Four groups on the bench, the bolt in pieces, the buffer spring out. IWI states plainly that the lower receiver needs no further disassembly, and that anything past what this chapter describes belongs to an IWI US certified armorer. Clean what is in front of you and put it back — there is no deeper cleaning procedure published for this rifle.",
+   "box": "none",
    "quote": "Disassembly beyond what is described in this manual should only be performed by an IWI US certified armorer or by IWI US, Inc.",
    "cite": "IWI ZION Z15® Semi-Auto Rifles & Pistols Operation Manual — Rev: 7/26 — DISASSEMBLY AND ASSEMBLY Authorized at Operator Level, General, printed p.42 (PDF page 43)",
    "warn": "If yours is the Zion Z-15 SPR, it carries an adjustable gas block with two set screws and a cassette-style trigger that the other Z15 models do not have; the manual gives that section separately and heads it \"ZION Z-15 SPR (only)\".",

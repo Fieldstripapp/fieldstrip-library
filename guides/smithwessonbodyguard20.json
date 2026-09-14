@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Find out whether your pistol has a manual thumb safety",
    "action": "Look at the left side of the frame above the grip and establish whether your Bodyguard 2.0 has a manual thumb safety lever. Smith & Wesson builds this model with and without it, and every step below that mentions moving the slide assumes the lever is down in FIRE if you have one. While you are looking, note the model name and serial number marked on the pistol — Smith & Wesson asks owners to record the serial number before shipping a firearm in for service.",
+   "box": "none",
    "prose": "This is not a formality on this pistol: with the lever up in SAFE the slide is locked and someone who does not know their gun has one will conclude the slide is seized. The manual sets the lever to SAFE at the start of its own unloading and field-stripping sequences, then works around it, so knowing which gun you have decides the order you do things in.",
    "quote": "YOU MUST DETERMINE WHICH FEATURES ARE PRESENT ON YOUR BODYGUARD® 2.0 PISTOL AND HOW THOSE FEATURES OPERATE. VARIOUS MODELS OF THE BODYGUARD® 2.0 PISTOLS ARE FITTED WITH DISTINCT FEATURES WHICH MAY INCLUDE A MANUAL THUMB SAFETY. READ THIS ENTIRE MANUAL TO DETERMINE HOW TO OPERATE YOUR PISTOL WITH ITS PARTICULAR FEATURE SET.",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Model and Features Identification, WARNING, p.12",
@@ -20,6 +21,7 @@
    "phase": "Clear",
    "title": "Magazine out first — this pistol fires without one",
    "action": "Point the pistol in a safe direction with your finger off the trigger, set the thumb safety up to SAFE if your pistol has one, then press the magazine release and remove the magazine. Removing the magazine does not unload the chamber.",
+   "box": "none",
    "prose": "The Bodyguard 2.0 has no magazine disconnect: a round left in the chamber will fire with the magazine out if the trigger is pulled, and the manual states that in capitals. Magazine first is the order that makes the next step honest — clear the chamber with nothing left in the well to feed it.",
    "quote": "BODYGUARD® 2.0 PISTOLS CAN BE FIRED WITH THE MAGAZINE REMOVED FROM THE PISTOL. KEEP YOUR FINGER OFF THE TRIGGER AND OUTSIDE OF THE TRIGGER GUARD UNTIL YOU HAVE MADE THE COMMITMENT TO FIRE.",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Loading, WARNING, p.20"
@@ -28,6 +30,7 @@
    "phase": "Clear",
    "title": "Slide briskly back, then locked open on the slide stop",
    "action": "Holding the pistol upright with the muzzle in a safe direction, grasp the serrated sides of the slide from the rear and draw it briskly fully rearward to extract anything in the chamber. Hold it all the way back, press the slide stop up, then let the slide move forward against the stop so it locks open, and take your finger off the stop.",
+   "box": "none",
    "prose": "Brisk and complete is the instruction, not a slow drag: on a short carry slide a gentle pull lifts the round out of the chamber and drops it back into the port instead of throwing it clear. The lock-open sequence is press-then-ease-forward, so the notch catches the stop rather than the stop being asked to climb into a moving slide.",
    "quote": "Hold the slide all the way back. Press the slide stop up and then let the slide move forward against the slide stop (FIGURE 52). This will lock the slide in the open position. Remove your finger from the slide stop.",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Field Stripping/Disassembly, p.30"
@@ -36,6 +39,7 @@
    "phase": "Clear",
    "title": "Chamber empty, magazine well empty",
    "action": "With the slide locked open, look into the chamber and confirm it is empty, then look down through the magazine well and confirm nothing is in the pistol.",
+   "box": "none",
    "prose": "Two separate looks, because they can disagree — a round that failed to eject can be lying in the frame below the feed ramp where a glance at the chamber will not find it. This is also the last moment before you start putting tools into the ejection port, so it is the check that matters most.",
    "quote": "Make certain that the magazine well is empty (FIGURE 54).",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Field Stripping/Disassembly, p.31"
@@ -44,6 +48,7 @@
    "phase": "Clear",
    "title": "Nothing marked +P+, and never a ported barrel in a non-ported slide",
    "action": "Ammunition marked +P+ must not be used in Smith & Wesson firearms. And if your pistol is one of the ported models, keep barrel and slide together as a set — a ported barrel must never be installed in a pistol with a non-ported slide.",
+   "box": "limit",
    "prose": "The +P+ objection is that the marking names no defined pressure limit at all, so two boxes wearing it can be a long way apart. The porting rule is a cleaning-bench hazard specifically, because barrel and slide are separated during every strip and two similar pistols on the same bench get mixed up: ports venting into a solid slide have nowhere to send hot gas but back through the gun.",
    "caution": "“Plus-P-Plus” (+P+) ammunition must not be used in Smith & Wesson® firearms.",
    "quote": "NEVER INSTALL A PORTED BARREL IN A PISTOL WITH A NON-PORTED SLIDE. FAILURE TO FOLLOW THIS WARNING WILL CAUSE SERIOUS PERSONAL INJURY AND DAMAGE TO PROPERTY.",
@@ -53,6 +58,7 @@
    "phase": "Clear",
    "title": "Use the magazine that came with this pistol",
    "action": "Keep this pistol's own magazines with it. A magazine from another model may insert and will only function properly in the model it was designed for.",
+   "box": "limit",
    "prose": "Bodyguard 2.0 magazines come in more than one capacity with different floor plates and grip adapters, so there is already more than one right-looking magazine in the box. On a bench with parts from two guns, a wrong magazine that seats and latches will pass every check you make until it fails to feed.",
    "quote": "While your magazine may be able to be inserted into another model pistol, it will only function properly in the specific model for which it was designed. Do not interchange magazines from one model pistol to another model pistol.",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Loading, p.20"
@@ -61,6 +67,7 @@
    "phase": "Strip",
    "title": "Press the ejector down through the ejection port",
    "action": "Look down into the open ejection port and find the ejector, which is standing in the up position. With a non-marring tool such as a plastic pen, press it gently down until it comes to a stop. The slide will not come off the frame until it is down.",
+   "box": "none",
    "prose": "This step is unique to the Bodyguard 2.0 among the pistols in this catalog — the Shield family uses a yellow sear deactivation lever, the Bodyguard 380 uses none at all, and here it is the ejector itself that has to be lowered. Gently and only to its stop: forcing it past that point bends a part that has to stand up straight to throw brass.",
    "quote": "Using a non-marring tool such as a plastic pen, press the ejector down gently, until it comes to a stop (FIGURE 56).",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Field Stripping/Disassembly, p.31"
@@ -69,6 +76,7 @@
    "phase": "Strip",
    "title": "Takedown lever down past six o'clock, then ease the slide closed",
    "action": "With the ejector held down, rotate the takedown lever down past the six o'clock position. Then grasp the serrated sides, draw the slide rearward until the slide stop disengages, and carefully let the slide run forward to its closed position.",
+   "box": "none",
    "prose": "Past six o'clock, not to it — the lever has to clear its detent or the slide will jam halfway off the frame. Ease the slide closed rather than dropping the stop and letting it slam: with the takedown lever rotated there is nothing holding the assembly together and the recoil spring is loaded.",
    "quote": "Rotate the takedown lever down past the \"six o'clock\" position (FIGURE 58).",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Field Stripping/Disassembly, p.31"
@@ -77,6 +85,7 @@
    "phase": "Strip",
    "title": "Slide forward off the frame, spring under control",
    "action": "Push the slide forward off the frame with your thumb, keeping hold of the recoil spring assembly as the slide draws forward and clear.",
+   "box": "none",
    "prose": "The spring is compressed between the barrel lug and the front of the slide and is trying to leave the moment the slide clears the frame rails. Keep a hand across the front of the slide as it comes off; a spring that gets away lands somewhere you will spend ten minutes finding, if it does not hit you first.",
    "quote": "Retain control of the recoil spring assembly (FIGURE 61) as the slide is drawn forward off the frame.",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Field Stripping/Disassembly, p.32",
@@ -87,6 +96,7 @@
    "phase": "Strip",
    "title": "Recoil spring and barrel out of the bottom of the slide",
    "action": "Lift the recoil spring assembly out of the bottom of the slide, then take the barrel out of the bottom of the slide.",
+   "box": "none",
    "prose": "Both come out of the underside, not the muzzle end. The barrel lifts free once the spring is gone and needs no force — if it resists, part of the spring assembly is still trapped under the barrel lug.",
    "quote": "Remove the barrel from the bottom of the slide (FIGURE 63).",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Field Stripping/Disassembly, p.32"
@@ -95,6 +105,7 @@
    "phase": "Strip",
    "title": "Field strip complete",
    "action": "Frame, slide, barrel, recoil spring assembly and magazine — that is the pistol field stripped for cleaning and lubricating, and it is as far as Smith & Wesson takes it. Deep Clean covers the magazine, which the manual documents as its own procedure.",
+   "box": "limit",
    "prose": "The manual bars going past what it prints, and what it prints ends here.",
    "quote": "NEVER DISASSEMBLE YOUR FIREARM BEYOND THE DISASSEMBLY/FIELD STRIPPING PROCEDURE DETAILED IN THIS MANUAL, OR PERFORM ANY MAINTENANCE, ADJUSTMENT, OR SERVICE NOT SPECIFIED.",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Field Stripping/Disassembly, p.29",
@@ -106,6 +117,7 @@
    "phase": "Deep Clean",
    "title": "Empty the magazine, then press the floor plate catch",
    "action": "Take the magazine out of the pistol and remove every cartridge from it. Then use a small tool such as a drift through the hole in the floor plate to depress the floor plate catch.",
+   "box": "none",
    "prose": "Some Bodyguard 2.0 magazines use a grip spacer combined with the floor plate catch and some use a plain catch with no spacer — look at which you have before you start, because the spacer type comes off as an assembly and is easy to lose track of. Keep the magazine pointed away from your face from here on.",
    "quote": "Using a small tool such as drift, depress floor plate catch through the hole in the floor plate (FIGURE 85).",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Basic Magazine Disassembly, p.37",
@@ -116,6 +128,7 @@
    "phase": "Deep Clean",
    "title": "Floor plate off while the catch stays pressed",
    "action": "Keep the catch pressed down and slide the floor plate off the tube, then remove the floor plate catch or grip adapter from the tube.",
+   "box": "none",
    "prose": "Your thumb takes over from the drift as the plate travels — the moment the plate stops covering the catch, spring pressure is pushing it out. Let it out under control rather than discovering where it went.",
    "quote": "While pressing the catch down, slide floor plate off of the tube (FIGURES 86 and 87).",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Basic Magazine Disassembly, p.37"
@@ -124,6 +137,7 @@
    "phase": "Deep Clean",
    "title": "Spring and follower out of the bottom",
    "action": "The spring is held in the tube by the edges of the tube itself; pull it free out of the bottom with a little wiggling. The follower is attached to the spring and comes out with it.",
+   "box": "none",
    "prose": "This is different from magazines where the follower is a loose part — here it stays on the spring, so do not pull the two apart trying to get a separate piece out. Clean the inside of the tube and the follower now; residue in the tube is what makes the last rounds sit low and nose-dive.",
    "quote": "The follower is attached to the magazine spring and comes out when the spring is pulled out of the bottom of the tube.",
    "cite": "Safety & Instruction Manual For BODYGUARD® 2.0 Pistols — P/N 3011610                                               REV:BODYGUARD_2.0_110125 — Basic Magazine Disassembly, p.37"

@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "⚠ This book covers the SUPPRESSOR — your rifle has a separate manual",
    "action": "Daniel Defense bounds this document in one line: it tells you to follow safe handling practice and refer to your FIREARM'S OWN manual for additional safety instructions. ⛔ So nothing here describes the host rifle — not its clearing procedure, not its strip, not its safety. Read the gun's separate manual for that and this one for the can.",
+   "box": "none",
    "prose": "A suppressor manual that told you how to clear your rifle would be guessing at which rifle you own.",
    "quote": "Follow all safe firearm handling practices and refer to your firearm’s manual for additional safety instructions.",
    "cite": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 — 6.0 DEVICE INSTALLATION, printed p.10"
@@ -18,6 +19,7 @@
    "phase": "Clear",
    "title": "Ammunition out of the work area first",
    "action": "Clear the firearm and clear the bench before the suppressor comes off.",
+   "box": "none",
    "prose": "The book puts this at step 1 of installation and repeats it at the head of inspection.",
    "quote": "Remove all live ammunition from your work area.",
    "cite": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 — 6.0 DEVICE INSTALLATION, printed p.10"
@@ -26,14 +28,17 @@
    "phase": "Strip",
    "title": "Off the host — and that is as far as it comes apart",
    "action": "Unthread the suppressor from the muzzle device. There is no further disassembly: Daniel Defense publishes none.",
+   "box": "none",
    "prose": "Cycling it on and off is itself part of the maintenance here.",
    "quote": "Attach and detach the suppressor from the firearm several times to dislodge carbon and metal-fouling buildup.",
-   "cite": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 — 8.0 CLEANING & MAINTENANCE, printed p.13"
+   "cite": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 — 8.0 CLEANING & MAINTENANCE, printed p.13",
+   "branch": true
   },
   {
    "phase": "Inspect",
    "title": "Look for a baffle strike",
    "action": "Visual check for debris, evidence of baffle strike, or loose parts, plus dents, cracks and corrosion after storage or transport.",
+   "box": "none",
    "prose": "A baffle strike is the finding that ends the range day, not one to note and carry on.",
    "quote": "Visual check for debris, evidence of baffle strike, or loose parts.",
    "cite": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 — 8.0 CLEANING & MAINTENANCE, printed p.13"
@@ -43,6 +48,7 @@
   {
    "title": "Soak, do not scrub the inside",
    "action": "When carbon builds up noticeably or performance drops off, soak the suppressor for 24 hours in an approved cleaner to break the carbon down.",
+   "box": "none",
    "quote": "Allowing the suppressor to soak for 24 hours in an approved cleaner will break down the carbon.",
    "cite": "Daniel Defense Mute® 30 Ti and Null® 9 Ti Suppressor Manual — MUTE_and_NULL_Manual_v2 — 8.0 CLEANING & MAINTENANCE, printed p.14"
   }

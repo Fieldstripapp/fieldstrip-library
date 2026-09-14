@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Magazine out, then clear the chamber and LOOK",
    "action": "Muzzle safe, finger off the trigger. Remove the magazine, then clear the chamber. Do not treat it as unloaded until you have looked into it.",
+   "box": "none",
    "prose": "Bersa states the order and then states the rule about assumptions separately, which is the right way round.",
    "aside": "Do not assume a firearm is unloaded until you have visually checked it.",
    "quote": "After removing the magazine, be sure to clear the",
@@ -19,6 +20,7 @@
    "phase": "Clear",
    "title": "⛔ Decock with the SAFETY LEVER — never with the trigger",
    "action": "If the hammer is back, lower it with the manual safety lever. Do not thumb it down against the trigger.",
+   "box": "limit",
    "prose": "⛔ Bersa prints this twice, once as a standing warning to all owners and once beside the mechanism. On a hammer-fired .380 with a decocker fitted, riding the hammer down by hand is a discharge waiting for a slipped thumb — and there is no reason to do it.",
    "aside": "All owners and user of BERSA® pistols are reminded to use the manual safety lever to decock their pistols. This is the only way to safely lower the hammer.",
    "quote": "The hammer should NEVER be manually lowered by pulling the trigger. Manually lowering the hammer is dangerous and may cause serious injury or death.",
@@ -28,6 +30,7 @@
    "phase": "Clear",
    "title": "⚠ The key lock stops the strip too",
    "action": "If the internal locking system above the trigger on the left side of the frame is in the locked position (S), unlock it (F) before going further.",
+   "box": "limit",
    "prose": "⚠ Worth knowing before you decide something is broken: in the locked position the pistol cannot be cocked, cannot be fired double action, cannot be loaded — and cannot be disassembled either.",
    "quote": "In the locked position (S) you can not cock the hammer, fire in double action, load a catridge in the chamber or disassemble the pistol.",
    "cite": "Bersa Thunder Series Safety Warnings and Instruction Handbook — Thunder Series Safety Warnings and Instruction Handbook — SAFETY KEY, printed p.5"
@@ -36,6 +39,7 @@
    "phase": "Strip",
    "title": "⛔ Slide back, disassembly lever, then the SECOND stop",
    "action": "Hold the pistol in your shooting hand. With the other hand, grasp the grooved surface at the rear of the slide and pull it back. Press the disassembly lever, and the slide will go back again to a second stop.",
+   "box": "none",
    "prose": "⛔ The second stop is the whole trick. If the slide will not lift off, it is at the first stop and the lever needs pressing again.",
    "quote": "With the other hand, grasp the grooved surface at the rear of the slide and pull it back. Press disassembly piece nr. 21 and the slide will go back again to a second stop (Figure 2).",
    "cite": "Bersa Thunder Series Safety Warnings and Instruction Handbook — Thunder Series Safety Warnings and Instruction Handbook — DISASSEMBLING AFTER FIRING, printed p.6"
@@ -44,6 +48,7 @@
    "phase": "Strip",
    "title": "Lift the rear of the slide, then pull it forward off",
    "action": "With the slide at its second stop, lift the rear of the slide and pull it forward off the frame. The recoil spring comes off the fixed barrel with it.",
+   "box": "none",
    "prose": "The barrel does not come out on this pistol — it is fixed to the frame, which is why the bore is cleaned from the breech with the slide off.",
    "quote": "Then lift the slide and pull (Figure 3).",
    "cite": "Bersa Thunder Series Safety Warnings and Instruction Handbook — Thunder Series Safety Warnings and Instruction Handbook — DISASSEMBLING AFTER FIRING, printed p.6"
@@ -52,6 +57,7 @@
    "phase": "Clean",
    "title": "Barrel and chamber with solvent",
    "action": "Clean the barrel and chamber thoroughly with solvent, and clean all the exposed internal surfaces while they are open.",
+   "box": "none",
    "prose": "A .380 blowback vents a lot of residue back into the frame, so the \"exposed internal surfaces\" part is not filler — it is where the fouling actually is.",
    "quote": "After disassembling, clean the barrel and chamber thoroughly with solvent to clean all exposed internal surfaces.",
    "cite": "Bersa Thunder Series Safety Warnings and Instruction Handbook — Thunder Series Safety Warnings and Instruction Handbook — CARE AND CLEANING, printed p.6"
@@ -60,6 +66,7 @@
    "phase": "Clean",
    "title": "⛔ The bolt face and UNDER THE EXTRACTOR HOOK",
    "action": "Give special attention to the bolt face, where the firing pin protrudes, and to the area under the extractor hook.",
+   "box": "limit",
    "prose": "⛔ Bersa names both by name. Carbon packed under an extractor claw is the classic cause of failures to extract on a small blowback, and the firing pin hole is where residue collects into light strikes.",
    "quote": "Give special attention to the bolt face (where the firing pin protrudes) and under the extractor hook.",
    "cite": "Bersa Thunder Series Safety Warnings and Instruction Handbook — Thunder Series Safety Warnings and Instruction Handbook — CARE AND CLEANING, printed p.6"
@@ -68,6 +75,7 @@
    "phase": "Clean",
    "title": "Sparingly — and wipe the excess off",
    "action": "Lubricate the moving parts sparingly with a light, high-quality firearm lubricant, then wipe off any excess oil.",
+   "box": "none",
    "prose": "Sparingly and then wiped. A pocket .380 lives in lint, and surplus oil turns lint into paste in the rails.",
    "quote": "Lubricate moving parts sparingly with a light high-­quality firearm lubricant.",
    "cite": "Bersa Thunder Series Safety Warnings and Instruction Handbook — Thunder Series Safety Warnings and Instruction Handbook — CARE AND CLEANING, printed p.6"
@@ -76,6 +84,7 @@
    "phase": "Clean",
    "title": "⛔ Nothing left in the bore, and no oil in the chamber",
    "action": "After cleaning, check no patch or other obstruction has been left in the bore or chamber. Wipe any oil preservative out of the chamber before shooting, and never lubricate the cartridges.",
+   "box": "none",
    "prose": "⛔ Bersa gives the mechanism: lubricant interferes with the friction between the case and the chamber wall that the design depends on. On a blowback that friction is doing real work.",
    "aside": "After cleaning, make sure you have not left a cleaning",
    "quote": "Wipe any oil preservative from the chamber before",
@@ -85,6 +94,7 @@
    "phase": "Strip",
    "title": "Field strip complete — three pieces and no further",
    "action": "Frame with its fixed barrel, slide, and recoil spring. Bersa publishes nothing beyond this for an owner.",
+   "box": "none",
    "prose": "⛔ There is no firing pin, extractor or lockwork procedure anywhere in this book — only a spare-parts diagram, which is an ordering aid and not a procedure. The extractor hook is cleaned in place.",
    "quote": "Put the spring around the barrel.",
    "cite": "Bersa Thunder Series Safety Warnings and Instruction Handbook — Thunder Series Safety Warnings and Instruction Handbook — REASSEMBLY, printed p.7",

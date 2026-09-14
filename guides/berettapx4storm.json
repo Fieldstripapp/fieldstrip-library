@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Unloaded first, and work over a table",
    "action": "Prove the chamber empty before anything else. Beretta's own caution for this job is about parts on the floor: the recoil spring, its guide and the central block all come loose in the same movement.",
+   "box": "limit",
    "aside": "It is advisable to perform field stripping and assembly operations over a table to catch components should they drop.",
    "quote": "WARNING: Make sure the pistol is unloaded. If not, unload it following the unloading instructions in this manual.",
    "cite": "Beretta PX4 User Manual — C62009 003 - P029181/000 (form code printed in the running header) — FIELD STRIPPING, printed p.21"
@@ -18,6 +19,7 @@
    "phase": "Strip",
    "title": "Magazine out, then both sides of the latch DOWN together",
    "action": "Press the magazine release and drop the magazine. Then take the disassembly latch with the thumb and index finger of your supporting hand and press BOTH sides downward at the same time. One side alone will not release it — that is the single thing that stops people on a PX4.",
+   "box": "none",
    "aside": "Press the magazine release button to remove the magazine",
    "quote": "With the thumb and index finger of the supporting hand, simultaneously press the two sides of the disassembly latch downwards",
    "cite": "Beretta PX4 User Manual — C62009 003 - P029181/000 (form code printed in the running header) — FIELD STRIPPING, printed p.21"
@@ -26,6 +28,7 @@
    "phase": "Strip",
    "title": "Nudge the slide forward, then run it off",
    "action": "With the latch held down, push the slide gently forward while pressing on its rear, then pull the whole slide-barrel assembly off the frame — central block, recoil spring and spring guide still in it.",
+   "box": "none",
    "quote": "Gently push the slide towards the thumb of the hand which is holding the pistol while pressing on the rear part of the slide",
    "cite": "Beretta PX4 User Manual — C62009 003 - P029181/000 (form code printed in the running header) — FIELD STRIPPING, printed p.21"
   },
@@ -33,6 +36,7 @@
    "phase": "Strip",
    "title": "Sights DOWN, and the central block comes out",
    "action": "Turn the slide so the sights face DOWNWARD, then take the central block, recoil spring and spring guide off the barrel together. The orientation is not incidental: the parts are held in place by gravity at this point in the strip.",
+   "box": "none",
    "aside": "Pull out the recoil spring from the central block (Fig. 15).",
    "quote": "remove the central block, recoil spring and recoil spring guide from the barrel",
    "cite": "Beretta PX4 User Manual — C62009 003 - P029181/000 (form code printed in the running header) — FIELD STRIPPING, printed p.21"
@@ -41,6 +45,7 @@
    "phase": "Strip",
    "title": "⛔ Now TURN the barrel out — do not lift it",
    "action": "Hold the slide with the sights UP and the front sight slightly higher, then rotate the barrel counter-clockwise as seen from the rear and it comes free. A tilting-barrel habit does not work here; the PX4's barrel unlocks by rotation and it leaves the slide the same way. That is the strip complete.",
+   "box": "none",
    "quote": "Holding the slide with the sights turned upward and slightly inclined (front sight higher), remove the barrel by rotating the barrel itself (counter-clockwise looking at it from the rear)",
    "cite": "Beretta PX4 User Manual — C62009 003 - P029181/000 (form code printed in the running header) — FIELD STRIPPING, printed p.21"
   },
@@ -48,6 +53,7 @@
    "phase": "Clean",
    "title": "Bore from the chamber end — the caution here is specific",
    "action": "Brush in from the chamber and scrub chamber and bore, solvent first if it needs it, then patches until one emerges clean. Beretta's warning is narrower than the usual one and worth reading exactly: do not push the brush in from the MUZZLE while the barrel is still in the pistol.",
+   "box": "none",
    "aside": "Cleaning the barrel from the breech (chamber) end will avoid damaging the muzzle or bore.",
    "quote": "Insert the brush into the barrel from the chamber and scrub the chamber and bore thoroughly. If necessary, first clean the bore with a gun solvent.",
    "cite": "Beretta PX4 User Manual — C62009 003 - P029181/000 (form code printed in the running header) — MAINTENANCE, printed p.33-34"
@@ -56,6 +62,7 @@
    "phase": "Clean",
    "title": "The double cam and locking lugs are the working surfaces",
    "action": "On a rotating-barrel pistol the double cam and the locking lugs do all the unlocking work, so they are the surfaces that must be clean and then lightly oiled. Cotton cloth with gun oil, brush only if it needs it.",
+   "box": "none",
    "aside": "Lightly oil the barrel double cam, the locking lugs and the bore. Lightly oil the outside of the barrel.",
    "quote": "Clean the barrel double cam and locking lugs with a cotton cloth soaked in gun oil; If necessary use the supplied brush.",
    "cite": "Beretta PX4 User Manual — C62009 003 - P029181/000 (form code printed in the running header) — MAINTENANCE, printed p.33-34"
@@ -64,6 +71,7 @@
    "phase": "Clean",
    "title": "Central block: the tooth and the spring-guide hole",
    "action": "Clean the central block with an oiled cloth, paying attention to the block tooth and the spring guide hole — the two features that carry the rotation. Dry it carefully, then oil lightly.",
+   "box": "limit",
    "quote": "Clean the central block with a cloth soaked in gun oil paying particular attention to the block tooth and the spring guide hole.",
    "cite": "Beretta PX4 User Manual — C62009 003 - P029181/000 (form code printed in the running header) — MAINTENANCE, printed p.33-34"
   },
@@ -71,6 +79,7 @@
    "phase": "Clean",
    "title": "Breech face, extractor, rails, locking recesses",
    "action": "Oiled cloth over the slide with attention to the breech face, the extractor, the slide rails, the locking shoulders and the locking recesses — then dry the surfaces and oil the slide lightly.",
+   "box": "none",
    "aside": "Lightly oil the recoil spring and the spring guide assembly with gun oil. After extensive use it may be necessary to first clean these parts using the supplied brush and gun oil.",
    "quote": "Clean the slide with a cloth",
    "cite": "Beretta PX4 User Manual — C62009 003 - P029181/000 (form code printed in the running header) — MAINTENANCE, printed p.33-34"

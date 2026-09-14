@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Safety lever to SAFE, magazine out",
    "action": "Thumb the safety lever to S before anything else, then press the magazine release lever and pull the magazine down and out. On a bullpup the magazine sits behind the trigger, in the butt, so it comes DOWN and slightly rearward rather than out of a grip — and the chamber you are about to check is behind your face, not in front of it. Get the safety on first; the order matters more here than on a conventional rifle.",
+   "box": "none",
    "aside": "Press the magazine release lever and pull the magazine down and out of the rifle.",
    "quote": "Using your thumb, ensure that the safety lever is positioned to S, “SAFE” (see Safety Lever Positions on p. 28).",
    "cite": "IWI TAVOR® X95™ Semi-Automatic Rifle Operator Manual — P/N: 08011021600, Rev.: E — 10.1.1 Unloading and Safety Check, step 1, printed p.32 (PDF page 37)"
@@ -18,6 +19,7 @@
    "phase": "Clear",
    "title": "Muzzle up 60°, cocking handle worked three times",
    "action": "Hold the grip with your strong hand, trigger finger straight along the frame, and raise the muzzle sixty degrees above horizontal. Now cock and release the cocking handle fully three times, letting the carrier run forward under its own spring every time. Do not ride it forward — the point of the three cycles is that a round sitting in the chamber gets picked up and thrown clear by a carrier moving at full speed, and a hand-guided carrier will not do that.",
+   "box": "limit",
    "prose": "Hold the rifle grip with your strong hand, keeping trigger finger straight on the frame of rifle.",
    "quote": "Cock and release the cocking handle fully three times releasing the cocking handle to let the bolt carrier move forcefully each time (do not “RIDE” the cocking handle forward).",
    "cite": "IWI TAVOR® X95™ Semi-Automatic Rifle Operator Manual — P/N: 08011021600, Rev.: E — 10.1.1 Unloading and Safety Check, step 5, printed p.33 (PDF page 38)"
@@ -26,6 +28,7 @@
    "phase": "Clear",
    "title": "Bolt locked back on the bolt carrier stop",
    "action": "Lean slightly forward, roll the rifle so the butt is horizontal with its right side uppermost, and brace the butt. Pull the cocking handle fully to the rear with your support hand, then push in the FRONT end of the bolt carrier stop with your strong hand and let the bolt ease forward a fraction until it catches. That small forward movement is what seats the carrier on the stop; hold it all the way back and release, and the bolt simply runs home again.",
+   "box": "none",
    "quote": "Pull and hold the cocking handle fully to the rear with support hand and move your strong hand to push in the front end of the bolt carrier stop, letting the bolt then move slightly forward to lock the bolt back (to the rear).",
    "cite": "IWI TAVOR® X95™ Semi-Automatic Rifle Operator Manual — P/N: 08011021600, Rev.: E — 10.1.1 Unloading and Safety Check, step 5, printed p.33 (PDF page 38)"
   },
@@ -33,6 +36,7 @@
    "phase": "Clear",
    "title": "Muzzle down 45°, chamber looked at with light on it",
    "action": "Lower the muzzle forty-five degrees below horizontal and look into the barrel chamber through the ejection port. The X95's chamber sits deep in the receiver behind the grip, so it is genuinely dark in there — IWI's instruction is to use a flashlight rather than squint, and their wording is the standard to hold yourself to: you must not think it is empty, you must know.",
+   "box": "none",
    "quote": "Check visually that the barrel chamber is empty (“CLEAR”). If there is not enough light for you to see clearly that the chamber is empty, use a flashlight or other artificial light.",
    "cite": "IWI TAVOR® X95™ Semi-Automatic Rifle Operator Manual — P/N: 08011021600, Rev.: E — 10.1.1 Unloading and Safety Check, step 7, printed p.33 (PDF page 38)",
    "warn": "You must not “think” the chamber is empty, you must KNOW it is empty, because if you are wrong, death or serious injury may result.",
@@ -42,6 +46,7 @@
    "phase": "Clear",
    "title": "Bolt closed, hammer dropped, safety back to SAFE",
    "action": "Close the bolt — either pull the cocking handle back and release, or depress the REAR of the bolt carrier stop. Lower the muzzle thirty degrees, move the lever to F, and press the trigger to drop the hammer. Then put the lever back to S. The dry fire is deliberate: IWI wants the hammer down for storage rather than a spring held compressed, and the stripping that follows is easier with the hammer forward.",
+   "box": "none",
    "aside": "Move the safety lever to the S, “SAFE”, position. Your rifle is now ready for storage.",
    "quote": "Pull back on the cocking handle and release, or depress the rear of the bolt carrier stop, to close the bolt for storage.",
    "cite": "IWI TAVOR® X95™ Semi-Automatic Rifle Operator Manual — P/N: 08011021600, Rev.: E — 10.1.1 Unloading and Safety Check, step 8, printed p.33 (PDF page 38)"
@@ -50,6 +55,7 @@
    "phase": "Strip",
    "title": "Butt locking pin pushed through, butt swung open",
    "action": "Push the butt locking pin from the RIGHT side of the rifle and pull it through to the LEFT until it stops. It is a captive pin — it is meant to stay in the rifle, and IWI's instruction in capitals is not to pull it out. Once it stops, the butt plate at the very back of the rifle swings open, exposing the rear of the receiver tunnel the recoil mechanism lives in.",
+   "box": "limit",
    "prose": "The butt locking pin is captive. It is pushed in from the right, drawn across to the left until it stops, and left in the rifle; the butt then swings open.",
    "aside": "on the right side and pull it through the rifle to the left side until it stops.",
    "quote": "DO NOT PULL THE PIN OUT COMPLETELY.",
@@ -59,6 +65,7 @@
    "phase": "Strip",
    "title": "Recoil mechanism drawn out of the back of the rifle",
    "action": "With the butt open, pull the recoil mechanism straight out through the rear. The whole assembly — bolt carrier, bolt, firing pin, return spring and buffer — leaves the rifle as one unit, which is the bullpup's compensation for having no hinged upper. Note that the X95 needs nothing removed first: its 14.1.4 initial setup is the unloading and safety check and nothing else.",
+   "box": "none",
    "quote": "Remove the recoil mechanism (see p. 64).",
    "cite": "IWI TAVOR® X95™ Semi-Automatic Rifle Operator Manual — P/N: 08011021600, Rev.: E — 12.2 Post-Firing Maintenance, step 2, printed p.45 (PDF page 50)",
    "warn": "This is one of the places the X95 and the Tavor SAR differ. The SAR's manual makes removing the sear mechanism a precondition of this step; the X95's manual does not. Do not carry the SAR procedure across.",
@@ -68,6 +75,7 @@
    "phase": "Strip",
    "title": "Bolt rotation control bar pulled back into its removal notch",
    "action": "Set the recoil mechanism to its rearward position before anything comes off it. Pull the bolt rotation control bar to the rear until it stops — at that point it sits flush with the buffer. Keep pulling and you will feel a little resistance give as it snaps into the removal notch in the buffer, and the rear of the bar then stands 1.43 inches proud of the back of the buffer. That measured protrusion is your confirmation the bar is in the notch and not merely pulled back.",
+   "box": "none",
    "prose": "Pull bolt rotation control bar to the rear until it stops. The bar at this time will be flush with the buffer.",
    "quote": "Continue to pull the bar and you will feel minor resistance on the bar until it snaps into the removal notch in the buffer. The rear of the bar will protrude 1.43 inch through the back of the buffer.",
    "cite": "IWI TAVOR® X95™ Semi-Automatic Rifle Operator Manual — P/N: 08011021600, Rev.: E — 14.2.1.1 Gas-Operated Recoil mechanism, Disassembly, step 1, printed p.74 (PDF page 79)"
@@ -76,6 +84,7 @@
    "phase": "Strip",
    "title": "Bolt guiding pin out, bolt and firing pin unit out of the carrier",
    "action": "Push out the bolt guiding pin, then draw the bolt assembly and the firing pin unit out of the bolt carrier. Both come out of the same end. Going back together the guiding pin is installed with thumb pressure only — if it needs a hammer, something is not lined up, and forcing it is how the carrier gets damaged.",
+   "box": "none",
    "aside": "using thumb pressure only.",
    "quote": "Separate the bolt guiding pin, bolt assembly, firing pin and spring from the bolt carrier (see pp. 74-75).",
    "cite": "IWI TAVOR® X95™ Semi-Automatic Rifle Operator Manual — P/N: 08011021600, Rev.: E — 12.2 Post-Firing Maintenance, step 6.i, printed p.46 (PDF page 51)"
@@ -84,6 +93,7 @@
    "phase": "Strip",
    "title": "Firing pin spring separated from the firing pin",
    "action": "Slide the firing pin spring off the firing pin so both can be cleaned and inspected on their own. Note the firing pin's shape before it goes anywhere — it has a flat edge and two flanges, and both matter on reassembly: the flat faces the top of the carrier, and the half-moon shelf at the rear of the carrier has to sit centred between the flanges.",
+   "box": "none",
    "aside": "Be sure the flat edge of the firing pin is facing the top of the carrier, as shown in Detail A below).",
    "quote": "When inserting the firing pin, the shelf at the rear of the bolt carrier, which is a half-moon shape, should be centered between the two flanges on the firing pin.",
    "cite": "IWI TAVOR® X95™ Semi-Automatic Rifle Operator Manual — P/N: 08011021600, Rev.: E — 14.2.1.1 Gas-Operated Recoil mechanism, Assembly, NOTE, printed p.77 (PDF page 82)"
@@ -92,6 +102,7 @@
    "phase": "Strip",
    "title": "Sear mechanism out — storage cleaning only, not every strip",
    "action": "For a routine post-firing clean the X95 book leaves the sear mechanism alone. It comes out only for the before-storing clean: press the two locking pins from the right and pull them through to the left until they stop, open the bolt carrier stop lever, and lift the sear mechanism out. Both pins are captive like the butt pin. Once it is out, do not let the hammer fall — with no housing around it the hammer will damage the frame.",
+   "box": "limit",
    "prose": "Both sear locking pins are captive in the same way as the butt pin: pressed from the right, drawn across to the left, and left in the rifle.",
    "caution": "Do not release the hammer when the sear mechanism is removed from the rifle. This will damage the housing.",
    "quote": "DO NOT PULL THE LOCKING PINS OUT COMPLETELY.",
@@ -103,6 +114,7 @@
    "phase": "Strip",
    "title": "If yours is a .300 BLK, the gas regulator comes out too",
    "action": "The X95 in .300 Blackout carries a two-position gas regulator integrated into the barrel, and the post-firing routine adds two steps for it: take the regulator out and clean the gas ports of the barrel and of the regulator. The 5.56 NATO and 9mm Para models have no such part — 9mm is blowback and has no gas system at all — so those two steps do not exist for them. Check what your barrel is marked before you go looking for a regulator that is not there.",
+   "box": "none",
    "aside": "Clean the gas ports of the barrel and gas regulator.",
    "quote": "Steps 3 and 4 are only applicable to .300 BLK models.",
    "cite": "IWI TAVOR® X95™ Semi-Automatic Rifle Operator Manual — P/N: 08011021600, Rev.: E — 12.2 Post-Firing Maintenance, NOTE, printed p.45 (PDF page 50)",
@@ -113,6 +125,7 @@
    "phase": "Strip",
    "title": "Field strip complete — and this is where IWI stops you",
    "action": "Recoil mechanism out and broken down to bolt, firing pin, spring and carrier; sear mechanism out if you are cleaning for storage; gas regulator out on a .300 BLK. That is the whole of the operator-level strip IWI publishes. Everything past this point in the book is armorer work, and the manual's stop notice says so in plain terms. Clean what you have out and put it back.",
+   "box": "limit",
    "quote": "armorers can result in damage to or destruction of the rifle, voiding of the warranty, and possibly the creation of UNSAFE CONDITIONS THAT COULD RESULT IN DEATH OR SERIOUS INJURY.",
    "cite": "IWI TAVOR® X95™ Semi-Automatic Rifle Operator Manual — P/N: 08011021600, Rev.: E — STOP! / WARNING! preceding section 15 Exploded View Diagrams, printed p.94 (PDF page 99)",
    "branch": true

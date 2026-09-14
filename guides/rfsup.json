@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "⛔ NO GAP at the shoulder — check the fit before firing",
    "action": "This is the check that prevents a baffle strike. The thread mount must be FULLY shouldered against the barrel with no visible gap between the barrel shoulder and the face of the mount. If there is a gap, the silencer does not go on the gun that day.",
+   "box": "none",
    "quote": "The thread mount must be fully shouldered on the barrel. There should be no visible gap between the barrel shoulder and the face of the suppressor thread mount.",
    "cite": "SilencerCo Sparrow 22 Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
   },
@@ -17,6 +18,7 @@
    "phase": "Clear",
    "title": "⛔ Off the host firearm before anything comes apart",
    "action": "Completely remove the silencer from the firearm before assembly or disassembly is attempted. A can still on a muzzle device does unexpected things when its end caps come loose.",
+   "box": "limit",
    "quote": "Assembly and disassembly should never be performed while the suppressor is affixed in any manner to a host firearm.",
    "cite": "SilencerCo Sparrow 22 Field Manual — ⛔ No form or revision code is printed in this book. — WARNING"
   },
@@ -24,6 +26,7 @@
    "phase": "Strip",
    "title": "Back cap off, then push the outer tube off",
    "action": "Unscrew the back cap from the silencer and slide the outer tube off the half tubes and core. If it is tight, stand the silencer rear-down on a flat surface and push down — that is SilencerCo's own trick for a fouled tube.",
+   "box": "none",
    "aside": "To aid in outer tube removal, once the back cap is removed, place the rear of the silencer on a flat surface and push downward.",
    "quote": "Unscrew the back cap from the silencer. Slide the outer tube off of the half tubes and monolithic core.",
    "cite": "SilencerCo Sparrow 22 Field Manual — ⛔ No form or revision code is printed in this book. — Assembly & Modularity"
@@ -32,6 +35,7 @@
    "phase": "Strip",
    "title": "Peel the half tubes off the core — strip complete",
    "action": "Peel the two half tubes away from the monolithic core. That is the whole strip: outer tube, two half tubes, core, back cap, and three O-rings. ⛔ It must be cleaned before it goes back together — carbon buildup will stop the parts fitting properly.",
+   "box": "none",
    "aside": "When the Sparrow 22 is taken apart after firing, it must be cleaned before reassembly. Buildup of carbon and fouling will result in improper fit of the parts.",
    "quote": "Peel half tubes away from the monolithic core.",
    "cite": "SilencerCo Sparrow 22 Field Manual — ⛔ No form or revision code is printed in this book. — DISASSEMBLY"
@@ -40,6 +44,7 @@
    "phase": "Clean",
    "title": "Internals take solvent; ⛔ the OUTER TUBE does not",
    "action": "The internal components can take solvents, light abrasive media or certain chemical dips. ⛔ The outer tube cannot: no solvents and no ultrasonic cleaner, or the finish goes — and the serial number is on that tube. If the finish has discoloured, wipe it with a good gun oil and it comes back.",
+   "box": "none",
    "aside": "If the finish of the outer tube becomes discolored, wipe the silencer with any high quality gun oil; this should restore the finish to the factory condition.",
    "quote": "The Sparrow 22 internal components can be cleaned using solvents, light abrasive media, or certain chemical dips.",
    "cite": "SilencerCo Sparrow 22 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
@@ -48,6 +53,7 @@
    "phase": "Clean",
    "title": "Every 1,000 rounds — sooner on dirty ammunition",
    "action": "SilencerCo's interval is about 1,000 rounds, and says outright that more often may be needed depending on the ammunition. Rimfire varies enormously in how much unburnt powder and lead it leaves behind; let the state of the core decide, not the counter.",
+   "box": "limit",
    "quote": "It is recommended to clean the Sparrow 22 after 1,000 rounds, although greater frequency might be needed depending on the type of ammunition used.",
    "cite": "SilencerCo Sparrow 22 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
   },
@@ -55,6 +61,7 @@
    "phase": "Clean",
    "title": "Dry it completely before reassembly",
    "action": "Dry every component thoroughly before it goes back together. Trapped solvent under a half tube corrodes a rimfire can from the inside where you cannot see it.",
+   "box": "none",
    "quote": "Dry all components thoroughly before reassembling.",
    "cite": "SilencerCo Sparrow 22 Field Manual — ⛔ No form or revision code is printed in this book. — Maintenance"
   }

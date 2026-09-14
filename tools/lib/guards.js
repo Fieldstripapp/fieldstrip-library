@@ -89,6 +89,23 @@ const GUIDE_KEYS = new Set([
 const STEP_KEYS = new Set([
   'phase', 'title', 'action', 'prose', 'caution', 'aside',
   'quote', 'cite', 'quoteLang', 'quoteEnglish', 'warn', 'branch',
+  /* ⛔ box — REVIEWED AND ADMITTED. It carries no text of its own: the only
+     values are the five literals "none", "quote", "limit", "bilingual" and
+     "passage", naming WHICH FORM the app draws the manufacturer's sentence in.
+     No path, no person, nothing about the operator.
+     ⛔ AND IT IS LOAD-BEARING, not decoration. The app decides that form at
+     build time with a detector the phone cannot run; without the field a
+     downloaded guide would present a maker's words differently from the same
+     guide compiled into the build — an inline hard-limit line silently becoming
+     a quotation box, or a bilingual step losing the maker's original sentence
+     and showing only our translation. That the guard refused it until this line
+     was written is the allowlist doing its job. */
+  'box',
+  /* ⛔ gloss — REVIEWED AND ADMITTED. Our own margin note on a manufacturer's
+     passage, already owner-facing text in the app and already checked by the
+     app's own owner-facing-text gate. It goes out only on a step whose form IS
+     a passage, which is the only form that draws it. */
+  'gloss',
   /* ⛔ warnSrc — REVIEWED AND ADMITTED (Darren ruling, vC34 item 17). It carries
      no text of its own: the only values are the literals "maker" and "ours", and
      it says whose sentence the `warn` beside it is. 714 of the app's 1,637

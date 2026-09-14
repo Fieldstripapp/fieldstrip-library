@@ -31,8 +31,17 @@ function spliceProvenance(html) {
 
   const out = new Map();
   /* Each guide opens `"sg_<row>": {` and may carry sourcedFrom / sourceSha256
-     before the next one opens. Tier (c) rows carry neither, by design. */
-  const re = /"sg_([A-Za-z0-9_]+)":\s*\{/g;
+     before the next one opens. Tier (c) rows carry neither, by design.
+
+     ⛔ THE ROW IS EVERYTHING UP TO THE CLOSING QUOTE, NOT [A-Za-z0-9_]+.
+     Measured 2026-09-14: the stricter class silently skipped `waltherssp e`,
+     whose id carries a space — so this gate reported it as "authored since the
+     app last ran its splice" when the app HAD spliced it, and never checked its
+     provenance at all. That row is the one guide in the corpus citing TWO of the
+     maker's own books, which makes it precisely the row whose provenance line is
+     most worth comparing. A character class is an assumption about ids; the
+     closing quote is the actual delimiter. */
+  const re = /"sg_([^"]+)":\s*\{/g;
   const starts = [];
   let m;
   while ((m = re.exec(block)) !== null) starts.push({ row: m[1], at: m.index });

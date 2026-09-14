@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Magazine out, chamber checked from top and rear",
    "action": "Point it somewhere safe, press the magazine release and take the magazine out, then inspect the chamber from above and from behind. Both angles — a 1911's ejection port hides a case rim from one of them depending how you hold it.",
+   "box": "none",
    "aside": "From top and rear, carefully inspect the chamber to make sure it is empty.",
    "quote": "Press the magazine release button to remove the magazine.",
    "cite": "American Tactical FX-45 Series Owners Manual — FX-45 Series Owners manual — Operations Information, Unloading, steps 2-3, p.4"
@@ -18,6 +19,7 @@
    "phase": "Clear",
    "title": "Slide eased forward, hammer lowered under control",
    "action": "Hold the slide, disengage the slide stop and ease the slide forward — do not let it slam. Then lower the hammer deliberately: grip the pistol so the grip safety is depressed, take the hammer between thumb and forefinger, squeeze the trigger, and walk it all the way down. Release the trigger only when the hammer is fully forward, or the pistol may end up on the safety stop.",
+   "box": "none",
    "caution": "Carefully lower the hammer.",
    "quote": "Hold the slide, disengage the slide stop, ease the slide forward.",
    "cite": "American Tactical FX-45 Series Owners Manual — FX-45 Series Owners manual — Operations Information, Unloading, step 4, p.4",
@@ -28,6 +30,7 @@
    "phase": "Strip",
    "title": "Slide back half an inch, plug held under your thumb",
    "action": "Move the slide rearward about half an inch and grip it there, then press the recoil spring plug in with your thumb. The plug is under full recoil spring tension the whole time your thumb is on it — this is the step that launches parts across a room if you let go.",
+   "box": "limit",
    "quote": "Move slide rearward, approximately 1/2 inch, grasp firmly to hold in place, and depress recoil spring plug with thumb.",
    "cite": "American Tactical FX-45 Series Owners Manual — FX-45 Series Owners manual — Disassembly, Step 2 - Recoil Spring Removal, p.6",
    "warn": "Point muzzle away from face and rotate barrel bushing clockwise.",
@@ -37,6 +40,7 @@
    "phase": "Strip",
    "title": "Bushing rotated, plug and spring let down slowly",
    "action": "Rotate the barrel bushing clockwise with the muzzle pointed away from your face, keeping control of the plug throughout. Do not let the bushing come off the plug unless you have hold of both. Then let the plug and recoil spring move forward under control rather than releasing them.",
+   "box": "limit",
    "aside": "Cautiously allow plug and recoil spring to move forward.",
    "quote": "Do not rotate bushing off of plug unless you have control of plug and spring.",
    "cite": "American Tactical FX-45 Series Owners Manual — FX-45 Series Owners manual — Disassembly, Step 2-3, p.6"
@@ -45,6 +49,7 @@
    "phase": "Strip",
    "title": "Disassembly notch lined up, slide stop out",
    "action": "Move the slide until its disassembly notch sits over the slide stop, then press the slide stop shaft from the right side of the frame and draw the stop out to the left. The notch is the only place it will come out; if it resists, the slide has moved off the notch.",
+   "box": "none",
    "aside": "Press the slide stop shaft on the right side of frame and remove the slide stop by pulling it out the left side of the frame.",
    "quote": "Align disassembly notch on slide with slide stop.",
    "cite": "American Tactical FX-45 Series Owners Manual — FX-45 Series Owners manual — Disassembly, Step 4 - Slide Stop Removal, p.6"
@@ -53,6 +58,7 @@
    "phase": "Strip",
    "title": "Slide forward off the frame",
    "action": "Run the slide forward along its rails and off the front of the frame. Barrel, bushing, recoil spring and guide all come with it — expect the assembly to be heavier than the slide alone and support it as it leaves.",
+   "box": "none",
    "quote": "Pull slide forward in its guides and remove slide. The barrel, barrel bushings, recoil spring and guide will come with it.",
    "cite": "American Tactical FX-45 Series Owners Manual — FX-45 Series Owners manual — Disassembly, Step 5 - Slide Removal, p.6"
   },
@@ -60,6 +66,7 @@
    "phase": "Strip",
    "title": "Recoil spring and guide out the back, bushing and barrel out the front",
    "action": "Take the recoil spring and guide out through the rear of the slide. Then rotate the barrel bushing the other way and remove it forward, tilt the barrel link, and draw the barrel out the front. Barrel out the front, spring out the back — going the wrong way with either just wedges the parts.",
+   "box": "none",
    "prose": "Tilt the barrel link forward and remove the barrel from the front of the slide.",
    "aside": "Rotate the barrel bushing to the left of the slide and remove it through the front.",
    "quote": "Remove recoil spring and guide through back side",
@@ -69,6 +76,7 @@
    "phase": "Strip",
    "title": "One variant in this line strips differently",
    "action": "If your pistol is the FX Titan LW, stop and use ATI's separate short procedure for it: verify unloaded, rack the slide back and remove the slide stop, rack the slide forward and take the slide off, then the stabilizer and springs, then the reverse plug, then the barrel. It has a reverse plug and a stabilizer, not the bushing-and-plug arrangement above.",
+   "box": "none",
    "aside": "Rack the slide back remove the slide stop.",
    "quote": "Disassembly - Titan model only",
    "cite": "American Tactical FX-45 Series Owners Manual — FX-45 Series Owners manual — Disassembly - Titan model only, heading, p.7",
@@ -79,6 +87,7 @@
    "phase": "Strip",
    "title": "Field strip complete",
    "action": "Slide, barrel, bushing, recoil spring, guide and plug are off the frame. That is the strip ATI publishes for the FX-45 Series. Everything from here is routine 1911 cleaning; the book documents no further teardown.",
+   "box": "limit",
    "quote": "Force should not be used to remove or disassemble parts, as it may result in   damage to the parts.",
    "cite": "American Tactical FX-45 Series Owners Manual — FX-45 Series Owners manual — GENERAL DISASSEMBLY INFORMATION, item 4, p.4",
    "branch": true

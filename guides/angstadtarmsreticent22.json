@@ -1,0 +1,106 @@
+{
+ "row": "angstadtarmsreticent22",
+ "make": "Angstadt Arms",
+ "model": "Reticent 22",
+ "sourcedFrom": "RETICENT 22 SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. (ABSENT — no copyright year line is printed.)",
+ "sourceSha256": "474304a35fcecfaed0b579a2d7c410e0d5e0a2460f4e51518da459fef01fb8a4",
+ "cleanIntro": "A sealed 2.5 oz titanium rimfire can, and sealed is Angstadt's own word for it — there is no end cap to unscrew and no baffle stack to push out. What a rimfire can still needs is the lead and carbon out of it, and this book publishes two ways to do that: thirty minutes in an ultrasonic cleaner, or a 12-to-24-hour standing soak with the exit hole plugged. ⛔ The interval is the maintenance: every 500–1,000 rounds on moderate use, every 300–500 on dirty ammunition.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Host unloaded and open before the can comes off",
+   "action": "Magazine out, action open, then look INTO the chamber and put a finger in it. Angstadt lists it as five numbered steps and ends the list with what happens if you skip them.",
+   "box": "none",
+   "aside": "Visually and physically verify the chamber is empty.",
+   "quote": "Remove the magazine from the firearm.",
+   "cite": "RETICENT 22 SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — Angstadt Arms Reticent 22 Instruction Manual — GENERAL FIREARM SAFETY & WARNINGS, printed p.3"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Let it cool before a hand goes near it",
+   "action": "Several hundred degrees is the book's own figure. A rimfire can is small enough to look harmless and holds heat exactly as well as a big one.",
+   "box": "limit",
+   "quote": "Suppressors become extremely hot during firing. Temperatures may exceed several hundred degrees. Never touch a suppressor immediately after firing without protective equipment. Allow the suppressor to cool before handling.",
+   "cite": "RETICENT 22 SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — Angstadt Arms Reticent 22 Instruction Manual — SUPPRESSOR SAFETY WARNINGS, printed p.3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Off the muzzle — and that is the whole strip",
+   "action": "Unscrew it counter-clockwise off the 1/2x28 threads by hand. There is nothing after this: the tube does not open, and Angstadt says so on its product overview page rather than leaving you to find out with a wrench.",
+   "box": "none",
+   "aside": "Rimfire ammunition generates significant carbon and lead fouling. The Reticent 22 is designed to allow straightforward cleaning to maintain consistent performance over extended firing cycles.",
+   "quote": "The Reticent 22 is a sealed titanium rimfire suppressor and does not permit user disassembly.",
+   "cite": "RETICENT 22 SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — Angstadt Arms Reticent 22 Instruction Manual — PRODUCT OVERVIEW, printed p.4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Ultrasonic, thirty minutes, then dry",
+   "action": "The whole can goes in — there is nothing to take out of it first. Half an hour in a proper firearms solution, then out and dried all the way through before it goes back on a barrel.",
+   "box": "none",
+   "aside": "After the cycle is complete, remove the suppressor and allow it to fully dry.",
+   "quote": "Place the entire suppressor body into an ultrasonic cleaner and run a cleaning cycle for approximately 30 minutes using a suitable firearms cleaning solution.",
+   "cite": "RETICENT 22 SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — Angstadt Arms Reticent 22 Instruction Manual — CLEANING PROCEDURE, printed p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Or the standing soak, if there is no ultrasonic on the bench",
+   "action": "Plug the exit hole, stand the can threads-up in a cup so nothing spills, fill it to the top with solvent and leave it overnight or longer. Then the plug comes out, it gets rinsed with water and it dries.",
+   "box": "none",
+   "aside": "Leave solvent in suppressor for 12-24 hours",
+   "quote": "Completely fill the inside of the suppressor with cleaning solvent",
+   "cite": "RETICENT 22 SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — Angstadt Arms Reticent 22 Instruction Manual — CLEANING PROCEDURE, printed p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Wash your hands, and open a window",
+   "action": "Rimfire fouling is lead. This is the one maintenance job in the app where the hazard is the residue itself rather than the firearm.",
+   "box": "none",
+   "quote": "Firing rimfire ammunition and cleaning suppressors may expose users to lead and other hazardous materials. Always wash hands thoroughly after shooting or cleaning a suppressor. Ensure adequate ventilation when cleaning.",
+   "cite": "RETICENT 22 SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or edition code is printed in the document. — Angstadt Arms Reticent 22 Instruction Manual — SUPPRESSOR SAFETY WARNINGS, printed p.4"
+  }
+ ],
+ "deepAbsentReason": "ANGSTADT PUBLISHES NO TEARDOWN FOR THIS CAN BECAUSE THERE IS NONE: \"The Reticent 22 is a sealed titanium rimfire suppressor and does not permit user disassembly.\" The book's maintenance section is the cleaning procedure above and nothing else, and its warranty section sends a suppressor needing service back to the company — \"Contact Angstadt Arms before returning any suppressor for service.\" A deeper procedure authored here would be invention, and on a welded tube it would be an instruction to destroy the product.",
+ "cleaning": [
+  {
+   "name": "THE TUBE (IT DOES NOT OPEN)",
+   "tasks": [
+    "Ultrasonic, ~30 minutes in a firearms cleaning solution",
+    "OR plugged and filled with solvent, standing, 12–24 hours",
+    "Rinsed with water and dried COMPLETELY either way",
+    "⛔ No harsh abrasives or solvents on the outside — the Cerakote is the finish"
+   ]
+  },
+  {
+   "name": "MOUNT AND THREADS",
+   "tasks": [
+    "1/2x28 barrel threads cleaned and checked undamaged while the can is off",
+    "The can's own threads checked before it goes back",
+    "Seated fully against the barrel shoulder, hand tight, no tools"
+   ]
+  },
+  {
+   "name": "⛔ THE INTERVAL IS THE MAINTENANCE",
+   "tasks": [
+    "Every 500–1,000 rounds on moderate use",
+    "Every 300–500 rounds on heavy use or dirty ammunition",
+    "Rimfire lead is what fouls it — the schedule is not optional on a .22 can"
+   ]
+  },
+  {
+   "name": "AFTER THE JOB",
+   "tasks": [
+    "Hands washed thoroughly — the fouling is lead",
+    "Ventilation while cleaning, by the maker's own instruction"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Nothing to reassemble — the can never opened.",
+  "Muzzle threads clean, undamaged, and free of any muzzle device or thread protector.",
+  "Thread the can on by hand, clockwise, until it contacts the barrel shoulder.",
+  "Hand tight. ⛔ No tools.",
+  "Look through the bore and check the can sits straight; if alignment is in doubt, do not fire it.",
+  "Re-check tightness periodically while shooting — thread mounts walk loose as they heat."
+ ],
+ "fncheck": "Dry, and back on the host with the action open and clear: threaded on by hand until it contacts the barrel shoulder, hand tight, nothing used to tighten it. Sight through the bore and confirm it is clear and that the can looks straight relative to it — if it does not, stop, because a misaligned can is a baffle strike waiting to happen. Then check it is still tight after the first few shots and periodically after that."
+}

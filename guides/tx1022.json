@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Magazine out, bolt open, LOOK in the chamber",
    "action": "Point it somewhere harmless, drop the magazine, open the bolt and put your eyes on the chamber. Then let the bolt close — the hammer wants to be cocked for the strip, and closing on an empty chamber is what cocks it.",
+   "box": "none",
    "quote": "With the rifle pointing in a safe direction, remove the magazine, open the bolt and visually make certain there is not a cartridge in the chamber.",
    "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.27"
   },
@@ -17,6 +18,7 @@
    "phase": "Clear",
    "title": "Unload before anything — cleaning included",
    "action": "Ruger states it as its own warning, and on a rimfire it earns the emphasis: a .22 rim crushed by a closing bolt can fire outside the chamber.",
+   "box": "none",
    "quote": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly.",
    "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — WARNING – DISASSEMBLY, p.27"
   },
@@ -24,6 +26,7 @@
    "phase": "Strip",
    "title": "Barrel band forward, if the rifle has one",
    "action": "Loosen the barrel band screw and slide the band forward over the muzzle. Not every 10/22-pattern rifle has one — many clone stocks are free-floated and have none at all — but where it is fitted it must come forward before the action will lift.",
+   "box": "none",
    "quote": "If equipped with a barrel band, loosen the barrel band screw and slide the barrel band forward over the muzzle.",
    "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.27"
   },
@@ -31,6 +34,7 @@
    "phase": "Strip",
    "title": "⛔ LOOSEN the takedown screw — do not remove it",
    "action": "A 5/32\" Allen wrench, and loosen only. The screw is captive in the trigger guard on most of these rifles and taking it right out gains you nothing except a part to lose on the floor.",
+   "box": "limit",
    "quote": "Use a 5/32” Allen wrench to loosen (do not remove) the takedown screw.",
    "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.27"
   },
@@ -38,6 +42,7 @@
    "phase": "Strip",
    "title": "⛔ Centre the safety first — off-centre DAMAGES THE STOCK",
    "action": "Push the safety so an equal amount protrudes each side before you lift anything. If it is not centred when the barrel-receiver assembly comes out, the safety button catches the stock and splits it. This is the single most common way a 10/22 gets damaged during cleaning.",
+   "box": "none",
    "quote": "If the safety is not in the middle when the barrel-receiver assembly is lifted out of the stock, the stock may be damaged.",
    "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.28"
   },
@@ -45,6 +50,7 @@
    "phase": "Strip",
    "title": "⛔ Lift the stock off — and mind THREE loose pins",
    "action": "Lift the stock away from the barrel-receiver assembly and immediately watch the receiver: two receiver cross pins and the bolt stop pin are now held by nothing. Turn the action pin-side up and they stay put; turn it over and they will not.",
+   "box": "limit",
    "quote": "Be careful to ensure that the two receiver cross pins and bolt stop pin do not fall out of the receiver.",
    "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.28"
   },
@@ -52,6 +58,7 @@
    "phase": "Strip",
    "title": "Safety ON, then the trigger housing out",
    "action": "Put the safety to ON, drift out the two receiver cross pins and lift the trigger housing up and out of the receiver. It comes out as one unit and stays that way.",
+   "box": "none",
    "aside": "It is recommended that the components of the trigger housing assembly not be disassembled from the trigger guard.",
    "quote": "Remove the trigger housing by simply drifting out the two receiver cross pins and lifting the trigger housing up and out of the receiver.",
    "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.29"
@@ -60,8 +67,10 @@
    "phase": "Strip",
    "title": "That is the routine strip — Ruger says so",
    "action": "Stock, trigger housing, barrelled action. Everything past this point is for a barrel change or a deep clean of the receiver, not for ordinary maintenance.",
+   "box": "none",
    "quote": "This is the extent of disassembly required for routine inspection, cleaning, and lubrication.",
-   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.29"
+   "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — DISASSEMBLY, p.29",
+   "branch": true
   }
  ],
  "deepSteps": [
@@ -69,6 +78,7 @@
    "phase": "Deep",
    "title": "⛔ The V-BLOCK — two 5/32\" screws, and this is the pattern",
    "action": "Take the two barrel retainer screws out of the barrel retainer v-block with a 5/32\" Allen wrench.",
+   "box": "none",
    "prose": "This V-block is what makes a 10/22 a 10/22 and what every clone builds to. It is also why a clone barrel drops into a Ruger receiver and vice versa — the interface is the standard, not the badge.",
    "quote": "Use a 5/32” Allen wrench to remove the two barrel retainer screws from the barrel retainer v-block.",
    "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — To Remove the Barrel, p.29"
@@ -77,6 +87,7 @@
    "phase": "Deep",
    "title": "V-block out, then the barrel",
    "action": "Lift the V-block away and draw the barrel out of the receiver.",
+   "box": "none",
    "prose": "Order matters: the block is the clamp. Pulling on the barrel with the block still seated works the barrel shank against it and marks both.",
    "quote": "Remove the barrel retainer v-block and then remove the barrel.",
    "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — To Remove the Barrel, p.29"
@@ -85,6 +96,7 @@
    "phase": "Deep",
    "title": "Bolt out — hammer cocked, safety ON, action inverted",
    "action": "Cock the hammer if it is not already, set the safety ON, and turn the barrelled action upside down so the bolt is fully accessible.",
+   "box": "none",
    "prose": "Ruger's own warning is that removing and installing the bolt is simple but must be done correctly to avoid damaging the rifle. The setup is most of the correctness.",
    "quote": "Manually cock the hammer if not cocked and place the safety in the “ON” position.",
    "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — To Remove the Bolt, p.30"
@@ -93,6 +105,7 @@
    "phase": "Deep",
    "title": "Bolt stop pin out, then the bolt handle fully rearward",
    "action": "With the trigger housing already out, drift the bolt stop pin from the rear of the receiver, then pull the bolt handle fully to the rear.",
+   "box": "none",
    "prose": "The bolt stop pin is the only thing holding the bolt in. Drift it before the handle moves, not after.",
    "quote": "Drift out the bolt stop pin located at the rear of the receiver.",
    "cite": "Ruger® 10/22® Autoloading Rifle Instruction Manual — 10/22 instruction manual — To Remove the Bolt, p.30"

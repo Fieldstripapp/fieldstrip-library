@@ -10,6 +10,7 @@
    "phase": "Clear",
    "title": "Glasses on, muzzle safe, safety to S",
    "action": "Eye protection first, muzzle somewhere harmless, finger off the trigger, and the safety selector to 'S'. The book puts these in that order before the magazine even comes out.",
+   "box": "none",
    "aside": "POINT GUN IN SAFE DIRECTION WHILE KEEPING FINGER OFF THE TRIGGER.",
    "quote": "Always use proper eye protection when cleaning firearms.",
    "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — FIELD STRIPPING (printed p.26, per Figure 26-1 on the page)"
@@ -18,6 +19,7 @@
    "phase": "Clear",
    "title": "Magazine out and the rifle proved unloaded",
    "action": "Drop the magazine and unload the rifle, then check the chamber by eye and by finger. This rifle fires with the magazine out if a round is chambered, which is exactly what the book's capitalised warning is about.",
+   "box": "none",
    "aside": "ALWAYS REMEMBER THE FIREARM IS ABLE TO FIRE WITH OR WITHOUT THE MAGAZINE IN PLACE.",
    "quote": "Remove magazine and unload firearm.",
    "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — FIELD STRIPPING (printed p.26, per Figure 26-1 on the page)"
@@ -26,6 +28,7 @@
    "phase": "Strip",
    "title": "Adjustable cheek piece off first, if the rifle has one",
    "action": "If yours has an adjustable cheek piece, take it off before the bolt comes back — on an adjustable stock the riser sits in the bolt's path and you will be levering the bolt past it otherwise.",
+   "box": "none",
    "quote": "Remove the cheek piece if rifle is equipped with an adjustable cheek piece (See Know Your Firearm Section).",
    "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — FIELD STRIPPING (printed p.26, per Figure 26-1 on the page)"
   },
@@ -33,14 +36,17 @@
    "phase": "Strip",
    "title": "Bolt fully back, then press the REAR of the bolt stop",
    "action": "Draw the bolt to its rearmost position and press the rear surface of the bolt stop, then pull the bolt straight out to the rear. Pressing the front of the stop does nothing; it is the rear face that releases.",
+   "box": "none",
    "aside": "The rifle is now field stripped for routine cleaning.",
    "quote": "Depress the rear surface of the bolt stop and remove the bolt rearward (Figure 261).",
-   "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — FIELD STRIPPING (printed p.26, per Figure 26-1 on the page)"
+   "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — FIELD STRIPPING (printed p.26, per Figure 26-1 on the page)",
+   "branch": true
   },
   {
    "phase": "Clean",
    "title": "Barrel from the chamber to the muzzle, ejection port down",
    "action": "Lay the barrelled action horizontally with the ejection port facing DOWN so solvent runs out rather than into the action, and always clean from the chamber end toward the muzzle. Push the brush fully out of the muzzle before pulling back — reversing a brush mid-bore is how one jams.",
+   "box": "none",
    "aside": "You cannot change direction of the brush when brush is in the bore as this can jam the brush in the bore.",
    "quote": "NOTE: Barrel should lay horizontally with the ejection port facing downward during cleaning. Always clean the barrel from the chamber to the muzzle.",
    "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — CLEANING THE BARREL (PDF p.34; this edition prints no page folios)"
@@ -49,6 +55,7 @@
    "phase": "Clean",
    "title": "Patch until clean, then oil, then take the oil back out",
    "action": "Solvent-soaked jag and patch through, repeating with a fresh patch each time until nothing shows, then one oiled patch and one dry patch behind it. The dry patch matters: oil left standing in a bore is an obstruction and a fouling magnet.",
+   "box": "none",
    "aside": "Push a clean dry patch through the barrel to remove excess lubricant.",
    "quote": "Repeat using a new patch each time, until the patch no longer shows fouling present.",
    "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — CLEANING THE BARREL (PDF p.34; this edition prints no page folios)"
@@ -57,6 +64,7 @@
    "phase": "Clean",
    "title": "Bolt raceways and lug faces get the oil — three points, no more",
    "action": "Oil goes in three places on this rifle: the bolt body, the bolt ways inside the receiver, and the rear faces of the bolt locking lugs. Nothing else needs it, and grease belongs nowhere near the firing pin or the inside of the bolt body.",
+   "box": "none",
    "aside": "NOTE: Do not use grease in the bore of the bolt body or on the firing pin or spring.",
    "quote": "Inside of the receiver in the bolt ways (Figure 32-2), and rear faces of the bolt locking lugs (Figure 32-3).",
    "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — LUBRICATION POINTS (printed p.32, per Figures 32-1 to 32-3)"
@@ -67,6 +75,7 @@
    "phase": "Deep",
    "title": "Shroud compressed 1/8\", handle pressed in — that is the catch",
    "action": "With the bolt out of the rifle, push the shroud forward about an eighth of an inch and hold it there while you press the bolt handle inward, then release the shroud. That sequence is what unlocks the assembly; doing it in the other order simply does nothing.",
+   "box": "none",
    "quote": "Compress the shroud towards the front of the bolt 1/8” and while maintaining pressure, Press the handle inward, (Figure 29-1) then release the pressure on the shroud (Figure 29-2).",
    "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — BOLT DISASSEMBLY (printed p.29, per Figures 29-1 to 29-4)"
   },
@@ -74,6 +83,7 @@
    "phase": "Deep",
    "title": "Firing pin assembly out, then the bolt handle off the body",
    "action": "The firing pin assembly lifts out as a unit, and the bolt handle then comes off the bolt body. That is the end of it — Springfield says no further disassembly is required, and the firing pin assembly is not opened.",
+   "box": "none",
    "aside": "No further disassembly is required. Bolt disassembly is now complete.",
    "quote": "The firing pin assembly can now be removed (Figure 29-3).",
    "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — BOLT DISASSEMBLY (printed p.29, per Figures 29-1 to 29-4)"
@@ -82,6 +92,7 @@
    "phase": "Deep",
    "title": "Everything solvent-cleaned, rinsed, dried and INSPECTED",
    "action": "Clean the parts with a quality powder solvent, rinse, dry and look at them properly before anything goes back — this is the one moment you can see the firing pin tip and the shroud. Lubricate the bolt lightly and wipe the excess away; no grease in the bolt body's bore.",
+   "box": "none",
    "quote": "Clean all parts with a quality powder solvent, rinse, dry and inspect. Lightly lubricate the bolt, wipe away any excess lubricant.",
    "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — BOLT DISASSEMBLY (printed p.29, per Figures 29-1 to 29-4)"
   },
@@ -89,6 +100,7 @@
    "phase": "Deep",
    "title": "Receiver flushed with the stock off — and the screws go back in order",
    "action": "For a proper receiver clean, take the two stock screws out with a 3/16 hex, lift the stock away, flush the inside of the receiver with an aerosol action cleaner and let it dry. Going back: the LONGER screw is the rear one, the FORWARD screw is tightened first, and neither goes past 65 in-lbs. Getting that order or that torque wrong is how a bedded action loses its zero.",
+   "box": "none",
    "aside": "NOTE: Tighten the forward screw first followed by the rear. Do not exceed 65in lbs.",
    "quote": "Remove the 2 stock screws with a 3/16 Hex drive (Figure 27-1).",
    "cite": "Springfield Armory Model 2020 Operation & Safety Manual — Operation & Safety Manual, current support-site edition (no part code printed). ⛔ No page folios are printed; printed pages are read off the figure captions on the same page. — CLEANING THE RECEIVER (printed p.27, per Figure 27-1 on the page)"
