@@ -282,6 +282,10 @@ function main() {
   Object.keys(live).forEach(n => line(live[n].length === 0,
     n + ' — ' + (live[n].length ? live[n].length + ' violation(s): ' + live[n][0] : 'clean')));
   line(payload.guides.length > 0, 'payload is not empty (' + payload.guides.length + ' guides)');
+  line(payload.staleShelf.length === 0, payload.staleShelf.length
+    ? 'the shelf block is STALE for ' + payload.staleShelf.length + ' spec(s): ' + payload.staleShelf.slice(0, 5).join(', ')
+    : 'the shelf block covers every spec at HEAD (' + payload.appGuides + ' baked into the app, ' +
+      payload.shelfOnly.length + ' shelf-only' + (payload.shelfOnly.length ? ': ' + payload.shelfOnly.slice(0, 6).join(', ') : '') + ')');
 
   /* ---- the repository tree itself, not just the payload ----
      ⛔ THE PAYLOAD GUARDS JUDGE WHAT publish.js WRITES. They cannot see a file
@@ -313,11 +317,15 @@ function main() {
     par.mismatches.length
       ? par.mismatches.length + ' guide(s) cite a different document than the app:\n       ' +
         par.mismatches.slice(0, 5).join('\n       ')
-      : 'provenance matches the app\'s spliced output for all ' + par.checked + ' guides it has spliced');
-  if (par.notYetSpliced.length) {
-    console.log('   · ' + par.notYetSpliced.length + ' guide(s) authored since the app last ran its splice — ' +
-                'not a mismatch: ' + par.notYetSpliced.slice(0, 6).join(', ') +
-                (par.notYetSpliced.length > 6 ? ' …' : ''));
+      : 'provenance matches the app\'s compiled block for all ' + par.checked + ' guides the app bakes in');
+  /* ⛔ app ⊆ shelf, measured on the app's own block (ruling 2026-09-22) */
+  line(par.appOnly.length === 0, par.appOnly.length
+    ? 'the app compiles in ' + par.appOnly.length + ' guide(s) the shelf does not publish — app ⊆ shelf violated: ' + par.appOnly.slice(0, 6).join(', ')
+    : 'every guide the app bakes in is on the shelf (app ⊆ shelf holds, ' + par.appGuides + ' guides)');
+  if (par.shelfOnly.length) {
+    console.log('   · ' + par.shelfOnly.length + ' guide(s) on the shelf that the app does not bake in — ' +
+                'the ruling, not a mismatch: ' + par.shelfOnly.slice(0, 6).join(', ') +
+                (par.shelfOnly.length > 6 ? ' …' : ''));
   }
 
   console.log('\n' + (failed ? '⛔ GATES FAILED (' + failed + ')' : '✅ ALL GATES PASS'));

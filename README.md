@@ -37,6 +37,20 @@ Reads go through `git show HEAD:<path>`, never the filesystem. That makes a
 publish reproducible from a named commit, and makes it impossible for this
 tooling to write to the app repo even by accident.
 
+## The shelf is the superset (ruled 2026-09-22)
+
+Until 2026-09-22 the publisher refused any guide the app had not compiled in:
+the shelf was a subset of the app. Darren ruled the reverse. **The shelf may
+hold guides the app does not, and the app bakes in a subset of the shelf.** A
+spec marked `shelfOnly: true` (with its `shelfOnlyWhy`) is validated, gated
+and emitted like every other, reaches the shelf, and is left out of the app's
+compiled block. Its quotation verdicts, derived branch flag and routing come
+from the same emitter the app uses — the app's splice writes its full emitted
+block over every spec to `scratchpad/clean-rebuild/shelf_block.js`, and this
+publisher reads that at HEAD. The guard that survives is the reverse one:
+every guide the app compiles in must be on the shelf, byte for byte, or the
+block is stale and nothing is written.
+
 ## What must never publish
 
 Three refusals. Each one stops the publish outright — there is no

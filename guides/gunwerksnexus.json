@@ -1,0 +1,125 @@
+{
+ "row": "gunwerksnexus",
+ "make": "Gunwerks",
+ "model": "Nexus",
+ "sourcedFrom": "Owners Manual: Gunwerks NEXUS Rifle System — web page, dated March 6, 2023 on the article itself (2023)",
+ "sourceSha256": "3932b4abae217733023bef15fb417508986522a3a69987bb22ca6242d98e6fcb",
+ "cleanIntro": "⛔ This is a MAINTENANCE guide, not a field strip. Gunwerks publishes the NEXUS teardown — changing barrels, bolt care and assembly — as a video series and prints no words for it, so there is no teardown here and none has been invented. What follows is what Gunwerks actually writes down: how the three-position safety unloads the rifle, what gets cleaned, what gets lubricated and with what, and the four things they tell you flatly not to touch. The safety is worth reading twice — the middle position is the one that lets you cycle the bolt to unload while the trigger stays blocked, and it is the reason this rifle can be made safe without ever putting it in the fire position.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle first — and treat it as loaded",
+   "action": "Before anything else, point the muzzle somewhere safe and keep it there. Gunwerks puts this first in their own five rules and pairs it with the assumption that the rifle is loaded, which is the right frame for everything below.",
+   "box": "none",
+   "quote": "Rule 1 : Always point your muzzle in a safe direction. Treat your firearm as if was loaded at all times.",
+   "cite": "Owners Manual: Gunwerks NEXUS Rifle System — web page, dated March 6, 2023 on the article itself — Safety & Warnings > Firearm Safety, Rule 1"
+  },
+  {
+   "phase": "Clear",
+   "title": "The MIDDLE safety position is the one that unloads",
+   "action": "The NEXUS has a three-position wing safety, and the middle detent is the one you want. There the trigger is still blocked but the bolt is released, so you can cycle it and unload without ever moving the safety forward to fire. Owners coming off a two-position rifle push straight to fire to open the bolt — on this rifle you do not have to, and should not.",
+   "box": "none",
+   "aside": "Rear, Safe & Bolt Locked - With the safety to the rear, the trigger is blocked from firing and the bolt is locked closed",
+   "quote": "Middle, Safe & Bolt Unlocked - With the safety in the middle position, the trigger is blocked from firing, but the bolt is unlocked and can be cycled to unload",
+   "cite": "Owners Manual: Gunwerks NEXUS Rifle System — web page, dated March 6, 2023 on the article itself — Safety & Warnings > Operating the Safety Mechanism"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bore clear of debris and excess lubricant",
+   "action": "With the rifle unloaded, look through the bore. Gunwerks names excess lubricant alongside debris here, and they mean it — an oiled bore raises pressure. Anything you put down the barrel during the clean below has to come back out before the rifle is fired.",
+   "box": "limit",
+   "quote": "Rule 4 : Make sure your barrel is free from debris and excess lubricant. Not doing so can result in serious injury or even death.",
+   "cite": "Owners Manual: Gunwerks NEXUS Rifle System — web page, dated March 6, 2023 on the article itself — Safety & Warnings > Firearm Safety, Rule 4"
+  },
+  {
+   "phase": "Clean",
+   "title": "What Gunwerks asks of you, and how often",
+   "action": "Gunwerks describe the rifle as a precision mechanical device that wears and needs periodic service. They do not print an interval in text; what they print is the standard — maintained and periodically serviced, for performance AND safety. Clean it after use and treat anything that feels different as a reason to stop.",
+   "box": "none",
+   "quote": "Your shooting system is a precision mechanical device; thus it is subject to wear and maintenance requirements. It must be maintained and periodically serviced to assure optimal performance and safety.",
+   "cite": "Owners Manual: Gunwerks NEXUS Rifle System — web page, dated March 6, 2023 on the article itself — Care & Maintenance > Cleaning & Maintenance"
+  },
+  {
+   "phase": "Clean",
+   "title": "The trigger: adjust the pull, touch nothing else",
+   "action": "The trigger arrives at about 2 lb and adjusts between roughly 2 and 4 lb, about an ounce per click, on the hex screw under the trigger housing beside the shoe. That is the ONLY trigger work Gunwerks permits. Removing it or going further voids the warranty, and they put injury and death in the same sentence.",
+   "box": "none",
+   "aside": "WARNING : The NEXUS trigger is NOT user serviceable. Removal or tampering with the trigger beyond trigger pull weight adjustment mentioned above will void the warranty and may result in serious injury or death. Contact Gunwerks directly with any service needed or questions regarding the trigger.",
+   "quote": "The NEXUS trigger comes from Gunwerks set at an approximate 2lb. trigger pull. The trigger features an adjustable trigger from approximately 2-4lb. Trigger pull can be fine tuned approximately 1oz per click by rotating the hex screw located on the underside of the trigger housing next to the trigger shoe.",
+   "cite": "Owners Manual: Gunwerks NEXUS Rifle System — web page, dated March 6, 2023 on the article itself — Care & Maintenance > Trigger Pull Adjustment"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ The teardown is not published in words — and this guide stops here",
+   "action": "This is where a field strip would go, and there is not one. Gunwerks' own 'Assembly & Disassembly' section has the headings — Changing Barrels, Bolt Care & Assembly — and no text under them; the procedure is a video series. Nothing in this guide is taken from that video, because a video cannot be quoted or checked. Deep Clean below carries the torque and lubrication figures Gunwerks DOES write down. For the teardown itself, go to Gunwerks — their support line is in the manual.",
+   "box": "none",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Torque figures — Gunwerks publishes them, so use them",
+   "action": "Action clamp screws 60 in-lb. Action screws 40 in-lb. Wedge screw 40 in-lb. ARCA rail screws 30 in-lb. All of those take copper or nickel anti-seize except the ARCA screws, which take red (permanent) Loctite. If you do not own an inch-pound wrench, this is the point to stop: guessed torque on a precision rifle is how zero is lost.",
+   "box": "limit",
+   "quote": "Action Clamp Screws Copper or Nickel Anti-Seize 60 in-lb (inch-pounds)",
+   "cite": "Owners Manual: Gunwerks NEXUS Rifle System — web page, dated March 6, 2023 on the article itself — Care & Maintenance > Fastener Preparation"
+  },
+  {
+   "phase": "Clean",
+   "title": "Two fasteners are not yours at all",
+   "action": "The barrel/extension threads are listed at 100 ft-lb and marked NOT USER SERVICEABLE — note the change of unit, foot-pounds not inch-pounds, which is a fair sign of what is holding the barrel on. The trigger screw simply says Do Not Disassemble. Both go to Gunwerks.",
+   "box": "limit",
+   "quote": "Barrel/Extension Threads Copper or Nickel Anti-Seize 100 ft-lb (Not User Serviceable)",
+   "cite": "Owners Manual: Gunwerks NEXUS Rifle System — web page, dated March 6, 2023 on the article itself — Care & Maintenance > Fastener Preparation"
+  },
+  {
+   "phase": "Clean",
+   "title": "Grease and oil go in different places",
+   "action": "Gunwerks split these by interface and it is worth following exactly. Synthetic gun grease on the cocking piece/safety piece, the cocking piece/bolt shroud, and the bolt head/barrel extension. Gun oil on the safety piece/safety plunger. For the bolt body in the action they say it plainly: oil the bolt, grease the action.",
+   "box": "none",
+   "quote": "Bolt Body / Action Oil Bolt, Grease Action",
+   "cite": "Owners Manual: Gunwerks NEXUS Rifle System — web page, dated March 6, 2023 on the article itself — Care & Maintenance > Lubrication"
+  },
+  {
+   "phase": "Clean",
+   "title": "If something is wrong, it goes back — and it is covered",
+   "action": "The NEXUS carries a ten-year warranty against defects in materials and workmanship from the date of purchase. Wear, misuse and neglect are excluded. Given how much of this rifle Gunwerks marks as not user serviceable, the support line is part of the maintenance plan rather than a last resort.",
+   "box": "none",
+   "quote": "Your NEXUS Rifle is warranted to be free of manufacturer’s of defects in materials and workmanship for the period of 10 years from the date of purchase.",
+   "cite": "Owners Manual: Gunwerks NEXUS Rifle System — web page, dated March 6, 2023 on the article itself — Welcome To The Family! > Satisfaction Guarantee & Warranty"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Clean after use — Gunwerks call the rifle a precision mechanical device subject to wear and periodic service",
+    "Leave the bore free of debris AND of excess lubricant before firing"
+   ]
+  },
+  {
+   "name": "BOLT & ACTION",
+   "tasks": [
+    "Synthetic gun grease: cocking piece/safety piece, cocking piece/bolt shroud, bolt head/barrel extension",
+    "Gun oil: safety piece/safety plunger",
+    "Bolt body in the action — oil the bolt, grease the action"
+   ]
+  },
+  {
+   "name": "FASTENERS",
+   "tasks": [
+    "Anti-seize (copper or nickel) on action clamp screws, action screws and the wedge screw",
+    "Action clamp 60 in-lb · action screws 40 in-lb · wedge screw 40 in-lb",
+    "ARCA rail screws — red Loctite, 30 in-lb, disassembly not recommended",
+    "Barrel/extension threads and the trigger screw — not user serviceable"
+   ]
+  }
+ ],
+ "reassembly": [
+  "⛔ There is nothing to reassemble in this guide, because nothing was taken apart. Gunwerks publishes no written teardown for the NEXUS.",
+  "If a fastener was loosened for cleaning, it goes back with the compound and the torque figure Gunwerks lists for it — anti-seize and 60 in-lb on the action clamp screws, 40 in-lb on the action and wedge screws.",
+  "Set the safety to the rear position for storage: trigger blocked and bolt locked closed."
+ ],
+ "fncheck": "With the rifle confirmed empty, work the three-position safety through all three detents. Rear: the trigger must be blocked and the bolt locked closed. Middle: the trigger must still be blocked, but the bolt must now cycle — this is the position you unload in. Forward: the rifle is in fire. If the bolt will not cycle in the middle position, or the trigger moves in either of the first two, stop and call Gunwerks rather than adjusting anything."
+}

@@ -76,10 +76,14 @@ function branchOf(chunk) {
  * returned {} on a changed emitter, every guide would publish with `box:"none"`
  * and every fetched guide would quietly lose its maker's quotations.
  */
+/* ⛔ THE TEXT GIVEN IS THE SHELF BLOCK NOW (ruling 2026-09-22): scratchpad/clean-rebuild/
+   shelf_block.js at the app's HEAD — the app's emitter run over EVERY spec — rather than the
+   page, which carries only the subset the app bakes in. Same markers, same parser; the page
+   is still read by guideBodies() for the app ⊆ shelf guard. */
 function readBlock(html) {
   const b = html.indexOf(BEGIN), e = html.indexOf(END);
   if (b < 0 || e < 0) {
-    throw new Error('⛔ REFUSING — the app has no generated SOURCED GUIDES block at HEAD');
+    throw new Error('⛔ REFUSING — no generated SOURCED GUIDES block in the text given (the page or shelf_block.js)');
   }
   const block = html.slice(b, e);
 
@@ -121,4 +125,30 @@ function census(map) {
   return c;
 }
 
-module.exports = { readBlock, census, callOf, branchOf, BEGIN, END };
+/**
+ * The emitted TEXT of every guide in a block, keyed by row — for the app ⊆ shelf guard.
+ * A body runs from its `"sg_<row>": {` to the 4-space closing brace of that guide, so the
+ * trailing SOURCED_FOR of a block (which differs between the app's subset and the shelf's
+ * superset by construction) never leaks into the last guide's comparison.
+ */
+function guideBodies(text) {
+  const b = text.indexOf(BEGIN), e = text.indexOf(END);
+  if (b < 0 || e < 0) throw new Error('⛔ REFUSING — no generated SOURCED GUIDES block in the text given');
+  const block = text.slice(b, e).replace(/\r\n/g, '\n');
+  const re = /"sg_([^"]+)":\s*\{/g;
+  const starts = [];
+  let m;
+  while ((m = re.exec(block)) !== null) starts.push({ row: m[1], at: m.index });
+  if (!starts.length) throw new Error('⛔ REFUSING — the SOURCED GUIDES block parsed to zero guides');
+  const out = new Map();
+  starts.forEach((s, i) => {
+    let body = block.slice(s.at, i + 1 < starts.length ? starts[i + 1].at : block.length);
+    const close = body.lastIndexOf('\n    }');
+    if (close < 0) throw new Error('⛔ REFUSING — guide ' + s.row + ' never closes');
+    body = body.slice(0, close + 6);
+    out.set(s.row, body);
+  });
+  return out;
+}
+
+module.exports = { guideBodies, readBlock, census, callOf, branchOf, BEGIN, END };

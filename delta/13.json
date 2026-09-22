@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 13 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 13,
- "to": 16,
+ "to": 17,
  "rows": [
   {
    "id": "radianmodel1",
@@ -1985,7 +1985,7 @@
    "group": "Pistols",
    "guide": true,
    "guideId": "hecklerkochvp9",
-   "guideSha256": "f666839c9694b13c871d71843364e9e630b7ee47b108027dc4461bd812ba35fa"
+   "guideSha256": "02d1d94ccee601a0668e8b3addb3f2066e462251e4c4773f743940a854573864"
   },
   {
    "id": "fn509",
@@ -2076,7 +2076,7 @@
    "group": "Pistols",
    "guide": true,
    "guideId": "bersathunder380",
-   "guideSha256": "46447db6d5ddc6a5766700af109610be9f476e949ef019752c21f4cbaff67c72"
+   "guideSha256": "b0229d9943a4a4483fb2655f268f0a55af129b608f9ae67ae0b0810b10e8250f"
   },
   {
    "id": "palmettostatearmorydagger",
@@ -2693,7 +2693,7 @@
    "maker": "Keystone",
    "model": "Crickett (youth)",
    "chambering": ".22 LR",
-   "category": "Rimfire rifle",
+   "category": "Single-shot rimfire rifle",
    "family": "CRICKETT",
    "tier": 2,
    "group": "Rifles",
@@ -3700,7 +3700,7 @@
    "group": "Pistols",
    "guide": true,
    "guideId": "hecklerkochvp9sk",
-   "guideSha256": "67c8de8f4cef58a808028621acb27a33187f20dfda0b93a34a9a4efee6466290"
+   "guideSha256": "db2794335aee663f8ca3cf7081fef71d2c4824b47e44ec4c658c9e60fed329b5"
   },
   {
    "id": "hecklerkochusp9",
@@ -3713,7 +3713,7 @@
    "group": "Pistols",
    "guide": true,
    "guideId": "hecklerkochusp9",
-   "guideSha256": "92c58c7cf269aa256a5fd38c895606b4615fe3a0c21bc705b6020e145b22197c"
+   "guideSha256": "34a5396db37ec116523b23f59c276604b11088156916fc3cd0078e7d150b6f2f"
   },
   {
    "id": "hecklerkochusp45",
@@ -3726,7 +3726,7 @@
    "group": "Pistols",
    "guide": true,
    "guideId": "hecklerkochusp45",
-   "guideSha256": "13d7b2386629066676781c6e8c24e865696c244a64f96f924b304f4635fa099c"
+   "guideSha256": "a5be8f057ae9d4f7bbf9926ff664d70a3a222e1785cbd16417a9db8d2f68820b"
   },
   {
    "id": "hecklerkochp30",
@@ -3739,7 +3739,7 @@
    "group": "Pistols",
    "guide": true,
    "guideId": "hecklerkochp30",
-   "guideSha256": "9271c75855088c3d5dd4c5404ca0500376c909707f4140bd7419aec7d91290d4"
+   "guideSha256": "9913cce9eb3a45e8ce8a3e1f5a3cdf47baa3fef5bf97ef85c8c579fabd583193"
   },
   {
    "id": "fn509tactical",
@@ -4922,7 +4922,7 @@
    "group": "Rifles",
    "guide": true,
    "guideId": "hecklerkochsp5",
-   "guideSha256": "4043460cb4bf939df52ab8fe19d83bbf1dd261cf8800b8a5336c2620be130b0b"
+   "guideSha256": "b19a75e3832121e29aeaac3e7470460fbce65b41646494f0e5be23d4ab4bdee6"
   },
   {
    "id": "rugerpccharger",
@@ -5384,13 +5384,11 @@
    "maker": "Savage",
    "model": "Rascal (youth)",
    "chambering": ".22 LR",
-   "category": "Rimfire rifle",
+   "category": "Single-shot rimfire rifle",
    "family": "CRICKETT",
    "tier": 3,
    "group": "Rifles",
-   "guide": true,
-   "guideId": "savagerascalyouth",
-   "guideSha256": "a362e66ebbf4b1803ce74585e18911653d9c56dc084cd6495123c0b89aabc9c7"
+   "guide": false
   },
   {
    "id": "mossberg702plinkster",
@@ -6261,7 +6259,7 @@
    "group": "Pistols",
    "guide": true,
    "guideId": "hecklerkochp2000",
-   "guideSha256": "ff31db61694a67b15c686cc4a2b84c07d53dc1c1a544adb88c6f58dfa2606eb5"
+   "guideSha256": "e1dd649b85ad74463028fad37f41cc143331a2498b1d26419d3f32e0129d6d94"
   },
   {
    "id": "fnhighpower",
@@ -6474,6 +6472,19 @@
    "guide": true,
    "guideId": "iwitavor7",
    "guideSha256": "90438ce2bc7e9583be4fb6d01395d438c5f35e8f2640e01647ab2ca0622f3dc6"
+  },
+  {
+   "id": "iwimafteah",
+   "maker": "IWI",
+   "model": "Mafteah",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "MAFTEAH",
+   "tier": 4,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "iwimafteah",
+   "guideSha256": "ead769d172aa139a5cd688ecd4d5fd884ede4665de6855f2c83f4e16826354f4"
   },
   {
    "id": "keltecsu16",
@@ -9979,6 +9990,19 @@
    "guideSha256": "03d295d25aef01b90432de9f901394750cc76e1214961fa9d188d87577ba0e9b"
   },
   {
+   "id": "christensenarmsmoderncarbonrifle",
+   "maker": "Christensen Arms",
+   "model": "Modern Carbon Rifle",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-700",
+   "tier": 3,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "christensenarmsmoderncarbonrifle",
+   "guideSha256": "4f184c5251dda17e38659eea658a9739a1633cbc00d5ce3fc051f291b3ac7c05"
+  },
+  {
    "id": "rugerhawkeyeafrican",
    "maker": "Ruger",
    "model": "Hawkeye African",
@@ -10003,6 +10027,19 @@
    "guide": true,
    "guideId": "sakos20hunter",
    "guideSha256": "08993fdb38deb64d13e4db6bfb268ef3a668715e657237b7cd26fa85b310327e"
+  },
+  {
+   "id": "barrettmrad",
+   "maker": "Barrett",
+   "model": "MRAD",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BARRETT-MRAD",
+   "tier": 2,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "barrettmrad",
+   "guideSha256": "227c495cede9787f72dff2fb55a0713815a924ae4fdf450469cef0517db064a6"
   },
   {
    "id": "rugercustomshop1022carbonfiber",
@@ -10067,7 +10104,7 @@
    "group": "Rifles",
    "guide": true,
    "guideId": "btapc9pro",
-   "guideSha256": "5dcf2e60463344e6cad9fd2f635a982d965ef4927cbc2076d2f74c1eedd0f074"
+   "guideSha256": "2166bbf57797ca98d951bd6fc6627eaa272e6b80de614040204fe0397585876c"
   },
   {
    "id": "kiddinnovativedesignsupergrade",
@@ -10120,6 +10157,19 @@
    "guide": true,
    "guideId": "retaymasaimara",
    "guideSha256": "cc7316849b733b16493dddf907178dd921c94730650abc061e71553897b18d4d"
+  },
+  {
+   "id": "gunwerksnexus",
+   "maker": "Gunwerks",
+   "model": "Nexus",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "GUNWERKS-NEXUS",
+   "tier": 4,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "gunwerksnexus",
+   "guideSha256": "28b37b37ae5088e3adbeefb422de72237df3d903999bd1d1b803fad1187198cc"
   },
   {
    "id": "hecklerkochusc",

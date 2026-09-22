@@ -14,6 +14,20 @@
    payload is built in memory, refused or cleared as one, and only then does a
    single byte reach the disk.
 
+   ⛔ THE SHELF IS THE SUPERSET (Darren ruling 2026-09-22). Until that day this
+   publisher enforced shelf ⊆ app: a spec the app had not spliced was not
+   published, because the quotation verdict and the derived branch flag were read
+   off the app's own compiled block and a guide without them would present the
+   maker's words differently from the compiled-in one. The ruling reverses the
+   direction — the shelf may hold guides the app does not, and the app bakes in a
+   SUBSET of the shelf — and the mechanism moves with it: the app's splice now
+   writes its FULL emitted block, every spec including the shelf-only ones, to
+   scratchpad/clean-rebuild/shelf_block.js, and THAT is what this publisher reads
+   for verdicts, branch flags and routing. Same emitter, same run, no second
+   derivation. The guard that survives is the reverse one: every guide the app
+   compiles in must be on the shelf, byte for byte (app ⊆ shelf), or the shelf
+   block is stale and nothing is written.
+
    Usage:
      node tools/publish.js --dry-run     build and check, write nothing
      node tools/publish.js               build, check, write
@@ -59,9 +73,36 @@ function build() {
      the app has ALREADY decided; re-deriving any of them here would be a second
      answer to a question that has one. */
   const html = app.show('www/index.html');
-  const boxes = quotebox.readBlock(html);
+  /* ⛔ VERDICTS, BRANCH FLAGS AND ROUTING COME FROM THE SHELF BLOCK, NOT THE PAGE
+     (ruling 2026-09-22). The page carries the app's SUBSET; the shelf block is the
+     same emit over every spec. The catalog and the door verdicts still come from
+     the page — the app decided those and a shelf-only guide changes neither. */
+  const SHELF_BLOCK = CR + '/shelf_block.js';
+  if (!app.exists(SHELF_BLOCK)) {
+    throw new Error('⛔ REFUSING — no ' + SHELF_BLOCK + ' at HEAD. Run splice_authored.js --apply ' +
+                    'in the app repo and commit it; the shelf publishes from that block, never from a guess.');
+  }
+  const shelfBlock = app.show(SHELF_BLOCK);
+  const boxes = quotebox.readBlock(shelfBlock);
   const boxCensus = quotebox.census(boxes);
   const doorVerdict = project.parseDoorVerdict(html);
+
+  /* ⛔ app ⊆ shelf — THE GUARD THAT REPLACES shelf ⊆ app. Every guide the app has
+     compiled in must appear in the shelf block with the identical emitted text. A
+     guide in the page and not in the block, or differing from it, means the block
+     was not regenerated after the last splice: STALE, and nothing is published
+     until the splice is re-run. Measured on the emitted TEXT per guide, so a
+     changed verdict, a changed step or a changed citation all refuse. */
+  const appBodies = quotebox.guideBodies(html);
+  const shelfBodies = quotebox.guideBodies(shelfBlock);
+  const appNotOnShelf = [...appBodies.keys()].filter(r => !shelfBodies.has(r));
+  const appDiffers = [...appBodies.keys()].filter(r => shelfBodies.has(r) && shelfBodies.get(r) !== appBodies.get(r));
+  if (appNotOnShelf.length || appDiffers.length) {
+    throw new Error('⛔ REFUSING — the app compiles in guides the shelf block does not carry identically ' +
+      '(app ⊆ shelf is violated; the shelf block is STALE — run splice_authored.js --apply and commit it). ' +
+      (appNotOnShelf.length ? 'absent from the shelf block: ' + appNotOnShelf.slice(0, 8).join(', ') + '. ' : '') +
+      (appDiffers.length ? 'differ from the shelf block: ' + appDiffers.slice(0, 8).join(', ') + '.' : ''));
+  }
 
   /* ---------- guides ---------- */
   const specPaths = app.lsTree(SPECS_DIR).filter(p => p.endsWith('.json'));
@@ -72,7 +113,7 @@ function build() {
   const refusedHeld = [];   // held rows that HAVE a spec — the live catch
   const quarantined = [];   // guides withheld because their own text leaks a cache path
   const unknownFields = []; // spec fields the projection does not know
-  const notSpliced = [];    // specs on disk the app has not compiled yet
+  const staleShelf = [];    // specs at HEAD with no entry in the shelf block — a stale block
 
   for (const p of specPaths) {
     const spec = app.showJson(p);
@@ -125,19 +166,19 @@ function build() {
     const pleak = guards.personalLeak(guide, opNames);
     if (pleak) { quarantined.push({ row, leak: pleak, spec: p }); continue; }
 
-    /* ⛔ A SPEC THE APP HAS NOT SPLICED YET IS NOT PUBLISHED. Without the app's
-       emitted block there is no quotation verdict and no derived branch flag for
-       it, and publishing it would ship a guide that presents a manufacturer's
-       words differently from the compiled-in one — or silently loses its DEEP
-       CLEAN door. Named in the report, never silently dropped: the fix is to run
-       the splice.
-       ⛔ AND IT IS CHECKED *AFTER* THE LEAK GUARDS, WHICH IS NOT COSMETIC. Put
-       first, it returned before guards.cacheLeak and guards.personalLeak ever saw
-       the guide — and check_publish_ready's selftest went red, because its two
-       MUST-REFUSE fixtures are unspliced rows by construction. A defect in
-       authored text is a defect whether or not the app has compiled it yet, and
-       the gate that exists to find it must be the thing that reports it. */
-    if (!bx) { notSpliced.push(row); continue; }
+    /* ⛔ A SPEC WITH NO ENTRY IN THE SHELF BLOCK IS A STALE BLOCK, NOT A SKIP
+       (ruling 2026-09-22 — this used to be "the app has not spliced it, so it is
+       not published", the shelf ⊆ app refusal, now reversed). The shelf block is
+       the app's emitter run over EVERY spec; a spec at HEAD that is missing from
+       it means the splice was not re-run after the spec landed. Nothing is
+       published from a stale block — the row is named and main() refuses.
+       ⛔ STILL CHECKED *AFTER* THE LEAK GUARDS, WHICH IS NOT COSMETIC. Put first,
+       it returned before guards.cacheLeak and guards.personalLeak ever saw the
+       guide — and check_publish_ready's selftest fixtures are rows the block has
+       never seen, by construction. A defect in authored text is a defect whether
+       or not the block has caught up, and the gate that exists to find it must
+       be the thing that reports it. */
+    if (!bx) { staleShelf.push(row); continue; }
 
     guides.push({
       row,
@@ -178,7 +219,7 @@ function build() {
   const catalog = project.parseCatalog(html);
   /* ⛔ REACHABILITY COMES FROM THE APP'S OWN ROUTING, NOT FROM THE ROW ID. See
      project.parseRouting — one guide may serve many rows by family. */
-  const routing = project.parseRouting(html);
+  const routing = project.parseRouting(html, shelfBlock);
   const byId = new Map(guides.map(g => [g.row, g]));
   const reached = new Set();
 
@@ -361,11 +402,15 @@ function build() {
   files.push({ path: 'index.json', bytes: Buffer.from(j(index), 'utf8') });
   files.push({ path: 'changelog.json', bytes: Buffer.from(j(changelog), 'utf8') });
 
+  /* guides on the shelf that the app does not bake in — EXPECTED under the ruling, and
+     reported by name so the subset is visible rather than assumed */
+  const shelfOnly = guides.map(g => g.row).filter(r => !appBodies.has(r));
   return { headCommit, headSubject: app.headSubject(), holds, guides, rows, index, changelog,
            files, added, changed, removed, contentChanged, version, prevVersion,
            refusedHeld, quarantined, unknownFields, specCount: specPaths.length,
            plates, plateImages, platesAdded, platesRemoved,
-           deltas, boxCensus, notSpliced, doorVerdictRows: Object.keys(doorVerdict).length };
+           deltas, boxCensus, staleShelf, shelfOnly, appGuides: appBodies.size,
+           doorVerdictRows: Object.keys(doorVerdict).length };
 }
 
 function localDate() {
@@ -424,15 +469,21 @@ function main() {
   log('  guides built           : ' + payload.guides.length);
   log('  catalog rows           : ' + payload.rows.length);
   log('  quotation verdicts     : ' + payload.boxCensus.steps + ' step(s) across ' +
-      payload.boxCensus.guides + ' guide(s) in the app block — ' +
+      payload.boxCensus.guides + ' guide(s) in the shelf block — ' +
       JSON.stringify(payload.boxCensus.verdicts) + ', branch ' + payload.boxCensus.branch);
   log('  door verdicts read     : ' + payload.doorVerdictRows + ' row(s)');
   log('  rows carrying a verdict: ' + payload.rows.filter(r => r.verdict).length +
       ' (walkless rows only — a row with a guide has no absence to explain)');
-  if (payload.notSpliced.length) {
-    log('  ⚠ specs the app has NOT spliced, so NOT published: ' + payload.notSpliced.length +
-        ' — ' + payload.notSpliced.slice(0, 8).join(', '));
-    log('    Run scratchpad/clean-rebuild/splice_authored.js --apply, then republish.');
+  log('  guides the app bakes in: ' + payload.appGuides + '   shelf-only (on the shelf, not in the app): ' +
+      payload.shelfOnly.length + (payload.shelfOnly.length ? ' — ' + payload.shelfOnly.slice(0, 8).join(', ') : ''));
+  if (payload.staleShelf.length) {
+    log('');
+    log('  ⛔ SHELF BLOCK STALE — ' + payload.staleShelf.length + ' spec(s) at HEAD have no entry in ' +
+        'scratchpad/clean-rebuild/shelf_block.js: ' + payload.staleShelf.slice(0, 8).join(', '));
+    log('     Run scratchpad/clean-rebuild/splice_authored.js --apply in the app repo, commit shelf_block.js, republish.');
+    log('');
+    log('⛔ NOTHING WRITTEN. The shelf publishes from the app\'s emitted block, never from a guess.');
+    return 1;
   }
   log('  plates                 : ' + payload.plates.length + ' row record(s), ' +
       payload.plateImages.length + ' image(s)');

@@ -1,0 +1,223 @@
+{
+ "row": "barrettmrad",
+ "make": "Barrett",
+ "model": "MRAD",
+ "sourcedFrom": "Barrett MRAD Operator's Manual — 18697 REV A (ABSENT — the book prints a part number and revision letter, no year)",
+ "sourceSha256": "bd007eec6046a082d34c201eaebcfce6689f7bec28c7d67b645df674346baa56",
+ "cleanIntro": "Barrett's own book for the MRAD, and it is unusually clear about where the owner should stop. The fieldstrip is a no-tools job that ends with the two receivers apart and the bolt out; past that the manual says in as many words that nothing further is recommended or necessary at operator level. The one part of this rifle that catches people is the front bolt guide: it has a tab that must sit at twelve o'clock, and forcing the receivers shut with it turned is how bolt guides get bent. Note also that the receiver latch is interlocked — it will not depress at all until the bolt handle is raised, so a latch that feels seized usually means the handle is still down.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Know what you are holding",
+   "action": "The MRAD is a manually operated bolt-action rifle fed from a detachable box magazine, built as a modular system — depending on configuration the barrel may be interchangeable, and the lower may carry a folding stock. None of that changes the strip, but it does change what you will find when the receivers come apart.",
+   "box": "none",
+   "quote": "The MRAD is a manually operated, bolt-action rifle fed from a 10 round, detachable magazine. Designed to be a rugged, accurate, and modular rifle system, the MRAD is offered in several configurations to best fit the operators needs.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — DESCRIPTION OF FIREARM, printed p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety to safe, then open the bolt",
+   "action": "Put the safety lever to safe before you touch anything else. Then lift the bolt handle and draw it fully back — that is what pulls a chambered round out and throws it clear. Do this before the magazine comes out, not after; the rifle will fire with a round chambered and the magazine gone, so the chamber is the dangerous part.",
+   "box": "none",
+   "quote": "Lift the bolt handle upward (FIGURE 9-A), and pull it to the rear (FIGURE 9-B). This will eject any live or fired ammunition.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — UNLOADING, printed p.10"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out — the catch pushes FORWARD",
+   "action": "Push the magazine catch forward and draw the magazine down and out. The catch is a forward push, not a button squeeze, which is the one thing an owner coming off an AR gets wrong the first time.",
+   "box": "none",
+   "quote": "Remove the magazine from the rifle by pushing the magazine catch forward and remove the magazine from the rifle (FIGURE 10).",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — UNLOADING, printed p.10"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber and be certain",
+   "action": "With the bolt back and the magazine out, look into the chamber and confirm it is empty. Look, and then put a finger in if the light is bad — Barrett's own safety page tells you not to trust the extractor to have done the job for you.",
+   "box": "none",
+   "aside": "DO NOT STORE OR TRANSPORT A LOADED RIFLE. ALWAYS REMOVE THE MAGAZINE AND CHECK THE CHAMBER TO ENSURE THE RIFLE IS UNLOADED.",
+   "quote": "With the bolt fully to the rear and magazine removed, inspect the chamber (FIGURE 11). Ensure it is empty of any ammunition.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — UNLOADING, printed p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "No live ammunition anywhere near the bench",
+   "action": "Before the rifle comes apart, get the ammunition out of the area — not just out of the rifle. This is the manual's own opening line on the fieldstrip section and it is worth honouring literally, because the next few steps have your hands over the chamber mouth.",
+   "box": "none",
+   "aside": "The rifle can be fieldstripped without tools into the major components (FIGURE 3).",
+   "quote": "UNLOAD THE RIFLE BEFORE DISASSEMBLY. ENSURE THAT LIVE AMMUNITION IS NOT PRESENT DURING THE DISASSEMBLY OR ASSEMBLY PROCESS.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — FIELDSTRIP, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine out and the rifle proved unloaded",
+   "action": "The fieldstrip repeats the clearing step as its own first instruction. Do it again even though you just did it — the strip is where a missed round turns into an accident, and Barrett numbers it as step one for that reason.",
+   "box": "none",
+   "quote": "Remove the magazine and ensure the rifle is unloaded.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — FIELDSTRIP step 1, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt handle up and to the rear",
+   "action": "Rotate the bolt handle up and pull it to the rear. Leave it there — the raised handle is what unlocks the receiver latch in the next step, and this is the interlock that stops the rifle being opened with the bolt closed.",
+   "box": "none",
+   "quote": "Rotate the bolt handle up (FIGURE 12-A) and pull to the rear (FIGURE 12-B).",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — FIELDSTRIP step 2, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Receiver latch, behind the pistol grip",
+   "action": "Find the receiver latch on the underside of the lower receiver just behind the pistol grip. Depress and hold it while you lift the upper receiver away from the lower. If the latch will not move at all, the bolt handle is still down — the manual states the interlock plainly, so force is never the answer here.",
+   "box": "none",
+   "quote": "Locate the receiver latch on the underside of the lower receiver just behind the pistol grip. Depress and hold the receiver latch while lifting and separating the upper receiver from the lower (FIGURE 13). The receiver latch will not depress unless bolt handle is raised.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — FIELDSTRIP step 3, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt and both bolt guides out the back — watch the tab",
+   "action": "Withdraw the bolt assembly, the rear bolt guide and the front bolt guide from the rear of the upper receiver, and watch how they come out. The front bolt guide has a tab that protrudes forward and sits at twelve o'clock in a slot in the barrel extension. Note its orientation now, because you cannot see it when you put it back.",
+   "box": "none",
+   "aside": "FORCING THE RECEIVERS CLOSED WITH THE FRONT BOLT GUIDE ORIENTATED INCORRECTLY CAN CAUSE DAMAGE TO THE BOLT GUIDES AND INTERFERE WITH THE RIFLE’S OPERATION.",
+   "quote": "Withdraw the bolt assembly, rear bolt guide, and the front bolt guide from the rear of the upper receiver. Take note of the orientation of the bolt guides while removing. The front bolt guide has a tab that protrudes forward. This tab orients at twelve o’clock position in a slot in the barrel extension (FIGURE 14).",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — FIELDSTRIP step 4, printed p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Assembly pin to the left — it stays captive",
+   "action": "Push the assembly pin to the left and the receivers come apart. The pin is captured in the lower receiver by design: it is meant to stay in the gun, and driving it out is how it gets lost or the receiver gets marred. Push it across, no further.",
+   "box": "limit",
+   "quote": "Push the assembly pin to the left to separate the receivers. The pin is captured in the lower receiver. DO NOT attempt to remove the pin from the receiver (FIGURE 15).",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — FIELDSTRIP step 5, printed p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — this is where Barrett stops you",
+   "action": "Upper, lower, bolt assembly, rear bolt guide and front bolt guide: that is the field strip, and the manual says in its own words that no further disassembly of the receivers is recommended or necessary for operator level maintenance. Everything the routine clean needs is now reachable. Deep Clean below covers the bolt teardown, which Barrett publishes but states is NOT required for routine cleaning.",
+   "box": "limit",
+   "quote": "NOTE: NO FURTHER DISASSEMBLY OF THE RECEIVERS IS RECOMMENDED OR NECESSARY FOR OPERATOR LEVEL MAINTENANCE.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — FIELDSTRIP, printed p.12",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "First — you probably do not need to do this",
+   "action": "Barrett prints the bolt teardown and then tells you it is not part of routine work. Take it apart when something is wrong inside it or it has been soaked, not as a weekly habit. The firing pin spring is captive under tension and every extra cycle is a chance to lose the cocked state at the wrong moment.",
+   "box": "none",
+   "quote": "NOTE: DISASSEMBLY OF THE BOLT IS NOT REQUIRED FOR ROUTINE MAINTENANCE AND CLEANING.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — ADVANCED DISASSEMBLY, printed p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Check it is cocked before you start",
+   "action": "With the bolt out of the rifle, confirm the cocking piece shroud is rotated to the cocked position. Starting from cocked is what keeps the firing pin spring under control through the next two steps — from decocked, the shroud will not index the way the manual describes.",
+   "box": "none",
+   "quote": "With the bolt removed from the rifle, ensure that the cocking piece shroud is rotated to the cocked position (FIGURE 16).",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — ADVANCED DISASSEMBLY step 1, printed p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Cocking piece lever forward against the shroud",
+   "action": "Rotate the cocking piece lever forward until it comes to rest against the cocking piece shroud. It should stop against the shroud rather than springing past it — that contact is the position the next step assumes.",
+   "box": "none",
+   "quote": "Rotate the cocking piece lever forward until it rests against the cocking piece shroud (FIGURE 17).",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — ADVANCED DISASSEMBLY step 2, printed p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Shroud counter-clockwise 120°, then straight out",
+   "action": "Turn the cocking piece shroud counter clockwise a third of a turn — Barrett gives the figure as 120 degrees, not 'until it stops' — and withdraw it from the bolt tube. The firing pin assembly comes with it. Do not decock the lever once that assembly is out of the tube; the manual capitalises that instruction and the reason is that you then have a compressed spring with nothing containing it.",
+   "box": "limit",
+   "quote": "Rotate the cocking piece shroud counter clockwise 120 degrees (FIGURE 18-A) and withdraw from the bolt tube (FIGURE 18-B). DO NOT DECOCK THE LEVER WITH THE FIRING PIN ASSEMBLY REMOVED FROM THE BOLT TUBE.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — ADVANCED DISASSEMBLY step 3, printed p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt pin across — captive, like the assembly pin",
+   "action": "Push the bolt pin to the side of the bolt assembly. Like the receiver assembly pin it is retained in the bolt body and does not need to come all the way out, so push it across and stop.",
+   "box": "none",
+   "quote": "Push the bolt pin (FIGURE 20-A) to the side of the bolt assembly. Note that the bolt pin is retained in the bolt body and does not need to be completely removed.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — ADVANCED DISASSEMBLY step 4, printed p.14"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt out of the bolt tube — and stop there",
+   "action": "Draw the bolt out of the bolt tube. That is the end of the published teardown: the manual states that no further disassembly of the bolt assembly is recommended or necessary. The extractor and ejector stay in the bolt and get cleaned in place.",
+   "box": "none",
+   "aside": "NOTE: NO FURTHER DISASSEMBLY OF THE BOLT ASSEMBLY IS RECOMMENDED OR NECESSARY FOR MAINTENANCE.",
+   "quote": "Remove the bolt from the bolt tube (FIGURE 20-B).",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — ADVANCED DISASSEMBLY step 5, printed p.14"
+  },
+  {
+   "phase": "Clean",
+   "title": "Extractor and ejector — plastic brush, then feel them work",
+   "action": "Use a stiff plastic brush to take the carbon off the extractor and the ejector, then press each one down by hand and let it come back. You are checking for free, springy movement; a sluggish ejector is the cause Barrett's own troubleshooting table gives for failure to eject, and it is nearly always carbon rather than a broken spring.",
+   "box": "none",
+   "quote": "Use a stiff plastic brush to remove carbon from both the extractor and the ejector. Depress the ejector and extractor by hand to ensure their smooth function.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — MAINTENANCE GUIDE, printed p.28"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lubricate the cam slot, and nothing that touches the round",
+   "action": "Put a light film on the cam slot of the bolt tube and on the critical surfaces the manual highlights with the firing pin assembly out. Keep it light: excess lubricant or grease causes function failures, and the bolt face, chamber and bore get no oil at all.",
+   "box": "none",
+   "aside": "EXCESS LUBRICANT OR GREASE CAN CAUSE FAILURES IN THE FUNCTION OF THE RIFLE.",
+   "quote": "Lightly lubricate the cam slot on the bolt tube (FIGURE 47).",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — MAINTENANCE GUIDE, printed p.29"
+  },
+  {
+   "phase": "Clean",
+   "title": "Magazine — clean dry, spring lightly oiled",
+   "action": "Clean the whole magazine out, paying attention to the inside, and put no oil in the body — oil inside a magazine collects the grit that causes feed stoppages. The spring itself gets a light film to keep corrosion off it. If you strip the magazine, keep hold of the floor plate: the spring is under tension behind it.",
+   "box": "limit",
+   "aside": "The MRAD has multiple magazines for different calibers identified by a letter at the bottom rear-side of the magazine. Do not mix parts from other magazines.",
+   "quote": "Clean the entire magazine of debris paying special attention to the interior. DO NOT apply oil or lubrication to the inside the magazine body. Lightly lubricate the surfaces of the magazine spring to prevent corrosion.",
+   "cite": "Barrett MRAD Operator's Manual — 18697 REV A — MAINTENANCE GUIDE, printed p.29"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Fit the bore guide into the rear of the upper receiver before any rod goes in — Barrett calls for one by name",
+    "Push a patch wet with bore cleaner through from BREECH TO MUZZLE, repeating if the bore is heavily fouled",
+    "Scrub the bore with a bore brush while it is still wet from the patches",
+    "Work bore cleaner into the chamber with a chamber brush",
+    "Push dry patches breech to muzzle until they come out clean, and leave the bore dry — it gets no oil"
+   ]
+  },
+  {
+   "name": "BOLT & RECEIVERS",
+   "tasks": [
+    "Carbon off the extractor and ejector with a stiff plastic brush, then check both move freely by hand",
+    "Swab the receivers and the remaining surfaces with cotton swabs, general purpose brushes and rags",
+    "Light film of preservative oil on the mechanical metal surfaces — never on the bolt face",
+    "Light oil in the cam slot of the bolt tube"
+   ]
+  },
+  {
+   "name": "MUZZLE BRAKE",
+   "tasks": [
+    "Wipe the brake down with bore cleaner and a rag after use",
+    "Brush the carbon out of the threads, the outside diameter and the internal ports"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Clear debris from the whole magazine, especially the interior",
+    "No oil or lubricant inside the magazine body",
+    "Light film on the magazine spring only, for corrosion"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Barrett assembles the major components in reverse order of the strip — receivers together on the assembly pin first, then the bolt group back into the upper.",
+  "Put the front bolt guide back with its tab at twelve o'clock, in the slot in the barrel extension. This is the step to slow down on: forcing the receivers closed with that guide turned the wrong way damages the bolt guides.",
+  "Close the receivers with the bolt handle still raised, then push the bolt forward and rotate the handle down.",
+  "The trigger reinstalls in reverse of its removal; the reversible safety lever aligns in the safe position and pushes in, from whichever side you prefer.",
+  "Run the safety/function check before the rifle goes away — with the safety on safe, the firing pin must NOT release."
+ ],
+ "fncheck": "With the rifle unloaded and no ammunition present: remove the magazine, rotate the bolt handle up and pull the bolt back, then check the chamber by eye and by hand. Set the safety to fire, close the bolt quickly and press the trigger — the firing pin must release with an audible click. Barrett asks for that cycle five times. Then cycle the bolt once more, close it, set the safety to safe and press the trigger: the firing pin must not release. A rifle that fails either half goes back together properly or goes back to BFMI."
+}

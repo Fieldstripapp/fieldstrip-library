@@ -2,6 +2,37 @@
  "_doc": "One entry per published index version, newest first. `added` is the row ids whose guide first appeared at that version, so a client holding version N can ask for everything since N without a redesign.",
  "versions": [
   {
+   "version": 17,
+   "publishedAt": "2026-09-22",
+   "appCommit": "f075ad968e0f4ffc3facdf05c72aae84ace4de9f",
+   "counts": {
+    "catalogRows": 1174,
+    "guides": 748,
+    "plates": 54
+   },
+   "added": [
+    "barrettmrad",
+    "christensenarmsmoderncarbonrifle",
+    "gunwerksnexus",
+    "iwimafteah"
+   ],
+   "changed": [
+    "bersathunder380",
+    "btapc9pro",
+    "hecklerkochp2000",
+    "hecklerkochp30",
+    "hecklerkochsp5",
+    "hecklerkochusp45",
+    "hecklerkochusp9",
+    "hecklerkochvp9",
+    "hecklerkochvp9sk"
+   ],
+   "removed": [
+    "savagerascalyouth"
+   ],
+   "platesAdded": []
+  },
+  {
    "version": 16,
    "publishedAt": "2026-09-14",
    "appCommit": "472e045e415566e55fa87ff31cc571857d40db19",
