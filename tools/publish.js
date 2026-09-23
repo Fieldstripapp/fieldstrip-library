@@ -228,7 +228,12 @@ function build() {
     if (seen.has(c.i)) throw new Error('⛔ REFUSING — duplicate catalog row id: ' + c.i);
     seen.add(c.i);
     const r = project.projectCatalogRow(c);
-    const gid = project.guideIdFor(routing, c);
+    /* ⛔ A WITHDRAWN ROW REACHES NO GUIDE, BY ANY ROUTE (vC35b STEP 10). The app's
+       resolver refuses it; the shelf refuses it here so that a delta row can never
+       carry guide:true for a row a safety ruling has withdrawn. If the only rows
+       that reach a guide are withdrawn, the guide is a ghost and the publish
+       refuses below — which is the right outcome for a guide nobody may open. */
+    const gid = project.guideAllowedForRow(r) ? project.guideIdFor(routing, c) : null;
     const g = gid ? byId.get(gid) : null;
     r.guide = !!g;
     if (g) {
@@ -303,8 +308,13 @@ function build() {
   const platesAdded = [...plateRows.keys()].filter(r => !prevPlates.has(r)).sort();
   const platesRemoved = [...prevPlates].filter(r => !plateRows.has(r));
 
-  const catalogChanged = !prevIndex ||
-    JSON.stringify((prevIndex.rows || []).map(r => r.id)) !== JSON.stringify(rows.map(r => r.id));
+  /* ⛔ ANY ROW-CONTENT CHANGE IS A NEW VERSION (vC35b STEP 1, 2026-09-23). The id list
+     alone let a row's family, tier, verdict or withdrawn flag move under a version that
+     stood still, and a client holding that version was never told. Whole projected rows
+     are compared, so the delta a client asks for is true to the byte. */
+  const rowContentChanged = !prevIndex ||
+    JSON.stringify(prevIndex.rows || []) !== JSON.stringify(rows);
+  const catalogChanged = rowContentChanged;
   const contentChanged = !prevIndex || added.length || changed.length || removed.length ||
     catalogChanged || platesAdded.length || platesRemoved.length;
   const version = contentChanged ? prevVersion + 1 : prevVersion;
