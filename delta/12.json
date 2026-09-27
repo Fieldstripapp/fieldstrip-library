@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 12 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 12,
- "to": 17,
+ "to": 18,
  "rows": [
   {
    "id": "radianmodel1",
@@ -5380,17 +5380,6 @@
    "guideSha256": "f80a487c316b27de114369a9416cba970b8c4ff1ad7157b6d8be26702024d1ec"
   },
   {
-   "id": "savagerascalyouth",
-   "maker": "Savage",
-   "model": "Rascal (youth)",
-   "chambering": ".22 LR",
-   "category": "Single-shot rimfire rifle",
-   "family": "CRICKETT",
-   "tier": 3,
-   "group": "Rifles",
-   "guide": false
-  },
-  {
    "id": "mossberg702plinkster",
    "maker": "Mossberg",
    "model": "702 Plinkster",
@@ -8558,6 +8547,20 @@
    "guideSha256": "f1c7f32fb5c3072ca1a711e074b93b1440fa74e80239d70a7b13578316384709"
   },
   {
+   "id": "mlcvaparamount",
+   "maker": "CVA",
+   "model": "Paramount / HTR / Pro",
+   "chambering": ".40 / .45 / .50 cal",
+   "category": "Inline bolt-action",
+   "family": "ML-CVA-BOLT",
+   "tier": null,
+   "group": "Muzzleloaders",
+   "withdrawn": true,
+   "guide": false,
+   "held": true,
+   "verdict": "BLOCKED"
+  },
+  {
    "id": "mlcvacrossfire",
    "maker": "CVA",
    "model": "Crossfire",
@@ -10263,5 +10266,7 @@
    "guideSha256": "7b6d2c15680efd9106b9114c9b51b66c39961abce13da41d1dffdf5839eff681"
   }
  ],
- "removed": []
+ "removed": [
+  "savagerascalyouth"
+ ]
 }

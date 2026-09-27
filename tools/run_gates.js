@@ -303,6 +303,38 @@ function main() {
     line(wdWithGuide.length === 0, 'no withdrawn row carries a guide (' + wdRows.length +
          ' withdrawn row(s)' + (wdRows.length ? ': ' + wdRows.map(r => r.id).join(', ') : '') + ')');
   }
+  {
+    /* ---- the delta a client holding the previous version would get ----
+       ⛔ A ROW THAT MOVED WITHOUT ITS GUIDE MOVING MUST STILL REACH THE DELTA
+       (2026-09-27). Fixture first: a changelog naming a row change and a row removal
+       with no guide list at all must produce a delta carrying both, and the delta for
+       the current version must be empty. Then the live payload: every row the build
+       says changed or left since the previous version is in that version's delta. */
+    const fx = publish.deltaFiles(
+      { versions: [{ version: 2, rowsChanged: ['a'], rowsRemoved: ['z'] }, { version: 1 }] },
+      2, [{ id: 'a' }, { id: 'b' }]);
+    const d1 = JSON.parse(fx.find(d => d.version === 1).bytes.toString('utf8'));
+    const d2 = JSON.parse(fx.find(d => d.version === 2).bytes.toString('utf8'));
+    line(d1.rows.length === 1 && d1.rows[0].id === 'a' && d1.removed.length === 1 && d1.removed[0] === 'z',
+         'REFUSES a row change with no guide change is carried to the older version\'s delta');
+    line(d2.rows.length === 0 && d2.removed.length === 0,
+         'ALLOWS  the current version\'s delta is empty');
+    const pv = payload.prevVersion;
+    const live = payload.deltas.find(d => d.version === pv);
+    if (payload.version !== pv && live) {
+      const dj = JSON.parse(live.bytes.toString('utf8'));
+      const have = new Set(dj.rows.map(r => r.id));
+      const gone = new Set(dj.removed);
+      const missing = payload.rowsChanged.filter(id => !have.has(id))
+        .concat(payload.rowsRemoved.filter(id => !gone.has(id)));
+      line(missing.length === 0, missing.length
+        ? 'delta/' + pv + '.json omits ' + missing.length + ' moved row(s): ' + missing.slice(0, 5).join(', ')
+        : 'delta/' + pv + '.json carries every moved row (' + payload.rowsChanged.length +
+          ' changed, ' + payload.rowsRemoved.length + ' removed)');
+    } else {
+      line(true, 'no version bump this publish — delta/' + pv + '.json is unchanged by design');
+    }
+  }
   line(payload.staleShelf.length === 0, payload.staleShelf.length
     ? 'the shelf block is STALE for ' + payload.staleShelf.length + ' spec(s): ' + payload.staleShelf.slice(0, 5).join(', ')
     : 'the shelf block covers every spec at HEAD (' + payload.appGuides + ' baked into the app, ' +

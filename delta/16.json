@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 16 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 16,
- "to": 17,
+ "to": 18,
  "rows": [
   {
    "id": "hecklerkochvp9",
@@ -121,6 +121,20 @@
    "guideSha256": "ead769d172aa139a5cd688ecd4d5fd884ede4665de6855f2c83f4e16826354f4"
   },
   {
+   "id": "mlcvaparamount",
+   "maker": "CVA",
+   "model": "Paramount / HTR / Pro",
+   "chambering": ".40 / .45 / .50 cal",
+   "category": "Inline bolt-action",
+   "family": "ML-CVA-BOLT",
+   "tier": null,
+   "group": "Muzzleloaders",
+   "withdrawn": true,
+   "guide": false,
+   "held": true,
+   "verdict": "BLOCKED"
+  },
+  {
    "id": "christensenarmsmoderncarbonrifle",
    "maker": "Christensen Arms",
    "model": "Modern Carbon Rifle",
@@ -173,5 +187,7 @@
    "guideSha256": "28b37b37ae5088e3adbeefb422de72237df3d903999bd1d1b803fad1187198cc"
   }
  ],
- "removed": []
+ "removed": [
+  "savagerascalyouth"
+ ]
 }

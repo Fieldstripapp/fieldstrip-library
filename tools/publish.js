@@ -303,6 +303,23 @@ function build() {
                         .map(g => g.row);
   const removed = [...prevGuides.keys()].filter(r => !guideRows.has(r));
 
+  /* ⛔ ROW-LEVEL CHANGES RIDE THE CHANGELOG INTO THE DELTAS (found landing v18,
+     2026-09-27). The version already bumps on ANY row-content change (below), but
+     every delta was built from the guide-keyed lists alone — so a row withdrawn,
+     re-tiered or deleted from the catalog with no guide change bumped the version
+     and told a client holding the old one NOTHING. v17→v18 removed the Rascal row
+     and flagged mlcvaparamount withdrawn, and delta/17.json came out empty. So the
+     changelog entry also names every row whose projected record moved and every id
+     that left the catalog, and deltaFiles() unions those exactly like the guide
+     lists. Entries older than this carry neither field and read as empty. */
+  const prevRowById = new Map((prevIndex ? prevIndex.rows || [] : []).map(r => [r.id, r]));
+  const curRowIds = new Set(rows.map(r => r.id));
+  const rowsChanged = [...new Set(rows
+    .filter(r => !prevRowById.has(r.id) ||
+                 JSON.stringify(prevRowById.get(r.id)) !== JSON.stringify(r))
+    .map(r => r.id))];
+  const rowsRemoved = [...prevRowById.keys()].filter(id => !curRowIds.has(id));
+
   const prevPlates = new Set((prevIndex ? prevIndex.rows || [] : [])
     .filter(r => r.plate).map(r => r.id));
   const platesAdded = [...plateRows.keys()].filter(r => !prevPlates.has(r)).sort();
@@ -340,7 +357,7 @@ function build() {
     publishedAt: index.publishedAt,
     appCommit: headCommit,
     counts: { catalogRows: rows.length, guides: guides.length, plates: plates.length },
-    added, changed, removed, platesAdded,
+    added, changed, removed, platesAdded, rowsChanged, rowsRemoved,
   };
   const changelog = {
     _doc: 'One entry per published index version, newest first. `added` is the row ids ' +
@@ -365,13 +382,39 @@ function build() {
      ⛔ AND EVERY VERSION IS REGENERATED ON EVERY PUBLISH. A delta written once
      and left stops being true the next time a guide changes, and the client
      holding that version has no way to know. */
+  const deltas = deltaFiles(changelog, version, rows);
+
+  /* ---------- the byte payload the guards judge ---------- */
+  const files = guides.map(g => ({ path: 'guides/' + g.row + '.json', bytes: g.bytes }));
+  deltas.forEach(d => files.push({ path: 'delta/' + d.version + '.json', bytes: d.bytes }));
+  plates.forEach(p2 => files.push({ path: 'plates/' + p2.row + '.json', bytes: p2.bytes }));
+  plateImages.forEach(i => files.push(i));
+  files.push({ path: 'index.json', bytes: Buffer.from(j(index), 'utf8') });
+  files.push({ path: 'changelog.json', bytes: Buffer.from(j(changelog), 'utf8') });
+
+  /* guides on the shelf that the app does not bake in — EXPECTED under the ruling, and
+     reported by name so the subset is visible rather than assumed */
+  const shelfOnly = guides.map(g => g.row).filter(r => !appBodies.has(r));
+  return { headCommit, headSubject: app.headSubject(), holds, guides, rows, index, changelog,
+           files, added, changed, removed, contentChanged, version, prevVersion,
+           rowsChanged, rowsRemoved,
+           refusedHeld, quarantined, unknownFields, specCount: specPaths.length,
+           plates, plateImages, platesAdded, platesRemoved,
+           deltas, boxCensus, staleShelf, shelfOnly, appGuides: appBodies.size,
+           doorVerdictRows: Object.keys(doorVerdict).length };
+}
+
+/** One pre-rendered delta per published version: everything a client holding
+    version v has not got, as whole index rows plus the ids that left the catalog.
+    Exported so run_gates.js can fire it at a fixture. */
+function deltaFiles(changelog, version, rows) {
   const allVersions = [...new Set(
     (changelog.versions || []).map(e => e.version).concat([version]))]
     .filter(v => Number.isInteger(v) && v >= 1 && v <= version)
     .sort((a, b) => a - b);
 
   const rowById = new Map(rows.map(r => [r.id, r]));
-  const deltas = allVersions.map(v => {
+  return allVersions.map(v => {
     const ids = new Set();
     const gone = new Set();
     (changelog.versions || []).forEach(e => {
@@ -380,6 +423,8 @@ function build() {
       (e.changed || []).forEach(id => ids.add(id));
       (e.removed || []).forEach(id => gone.add(id));
       (e.platesAdded || []).forEach(id => ids.add(id));
+      (e.rowsChanged || []).forEach(id => ids.add(id));
+      (e.rowsRemoved || []).forEach(id => gone.add(id));
     });
     /* ⛔ THE CHANGELOG IS KEYED BY GUIDE, THE INDEX BY ROW, and a family guide is
        reached by many rows and owns none of them. So a guide id is expanded to
@@ -403,24 +448,6 @@ function build() {
       }), 'utf8'),
     };
   });
-
-  /* ---------- the byte payload the guards judge ---------- */
-  const files = guides.map(g => ({ path: 'guides/' + g.row + '.json', bytes: g.bytes }));
-  deltas.forEach(d => files.push({ path: 'delta/' + d.version + '.json', bytes: d.bytes }));
-  plates.forEach(p2 => files.push({ path: 'plates/' + p2.row + '.json', bytes: p2.bytes }));
-  plateImages.forEach(i => files.push(i));
-  files.push({ path: 'index.json', bytes: Buffer.from(j(index), 'utf8') });
-  files.push({ path: 'changelog.json', bytes: Buffer.from(j(changelog), 'utf8') });
-
-  /* guides on the shelf that the app does not bake in — EXPECTED under the ruling, and
-     reported by name so the subset is visible rather than assumed */
-  const shelfOnly = guides.map(g => g.row).filter(r => !appBodies.has(r));
-  return { headCommit, headSubject: app.headSubject(), holds, guides, rows, index, changelog,
-           files, added, changed, removed, contentChanged, version, prevVersion,
-           refusedHeld, quarantined, unknownFields, specCount: specPaths.length,
-           plates, plateImages, platesAdded, platesRemoved,
-           deltas, boxCensus, staleShelf, shelfOnly, appGuides: appBodies.size,
-           doorVerdictRows: Object.keys(doorVerdict).length };
 }
 
 function localDate() {
@@ -603,4 +630,4 @@ if (require.main === module) {
   catch (e) { console.error('\n' + (e && e.message ? e.message : e)); process.exit(2); }
 }
 
-module.exports = { build, check, operatorNames };
+module.exports = { deltaFiles, build, check, operatorNames };
