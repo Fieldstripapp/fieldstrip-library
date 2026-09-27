@@ -268,6 +268,21 @@ function main() {
     });
   }
 
+  /* ---- withdrawn rows (vC35b STEP 10, 2026-09-23) ----
+     A catalog row carrying wd:1 projects to an index row carrying withdrawn:true, and
+     the one decision function refuses a guide for it; a row without the flag carries
+     no such key and is allowed. Both directions, every run. */
+  console.log('\nWITHDRAWN ROWS');
+  {
+    const project = require('./lib/project');
+    const wd = project.projectCatalogRow({ i: 'fx_wd', mk: 'Fixture', md: 'Withdrawn', wd: 1 });
+    const ok = project.projectCatalogRow({ i: 'fx_ok', mk: 'Fixture', md: 'Allowed' });
+    line(wd.withdrawn === true, 'REFUSES a wd:1 catalog row projects withdrawn:true');
+    line(!('withdrawn' in ok), 'ALLOWS  an ordinary row carries no withdrawn key');
+    line(project.guideAllowedForRow(wd) === false, 'REFUSES a guide on a withdrawn row');
+    line(project.guideAllowedForRow(ok) === true, 'ALLOWS  a guide on an ordinary row');
+  }
+
   /* ---- and the live payload, judged by the same guards ---- */
   console.log('\nLIVE PAYLOAD');
   let payload;
@@ -282,6 +297,12 @@ function main() {
   Object.keys(live).forEach(n => line(live[n].length === 0,
     n + ' — ' + (live[n].length ? live[n].length + ' violation(s): ' + live[n][0] : 'clean')));
   line(payload.guides.length > 0, 'payload is not empty (' + payload.guides.length + ' guides)');
+  {
+    const wdRows = payload.index.rows.filter(r => r.withdrawn);
+    const wdWithGuide = wdRows.filter(r => r.guide);
+    line(wdWithGuide.length === 0, 'no withdrawn row carries a guide (' + wdRows.length +
+         ' withdrawn row(s)' + (wdRows.length ? ': ' + wdRows.map(r => r.id).join(', ') : '') + ')');
+  }
   line(payload.staleShelf.length === 0, payload.staleShelf.length
     ? 'the shelf block is STALE for ' + payload.staleShelf.length + ' spec(s): ' + payload.staleShelf.slice(0, 5).join(', ')
     : 'the shelf block covers every spec at HEAD (' + payload.appGuides + ' baked into the app, ' +

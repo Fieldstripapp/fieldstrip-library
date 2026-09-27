@@ -297,7 +297,7 @@ function guideIdFor(routing, c) {
  *  shipped row does.
  */
 function projectCatalogRow(c) {
-  return {
+  const r = {
     id: c.i,
     maker: c.mk,
     model: c.md,
@@ -307,6 +307,12 @@ function projectCatalogRow(c) {
     tier: typeof c.tr === 'number' ? c.tr : null,
     group: c.gp || null,
   };
+  /* ⛔ A ROW WITHDRAWN BY SAFETY RULING SAYS SO ON THE SHELF TOO (vC35b STEP 10,
+     2026-09-23). The app's CATALOG carries `wd:1` on a row whose cleaning content a
+     model-wide stop-use notice suppresses; the index carries it as `withdrawn` so a
+     delta row can never arrive on a phone claiming a guide for it. */
+  if (c.wd) r.withdrawn = true;
+  return r;
 }
 
 /* ⛔ THE ROW VERDICT, READ OUT OF THE APP'S OWN GENERATED BLOCK. A row that
@@ -343,7 +349,12 @@ function parseDoorVerdict(html) {
   return JSON.parse(html.slice(start, end));
 }
 
+/** A withdrawn row publishes NO guide, whatever the routing says. One decision, here,
+    so the publisher and the gate cannot disagree about it. */
+function guideAllowedForRow(r) { return !(r && r.withdrawn); }
+
 module.exports = {
+  guideAllowedForRow,
   projectGuide, parseCatalog, projectCatalogRow, citeFor, parseRouting, guideIdFor,
   parseDoorVerdict,
   SPEC_EMITTED, SPEC_INTERNAL, STEP_EMITTED, STEP_INTERNAL,
