@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 2 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 2,
- "to": 18,
+ "to": 19,
  "rows": [
   {
    "id": "radianmodel1",
@@ -9902,6 +9902,19 @@
    "guideSha256": "908e2124cbba0fd4d3e07fd240a7d25f32a6f6db939f511a828d3d5ece9cd902"
   },
   {
+   "id": "browningbt99",
+   "maker": "Browning",
+   "model": "BT-99",
+   "chambering": "12 GA",
+   "category": "Break-action single-barrel shotgun",
+   "family": "SB-BROWNING-BT99",
+   "tier": 2,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "browningbt99",
+   "guideSha256": "b8f7e73ae8307ad1fe7a6c40f2feac4f39f7e207c32e16b6f65826b0e49cca85"
+  },
+  {
    "id": "krieghoffk80parcours",
    "maker": "Krieghoff",
    "model": "K-80 Parcours",
@@ -10121,6 +10134,32 @@
    "guide": true,
    "guideId": "tx1022",
    "guideSha256": "b9b3329364a184492cb67c955fea4a2f071b4b94ac66f111ceef36066b2ccc74"
+  },
+  {
+   "id": "laugoarmsalien",
+   "maker": "Laugo Arms",
+   "model": "Alien",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "LAUGO-ALIEN",
+   "tier": 4,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "laugoarmsalien",
+   "guideSha256": "44d208619156ca23061f50b62a7ee07679b746a4ec894034336493055c4414b2"
+  },
+  {
+   "id": "laugoarmsalienremus",
+   "maker": "Laugo Arms",
+   "model": "Alien Remus",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "LAUGO-ALIEN",
+   "tier": 4,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "laugoarmsalienremus",
+   "guideSha256": "0617be4f5f9864d276d939cdfd468550f0801f8af24a91343a6f2db8068f61b6"
   },
   {
    "id": "stiinternationaltrojan",
