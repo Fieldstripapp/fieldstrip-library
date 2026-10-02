@@ -88,6 +88,10 @@ const STEP_INTERNAL = new Set([
   'prohibited', 'quoteGerman', 'asideLang', 'asideOriginal', 'warnLang',
   'warnOriginal', 'cautionLang', 'cautionOriginal',
   'cautionOriginalNotContiguousInExtraction', 'm',
+  /* vC75: a clean step may NAME ITS PART (the group whose screen carries it) — routing
+     metadata consumed by the app's tools/walkformat.js, which derives the published
+     cleanMap from it. The name itself never publishes; the derived map does. */
+  'part',
 ]);
 
 const LANGS = { de: 'German', fr: 'French', it: 'Italian', es: 'Spanish',
@@ -187,10 +191,31 @@ function projectGuide(spec, boxes) {
     g.deepAbsentReason = spec.deepAbsentReason;
   }
   if (spec.cleaning && spec.cleaning.length)     g.cleaning = spec.cleaning;
+  /* ⛔ vC75 — ONE WALK FORMAT (Darren order 2026-10-01). The cleanMap routes each clean
+     step onto the screen of its part. It is DERIVED by the app's tools/walkformat.js,
+     loaded from the app repo AT ITS COMMITTED HEAD through appsrc — the same module the
+     splice runs, so a fetched guide and a compiled-in one cannot route differently. A
+     guide the module refuses to map gets none and walks the generic lane; the refusal
+     is the module's to make and is reported by the publisher, never guessed around. */
+  const wf = walkformat().mapWalkFormat(spec);
+  if (wf.ok) g.cleanMap = { screens: wf.screens };
   if (spec.reassembly && spec.reassembly.length) g.reassembly = spec.reassembly;
   if (spec.fncheck) g.fncheck = spec.fncheck;
 
   return { guide: g, unknown };
+}
+
+/* vC75: the app's walkformat module, read at the app's committed HEAD (never the
+   filesystem — appsrc's own rule) and evaluated once. */
+let _walkformat = null;
+function walkformat() {
+  if (!_walkformat) {
+    const src = require('./appsrc').show('tools/walkformat.js');
+    const mod = { exports: {} };
+    new Function('module', 'exports', 'require', src)(mod, mod.exports, require);
+    _walkformat = mod.exports;
+  }
+  return _walkformat;
 }
 
 /* ---------- the catalog ---------- */

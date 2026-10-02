@@ -85,6 +85,12 @@ const GUIDE_KEYS = new Set([
      `file`, and the projection excludes it. */
   'sourceSha256_2',
   'steps', 'deepSteps', 'deepAbsentReason', 'cleaning', 'reassembly', 'fncheck',
+  /* ⛔ cleanMap — REVIEWED AND ADMITTED (vC75, Darren order 2026-10-01: one walk format
+     for every guide). It carries no text at all: only step indices and group indices
+     routing which clean step renders on which part's screen, derived by the app's
+     tools/walkformat.js at its committed HEAD — the same derivation the splice emits
+     into www/index.html, so the two cannot disagree. No path, no person, no prose. */
+  'cleanMap',
 ]);
 const STEP_KEYS = new Set([
   'phase', 'title', 'action', 'prose', 'caution', 'aside',
