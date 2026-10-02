@@ -1,0 +1,134 @@
+{
+ "row": "danieldefensesg30ti",
+ "make": "Daniel Defense",
+ "model": "SG-30Ti",
+ "sourcedFrom": "Daniel Defense SoundGuard Suppressor Operation & Safety Manual — UNKNOWN — read off the manual's own pages (UNKNOWN — read off the manual's own pages)",
+ "sourceSha256": "96954581998f8d0a413d17335789da0a7f7c4bbc71ea28b129e4e5fe86b3d556",
+ "cleanIntro": "⛔ SEALED, AND THE BOOK SAYS SO. Section 6.0 MAINTENANCE calls SoundGuard suppressors sealed, limiting the ability for users to service, and forbids running a cleaning patch through one. There is no strip to publish: this guide is take it off, inspect it, keep the threads and mount clean, put it back on correctly.\n\nThe SG-30Ti is the titanium model of the three this book covers (SG-556, SG-30, SG-30Ti): 15.0 oz with mount, 7.75 in long, 1.75 in tube, .223 Rem to 300 PRC, titanium baffle stack and tube, 5/8 x 24 mounting. The adjustable port end cap and its set screws are titanium-only, so they are yours and not the stainless models'.\n\nFiring schedule from the book: limit full-auto fire, and do not go past 90 rounds of sustained fire without letting it cool.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Unloaded, on safe, pointed safely — before it comes off",
+   "action": "Before you touch the suppressor, make the host firearm safe: unloaded, on safe, nothing in the chamber or the magazine, muzzle in a safe direction. This book is the suppressor's, not the rifle's: it does not describe how your particular firearm is cleared, so use the firearm's own manual for that part.",
+   "box": "none",
+   "prose": "The book prints this same warning at the head of both installation and maintenance — mounting and unmounting are where it expects the accident.",
+   "quote": "ENSURE THAT THE FIREARM IS UNLOADED AND ON SAFE, THERE IS NO AMMUNITION IN THE CHAMBER OR MAGAZINE, AND KEEP THE FIREARM POINTED IN A SAFE DIRECTION!",
+   "cite": "Daniel Defense SoundGuard Suppressor Operation & Safety Manual — UNKNOWN — read off the manual's own pages — 6.0 MAINTENANCE, printed p.11"
+  },
+  {
+   "phase": "Clear",
+   "title": "Let it cool, or glove up",
+   "action": "A suppressor that has just been fired can burn skin and ignite flammable material. Wait for it to cool; if it has to come off hot, wear heat-resistant gloves or other protection, and keep it away from anything flammable while it sits.",
+   "box": "none",
+   "prose": "Titanium does not make it cooler to the touch — the warning is for every SoundGuard model.",
+   "quote": "IF SUPPRESSOR MUST BE REMOVED WHILE HOT, USE HEATRESISTENT GLOVES OR OTHER PROTECTION TO PROTECT AGAINST HARM.",
+   "cite": "Daniel Defense SoundGuard Suppressor Operation & Safety Manual — UNKNOWN — read off the manual's own pages — Safety warnings, printed p.2"
+  },
+  {
+   "phase": "Strip",
+   "title": "Off the host — and that is as far as it comes apart",
+   "action": "Back the suppressor off the threads it was mounted on (it goes on clockwise, so it comes off the other way). That is the whole strip: the SoundGuard is sealed and Daniel Defense publishes no further disassembly.",
+   "box": "none",
+   "prose": "Do not try to open the tube or the baffle stack — there is no owner procedure for it, and the book's answer to a problem inside is to contact Daniel Defense.",
+   "quote": "Daniel SoundGuard Suppressors are sealed suppressors, limiting the ability for users to service.",
+   "cite": "Daniel Defense SoundGuard Suppressor Operation & Safety Manual — UNKNOWN — read off the manual's own pages — 6.0 MAINTENANCE, printed p.11"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Nothing in the bore or the suppressor",
+   "action": "Look through the bore and the suppressor for dirt, mud, snow or anything else. An obstruction is a dangerous condition: do not fire until it is clear.",
+   "box": "limit",
+   "prose": "Fired into, an obstruction can damage the firearm and hurt the shooter or bystanders.",
+   "quote": "DO NOT ATTEMPT TO OPERATE THE HOST FIREARM IF DIRT, MUD, SNOW OR OTHER SUBSTANCE OBSTRUCTS THE BORE OR SUPPRESSOR.",
+   "cite": "Daniel Defense SoundGuard Suppressor Operation & Safety Manual — UNKNOWN — read off the manual's own pages — Safety warnings, printed p.2"
+  },
+  {
+   "phase": "Inspect",
+   "title": "If it went under water, let it drain",
+   "action": "A suppressor that has been submerged needs time for the water to drain out completely before it is fired.",
+   "box": "none",
+   "prose": "Water trapped in a sealed can is the same problem as any other obstruction.",
+   "quote": "IF THE SUPPRESSOR HAS BEEN SUBMERGED IN WATER, SUFFICIENT TIME MUST BE ALLOWED FOR THE LIQUID TO COMPLETELY DRAIN.",
+   "cite": "Daniel Defense SoundGuard Suppressor Operation & Safety Manual — UNKNOWN — read off the manual's own pages — Safety warnings, printed p.2"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Suspect a baffle strike? Stop and call",
+   "action": "A baffle strike is a bullet hitting the inside of the suppressor — from incorrect installation or faulty ammunition. It may not change how the can performs, but the cause has to be found. If you suspect one and think it may be unsafe, stop using it and contact Daniel Defense.",
+   "box": "limit",
+   "prose": "Their service section has you obtain an RMA before sending a suppressor back.",
+   "quote": "If you suspect you’ve had a baffle strike and are concerned that the product may be unsafe for use, contact Daniel Defense.",
+   "cite": "Daniel Defense SoundGuard Suppressor Operation & Safety Manual — UNKNOWN — read off the manual's own pages — 7.0 BAFFLE STRIKE, printed p.12"
+  }
+ ],
+ "deepAbsentReason": "The book stops at the outside of the can: 6.0 MAINTENANCE (printed p.11) states SoundGuard suppressors are sealed, limiting the ability for users to service, forbids passing a cleaning patch through, and publishes no internal cleaning, soak or disassembly procedure — its only answer to a problem inside is 7.0 BAFFLE STRIKE (printed p.12): contact Daniel Defense.",
+ "cleaning": [
+  {
+   "title": "Keep the mount threads and interface clean",
+   "action": "This is the owner's cleaning job on a sealed can: the mounting adapter threads, and — if you run it on a compatible muzzle device — the interface between them, kept free of carbon buildup.",
+   "quote": "Daniel Defense recommends keeping the mounting adapter threads clean and, if using a compatible muzzle device, keep the interface clean and free of carbon buildup.",
+   "section": "6.0 MAINTENANCE, printed p.11",
+   "warn": "DO NOT PASS A CLEANING PATCH THROUGH THE SOUNDGUARD SUPPRESSOR.",
+   "warnSrc": "Daniel SoundGuard Operation & Safety Manual — 6.0 MAINTENANCE, printed p.11"
+  },
+  {
+   "title": "Brush the barrel threads",
+   "action": "Stiff-bristle brush over the host barrel's threads to get the debris off.",
+   "quote": "Use a stiff-bristle brush to remove debris from the barrel threads.",
+   "section": "3.0 INSTALLATION, printed p.7"
+  },
+  {
+   "title": "Wipe, then degrease the threads",
+   "action": "Wipe the remaining residue off with a clean cloth, then a clean cotton swab and a degreaser — acetone or alcohol is what the book recommends — on the barrel threads.",
+   "quote": "Use a clean cotton swab and a degreasing solution (acetone or alcohol is recommended) to remove residue/ debris from the barrel threads.",
+   "section": "3.0 INSTALLATION, printed p.7"
+  }
+ ],
+ "reassembly": [
+  {
+   "phase": "Rebuild",
+   "title": "Bare threads to mount on",
+   "action": "For direct-thread mounting, take any existing muzzle device off the host first, along with any crush washer or shims under it.",
+   "prose": "The suppressor threads straight onto the barrel; nothing stays sandwiched between them.",
+   "quote": "Remove existing muzzle device (if applicable) from the host firearm as well as any crush washer or shims present.",
+   "section": "3.0 INSTALLATION, printed p.7"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Clockwise to a stop, hand-tight with the spanner",
+   "action": "Thread the suppressor on clockwise until it stops, then hand-tighten with the supplied spanner wrench. Hand-tight is the instruction — not as tight as you can get it.",
+   "prose": "Over-tightening can affect the barrel's alignment on AR10/AR15-style rifles.",
+   "quote": "Attach suppressor by rotating clockwise until the suppressor comes to a stop and hand-tighten using the spanner wrench.",
+   "section": "3.0 INSTALLATION, printed p.8",
+   "warn": "Be careful not to over-tighten, as this could affect the barrel’s alignment (AR10/AR15-style firearms).",
+   "warnSrc": "Daniel SoundGuard Operation & Safety Manual — 3.0 INSTALLATION, printed p.8"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Threadlocker, if you want it more secure — and none in the bore",
+   "action": "Optional: a very small amount of Loctite 242 or an equivalent on the threads gives a more secure attachment. Keep every drop of it off and out of the bore.",
+   "prose": "The book calls this recommended, not required.",
+   "quote": "apply a very small amount of Loctite Threadlocker 242 (or equivalent) to the threads.",
+   "section": "3.0 INSTALLATION, printed p.8",
+   "warn": "Ensure Loctite does not drop on or into the bore.",
+   "warnSrc": "Daniel SoundGuard Operation & Safety Manual — 3.0 INSTALLATION, printed p.8"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Someone else's mount? Use their book",
+   "action": "The SoundGuard uses the common 1.375-24 UNS rear thread, so other makers' mounts fit. If you run one, install it by that maker's manual, not this one.",
+   "prose": "Daniel Defense does not describe other makers' mounting systems.",
+   "quote": "If using another manufacturer's mounting system, refer to their user manual for installation instructions.",
+   "section": "3.0 INSTALLATION, printed p.8"
+  },
+  {
+   "phase": "Rebuild",
+   "title": "Titanium only: set the port end cap",
+   "action": "The SG-30Ti's adjustable port end cap lets you close any of its ports to tune recoil impulse; the kit's #8-32 set screws and Allen wrench are listed for titanium suppressors only. Set it the way you run it before it goes back on the rifle.",
+   "prose": "The stainless SG-556 and SG-30 do not have this cap.",
+   "quote": "Providing the option to close any of the ports allows for tuning the recoil impulse generated from the directional dispersion of pressure as it leaves the suppressor.",
+   "section": "4.0 ADJUSTABLE PORT END CAP, printed p.9"
+  }
+ ],
+ "fncheck": "Daniel Defense prints no function or alignment check for the SoundGuard. Before the first shot, confirm the bore and the suppressor are clear: the book's opening warning is \"DO NOT ATTEMPT TO OPERATE THE HOST FIREARM IF DIRT, MUD, SNOW OR OTHER SUBSTANCE OBSTRUCTS THE BORE OR SUPPRESSOR.\""
+}

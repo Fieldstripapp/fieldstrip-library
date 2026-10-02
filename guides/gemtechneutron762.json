@@ -1,0 +1,275 @@
+{
+ "row": "gemtechneutron762",
+ "make": "Gemtech",
+ "model": "Neutron 7.62",
+ "sourcedFrom": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 (2026)",
+ "sourceSha256": "fd993b6832db4eafcf2c6160ecd91d0f3f1282209faff433410c37142e4c31a8",
+ "cleanIntro": "The NEUTRON 7.62 is a rifle can with no baffle stack for you to pull. Gemtech's maintenance never opens the tube: you take the can off, clean the muzzle device and the mount, take the flash-hider end-cap off and clean its threads and the gas vents, and put it back together dry. Every 600 rounds is Gemtech's minimum for taking it off and cleaning the muzzle device. Deep Clean is Gemtech's own armorer-level clean, which they call optional but recommended: end-cap and ETM mount off, the ETM taken apart, and the can soaked for an hour in Breakthrough Carbon Pro. Ratings from the book: 5.7x28mm and 300 BLK on a 3 inch minimum barrel; 5.56 NATO / 223 REM, 6mm ARC and 7.62x39mm on 7 inches; 308 WIN on 12 inches; 6.5 Creedmoor and 300 WIN MAG on 16 inches. It is full-auto rated in every caliber except 6.5 Creedmoor, 308 WIN and 300 WIN MAG, with a 90-round limit on sustained full-auto fire before it must cool.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, chamber and action cleared by hand",
+   "action": "Never take the NEUTRON off a loaded rifle. Magazine out first, then look into the chamber AND check it with a finger, and clear the action. Gemtech counts a firearm as unloaded only when the action is open, the magazine is out, and you have seen that the chamber is empty.",
+   "box": "limit",
+   "prose": "Your other hand is about to be wrapped around the muzzle end of the rifle. Clear it properly before it gets there.",
+   "quote": "WARNING: NEVER REMOVE A SUPPRESSOR FROM A LOADED FIREARM. FIRST REMOVE THE MAGAZINE FROM THE FIREARM. SECOND, VISUALLY AND MANUALLY CHECK AND CLEAR THE CHAMBER AND ACTION OF AMMUNITION.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — Removing Suppressor from the Host Firearm, p.15"
+  },
+  {
+   "phase": "Clear",
+   "title": "This book covers the can, not the rifle",
+   "action": "Get your rifle's own manual out and keep it beside this one. Gemtech's book teaches the suppressor — mounting it, cleaning it, its ammunition limits — and sends every rifle procedure back to that rifle's manual.",
+   "box": "limit",
+   "prose": "Two books, two jobs. Anything about clearing, stripping or cleaning the rifle itself comes from the rifle's maker.",
+   "quote": "WARNING: ALWAYS READ AND FOLLOW THE WARNINGS AND INSTRUCTIONS IN THE OWNER’S MANUAL FOR YOUR SPECIFIC FIREARM.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — Your Safety Responsibilities, p.4"
+  },
+  {
+   "phase": "Clear",
+   "title": "Nothing bigger than .30 caliber, nothing unjacketed, no tracer",
+   "action": "Before you go any further, check what this can has been fed. Nothing wider than 7.62mm (.30 caliber), no unjacketed bullets such as 22LR, and never tracer. The NEUTRON 7.62 is rated for 5.7x28mm and 300 BLK on a 3 inch minimum barrel; 5.56 NATO / 223 REM, 6mm ARC and 7.62x39mm on 7 inches; 308 WIN on 12 inches; and 6.5 Creedmoor and 300 WIN MAG on 16 inches.",
+   "box": "limit",
+   "prose": "If you see copper streaks on the end-cap aperture or hear metal rattling inside, that is a possible baffle strike and the can goes back to Gemtech, not to the bench.",
+   "quote": "WARNING: DO NOT USE BULLETS WITH A DIAMETER GREATER THAN 7.62MM (.30 CALIBER) IN THE NEUTRON 7.62.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — Ammunition Selection, p.10",
+   "warn": "WARNING: DO NOT USE NON JACKETED BULLETS SUCH AS 22LR WITH THE NEUTRON™ SUPPRESSOR.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Let it cool before you touch it",
+   "action": "Let the can cool before you take it off. Gemtech puts it past 1000 degrees F in use, and about 10 degrees F hotter for every round fired. If it truly has to come off hot, use a glove or suppressor sock made for extreme heat, and keep it away from anything that can burn.",
+   "box": "limit",
+   "prose": "A hot can does not look hot. Put it somewhere safe to cool before you start.",
+   "quote": "WARNING: THE SUPPRESSOR CAN BECOME DANGEROUSLY HOT WITH USAGE (> 1000° F) WHICH COULD CAUSE SEVERE SKIN BURNS UPON CONTACT.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — Removing Suppressor from the Host Firearm, p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Off the ETM: line up the marks at 12 o'clock, pull straight off",
+   "action": "On the ETM Elite Taper Mount, turn the can the opposite way to how it went on until all three witness marks — on the ETM mount, the lock ring and the muzzle device — line up at 12 o'clock, top dead centre of the barrel. Then pull it straight off the muzzle device.",
+   "box": "none",
+   "prose": "The muzzle device stays on the rifle. The book prints this removal for the ETM only; on a third-party mount, follow that mount maker's instructions.",
+   "quote": "To remove the suppressor rotate it in the opposite direction until the witness marks on ETM® mount (A1), lock ring (A2) and muzzle device (A3) are all in alignment at 12 o’clock top dead center of the barrel (FIGURE 7). Pull the suppressor straight off to remove it from the muzzle device.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — Removing the ETM Equipped Suppressor, p.32"
+  },
+  {
+   "phase": "Clean",
+   "title": "Muzzle device and the inside of the mount",
+   "action": "With the can off, clean carbon and copper off the ETM muzzle device on the barrel, and off the surfaces inside the mount on the can. Gemtech's minimum is to do this every 600 rounds.",
+   "box": "none",
+   "prose": "Brushes and picks, with Breakthrough Carbon Pro. Point the can so loosened debris falls out of it, not into it.",
+   "aside": "We recommend that the suppressor be removed from the host firearm every 600 rounds at a minimum, and its muzzle device cleaned.",
+   "quote": "Using brushes, picks, and Breakthrough® Carbon Pro, remove carbon and copper residue from the ETM® muzzle device and surfaces inside of the mount.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — NEUTRON Suppressor Maintenance, p.37"
+  },
+  {
+   "phase": "Strip",
+   "title": "Flash-hider end-cap off with the multi-tool",
+   "action": "Fit the ETM multi-tool so its cutouts sit on the tines of the end-cap, then turn it counterclockwise as you look at the muzzle. If it is stuck, put a 3/8 inch socket wrench in the multi-tool to help it break loose.",
+   "box": "none",
+   "prose": "Seat the tool fully on the tines before you load it, so it cannot slip off and mark the end-cap.",
+   "quote": "Using your ETM® multi-tool, align the cutouts with the “tines” of the end-cap and rotate counterclockwise (as viewed from the muzzle) to remove flash hider endcap. If required, use a 3/8˝ socket wrench to aid in the removal (FIGURE 12).",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — GM-S1 Front End-Cap Removal and Installation, p.40"
+  },
+  {
+   "phase": "Clean",
+   "title": "End-cap threads and gas vents",
+   "action": "With the end-cap off, clean the fouling off its threads and the tube's threads, and out of the gas vents. Copper is the thing to watch — Gemtech says not to let it build up.",
+   "box": "none",
+   "prose": "Clean, not abrasive. Nothing on this can gets sandpaper or a scouring pad.",
+   "caution": "However, under NO circumstances should the suppressor’s components be cleaned with an abrasive material such as sand paper, Scotch Brite®, Crocus Cloth, etc.",
+   "quote": "Remove the suppressor end-cap and clean fouling from thread surfaces and gas vents.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — NEUTRON Suppressor Maintenance, p.37"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe everything dry, threads above all",
+   "action": "Wipe every surface with a clean rag to get the debris and leftover cleaner off. Every thread has to be clean and dry before anything goes back together.",
+   "box": "none",
+   "prose": "If any cleaner got inside the can, blow it completely dry with compressed air. Liquid left inside raises the pressure when you fire and can damage the suppressor.",
+   "quote": "Wipe all surfaces with a clean rag to remove debris and excess cleaning solution. Make sure all threaded surfaces are clean and dry before reassembling the suppressor into the desired configuration.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — NEUTRON Suppressor Maintenance, p.37",
+   "warn": "If any cleaner is introduced to the inside of the suppressor, completely blow dry with a source of compressed air so no residual moisture is left inside.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "The tube stays closed",
+   "action": "This is where Gemtech's routine stops. Nothing inside the tube is yours to adjust or take out — the book gives no procedure for it, and it says not to go past the procedures it prints. Any other service goes to Gemtech.",
+   "box": "limit",
+   "prose": "A damaged tube on a registered suppressor means a new suppressor, not a repair, so do not force anything.",
+   "quote": "WARNING: NEVER MANIPULATE, ADJUST OR CHANGE ANY OF THE INTERNAL COMPONENTS OF YOUR SUPPRESSOR UNLESS SPECIFICALLY DIRECTED TO DO SO IN THIS MANUAL.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — Cleaning a Suppressor - General Topics, p.16",
+   "warn": "NEVER DISASSEMBLE YOUR SUPPRESSOR BEYOND THE PROCEDURES OUTLINED IN THIS MANUAL.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You have the can off, the muzzle device and mount cleaned, and the end-cap off with its threads and the gas vents cleaned and dry. That is all of Gemtech's routine. Deep Clean is their armorer-level clean: ETM off and taken apart, and the can soaked.",
+   "box": "none",
+   "prose": "Before it goes back on the rifle, check that everything is tight again and that the can is lined up with the bore.",
+   "quote": "The NEUTRON™ suppressor requires limited maintenance to preserve peak performance.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — NEUTRON Suppressor Maintenance, p.37",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Armorer-level clean: end-cap and ETM off the can",
+   "action": "Gemtech calls this deeper clean optional, but recommended. Take the end-cap off, then take the ETM mount off the back of the can and take the mount apart.",
+   "box": "none",
+   "prose": "Gemtech suggests doing this once a year, or every 1200 rounds.",
+   "aside": "This process can be repeated annually, or every 1200 rounds, if desired.",
+   "quote": "ARMORER LEVEL CLEANING: Deep cleaning of the NEUTRON™ suppressor itself is optional, but recommended.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — NEUTRON Suppressor Maintenance - Continued, p.38"
+  },
+  {
+   "phase": "Strip",
+   "title": "Break the mount free with the two spanner wrenches",
+   "action": "Put one of the included spanner wrenches in the notch on the back of the tube and the other in the notch on the mount. Set them so the handles are about two inches apart or less, then squeeze the handles together until the mount breaks free.",
+   "box": "none",
+   "prose": "Keep your fingers out from between the handles. They close fast when the joint lets go.",
+   "quote": "Use the included spanner wrenches to engage the locking notches on the rear of the suppressor and mount. Adjust the position of the wrenches so there is about a two inch (or less) gap between the handles (FIGURE 4). Squeeze the wrench handles firmly together until the parts are broken free from one another.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — Gemtech NEUTRON Suppressor Mount Removal, p.28",
+   "warn": "WARNING: AVOID PINCH POINTS.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "ETM apart: lock ring, detent plate, spring",
+   "action": "Put the multi-tool into the ETM mount body and turn it counterclockwise. The lock ring, the detent plate and the wave spring come out. Gemtech wants this done every 1200 rounds.",
+   "box": "none",
+   "prose": "You can do this with the ETM still on the can if you are only cleaning the mount.",
+   "aside": "The ETM® does not need to be removed from the suppressor in order to be disassembled.",
+   "quote": "Insert the ETM® multi-tool into the mount body and rotate it counter-clockwise to remove the ETM®’s lock ring, detent plate and spring.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — ETM Disassembly / Assembly, p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "Soak the can for one hour, muzzle up",
+   "action": "Stand the can muzzle up in a container that holds liquid, with its parts beside it. Fill it with Breakthrough Carbon Pro until everything is under, and leave it for one hour.",
+   "box": "none",
+   "prose": "Do it somewhere with good airflow. Gemtech warns that a used suppressor can carry lead residue.",
+   "aside": "Place the suppressor muzzle up (and its components) in a container that will hold liquid.",
+   "quote": "Fill container with Breakthrough® Carbon Pro until the suppressor and components are submerged and let soak for one hour.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — NEUTRON Suppressor Maintenance - Continued, p.38"
+  },
+  {
+   "phase": "Clean",
+   "title": "Pick the copper out of the blast chamber and gas vents",
+   "action": "After the soak, use cleaning picks to get the copper out of the blast chamber and the gas vents. Clean the ETM parts with non-marring tools and Carbon Pro, then wipe them clean.",
+   "box": "none",
+   "prose": "Picks go into the blast chamber and the vents only. Nothing further inside the tube is yours to work on.",
+   "caution": "Clean these components with non-marring tools and Breakthrough® Carbon Pro.",
+   "quote": "Use cleaning picks to remove copper build up in blast chamber and gas vents (FIGURE 11).",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — NEUTRON Suppressor Maintenance - Continued, p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry it completely",
+   "action": "Wipe the fouling off the can and its parts and dry them with a cloth, and compressed air if you want. Let everything dry fully before you put it back together.",
+   "box": "none",
+   "prose": "Liquid left in the can when you fire can damage it.",
+   "quote": "Wipe fouling off suppressor and components and dry them using a cloth and compressed air if desired. Allow suppressor and components to dry before reassembly.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — NEUTRON Suppressor Maintenance - Continued, p.39"
+  },
+  {
+   "phase": "Clean",
+   "title": "ETM back together: spring, detent plate dimple up, lock ring",
+   "action": "Put the spring in first, then the detent plate on top of it with the dimpled side up, away from the spring, and its tabs in the notches of the ETM body. Thread the lock ring in with the multi-tool, witness mark facing up, until the multi-tool touches the ETM body.",
+   "box": "none",
+   "prose": "Then turn it slightly as needed so the witness mark on the lock ring lines up with the one on the ETM body.",
+   "caution": "The lock ring is seated to the correct depth when the multi-tool body makes contact with the ETM® body.",
+   "quote": "Place the detent plate over the spring with the dimpled side facing up away from the spring (FIGURE 13), and with its tabs sitting in the ETM® body’s notches.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — ETM Disassembly / Assembly, p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "Prove the ETM: it must lock on solid",
+   "action": "Fit the can onto the ETM muzzle device of an unloaded, cleared rifle. If the ETM is put together right it locks on solid with no extra movement. If it moves, adjust how deep the lock ring sits, line the marks up again, and try again.",
+   "box": "none",
+   "prose": "Do not shoot it until it mounts solid.",
+   "quote": "To confirm proper assembly, mount the ETM® to an unloaded and cleared firearm with an ETM® muzzle device installed. If assembled correctly, the ETM® will mount rigidly without excess movement.",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — ETM Disassembly / Assembly Continued, p.42"
+  },
+  {
+   "phase": "Clean",
+   "title": "End-cap back on snug with the multi-tool only",
+   "action": "Screw the end-cap onto the tube without cross-threading it, until it bottoms out on the tube. Tighten it snug with the multi-tool only — the socket wrench is for getting it off, not for putting it on.",
+   "box": "limit",
+   "prose": "Clean, dry threads before it goes on.",
+   "quote": "Tighten the end-cap until it is snug using the multi-tool (do not use a wrench to tighten).",
+   "cite": "SAFETY AND INSTRUCTION MANUAL FOR NEUTRON™ 7.62 — p/n 3015902                                                                                                                                                                         REV:NEUTRON_SUPPRESSOR-02-06-2026 — GM-S1 Front End-Cap Removal and Installation, p.40"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "MUZZLE DEVICE & MOUNT",
+   "tasks": [
+    "Interval: off the rifle every 600 rounds at a minimum",
+    "Brushes, picks and Breakthrough Carbon Pro on the ETM muzzle device",
+    "Clean carbon and copper from the surfaces inside the mount"
+   ]
+  },
+  {
+   "name": "END-CAP, THREADS & GAS VENTS",
+   "tasks": [
+    "End-cap off with the ETM multi-tool, counterclockwise from the muzzle",
+    "Clean fouling from the thread surfaces and the gas vents",
+    "No abrasives: no sandpaper, Scotch Brite or crocus cloth"
+   ]
+  },
+  {
+   "name": "DRY",
+   "tasks": [
+    "Wipe every surface with a clean rag",
+    "All threads clean and dry before reassembly",
+    "Any cleaner inside the can: blow it completely dry with compressed air"
+   ]
+  },
+  {
+   "name": "BEFORE IT GOES BACK ON",
+   "tasks": [
+    "All mounting parts tight, nothing loosened during cleaning",
+    "Alignment checked: the muzzle aperture looks completely circular"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     5
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     7
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     8
+    ]
+   },
+   {
+    "g": 3,
+    "steps": []
+   }
+  ]
+ },
+ "reassembly": [
+  "End-cap back on the tube without cross-threading, until it bottoms out; snug it with the multi-tool only, never a wrench.",
+  "If the mount came off: thread it into the base of the can hand tight until its threads bottom out, no power tools, then snug it with the two spanner wrenches, handles about two inches apart.",
+  "On an ETM rifle: line up the witness marks on the ETM body, lock ring and muzzle device, slide the can over the muzzle device until it bottoms out, then turn it until the clicking stops and it will not turn further.",
+  "Pull on it to make sure it is locked on with no extra movement.",
+  "Check that every mounting part is tight and nothing loosened during cleaning."
+ ],
+ "fncheck": "With the rifle unloaded and cleared, look through the chamber to the muzzle with the can mounted: nothing may block the bullet's path and the muzzle aperture must look completely circular. Shadows or half-moons mean the can must be lined up again before it is fired. Pull on the can to confirm it is locked on with no extra movement, and while shooting check regularly, after letting it cool, that it is still tight."
+}

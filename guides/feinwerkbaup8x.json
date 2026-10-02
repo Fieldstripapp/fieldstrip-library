@@ -1,0 +1,191 @@
+{
+ "row": "feinwerkbaup8x",
+ "make": "Feinwerkbau",
+ "model": "P8X",
+ "sourcedFrom": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 (2026)",
+ "sourceSha256": "661442afac79298b283f6686e37052f99789880b2927cdb07f5a66d396f82418",
+ "cleanIntro": "⛔ THERE IS NO FIELD STRIP ON THIS PISTOL, AND THAT IS THE MAKER'S CHOICE, NOT A GAP. The P 8X is a pre-charged pneumatic match pistol: the air lives in a screw-on cylinder under the barrel, and the cocking lever on top opens the loading port and cocks the firing pin and the recoil absorber in one stroke. Feinwerkbau's book describes exactly one removal for cleaning, unscrewing that cylinder by hand, and tells you not to take the pistol apart any further than it describes. What it does publish is a routine: a wipe after every session, the bore pulled through with wicks as needed, and a once-a-year major clean of the trigger parts, with a yearly service at a dealer or at Feinwerkbau recommended. ⚠ No metal tools and no water anywhere on it.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Unloaded, bore clear, lever open, before anything else",
+   "action": "Finger outside the trigger guard. Open the cocking lever and look into the loading port and down the barrel: no pellet, nothing in the bore. Feinwerkbau sets those two conditions before handling, when there is a problem, and before cleaning, and it wants the lever open whenever the pistol changes hands.",
+   "box": "none",
+   "prose": "Opening the cocking lever is also what cocks the pistol, so an open lever on a P 8X means a cocked pistol. It is still the safe way to hold it, because with the lever open and the port empty there is nothing to fire. The book gives no separate drill for taking out a pellet that is already seated. If one is in there, treat the pistol as loaded.",
+   "quote": "Before handling, in case of problems and prior to cleaning, please ensure that - the weapon is unloaded, - the barrel is free of obstructions.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Safety notes, printed p.6",
+   "warn": "When taking or handing over the weapon the slide must always be open."
+  },
+  {
+   "phase": "Strip",
+   "title": "Air cylinder off, by hand, about five turns",
+   "action": "Hold the pistol and turn the compressed-air cylinder under the barrel off by hand. It should be free within five turns. You can do this at any pressure, full or empty. As it comes off, the small charge of air in the intermediate chamber escapes with an audible hiss, and that is normal.",
+   "box": "none",
+   "prose": "The book's cleaning section puts the cylinder off on the list of things to check before you start. Getting it off is the whole of the P 8X's strip. The sealing is a radial O-ring, so the cylinder was never meant to be tight, and it should come off with fingers alone.",
+   "quote": "Unscrew by hand compressed-air cylinder (after 5 turns the cylinder must be unscrewed).",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Compressed-air cylinder, printed p.33",
+   "warn": "The use of tools is not allowed."
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Cylinder will not come off: stop and send it out",
+   "action": "If the cylinder does not turn off by hand, do not reach for a wrench, a strap or pliers. Feinwerkbau's instruction is to give the pistol to an expert or to the factory for a check or repair.",
+   "box": "none",
+   "prose": "This cylinder holds up to 200 bar. A stuck one is a pressure vessel you cannot see into, and the book's answer is to have someone else look at it.",
+   "quote": "If for any reason it is not possible to unscrew compressed-air cylinder of the weapon give your weapon to an expert or the manufacturer for a check or repair.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Compressed-air cylinder — Security Note, printed p.35"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe down after every session",
+   "action": "Wipe the whole pistol with a soft cloth. A little Feinwerkbau special grease on the cloth is allowed. That is the entire routine clean, done after every shooting session.",
+   "box": "none",
+   "prose": "The system is built to run a long time without service, and Feinwerkbau says to lubricate it only at long intervals. The wipe is for the outside, not a reason to put grease into the action.",
+   "quote": "Wipe the weapon with a soft cloth. Eventually use some special grease.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Cleaning / Maintenance — Regular cleaning, printed p.36"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore when it needs it: oily wick, then dry wicks",
+   "action": "Use a commercial air-pistol cleaning kit. Pull a lightly oiled wick through the barrel, then pull dry wicks through until they come out showing no oil and no dirt.",
+   "box": "none",
+   "prose": "The book says to do this as needed, not every session. Stopping on a clean dry wick is what matters, because oil left in a match air pistol's bore moves the first shots.",
+   "quote": "Pass some commercial cleaning kit through the barrel, e.g. dry cleaning wicks, until these are no more showing oil or dirt traces.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Cleaning / Maintenance — Barrel cleaning, printed p.37"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ No metal objects, no water",
+   "action": "Nothing metal goes into the bore or onto the pistol for cleaning, and no water. The book lists both in its do-not-clean-with list.",
+   "box": "limit",
+   "prose": "A steel rod or a metal brush in a soft-lead pellet barrel only does damage, and water has no place in a pneumatic action.",
+   "quote": "Do not clean with",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Cleaning / Maintenance, printed p.36"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field clean complete: cylinder back on, by hand, until it plobs",
+   "action": "Check the cylinder thread is still lightly greased and grease it a little if not. Start the cylinder straight on the thread by hand, and screw it in until you feel resistance. Keep turning through it until you hear a short plob, which is the intermediate-chamber valve closing. Stop there.",
+   "box": "none",
+   "prose": "More turning after the plob gains nothing. The O-ring seals radially, so a tighter cylinder does not seal any better.",
+   "quote": "Sealing of the compressed-air cylinder is radial via an o-ring. Sealing is not improved by screwing tighter compressed-air cylinder on the weapon.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Compressed-air cylinder, printed p.33",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "When the major clean is due: once a year",
+   "action": "Feinwerkbau's major clean is on the calendar: at least once a year. It is the normal wipe-down plus the trigger-parts work below. The book recommends a yearly service at an authorized gunsmith or at Feinwerkbau in the same breath.",
+   "box": "none",
+   "prose": "Read that recommendation as part of the interval. On a pistol the maker does not let you open, the yearly service is where the inside gets looked at.",
+   "quote": "Major cleaning should be done once a year at least",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Cleaning / Maintenance — Major cleaning, printed p.37"
+  },
+  {
+   "phase": "Clean",
+   "title": "Trigger parts: old grease off, a trace of new on the edges",
+   "action": "Carefully rub the old grease residue off the trigger parts, then put a slight film of Feinwerkbau special grease back on their edges. ⚠ Work only on what you can reach as the pistol stands. The book names this job but describes no disassembly to get at the trigger parts, and it says not to take the pistol apart further than it describes.",
+   "box": "none",
+   "prose": "These edges are what give a match trigger its feel. Old grease there turns gummy and changes the let-off, and too much new grease does the same thing. A slight film is the instruction. Anything you cannot reach without taking something off belongs to the yearly service.",
+   "quote": "Grease slightly the edges of the trigger parts again.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Cleaning / Maintenance — Major cleaning, printed p.37",
+   "warn": "Disassemble the weapon only as far as described in this manual."
+  },
+  {
+   "phase": "Clean",
+   "title": "Trigger weight after any trigger work",
+   "action": "If anything on the trigger unit was moved, check the trigger weight afterwards and reset it if needed. Feinwerkbau states that the weight can change whenever the trigger unit is altered. The slack-weight screw F1 (46) is the adjustment the book gives as its example.",
+   "box": "none",
+   "prose": "The factory sets the trigger to ISSF rules, so a weight that drifts after a clean can put the pistol out of compliance.",
+   "quote": "Basically the trigger weight has to be checked and possibly adjusted after every alteration of the trigger unit, p.ex. adaption of trigger slack weight with screw F1 (46).",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Adjustment trigger, printed p.26"
+  },
+  {
+   "phase": "Clean",
+   "title": "Laying it up: oil the bore, then de-oil before you shoot",
+   "action": "If the pistol is going to sit unused for a long time, pull a slightly oiled wick through the barrel. ⛔ Before it is shot again, open the bolt and pull dry wicks through until they come out with no oil or dirt on them. For a lay-up of 4–6 weeks or more, the book also lets you leave the cylinder off, because a cylinder left on loses some pressure over time.",
+   "box": "none",
+   "prose": "The oil is only for storage. Shooting through it is the mistake this step exists to prevent.",
+   "quote": "Before next shooting the oil must be removed from the barrel.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Cleaning / Maintenance — Barrel oiling, printed p.37"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Cylinder age: ten years, then it is retired",
+   "action": "Read the manufacturing date stamped on the cylinder (for example I/16 means the first quarter of 2016). A cylinder that leaks, is damaged, or is more than 10 years old must not be filled or used again. Empty it safely with the discharge screw supplied, and dispose of it only when it holds no pressure at all.",
+   "box": "limit",
+   "prose": "This is the one item on the pistol with a hard expiry date, and the date is on the part itself. Look at it at every major clean.",
+   "quote": "Compressed-air cylinders which are leaking, damaged or older than 10 years should be emptied without any danger with enclosed discharge screw and should not be filled anymore resp. used.",
+   "cite": "FEINWERKBAU Bedienungsanleitung / Operator's manual — AIR PISTOL P 8X — V10 — März 2026 (code printed on the back cover), Art.-Nr. 3.4.400.005 — Compressed-air cylinder — Inspection, printed p.35"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "OUTSIDE",
+   "tasks": [
+    "Soft cloth after every session",
+    "A trace of Feinwerkbau special grease on the cloth, if wanted"
+   ]
+  },
+  {
+   "name": "BORE",
+   "tasks": [
+    "As needed: lightly oiled wick through",
+    "Dry wicks until they come out with no oil or dirt on them",
+    "Before shooting again after storage: de-oiled with dry wicks"
+   ]
+  },
+  {
+   "name": "AIR CYLINDER",
+   "tasks": [
+    "Off and on by hand only, never with a tool",
+    "Thread lightly greased",
+    "Check the date on the cylinder: 10 years' service life at most"
+   ]
+  },
+  {
+   "name": "NEVER",
+   "tasks": [
+    "Metal objects",
+    "Water",
+    "Disassembly past what the manual describes"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     3
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     4
+    ]
+   },
+   {
+    "g": 2,
+    "steps": []
+   },
+   {
+    "g": 3,
+    "steps": [
+     5
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "Cylinder thread checked and lightly greased.",
+  "Cylinder started straight on the thread, by hand.",
+  "Screwed in through the resistance to the short plob, then stopped.",
+  "If the bore was oiled for storage, de-oil it with dry wicks before the next shot.",
+  "Transport lock back in before the pistol travels."
+ ],
+ "fncheck": "With the cylinder back on, it should have gone through a felt resistance to a short plob, the intermediate-chamber valve closing. If it never plobbed, it is not seated. Feinwerkbau's book also has a running check for the recoil absorber, done with live shots at a safe backstop: after a shot, open the cocking lever slowly until you feel a slight resistance. The absorber is working correctly if the breech moves back between 1 and 12 mm before that resistance (\"Function of the absorber is well if the breech can be moved backward between 1 and 12 mm until the resistance is felt.\", printed p.29). Outside that range, the book's absorber-adjustment procedure on printed pp.29–31 applies. It is an adjustment, not a cleaning step."
+}

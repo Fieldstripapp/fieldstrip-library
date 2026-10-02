@@ -1,0 +1,133 @@
+{
+ "row": "aacjaeger30",
+ "make": "AAC",
+ "model": "Jaeger 30",
+ "sourcedFrom": "TM-JAEGER™ 30 — TECHNICAL MANUAL FOR OPERATION AND MAINTENANCE OF SILENCER MODEL JAEGER 30 — F417591 REV-11.18 (printed on the cover) (2018 (© 2018 Advanced Armament Corp. / © 2018 Remington Arms Company, LLC.))",
+ "sourceSha256": "24392cb3b28c4b85679ed9c284edf327043140df76e97aa166145d5622299816",
+ "cleanIntro": "The Jaeger 30 is a SEALED hunting silencer: a titanium mount and blast chamber with an aluminium body and monocore, on a 5/8-24 direct thread. AAC's own technical manual is explicit that it is not taken apart. Its whole maintenance is to come off the rifle cold, soak, drain, brush the threaded socket and wipe the outside. ⛔ Never disassemble it, never put it in an ultrasonic cleaner (AAC says that damages the aluminium tube and monocore), and clean it only when it is off the rifle.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Make the HOST rifle safe first — magazine out, empty, on SAFE",
+   "action": "Keep the rifle pointed in a safe direction. Remove the magazine, unload the rifle completely and put its safety on \"SAFE\", following the rifle's own manual. A silencer never goes on or comes off a rifle you have not checked empty.",
+   "box": "none",
+   "prose": "This book covers the silencer, not the rifle it is on. The silencer has no action to clear, and for unloading the rifle AAC sends you to the rifle's own owner's manual.",
+   "quote": "2. Render the firearm safe by removing the magazine, completely unloading the firearm and engaging the safety mechanism to the \"SAFE\" position. See the firearm's owner's manual for detailed instructions.",
+   "cite": "TM-JAEGER™ 30 — TECHNICAL MANUAL FOR OPERATION AND MAINTENANCE OF SILENCER MODEL JAEGER 30 — F417591 REV-11.18 (printed on the cover) — Removing a JAEGER 30 from a host firearm, step 2, P.7",
+   "warn": "Never install or remove a silencer on or from a host firearm that you have not verified to be completely empty and rendered safe.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Let it cool to ambient before you touch it",
+   "action": "Check that the silencer has cooled to ambient temperature, and let it cool if it is hot. If it has to come off hot, heat-resistant gloves are mandatory.",
+   "box": "none",
+   "prose": "A can that has just been shot is hot enough to burn through a bare hand, and from the outside it looks the same as a cold one.",
+   "quote": "3. Verify the silencer is at ambient temperature. If the silencer is hot, allow it to cool.",
+   "cite": "TM-JAEGER™ 30 — TECHNICAL MANUAL FOR OPERATION AND MAINTENANCE OF SILENCER MODEL JAEGER 30 — F417591 REV-11.18 (printed on the cover) — Removing a JAEGER 30 from a host firearm, step 3, P.7",
+   "warn": "Never handle a hot silencer without heat-resistant gloves, as this may lead to skin burns and/or personal injury.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Grip the MOUNT and unscrew it off the muzzle",
+   "action": "Hold the silencer firmly by its mount, the titanium section at the rear, and unscrew it from the muzzle threads. If it will not come off by hand, a 13/16\" open-end wrench fits the flats on the mount.",
+   "box": "none",
+   "prose": "The flats AAC names for the wrench are on the titanium mount, so that is where the wrench goes.",
+   "aside": "NOTE: If the silencer will not unscrew from the host firearm by hand, a 13/16” open-end wrench can be used to engage the flats of the titanium silencer mount to aid in removal.",
+   "quote": "unscrew the silencer from the muzzle threads in the direction indicated in Figure 6.",
+   "cite": "TM-JAEGER™ 30 — TECHNICAL MANUAL FOR OPERATION AND MAINTENANCE OF SILENCER MODEL JAEGER 30 — F417591 REV-11.18 (printed on the cover) — Removing a JAEGER 30 from a host firearm, step 4, P.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — and it stops here: the Jaeger 30 is SEALED",
+   "action": "The silencer is off the rifle, and that is the whole strip. AAC built it as a sealed unit. There are no baffles or end caps to take out, and trying to open it will likely damage it and void the warranty. The soak cleaning AAC describes is under DEEP CLEAN.",
+   "box": "limit",
+   "prose": "AAC also says the can needs minimal maintenance, because of its barrel-length, ammunition and rate-of-fire limits.",
+   "quote": "The JAEGER 30 is a sealed design and is not intended to be taken apart. DO NOT attempt to disassemble the JAEGER 30.",
+   "cite": "TM-JAEGER™ 30 — TECHNICAL MANUAL FOR OPERATION AND MAINTENANCE OF SILENCER MODEL JAEGER 30 — F417591 REV-11.18 (printed on the cover) — Cleaning the JAEGER 30, warning, P.7",
+   "warn": "Only perform cleaning and maintenance procedures on silencers that are not mounted to a firearm.",
+   "warnSrc": "maker",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Soak it — lacquer thinner, mineral spirits or acetone, 24 hours",
+   "action": "With the silencer off the rifle, immerse it completely in lacquer thinner, mineral spirits or acetone and leave it to soak for 24 hours. Do it in a well-ventilated place away from open flame, wearing eye protection and solvent-resistant gloves.",
+   "box": "none",
+   "prose": "Soaking is the only way into a sealed can. The solvent goes in through the bore, and you never open it.",
+   "quote": "2. Immerse the JAEGER 30 in lacquer thinner, mineral spirits, or acetone, and allow it to soak for 24 hours.",
+   "cite": "TM-JAEGER™ 30 — TECHNICAL MANUAL FOR OPERATION AND MAINTENANCE OF SILENCER MODEL JAEGER 30 — F417591 REV-11.18 (printed on the cover) — Cleaning the JAEGER 30, step 2, P.8",
+   "warn": "Always wear protective gear, such as eye protection and solvent-resistant gloves when working with any solvent.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep",
+   "title": "Drain it from ONE end, then the OTHER",
+   "action": "After the soak, let the solvent drain out of the silencer from one end first, and then from the other.",
+   "box": "none",
+   "prose": "Draining both ways empties the chambers on each side of the monocore.",
+   "quote": "3. After soaking, allow solvent to drain from the JAEGER 30, first from one end, then from the other.",
+   "cite": "TM-JAEGER™ 30 — TECHNICAL MANUAL FOR OPERATION AND MAINTENANCE OF SILENCER MODEL JAEGER 30 — F417591 REV-11.18 (printed on the cover) — Cleaning the JAEGER 30, step 3, P.8"
+  },
+  {
+   "phase": "Deep",
+   "title": "Brush the threaded socket — soft bristles and solvent",
+   "action": "Clean the threaded socket at the rear of the silencer with a soft bristle brush and solvent. Those threads and the stop surface inside them are what keep the can aligned with the bore.",
+   "box": "none",
+   "prose": "AAC warns against mounting the can with dirty or damaged threads, and this socket is where that dirt collects.",
+   "quote": "4. Clean the threaded socket in the rear of the JAEGER 30 with a soft bristle brush and solvent.",
+   "cite": "TM-JAEGER™ 30 — TECHNICAL MANUAL FOR OPERATION AND MAINTENANCE OF SILENCER MODEL JAEGER 30 — F417591 REV-11.18 (printed on the cover) — Cleaning the JAEGER 30, step 4, P.8",
+   "warn": "DO NOT use an ultrasonic cleaner to clean your JAEGER 30. Ultrasonic cleaners will damage the aluminum tube and aluminum monocore.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep",
+   "title": "Wipe the outside with oil, then let ALL the solvent evaporate",
+   "action": "Wipe the exterior with a rag or paper towel moistened with gun oil (AAC names its own Rem Oil). Then let every trace of solvent evaporate before the silencer goes back on a rifle and is fired.",
+   "box": "none",
+   "prose": "The wait is part of the cleaning. Solvent still inside the can should be gone before the first shot through it.",
+   "quote": "6. Allow all traces of solvent to evaporate prior to reinstalling your JAEGER 30 on a host firearm and firing through it.",
+   "cite": "TM-JAEGER™ 30 — TECHNICAL MANUAL FOR OPERATION AND MAINTENANCE OF SILENCER MODEL JAEGER 30 — F417591 REV-11.18 (printed on the cover) — Cleaning the JAEGER 30, step 6, P.8"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "OFF THE RIFLE, COLD",
+   "tasks": [
+    "Host rifle: magazine out, fully unloaded, on SAFE",
+    "Silencer at ambient temperature, or heat-resistant gloves on",
+    "Unscrewed by the mount, never cleaned while mounted"
+   ]
+  },
+  {
+   "name": "SOAK",
+   "tasks": [
+    "Immersed in lacquer thinner, mineral spirits or acetone for 24 hours",
+    "Eye protection, solvent-resistant gloves, ventilation, no open flame",
+    "Drained from one end, then the other",
+    "Rear threaded socket brushed with a soft bristle brush and solvent",
+    "Exterior wiped with an oil-moistened rag",
+    "Every trace of solvent evaporated before refitting and firing"
+   ]
+  },
+  {
+   "name": "LEAVE ALONE",
+   "tasks": [
+    "⛔ Never disassembled: it is a sealed design",
+    "⛔ No ultrasonic cleaner, which damages the aluminium tube and monocore",
+    "⛔ No auxiliary thread adapter between barrel and silencer",
+    "⛔ No crush washer or compression washer when mounting"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Muzzle threads, the shoulder behind them (if the barrel has one) and the muzzle face checked clean and undamaged.",
+  "Silencer's rear threaded socket and its internal stop surface checked clean and undamaged.",
+  "Looked through from the rear to confirm the bullet path is clear, and the can checked for any damage.",
+  "Screwed onto the muzzle until the mating surfaces are fully engaged and secure, but not over-tightened, or it may be hard to remove."
+ ],
+ "fncheck": "With the rifle unloaded and on SAFE and the silencer cold: look through the silencer from the rear and confirm the bore is unobstructed. Confirm it is screwed down fully against the barrel's shoulder or muzzle face, and re-tighten it in the mounting direction. AAC requires the user to keep it securely threaded during use, and its bore must line up with the rifle's bore. ⛔ Shoot it only within the book's limits: single-shot or manually operated rifles, the minimum barrel length for the caliber, and cooled to ambient after every ten rounds."
+}
