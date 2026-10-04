@@ -347,7 +347,12 @@ function build() {
        date on a version whose content did not move would make index.json claim
        a publish that never happened. */
     publishedAt: contentChanged ? localDate() : (prevIndex && prevIndex.publishedAt) || localDate(),
-    appCommit: headCommit,
+    /* ⛔ AND AN UNCHANGED PUBLISH KEEPS ITS appCommit (Darren repair order 2026-10-04). It names the app
+       commit the published CONTENT was built from; a publish of 0 added / 0 changed / 0 removed with the
+       version unchanged built nothing new, so re-stamping today's app HEAD dirtied index.json on the
+       2026-10-03 no-change night and made the shelf claim a build it never did. A no-change run now leaves
+       the library byte-identical. FIELDSTRIP_PUBLISH_PROVE_FAIL=stamp puts the old stamp back (the test only). */
+    appCommit: (contentChanged || !(prevIndex && prevIndex.appCommit) || process.env.FIELDSTRIP_PUBLISH_PROVE_FAIL === 'stamp') ? headCommit : prevIndex.appCommit,
     counts: { catalogRows: rows.length, guides: guides.length, plates: plates.length },
     rows,
   };
