@@ -47,6 +47,11 @@ DPI = 200
 # ──────────────────────────────────────────────────────────────────────────────
 # THE PLATES. One entry per plate; `rows` is a predicate over the catalog index.
 # ──────────────────────────────────────────────────────────────────────────────
+RETIRED = {
+    "ar15-bolt-carrier-assembly": "retired by Darren's ruling 2026-10-06 (app morning order Part 5, art cleanup): "
+                                  "the TM plate leaves the app and the shelf",
+}
+
 PLATE_DEFS = [
     {
         "plateId": "ar15-bolt-carrier-assembly",
@@ -273,6 +278,12 @@ def main():
     written = 0
 
     for d in PLATE_DEFS:
+        # RETIRED BY RULING (Darren, app morning order 2026-10-06 Part 5: keep the Glock 23 demo montage and the
+        # Winchester Wildcat example photo, lose every other art asset). A retired plate is refused, never rebuilt.
+        if d["plateId"] in RETIRED:
+            mapping["refused"].append({"plateId": d["plateId"], "why": RETIRED[d["plateId"]]})
+            print(f"  ⛔ {d['plateId']}: retired by ruling")
+            continue
         docname = d["doc"]
         v = verify.get(docname)
         if not v or v["verdict"] != "SHIP":
