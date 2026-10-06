@@ -1,0 +1,294 @@
+{
+ "row": "sigsauer716g2dmr",
+ "make": "SIG Sauer",
+ "model": "716 G2 DMR",
+ "sourcedFrom": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "50faa2b3027be0134a5233c523e75c5ce1fdf8c150d5b65a46f7018897ac97a4",
+ "cleanIntro": "SIG's own user-level strip for the SIG716 G2 DMR, in SIG's order and no further. It looks like an AR-10, but it is not run by direct impingement: gas from the barrel drives a PISTON and OPERATING ROD that push the carrier, so this rifle has a gas valve and an op rod to take out and clean that a direct-gas rifle does not. SIG publishes a separate book for the 716 TREAD, which is direct impingement and strips differently; this guide is for the G2 DMR only. SIG bars the user from removing the rail adapter.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check this is the G2 DMR — the piston gun, not the 716 TREAD",
+   "action": "Before following anything below, confirm your rifle is a SIG716 G2 DMR. SIG publishes a different book for the 716 TREAD under a different part number; this guide follows the G2 DMR book (P/N 1800846-01), whose own scope statement is quoted here.",
+   "box": "none",
+   "prose": "The two rifles share a number and not an operating system. The TREAD is direct impingement; the G2 DMR runs a gas piston and op rod with a two-position gas valve at the front. If your rifle has no gas valve lever at the gas block, it is not the rifle this guide describes — stop and get the right book.",
+   "quote": "This manual contains the information necessary to safely operate and perform authorized preventative maintenance at the user level on the SIG716 G2 DMR rifle.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — Owner's manual, scope statement, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Muzzle in a safe direction, then the magazine out",
+   "action": "Point the muzzle in a safe direction and keep it there through every clearing step. Press the magazine catch with the index finger of your firing hand and pull the magazine free with your support hand at the same time.",
+   "box": "none",
+   "prose": "SIG says the five clearing steps are to be followed in order, and the order is the point: the magazine comes out before the action is touched, so the action cannot feed a fresh round while you work it. Press and pull together rather than pressing and waiting for the magazine to drop.",
+   "quote": "Remove the magazine from the firearm by depressing the magazine catch with the index finger of the firing hand and simultaneously pulling the magazine free with the support hand.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 2.3 Clearing the SIG716 G2 DMR, step 2, p.31",
+   "warn": "IF THE 716 DMR IS DROPPED WITH THE BOLT ASSEMBLY LOCKED TO THE REAR AND A LOADED MAGAZINE INSTALLED, IT COULD CHAMBER A ROUND.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt locked back on the catch, charging handle returned, on SAFE",
+   "action": "With the support hand, press and hold the bottom of the bolt catch while pulling the charging handle briskly and fully to the rear with the firing hand. Let the catch hold the carrier back, push the charging handle forward until it locks, and make sure the rifle is on SAFE.",
+   "box": "none",
+   "prose": "The catch is held before the handle is pulled, not grabbed afterwards. A charging handle left part-way back fouls the receivers when they swing apart later and partly hides the chamber you are about to inspect.",
+   "quote": "Engage the bolt catch ensuring that the bolt carrier assembly remains locked to the rear, and return the charging handle to its forward and locked position.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 2.3 Clearing the SIG716 G2 DMR, step 3, p.32"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber, and feel it if the light is poor",
+   "action": "Look into the chamber and confirm there is no live round and no empty case. In darkness or poor light, check it physically too, using a pen or similar tool rather than a finger if the rifle may still be hot.",
+   "box": "none",
+   "prose": "The carrier is held back against its spring by the bolt catch alone, so keep your hand off the catch while you look. A recently fired barrel extension holds heat long after the handguard feels cool.",
+   "caution": "THE BOLT CARRIER ASSEMBLY IS UNDER SPRING TENSION AND WILL SPRING FORWARD IF THE BOLT CATCH IS INADVERTENTLY DEPRESSED, POSSIBLY CAUSING INJURY.",
+   "quote": "Inspect the chamber to ensure that there are no live rounds or spent cartridges present. In periods of darkness or reduced visibility it will be necessary to physically inspect the chamber.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 2.3 Clearing the SIG716 G2 DMR, step 4, p.33"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cleared, on SAFE, sling off",
+   "action": "With the rifle cleared and the selector on SAFE, take the sling off if one is fitted.",
+   "box": "none",
+   "prose": "A sling still clipped to the rifle turns the receiver swing in the next step into a hinge with a strap across it, and it gets in the way when you draw the gas valve and op rod out of the front later on.",
+   "quote": "Clear the firearm and rotate the selector to SAFE.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1 Field Strip the SIG716 G2 DMR, step 1, p.41"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin out to its detent, receivers swung apart",
+   "action": "Push the rear takedown pin from left to right until it stops against its detent, then swing the receivers apart on the front pivot pin.",
+   "box": "none",
+   "prose": "The pin is captive. It stops at the detent rather than coming out, so if it feels as though it wants to keep going you are pushing the wrong pin or from the wrong side. The front pivot pin stays in; the receivers hinge on it.",
+   "quote": "Push the takedown pin from left to right until stopped by the detent.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1 Field Strip the SIG716 G2 DMR, steps 3–4, p.41"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier assembly straight out the back of the upper",
+   "action": "Draw the charging handle part of the way back to expose the bolt carrier assembly. Take hold of the carrier and pull it straight out of the rear of the upper receiver.",
+   "box": "none",
+   "prose": "Pull straight and the carrier slides out on its rails. Tilting it as it comes out drags the bolt face across the inside of the upper. The op rod stays in the rifle for now; it comes out of the front later.",
+   "quote": "Grasp the bolt carrier assembly and pull it straight out from the rear of the upper receiver.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1 Field Strip the SIG716 G2 DMR, step 5, p.42"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle out where its tabs meet the slots",
+   "action": "Pull the charging handle to the rear until its two guide tabs line up with the slots in the upper receiver track. It then drops out of the track and comes out of the rear of the upper.",
+   "box": "none",
+   "prose": "It only leaves at one point along its travel. If it will not drop, it is not yet far enough back, and prying it out of the track bends the tabs that keep it straight.",
+   "quote": "The charging handle will then drop out of the track and can be removed from the rear of the upper receiver.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1 Field Strip the SIG716 G2 DMR, step 6, p.42"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin out the left, firing pin out the back",
+   "action": "Take the firing pin retaining pin out of the left side of the bolt carrier, then draw the firing pin out of the rear of the carrier.",
+   "box": "none",
+   "prose": "The retaining pin is small and easy to lose, so put it straight in a tray. On reassembly SIG wants it seated between the firing pin's head and its large flange, so note where it sat before you take it out.",
+   "quote": "Remove the firing pin retaining pin from the left side of the bolt carrier.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1 Field Strip the SIG716 G2 DMR, steps 7–8, p.43"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin up and out, bolt out the front of the carrier",
+   "action": "Lift the cam pin up and out of the bolt carrier, then pull the bolt assembly out of the front of the carrier.",
+   "box": "none",
+   "prose": "The cam pin comes out first because it is what holds the bolt in. Keep this bolt with this rifle: SIG's own front-of-book warning bars swapping bolts between rifles, because a bolt is matched to the headspace of its own barrel.",
+   "quote": "Remove the cam pin by lifting it up and out of the bolt carrier.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1 Field Strip the SIG716 G2 DMR, steps 9–10, p.43",
+   "warn": "DO NOT INTERCHANGE BOLTS BETWEEN FIREARMS.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gas valve lever down on the right, to reach the stop pin",
+   "action": "On the right side of the gas block, push the gas valve lever down so you can reach the stop pin.",
+   "box": "none",
+   "prose": "This is where the G2 DMR stops being an AR. The gas valve lever selects the valve's two positions, one of them for running suppressed, and the stop pin is what holds the valve in place in either position.",
+   "quote": "Push the gas valve lever down on the right side to access the stop pin.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1 Field Strip the SIG716 G2 DMR, step 14, p.46"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stop pin pressed, valve turned until its flange clears the gas block",
+   "action": "Hold the stop pin in and rotate the gas valve until its flange is fully clear of the channel in the gas block.",
+   "box": "none",
+   "prose": "The valve only comes free at one rotation. If the flange is not fully out of the channel the valve will not come forward, and levering on it damages the valve rather than freeing it.",
+   "quote": "Depress the stop pin and rotate the valve until the flange is fully exposed from the channel in the gas block.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1 Field Strip the SIG716 G2 DMR, step 15, p.46"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gas valve and op rod out the front, then separated",
+   "action": "Draw the gas valve and the op rod together out of the front of the rail adapter, then separate the gas valve from the op rod.",
+   "box": "none",
+   "prose": "The piston end of the op rod sits in the gas stream and carbons up harder than anything else on the rifle, which is why SIG has you take it out at user level. It comes out of the front because the rail adapter stays on the rifle.",
+   "quote": "Withdraw the gas valve and op rod from the front of the rail adapter.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1 Field Strip the SIG716 G2 DMR, steps 16–17, p.47"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the rail adapter stays on",
+   "action": "You now have the lower receiver, the upper with barrel and rail adapter still fitted, the charging handle, the bolt carrier, bolt, cam pin, firing pin and retaining pin, and the gas valve and op rod. The extractor, the buffer and action spring, and the magazine are published in the same book and are the deep clean.",
+   "box": "none",
+   "prose": "SIG draws one line in this section in plain words: the rail adapter is not a user part. Everything you need to clean the gas system comes out of the front without it.",
+   "quote": "The removal of the SIG716 G2 rail adapter assembly is not authorized at the user level.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1.2 Upper/Lower Rail Adapter Assembly Removal, p.47",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Gas valve, piston and op rod, and inside the gas block",
+   "action": "With CLP, rifle bore cleaner or carbon cleaner, clean all carbon from the inside and outside of the gas valve. Clean the piston and op rod, especially the piston end, and clean the inside of the gas block.",
+   "box": "limit",
+   "prose": "This is the part of the rifle a direct-gas AR does not have, and the part that decides whether the action cycles. Hard carbon on the piston end, or in the valve's gas ports, cuts the gas reaching the op rod.",
+   "quote": "Clean the piston/op rod of all carbon residue paying particular attention to the piston end.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.2.1 Cleaning the Gas System, step 2, p.48"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore toward the muzzle, then the locking lug area",
+   "action": "Silencer off. Use a one-piece coated or graphite rod with a .30 caliber jag, and push solvent-wet patches through the bore toward the muzzle. Let the solvent stand, brush, then patch until the patches come out clean. Finish with the chamber brush: plunging strokes and full rotations in the barrel extension.",
+   "box": "none",
+   "prose": "SIG warns off military sectional metal rods because they can damage the barrel and hurt accuracy. Keep the muzzle raised while you work the chamber brush so solvent does not run back down the bore you have just cleaned.",
+   "quote": "Make several plunging strokes followed by several 360 degree rotations in the barrel extension to clean the locking lug area.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.2.2 Cleaning the Bore and Chamber, step 14, p.49",
+   "warn": "DO NOT CLEAN THE SIG 716 DMR BORE WITH THE SILENCER ATTACHED AS CLEANING PATCHES COULD BE PULLED FROM THE JAG AND GET LODGED IN THE SILENCER CAUSING A POSSIBLE FIRE HAZARD IF THE RIFLE IS FIRED.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt, carrier, cam pin and firing pin — and no oil in the bolt's tail",
+   "action": "Clean all residue from the bolt, bolt carrier, cam pin and firing pin. Lubricate the bolt body, the rear of the bolt lugs and the bolt rings, the cam pin, the carrier's rails and the anti-tilt surface at the rear of the carrier.",
+   "box": "limit",
+   "prose": "The one place SIG names to keep oil out of is the bolt's tail shaft. Oil or grease there collects carbon around the firing pin's path.",
+   "quote": "Do not introduce oil or grease into the tail shaft of the bolt.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.2.3 Lubrication, p.50"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receivers without wire brushes; controls lubricated",
+   "action": "Clean the upper and lower receivers without wire brushes. Lubricate the charging handle, the ejection port cover spring and latch, the forward assist, the selector, the pivot and takedown pins, all internal moving parts, the action spring and the receiver extension.",
+   "box": "limit",
+   "prose": "The receivers are aluminum and a wire brush scratches the finish. SIG lets you use CLP, LAS or LAW wherever the manual says lube, so pick the one suited to the temperature you shoot in.",
+   "quote": "DO NOT USE WIRE BRUSHES ON ALUMINUM SURFACES SUCH AS THE UPPER/LOWER RECEIVERS AS THIS CAN SCRATCH THE FINISH.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.2 Cleaning and Lubrication, p.48"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Extractor pin out of the bolt — spring stays in",
+   "action": "Push the extractor pin out of the bolt body. Pressing lightly on the rear of the extractor takes the spring tension off the pin and makes this easier. Then lift the extractor out, and leave its spring in the bolt.",
+   "box": "none",
+   "prose": "SIG says in plain words not to remove the extractor spring. It is a small part under load, it is easy to lose, and nothing about cleaning the extractor hook requires taking it out.",
+   "quote": "Push the extractor pin (2) out of the bolt body (slight pressure on the rear of the extractor will relieve spring tension making this step easier).",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1 Field Strip the SIG716 G2 DMR, steps 11–12, p.44",
+   "warn": "Remove the extractor (3) (Do not remove the spring 4).",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and action spring out of the receiver extension",
+   "action": "With the hammer cocked, press the buffer retainer and draw out the buffer and the action spring. To take the spring off the buffer, push the spring against the buffer with a right-hand twist while you pull it rearward off.",
+   "box": "none",
+   "prose": "The hammer has to be cocked first. A hammer that is down sits in the path of the buffer coming out of the lower. Keep a thumb on the buffer as the retainer goes down, because the action spring pushes it out.",
+   "quote": "With the hammer in the cocked position, depress the buffer retainer then remove the buffer and action spring.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.1 Field Strip the SIG716 G2 DMR, step 13, p.45"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine base plate off — the spring is under compression",
+   "action": "Wear eye protection. Cover the bottom of the magazine with one hand and push up on the rear of the base plate with the other thumb, then slide the base plate off. Ease out the spring and follower together without stretching the spring, and do not separate the follower from the spring.",
+   "box": "none",
+   "prose": "The spring is compressed and leaves the magazine body fast once the base plate clears. The hand over the bottom is what keeps it from going across the room. Wipe the body with a damp cloth and dry it, give the spring a very light coat of CLP, and check each part for damage.",
+   "quote": "Push up on the rear of the base plate with one thumb while covering the bottom of the magazine with the other hand in order to maintain control of the compressed spring.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG716\n®G2 — P/N 1800846-01 REV00 — 3.5 Magazine Maintenance, step 1, p.61",
+   "warn": "USE CAUTION AS THE MAGAZINE SPRING IS COMPRESSED AND WILL EJECT OUT OF THE BOTTOM OF THE MAGAZINE BODY ONCE THE FLOORPLATE IS REMOVED. WEAR EYE PROTECTION DURING THIS PROCEDURE.",
+   "warnSrc": "maker"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "GAS SYSTEM",
+   "tasks": [
+    "CLP, rifle bore cleaner or carbon cleaner",
+    "Gas valve inside and outside, all carbon off",
+    "Piston and op rod, with the piston end above all",
+    "Inside of the gas block"
+   ]
+  },
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "⛔ Silencer OFF before any patch goes down the bore",
+    "One-piece coated or graphite rod, .30 caliber jag; avoid military sectional metal rods",
+    "Solvent-wet patch pushed slowly toward the muzzle, then left to soak",
+    "Bore brush several passes, then patches until they come out clean",
+    "Chamber brush with bore cleaner, muzzle raised: plunging strokes and full rotations in the barrel extension"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Residue off the bolt, bolt carrier, cam pin and firing pin",
+    "Lube: bolt body, rear of the bolt lugs, bolt rings, cam pin",
+    "Lube: carrier rails and the anti-tilt surface at the rear of the carrier",
+    "Do not put oil or grease into the tail shaft of the bolt"
+   ]
+  },
+  {
+   "name": "RECEIVERS AND CONTROLS",
+   "tasks": [
+    "Never use wire brushes on the aluminum upper or lower receiver",
+    "Lube: charging handle, ejection port cover spring and latch, forward assist",
+    "Lube: selector, pivot and takedown pins, all internal moving parts",
+    "Lube: action spring and receiver extension"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     14
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     15
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     16
+    ]
+   },
+   {
+    "g": 3,
+    "steps": [
+     17
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "Extractor onto the bolt body.",
+  "Bolt into the bolt carrier with the extractor positioned as SIG's figure shows.",
+  "Cam pin in.",
+  "Bolt pulled out to the unlocked position; firing pin in through the rear of the bolt.",
+  "Firing pin retaining pin in from the LEFT side of the carrier, between the firing pin head and its large flange.",
+  "Charging handle partly into the upper; bolt pulled forward to the unlocked position and the bolt carrier assembly slid into the upper's channel.",
+  "Carrier and charging handle pushed fully forward until the bolt locks into the barrel extension.",
+  "Receivers closed and the takedown pin pressed in to its detent.",
+  "Gas valve onto the op rod; op rod guided through the upper rail adapter and its end through the bushing in the upper receiver.",
+  "Gas valve flange positioned so the valve goes fully into the gas block; stop pin pressed in and the valve rotated to the suppressed position.",
+  "Stop pin released, and the valve checked that it rotates and stops at both positions."
+ ],
+ "fncheck": "Rifle clear. Insert an unloaded magazine. Pull the charging handle fully back until the bolt locks to the rear, then push the handle forward to lock. Selector to SAFE. Press the magazine catch and the magazine should fall free. Press the bolt catch and the bolt should go forward. Press the trigger and the hammer must NOT fall. Selector to SEMI; press and hold the trigger and the hammer falls. Pull the charging handle fully back to cock, then release the trigger slowly and listen for a click. Press the trigger again and the hammer falls. SIG recommends an inert dummy round for this check, because repeatedly letting the carrier slam forward on an empty chamber wears the bolt."
+}

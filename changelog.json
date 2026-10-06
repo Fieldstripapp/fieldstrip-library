@@ -2,6 +2,86 @@
  "_doc": "One entry per published index version, newest first. `added` is the row ids whose guide first appeared at that version, so a client holding version N can ask for everything since N without a redesign.",
  "versions": [
   {
+   "version": 22,
+   "publishedAt": "2026-10-05",
+   "appCommit": "c2af1d5bb0360e433c5281390231a2e959fcf9dd",
+   "counts": {
+    "catalogRows": 1269,
+    "guides": 800,
+    "plates": 54
+   },
+   "added": [
+    "caesargueriniellipseevo",
+    "caesargueriniinvictusiiisporting",
+    "caesargueriniinvictusisporting",
+    "caesargueriniinvictusvtrap",
+    "caesarguerinimagnussporting",
+    "caesarguerinimaxumsporting",
+    "caesarguerinirevenant",
+    "caesarguerinisummitimpact",
+    "caesarguerinisummitsporting",
+    "caesarguerinitempio",
+    "caesargueriniwoodlander",
+    "cvascout",
+    "faxonfirearmsarak21",
+    "sigsauer716g2dmr",
+    "sigsauer716tread",
+    "staccatoc",
+    "staccatocompacthdc36",
+    "staccatocs",
+    "staccatohd",
+    "staccatohdc4x",
+    "staccatohdp45",
+    "staccatohdp4x",
+    "staccatoxl",
+    "waltherpdpprosd"
+   ],
+   "changed": [
+    "staccatoc2"
+   ],
+   "removed": [
+    "palmettostatearmoryjakl",
+    "palmettostatearmorysabresuppressor",
+    "wilsoncombatar9",
+    "silencercoospreymicro"
+   ],
+   "platesAdded": [],
+   "rowsChanged": [
+    "staccatoc2",
+    "sigsauer716tread",
+    "sigsauer716g2dmr",
+    "staccatocompacthdc36",
+    "staccatohdc4x",
+    "staccatohd",
+    "staccatoxl",
+    "caesargueriniinvictusisporting",
+    "caesargueriniinvictusiiisporting",
+    "caesargueriniinvictusvtrap",
+    "caesarguerinimagnussporting",
+    "caesarguerinimaxumsporting",
+    "caesarguerinisummitimpact",
+    "caesarguerinisummitsporting",
+    "caesargueriniellipseevo",
+    "caesarguerinirevenant",
+    "caesarguerinitempio",
+    "caesargueriniwoodlander",
+    "cvascout",
+    "palmettostatearmoryjakl",
+    "palmettostatearmorysabresuppressor",
+    "wilsoncombatar9",
+    "silencercoospreymicro",
+    "faxonfirearmsarak21",
+    "waltherpdpprosd",
+    "staccatohdp45",
+    "staccatohdp4x",
+    "staccatocs",
+    "staccatoc"
+   ],
+   "rowsRemoved": [
+    "sigsauer716"
+   ]
+  },
+  {
    "version": 21,
    "publishedAt": "2026-10-05",
    "appCommit": "a8b59d278e159b8a595b6c675a90dd443358b4a0",

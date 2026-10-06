@@ -1,0 +1,245 @@
+{
+ "row": "sigsauer716tread",
+ "make": "SIG Sauer",
+ "model": "716 TREAD",
+ "sourcedFrom": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 (2021)",
+ "sourceSha256": "b074f787d1a8379ac74af334e7763b41c82bcf36f59750d3a59d0126b80380e0",
+ "cleanIntro": "SIG's own user-level strip for the SIG716 TREAD, in SIG's order and no further. The TREAD is a direct-impingement rifle: gas runs back through a gas tube to the carrier key, so unlike the 716 G2 DMR there is no piston, op rod or gas valve to take out, and the strip ends with the bolt out of the carrier. SIG publishes a separate book for the G2 DMR, which strips differently; this guide is for the TREAD only. Anything past the user level SIG sends to a gunsmith or a SIG armorer.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Check this is the 716 TREAD — the direct-gas gun, not the G2 DMR",
+   "action": "Before following anything below, confirm your rifle is a SIG716 TREAD. SIG publishes a different book for the SIG716 G2 DMR; this guide follows the TREAD book (P/N 1801325-01), whose own description of the rifle is quoted here.",
+   "box": "none",
+   "prose": "The two rifles share a number and not an operating system. The G2 DMR runs a gas piston and op rod with a gas valve lever at the gas block; the TREAD has none of that. If your rifle has a gas valve lever up front, it is not the rifle this guide describes — stop and get the right book.",
+   "quote": "The SIG716 TREAD rifle is a direct impingement rifle with a rotary bolt mechanism capable of semi-automatic operation.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 2.1.1 General, p.22"
+  },
+  {
+   "phase": "Clear",
+   "title": "Muzzle in a safe direction, then the magazine out",
+   "action": "Point the muzzle in a safe direction and keep it there through every clearing step. Press the magazine catch button on the right side, or the ambidextrous catch on the left, and take the magazine out of the rifle.",
+   "box": "none",
+   "prose": "The magazine comes out before the action is touched, so working the charging handle next cannot feed a fresh round. Either catch releases it; use whichever your hand reaches without the muzzle drifting.",
+   "quote": "Press the magazine catch button on the right side or the ambi magazine catch on the left side to remove the magazine from the rifle.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 3.3.2 Clear the SIG716 TREAD prior to loading, step 2, p.37"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt locked back on the catch, charging handle returned, on SAFE",
+   "action": "Press and hold the bottom of the bolt catch while pulling the charging handle fully to the rear, and watch the ejection port for anything thrown out. With the carrier held back on the catch, push the charging handle forward until it locks, then rotate the selector to SAFE.",
+   "box": "none",
+   "prose": "The catch is held before the handle is pulled, not grabbed afterwards. SIG notes the selector only turns to SAFE with the hammer cocked, which it is once the carrier has been run to the rear. A charging handle left part-way back hides the chamber you are about to inspect.",
+   "quote": "Ensure the bolt carrier assembly remains locked to the rear and return the charging handle to its forward and locked position. Rotate the safety selector lever to SAFE.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 3.3.2 Clear the SIG716 TREAD prior to loading - Continued, step 3, p.38"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look and feel: chamber, bolt face and magazine well",
+   "action": "Visually and physically check the chamber, the bolt face and the magazine well for any live round, spent case or foreign object. If the rifle may still be hot, check the chamber with a pen or similar object rather than a finger.",
+   "box": "none",
+   "prose": "The carrier is held back against its spring by the bolt catch alone, so keep your hand off the catch while you look. If you hand the rifle to someone, SIG wants it passed bolt locked back and on SAFE, and lets them check the chamber themselves first.",
+   "caution": "THE BOLT CARRIER ASSEMBLY IS UNDER SPRING TENSION AND WILL SPRING FORWARD IF THE BOLT CATCH IS INADVERTENTLY DEPRESSED POSSIBLY CAUSING INJURY.",
+   "quote": "Visually and physically inspect the chamber, bolt face and magazine well to ensure that there are no live rounds, spent cartridges or any foreign objects present.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 3.3.2 Clear the SIG716 TREAD prior to loading - Continued, step 4, p.39"
+  },
+  {
+   "phase": "Strip",
+   "title": "Sling off, takedown pin pushed from left to right",
+   "action": "With the rifle cleared, take the sling off if one is fitted. Push the rear takedown pin across from the left side toward the right.",
+   "box": "none",
+   "prose": "A sling still clipped on gets in the way when the receivers swing apart in the next step. The takedown pin is the rear one, behind the magazine well; the front pivot pin stays in for now.",
+   "quote": "Push takedown pin from left to right.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 4.1 Field Strip the SIG716 TREAD, steps 2–3, p.47"
+  },
+  {
+   "phase": "Strip",
+   "title": "Receivers swung apart, bolt carrier assembly out",
+   "action": "Swing the receivers apart on the front pivot pin. Draw the charging handle part of the way back to bring the bolt carrier assembly with it, then take the carrier out of the rear of the upper.",
+   "box": "none",
+   "prose": "The charging handle only needs to come back far enough to start the carrier out; the carrier then comes out by hand. Draw it out straight so the bolt face does not drag across the inside of the upper.",
+   "quote": "Partially retract charging handle and remove bolt carrier assembly.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 4.1 Field Strip the SIG716 TREAD - Continued, steps 4–5, p.48"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle out of the upper",
+   "action": "With the carrier out, take the charging handle out of the upper receiver.",
+   "box": "none",
+   "prose": "SIG's book gives this as a single line. On this pattern of upper the handle leaves its track at one point only, toward the rear of its travel; if it will not come free it is not yet far enough back, and prying it out bends it.",
+   "quote": "Remove charging handle.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 4.1 Field Strip the SIG716 TREAD, step 6, p.49"
+  },
+  {
+   "phase": "Strip",
+   "title": "Receivers closed, pivot pin pushed left to right, receivers separated",
+   "action": "Close the receivers together again, push the front pivot pin from left to right, and separate the upper from the lower.",
+   "box": "none",
+   "prose": "SIG has you close the receivers again before the pivot pin is pushed, rather than pushing it with the upper hinged open. SIG separates the receivers at user level; the lower then gives access to the buffer and action spring in the deep clean.",
+   "quote": "Close receivers and push pivot pin from left to right.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 4.1 Field Strip the SIG716 TREAD, steps 7–8, p.49"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin out, firing pin out the back",
+   "action": "Take the firing pin retaining pin out of the bolt carrier, then draw the firing pin out of the rear of the bolt.",
+   "box": "none",
+   "prose": "The retaining pin is small and easy to lose, so put it straight in a tray. On reassembly SIG wants it back in from the left side of the carrier, between the firing pin's head and its large flange, so note where it sat.",
+   "quote": "Remove firing pin retaining pin (1).",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 4.2 Detailed Disassembly of Bolt Carrier Assembly, steps 1–2, p.50"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt pushed in, cam pin out, bolt out of the carrier",
+   "action": "Push the bolt inward into the carrier and take the cam pin out of the bolt carrier. Then take the bolt out of the carrier.",
+   "box": "none",
+   "prose": "SIG's order is bolt pushed in first, then the cam pin, then the bolt; do not try to pull the bolt with the cam pin still in, because the cam pin is what holds it in the carrier. On reassembly SIG warns that a cam pin installed wrongly can cause injury or death, so note how it sat.",
+   "quote": "Push bolt inward and remove cam pin (3) from bolt carrier.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 4.2 Detailed Disassembly of Bolt Carrier Assembly, steps 3–4, p.50"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — SIG's user level ends here",
+   "action": "You now have the upper receiver with its barrel and handguard, the lower receiver, the charging handle, and the bolt carrier, bolt, cam pin, firing pin and retaining pin. The extractor, the buffer and action spring, and the magazine are published in the same book and are the deep clean.",
+   "box": "none",
+   "prose": "SIG draws its line in plain words: anything past the user level in this book is for a gunsmith or a SIG armorer working from SIG's technical manual, not the owner.",
+   "quote": "Any maintenance beyond the user level described in this manual is to be performed by a professional gunsmith or certified SIG SAUER Armorer specifically trained on the maintenance of the SIG716 TREAD in accordance with the SIG SAUER 716 Technical Manual.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 3.1 Preparation before using the firearm, p.34",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore toward the muzzle, then the locking lug area",
+   "action": "Fit a .30 caliber jag to the cleaning rod and push a CLP-moistened patch slowly through the bore toward the muzzle. Let it soak several minutes, patch again, brush if fouling is heavy, then patch until the patches come out clean. Finish with the CLP-coated chamber brush: plunging strokes, then full rotations in the barrel extension.",
+   "box": "none",
+   "prose": "Keep the muzzle raised while you work the chamber brush, so CLP does not run back down the bore you have just cleaned. The full rotations are what reach the locking lug recesses, where carbon from every shot collects.",
+   "quote": "Keep the muzzle elevated so the CLP does not run into the freshly cleaned bore.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 5.1 Cleaning Chamber and Bore of Barrel, step 11, p.54"
+  },
+  {
+   "phase": "Clean",
+   "title": "Carbon scraped, not brushed — and no lube in the bolt's tail",
+   "action": "Wipe all residue from the bolt carrier parts with a CLP-moistened rag, then scrape the carbon off the back of the bolt and the extractor's hook end. Lubricate the back of the bolt lugs, the bolt body contact surfaces, the cam pin and the carrier's contact surfaces.",
+   "box": "none",
+   "prose": "SIG is plain that a brush will not shift the carbon a direct-gas bolt collects; it has to be scraped. Lube goes on the bearing surfaces only: SIG bars it from the bolt's tailshaft, the firing pin channel and the extractor slot, because there it gathers carbon and causes a stoppage.",
+   "quote": "Carbon residue must be scraped from the component. Use of a brush will not remove carbon build up.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 5.2 Cleaning Bolt Carrier Assembly, p.55"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receivers without wire brushes; controls lubricated",
+   "action": "Wipe all residue from the upper and lower receivers with a CLP-moistened rag, using cotton swabs in the tight spots. Lubricate the charging handle lightly, then the ejection port cover spring and latch, the detent slots in the takedown and pivot pins, the hammer and trigger springs and the selector.",
+   "box": "limit",
+   "prose": "The receivers are aluminum and a wire brush damages the finish. SIG lets any firearm lubricant stand in wherever its book says CLP, but not in sub-freezing use, where it says CLP can stop the rifle firing and wants the old lubricant removed first.",
+   "quote": "Do not use wire brushes on aluminum surfaces such as the upper and lower receivers. This may damage the finish.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 5.0 Cleaning/Lubrication, p.54"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Extractor pin out of the bolt — the spring stays in",
+   "action": "Push the extractor pin out of the bolt; it goes out from either side. Then take the extractor off. Leave the extractor spring where it is.",
+   "box": "none",
+   "prose": "This is as far as SIG lets the owner go into the bolt. With the extractor off you can scrape the hook end clean and clean the extractor slot in the bolt, which SIG names in its cleaning steps.",
+   "quote": "Push extractor pin (2) to remove from either side of bolt.",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 4.2.1 Disassembly of Bolt, step 1, p.51",
+   "warn": "NO FURTHER DISASSEMBLY OF THE EXTRACTOR COMPONENTS IS AUTHORIZED AT THIS LEVEL OF MAINTENANCE. DO NOT REMOVE THE EXTRACTOR SPRING.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and action spring out of the receiver extension",
+   "action": "Wear eye protection. Hold a thumb over the front of the buffer and press the buffer retainer, then ease the thumb off and let the action spring push the buffer out of the receiver extension. Twist the spring clockwise to take it off the buffer.",
+   "box": "none",
+   "prose": "The thumb on the buffer is what keeps the spring from launching it once the retainer goes down. Wipe the buffer and spring with a CLP rag, and give the spring a light coat before it goes back.",
+   "quote": "Place thumb over front of buffer and press buffer retainer (1).",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 4.3 Removal of Buffer and Action Spring, step 1, p.52",
+   "warn": "BUFFER IS UNDER PRESSURE FROM RECOIL SPRING. WEAR EYE PROTECTION.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine base plate off, spring kept on its insert and follower",
+   "action": "Push the insert inward and slide the base plate off the magazine tube. Take the insert, spring and follower out of the tube together.",
+   "box": "none",
+   "prose": "The spring comes out attached to the insert at one end and the follower at the other, and SIG wants it left that way. Keep the insert pushed in until the base plate is clear so the spring does not jump.",
+   "quote": "Push insert (3) inward and slide baseplate (2) from magazine tube (1).",
+   "cite": "SIG716 \n®\n  TREAD — P/N 1801325-01 REV 03 — 4.4 Disassemble Magazine, step 1, p.53",
+   "warn": "Do NOT remove the spring from these two components during operator level maintenance.",
+   "warnSrc": "maker"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    ".30 caliber jag on the cleaning rod",
+    "CLP-moistened patch pushed slowly through the bore toward the muzzle, then left several minutes",
+    "Heavy fouling: bore brush, then a CLP patch to lift what it loosened",
+    "Fresh patches until they come out clean",
+    "Chamber brush coated with CLP, muzzle elevated: plunging strokes, then full rotations in the barrel extension"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Residue off every part with a CLP-moistened rag",
+    "Carbon scraped — not brushed — off the back of the bolt",
+    "Carbon off the extractor's hook end; extractor slot in the bolt cleaned",
+    "⛔ No lubricant in the bolt's tailshaft or firing pin channel, none in the extractor slot",
+    "Lube: CLP on the back of the bolt lugs; light coat on bolt body contact surfaces and the cam pin",
+    "Lube: contact surfaces of the bolt carrier"
+   ]
+  },
+  {
+   "name": "RECEIVERS AND CONTROLS",
+   "tasks": [
+    "Never use wire brushes on the aluminum upper or lower receiver",
+    "Residue off both receivers with a CLP rag; cotton swabs for hard-to-reach areas",
+    "Buffer and action spring wiped with a CLP rag; action spring lightly lubricated",
+    "Lube: charging handle (lightly), ejection port cover spring and latch",
+    "Lube: detent slots in the takedown and pivot pins",
+    "Lube: hammer and trigger springs with a cotton swab, and the selector",
+    "⚠ Below freezing: SIG says not to use CLP — remove the old lubricant and use one made for the cold"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     11
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     12
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     13
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "Magazine: follower, spring and insert into the tube; insert pushed in to compress the spring and the base plate slid on until the insert snaps into place. Eye protection on — the spring is under pressure.",
+  "Action spring onto the buffer with a clockwise twist as you press it forward.",
+  "Action spring into the receiver extension, with the hammer cocked and the rifle on SAFE; buffer pushed in until it snaps behind the buffer retaining plunger.",
+  "Extractor onto the bolt body.",
+  "Bolt into the bolt carrier with the extractor facing the right side of the carrier.",
+  "Cam pin through the carrier and into the bolt body. SIG warns that a cam pin or firing pin installed wrongly can cause injury or death and catastrophic damage to the rifle.",
+  "Bolt pulled out to the unlocked position; firing pin in through the rear of the bolt and seated fully forward.",
+  "Firing pin retaining pin in from the LEFT side of the carrier, between the firing pin head and its large flange. Turn the carrier upside down: the firing pin should not fall out.",
+  "Charging handle partly into the upper; bolt pulled forward to the unlocked position and the bolt carrier group slid into the upper.",
+  "Carrier group and charging handle pushed fully forward until the bolt locks into the barrel extension; charging handle locked to the upper.",
+  "Upper aligned to the lower and the pivot pin pushed in from right to left.",
+  "Receivers closed and the takedown pin pushed in from right to left."
+ ],
+ "fncheck": "Rifle unloaded and clear. Insert an unloaded magazine. Pull the charging handle back until the bolt locks open, then lock the handle forward. Selector to SAFE. Press the magazine catch and the magazine should fall free. Pull the charging handle back and release: the bolt catch must drop and let the bolt go forward. Press the trigger and the hammer must NOT fall. Selector to SEMI; press and hold the trigger and the hammer falls. Fully retract the charging handle to cock the rifle and lock the handle forward, then release the trigger slowly and listen for a click. Press the trigger again and the hammer falls."
+}

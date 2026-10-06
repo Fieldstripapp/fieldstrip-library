@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 3 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 3,
- "to": 21,
+ "to": 22,
  "rows": [
   {
    "id": "radianmodel1",
@@ -4090,7 +4090,7 @@
    "group": "Pistols",
    "guide": true,
    "guideId": "staccatoc2",
-   "guideSha256": "b127622e1b52b0cb647850d9936e931724772b701f829b08bbcd57a8ca3ed809"
+   "guideSha256": "010cf22ea487d8035f37e30af481bda775f25cf16ebc7e63da7281f9ec5eaf56"
   },
   {
    "id": "staccatoxc",
@@ -6578,6 +6578,32 @@
    "guide": true,
    "guideId": "danieldefensedd5",
    "guideSha256": "9a29f5a83e59681abd32d48a4ca20234f048693ad6d7c426fe2cc7ee70637bfb"
+  },
+  {
+   "id": "sigsauer716tread",
+   "maker": "SIG Sauer",
+   "model": "716 TREAD",
+   "chambering": ".308",
+   "category": "AR-pattern rifle",
+   "family": "SIG716-TREAD",
+   "tier": 4,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "sigsauer716tread",
+   "guideSha256": "31491e2bb43c11b817470a515445c1874b175015ed0796222763923b5ea88a30"
+  },
+  {
+   "id": "sigsauer716g2dmr",
+   "maker": "SIG Sauer",
+   "model": "716 G2 DMR",
+   "chambering": ".308",
+   "category": "AR-pattern rifle (piston)",
+   "family": "SIG716-G2",
+   "tier": 4,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "sigsauer716g2dmr",
+   "guideSha256": "b4327476a3b8f7eb3a872b94b2ae94271a79f480ae11dee43854f6f575cdd20b"
   },
   {
    "id": "iwitavorsar",
@@ -9967,6 +9993,58 @@
    "guideSha256": "02e48ecda89c6b961d30d8734b9cdd0cc3276a92c676a0daae8b669db80ccb9f"
   },
   {
+   "id": "staccatocompacthdc36",
+   "maker": "Staccato",
+   "model": "Compact HD C3.6",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 2,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "staccatocompacthdc36",
+   "guideSha256": "ee4d4066ed7c97a4ed6e123490b606d7dc2007d945555377c60d5117c8e22736"
+  },
+  {
+   "id": "staccatohdc4x",
+   "maker": "Staccato",
+   "model": "HD C4X",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 2,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "staccatohdc4x",
+   "guideSha256": "537ada945465e43df3221421959439b955a3f00d36ceec03d2c7f496c566e681"
+  },
+  {
+   "id": "staccatohd",
+   "maker": "Staccato",
+   "model": "HD P4",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 2,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "staccatohd",
+   "guideSha256": "403ba9c19e5e5ec4f4b2131e67f1ab702b51b277d14932603f8a433cd4bdbeaf"
+  },
+  {
+   "id": "staccatoxl",
+   "maker": "Staccato",
+   "model": "XL",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 2,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "staccatoxl",
+   "guideSha256": "8b3109137c74438da144b9a300133ca01372ace8be30edf915b39974e0cdaf4f"
+  },
+  {
    "id": "volquartsenblackmamba",
    "maker": "Volquartsen",
    "model": "Black Mamba",
@@ -10082,6 +10160,97 @@
    "guide": true,
    "guideId": "browningbt99",
    "guideSha256": "b8f7e73ae8307ad1fe7a6c40f2feac4f39f7e207c32e16b6f65826b0e49cca85"
+  },
+  {
+   "id": "caesargueriniinvictusisporting",
+   "maker": "Caesar Guerini",
+   "model": "Invictus I Sporting",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-GUERINI",
+   "tier": 3,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "caesargueriniinvictusisporting",
+   "guideSha256": "53ea4174cdfd79cc66a4380435156c143f744b9d9f9243a037f4396891b8c369"
+  },
+  {
+   "id": "caesargueriniinvictusiiisporting",
+   "maker": "Caesar Guerini",
+   "model": "Invictus III Sporting",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-GUERINI",
+   "tier": 3,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "caesargueriniinvictusiiisporting",
+   "guideSha256": "123fbca227d3e50d3ce206f5d7a1fb9ca64ebd3e943cd9f6c226ac9bc5765207"
+  },
+  {
+   "id": "caesargueriniinvictusvtrap",
+   "maker": "Caesar Guerini",
+   "model": "Invictus V Trap",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-GUERINI",
+   "tier": 3,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "caesargueriniinvictusvtrap",
+   "guideSha256": "c144ef7b518371be43a94f38427727ca207e4d457926d28a7dc43b7508696f38"
+  },
+  {
+   "id": "caesarguerinimagnussporting",
+   "maker": "Caesar Guerini",
+   "model": "Magnus Sporting",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-GUERINI",
+   "tier": 4,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "caesarguerinimagnussporting",
+   "guideSha256": "ee4af67ab89176c37623c98197e29a4b00bfe330cdf39800352fb4118d6325b3"
+  },
+  {
+   "id": "caesarguerinimaxumsporting",
+   "maker": "Caesar Guerini",
+   "model": "Maxum Sporting",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-GUERINI",
+   "tier": 4,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "caesarguerinimaxumsporting",
+   "guideSha256": "5b82f707ad91e17cb49a643d1757dd50bf36be99fe8f9133b6b75e1f7e6e0fcb"
+  },
+  {
+   "id": "caesarguerinisummitimpact",
+   "maker": "Caesar Guerini",
+   "model": "Summit Impact",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-GUERINI",
+   "tier": 3,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "caesarguerinisummitimpact",
+   "guideSha256": "7a85aac409e24cd203a2893cc807acaa0f4dfb2f73e4af5a0f82cc6c4a073bcf"
+  },
+  {
+   "id": "caesarguerinisummitsporting",
+   "maker": "Caesar Guerini",
+   "model": "Summit Sporting",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-GUERINI",
+   "tier": 3,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "caesarguerinisummitsporting",
+   "guideSha256": "317c521ffe44b95e6393de186c8a04ff346871308e45d04b8073d93971e520e4"
   },
   {
    "id": "krieghoffk80parcours",
@@ -10331,6 +10500,58 @@
    "guideSha256": "14aab05483d361bc7e1fe93397bc452069f529765fdd45806136c955cee0e2fa"
   },
   {
+   "id": "caesargueriniellipseevo",
+   "maker": "Caesar Guerini",
+   "model": "Ellipse EVO",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-GUERINI",
+   "tier": 4,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "caesargueriniellipseevo",
+   "guideSha256": "c086ce94fe3ce43ad6d6f5fdfcf5753d0eb6f7f224fdf74dbeab32eba67a1a76"
+  },
+  {
+   "id": "caesarguerinirevenant",
+   "maker": "Caesar Guerini",
+   "model": "Revenant",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-GUERINI",
+   "tier": 4,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "caesarguerinirevenant",
+   "guideSha256": "58a0654f36cedb2bafd4f9d546a0ee56b5aeb0fe319acbf41220739015c04918"
+  },
+  {
+   "id": "caesarguerinitempio",
+   "maker": "Caesar Guerini",
+   "model": "Tempio",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-GUERINI",
+   "tier": 4,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "caesarguerinitempio",
+   "guideSha256": "ceb89a2d361db81f80fc3889cb030e423be9ced50ab203ae2bfb0d2df25841d9"
+  },
+  {
+   "id": "caesargueriniwoodlander",
+   "maker": "Caesar Guerini",
+   "model": "Woodlander",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-GUERINI",
+   "tier": 4,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "caesargueriniwoodlander",
+   "guideSha256": "4e8aaed29f1e0e3ffe66cd9c021a7643d88af5162bfd9eb8645c49be183e36eb"
+  },
+  {
    "id": "btapc9pro",
    "maker": "B&T",
    "model": "APC9 PRO",
@@ -10560,7 +10781,9 @@
    "family": "BREAK-CVA-SCOUT",
    "tier": 3,
    "group": "Rifles",
-   "guide": false
+   "guide": true,
+   "guideId": "cvascout",
+   "guideSha256": "76be3e7372873af188e056e6bed1af2e4a7a3900eb66e19fd4f46ee551eaa88a"
   },
   {
    "id": "cvascouttd",
@@ -11250,9 +11473,7 @@
    "family": "PSA-JAKL",
    "tier": 3,
    "group": "Rifles",
-   "guide": true,
-   "guideId": "palmettostatearmoryjakl",
-   "guideSha256": "252281936180ed1707af9fe164e382b21ab5c2af4e0eec913cd5a64749f738f8"
+   "guide": false
   },
   {
    "id": "palmettostatearmoryjakl9",
@@ -11320,9 +11541,7 @@
    "family": "SUP-SEALED",
    "tier": 3,
    "group": "Suppressors",
-   "guide": true,
-   "guideId": "palmettostatearmorysabresuppressor",
-   "guideSha256": "3a1897c97b13576b6c23f318830822ef591b443e792376027566f55983c805f1"
+   "guide": false
   },
   {
    "id": "weatherbypa459",
@@ -11489,9 +11708,7 @@
    "family": "WC-AR9",
    "tier": 3,
    "group": "Rifles",
-   "guide": true,
-   "guideId": "wilsoncombatar9",
-   "guideSha256": "b04ed24f4154bc79bc2d7113d3988414fb0f4bc56284ffc2f529123bf1b9d8a7"
+   "guide": false
   },
   {
    "id": "silencercoospreymicro",
@@ -11502,9 +11719,7 @@
    "family": "SUP-SEALED",
    "tier": 3,
    "group": "Suppressors",
-   "guide": true,
-   "guideId": "silencercoospreymicro",
-   "guideSha256": "4701183d1ddc7904d4855eb8e2e7d9f4e7d0db793cc12b03940dae2c722bfcca"
+   "guide": false
   },
   {
    "id": "faxonfirearmsarak21",
@@ -11515,7 +11730,9 @@
    "family": "FAXON-ARAK21",
    "tier": 4,
    "group": "Rifles",
-   "guide": false
+   "guide": true,
+   "guideId": "faxonfirearmsarak21",
+   "guideSha256": "ff28948d46ded03f83036df19d628de049b2b70e79d4087adf30f1f6f14c720a"
   },
   {
    "id": "alchemycustomweaponryblackarmy1911",
@@ -11559,10 +11776,65 @@
    "family": "NEW-WALTHER-PDPPROSD",
    "tier": 3,
    "group": "Pistols",
-   "guide": false
+   "guide": true,
+   "guideId": "waltherpdpprosd",
+   "guideSha256": "07f55e3dabda6a128c467e97487b772468f3d51bb77a09127f5857df2a1b57c7"
+  },
+  {
+   "id": "staccatohdp45",
+   "maker": "Staccato",
+   "model": "HD P4.5",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 2,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "staccatohdp45",
+   "guideSha256": "e7a74a0013fe558c22d738cc4c64a87fd116416f5c75c7c849f50b65391d8ea3"
+  },
+  {
+   "id": "staccatohdp4x",
+   "maker": "Staccato",
+   "model": "HD P4X",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 2,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "staccatohdp4x",
+   "guideSha256": "ba7a5e460810a7e654640b5f67e1eb3345c0dd7603ccc0af95c5550f754f22ca"
+  },
+  {
+   "id": "staccatocs",
+   "maker": "Staccato",
+   "model": "CS",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 3,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "staccatocs",
+   "guideSha256": "768268fde991194bcc35357a3ec4f6778f114a9f86ce493d737df60b5eb6f2de"
+  },
+  {
+   "id": "staccatoc",
+   "maker": "Staccato",
+   "model": "C",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 3,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "staccatoc",
+   "guideSha256": "210af35284aa5a44381fb0155e2eeca506dcb2f6f2b2ef3105ae360819720a47"
   }
  ],
  "removed": [
+  "sigsauer716",
   "silencercoscythe",
   "savagerascalyouth"
  ]
