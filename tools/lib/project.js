@@ -337,6 +337,10 @@ function projectCatalogRow(c) {
      model-wide stop-use notice suppresses; the index carries it as `withdrawn` so a
      delta row can never arrive on a phone claiming a guide for it. */
   if (c.wd) r.withdrawn = true;
+  /* ⛔ THE ROW'S CHAMBERINGS (Darren ruling 2026-10-07, app morning order Part 2): add-a-gun asks
+     which of them the owner's gun is before a card is written, so a delta row without them would ask
+     a typed question a shipped row answers with a pick. Uniformity again. */
+  if (Array.isArray(c.chs)) r.chamberings = c.chs;
   return r;
 }
 
