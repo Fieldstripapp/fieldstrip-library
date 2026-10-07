@@ -185,6 +185,7 @@ function build() {
       bytes: Buffer.from(j(guide), 'utf8'),
       sourceFile: spec.file || null,
       sha256: null,
+      bestPractices: !!guide.bpLabel,
     });
   }
   guides.forEach(g => { g.sha256 = guards.sha256(g.bytes); });
@@ -244,6 +245,8 @@ function build() {
       /* The per-guide digest is what makes "everything since version N" checkable
          rather than merely answerable — a client can verify what it fetched. */
       r.guideSha256 = g.sha256;
+      /* the shelf listing's "Best practices" tag, and the nightly's "still owed a maker guide" (2026-10-07) */
+      if (g.bestPractices) r.bestPractices = true;
     }
     else if (holds.held.has(r.id)) r.held = true;        // stated, so the absence is not a mystery
     else if (quarantined.some(q => q.row === (gid || r.id))) r.withheld = true;

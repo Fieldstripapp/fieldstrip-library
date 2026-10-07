@@ -34,7 +34,11 @@ const SPEC_EMITTED = new Set([
      sentences that are the supplement's. A wrong citation is worse than none: the shelf
      would be asserting provenance it does not have. */
   'manual2', 'edition2', 'sha256_2',
-  'sourceClass',                     // read, deliberately NOT rendered (Darren struck the label)
+  'sourceClass',                     // read; the class NAME is never rendered
+  /* ⛔ THE BEST PRACTICES LABEL (Darren ruling 2026-10-07, reversing the 2026-08-20 strike): the ruled
+     label, the class and the template version reach the app, which draws the label panel, the provenance
+     line and the footer, and keys the upgrade holding list on them */
+  'bpLabel', 'bpClass', 'bpTemplateVersion',
   'cleanIntro', 'steps', 'deep', 'deepAbsentReason',
   'cleaning', 'reassembly', 'fncheck',
 ]);
@@ -48,6 +52,7 @@ const SPEC_INTERNAL = new Set([
   'searchRecord', 'consulted', 'sources', 'notes', 'coverageNote',
   'typeRowNote', 'rowTestNote', 'hostFirearmNote', 'withdrawalAndRestore',
   'prohibits',
+  'bpFacts', 'bpClassBasis', 'bpRewordedForG2',   // Best Practices provenance, internal (2026-10-07)
   /* ruling 2026-09-22: a spec the app does not bake in says so on the record. The
      flag and its reason are a fact about the BUILD, never owner-facing copy. */
   'shelfOnly', 'shelfOnlyWhy',
@@ -168,12 +173,16 @@ function projectGuide(spec, boxes) {
   });
 
   const bp = spec.sourceClass === 'best-practices';
-  const g = { row: spec.row, make: spec.make, model: spec.model };
+  /* a best-practices guide OPENS with its label (2026-10-07): the first field, as in the spec and the app block */
+  const g = bp ? { bpLabel: spec.bpLabel, bpClass: spec.bpClass } : {};
+  if (bp && spec.bpTemplateVersion != null) g.bpTemplateVersion = spec.bpTemplateVersion;
+  Object.assign(g, { row: spec.row, make: spec.make, model: spec.model });
 
   /* ⛔ A DOCUMENT LINE ONLY WHERE A DOCUMENT EXISTS — a best-practices row has
      none, and emitting one would print provenance for a document that does not
-     exist. sourceClass itself is never published: Darren struck the label, so a
-     best-practices guide is indistinguishable from a manufacturer one. */
+     exist. sourceClass itself is never published; the guide carries its label
+     instead (Darren ruling 2026-10-07 reversed the 2026-08-20 strike — a
+     best-practices guide is labelled, never indistinguishable). */
   if (!bp) {
     g.sourcedFrom = spec.manual + ' — ' + spec.edition + ' (' + spec.year + ')' +
       (spec.manual2 ? '  +  ' + spec.manual2 + ' — ' + spec.edition2 : '');
@@ -206,6 +215,7 @@ function projectGuide(spec, boxes) {
      reads, so a fetched guide and a compiled-in one print the same release */
   const bo = breakOpen()[spec.row];
   if (bo && bo.text) g.breakOpen = bo.text;
+  if (bo && bo.notBreakAction) g.breakNone = true;   /* its own book: not a break-action (app, 2026-10-07 addition 2) */
 
   return { guide: g, unknown };
 }
