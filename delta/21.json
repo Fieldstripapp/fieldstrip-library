@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 21 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 21,
- "to": 24,
+ "to": 25,
  "rows": [
   {
    "id": "radianmodel1",
@@ -225,6 +225,19 @@
    "guideSha256": "e6f7d4784f48f6d63b6853d342aba7e6e4c59a54566d6d53a481b12162d6049f"
   },
   {
+   "id": "aacranger5",
+   "maker": "AAC",
+   "model": "Ranger 5",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "guide": true,
+   "guideId": "aacranger5",
+   "guideSha256": "f71431eb3c30c9bc368ab7c1f6923badcfc481be1d1eafd347102ac31559a620"
+  },
+  {
    "id": "smithwessonmp15sportiii",
    "maker": "Smith & Wesson",
    "model": "M&P15 Sport III",
@@ -301,6 +314,32 @@
    "guide": true,
    "guideId": "coltle6920",
    "guideSha256": "84fac3afff4cb8bb082b01d6fa6ab7f8782e5a86d0c4bfc44acefaae2bd0b94a"
+  },
+  {
+   "id": "springfieldarmory1911garri",
+   "maker": "Springfield Armory",
+   "model": "1911 Garrison",
+   "chambering": ".45 ACP",
+   "category": "Semi-auto pistol",
+   "family": "1911",
+   "tier": 3,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "springfieldarmory1911garri",
+   "guideSha256": "de122eb3e441b86e509290e067204bdc8fa11029cd49c22eb2aa91710fe50f51"
+  },
+  {
+   "id": "czp10s",
+   "maker": "CZ",
+   "model": "P-10 S",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "CZ-P10",
+   "tier": 3,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "czp10s",
+   "guideSha256": "d2ff258b94ef533ffaf9d184225bbb16f169f78fdd6aae03eaac43fcda498e64"
   },
   {
    "id": "staccatoc2",
@@ -537,6 +576,19 @@
    "guideSha256": "b4327476a3b8f7eb3a872b94b2ae94271a79f480ae11dee43854f6f575cdd20b"
   },
   {
+   "id": "springfieldarmoryrangeofficer",
+   "maker": "Springfield Armory",
+   "model": "Range Officer",
+   "chambering": ".45 ACP",
+   "category": "Semi-auto pistol",
+   "family": "1911",
+   "tier": 3,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "springfieldarmoryrangeofficer",
+   "guideSha256": "d854d303ca30fd578f4dc5ee8b20d2f6450cd730eef60d74c0f7c20d13cc25dd"
+  },
+  {
    "id": "stagarmsstag15",
    "maker": "Stag Arms",
    "model": "Stag-15",
@@ -732,6 +784,19 @@
    "guideSha256": "c7b18894c4b0d3ab728e0f0bc9fd673a50a167300aa962e5b234841d04947cf8"
   },
   {
+   "id": "aacranger7",
+   "maker": "AAC",
+   "model": "Ranger 7",
+   "chambering": ".30 cal",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 4,
+   "group": "Suppressors",
+   "guide": true,
+   "guideId": "aacranger7",
+   "guideSha256": "1527c8ee4083b85eebaa2544e09b3a2809e9c0a47cca794eab3cb30e2223d05f"
+  },
+  {
    "id": "springfieldarmorykuna",
    "maker": "Springfield Armory",
    "model": "Kuna",
@@ -768,6 +833,19 @@
    "group": "Rifles",
    "guide": false,
    "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "cmmgdissentmk4",
+   "maker": "CMMG",
+   "model": "Dissent Mk4",
+   "chambering": "5.56",
+   "category": "Semi-auto rifle",
+   "family": "CMMG-DISSENT",
+   "tier": 3,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "cmmgdissentmk4",
+   "guideSha256": "da23904e8c5a780133bc24dbd971040218c44e444f42d35cb5d7929a595a2518"
   },
   {
    "id": "staccatocompacthdc36",
@@ -820,6 +898,32 @@
    "guide": true,
    "guideId": "staccatoxl",
    "guideSha256": "8b3109137c74438da144b9a300133ca01372ace8be30edf915b39974e0cdaf4f"
+  },
+  {
+   "id": "vudoogunworksv22apparition",
+   "maker": "Vudoo Gun Works",
+   "model": "V-22 Apparition",
+   "chambering": ".22 LR",
+   "category": "Bolt-action rimfire rifle",
+   "family": "VUDOO-V22",
+   "tier": 3,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "vudoogunworksv22apparition",
+   "guideSha256": "d309fd5b77a4435b9e073f584feed015d8e29b5dca266b936bc2747e1b5374f4"
+  },
+  {
+   "id": "vudoogunworksv22priest",
+   "maker": "Vudoo Gun Works",
+   "model": "V-22 Priest",
+   "chambering": ".22 LR",
+   "category": "Bolt-action rimfire rifle",
+   "family": "VUDOO-V22",
+   "tier": 2,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "vudoogunworksv22priest",
+   "guideSha256": "32e1a6f7405c288532d0ba64b06f2c657e876b9cdfafe7e0325ee7683aa23d7d"
   },
   {
    "id": "caesargueriniinvictusisporting",
@@ -913,6 +1017,110 @@
    "guideSha256": "317c521ffe44b95e6393de186c8a04ff346871308e45d04b8073d93971e520e4"
   },
   {
+   "id": "bergarapremiermglite",
+   "maker": "Bergara",
+   "model": "Premier MgLite",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-BERGARA-PREM",
+   "tier": 3,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "bergarapremiermglite",
+   "guideSha256": "199eca7f157841616361137a76e8278fbbfd065bceb4ab3f51b592206cce3e98"
+  },
+  {
+   "id": "franchimomentumallterrainelite",
+   "maker": "Franchi",
+   "model": "Momentum All-Terrain Elite",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-FRANCHI-MOMENTUM",
+   "tier": 3,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "franchimomentumallterrainelite",
+   "guideSha256": "b69abce9673cf5835056af8f13aa55608149f84ebc7504cbb45cb0f1ba6f55b6"
+  },
+  {
+   "id": "franchimomentumelite",
+   "maker": "Franchi",
+   "model": "Momentum Elite",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-FRANCHI-MOMENTUM",
+   "tier": 3,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "franchimomentumelite",
+   "guideSha256": "565b7e8238f8eb4504c9535dbdfc05b08ad57467af4d6d9f5ed72b20e0fc8c88"
+  },
+  {
+   "id": "savageimpulsemountainhunter",
+   "maker": "Savage",
+   "model": "Impulse Mountain Hunter",
+   "chambering": "multi",
+   "category": "Straight-pull rifle",
+   "family": "STRAIGHT-SAVAGE-IMPULSE",
+   "tier": 3,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "savageimpulsemountainhunter",
+   "guideSha256": "e9b0986ea9b91da602b54a781e25f7c079b7fa4ab4cd0fe9342d3222079a1521"
+  },
+  {
+   "id": "bergarapremiercimapro",
+   "maker": "Bergara",
+   "model": "Premier CIMA Pro",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-BERGARA-PREM",
+   "tier": 3,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "bergarapremiercimapro",
+   "guideSha256": "78764c733ef2c6e7c59badab2c4b185ff2909fd1b48a59a7f82c44f164be4f9b"
+  },
+  {
+   "id": "bergarapremierhmrpro",
+   "maker": "Bergara",
+   "model": "Premier HMR Pro",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-BERGARA-PREM",
+   "tier": 3,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "bergarapremierhmrpro",
+   "guideSha256": "d9b1bd087968f4e06b666255d8a04325435bed77d0d3e3d50c1a015b210115de"
+  },
+  {
+   "id": "bergarapremierridgeback",
+   "maker": "Bergara",
+   "model": "Premier Ridgeback",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-BERGARA-PREM",
+   "tier": 3,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "bergarapremierridgeback",
+   "guideSha256": "4b23f68ab8884a3af4029b043fe40fafe2e8c2c8bf47a7ec8b71d12334c0fdaa"
+  },
+  {
+   "id": "savageimpulseeliteprecision",
+   "maker": "Savage",
+   "model": "Impulse Elite Precision",
+   "chambering": "multi",
+   "category": "Straight-pull rifle",
+   "family": "STRAIGHT-SAVAGE-IMPULSE",
+   "tier": 3,
+   "group": "Rifles",
+   "guide": true,
+   "guideId": "savageimpulseeliteprecision",
+   "guideSha256": "92aaf297993d4b8bf572659f666e07f47ddefb9e5ceba5a7e1a6f8d5f54aeb01"
+  },
+  {
    "id": "caesargueriniellipseevo",
    "maker": "Caesar Guerini",
    "model": "Ellipse EVO",
@@ -963,6 +1171,45 @@
    "guide": true,
    "guideId": "caesargueriniwoodlander",
    "guideSha256": "4e8aaed29f1e0e3ffe66cd9c021a7643d88af5162bfd9eb8645c49be183e36eb"
+  },
+  {
+   "id": "bularmorysasiiultralight",
+   "maker": "Bul Armory",
+   "model": "SAS II Ultralight",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 3,
+   "group": "Pistols",
+   "guide": true,
+   "guideId": "bularmorysasiiultralight",
+   "guideSha256": "9454aaafd30a2ffaedc0b5d664205a3c8caffc2e3c92e57ee400db0e6267c938"
+  },
+  {
+   "id": "fabarml4ssporting",
+   "maker": "Fabarm",
+   "model": "L4S Sporting",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-GAS-FABARM",
+   "tier": 3,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "fabarml4ssporting",
+   "guideSha256": "6cdef9a3a3d3209385e7da1aabdb7b1eeca492d3aecd6133643c3dd19ada861a"
+  },
+  {
+   "id": "syrenl4ssporting",
+   "maker": "Syren",
+   "model": "L4S Sporting",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-GAS-FABARM",
+   "tier": 3,
+   "group": "Shotguns",
+   "guide": true,
+   "guideId": "syrenl4ssporting",
+   "guideSha256": "0a4442193b25cbb1d46866fd35a2cbcba5f331708674bccd85f9e78809fbed24"
   },
   {
    "id": "pwsmk118mod2",
@@ -1270,6 +1517,17 @@
    "category": "Semi-auto carbine",
    "family": "NEW-AUTOORDNAN-THOMPSONT1SB50",
    "tier": 3,
+   "group": "Rifles",
+   "guide": false
+  },
+  {
+   "id": "czscorpion3plus",
+   "maker": "CZ",
+   "model": "Scorpion 3+",
+   "chambering": "9mm",
+   "category": "Semi-auto carbine",
+   "family": "SCORPION-3PLUS",
+   "tier": 2,
    "group": "Rifles",
    "guide": false
   }

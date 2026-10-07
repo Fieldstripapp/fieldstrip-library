@@ -1,0 +1,130 @@
+{
+ "row": "bergarapremierridgeback",
+ "make": "Bergara",
+ "model": "Premier Ridgeback",
+ "sourcedFrom": "Instruction and Safety Manual for Bergara Premier Rifles — 2026 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "1b52eae1900a6ab166e4777fedd856d9bb3db7907f76122911db47a4f1640810",
+ "cleanIntro": "This guide follows Bergara's Premier rifle manual; check your variant against it. The book is written for every rifle built on the Bergara Premier Action and never names the Ridgeback. It says plainly that the Premier Action is fitted with different feed systems, stocks and chassis, and that not all of them are covered in detail.\n\nBergara's own field strip is short: empty the rifle, take the bolt out, and clean the barrel from there. Taking the action out of the stock and taking the firing pin assembly out of the bolt are in DEEP CLEAN. The book stops at the firing pin assembly and warns against touching the firing pin timing set screw.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, safety lever back to SAFE",
+   "action": "This guide follows Bergara's Premier rifle manual; check your variant against it. Point the muzzle in a safe direction and keep it there. The safety lever is on the side of the receiver behind the bolt: rock it rearward to SAFE.",
+   "box": "none",
+   "prose": "Rearward is safe, forward is fire. The bolt still works with the lever in either position, so SAFE does not lock the action.",
+   "quote": "This lever rocks rearward to the “safe” position and forward to the “fire” position.",
+   "cite": "Instruction and Safety Manual for Bergara Premier Rifles — 2026 — THE GUN'S MANUAL SAFETY, printed p.3 (PDF p.5)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Detachable magazine out, or floorplate open",
+   "action": "If your rifle takes a detachable magazine, press the magazine release at the front of the trigger guard and take the magazine out. If it has a hinged floorplate, press the release button at the front of the trigger guard and open the floorplate so any rounds in the internal magazine fall free.",
+   "box": "none",
+   "prose": "Bergara builds the Premier Action with more than one feed system. Use the one your rifle actually has.",
+   "quote": "Remove the detachable magazine, if applicable, by pressing the magazine release located at the front of the trigger guard.",
+   "cite": "Instruction and Safety Manual for Bergara Premier Rifles — 2026 — CLEANING AND MAINTENANCE, Disassembly, printed p.7 (PDF p.9)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Blind magazine: cycle the rounds out with the bolt",
+   "action": "If your rifle has a blind magazine with no floorplate, the only way to empty it is to work the bolt and cycle each round out through the action. Keep the muzzle in a safe direction and, if you can, the safety on SAFE while you do it.",
+   "box": "none",
+   "prose": "Work the bolt slowly and count the rounds as they come out.",
+   "quote": "If your rifle features a blind magazine without a floorplate, you must carefully work the bolt to cycle any rounds in the internal box magazine through the action.",
+   "cite": "Instruction and Safety Manual for Bergara Premier Rifles — 2026 — CLEANING AND MAINTENANCE, Disassembly, printed p.7 (PDF p.9)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt fully back, LOOK into the chamber",
+   "action": "Raise the bolt handle and pull the bolt fully to the rear. That extracts and ejects any round in the barrel. Look into the rear of the barrel and make sure the chamber is empty, and leave the bolt open.",
+   "box": "none",
+   "prose": "Looking is the check. Working the bolt is not.",
+   "quote": "Raise the bolt handle and pull it fully to the rear.  This will extract and eject any round that may be in the barrel.  Look into the rear of the barrel and make sure that the chamber of the barrel is empty.",
+   "cite": "Instruction and Safety Manual for Bergara Premier Rifles — 2026 — LOADING AND FIRING, printed p.6 (PDF p.8)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out — press the bolt stop on the far side",
+   "action": "With the bolt handle raised, pull the bolt to the rear. At the same time press the bolt stop lever on the side of the receiver opposite the bolt handle, and draw the bolt out of the back of the action.",
+   "box": "none",
+   "prose": "The bolt stops at the back of its travel until the bolt stop lever is pressed. Hold the lever in while you pull.",
+   "quote": "Remove the bolt by raising the bolt handle and pulling the bolt to the rear. Simultaneity press the bolt stop lever on the opposite side of the receiver and pull the bolt from the rear of the action.",
+   "cite": "Instruction and Safety Manual for Bergara Premier Rifles — 2026 — CLEANING AND MAINTENANCE, Disassembly, printed p.7 (PDF p.9)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt aside, check the chamber once more",
+   "action": "Set the bolt aside. With the bolt out you can see straight into the chamber at the rear of the barrel: look again and be certain the rifle is unloaded.",
+   "box": "none",
+   "prose": "This is the clearest view you will get of the chamber. Use it.",
+   "quote": "Set the bolt aside.  Look into the action at the cartridge chamber at the rear of the barrel and be certain that the rifle is unloaded.",
+   "cite": "Instruction and Safety Manual for Bergara Premier Rifles — 2026 — CLEANING AND MAINTENANCE, Disassembly, printed p.7 (PDF p.9)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench: the rifle and the bolt. Bergara says the barrel can normally be cleaned with nothing more taken apart. Taking the action out of the stock and the firing pin assembly out of the bolt are in DEEP CLEAN.",
+   "box": "limit",
+   "prose": "For routine cleaning, stop here.",
+   "quote": "Normally the barrel can be cleaned with no further disassembly.",
+   "cite": "Instruction and Safety Manual for Bergara Premier Rifles — 2026 — CLEANING AND MAINTENANCE, Disassembly, printed p.7 (PDF p.9)",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Action out of the stock — two action screws",
+   "action": "Only if you choose to: with a properly fitting wrench, take out the two action screws, then lift the barrel and action straight up and out of the stock.",
+   "box": "none",
+   "prose": "A wrench that does not fit will round the screw heads. Lift straight up so the action does not bind in the stock.",
+   "quote": "If you choose to remove the barrel and action from the stock, use a properly fitting wrench to remove the 2 action screws and carefully lift the action straight up and out of the stock.",
+   "cite": "Instruction and Safety Manual for Bergara Premier Rifles — 2026 — CLEANING AND MAINTENANCE, Disassembly, printed p.7 (PDF p.9)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt shroud clockwise — the firing pin assembly comes out",
+   "action": "Hold the bolt body and turn the bolt shroud clockwise until the firing pin assembly releases from the bolt body, then draw it out.",
+   "box": "none",
+   "prose": "The firing pin assembly comes out as one piece with its spring. Leave it in one piece.",
+   "quote": "Turn the Bolt shroud clockwise until the firing pin assembly releases from the bolt body.",
+   "cite": "Instruction and Safety Manual for Bergara Premier Rifles — 2026 — Bolt Disassembly, printed p.8 (PDF p.10)"
+  },
+  {
+   "phase": "Inspect",
+   "title": "This is where Bergara's book stops",
+   "action": "On the bench: the barrel and action, the stock, the action screws, the bolt body and the firing pin assembly. Bergara's book goes no further. Its bolt parts drawing names the firing pin assembly, bolt body, bolt head pin, spring washer, gas shield and bolt head, and carries a caution not to remove the firing pin timing set screw.",
+   "box": "limit",
+   "prose": "The book's bolt parts drawing is labelled for serial prefix C and later, or 61. Check your serial number against it.",
+   "quote": "Caution: Do Not Remove Firing Pin Timing Set Screw.",
+   "cite": "Instruction and Safety Manual for Bergara Premier Rifles — 2026 — Bolt Parts, printed p.7 (PDF p.9)"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Bergara recommends a basic pull-through cleaning kit. If you use a rod, use a one-piece rod with no joints.",
+    "Do not use aluminum or brass cleaning rods: dirt and grit embed in the soft metal.",
+    "Clean the bore with a good solvent. A clean, lubricate and protect (CLP) product is a good choice in most cases; follow the product maker's instructions.",
+    "Use ammonia-based copper removers only when necessary.",
+    "⛔ Never mix ammonia-based products with chlorinated solvents."
+   ]
+  },
+  {
+   "name": "BOLT AND ACTION",
+   "tasks": [
+    "Lubricate the bolt and the action at their contact points.",
+    "⚠ Do not remove the firing pin timing set screw on the bolt."
+   ]
+  }
+ ],
+ "reassembly": [
+  "If the firing pin assembly is out: insert it into the bolt body with the firing pin assembly lug lined up with the recess in the bolt body.",
+  "Push the firing pin assembly in against the bolt body to compress the firing pin spring, and turn it counterclockwise until the cocking piece engages the recess.",
+  "If the action is out: set it straight down into the stock and tighten the two action screws gradually to 65 inch-pounds (7.35 Nm) in a chassis or synthetic stock, or 45 inch-pounds (5.08 Nm) in a wood or laminate stock.",
+  "Check the bolt gas shield near the front of the bolt is in the correct alignment. The bolt will not go into the receiver unless it is.",
+  "Bolt back into the action."
+ ],
+ "fncheck": "With the rifle unloaded, check the functions of the bolt, the trigger and the safety. If anything works in a way that seems questionable or unsafe, stop and contact Bergara Customer Service."
+}

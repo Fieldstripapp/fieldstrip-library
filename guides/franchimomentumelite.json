@@ -1,0 +1,117 @@
+{
+ "row": "franchimomentumelite",
+ "make": "Franchi",
+ "model": "Momentum Elite",
+ "sourcedFrom": "Franchi Momentum — Use • Maintenance — UNKNOWN — no revision code is printed; the first page prints '04/10/191 1/1 Esi' (UNKNOWN — no year is printed in the document (the portal path is .../manuals/2021-01/Momentum_Manual.pdf))",
+ "sourceSha256": "b1177e84a2a7d7e86c58013ff5af477b0f9b23ec64e9e17f5b4f2da7afba9a48",
+ "cleanIntro": "This guide follows Franchi's Momentum rifle manual; check your variant against it. The book never names the Momentum Elite, and its introduction still names Franchi's Affinity shotguns, but the pages that follow describe this bolt-action rifle and its parts list is the Momentum's.\n\nFranchi's own field strip is short: empty the rifle and take the bolt out. Franchi says nothing further needs to come apart to clean it. The book separately publishes taking off the magazine box with its two screws and the torque for putting them back; that is in DEEP CLEAN.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, safety back to the WHITE dot",
+   "action": "This guide follows Franchi's Momentum rifle manual; check your variant against it. Point the muzzle in a safe direction and keep it there. The safety button is on the tang behind the bolt handle: push it all the way back with your thumb until it sits over the white dot. That is SAFE; over the red dot is FIRE.",
+   "box": "none",
+   "prose": "White is safe, red is fire. Franchi is plain that a safety is a mechanical device and never a reason to handle the rifle carelessly.",
+   "quote": "Push the safety button all the way back: to reach the white dot on the stock.",
+   "cite": "Franchi Momentum — Use • Maintenance — UNKNOWN — no revision code is printed; the first page prints '04/10/191 1/1 Esi' — Placing the safety catch on, printed p.11 (PDF p.11)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt open, round out of the chamber",
+   "action": "Rotate the bolt handle 60° anti-clockwise (right-hand actions) and draw the bolt all the way back. That extracts and ejects any round in the chamber. ⚠ Until the chamber is empty, a press of the trigger fires the rifle.",
+   "box": "none",
+   "prose": "Open the bolt first, before you touch the magazine. The chambered round is the one that can fire.",
+   "quote": "To unload the rifle, open the bolt and expel the cartridge found in the chamber",
+   "cite": "Franchi Momentum — Use • Maintenance — UNKNOWN — no revision code is printed; the first page prints '04/10/191 1/1 Esi' — Loading and unloading the gun, printed p.11 (PDF p.11)",
+   "warn": "WARNING! If there is a cartridge in the chamber, by pressing the trigger the rifle will shoot."
+  },
+  {
+   "phase": "Clear",
+   "title": "Empty the magazine — floorplate lid or removable magazine",
+   "action": "Use the release your rifle actually has. On a fixed magazine, press the magazine release button on the trigger guard in front of the trigger: the lid opens and the cartridges fall out; then close the lid. On a model with a removable magazine, press the magazine opening button in front of the trigger and the magazine comes free to be unloaded by hand.",
+   "box": "none",
+   "prose": "Franchi prints both systems. This guide does not say which one your rifle carries; look at it.",
+   "aside": "press the magazine opening button located in the hand guard in front of the trigger, so that the magazine is released for manual unloading",
+   "quote": "press the magazine release button, located on the trigger guard in front of the trigger: the lid on the magazine will open and the cartridges will come out.",
+   "cite": "Franchi Momentum — Use • Maintenance — UNKNOWN — no revision code is printed; the first page prints '04/10/191 1/1 Esi' — Loading and unloading the gun, printed p.11 (PDF p.11)"
+  },
+  {
+   "phase": "Clear",
+   "title": "LOOK into the chamber, and feel it",
+   "action": "With the bolt open, look into the chamber and check it with a finger as well. Taking the magazine out does not mean the rifle is unloaded; only an empty chamber, seen and felt, does.",
+   "box": "none",
+   "prose": "Franchi asks for both checks, seen and felt. Do both.",
+   "quote": "To make sure that the chamber of the firearm is empty, open the chamber and visually and physically check that there are no bullets in it.",
+   "cite": "Franchi Momentum — Use • Maintenance — UNKNOWN — no revision code is printed; the first page prints '04/10/191 1/1 Esi' — SAFETY RULES, rule 2, printed p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out — press the bolt release button",
+   "action": "Muzzle in a safe direction, rotate the bolt handle 60° anti-clockwise (right-hand actions). With the thumb of the hand holding the rifle, press the bolt release button, and with the other hand pull the bolt back until it comes completely out of the frame.",
+   "box": "none",
+   "prose": "The bolt stops at the back of its travel until the release button is held in. Keep it held while you pull.",
+   "quote": "With the thumb of the hand holding the rifle, press the bolt release button, while pulling the bolt backwards with the other hand, until it comes out of the frame completely.",
+   "cite": "Franchi Momentum — Use • Maintenance — UNKNOWN — no revision code is printed; the first page prints '04/10/191 1/1 Esi' — Disassembling the bolt, printed p.10 (PDF p.10)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench: the rifle and the bolt. ⛔ Franchi says to go no further: taking the components apart is not needed to clean the rifle or for its usual maintenance, and could damage the mechanism. If something needs more than this, go to your gun dealer or to Franchi. Taking the magazine box off, which the book publishes under its own heading, is in DEEP CLEAN.",
+   "box": "limit",
+   "prose": "For routine cleaning, stop here. The bolt stays in one piece.",
+   "quote": "do not proceed any further in taking your gun apart as disassembling its components is not required to clean it or for the usual maintenance",
+   "cite": "Franchi Momentum — Use • Maintenance — UNKNOWN — no revision code is printed; the first page prints '04/10/191 1/1 Esi' — Disassembling the bolt, printed p.10 (PDF p.10)",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Magazine box off — two screws",
+   "action": "Only if you need to: with the bolt out and the rifle unloaded, unscrew the two screws that hold the magazine box to the frame. Note which screw came from where. The rear one sits near the stock and the front one near the barrel, and they go back to different torques.",
+   "box": "none",
+   "prose": "Use a driver that fits the screw heads properly. The two screws are not interchangeable in torque.",
+   "quote": "Unscrew the two screws that tighten the magazine box to the frame.",
+   "cite": "Franchi Momentum — Use • Maintenance — UNKNOWN — no revision code is printed; the first page prints '04/10/191 1/1 Esi' — Disassembling the magazine, printed p.10 (PDF p.10)"
+  },
+  {
+   "phase": "Inspect",
+   "title": "This is where Franchi's book stops — and the torques back",
+   "action": "On the bench: the rifle, the bolt, the magazine box and its two screws. Franchi's book publishes nothing further. Going back together, the rear screw (near the stock) takes 5 Nm and the front screw (near the barrel) takes 6 Nm.",
+   "box": "limit",
+   "prose": "Two different figures for two screws. A torque driver is the right tool here.",
+   "quote": "the rear screw (close to the stock) has a tightening torque of 5 Nm, the front rear (close to the barrel) a tightening torque of 6 Nm.",
+   "cite": "Franchi Momentum — Use • Maintenance — UNKNOWN — no revision code is printed; the first page prints '04/10/191 1/1 Esi' — Disassembling the magazine, printed p.10 (PDF p.10)",
+   "warn": "do not proceed any further in taking your gun apart as disassembling its components is not required to clean it or for the usual maintenance"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL AND CHAMBER",
+   "tasks": [
+    "Periodically clean combustion deposits and copper or lead residues out of the bore with good quality cleaning products.",
+    "⚠ An ammonia-based copper solvent is left to work only a short time, to avoid damaging the rifling, and every trace of it is removed.",
+    "Follow the instructions supplied with the cleaning and maintenance products.",
+    "Before using the rifle again, remove the oil left in the barrel and the cartridge chamber completely."
+   ]
+  },
+  {
+   "name": "BOLT AND METAL PARTS",
+   "tasks": [
+    "Dry every trace of humidity with a dry cloth, then keep the mechanical parts in contact with one another and the outside of the barrel lightly oiled.",
+    "After rain or humidity, or before long storage, dry all the metal parts, the chamber and the bore, and protect them with a specific gun oil.",
+    "Do not take the bolt or other components apart: Franchi says it is not needed for cleaning and could damage the mechanism.",
+    "⚠ If a primer has been perforated, take the rifle to an expert gunsmith to clean the firing pin area.",
+    "Do not alter the trigger: its setting may be changed only by the maker or an authorized gun dealer."
+   ]
+  }
+ ],
+ "reassembly": [
+  "If the magazine box is off: put it back with its two screws, the rear screw (near the stock) to 5 Nm and the front screw (near the barrel) to 6 Nm.",
+  "Look down the barrel from the frame and make sure no cartridge or obstruction is in it.",
+  "Hold the bolt by its handle with the tenons (locking lugs) horizontal, rest the bolt head on the rear of the frame in front of the safety button, and line the tenons up with the guiding slots in the frame.",
+  "Push the bolt forward into the frame until it passes over the bolt release button, then rotate the handle down 60° clockwise to close it.",
+  "Before storing the rifle for a long period, release the firing pin spring by holding the trigger pressed while you push the bolt forward and rotate it closed."
+ ],
+ "fncheck": "With the rifle confirmed unloaded and the muzzle in a safe direction, open and close the bolt a few times: the handle should rotate 60° and the bolt run in and out without binding. Move the safety all the way back to the white dot and all the way forward to the red dot, and make sure it goes fully to each. Leave it on the white dot. If anything feels wrong, stop and take the rifle to your gun dealer or to Franchi; the book reserves trigger adjustment to the maker or an authorized gun dealer."
+}

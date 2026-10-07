@@ -1,0 +1,199 @@
+{
+ "row": "syrenl4ssporting",
+ "make": "Syren",
+ "model": "L4S Sporting",
+ "sourcedFrom": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages (UNKNOWN — read off the manual's own pages)",
+ "sourceSha256": "f77b4522c77d1ef758ff531c7722b594203eeaf0e4ccd9c3b47ec94ecafbbb7c",
+ "cleanIntro": "This guide follows Fabarm's L4S manual, the book Syren publishes for the L4S. That book covers the L4S shotguns and never prints \"Syren\" or \"Sporting\", so check your variant against it. The steps here are the book's standard L4S disassembly: forend off, the red barrel cap off, the barrel and piston forward off the magazine tube, then the cocking handle and the bolt. The book gives a separate procedure for the L4S Maxi; it is not used here.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "On safe, and prove it empty yourself",
+   "action": "This guide follows Fabarm's L4S manual, which does not name the Syren L4S Sporting, so check your variant against it. Point the shotgun in a safe direction and push the safety on. Then make sure the gun is completely unloaded, chamber and magazine, before anything else.",
+   "box": "none",
+   "prose": "The book's safety is on when the red stripe on the safety button can no longer be seen. If you can still see red, the gun is not on safe.",
+   "quote": "Place the shotgun on safe and ensure that it is completely unloaded.",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — DISASSEMBLY, Step 1, printed p.16",
+   "warn": "Never take someone’s word that the gun is unloaded, but always check it yourself with your fingers off the trigger and the gun pointed in a safe direction.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber first: bolt open, shell out",
+   "action": "Pull the cocking handle back to open the bolt and take out any shell in the chamber. Look into the chamber and confirm it is empty.",
+   "box": "none",
+   "prose": "The book unloads the chamber before the magazine. A shell left in the chamber is the one that fires when you thought the gun was empty.",
+   "quote": "To unload the chamber, pull open the bolt and remove the shell.",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — UNLOADING THE SHOTGUN, Step 1, printed p.15"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine tube: gun upside down, carrier down, retainer pressed",
+   "action": "Turn the shotgun upside down, push the carrier down, then push the magazine retainer. The shells come out of the magazine tube. Keep going until no more come out.",
+   "box": "none",
+   "prose": "The magazine tube runs under the barrel, inside the forend. It has to be empty before the forend comes off.",
+   "quote": "Push the magazine retainer ( FIG.18 ), the shells will come out from the magazine.",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — UNLOADING THE SHOTGUN, Steps 2 to 4, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt closed, magazine cap off, forend off",
+   "action": "With the chamber and magazine empty, let the bolt close. Unscrew the magazine cap at the front of the forend, then slide the forend forward off the gun.",
+   "box": "none",
+   "prose": "The book starts disassembly with the bolt closed, not locked back. Its loading section says the carrier latch button on the left side of the receiver closes the bolt.",
+   "quote": "With the bolt closed, unscrew the magazine cap and remove the forend",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — DISASSEMBLY, Step 2, printed p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Red barrel cap off",
+   "action": "Unscrew the barrel retaining cap, the red one, from the end of the magazine tube.",
+   "box": "none",
+   "prose": "This cap is what holds the barrel to the gun. It goes back on firmly by hand, not with a tool.",
+   "quote": "Unscrew the retaining barrel cap (red colored)",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — DISASSEMBLY, Step 3, printed p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel forward and off, then the piston",
+   "action": "Carefully draw the barrel forward off the gun. Then take the piston off the magazine tube.",
+   "box": "none",
+   "prose": "Keep the piston with the barrel. On reassembly the piston goes back onto the magazine tube first, then the barrel.",
+   "quote": "Then carefully remove the barrel and remove the piston from the magazine tube.",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — DISASSEMBLY, Step 4, printed p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cocking handle out with the rim of an empty shell",
+   "action": "Use the rim of an empty shell to carefully pry the cocking handle out, then lift it away.",
+   "box": "none",
+   "prose": "The book names an empty shell for this, not a screwdriver. Go gently so you do not mark the handle or the receiver.",
+   "quote": "Using the ring of an empty shell, carefully pry the cocking handle out and remove it.",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — DISASSEMBLY, Step 5, printed p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete: action bar forward, bolt out",
+   "action": "Slide the action bar group forward and take the bolt out. That is the field strip: forend, barrel, piston, cocking handle, action bar group and bolt, with the receiver and stock left together. Taking the trigger group out of the frame is under DEEP CLEAN.",
+   "box": "none",
+   "prose": "On reassembly the locking bolt has to go back into the bolt before the bolt goes onto the action bar, so keep those parts together.",
+   "quote": "Slide forward the action bar group and remove the bolt.",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — DISASSEMBLY, Step 6, printed p.17",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore: wet patch from the chamber end",
+   "action": "Wet a patch with bore cleaning solvent and push it through the bore from the chamber end. Use a bronze brush if the bore needs it.",
+   "box": "none",
+   "prose": "Working from the chamber end pushes fouling out the muzzle rather than back into the action.",
+   "quote": "Wet a patch with bore cleaning solvent and wet the inside of the bore by pushing the wet patch through from the chamber end of the barrel. If necessary, use a bronze brush.",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — MAINTENANCE AND CLEANING: BARREL, printed p.17"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt: gun oil and a bristle brush",
+   "action": "Clean the bolt thoroughly with a good gun oil and a bristle brush.",
+   "box": "none",
+   "prose": "The book singles the bolt out as the part that must be cleaned thoroughly.",
+   "quote": "The bolt must be cleaned thoroughly. Use a good gun oil and bristle brush to clean it.",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — MAINTENANCE AND CLEANING: BOLT, printed p.17"
+  },
+  {
+   "phase": "Clean",
+   "title": "Piston and gas cylinder: clean, then dry",
+   "action": "Clean the piston and the gas cylinder carefully with gun oil and a patch until the powder gas residue is gone, then dry them before they go back together.",
+   "box": "none",
+   "prose": "These are the parts the gas works on. The book cleans them with oil, then dries them.",
+   "quote": "Clean carefully these parts with gun oil and patch to remove the powder gas residues. Dry them before reassembly.",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — MAINTENANCE AND CLEANING: PISTON & GAS CYLINDER, printed p.17"
+  },
+  {
+   "phase": "Clean",
+   "title": "A thin coat of oil, no more",
+   "action": "Wipe a thin coat of gun oil over the barrel, the frame and the magazine tube. Do not over-oil.",
+   "box": "none",
+   "prose": "The book warns against over-lubrication; a thin coat is the whole instruction.",
+   "quote": "Avoid over-lubrification. Maintain your shotgun with a thin coat of gun oil (barrel, frame, magazine tube).",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — MAINTENANCE AND CLEANING, printed p.17"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Trigger group out: two pins with a pin punch",
+   "action": "With the shotgun field stripped, tap out the two trigger guard pins with a pin punch and take the trigger group out of the frame.",
+   "box": "none",
+   "prose": "This is the last removal the book gives; it does not take the trigger group or the bolt any further apart. On reassembly the hammer must be cocked before the trigger group goes back in with its two pins.",
+   "quote": "With a pin punch tap out the two trigger guard pins ( FIG.25 ) and remove the trigger group from the frame.",
+   "cite": "L4S Owner's Manual (use and maintenance manual) — UNKNOWN — read off the manual's own pages — DISASSEMBLY, Step 7, printed p.17"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Solvent-wetted patch pushed through the bore from the chamber end",
+    "Bronze brush if the bore needs it"
+   ]
+  },
+  {
+   "name": "BOLT",
+   "tasks": [
+    "Cleaned thoroughly with a good gun oil and a bristle brush"
+   ]
+  },
+  {
+   "name": "PISTON & GAS CYLINDER",
+   "tasks": [
+    "Powder gas residue off with gun oil and a patch",
+    "Dried before reassembly"
+   ]
+  },
+  {
+   "name": "OIL",
+   "tasks": [
+    "Thin coat of gun oil on the barrel, frame and magazine tube",
+    "Do not over-oil"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     8
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     9
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     10
+    ]
+   },
+   {
+    "g": 3,
+    "steps": [
+     11
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "Recoil spring back in place on the magazine tube.",
+  "Locking bolt into position in the bolt first, then the bolt assembly onto the end of the action bar.",
+  "Bolt assembly guided into the tracks on both sides of the receiver, and the cocking handle snapped into position.",
+  "If the trigger group came out: check the hammer is cocked, then reinstall the trigger group with its two retaining pins.",
+  "Piston onto the magazine tube, then the barrel.",
+  "Red barrel retaining cap on and tightened firmly by hand.",
+  "Forend on, and the forend cap screwed down while guiding the forend towards the frame."
+ ],
+ "fncheck": "Chamber and magazine empty, muzzle in a safe direction. Pull the cocking handle back and let the bolt run forward several times by hand; it should travel the full length without binding, and the cocking handle should stay seated. Check the red barrel cap is firmly tight by hand and the forend sits against the frame. If anything did not go back the way it came out, take the shotgun to your gun dealer or a gunsmith before firing it."
+}
