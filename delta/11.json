@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 11 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 11,
- "to": 23,
+ "to": 24,
  "rows": [
   {
    "id": "radianmodel1",
@@ -9642,10 +9642,10 @@
    "maker": "Springfield Armory",
    "model": "Kuna",
    "chambering": "9mm",
-   "category": "Semi-auto rifle",
+   "category": "Semi-auto pistol",
    "family": "KUNA",
    "tier": 3,
-   "group": "Rifles",
+   "group": "Pistols",
    "guide": true,
    "guideId": "springfieldarmorykuna",
    "guideSha256": "a9f38169365746f763005d33add9a32233317116340ed02353827a9c5b5eaff3"
