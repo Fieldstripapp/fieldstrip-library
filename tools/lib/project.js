@@ -201,8 +201,22 @@ function projectGuide(spec, boxes) {
   if (wf.ok) g.cleanMap = { screens: wf.screens };
   if (spec.reassembly && spec.reassembly.length) g.reassembly = spec.reassembly;
   if (spec.fncheck) g.fncheck = spec.fncheck;
+  /* the break-action safety check's line 2 where the maker's release is not a top lever (app morning order
+     2026-10-07 Part 1): read from the app's break_open.json AT ITS COMMITTED HEAD, the record the app's splice
+     reads, so a fetched guide and a compiled-in one print the same release */
+  const bo = breakOpen()[spec.row];
+  if (bo && bo.text) g.breakOpen = bo.text;
 
   return { guide: g, unknown };
+}
+let _breakOpen = null;
+function breakOpen() {
+  if (!_breakOpen) {
+    const app = require('./appsrc');
+    const rel = 'scratchpad/clean-rebuild/break_open.json';
+    _breakOpen = app.exists(rel) ? app.showJson(rel) : {};
+  }
+  return _breakOpen;
 }
 
 /* vC75: the app's walkformat module, read at the app's committed HEAD (never the

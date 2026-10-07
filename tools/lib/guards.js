@@ -85,6 +85,11 @@ const GUIDE_KEYS = new Set([
      `file`, and the projection excludes it. */
   'sourceSha256_2',
   'steps', 'deepSteps', 'deepAbsentReason', 'cleaning', 'reassembly', 'fncheck',
+  /* ⛔ breakOpen — REVIEWED AND ADMITTED (app morning order 2026-10-07, Part 1): one sentence, the maker's
+     own release for a break-action whose book opens it by something other than a top lever ("pull the
+     breeching lever to the rear…"), from the app's break_open.json at its committed HEAD. Owner-facing
+     safety-check text, the same the app compiles in. No path, no person, no document name. */
+  'breakOpen',
   /* ⛔ cleanMap — REVIEWED AND ADMITTED (vC75, Darren order 2026-10-01: one walk format
      for every guide). It carries no text at all: only step indices and group indices
      routing which clean step renders on which part's screen, derived by the app's
