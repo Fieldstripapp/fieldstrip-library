@@ -90,6 +90,16 @@ const GUIDE_KEYS = new Set([
      breeching lever to the rear…"), from the app's break_open.json at its committed HEAD. Owner-facing
      safety-check text, the same the app compiles in. No path, no person, no document name. */
   'breakOpen',
+  /* ⛔ breakNone — REVIEWED AND ADMITTED (app Best Practices build order 2026-10-07, addition 2): the boolean `true`
+     and nothing else, on a guide whose own book shows the gun is not a break-action whatever its catalog type says
+     (app break_open.json notBreakAction). No text, no path, no person. */
+  'breakNone',
+  /* ⛔ bpLabel / bpClass / bpTemplateVersion — REVIEWED AND ADMITTED (Darren ruling 2026-10-07, reversing the 2026-08-20
+     strike of the source label). bpLabel is the ruled Fieldstrip Best Practices label, verbatim, owner-facing BY
+     RULING — the app draws it; bpClass is a class code (BP-SUP-SC … BP-HAND); bpTemplateVersion is an integer. None
+     names a file, a path, a document or a person. The internal provenance (bpFacts, bpClassBasis) is NOT admitted:
+     the projection excludes it. */
+  'bpLabel', 'bpClass', 'bpTemplateVersion',
   /* ⛔ cleanMap — REVIEWED AND ADMITTED (vC75, Darren order 2026-10-01: one walk format
      for every guide). It carries no text at all: only step indices and group indices
      routing which clean step renders on which part's screen, derived by the app's
