@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 6 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 6,
- "to": 27,
+ "to": 28,
  "rows": [
   {
    "id": "radianmodel1",
@@ -1834,8 +1834,9 @@
    "tier": 3,
    "group": "Suppressors",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "aactirant45m",
+   "guideSha256": "f7a40748ef4cbda7a079a8fa31ece53a9bad14b3d37c4bb6cf59c989df0a01cd"
   },
   {
    "id": "angstadtarmsreticent22",
@@ -13291,8 +13292,9 @@
    "chamberings": [
     ".50 cal"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "mltradvortekldr",
+   "guideSha256": "a9d738691a62609c1157bf3ef1dbf5464a57c0e8e38f07ad6bf694968fd29eed"
   },
   {
    "id": "mltradpursuitxt",
@@ -13332,7 +13334,7 @@
    "maker": "Traditions",
    "model": "ShedHorn",
    "chambering": ".50 cal",
-   "category": "Inline break-action, musket cap",
+   "category": "Sidelock percussion",
    "family": "ML-TRAD-ACCEL",
    "tier": null,
    "group": "Muzzleloaders",
@@ -13695,8 +13697,9 @@
    "chamberings": [
     ".50 cal"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "mltradpapellet",
+   "guideSha256": "f1208f2d5dae1611681ef6396066a248dc0e15bf1bf41629eb885863c1d54ca4"
   },
   {
    "id": "mltraddeerhunterfl",
@@ -15368,8 +15371,9 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "vudoogunworksv22three60",
+   "guideSha256": "b1830a58ab222ac4671b1a3ce089d0bf1ec60492244a5a21d25ec43e3ec98168"
   },
   {
    "id": "waltherpdpprofseries",
@@ -15534,8 +15538,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "benelli828usupersportai",
+   "guideSha256": "bc513ecde4fce2e0aeed8786c90a497b94bd8d08131abfe348b32df044f888ee"
   },
   {
    "id": "benelliethossport",
@@ -15717,8 +15722,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "blaserf16prosporting",
+   "guideSha256": "516c7d68406a6c7ba0234abeaeb5378ce89c3a7ebb071ef7098665dfe42f689d"
   },
   {
    "id": "blaserf16sporting",
@@ -15748,8 +15754,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "blaserf3competitionsporting",
+   "guideSha256": "343e7ffb5f3c30f1a95dc5f73173333c06559fa1552524e6a96aeded5738b4e4"
   },
   {
    "id": "blaserf3supersport",
@@ -15937,8 +15944,9 @@
    "chamberings": [
     "20 GA"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "krieghoffk20parcours",
+   "guideSha256": "6443ec6651b6e5f055955b867da3a869099d93b620a4103628ce3720cc8ba6e3"
   },
   {
    "id": "krieghoffk20sporting",
@@ -15952,8 +15960,9 @@
    "chamberings": [
     "20 GA"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "krieghoffk20sporting",
+   "guideSha256": "ac00744e1eea41675fef0198af0467c2eb6109b3aef5ba60871c9405ca991658"
   },
   {
    "id": "krieghoffk80acs",
@@ -15967,8 +15976,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "krieghoffk80acs",
+   "guideSha256": "e85c6dc21272e0a52264d8e2317370191cda87278e783fea32f0aaa5059c77fd"
   },
   {
    "id": "krieghoffk80parcours",
@@ -15998,8 +16008,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "krieghoffk80parcoursx",
+   "guideSha256": "d513bcfd3c6c62ce81014f77f9cd824af0999a5aa017d3425f1ceffa31270b92"
   },
   {
    "id": "krieghoffk80prosporter",
@@ -16013,8 +16024,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "krieghoffk80prosporter",
+   "guideSha256": "c3f42c0199a112ae8fd9fa884096b689cea460bfaf8c28846cf99e647171ad3a"
   },
   {
    "id": "krieghoffk80skeet",
@@ -16281,8 +16293,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "bergarapremierhighlander",
+   "guideSha256": "f08fecd09ffa6d4895333755a60baf1ba8b59e1a03c56a40f1cbed5cb458e9bd"
   },
   {
    "id": "bergarapremiermglite",
@@ -16541,8 +16554,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "christensenarmsmodernhuntingrifle",
+   "guideSha256": "dd6893919cb7ff35fb3be5083572fc358f1b3673b0457acf020ee5401a9b8e5b"
   },
   {
    "id": "franchimomentumallterrainelite",
@@ -16809,8 +16823,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "springfieldarmorymodel2020boundary",
+   "guideSha256": "4556466c239bff3f6a8955bdd0cc20e45d242e95fd3e5c50d6fd6084be3ff0c4"
   },
   {
    "id": "springfieldarmorymodel2020redline",
@@ -16822,8 +16837,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "springfieldarmorymodel2020redline",
+   "guideSha256": "b8a87c60fee76e84c3b12140f8c8b053adc071abdee74fd6060962293bf82fcb"
   },
   {
    "id": "steyrarmsprohunteriii",
@@ -16924,8 +16940,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "barrettmradcovert",
+   "guideSha256": "fbc4469c436b200b08d8279e51e98eae7c3a5a1d12ba9998b95c342433d2f5a2"
   },
   {
    "id": "benellilupohprbest",
@@ -17233,8 +17250,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "springfieldarmorymodel2020heatseeker",
+   "guideSha256": "73977fe0feb146cef9a48666b796179152f170f103e6265fdf19611272be22f1"
   },
   {
    "id": "steyrarmsssg08",
@@ -17265,8 +17283,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "tikkat3xacetarget",
+   "guideSha256": "08ac3b794817517fe14098a64cf0c3d962cbd4b4a0905df4ef4cd7c83d357539"
   },
   {
    "id": "tikkat3xsupervarmint",
@@ -17278,8 +17297,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "tikkat3xsupervarmint",
+   "guideSha256": "42184d53d973ee29e2a2b46f68533c185e3c8d2cb1c034825d3d64d15aa439f8"
   },
   {
    "id": "tikkat3xtaca1",
@@ -17291,8 +17311,9 @@
    "tier": 2,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "tikkat3xtaca1",
+   "guideSha256": "0b98b106937b80c6c7c37bce0930cd6e0dfe55e74953949bbd923323e4430ec1"
   },
   {
    "id": "tikkat3xupr",
@@ -17304,8 +17325,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "tikkat3xupr",
+   "guideSha256": "22ed0b6bff5c699988f21203fde6eb80cecad42ca81b3351a14f3012d1cee35e"
   },
   {
    "id": "beretta486parallelo",
@@ -17394,8 +17416,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "blaserf16gameintuition",
+   "guideSha256": "8c5d1e35e72664be939205e814c8319645a07918d358402790a28fb403f1a01e"
   },
   {
    "id": "caesargueriniellipseevo",
@@ -20027,7 +20050,9 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": true,
+   "guideId": "czscorpion3plus",
+   "guideSha256": "2673e471902e06ddcbda8efb876ba222ec5338b59f30022eda192d7584c9580f"
   }
  ],
  "removed": [

@@ -1,0 +1,293 @@
+{
+ "row": "mltradvortekldr",
+ "make": "Traditions",
+ "model": "Vortek StrikerFire LDR",
+ "sourcedFrom": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 (not printed)",
+ "sourceSha256": "d057e309c4eecdc442066f5befa5c5eb12cec918b193082b5c7fb6fe65959f72",
+ "cleanIntro": "This guide follows Traditions's Vortek StrikerFire safety and instruction manual; check your variant against it. The book is written for the Vortek StrikerFire and does not print the letters LDR, so every step here is stated as generally as the book states it.\n\nThe Vortek StrikerFire is a break-open inline with a striker instead of a hammer: it cocks and de-cocks with a button, and its breech plug comes out from the breech end so the barrel is open at both ends for cleaning. Traditions asks for the field procedure after every shooting session and the detailed procedure before the rifle is stored for any length of time. DEEP CLEAN carries the safety button, the butt stock and the striker assembly, and what to do with a breech plug that will not turn.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Nothing live on the bench",
+   "action": "This guide follows Traditions's Vortek StrikerFire safety and instruction manual; check your variant against it. Before any part of this, make sure there is no powder charge, primer or projectile in the rifle or within reach of the bench. Traditions puts this ahead of every disassembly, reassembly and function test, because a primer left in the pocket or a charge left in the barrel is all it takes.",
+   "box": "limit",
+   "quote": "WARNING: Confirm there are no powder charges, primers or projectiles are present or available during any disassembly, reassembly, or function test procedures.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — 15. Cleaning & Maintenance, p.35"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety button in: no red ring",
+   "action": "Press the safety button in until it locks. With the safety engaged no red ring shows; if you can see the red ring, the rifle is in the fire position. The button is the trigger block, and it is the first thing Traditions asks for in both the field and the detailed procedure.",
+   "box": "none",
+   "quote": "2. Press Safety Button (#10) to engage. Red ring is not visible when in safe position; if you see the red ring then the safety is in the fire position.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Field Cleaning & Disassembly Procedure, Step #1, p.40"
+  },
+  {
+   "phase": "Clear",
+   "title": "De-cock, then open the action",
+   "action": "De-cock the striker by pressing down on the de-cocking button on top of the striker button, or by pressing the barrel catch lever. The striker button returns to its at-rest position. Then open the action to get at the breech plug. There is no hammer on this rifle: the striker button is what tells you whether it is cocked.",
+   "box": "none",
+   "prose": "The maker spells it 'Decock' here and 'De-cock' elsewhere; the quote keeps it as printed.",
+   "quote": "3. Decock gun by pressing down on the Striker De-cocking Button (#37) or pressing Barrel Catch Lever (#25) to decock gun. Open action and access breech plug (#46).",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Field Cleaning & Disassembly Procedure, Step #1, p.40"
+  },
+  {
+   "phase": "Clear",
+   "title": "Breech plug out, barrel checked clear",
+   "action": "Take the breech plug out of the barrel and look through the bore. The book's standard Accelerator Breech Plug turns out counterclockwise by hand in about three full turns. You are checking three things: no primer, no charge, and nothing blocking the barrel. With the plug out you can see daylight from the breech end, which a muzzleloader otherwise never lets you do.",
+   "box": "none",
+   "quote": "4. Remove Accelerator Breech Plug™ (#46) and inspect Barrel (#50) to be sure your rifle is unprimed, unloaded and free of obstruction.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Field Cleaning & Disassembly Procedure, Step #1, p.40",
+   "warn": "The book names two breech plugs: the standard one-piece Accelerator Breech Plug, which turns out by hand, and a two-piece musket-nipple plug on the Northwest Magnum, which comes out with the supplied wrench. Look at yours before you put force on it.",
+   "warnSrc": "ours"
+  },
+  {
+   "phase": "Clear",
+   "title": "A charge in the barrel is pushed out the breech end",
+   "action": "If you find a charge in the barrel, unload it before going on. With the breech plug out, run a ramrod or range rod in from the muzzle and push the load out of the breech end, keeping the muzzle pointed somewhere safe the whole time. Traditions recommends a range rod or a ramrod extension for this, and a second method with a ball puller from the muzzle.",
+   "box": "none",
+   "quote": "4. Insert a ramrod or range rod into the muzzle and push the load out the breech end of the barrel.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — 14. Unloading and Uncharging Your Rifle, Method 1, p.34",
+   "warn": "A charge left in the barrel means the rifle is still loaded, whatever the breech end looks like. Do not go on to the strip until the barrel is empty.",
+   "warnSrc": "ours"
+  },
+  {
+   "phase": "Strip",
+   "title": "Ramrod out, then the forend",
+   "action": "Draw the ramrod out of its thimbles. Then use the 4mm Allen wrench that came with the rifle to take out the forend stock screw and lift the forend off the barrel. Traditions suggests using the forend as a tray for the small parts while you work.",
+   "box": "limit",
+   "quote": "1. Remove Ram Rod from rifle (#55). 2. Remove forend stock screw (#40) and forend (#41) from barrel assembly using the 4mm Allen wrench provided with your rifle.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Field Cleaning & Disassembly Procedure, Step #2, p.40"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel off the receiver",
+   "action": "Push the barrel catch lever in. As the action starts to open, lift the barrel up and out of the receiver. With the forend off there is nothing else holding it, so it comes away cleanly; if it does not, check the forend screw is really out.",
+   "box": "none",
+   "quote": "Remove the barrel from the receiver by pushing the barrel catch lever in. When the action starts to open lift the barrel up and out of the receiver.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — 6. Initial Cleaning, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Barrel, receiver and breech plug are now apart, and those are the three things the field procedure cleans. Traditions asks for this every time you finish shooting. The cleaning screens follow; DEEP CLEAN carries the safety button, butt stock and striker assembly.",
+   "box": "none",
+   "quote": "4. You can now clean your Barrel (#50), Receiver (#27) and Breech Plug (#46). Field disassembly is now complete.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Field Cleaning & Disassembly Procedure, Step #2, p.40",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "EZ Clean through the bore, then dry patches",
+   "action": "Put Traditions EZ Clean on the barrel brush and on cleaning patches, and clean the bore and the outside of the barrel. Then run several dry patches through until the bore is dry. With the breech plug out, the brush and patches can go straight through end to end.",
+   "box": "none",
+   "quote": "1. Apply Traditions EZ Clean™ to barrel brush and cleaning patches to clean both interior and exterior of barrel. 2. Dry barrel interior with several dry bore patches.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Field Cleaning & Disassembly Procedure, Step #3, p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wonderlube on barrel and receiver",
+   "action": "Lubricate the inside and outside of the barrel and the receiver with Wonderlube. Traditions gives two reasons: it holds off rust, and a lubed bore loads more easily next time.",
+   "box": "none",
+   "quote": "3. Lubricate with Wonderlube™ to help protect both interior and exterior surfaces of both barrel and receiver from rust and to ease loading.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Field Cleaning & Disassembly Procedure, Step #3, p.41"
+  },
+  {
+   "phase": "Clean",
+   "title": "Plug threads and barrel threads cleaned",
+   "action": "Clean the threads on the breech plug and the threads inside the breech of the barrel. Traditions says this applies whichever breech plug your rifle has. Fouling left in either set of threads is what makes a plug hard to start and hard to get out.",
+   "box": "none",
+   "quote": "Regardless of which breech plug your rifle has you should remove the breech plug and clean the threads of both the breech plug and inside of the barrel.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Additional Information on Breech Plugs, p.44"
+  },
+  {
+   "phase": "Clean",
+   "title": "O-ring checked on the Accelerator plug",
+   "action": "If your rifle has the standard Accelerator Breech Plug, look at its o-ring. If it is worn or damaged, take it off and fit a new one. Traditions explains that the o-ring is a gas check that keeps fouling off the threads; a plug run without it can become hard to remove.",
+   "box": "none",
+   "quote": "2. Inspect the o-ring to be sure it is not worn or damaged. If so remove and replace with a new one.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Additional Information on Breech Plugs, Removal of the Breech Plug, p.44"
+  },
+  {
+   "phase": "Clean",
+   "title": "Breech plug grease on the threads",
+   "action": "Before the plug goes back in, coat its threads with Traditions breech plug grease. Traditions says you must. A plug put back dry is the one that seizes in the barrel after the next shooting session.",
+   "box": "none",
+   "quote": "You must lubricate the thread of the breech plug with Traditions™ breech plug grease before you install it back into the barrel. This will help prevent the breech plug from getting stuck inside the barrel after shooting.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Additional Information on Breech Plugs, p.44"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver oiled, pivot pin and catch greased",
+   "action": "Put a light film of oil inside the receiver. Lightly grease the frame pivot pin the barrel swings on, and the barrel catch surface on the barrel that the lever locks against. Then give all the metal, inside and out, a light coat of oil.",
+   "box": "none",
+   "quote": "4. Lightly oil inside of receiver. 5. Lightly grease frame pivot pin (#26) and barrel catch surface on barrel (#50) 6. Lightly oil all interior and exterior metal surfaces of your rifle.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Field Cleaning & Disassembly Procedure, Step #3, p.41"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Safety button out, left to right only",
+   "action": "With the barrel off, find the safety button. Using the 4mm Allen wrench as a punch, push it slowly from the left side across to the right and take it out of the butt stock. Press only on the left side.",
+   "box": "limit",
+   "quote": "4. Locate Safety Button (#10). Using your 4mm Allen wrench as a punch slowly push Safety Button (#10) from left to right and remove it from the Butt Stock (#1).",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly Procedure, Step #2, p.42",
+   "warn": "CAUTION: Only disassemble the Safety Button from left side to the right. Removing the Safety button from the other direction can damage your Safety Button, Spring and/ or Butt Stock",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Butt pad off, stock bolt out, stock off",
+   "action": "Press the two buttons with your fingers to take the butt pad off. Take out the stock bolt and its washer with a 6mm T-handle wrench, then slide the butt stock carefully off the receiver.",
+   "box": "limit",
+   "quote": "5. Remove Butt Pad (#2) using two fingers to depress the buttons. 6. Remove Stock Bolt (#3) and Stock Bolt Washer (#4) with a 6mm T- handle wrench. Carefully slide Butt Stock (#1) from Receiver (#27).",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly Procedure, Step #2, p.42"
+  },
+  {
+   "phase": "Strip",
+   "title": "Retention spring, retention pin, striker assembly out",
+   "action": "Unhook the striker retention spring from the striker retention pin. Push the pin all the way out of the receiver with a small punch. Then depress the barrel catch lever and draw the striker assembly out of the back of the receiver.",
+   "box": "none",
+   "quote": "7. Remove Striker Retention Spring (#11) from Striker Retention Pin (#32) 8. Completely remove Striker Retention Pin (#32) from receiver (#27) using a small punch. 9. Depress the Barrel Catch lever (#25) to remove Striker Assembly. Remove from rear of the Receiver (#27).",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly Procedure, Step #2, p.42"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stop here: the receiver does not come apart",
+   "action": "Detailed disassembly ends with the striker assembly out. Do not drift any of the pins that hold the receiver together. This is where Traditions stops, and this guide stops with it.",
+   "box": "limit",
+   "quote": "WARNING: DO NOT ATTEMPT TO DISASSEMBLE RECEIVER. THIS INCLUDES ANY PINS HOLDING THE RECEIVER TOGETHER. 10. Detailed disassembly is now complete.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly Procedure, Step #2, p.42",
+   "warn": "WARNING: DO NOT ATTEMPT TO DISASSEMBLE RECEIVER. THIS INCLUDES ANY PINS HOLDING THE RECEIVER TOGETHER.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Striker channel and striker degreased",
+   "action": "Run a 20ga bore mop or a soft nylon brush, lightly sprayed with degreaser, through the striker channel in the receiver. Clean the striker assembly itself with gun degreaser.",
+   "box": "none",
+   "quote": "1. Clean inside of striker channel located in Receiver (#27) with a 20ga bore mop or soft nylon brush lightly sprayed with degreaser/cleaner. 2. Clean Striker Assembly with gun degreaser/cleaner.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly Procedure, Step #3, p.42"
+  },
+  {
+   "phase": "Clean",
+   "title": "Trigger and sear degreased",
+   "action": "Spray degreaser on the trigger and sear parts on the underside of the receiver, and clean inside the receiver in front of the barrel catch lever.",
+   "box": "none",
+   "quote": "3. Spray degreaser/cleaner on trigger and sear components on bottom of Receiver (#27).",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly Procedure, Step #3, p.42"
+  },
+  {
+   "phase": "Clean",
+   "title": "One drop of oil at each pivot, no more",
+   "action": "Lightly oil the striker assembly and the inside of the receiver. On the trigger, sear, striker stop and mechanism pins, put one drop of good gun oil on each side of each pivot point. Traditions warns against over-lubricating here.",
+   "box": "limit",
+   "quote": "7. Lightly oil Trigger (#17), Sear (#15) and Striker Stop (#13) and Mechanism Pins (#22). This is best accomplished by applying one drop of quality gun oil to each side of the referenced parts pivot points. (Caution-Do not over lubricate)",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly Procedure, Step #3, p.43"
+  },
+  {
+   "phase": "Clean",
+   "title": "Striker assembly and retention pin back in",
+   "action": "Press the barrel catch lever and slide the lubricated striker assembly back into the striker channel. Fit the striker retention pin from left to right, then hook the retention spring back onto the pin, sitting fully in the pin's groove.",
+   "box": "limit",
+   "prose": "The quote keeps the maker's 'grove' as printed.",
+   "quote": "1. Press barrel catch lever (#25) and reinstall lubricated striker assembly into striker channel in Receiver (#27). 2. Reinstall Striker Retention Pin (#32) from left to right. 3. Reconnect Striker Retention Spring (#11) to Striker Retention Pin (#32)(Caution- place spring fully in grove of pin)",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly Procedure, Step #4, p.43"
+  },
+  {
+   "phase": "Clean",
+   "title": "Safety button back in, right to left only",
+   "action": "With the butt stock, stock bolt and butt pad back on, put the safety button back in from the right side, the opposite direction to the way it came out.",
+   "box": "none",
+   "quote": "7. Reinstall Safety Button (#10) from right to left.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly Procedure, Step #4, p.43",
+   "warn": "CAUTION: Only install the Safety Button from right to left side. Installing the Safety Button from the other direction can damage your Safety Button, Spring and/ or Butt Stock.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stuck breech plug: tighten slightly, then rock it",
+   "action": "If the breech plug will not turn, fit the breech plug wrench over it and try to tighten it a little first, then rock it back and forth to break up the fouling in the threads. If that fails, take the barrel off the receiver, pour hot water into the barrel, let it soak for about half an hour, and remove the plug with the barrel held in a padded vise. Mind the hot water.",
+   "box": "none",
+   "quote": "1. With the breech plug wrench fitted over the breech plug, actually try to tighten the plug and then rock it back and forth to loosen up the fouling.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Additional Information on Breech Plugs, Tips for Stuck Breech Plugs, p.45"
+  },
+  {
+   "phase": "Strip",
+   "title": "Still stuck: call Traditions",
+   "action": "If the plug still will not come out after soaking, stop and contact Traditions. Do not keep adding force.",
+   "box": "limit",
+   "quote": "3. If you still cannot remove plug contact the Traditions™ Customer Service Department.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Additional Information on Breech Plugs, Tips for Stuck Breech Plugs, p.45"
+  },
+  {
+   "phase": "Clean",
+   "title": "Store cool and dry, not in a gun case",
+   "action": "Store the rifle somewhere cool, dry and secured, and not in a gun case, which holds condensation against the steel. During long storage, check the outside and the bore now and then for pitting or rust.",
+   "box": "none",
+   "quote": "NOTE: Store your rifle in a cool, dry, secured area. Storage in a gun case should be avoided as it may hasten condensation and corrosion.",
+   "cite": "Safety & Instruction Manual — no edition code printed; sha256 d057e309c4eecdc4 — Detailed Cleaning & Disassembly Procedure, p.44"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARREL & BORE",
+   "tasks": [
+    "EZ Clean on the barrel brush and patches, inside and outside of the barrel",
+    "Dry the bore with several dry patches",
+    "Wonderlube on the barrel and receiver, inside and out"
+   ]
+  },
+  {
+   "name": "BREECH PLUG",
+   "tasks": [
+    "Clean the threads on the plug and inside the barrel",
+    "Accelerator Breech Plug: replace a worn or damaged o-ring",
+    "Clean the plug's fire channel before it goes back in",
+    "Grease the plug threads with Traditions breech plug grease"
+   ]
+  },
+  {
+   "name": "RECEIVER",
+   "tasks": [
+    "Light oil inside the receiver",
+    "Light grease on the frame pivot pin and the barrel catch surface",
+    "Light oil on all metal, inside and out"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     8,
+     9
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     13
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "Check the breech plug's fire channel is clean, then thread the plug into the barrel by hand, clockwise, until it makes contact and seats firmly. If it does not thread smoothly or seat fully, take it out and check the o-ring and both sets of threads.",
+  "Put the barrel back onto the receiver and lock it into place.",
+  "Fit the forend back onto the barreled action and put the forend stock screw in, tightening it with the 4mm Allen wrench.",
+  "Put the ramrod back in its thimbles.",
+  "Run the function test before counting the rifle ready."
+ ],
+ "fncheck": "Traditions asks for its function test after any disassembly, with the rifle uncharged and unprimed. Open the action with the barrel catch lever and close it until you hear the metallic click of it locking. Push the striker button forward until it clicks into the cocked position with the red line showing, then de-cock it with the de-cocking button; cock it again and de-cock it with the barrel catch lever. Each time the striker button must return to its at-rest position; if it does not, the rifle is not working properly. Cock it, engage the safety (no red ring) and check the trigger will not fire the striker; then take the safety off (red ring showing), pull the trigger and hear the striker fire."
+}

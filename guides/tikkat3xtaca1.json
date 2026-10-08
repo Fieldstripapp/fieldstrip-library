@@ -1,0 +1,209 @@
+{
+ "row": "tikkat3xtaca1",
+ "make": "Tikka",
+ "model": "T3x TAC A1",
+ "sourcedFrom": "Tikka T1x / T3x Instruction Manual — v5.3 (2023 — from the edition line \"v5.3 / 2023 Printed in Finland\", p.1)",
+ "sourceSha256": "23071369c091412ecf0586b3ce2ae5b0f8b2472a4f49e46de6dd2e5fba3be285",
+ "cleanIntro": "This guide follows Tikka's T1x/T3x instruction manual; check your variant against it. Sako prints one book for every commercial T3x, T3 and T1x, and it never spells this rifle \"TAC A1\" — wherever it gives a procedure of its own for this rifle, it calls it the \"T3x TACT A1\". Those TACT A1 procedures are used here; everything else is the book's general T3x material, stated as generally as the book states it.\n\nThe field strip is short: magazine out, bolt out, done. DEEP CLEAN carries the T3x bolt teardown, the TACT A1's own way of taking the barreled receiver out of the lower receiver, and the magazine. ⚠ One caution is this rifle's alone: on a fixed stock, the cleaning rod goes through the cheek piece raised to its highest position — never outside it.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, finger off the trigger",
+   "action": "This guide follows Tikka's T1x/T3x instruction manual; check your variant against it. Point the barrel in a safe direction and keep your finger off the trigger for everything that follows. On this rifle that matters more than usual for the next step, because to get the bolt out you first have to take the safety OFF.",
+   "box": "none",
+   "aside": "Never assume that the gun is unloaded.",
+   "quote": "Keep your finger AWAY FROM THE TRIGGER and point the barrel in a SAFE direction.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Safety pushed forward — red dot showing",
+   "action": "Push the safety catch forward until the red dot shows. It feels backwards if you are used to working on a gun with the safety on, but the T3x safety locks the bolt closed when it is ON, so the bolt will not lift until it is forward. The red dot means the rifle can fire, which is why the muzzle and your finger stay where the last step put them.",
+   "box": "limit",
+   "caution": "When the safety button shows the red dot, the SAFETY IS DISENGAGED and the rifle is ready to fire. When the red dot is not visible, the SAFETY IS ENGAGED.",
+   "quote": "Disengage the manual safety by moving the safety catch forwards (red warning dot shown).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out first",
+   "action": "Press the magazine release button and take the magazine out of the rifle. Do it before you touch the bolt: with the magazine gone, nothing can be fed into the chamber when the bolt moves. Set the magazine aside where it cannot be mistaken for an empty one.",
+   "box": "none",
+   "quote": "Remove the magazine by pushing the magazine release button (fig. 8).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt lifted, bolt stop pressed, bolt all the way out",
+   "action": "Lift the bolt handle, press the bolt stop button on the side of the receiver, and pull the bolt completely out of the rifle. The bolt does not just come back — it comes out, which leaves the receiver open to look through. Lay it on the bench.",
+   "box": "none",
+   "caution": "The pin in the bolt stop is preloaded by the spring. However, it may come out of the receiver, if the components are handled carelessly.",
+   "quote": "Remove the bolt by lifting the bolt handle, pressing the bolt stop button and completely pulling the bolt out of the receiver (fig. 9).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber checked empty",
+   "action": "Look into the cartridge chamber and confirm nothing is in it. If there is a round there, stop and follow the book's unloading procedure rather than carrying on. Only an empty chamber, seen with your own eyes, counts.",
+   "box": "none",
+   "quote": "Check the cartridge chamber to be certain it is empty.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bore sighted through from the rear",
+   "action": "With the bolt out, look down the barrel from the back of the receiver and make sure nothing is lodged in it, however small. It costs nothing while the action is already open. Anything you find is a gunsmith's job, not something to push out at the bench.",
+   "box": "none",
+   "quote": "Look through the barrel from the rear and make sure there are no obstructions, even minor ones.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — OBSTRUCTION CHECK, p.9",
+   "warn": "If an obstruction in the barrel is detected, a competent gunsmith must remove the obstruction. The rifle should be inspected again before it can be fired.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — bolt and magazine out",
+   "action": "Rifle unloaded, bolt out and magazine out is the whole field strip, and it is the state the book's routine cleaning starts from. ⚠ Before a cleaning rod goes near the bore, read the caution below — it is written for this rifle alone. The bolt teardown, the barreled receiver out of the lower receiver, and the magazine strip are in DEEP CLEAN.",
+   "box": "none",
+   "prose": "The quote is step 1 of the book's routine cleaning procedure and carries no closing full stop in the original.",
+   "caution": "Cleaning the barrel of a fixed stock Tikka T3x TACT A1 with a cleaning rod requires the cheek piece to be adjusted to the highest position and the cleaning rod used through the cheek piece. Using the cleaning rod outside the cheek piece can cause damage to the rifle.",
+   "quote": "Ensure that the rifle is unloaded and remove the bolt and magazine",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — ROUTINE CLEANING AND MAINTENANCE, step 1, p.18",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Bolt teardown is optional — decide whether you need it",
+   "action": "Sako's position is that the bolt normally stays together. Take it apart if you think oil has got inside it, and especially before cold or harsh weather, because oil in a bolt is what makes it sluggish. If neither applies, clean the bolt from the outside and skip to the receiver steps.",
+   "box": "none",
+   "quote": "Generally, disassembling the bolt is not necessary. If you have reason to believe that oil may have penetrated the bolt, you should clean it in order to retain its smooth operation.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — DISASSEMBLY AND ASSEMBLY OF THE RIFLE COMPONENTS, BOLT, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt shroud turned CLOCKWISE and pulled off",
+   "action": "Turn the bolt shroud clockwise until it stops, then pull it straight off the back of the bolt; on a left-handed rifle it turns counterclockwise. Use the T3/T3x column of the bolt pages — the T1x column beside it is a different rifle with a pinned shroud. Work over a table so nothing small drops to the floor.",
+   "box": "none",
+   "aside": "It is advisable to carry out the disassembly operations over a table to catch components should they drop.",
+   "quote": "Remove the bolt shroud (A, fig. 21) by turning it clockwise (Lefthanded model: counterclockwise) until it stops and pull it away from the bolt.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BOLT, Tikka T3/T3x, step 2, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Screwdriver wedged into the gap — and left there",
+   "action": "Put the tip of a screwdriver about 3 mm wide into the gap between the cocking piece and the bolt handle retainer bushing. From now until the shroud goes back on, that screwdriver is what holds the firing pin assembly under control. Take it out early and the assembly comes apart in your hands.",
+   "box": "limit",
+   "quote": "Insert the tip of a screwdriver (approx. 3 mm wide) into the gap between the cocking piece and the bolt handle retainer bushing (fig. 22).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BOLT, Tikka T3/T3x, step 3, p.14",
+   "warn": "IMPORTANT! Do not remove the screwdriver tip from this location until you are ready to reassemble the bolt shroud.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin assembly disengaged and pushed forward",
+   "action": "Turn the screwdriver counterclockwise to disengage the firing pin assembly (clockwise on a left-handed rifle), then push the assembly forward until the locking cam of the handle retainer bushing touches the rear face of the bolt. That contact is the stop. Do not force it past.",
+   "box": "none",
+   "quote": "Disengage the firing pin assembly by turning the screwdriver counterclockwise (Left-handed model: clockwise).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BOLT, Tikka T3/T3x, step 4, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt handle off the bolt body",
+   "action": "Release the bolt handle from the bolt body and draw it off. If it is stiff, the book's remedy is a plastic mallet tapped at the receiver end — a plastic mallet, not a steel hammer. Keep the handle with the shroud so the bolt's parts stay together.",
+   "box": "none",
+   "quote": "Release the bolt handle from the bolt body. If the bolt handle feels stiff and does not immediately pull out, you can tap it with a plastic mallet at the receiver end (G, fig. 22).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BOLT, Tikka T3/T3x, step 5, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin assembly out — and the bolt goes no further",
+   "action": "Take the firing pin assembly out of the bolt. That is the end of the published bolt teardown: the book says nothing further needs taking apart for cleaning, and it gives no deeper procedure. Clean what you have; do not go looking for more.",
+   "box": "limit",
+   "quote": "Remove the firing pin assembly from the bolt. The bolt should not require any further disassembly for cleaning purposes.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BOLT, Tikka T3/T3x, step 6, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Fore-end off — screws loosened alternately",
+   "action": "Only needed if you are taking the barreled receiver out. The book's rule first: the lower receiver must be fastened to the upper when the fore-end comes off or goes back on. With a good-quality 3 mm Allen key, loosen the front and rear fore-end screws a little at a time, alternately; then take the front screw about 1.5–2 turns, take the rear screw right out, and slide the fore-end forward off the receiver.",
+   "box": "none",
+   "aside": "Loosen the front screw (A) approx. 1,5-2 turns. Loosen the rear screw (B) completely and pull it out.",
+   "quote": "Lower receiver must be fastened to the upper receiver before removing or re-attaching the fore-end.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — DISASSEMBLY AND ASSEMBLY OF THE RIFLE COMPONENTS, FORE-END (IF EQUIPPED), p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Fore-end fastener out, then the two receiver screws",
+   "action": "Remove the two attachment screws and lift the fore-end fastener out of the upper receiver. Then take out the two receiver fastening screws with a 5 mm Allen key. This is the TACT A1's own procedure — the Torx-screw and trigger-guard method printed above it is for every T3x except this one.",
+   "box": "none",
+   "aside": "Remove the two receiver fastening screws (D) using a 5 mm Allen key.",
+   "quote": "Remove the attachment screws (A) and (B) and then remove fore-end fastener (C) out of the upper receiver.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BARRELED RECEIVER, T3x TACT A1, step 2, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barreled receiver lifted out of the lower receiver",
+   "action": "Lift the barreled receiver carefully straight up out of the lower receiver. Watch for the metallic recoil block — it has to be back in its place in the lower receiver before the rifle goes together again. If the receiver carries a Picatinny rail, it stays on: the book says the rail is permanently fixed and is a gunsmith's job to remove.",
+   "box": "none",
+   "quote": "Carefully pull the barreled receiver upwards out of the lower receiver.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — BARRELED RECEIVER, T3x TACT A1, step 4, p.13",
+   "warn": "The rail is permanently fixed and should not be removed by the user. If you intend to remove the Picatinny rail, turn to qualified gunsmith.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine stripped, if it is fouled",
+   "action": "Press the rear of the follower down with a screwdriver so its front end releases, then draw the follower and spring out of the magazine box. Leave the floorplate attached. Wash the box, spring and follower, oil them lightly, and refit them with the spring sitting as the book's figure shows.",
+   "box": "limit",
+   "aside": "Make sure that the magazine spring (1, fig. 25) is positioned correctly (as illustrated in figure 25).",
+   "quote": "Pull out the follower and spring from the magazine box (fig. 25). Do not detach the magazine floorplate.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — MAGAZINE, step 2, p.14"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt greased at the three points Sako names",
+   "action": "With the bolt stripped and cleaned, grease goes on three places only: the locking lug surfaces, the cocking cam and the head of the cocking piece. Lightly — these are bearing surfaces. Then reassemble the bolt and check the extractor and ejector work.",
+   "box": "none",
+   "aside": "Assemble the bolt and check the function of different parts (incl. extractors and ejectors).",
+   "quote": "Lightly grease the locking lug surfaces (A, fig. 4), cocking cam (B) and head of the cocking piece (C).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — PERIODIC MAINTENANCE, step 5, p.19"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "⛔ Fixed stock: raise the cheek piece to its highest position and run the cleaning rod through it — never outside it",
+    "Brush the bore with a bronze brush soaked in bore solvent, using a rod guide, about 10-15 passes",
+    "Push clean solvent-damp felt pellets through in the bullet's direction until they come out clean, a fresh pellet each pass",
+    "Brush the chamber with a nylon brush or chamber pellet, leave a thin coat of oil, and wipe it dry before shooting"
+   ]
+  },
+  {
+   "name": "RECEIVER & BOLT",
+   "tasks": [
+    "Clear firing residue from the inside of the receiver with a pellet or brush",
+    "Scrub the bolt with a small solvent-wetted brush, then wipe every touching surface with light rust preventive oil",
+    "Lightly grease the locking lugs, the cocking cam and the head of the cocking piece"
+   ]
+  },
+  {
+   "name": "MAGAZINE, STOCK & MUZZLE BRAKE",
+   "tasks": [
+    "Wash the magazine box, spring and follower in warm soapy water or solvent, then oil lightly",
+    "Clean the muzzle brake and other accessories and lubricate them if needed",
+    "Wipe the stock dry and check the tightness of the receiver screws"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Push the firing pin assembly back into the bolt with the handle retainer bushing positioned so the bolt handle eases back in without being forced, and refit the bolt handle.",
+  "Turn the screwdriver clockwise as far as it goes to re-engage the firing pin assembly and confirm the retainer bushing has locked the handle.",
+  "Seat the conical spring inside the bolt shroud so its end does not sit on the firing pin groove area, then fit shroud and spring to the bolt body and turn counterclockwise until the cocking piece head stops in the notch before the cocking slope.",
+  "If the barreled receiver was out: put the metallic recoil block back in the lower receiver, set the barreled receiver in centred to the stock, pull it rearward to take the slack out of the recoil lug, and tighten the receiver screws to 7 Nm (62 in-lb). Assemble the lower receiver before fitting the fore-end fastener.",
+  "Slide the fore-end over the barrel onto its fastener with no gap between the receiver and fore-end top rails, put a little gun oil on the screw threads, and tighten the two screws alternately.",
+  "Insert the bolt into the receiver and refit the magazine last."
+ ],
+ "fncheck": "With the rifle confirmed empty, close the bolt and check it locks down cleanly and that the cocking indicator shows cocked. Pull the safety catch back to ON and confirm it locks the bolt closed and the trigger; push it forward and confirm the red dot appears and the bolt lifts. Then, muzzle in a safe direction, decock the firing pin by pulling the trigger with the bolt closed. Finally, put an empty magazine in and out to confirm the release holds and drops it."
+}
