@@ -1,0 +1,270 @@
+{
+ "row": "cmmgbansheemk10",
+ "make": "CMMG",
+ "model": "Banshee Mk10",
+ "sourcedFrom": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code (UNKNOWN — the text layer carries no revision or date code)",
+ "sourceSha256": "80a469024e50bf44f862df2b47a911666695f5759a3a1c5d5173e9c062c430ec",
+ "cleanIntro": "This guide follows CMMG's instruction manual for its radial delayed blowback rifles (MkG, MkGs, Mk57 and Mk10); check your variant against it. The Mk10 is a 10mm AR-pattern rifle, and CMMG's book describes its action as radial delayed blowback. Its field strip is the familiar AR one: two receiver pins, the buffer and action spring out of the lower, the bolt carrier group and charging handle out of the upper. CMMG's book then carries on into the bolt itself, down to the extractor.\n\nThe Mk10 ships with two buffers, an H3 installed at the factory and a carbine buffer in the box, and CMMG's book picks between them by the power factor of your ammunition. Whichever buffer you run goes back into the lower the way it came out.\n\nIf you shoot corrosive ammunition, CMMG's advice is to clean the bolt carrier group and the bore with diluted ammonia to neutralise the corrosive salts, follow with a hot-water rinse, then dry and lubricate. The book's stopping point is the extractor: it says not to disassemble the rifle any further than it describes, and to send anything further to CMMG or a qualified gunsmith.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Selector to SAFE — it only goes there with the hammer cocked",
+   "action": "This guide follows CMMG's manual for its radial delayed blowback rifles; check your variant against it. Keep the muzzle in a safe direction for the whole procedure, then put the selector on SAFE. SAFE can only be selected with the hammer cocked, so if the selector will not rotate, the hammer is down. Do not force it.",
+   "box": "limit",
+   "prose": "A selector that will not go to SAFE is telling you something about the hammer, not about the selector.",
+   "quote": "Place your selector on “SAFE”. You cannot select “SAFE” unless the hammer is cocked.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Unloading and Clearing Your Rifle, printed p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Press the magazine catch button and pull the magazine out of the well.",
+   "box": "none",
+   "prose": "The magazine comes out before the charging handle moves. Working the action with a loaded magazine in just chambers the next round.",
+   "quote": "Depress the magazine catch button and remove the magazine.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Unloading and Clearing Your Rifle, printed p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Charging handle fully back — let the round fall",
+   "action": "Pull the charging handle back until it stops to extract and eject any chambered cartridge. Let the ejected round fall to the ground rather than trying to catch it at the port.",
+   "box": "none",
+   "prose": "Hands near the ejection port are hands in the path of the round and the bolt.",
+   "quote": "Eject the chambered cartridge by retracting the charging handle until it stops. Let the ejected cartridge fall to the ground.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Unloading and Clearing Your Rifle, printed p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Hold it back and LOOK — chamber and receiver",
+   "action": "With the charging handle held to the rear, look into the chamber and the receiver and confirm there is no cartridge anywhere in the action. Only once you have seen it empty, let the charging handle go.",
+   "box": "none",
+   "prose": "Ejecting a round is not the same as confirming the chamber is empty. The look is the check.",
+   "quote": "While holding the charging handle to the rear inspect the chamber and receiver to ensure you have removed all cartridges from the action.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Unloading and Clearing Your Rifle, printed p.1"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt and carrier forward into battery",
+   "action": "Confirm again that the rifle is unloaded, then let the bolt and carrier go forward into battery. The receivers are separated with the bolt closed.",
+   "box": "none",
+   "prose": "Every disassembly step that follows assumes the clearing above was done.",
+   "quote": "Verify your rifle is unloaded and return the bolt and carrier into battery.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Both pins part-way out, pushed from the LEFT",
+   "action": "From the left side, push the rear takedown pin and the front pivot pin part-way across, just far enough that the detents no longer hold them closed. A delrin takedown-pin punch helps if they are stiff.",
+   "box": "none",
+   "prose": "Both pins are captive: they travel to the right and stop on a detent, they do not come out of the receiver.",
+   "quote": "Partially push the rear take down pin and the front pivot pin from the left so they are not captured by the detents that retain them in the receiver in the closed position. Use a delrin take down pin punch if needed.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear takedown pin out to its open detent",
+   "action": "Pull the rear takedown pin the rest of the way out to the right side until it catches on the detent that holds it in the open position. It stays in the lower receiver.",
+   "box": "none",
+   "prose": "Stop at the detent. Pulled past it, the pin is out of the receiver.",
+   "quote": "Pull the rear take down pin the rest of the way to the right side of the lower receiver until it engages the detent that holds the pin in the open position.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pivot the lower away, then open the front pin",
+   "action": "Pivot the lower receiver away from the upper on the front pin. Then pull the front pivot pin the rest of the way to the right until it catches its open detent, and the upper and lower come apart. Set the upper receiver group aside.",
+   "box": "none",
+   "prose": "Same rule as the rear pin: it stops on its detent, it does not leave the receiver.",
+   "quote": "Pull the front pivot pin the rest of the way to the right side of lower receiver until it engages the detent that holds the pin in the open position.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Buffer and action spring — keep a hand on the buffer face",
+   "action": "Press the buffer detent and draw the buffer and action spring out of the receiver extension. Keep pressure on the buffer face the whole way: the action spring is pushing it out. If the hammer is in the way, hold it down.",
+   "box": "none",
+   "prose": "Let go of the buffer with the detent pressed and the spring launches it. Note which buffer came out: the Mk10 can carry either of its two.",
+   "caution": "You may need to hold the hammer down to allow the buffer and spring to be removed from receiver extension.",
+   "quote": "Remove the buffer and action spring from the lower receiver by depressing the buffer detent. Maintain tension on the buffer face while removing; it is under pressure from the action spring.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier group out of the upper",
+   "action": "Pick the upper back up, pull the charging handle to the rear and slide the bolt and carrier assembly out of the back of the upper receiver. Set it aside.",
+   "box": "none",
+   "prose": "The charging handle draws the carrier back; the carrier comes out first, then the handle.",
+   "quote": "Pull the charging handle to rear and remove bolt and carrier assembly.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle back to the key way, then lift out",
+   "action": "Pull the charging handle further back until it lines up with the key way in the upper receiver, then lift it out.",
+   "box": "none",
+   "prose": "It only comes out at the key way. Forcing it anywhere else bends the handle or marks the receiver.",
+   "quote": "Remove the charging handle by pulling it backwards until it is aligned with the key way. The charging handle may now be lifted from the upper receiver.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench: the upper receiver, the charging handle, the bolt carrier group, the lower receiver, and the buffer with its action spring. That is enough to clean the bore, chamber and receivers. CMMG's book goes on to strip the bolt carrier group itself — firing pin, cam pin, bolt alignment spring, bolt and extractor — and that is in DEEP CLEAN.",
+   "box": "none",
+   "prose": "Nothing further comes off the receivers: the book's disassembly from here is all inside the bolt carrier group.",
+   "quote": "Set the upper receiver and the charging handle aside and pick the bolt carrier assembly back up.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.10",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin out — from the LEFT side",
+   "action": "On the left side of the bolt carrier, pull out the firing pin retaining pin. It has a loop at its end; a small screwdriver or punch hooked through the loop gives you something to pull on. If it binds, press the firing pin in slightly to take the bolt alignment spring's tension off it.",
+   "box": "none",
+   "prose": "The bolt alignment spring loads the retaining pin. Taking that load off is what lets it slide out.",
+   "quote": "Remove the firing pin retaining pin from the left side of the bolt carrier group. You may use a small screwdriver or punch to hook the loop end of the firing pin retaining pin.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt face UP — firing pin out the rear",
+   "action": "Tilt the carrier so the bolt face points up, and take the firing pin out of the rear of the bolt carrier.",
+   "box": "none",
+   "prose": "Gravity does this. If it will not come, the retaining pin is still in.",
+   "quote": "Tilt bolt face up and remove firing pin from the rear of the bolt carrier.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt pushed in until it rotates and stops",
+   "action": "Push the bolt back into the carrier until it rotates and comes to a stop — the in-battery position. That puts the cam pin where it can come out.",
+   "box": "none",
+   "prose": "The cam pin only lifts out in this position.",
+   "quote": "Push bolt into the carrier until it rotates and comes to a stop (in battery position).",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin out, then the bolt out the front",
+   "action": "Lift the cam pin out of the bolt and carrier, then pull the bolt forward out of the front of the carrier. Set the carrier aside.",
+   "box": "none",
+   "prose": "Keep the cam pin with the bolt. It is small, and the bolt cannot go back without it.",
+   "quote": "Lift cam pin out from bolt and carrier.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt alignment spring off the bolt — gently",
+   "action": "Ease the bolt alignment spring off the tail of the bolt and set it aside.",
+   "box": "none",
+   "prose": "It goes back over the tail and must sit flush with the base of the bolt, so do not stretch it getting it off.",
+   "quote": "Gently remove the bolt alignment spring from the bolt.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor pin out — press the extractor to ease it",
+   "action": "Drift the extractor pin out of the bolt with a punch. A little pressure on the extractor takes the spring load off the pin and lets it come out easily.",
+   "box": "none",
+   "prose": "Fighting the pin against spring pressure is how it gets bent.",
+   "quote": "With a punch, remove the extractor pin from the bolt assembly. Slight pressure applied to the extractor will ease removal of the extractor pin.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Extractor out — spring and rubber buffer STAY in it",
+   "action": "Lift the extractor off the bolt. Its spring and rubber buffer should come with it, captured in the extractor. Leave them there: CMMG says not to remove the spring or rubber buffer from the extractor.",
+   "box": "limit",
+   "prose": "If the spring does come loose, the reassembly section says to seat its large end in the extractor.",
+   "quote": "Remove the extractor. The extractor spring and rubber buffer should be captured in the extractor; do not remove the spring or rubber buffer from the extractor.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ That is CMMG's stopping point",
+   "action": "The rifle is now as far apart as CMMG's book takes it. Do not disassemble it further. Any work that needs more disassembly than this goes to CMMG or a qualified gunsmith.",
+   "box": "limit",
+   "prose": "The lower is cleaned assembled, with a brush and swabs, not taken apart.",
+   "quote": "Do not disassemble your firearm any further than described. Any maintenance that requires further disassembly should be performed by CMMG or a qualified gunsmith.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Disassembly Instructions, printed p.11"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Ejector: punch it in until it moves freely",
+   "action": "With a punch, press the ejector in repeatedly to work brass shavings out of the ejector hole, until the ejector moves freely. Do not let the punch slip and gouge the bolt.",
+   "box": "limit",
+   "prose": "A sticky ejector shows up as weak or erratic ejection long before you see the brass in the hole.",
+   "quote": "Use a punch to press the ejector in repeatedly to remove accumulated brass shavings from the ejector hole and assure the ejector moves freely. Be careful not to damage bolt with punch.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Bolt and Carrier Maintenance, printed p.14"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Inspect the bolt, the pins and the firing pin",
+   "action": "Check the bolt for cracks or fractures, especially around the cam pin hole. Check the firing pin retaining pin for bends, breaks or dents; the cam pin for cracks or chips; the firing pin for bends, cracks, or a sharp, chipped or blunted tip.",
+   "box": "none",
+   "prose": "The cam pin hole is where a bolt cracks first. Look there before anywhere else.",
+   "quote": "Inspect the bolt assembly for cracks or fractures, especially in the cam pin hole area.",
+   "cite": "CMMG Radial Delayed Blowback Models MkG/MkGs/Mk57/Mk10 — Instruction Manual — UNKNOWN — the text layer carries no revision or date code — Bolt and Carrier Maintenance, printed p.14"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "⚠ Corrosive-primed ammunition: clean the bolt carrier group and the bore with diluted ammonia to neutralise the salts, rinse with hot water, dry, then lubricate.",
+    "Cleaning fluid on the bore and chamber, the upper receiver and barrel, the locking lugs, and anywhere with powder fouling, corrosion, dirt or dust.",
+    "Chamber brush wet with fluid into the chamber and locking lugs; push and twist the rod.",
+    "Bore brush wet with fluid through the chamber and out the flash suppressor or muzzle brake several times.",
+    "Swab with fluid from the chamber out to the muzzle; let it sit on carbon, then run dry swabs through until they come out clean. Repeat brush and swab if they do not.",
+    "Lightly lubricate the bore and chamber with a lubricated swab run from the receiver to the muzzle, and lubricate the locking lugs. Do not over-lubricate."
+   ]
+  },
+  {
+   "name": "UPPER RECEIVER AND CHARGING HANDLE",
+   "tasks": [
+    "Wipe the charging handle with a patch wet with solvent, then wipe the solvent off with a dry cloth.",
+    "Inspect the upper for worn, broken or damaged parts and replace any that are.",
+    "Lightly lubricate the charging handle."
+   ]
+  },
+  {
+   "name": "BOLT AND CARRIER",
+   "tasks": [
+    "Swab every part and outer surface of the bolt carrier assembly with cleaning fluid.",
+    "Brush carbon and dirt off the locking lugs with fluid.",
+    "Clean the bolt and under the lip of the extractor.",
+    "Lubricate the carrier, bolt, cam pin, firing pin and firing pin retaining pin — inside and outside the carrier and around its cam pin area.",
+    "Flush the ejector with lubricant and cycle it until the ejector spring is well lubricated."
+   ]
+  },
+  {
+   "name": "LOWER RECEIVER, BUFFER AND ACTION SPRING",
+   "tasks": [
+    "Brush or swab dirt and debris out of the trigger group with cleaning fluid.",
+    "Clean powder fouling, corrosion and dirt out of the lower receiver.",
+    "Clean the buffer, the action spring and the inside of the lower receiver.",
+    "Examine the lower for worn, broken or damaged parts and replace any that are.",
+    "Lightly lubricate the lower receiver and its internal parts.",
+    "Do not take the trigger group apart — the lower is cleaned assembled."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Extractor back on the bolt: push the extractor assembly down, line its pivot hole up with the hole in the bolt, and insert the extractor pin. If the spring came loose, seat its large end in the extractor first.",
+  "Slide the bolt alignment spring over the tail of the bolt. It must sit flush with the base of the bolt and stay in place.",
+  "Slide the bolt into the carrier with the extractor claw on the carrier's RIGHT side.",
+  "Line the bolt's cam pin hole up with the carrier's cam pin slot and put the cam pin in.",
+  "Insert the firing pin into the rear of the carrier and seat it. If it will not seat, rotate the cam pin until the line on its head lines up with the firing pin.",
+  "Press the firing pin fully in and fit the firing pin retaining pin. Check: the firing pin must not fall out of the carrier and cannot be removed.",
+  "Fit the charging handle into the upper and leave it halfway out.",
+  "Install the bolt carrier group with the bolt EXTENDED from the carrier, so the cam pin does not stop it going in. Push the charging handle and carrier home together.",
+  "Refit the buffer and action spring into the lower.",
+  "⛔ Hammer COCKED and selector on SAFE before the upper goes back on the lower.",
+  "With the carrier in battery, close the ejection port cover.",
+  "Line up the pivot pin holes and push the front pivot pin in; pivot the receivers together and push the rear takedown pin in.",
+  "Run the function check before the rifle is loaded."
+ ],
+ "fncheck": "Magazine OUT and chamber EMPTY first. Pull the charging handle to the rear and release it. Selector on SAFE, squeeze the trigger: the hammer must NOT fall. Selector on FIRE, squeeze: the hammer must fall. Hold the trigger back, cycle the action, then release the trigger — you should hear a click as the disconnector hands the hammer to the trigger. Squeeze again: the hammer must fall. If it fails any of these, check your assembly; if it is assembled correctly and still fails, contact CMMG or a qualified gunsmith."
+}

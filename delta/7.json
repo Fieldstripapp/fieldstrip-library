@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 7 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 7,
- "to": 28,
+ "to": 29,
  "rows": [
   {
    "id": "radianmodel1",
@@ -14841,8 +14841,9 @@
    "chamberings": [
     "10mm"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "cmmgbansheemk10",
+   "guideSha256": "74b2d062221fea30fb09f4fe557286e0be4afd969e877aad37921c026b1b6d56"
   },
   {
    "id": "cmmgdissentmk4",
@@ -15076,8 +15077,9 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "smithwessonpccompetitorhd",
+   "guideSha256": "dd797974d7d63e372cef48a3475a1518523d1dd6cb020445e281091a622045f8"
   },
   {
    "id": "smithwessonspecvmetalhd",
@@ -15091,8 +15093,9 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "smithwessonspecvmetalhd",
+   "guideSha256": "c9058c42ade2a275be4b14059e2c4e5e3c12af414558f97901fe4b5252c7efeb"
   },
   {
    "id": "smithwessonspecvimetalcompact",
@@ -15106,8 +15109,9 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "smithwessonspecvimetalcompact",
+   "guideSha256": "d27b5a1857baff5c2e47d455c7204f1e51419481d247b733585e691a0da704f8"
   },
   {
    "id": "springfieldarmorym1asupermatch",
@@ -15417,8 +15421,9 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": true,
+   "guideId": "waltherppqq5match",
+   "guideSha256": "2de05a17c90e4f3a726b2201f9b654e23a7f1398fec95cf55cad750f2e8e1047"
   },
   {
    "id": "waltherq5matchsfpro",
@@ -15447,8 +15452,9 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": true,
+   "guideId": "waltherq5matchsteelframe",
+   "guideSha256": "d4af35d7dc4a8adb272382b1a64ee4584fc5b9bf04977aa7a81cd61406678185"
   },
   {
    "id": "wilsoncombatexperiordoublestack",
@@ -15554,8 +15560,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "benelliethossport",
+   "guideSha256": "461275d4729dcf742d2e02923f6c9690828e0a5f624c568e54d2ebbf12287aca"
   },
   {
    "id": "benellisupersport",
@@ -15770,8 +15777,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "blaserf3supersport",
+   "guideSha256": "a63d7e1f83f387e66857de080250c8f00df21a2cdf666187c5fd31faddc229c4"
   },
   {
    "id": "blaserf3supertrap",
@@ -15801,8 +15809,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "blaserf3vantage",
+   "guideSha256": "1d245465d0be10c1d2916075044c2b2e37566ef8d4f1cd8904f73356a6021db5"
   },
   {
    "id": "browningbt99",
@@ -16254,8 +16263,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "stoegerm3k3gun",
+   "guideSha256": "e6bc6cd01fc5eec84a60ef92db29be98cad97683bb3d65acb30e465bfd9cbb3a"
   },
   {
    "id": "barrettfieldcraft",
@@ -17635,8 +17645,9 @@
    "chamberings": [
     "5.56 / .223"
    ],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": true,
+   "guideId": "foldar556",
+   "guideSha256": "849b1f4d21dd26133a8a9345d50f81c0602935b89492036add89fdb626020e95"
   },
   {
    "id": "ibiprecisiondeuce20",
@@ -17836,8 +17847,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "fabarmelosn2rssporting",
+   "guideSha256": "0bd4ae672a922c4bf4ec1698e1ce4a4359624c37a9a492005f7da1f26321f0d3"
   },
   {
    "id": "fabarmelosn2rstrap",
@@ -17851,8 +17863,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "fabarmelosn2rstrap",
+   "guideSha256": "f467314b0689aa357334b89edc2cf495278cf3b20bd901f3e48dff4b07f8ac72"
   },
   {
    "id": "fabarml4ssporting",
@@ -17957,8 +17970,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "rizzinibr110sporterips",
+   "guideSha256": "fc9c6fc0aabf2a8b58923ee0a3d7702079877b48d96532c0b0455247d3ea5b3a"
   },
   {
    "id": "rizzinibr110sporterx",
@@ -17972,8 +17986,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "rizzinibr110sporterx",
+   "guideSha256": "5aea69833b621352291fd5019cde18bf11d3adbf56012e9a19c1ac4f458d6cdb"
   },
   {
    "id": "syrenelosn2elevate",
@@ -17987,8 +18002,9 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "syrenelosn2elevate",
+   "guideSha256": "8c92dbc9c43f684719b9619b6bfa60c80e8601ef14ca5b46fd64e0be6753d3dd"
   },
   {
    "id": "syrenjuliasporting",
@@ -20053,6 +20069,75 @@
    "guide": true,
    "guideId": "czscorpion3plus",
    "guideSha256": "2673e471902e06ddcbda8efb876ba222ec5338b59f30022eda192d7584c9580f"
+  },
+  {
+   "id": "czbren2ms",
+   "maker": "CZ",
+   "model": "BREN 2Ms",
+   "chambering": "5.56/7.62x39",
+   "category": "Semi-auto rifle",
+   "family": "BREN2",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223",
+    "7.62x39"
+   ],
+   "guide": true,
+   "guideId": "czbren2ms",
+   "guideSha256": "f4e3b011e0028cd4ed5600e501b142b0df2346b8b89e8cf068887841189037d2"
+  },
+  {
+   "id": "sigsauermcxvirtus",
+   "maker": "SIG Sauer",
+   "model": "MCX VIRTUS",
+   "chambering": "5.56/.300BLK/7.62x39",
+   "category": "AR-pattern rifle",
+   "family": "MCX",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223",
+    ".300 BLK",
+    "7.62x39"
+   ],
+   "guide": true,
+   "guideId": "sigsauermcxvirtus",
+   "guideSha256": "a9ec16aeb310b0b78d6335f1b275cd4ecad22e7bd48e0a620ee4cab0b2873883"
+  },
+  {
+   "id": "sigsauermcxrattler",
+   "maker": "SIG Sauer",
+   "model": "MCX Rattler",
+   "chambering": "5.56/.300BLK",
+   "category": "AR-pattern rifle",
+   "family": "MCX",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223",
+    ".300 BLK"
+   ],
+   "guide": true,
+   "guideId": "sigsauermcxrattler",
+   "guideSha256": "6f8a12b8c7d89b01da7b808f4e78742661b5bfe70495025bb422b7a8299baaa2"
+  },
+  {
+   "id": "czbren2mspistol",
+   "maker": "CZ",
+   "model": "BREN 2Ms Pistol",
+   "chambering": "5.56/7.62x39",
+   "category": "Semi-auto rifle",
+   "family": "BREN2",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223",
+    "7.62x39"
+   ],
+   "guide": true,
+   "guideId": "czbren2mspistol",
+   "guideSha256": "04cd6fa44882666ac3637c13fae1be199e6b0f06905f6490160f02eebd9d14a8"
   }
  ],
  "removed": [

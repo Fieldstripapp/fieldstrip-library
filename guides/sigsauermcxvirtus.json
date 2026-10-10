@@ -1,0 +1,271 @@
+{
+ "row": "sigsauermcxvirtus",
+ "make": "SIG Sauer",
+ "model": "MCX VIRTUS",
+ "sourcedFrom": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 (2021)",
+ "sourceSha256": "60f3cf43a81e1a1f16d67ee499f79037af67fc9588aa5252e91f60b1206ae744",
+ "cleanIntro": "SIG's own user-level strip for the SIG MCX VIRTUS, taken from SIG's VIRTUS Operator's Manual (P/N 2402117-01 REV 02) in SIG's order and no further. The VIRTUS is not an AR despite the family resemblance: it runs a short-stroke gas piston with an op rod that leaves the bolt carrier from the LEFT side, the carriage assembly draws out of the upper as one unit by its recoil spring plate with no buffer tube behind it, and the receivers separate at BOTH pins. The field strip ends at the extractor in thirteen steps. The gas valve and piston, the handguard and the barrel are published in the same section and are treated here as the deep clean.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle in a safe direction for the whole of clearing, then the magazine out",
+   "action": "Point the muzzle in a safe direction and keep it there until the rifle is proved clear. Press the magazine catch and pull the magazine from the receiver at the same time.",
+   "box": "none",
+   "prose": "The VIRTUS has an ambidextrous magazine catch, so either side releases it. Press and pull together rather than pressing and waiting for the magazine to drop: a magazine that hangs half-seated is still feeding the rifle.",
+   "quote": "Remove the magazine from the firearm by pressing the magazine catch and simultaneously pulling the magazine from the receiver.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 3.3 Clearing the SIG MCX, step 2, p.38"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt locked back, charging handle home, selector on SAFE",
+   "action": "Press and hold the bottom of the bolt catch while pulling the charging handle briskly and fully to the rear. Let the catch hold the carrier back, push the charging handle forward until it locks, and rotate the selector to SAFE.",
+   "box": "none",
+   "prose": "The order matters: the catch is held before the handle is pulled, not chased afterwards. The charging handle goes back home and locks before anything else, because a handle left part-way open hides the chamber from you and fouls the receiver split later.",
+   "quote": "The bolt carrier assembly should remain locked to the rear. Return the charging handle to its forward and locked position. Rotate the safety selector to SAFE.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 3.3 Clearing the SIG MCX, step 3, p.39"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look in the chamber, at the bolt face and into the magazine well",
+   "action": "Inspect the chamber, the bolt face and the magazine well and confirm there is no live round and no spent case in any of them. Keep your hands clear of the bolt catch while you look.",
+   "box": "none",
+   "prose": "Three places, not one: a round can sit on the bolt face or in the well with an empty chamber. The carrier is held back against its recoil springs only by the bolt catch, so a knock on the catch while your fingers are in the port sends the carrier home on them.",
+   "quote": "Inspect the chamber, bolt face, and magazine well to ensure that there are no live rounds or spent cartridges present.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 3.3 Clearing the SIG MCX, step 4, p.40",
+   "warn": "THE BOLT CARRIER ASSEMBLY IS UNDER SPRING TENSION AND WILL SPRING FORWARD IF THE BOLT CATCH IS PRESSED, POSSIBLY CAUSING INJURY. DO NOT ALLOW THE BOLT CATCH TO BE PRESSED.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cleared and on SAFE, sling off",
+   "action": "Confirm the rifle is unloaded and cleared with the selector on SAFE. Remove the sling if one is attached.",
+   "box": "none",
+   "prose": "The sling comes off first because the VIRTUS carries attachment points on the handguard and stock, and a sling still clipped across the rifle turns the receiver swing in the next step into a hinge with a strap through it.",
+   "quote": "Unload and clear the firearm. Ensure the safety selector is on SAFE.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1 Field Strip the SIG MCX, step 1, p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Takedown pin out to its detent, receivers swung apart",
+   "action": "Push the takedown pin from left to right until the detent stops it, then swing the receivers apart. If a collapsible stock is fitted, extend it to its longest position FIRST.",
+   "box": "none",
+   "prose": "The pin is captive: pushed left to right it stops at its detent rather than falling out, so a pin that wants to keep going is being pushed from the wrong side. A collapsed stock sits in the path of the swing, and forcing the receivers past it is how the lower gets marked.",
+   "quote": "With the collapsible stock installed, you must extend the stock to its longest position prior to separating the receivers.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1 Field Strip the SIG MCX, steps 3-4, p.53"
+  },
+  {
+   "phase": "Strip",
+   "title": "Carriage assembly out by its recoil spring plate, then the charging handle",
+   "action": "Retract the charging handle until it stops. Grasp the recoil spring plate and pull the carriage assembly out of the upper receiver as one complete unit. Then remove the charging handle.",
+   "box": "none",
+   "prose": "This is where the VIRTUS parts company with an AR. There is no buffer and no buffer spring in the stock: the recoil springs and their rods ride in the upper behind the carrier, and the whole carriage comes out together. Pull on the plate, not the bolt, or the assembly comes apart inside the receiver.",
+   "quote": "Grasp the recoil spring plate and pull the carriage assembly from the upper receiver. It will come out as a complete unit.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1 Field Strip the SIG MCX, steps 5-6, pp.54-55"
+  },
+  {
+   "phase": "Strip",
+   "title": "Receivers closed again, pivot pin across, receivers separated",
+   "action": "Close the receivers back together, push the pivot pin from left to right, and separate the upper from the lower.",
+   "box": "none",
+   "prose": "Closing the receivers before pushing the second pin is not a flourish: the pivot pin only lines up with its bore when the halves are square to each other, and levering it on a hinged-open rifle burrs the bore.",
+   "quote": "Close the receivers together and push the pivot pin from the left to right and separate the receivers.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1 Field Strip the SIG MCX, step 7, p.56"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin lock off the bolt carrier",
+   "action": "Push the firing pin lock pivot pin from left to right and lift the firing pin lock off the bolt carrier.",
+   "box": "none",
+   "prose": "The firing pin lock is a part an AR does not have, and it is matched to the hammer the rifle left the factory with. Keep it with this rifle's carrier; a lock from another rifle, or one behind an aftermarket hammer, can stop the rifle firing.",
+   "caution": "FIRING PIN LOCK (FPL) IS SPECIFIC TO THE HAMMER THAT WAS INSTALLED AT THE FACTORY. INSTALLING AN AFTER-MARKET HAMMER MAY REQUIRE A DIFFERENT FPL. FAILURE TO COMPLY MAY RESULT IN DAMAGE OR FAILURE OF THE MCX TO FIRE.",
+   "quote": "Push the firing pin lock pivot pin from left to right and lift the firing pin lock from the bolt carrier.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1 Field Strip the SIG MCX, step 8, p.57"
+  },
+  {
+   "phase": "Strip",
+   "title": "Op rod rotated up and out of the LEFT side of the carrier",
+   "action": "Rotate the op rod upward, then slide it out of the bolt carrier from the left side.",
+   "box": "none",
+   "prose": "The op rod takes the piston's blow and hands it to the carrier. It clears the carrier from one side and at one angle only, so rotate first and slide second; prying it rearward bends the lug that does all the work.",
+   "quote": "Rotate the op rod upward and slide it out of the bolt carrier from the left side.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1 Field Strip the SIG MCX, step 9, p.58"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin to its detent, firing pin and spring out the back",
+   "action": "Pull the firing pin retaining pin out until its detent stops it, then draw the firing pin and its spring from the rear of the bolt carrier. Leave the spring on the firing pin.",
+   "box": "limit",
+   "prose": "The retaining pin is captive like the receiver pins, so it stops rather than comes free. The firing pin carries its own spring and there is nothing to clean between them; parting them only stretches the spring getting it back on.",
+   "quote": "Pull the firing pin and spring from the rear of the bolt carrier. Do not remove the firing pin spring from the firing pin unless replacement is required.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1 Field Strip the SIG MCX, steps 10-11, pp.59-60"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin out, bolt out the front of the carrier",
+   "action": "Pull the cam pin from the bolt, then remove the bolt from the front of the carrier.",
+   "box": "none",
+   "prose": "Cam pin first, bolt second, and the bolt goes out the front. Note how the cam pin sat: it is the easiest part on the rifle to leave out on reassembly, and the reassembly section carries a warning about exactly that.",
+   "quote": "Pull the cam pin from the bolt and remove the bolt from the front of the carrier.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1 Field Strip the SIG MCX, step 12, p.61",
+   "warn": "FAILURE TO INSTALL CAM PIN MAY RESULT IN INJURY OR DEATH TO THE USER AND CATASTROPHIC DAMAGE TO THE FIREARM.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor off the bolt, and nothing under it",
+   "action": "Push the extractor pin out and lift the extractor off the bolt. Leave the O-ring (where fitted), the extractor spring and the extractor insert in place.",
+   "box": "limit",
+   "prose": "This is the last field-strip step. The O-ring, spring and insert under the extractor set its tension; there is no user-level way to check that tension once the stack has been out, so they come out only to be replaced.",
+   "quote": "Push the extractor pin out and remove the extractor from the bolt. Do not remove the O-ring (if applicable) extractor spring or the extractor insert unless replacement is necessary.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1 Field Strip the SIG MCX, step 13, p.62"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore and chamber, toward the muzzle, suppressor off",
+   "action": "Suppressor off. Fit the right caliber jag, push a CLP-wet patch slowly through the bore toward the muzzle, and let the CLP stand a few minutes. Brush only if the fouling is heavy, then push patches until they come out clean. Finish the chamber and locking lug area with a CLP-coated chamber brush, muzzle up.",
+   "box": "limit",
+   "prose": "Muzzle elevated for the chamber brush so the CLP runs away from the bore you have just cleaned, and plunge-then-rotate in the barrel extension so the brush reaches behind the locking lugs where carbon packs in.",
+   "caution": "Do not use wire brushes on aluminum surfaces such as the upper/lower receivers, because this can scratch the finish.",
+   "quote": "Do not run patches through the bore with a sound suppressor attached.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 5.1 Cleaning the Bore and Chamber, p.69"
+  },
+  {
+   "phase": "Clean",
+   "title": "Operating system, and more of it if you shoot suppressed",
+   "action": "Clean the bolt body, the carbon off the bolt lugs, the extractor hood, the recoil spring rods and springs, the op rod, the cam pin, the carrier's op rod interface, the firing pin and spring, the carrier body and the bolt channel. Scrape carbon rather than brushing it.",
+   "box": "limit",
+   "prose": "The piston keeps most of the gas out of the action, so the bolt runs cleaner than a direct-impingement bolt; a suppressor reverses that by pushing back pressure into the action. Judge the interval by how you shoot it. Watch the op rod's lug where it meets the carrier: that is where the residue builds.",
+   "quote": "Under normal operating conditions, the MCX bolt does not require as much cleaning as an M4 bolt. However, when used with a suppressor attached, the back pressure will produce more residue, which will require attention.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 5.2 Cleaning the Operating System, p.70"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lubricate the receivers and controls",
+   "action": "Thin film inside the upper where the carriage assembly rides, and on the sides of the charging handle; a drop or two on the charging handle latches. In the lower, a drop or two on the hammer, trigger and bolt catch where they meet their pins, the selector where it meets the receiver, and the pivot and takedown pins.",
+   "box": "none",
+   "prose": "Drops and thin films, not flooding. Excess oil in the firing pin recess of the bolt is listed in the troubleshooting table as a cause of failure to fire, so keep the carriage lubrication to the points named on the carriage screen.",
+   "quote": "Apply a thin film of lubricant to the inside of the upper receiver to the surfaces where the carriage assembly makes contact.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 5.3 Lubrication — Upper Receiver, p.74"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You have the lower receiver, the upper with barrel and handguard still fitted, the charging handle, and the carriage assembly broken down into carrier, bolt, cam pin, firing pin and spring, firing pin lock, op rod, recoil springs and plate, and the extractor. That is the whole of the user-level field strip.",
+   "box": "limit",
+   "prose": "The gas valve and piston, the handguard and the barrel are published in the same section as 4.1.1 to 4.1.3, so they are available as a deep clean. Past those, the book draws the line plainly: anything further belongs to a SIG armorer or a gunsmith.",
+   "quote": "Do not attempt to disassemble your SIG SAUER firearm beyond the point explained in this manual.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — Warnings — Replacement Parts, p.5",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Gas valve and piston out the front of the gas block",
+   "action": "Press the stop pin. Rotate the gas valve until its flange is fully exposed, then pull the valve and the piston out of the front of the gas block. The barrel and handguard stay on for this.",
+   "box": "none",
+   "prose": "The two-position valve is what lets the same rifle run suppressed and unsuppressed, so it sits directly in the gas stream and carbons harder than anything else on the gun. It releases at one rotation only; if the flange is not fully exposed it will not come forward, and levering it damages the valve.",
+   "quote": "Rotate the gas valve until the flange on the valve is fully exposed allowing the valve to be pulled out of the gas block.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1.1 Gas Valve and Piston Removal, step 2, p.63"
+  },
+  {
+   "phase": "Strip",
+   "title": "Handguard forward off the upper on the pivot pin",
+   "action": "Pull the pivot pin out to its detent, then pull the handguard forward off the upper receiver.",
+   "box": "none",
+   "prose": "The handguard is not clamped to a barrel nut. It is held by the same pivot pin that joins the receivers, passing through a handguard link, which is why it comes off forward and why it must be pushed fully back before that pin will pass on reassembly.",
+   "quote": "Pull the pivot pin out to the detent then pull the handguard forward off of the upper receiver.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1.2 Handguard Removal/Installation, p.64"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out: carriage assembly first, T27 on two captive screws",
+   "action": "With the carriage assembly already out, loosen the two barrel clamping screws on the right side of the upper with a T27 Torx wrench. They are captive and only need loosening. Then pull the barrel straight out.",
+   "box": "limit",
+   "prose": "Straight out, not rocked: the barrel extension is a close fit and rocking it works the aluminum upper, not the steel. If it will not come, the book's remedy is a one-inch wooden dowel in through the rear of the upper and a tap. Reinstallation is a torque job, 60 lb-in on each screw, covered in reassembly.",
+   "caution": "The carriage assembly must be removed prior to removing the barrel (see section 4.1).",
+   "quote": "Pull the barrel straight out of the upper receiver. Do not wiggle it back and forth, as this can damage the upper receiver.",
+   "cite": "OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX \n® VIRTUS \n™ — P/N 2402117-01 REV 02 — 4.1.3 Barrel Removal, step 2, p.66"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "Do not run patches through the bore with a suppressor attached",
+    "Proper caliber jag on the cleaning rod",
+    "CLP-moistened patch pushed slowly through the bore toward the muzzle",
+    "CLP left in the barrel several minutes to loosen fouling",
+    "A fresh CLP-coated patch pushed through",
+    "Heavy fouling only: bore brush, then a CLP patch to carry off what it loosened",
+    "New patches pushed through until they come out clean",
+    "Chamber brush coated with CLP; muzzle elevated so CLP does not run into the clean bore",
+    "Several plunging strokes, then several full 360 degree rotations in the barrel extension to clean the locking lug area"
+   ]
+  },
+  {
+   "name": "OPERATING SYSTEM",
+   "tasks": [
+    "Carbon is scraped, not brushed",
+    "Bolt body cleaned with solvent; carbon off the bolt lugs",
+    "Extractor hood",
+    "Recoil spring rods and recoil springs",
+    "Op rod, with attention to residue on the lug that engages the bolt carrier",
+    "Cam pin cleaned of carbon; op rod interface of the bolt carrier",
+    "Firing pin and spring wiped down",
+    "Bolt carrier body wiped down; bolt channel cleared of carbon",
+    "Gas valve and piston, if removed in the deep clean: residue and carbon off both",
+    "Lube: 1 to 2 drops where the op rod contacts the spring guide, the recoil plate and the bolt carrier, and on the firing pin lock plunger",
+    "Lube: thin film on the spring guide rods and recoil springs; thin coat on the back of the bolt lugs, bolt body, cam pin hole and carrier contact surfaces; 1 to 2 drops on the cam pin"
+   ]
+  },
+  {
+   "name": "RECEIVERS AND CONTROLS",
+   "tasks": [
+    "Do not use wire brushes on the aluminum upper or lower receiver",
+    "Thin film inside the upper receiver where the carriage assembly makes contact",
+    "Thin film on the sides of the charging handle; 1 to 2 drops on the charging handle latches",
+    "1 to 2 drops on the hammer, trigger, auto sear (auto variants only) and bolt catch where they contact their pins",
+    "1 to 2 drops on the selector where it contacts the lower receiver",
+    "1 to 2 drops on the pivot and takedown pins"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     12
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     13
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     14
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "Extractor assembled to the bolt body.",
+  "Bolt into the bolt carrier with the extractor oriented as the book's figure shows.",
+  "Cam pin in, its firing pin through-hole aligned with the firing pin bore. The cam pin must be installed: leaving it out can injure or kill the shooter and wreck the rifle.",
+  "Firing pin and spring into the rear of the bolt until they stop.",
+  "Push in on the firing pin until it stops and push the firing pin retaining pin back into the carrier; it must sit between the firing pin's large flange and the firing pin head.",
+  "Firing pin lock assembled to the op rod, its pivot pin installed from the RIGHT side.",
+  "Lift the firing pin lock and slide the op rod assembly into the carrier from the LEFT side.",
+  "Piston in through the gas block; gas valve in, push in on the stop pin and rotate it until it locks into the gas block.",
+  "If the barrel was removed: barrel and gas block fully into the upper with both index pins seated; pinch the clamps to the upper; T27 screws alternately to hand tight, then 60 lb-in on screw #1, 60 lb-in on screw #2, and screw #1 again to confirm 60 lb-in.",
+  "Upper attached to the lower on the pivot pin.",
+  "Charging handle in first, then the carriage assembly, into the upper receiver.",
+  "Receivers closed and the takedown pin pushed back in place."
+ ],
+ "fncheck": "Rifle unloaded and cleared, on SAFE, bolt forward. Insert an empty magazine. Fully retract the charging handle until the bolt locks to the rear, then push the handle forward to lock. Selector to SAFE. Press the magazine catch: the magazine should fall free. Fully retract and release the charging handle: the bolt catch should release and the bolt go forward. Press the trigger: the hammer must NOT fall. Selector to SEMI, press and hold the trigger: the hammer falls. Fully retract the charging handle to cock, then slowly release the trigger: an audible click. On a select-fire rifle only, the book continues with an AUTO-position check (p.89)."
+}

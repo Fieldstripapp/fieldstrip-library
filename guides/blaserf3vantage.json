@@ -1,0 +1,223 @@
+{
+ "row": "blaserf3vantage",
+ "make": "Blaser",
+ "model": "F3 Vantage",
+ "sourcedFrom": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages (UNKNOWN — read off the manual's own pages)",
+ "sourceSha256": "ac89301edcc2f9616c24affd6aef20b2f6e4347162b01b87d13c53f4aba4f45d",
+ "cleanIntro": "This guide follows Blaser's F3 manual; check your variant against it. The book covers the F3 shotgun and never prints \"Vantage\", so every step here is the book's general F3 procedure, stated as generally as the book states it. Two parts of the book are not used here: a section of its own for the F3 SuperTrap and F3 SuperSporter, and a front-bead note it gives to \"F3 Competition models\" as a group.\n\nThe F3 is a break-action over-under with a SELF-COCKING double lock: opening the gun cocks both locks, and after one shot one lock is still cocked. ⛔ Two things set it apart on the bench. Blaser warns that heavy jolting or a drop can disengage the locks EVEN WITH THE SAFETY ON, and it fits a striker safety system that a finger on the trigger can trip while the gun is being closed.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "⛔ This guide follows the F3 manual — check your variant",
+   "action": "This guide follows Blaser's F3 manual, which does not name the Vantage, so check your variant against it. Everything below is the F3's general procedure. ⚠ Start from the one fact the book puts first: this gun cocks BOTH locks when it opens, and after one shot one lock is still cocked.",
+   "box": "none",
+   "prose": "A gun that arms itself as it opens is a gun you treat as live until you have looked into both chambers.",
+   "quote": "The F3 Shotgun is equipped with a selfcocking double lock. Two locks are cocked when the gun is opened. After discharging a round, one lock remains cocked.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 1. General Safety Rules, printed p.26"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ The safety catch will not hold a dropped gun",
+   "action": "Pull the safety catch lever BACK with your thumb until S is visible. ⛔ Then take Blaser's DANGER block at its word: heavy jolting or dropping this gun can disengage the locks despite the safety being on. The safe state for a bench session is open and empty, not merely secured.",
+   "box": "none",
+   "prose": "A maker's warning about the limits of his own safety catch is the most useful sentence on the page.",
+   "aside": "Pull safety catch lever back with thumb. S (= Safe) is visible. Gun is secured.",
+   "quote": "Heavy jolting or dropping the gun can cause locks to disengage, despite the gun being safety-secured.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 5.3. Securing the gun — DANGER, printed p.29"
+  },
+  {
+   "phase": "Clear",
+   "title": "⚠ Do NOT touch the trigger as the gun closes",
+   "action": "The F3 carries a STRIKER SAFETY CATCH system that works independently of the safety slide — and Blaser adds the handling rule that goes with it: do not touch the trigger while closing the gun, because doing so can make one safety sear block the strikers.",
+   "box": "limit",
+   "prose": "A gun that will not fire after a clean is sometimes a gun that was closed with a finger in the wrong place.",
+   "quote": "The F3 is fitted with a striker safety catch system that is independent of the safety slide position. When closing the gun the trigger should not be touched as this can cause one safety sear to block the strikers.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 5.5. Loading the gun — NOTE, printed p.30"
+  },
+  {
+   "phase": "Clear",
+   "title": "Open it — and read what the extractors do",
+   "action": "With the safety on, press and hold the locking lever and tip the barrel set down about 45°. Each barrel has an extractor WITH an ejector function, and the ejector is only live on a barrel that has been FIRED — so fired cases are thrown clear while unfired rounds are merely lifted. ⛔ Take the unfired cartridges out by hand and look into both chambers.",
+   "box": "none",
+   "prose": "Which of the two happens tells you which barrel has been used. That is worth knowing before you look down them.",
+   "aside": "Take out the unfired cartridges.",
+   "quote": "The gun has an extractor with ejector function for each barrel. The ejector function is active for the respective barrel after a round has been fired. When the gun is opened the extractors slightly lift the cartridges that have not been fired and eject the fired cartridges.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 5.6. Unloading the gun — NOTE, printed p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Secure and unload BEFORE taking down",
+   "action": "Blaser's DANGER block heads the takedown section and its instruction is one line: secure and unload the gun before taking it down. On a gun that cocks itself when it opens, that is not a formality.",
+   "box": "none",
+   "prose": "Opening this gun arms it. Every takedown therefore starts from a confirmed-empty gun, not a closed one.",
+   "quote": "Secure and unload the gun before",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 4. Take down — DANGER, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forearm catch, then the forearm",
+   "action": "Press the forearm catch and take the forearm off the radius on the action. There is no screw and nothing to lever. ⛔ It has to come off first: Blaser states the barrel set can only be fitted — and by the same token removed — with the forearm already off.",
+   "box": "none",
+   "prose": "One catch, one part, and the order is not optional.",
+   "aside": "Inserting the barrel set is only possible with removed forearm.",
+   "quote": "Remove the forearm as follows: • Press the forearm catch. • Remove the forearm.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 4.1. Removing the forearm, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel set off at about 45°",
+   "action": "Press the locking lever and keep it pressed, tip the barrel set to roughly 45°, and pull the hinge pin in the action out of its housings on the barrel set. ⚠ Forty-five degrees, not fully open — the takedown position is part-way through the swing.",
+   "box": "none",
+   "prose": "Fully open is where you load. Part-open is where it comes apart.",
+   "aside": "Tip barrel set (approx. 45 °).",
+   "quote": "Remove barrel set as follows: • Press locking lever and keep pressed.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 4.2. Removing the barrel set, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Barrel sets and forearms — the gauge rule runs ONE WAY",
+   "action": "The F3 can be supplied with barrel sets in 12, 20 and 28 gauge. Blaser's compatibility note is directional: a SMALLER-gauge barrel can be used with a LARGER-gauge forearm — a 28 with a 20 or 12 forearm — but NOT the other way round. ⛔ And before loading, confirm the ammunition matches the barrel set actually fitted.",
+   "box": "none",
+   "prose": "A multi-gauge gun on the bench is a multi-gauge gun in the cabinet. The check belongs to every session.",
+   "quote": "Barrels with smaller gauges can also be used with forearms of larger gauges. A barrel in 28 gauge can also be used with a forearm in 20 or 12 gauge. Though this is not possible vice versa.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 3.1. Mounting the barrel set — NOTE, printed p.28",
+   "warn": "The gun can also be supplied with barrel sets in 12, 20 and 28 gauge. Please make sure before loading that the ammunition corresponds with the barrel combination.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ That is the strip — three parts, and Blaser stops here",
+   "action": "Forearm, barrel set, action-and-stock. Blaser publishes no further dismantling of the F3 for the owner: service goes to Blaser or a Blaser factory-trained gunsmith, and a gun repaired by anyone else loses its warranty. ⛔ Anything past this point is not in the book and is not in this guide.",
+   "box": "limit",
+   "prose": "A three-part gun is a gift. Clean it as three parts.",
+   "quote": "This can be performed by Blaser Isny or through Blaser factory trained gunsmiths. Guns repaired by third parties will void the warranty.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 7.3. Maintenance, printed p.44",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "⚠ Bore and chamber — clean after firing, dry before shooting",
+   "action": "The F3's bore is hard chromed, but Blaser is clear that chrome does not replace care: powder residue left in the chamber and barrel attracts moisture, so clean and preserve them after firing. Before the next session, take the oil back OUT — oil in the chamber or bore shifts the point of impact. ⚠ Give the chamber special attention: hand sweat rides in on the cartridges and corrodes it.",
+   "box": "none",
+   "prose": "Oil left in a chamber is a point-of-impact problem; sweat left in one is a corrosion problem. The same rag solves both.",
+   "aside": "Special attention should be applied to the chamber: Hand sweat is transported into the chamber by the ammunition.",
+   "quote": "We strongly advise that the chamber and barrel are free of oil before use, so as to ensure there is no difference in the point of impact.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 7.2. Care — barrel internal, printed p.44"
+  },
+  {
+   "phase": "Clean",
+   "title": "The outside of the barrels — wiped dry, lightly oiled",
+   "action": "The barrel exterior is plasma nitrated and blued: good against scratches, but Blaser says plainly it is not complete corrosion protection. Keep it clean and give it a thin coat of gun oil regularly — above all when the barrel is damp or has sweated in a synthetic case, when it is wiped dry first and then lightly oiled.",
+   "box": "none",
+   "prose": "A soft case that held a cold gun into a warm house is where the rust starts.",
+   "quote": "We recommend that the surface is kept clean and that a thin application of suitable gun oil is regularly applied.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 7.2. Care — barrel external, printed p.44"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Steel shot and the tight chokes — and the book contradicts itself",
+   "action": "Blaser bars the tight chokes with steel, tungsten, tungsten-iron or molyshot, and bars firing with no choke fitted at all. ⚠ THE BOOK PRINTS THIS DANGER BLOCK TWICE WITH DIFFERENT LISTS — §5.9 bars 3/4 (IM), 1/1 (F) and 5/4 (EF) and above; §5.10 bars only 3/4 (IM) and 1/1 (F). This guide carries the WIDER list, because the safe reading of two disagreeing warnings is the one that forbids more.",
+   "box": "limit",
+   "prose": "When a maker disagrees with himself about a barrel-damage warning, take the stricter half and say why.",
+   "aside": "The F3 Shotgun is steel shot proofed and is steel shot compatible.",
+   "quote": "If steel shot, tungsten, tungsten iron or molyshot are used, do not use interchangeable chokes of sizes 3/4 (im), 1/1 (f) or 5/4 (ef) and above.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 5.9. Steel shot cartridges — DANGER, printed p.32",
+   "warn": "Only fire with fitted interchangeable chokes.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Changing chokes — open gun, clean fine threads, the key",
+   "action": "Engage the safety and unload before a choke is touched, and change chokes only with the gun OPEN. The threads are FINE threads: keep them clean and lightly oiled, brass-brush them each time a choke comes out, and turn the choke only with the supplied choke key — out anticlockwise, in clockwise until it stops.",
+   "box": "none",
+   "prose": "Fine threads in a barrel muzzle are unforgiving of grit and of improvised tools alike.",
+   "aside": "Clean the threads with a brass brush each time the chokes are changed.",
+   "quote": "Engage safety and unload the gun before",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 5.10. Interchangeable chokes — DANGER, printed p.33",
+   "warn": "Only change the interchangeable chokes",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ Grease on the hinge — NO oil into the trigger and action",
+   "action": "The hinge pin and the radius on the action want gun grease, regularly. The trigger and action system want none: Blaser warns that oil and grease that get in there can resinify — harden — and cause dangerous malfunctions. ⚠ Two neighbouring parts, opposite instructions.",
+   "box": "none",
+   "prose": "Getting these two the wrong way round is the classic over-oiled shotgun.",
+   "aside": "Regularly grease hinge pin and radius on the action with gun grease.",
+   "quote": "oil and grease can resinify (harden), causing dangerous disruptions of functioning.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 7.2. Care — CAUTION, printed p.44"
+  },
+  {
+   "phase": "Clean",
+   "title": "⚠ Gun oil for the metal, stock care for the wood — never swapped",
+   "action": "Clean and lightly oil all the metal parts and the chokes. The wooden stock is oil-rubbed and takes stock care products — and Blaser says gun oil is not suitable for it, just as stock preservative is not suitable for the metal.",
+   "box": "none",
+   "prose": "Two bottles on the bench and it matters which one you reach for.",
+   "aside": "Clean and lightly oil all metal parts of the gun and interchangeable chokes.",
+   "quote": "Gun oil is not suitable for stock care!",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 7.2. Care — stocks, printed p.44"
+  },
+  {
+   "phase": "Clean",
+   "title": "Letting the locks down — DUMMY ROUNDS",
+   "action": "This gun cocks both locks as it opens, so it can go away cocked. Blaser's method is dummy rounds: unload first, barrel tilted down, dummy cartridges into the chambers, buttstock up, locking lever checked with the index finger, then the trigger pulled twice. ⚠ Blaser also flags the obvious hazard — a dummy round and a live round are confusable.",
+   "box": "none",
+   "prose": "Two pulls, two locks. Doing it on empty chambers is how firing pins end.",
+   "aside": "Decock the locks as follow: • Hold the barrel tilted downwards.",
+   "quote": "Decocking the locks using dummy rounds.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 5.8. Decocking the firing blocks, printed p.32"
+  },
+  {
+   "phase": "Clean",
+   "title": "⚠ Barrel selection is an OPEN-LOCK operation, and this gun is handed",
+   "action": "The barrel selector sits in front of the trigger and picks which barrel fires first: pushed left on the side marked B the bottom barrel fires first, pushed right on the side marked T the top one does. ⛔ Blaser's DANGER block says selection is only performed with the lock OPEN. ⚠ The F3 is also built for right AND left-handed users, and the locking lever opens to whichever side your version is made for.",
+   "box": "none",
+   "prose": "If the lever opens the 'wrong' way on yours, it may be the left-handed version rather than a fault.",
+   "aside": "The F3 Shotgun is designed for right and left-handed users. The locking lever is opened in accordance with the version to the right (for right-handed users) or to the left (for left-handed users).",
+   "quote": "A barrel selector lever is located in front of the trigger for selecting the barrel for the first and second shot.",
+   "cite": "BLASER F3 — Bedienungsanleitung / Instruction manual (04-2014) — UNKNOWN — read off the manual's own pages — 5.7. Barrel selection and firing, printed p.31",
+   "warn": "Only perform selection with opened lock.",
+   "warnSrc": "maker"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BARRELS AND CHOKES",
+   "tasks": [
+    "Bore and chamber cleaned and preserved after firing; chamber given special attention",
+    "Oil taken back out of chamber and bore before the next session",
+    "Barrel exterior wiped dry and lightly oiled",
+    "Choke threads brass-brushed and LIGHTLY OILED at every change",
+    "⛔ Never fired with no interchangeable choke fitted"
+   ]
+  },
+  {
+   "name": "ACTION AND LOCKS",
+   "tasks": [
+    "Hinge pin and radius on the action greased with GUN GREASE",
+    "⛔ No oil or grease into the trigger and action system",
+    "⛔ Trigger NOT touched while the gun is being closed",
+    "Locks let down on dummy rounds before storage, never on empty chambers"
+   ]
+  },
+  {
+   "name": "METAL AND STOCK",
+   "tasks": [
+    "Metal parts cleaned and lightly oiled — ⛔ NOT with stock preservative",
+    "Wooden stock treated with stock care products — ⛔ NOT with gun oil",
+    "Chokes transported separately in a suitable container"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Locking lever pressed until it engages; both extractors pushed in to the stop.",
+  "⛔ Forearm OFF while the barrel set goes on — Blaser states it is the only way.",
+  "Hinge pin into its housings with the barrel set angled down, then the buttstock tipped up.",
+  "⛔ Locking lever checked closed by hand, not by eye.",
+  "Forearm set on the radius on the action and tipped up until it engages.",
+  "Safety catch back — S visible — before the gun leaves the bench."
+ ],
+ "fncheck": "With the gun confirmed unloaded, close it WITHOUT touching the trigger and check by hand that the locking lever has closed. Work the safety both ways and confirm S and F appear in turn. On an OPEN gun, move the barrel selector to B and to T and feel each side — ⛔ Blaser bars selecting with the lock closed. ⚠ Then let the locks down on DUMMY ROUNDS rather than on empty chambers, and remember what Blaser says about its own safety catch: a hard knock can disengage the locks with the safety on, so the gun goes into the cabinet open and empty, never merely secured."
+}
