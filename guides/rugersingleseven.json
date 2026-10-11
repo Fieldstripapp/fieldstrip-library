@@ -1,0 +1,179 @@
+{
+ "row": "rugersingleseven",
+ "make": "Ruger",
+ "model": "Single-Seven",
+ "sourcedFrom": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 (2011)",
+ "sourceSha256": "667237af6d4d9f34632c4b453feb03484db985abfd64c1124b22106c37603d88",
+ "cleanIntro": "This guide follows Ruger's manual for the New Model Single Six family, which does not name the Single-Seven, so check your variant against it. Ruger states that the revolvers this book covers all use the same Ruger New Model mechanism; every step below is quoted from that book and stated as generally as the book states it, and nothing the book ties to one caliber or one chamber count is applied here.\n\nThe routine strip is short: gate open, base pin out, cylinder out. The Deep Clean path carries Ruger's detailed teardown down to the hammer and trigger assemblies, which Ruger itself says is seldom if ever necessary, plus its cautions on the ejector housing, the base pin latch and the rear sight.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Hammer down before you unload",
+   "action": "This guide follows Ruger's manual for the New Model Single Six family, which does not name the Single-Seven, so check your variant against it. Point the revolver in a safe direction. If the hammer is cocked, decock it first — the loading gate will not open until the hammer and trigger are fully forward.",
+   "box": "limit",
+   "prose": "Ruger's decocking method is to control the hammer with your thumb, press the trigger only until the hammer breaks free, release the trigger at once, and ease the hammer fully down.",
+   "quote": "Keep revolver pointed in a safe direction! Do not attempt to unload when the hammer is cocked. If the hammer is cocked, it must first be decocked.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — To Unload or Eject Cartridge Cases, p.20"
+  },
+  {
+   "phase": "Clear",
+   "title": "Gate open, eject chamber by chamber",
+   "action": "Open the loading gate so the cylinder can turn. Turn the cylinder clockwise by hand to line a chamber up with the ejector rod, push the rod rearward by its thumb-piece to push the cartridge or case out, and let the rod spring back. Repeat until every chamber is empty.",
+   "box": "none",
+   "prose": "Do not let ejected cartridges drop onto a hard surface — Ruger warns a rim striking a solid object can fire it.",
+   "quote": "Push the ejector rod rearward, by means of the thumb-piece on its forward end, so that it slides through the chamber to push out the cartridge or fired case. Release spring-loaded ejector rod. Repeat until all chambers are empty.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — To Unload or Eject Cartridge Cases, step 3, p.20"
+  },
+  {
+   "phase": "Clear",
+   "title": "Check every chamber, more than once",
+   "action": "With the gate still open, rotate the cylinder and look into every chamber. Go round more than once, then leave the gate open.",
+   "box": "none",
+   "prose": "Ruger says a few times, not once — it is easy to lose count of chambers going round a single-action cylinder.",
+   "quote": "With the revolver pointed in a safe direction, open the gate and rotate the cylinder. Examine every chamber in the cylinder a few times to be certain the revolver is unloaded. Leave the gate open.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Disassembly, step 1, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Base pin out, cylinder out",
+   "action": "Press in fully on the left side of the base pin latch and, holding it there, draw the base pin forward and out. Take the cylinder out of the loading gate side of the frame and close the gate.",
+   "box": "none",
+   "prose": "Ruger stops the routine strip here: this is as far as you need to go for routine cleaning.",
+   "quote": "Press in fully on the left side of the base pin latch, and while holding it in that position, withdraw the base pin. Remove the cylinder and close the gate. This is as far as you need to go for routine cleaning.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Disassembly, step 2, p.22",
+   "warn": "Never install or remove a loaded cylinder. A loaded cylinder can discharge if dropped or struck.",
+   "warnSrc": "maker",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Know the parts before you start",
+   "action": "Ruger asks you to read the disassembly directions and study the illustrations and parts list before taking the revolver apart. Work on a soft cloth with a tray for the parts, and use a screwdriver whose tip fits the screw slots exactly.",
+   "box": "none",
+   "prose": "Few parts, but they come out in an order and go back in one.",
+   "quote": "Know the names and location of the parts before removing any of them.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Disassembly, preamble, p.21"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Grip panels off",
+   "action": "Remove the grip panel screw and lift off the grip panels.",
+   "box": "none",
+   "quote": "Remove grip panel screw and remove grip panels.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Detailed Disassembly, step 1, p.22"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Cock it and pin the mainspring",
+   "action": "Draw the hammer back to full cock and push a short pin — about an inch of nail does — into the small hole at the lower end of the hammer strut. That pin is what keeps the mainspring confined when the hammer is let down.",
+   "box": "none",
+   "prose": "Leave the pin in until reassembly is finished; the mainspring assembly goes back in exactly as it comes out.",
+   "quote": "Draw hammer rearward to full cock position. Insert a short length (about 1”) of nail or pin into the small hole at the lower end of the hammer strut.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Detailed Disassembly, step 2, p.22"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Ease the hammer down",
+   "action": "Keep your thumb pressing on the hammer spur, press the trigger, and let the hammer down under control to its full forward position.",
+   "box": "none",
+   "quote": "While maintaining thumb pressure on the hammer spur, squeeze the trigger and ease hammer down to full forward position.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Detailed Disassembly, step 3, p.22"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Five screws, then the grip frame off",
+   "action": "Remove the five screws holding the grip frame to the cylinder frame, then pull the grip frame rearward and downward to separate them. If it will not come away, draw the hammer back a little. Lift out the mainspring assembly with the pin still in it.",
+   "box": "none",
+   "prose": "Two small springs and plungers are loose once the frames part — the pawl spring and plunger in the left side of the cylinder frame, and the cylinder latch spring and plunger in the grip frame. Do not lose them.",
+   "quote": "Pull the grip frame rearward and downward to separate it from the cylinder frame.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Detailed Disassembly, steps 4–5, p.22"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Trigger pivot out — careful with the screwdriver",
+   "action": "Hold the gate detent spring down with a screwdriver so its end is clear of the groove in the trigger pivot, then drift the pivot right out of the frame.",
+   "box": "none",
+   "prose": "Ruger's caution: press the blade tip carefully so it does not slip off the spring, mark the frame, or hurt the person holding the gun.",
+   "caution": "Keep the screwdriver blade from slipping off the gate detent spring.",
+   "quote": "Then, use a drift and hammer to push the pivot completely out of the frame.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Detailed Disassembly, step 6, p.22"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Latch, detent spring and gate",
+   "action": "Lift out the cylinder latch, the gate detent spring and the loading gate.",
+   "box": "none",
+   "quote": "Remove cylinder latch, gate detent spring, and gate.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Detailed Disassembly, step 7, p.23"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Hammer and trigger assemblies out",
+   "action": "Remove the hammer pivot, then take out the hammer with its pawl and the trigger with its transfer bar. The pawl stays attached to the hammer and the transfer bar to the trigger.",
+   "box": "none",
+   "prose": "Ruger stops the detailed strip here, and says that even this much is seldom if ever needed.",
+   "aside": "The revolver is, at this stage, disassembled as far as it needs to be for major cleaning and maintenance.",
+   "quote": "Remove hammer pivot. Then remove the hammer/pawl assembly and the trigger/transfer bar assembly.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Detailed Disassembly, step 8, p.23"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Ejector housing — hold it as the screw comes out",
+   "action": "Only if you must go further: wrap one hand around the barrel and ejector housing before loosening the housing screw, then lift the housing away carefully.",
+   "box": "none",
+   "prose": "The housing holds a compressed spring and the ejector rod.",
+   "caution": "Spring under compression inside the housing.",
+   "quote": "Wrap one hand firmly around barrel and housing when loosening the screw.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Ejector/Ejector Housing, p.23"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Base pin latch, nut and spring",
+   "action": "Hold the nut firmly with jaw-protected pliers while you unscrew the latch, and do not lose the spring. On reassembly the nut and spring go on the left side of the frame.",
+   "box": "none",
+   "quote": "The nut must be held firmly (with jaw-protected pliers) while the latch is being unscrewed.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Base Pin Latch/Nut and Spring, p.23"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Leave the rear sight alone unless you must",
+   "action": "On an adjustable rear sight, the sight comes off by drifting out its pivot pin and removing the elevation screw — but Ruger advises against it.",
+   "box": "limit",
+   "prose": "If you do remove it, a very small dab of gun grease in the sight base recesses holds the elevation springs upright while the pivot pin goes back in.",
+   "quote": "Unless it is essential, the rear sight should not be removed because there is the risk of losing the very small elevation springs.",
+   "cite": "Ruger Single-Ten, New Model Single Six, Bisley & Hunter Single Action Revolvers Instruction Manual — XR, KXR, & BR / 9-11 C R16 — Rear Sight, p.23"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBERS",
+   "tasks": [
+    "With the cylinder out, run a solvent-coated patch through the bore from the muzzle several times",
+    "Push a bronze brush sized for the bore the full length of the bore several times",
+    "Swab again with a solvent patch, wipe the rod, then dry-patch until the bore comes out clean",
+    "Clean every chamber in the cylinder the same way",
+    "Finish with a lightly oiled patch through the bore and each chamber",
+    "Look for lead fouling in the chamber throats, the forcing cone and the bore, and clean it out before it builds up",
+    "⛔ Never fire with oil, grease or anything else even partly obstructing the bore"
+   ]
+  },
+  {
+   "name": "FRAME & EXTERIOR",
+   "tasks": [
+    "A few drops of light firearm oil about the frame openings lubricates the mechanism without disassembly",
+    "Clean the exterior with solvent, then wipe it with an oily cloth",
+    "Do not spray or apply lubricant directly on ammunition"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Return the cylinder through the loading gate side of the frame. With the muzzle pointed safely, rotate it a quarter turn clockwise so the pawl sits correctly on the cylinder ratchet before the base pin goes back in.",
+  "Slide the base pin in fully until the latch locks it. Ruger warns that a base pin not fully inserted and locked can let the transfer bar catch under the firing pin as the hammer is cocked.",
+  "Close the gate.",
+  "After a detailed strip, Ruger's reassembly runs in reverse: hammer and trigger assemblies in together; the hammer pivot with its grooved end on the gate side; the cylinder latch and gate detent spring; the trigger pivot from the gate side, non-grooved end first; the cylinder latch spring and plunger and the pawl spring and plunger; the mainspring assembly; then the grip frame with its five screws, the long screw on the gate side.",
+  "Only when the grip frame is on and the strut is seated on its step: cock the hammer, remove the small pin from the mainspring strut, and let the hammer down."
+ ],
+ "fncheck": "Before any cartridge goes in, cycle the revolver several times: the cylinder must rotate and lock correctly, the trigger must return positively when released, and the loading gate must open and close normally. The gate should not open with the hammer cocked, and the hammer should not cock with the gate open."
+}

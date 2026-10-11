@@ -1,0 +1,132 @@
+{
+ "bpLabel": "Fieldstrip Best Practices guide. No manufacturer manual exists for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
+ "bpClass": "FA-SAR",
+ "bpTemplateVersion": 1,
+ "row": "accuracyinternationalas50",
+ "make": "Accuracy International",
+ "model": "AS50",
+ "cleanIntro": "No manual from Accuracy International exists for this model. Semi-auto rifles of this kind come apart in too many different ways for a general guide to say how yours does, so this one does not take it apart at all: it clears it, cleans the bore and everything you can reach with the action locked open, and looks it over. Done properly, that is a full routine clean.\n\nListed in Fieldstrip as .50 BMG. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Ammunition out of the room, muzzle somewhere safe",
+   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "box": "none",
+   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, action back and locked",
+   "action": "If the rifle takes a detachable magazine, take it out before you touch anything else. Pull the charging handle all the way back and lock the action open if your rifle holds open; if it does not, hold it back. Keep your hand and thumb out of the bolt's path the whole time — on some rifles the action can run forward on its own when the magazine follower is pressed.",
+   "box": "none",
+   "prose": "If the magazine is fixed, work the action until nothing more comes out, then go on to the next step."
+  },
+  {
+   "phase": "Clear",
+   "title": "Look, then feel — and do it twice",
+   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "box": "none",
+   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Accuracy International with the gun pointed somewhere safe."
+  },
+  {
+   "phase": "Strip",
+   "title": "No takedown — and that is deliberate",
+   "action": "Leave the rifle in one piece. Top covers, takedown pins, recoil springs, bolt carriers and gas systems all differ across rifles of this kind, and a guide that cannot see your rifle cannot honestly tell you which control does what. Everything in this clean is done with the action locked open.",
+   "box": "none",
+   "prose": "⛔ No pin is pushed, no cover lifted and no screw turned. Anything beyond the outside and the open breech is work for Accuracy International."
+  },
+  {
+   "phase": "Clean",
+   "title": "The bore, from the muzzle or by pull-through",
+   "action": "Work from the muzzle with a cleaning rod and a rod guide so the rod never rubs the crown, or feed a pull-through cord in at the open chamber and draw it out of the muzzle. Brush wet with bore solvent, a few passes, then dry patches until they come out clean. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "box": "none",
+   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+  },
+  {
+   "phase": "Clean",
+   "title": "The breech you can reach through the open action",
+   "action": "With the action locked open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach through the ejection port, using a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action: what runs inside cannot be wiped back out, and no oil goes in from the outside either.",
+   "box": "none"
+  },
+  {
+   "phase": "Clean",
+   "title": "The outside, and how it is stored",
+   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
+   "box": "none"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Look for the things that mean stop",
+   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Accuracy International.",
+   "box": "none",
+   "prose": "Any one of these means the gun is not fired until Accuracy International has seen it."
+  }
+ ],
+ "deepAbsentReason": "There is no deep clean for the Accuracy International AS50, and this guide will not invent one. No manual from Accuracy International exists for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Accuracy International, not onto the bench.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "From the muzzle with a rod guide, or a pull-through from the open chamber",
+    "Brush wet with bore solvent, then dry patches until clean",
+    "A lightly oiled patch for storage; a dry patch before the next shot"
+   ]
+  },
+  {
+   "name": "THE OPEN BREECH",
+   "tasks": [
+    "Bolt face and chamber mouth wiped through the ejection port",
+    "Receiver wiped where a cloth reaches",
+    "⛔ No solvent or oil poured or sprayed into the action"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wiped with a lightly oiled cloth",
+    "No solvent on wood, finishes or optics"
+   ]
+  },
+  {
+   "name": "STORAGE",
+   "tasks": [
+    "Stored dry — never shut in a closed case while damp",
+    "Looked over for rust at every clean"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     4
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     5
+    ]
+   },
+   {
+    "g": 2,
+    "steps": []
+   },
+   {
+    "g": 3,
+    "steps": [
+     6
+    ]
+   },
+   {
+    "s": 7
+   }
+  ]
+ },
+ "reassembly": [
+  "Nothing was taken apart, so nothing goes back together.",
+  "Close the action under control, with your hand and thumb out of the bolt's path."
+ ],
+ "fncheck": "Magazine out and the chamber empty. Work the action: it runs fully back and returns fully forward, and it locks open on an empty magazine if the rifle holds open. Any safety or selector you can see moves through each of its positions. This check never asks you to pull the trigger."
+}

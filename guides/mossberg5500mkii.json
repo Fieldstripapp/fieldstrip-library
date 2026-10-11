@@ -1,0 +1,302 @@
+{
+ "row": "mossberg5500mkii",
+ "make": "Mossberg",
+ "model": "5500 MK II",
+ "sourcedFrom": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) (not printed)",
+ "sourceSha256": "179f689e453518937e348b12105c456c65499f6d60c788e666604b323a71e6fe",
+ "cleanIntro": "The 5500 MK II is a gas-operated Mossberg autoloader, and its own book takes it further on a routine clean than most: barrel, gas seals, the whole action, the action spring and the trigger housing all come out. Two things set it apart from Mossberg's newer autoloaders. The barrel comes off with the bolt FORWARD, not locked back. And the operating handle must be seated in the bolt before the forend comes off, because the bolt is always under spring pressure.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety button fully rearward to ON",
+   "action": "Push the safety button on the top rear of the receiver fully rearward until it seats in its detent. That is ON (SAFE); forward toward the muzzle is OFF (FIRE).",
+   "box": "none",
+   "prose": "Go by position, not colour. The book is explicit that the red dot under the button is a training aid showing which way ON lies, and is not to be read as telling you whether the safety is on or off.",
+   "quote": "TO PUT THE SAFETY IN THE \"ON\" (SAFE) POSITION, THE SAFETY BUTTON MUST BE MOVED FULLY REARWARD INTO THE SAFETY DETENT.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — SAFETY, printed p.3 (PDF p.3)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber first: bolt back only to the rear of the port",
+   "action": "Muzzle safe, fingers off the trigger. Grasp the operating handle and draw the bolt back SLOWLY until the bolt face is even with the rear of the ejection port, then lift the chambered round out by hand.",
+   "box": "none",
+   "prose": "Slowly and only that far. The unload is built around not letting the bolt travel far enough to pick up the next shell from the tube.",
+   "quote": "First, remove the round from the chamber by grasping the operating handle and pulling the bolt slowly rearward until the face of the bolt is even with the rear of the ejection port. Remove the round by hand.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — TO UNLOAD, printed p.11 (PDF p.7)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Do NOT lock it back yet - let it close on an empty chamber",
+   "action": "Let the bolt run forward slowly and close on the now-empty chamber. Do not pull it all the way back to lock open while the tube still holds shells.",
+   "box": "limit",
+   "prose": "Pulling the bolt to its locked position with a loaded tube can release a shell from the magazine, which puts a round back on the elevator or in the chamber in the middle of an unload.",
+   "quote": "DO NOT pull the bolt fully rearward to its locked position since this may release a round from the magazine tube. Allow the bolt to move forward slowly and close on an EMPTY chamber.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — TO UNLOAD, printed p.12 (PDF p.8)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Gun upside down, elevator held, shell stop pressed - one shell at a time",
+   "action": "Turn the gun trigger-guard up. Press the bolt release and the elevator; holding the elevator down, press the front of the shell stop on the side of the receiver opposite the ejection port. One shell comes out under spring pressure - guide it up and out. Repeat until the tube is empty.",
+   "box": "none",
+   "prose": "Only one shell is released per press, so count them out against what you loaded. The shell stop you press is the left-hand one, across from the ejection port.",
+   "quote": "To remove shells from the magazine tube, turn the gun so that the trigger guard is facing upward. Depress the bolt release and elevator. While holding the elevator down, depress the front of the shell stop located on the opposite side of the receiver from the ejection port. This will release one shell from the magazine tube under spring pressure.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — TO UNLOAD, printed p.12 (PDF p.8)"
+  },
+  {
+   "phase": "Clear",
+   "title": "Now lock it open and re-check chamber and magazine",
+   "action": "With the tube empty, pull the operating handle back until the bolt locks open. Then look into the chamber and the magazine again before going on.",
+   "box": "none",
+   "prose": "The book prints the re-check in capitals for a reason: the bolt locking open after the last shot is not proof the gun is empty, and the book says never to use it as one.",
+   "quote": "RE-CHECK CHAMBER AND MAGAZINE TO BE CERTAIN GUN IS UNLOADED.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — TO UNLOAD, printed p.12 (PDF p.8)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Safety ON, chamber, elevator and magazine checked, eye protection on",
+   "action": "Safety ON. Check the chamber, the elevator and the magazine tube once more, and put on eye protection before anything comes apart.",
+   "box": "none",
+   "prose": "The elevator is the easy one to miss - it is where a shell sits after a partial unload.",
+   "quote": "Put the safety in the \"ON\" (SAFE) position and check chamber, elevator and magazine to be certain gun is unloaded. Wear eye protection during disassembly and cleaning.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — DISASSEMBLY, printed p.12 (PDF p.8)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt fully FORWARD - this barrel comes off closed",
+   "action": "Close the action: with the safety ON, press the bolt release toward the elevator until the bolt runs forward, fingers well clear of the operating handle and the ejection port.",
+   "box": "none",
+   "prose": "Unlike Mossberg's later autoloaders, the 5500 MK II's barrel is removed with the bolt fully forward. The bolt comes home with considerable force - nothing in the ejection port.",
+   "quote": "The action must be in the closed position (bolt fully forward).",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — DISASSEMBLY - BARREL, printed p.12 (PDF p.8)",
+   "warn": "CAUTION: Keep fingers clear of operating handle and ejection port when closing action",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Operating handle seated in the bolt BEFORE the forend comes off",
+   "action": "Check that the operating handle is in place in the bolt. If it is not, the book's fix is to line up the slot in the bolt with the slot in the action bar assembly and push the handle in, notch rearward, until the plunger catches its notch.",
+   "box": "none",
+   "prose": "The bolt is always under spring pressure. The handle is what keeps the action under control once the forend is gone.",
+   "quote": "The operating handle (Fig. 3) must be assembled securely in place in the action before the forend is removed.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — UNPACKING YOUR AUTOLOADER, printed p.4 (PDF p.4)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forend cap off, forend off, recoil washer and spring off",
+   "action": "Unscrew the forend cap and slide the forend off, then take the recoil washer and recoil spring off the magazine tube.",
+   "box": "none",
+   "prose": "Keep the washer and spring in order - on the way back they go on spring first, then washer.",
+   "quote": "Unscrew the forend cap and remove the forend. (Fig. 5). Remove recoil washer and recoil spring (Fig. 14)",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — DISASSEMBLY - BARREL, printed p.12 (PDF p.8)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel forward off the receiver and magazine tube",
+   "action": "Hold the barrel ahead of the gas cylinder and pull it straight forward until it is clear of both the receiver and the magazine tube.",
+   "box": "none",
+   "prose": "Grip it ahead of the gas cylinder, not on it - the cylinder rides the magazine tube and is what you are drawing forward off it.",
+   "quote": "Grasp the barrel ahead of the gas cylinder and pull forward until it is free of the receiver and magazine tube (Fig. 14)",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — DISASSEMBLY - BARREL, printed p.12 (PDF p.8)"
+  },
+  {
+   "phase": "Strip",
+   "title": "O-ring and forward seal ring off the tube",
+   "action": "Slide the rubber O-ring and then the forward seal ring off the front of the magazine tube.",
+   "box": "none",
+   "prose": "Note which way the seal ring faces as it comes off: its angled, bevelled edge goes back against the inertia weight.",
+   "quote": "Remove the O-Ring and the forward seal ring.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — ACTION, printed p.13 (PDF p.8)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hold the action back a little, pull the operating handle straight out",
+   "action": "With the barrel off, the action spring pushes the mechanism forward and the operating handle comes to rest against the front edge of the ejection port. Push the action bar slightly rearward, hold it there, and pull the operating handle straight out of the bolt.",
+   "box": "none",
+   "prose": "Keep hold of the mechanism while the handle comes out - it is still under the action spring.",
+   "quote": "Push the action bar slightly rearward and while holding the mechanism, remove the operating handle by pulling straight out.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — ACTION, printed p.13 (PDF p.8)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Inertia weight, action bar and bolt out as one",
+   "action": "Draw the inertia weight, action bar and bolt assembly forward out of the receiver and off the magazine tube.",
+   "box": "none",
+   "prose": "They come out together, forward along the tube.",
+   "quote": "Remove the inertia weight action bar and bolt assembly from the receiver and magazine tube (Fig. 15)",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — ACTION, printed p.13 (PDF p.8)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Action spring and buffer off together, by the buffer",
+   "action": "Take hold of the buffer and slide it and the action spring forward off the magazine tube together.",
+   "box": "none",
+   "prose": "By the buffer, both at once. Pulling the spring off by its coils stretches it, and a stretched action spring changes how the gun cycles.",
+   "quote": "Remove the action spring and buffer simultaneously by grasping the buffer (Fig. 15) and sliding it forward and off the magazine tube. This method of removal will prevent stretching and distorting of the action spring.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — ACTION, printed p.13 (PDF p.8)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Two trigger housing pins out with a blunt punch",
+   "action": "Push out the two trigger housing retaining pins with a blunt object such as a pin punch.",
+   "box": "none",
+   "prose": "Blunt, not pointed - a sharp tool marks the receiver around the pin holes.",
+   "quote": "Using a blunt object, push out the two trigger housing retaining pins (Fig. 16)",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — ACTION, printed p.13 (PDF p.8)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger housing straight out - and it stays in one piece",
+   "action": "Pull the trigger housing assembly straight out of the receiver.",
+   "box": "none",
+   "prose": "That is as far as the trigger group goes. Mossberg says the housing is a complex assembly that is not to be taken apart; its disassembly belongs to the factory or a qualified gunsmith.",
+   "quote": "The trigger housing assembly can now be pulled straight out of the receiver.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — ACTION, printed p.13 (PDF p.8)",
+   "warn": "The trigger housing assembly is a complex assembly and must not be disassembled. Disassembly should only be performed by the factory or a qualified gunsmith.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Do not drop the hammer with the housing out",
+   "action": "Leave the trigger alone while the housing is out of the receiver. Letting the hammer fall on nothing can hurt you or damage the assembly.",
+   "box": "limit",
+   "prose": "The hammer is cocked when the housing comes out, and that is how it should stay until the housing is back in the gun.",
+   "quote": "CAUTION: Do not pull the trigger and allow the hammer to fall when the trigger housing assembly is removed from the receiver. To do so may result in personal injury or damage to the assembly.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — ACTION, printed p.14 (PDF p.9)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Barrel, forend, recoil spring and washer, O-ring, seal ring, operating handle, inertia weight with action bar and bolt, action spring and buffer, and the trigger housing are all out. Mossberg stops here for routine cleaning.",
+   "box": "limit",
+   "prose": "Anything further is factory or gunsmith work, in the book's own words.",
+   "quote": "CAUTION: Field disassembly is now completed. The shotgun should not be disassembled further for routine cleaning or maintenance.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — ACTION, printed p.14 (PDF p.9)",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore and chamber, then the barrel extension and gas cylinder",
+   "action": "Scrub the bore and chamber with solvent, then patches until the barrel comes clean, and finish with a lightly oiled patch. Clean the deposits out of the barrel extension and the gas cylinder.",
+   "box": "none",
+   "prose": "The gas cylinder under the barrel is part of the gas system - what builds up there is what slows the action.",
+   "quote": "Scrub bore and chamber with solvent and follow with cleaning patches until barrel is clean. A final pass with a lightly oiled patch will provide a protective coating. Clean and remove any deposits in the barrel extension and gas cylinder",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — CLEANING AND LUBRICATION, printed p.14 (PDF p.9)"
+  },
+  {
+   "phase": "Clean",
+   "title": "Choke tube in while the barrel is cleaned",
+   "action": "On a choke-tube barrel, keep a choke tube properly installed while you clean the bore so residue does not build up on the threads. Keep the tube's own threads clean and lightly oiled.",
+   "box": "none",
+   "prose": "Never fire the gun without a choke tube in a choke-tube barrel; the book warns it damages the threads inside the barrel.",
+   "quote": "During cleaning of the barrel, be certain a choke tube is properly installed. This will avoid residue build-up on threads.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — CHOKE TUBES - CARE & CLEANING, printed p.18 (PDF p.11)"
+  },
+  {
+   "phase": "Clean",
+   "title": "Solvent and a stiff brass brush on every gas part",
+   "action": "Clean the inertia weight, magazine tube, action spring, forward seal ring, O-ring and the barrel's gas cylinder with solvent. A stiff brass bristle brush shifts stubborn deposits.",
+   "box": "none",
+   "prose": "These are the parts that decide whether the gun cycles. Brass, not steel, on the seal ring and the tube.",
+   "quote": "GAS SYSTEM — The gas system includes the inertia weight, magazine tube, action spring, forward seal ring, O-ring and the gas cylinder of the barrel. These parts should be thoroughly cleaned using solvent. A stiff brass bristle brush is useful for removing stubborn deposits (See Fig. 17 & 18).",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — CLEANING AND LUBRICATION, printed p.15 (PDF p.9)"
+  },
+  {
+   "phase": "Clean",
+   "title": "Action parts in an evaporating solvent, oil kept sparing",
+   "action": "Clean every part of the action to remove the accumulated residue, using an evaporating solvent. Lubricate sparingly.",
+   "box": "none",
+   "prose": "Sparing oil keeps the action cleaner for longer; a wet action collects residue.",
+   "quote": "ACTION CLEANING — Clean all components of the action (See Fig. 15) to remove accumulated residue. An evaporating solvent should be used. Action parts will remain cleaner longer if lubrication is used sparingly.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — CLEANING AND LUBRICATION, printed p.14 (PDF p.9)"
+  },
+  {
+   "phase": "Clean",
+   "title": "A light coat of oil, then wiped back with a dry cloth",
+   "action": "Give all metal parts a light coat of gun oil, then wipe them thoroughly with a dry cloth.",
+   "box": "none",
+   "prose": "Wipe it back. Excess oil speeds carbon build-up in the gas system and can hurt how the gun runs.",
+   "quote": "Apply a light coat of gun oil to all metal parts and then wipe thoroughly with a dry cloth. Excess oil will accelerate the build up of carbon residue in the gas system and may have a negative effect on gun performance.",
+   "cite": "MODEL 5500 MK II AUTOLOADING SHOTGUN OWNER'S MANUAL — Model 5500 MK II owner's manual (no part number or edition printed) — CLEANING AND LUBRICATION, printed p.15 (PDF p.9)"
+  }
+ ],
+ "deepAbsentReason": "The Model 5500 MK II book ends at field disassembly. After the trigger housing comes out it says field disassembly is now completed, that the shotgun should not be disassembled further for routine cleaning or maintenance, and that further disassembly should only be performed by the factory or a qualified gunsmith (printed p.14); it also states the trigger housing assembly must not be disassembled (printed p.13). Everything the book publishes - barrel, gas seals, the action, the action spring and the trigger housing - is walked in the field strip. Nothing deeper is published, so nothing deeper is walked.",
+ "cleaning": [
+  {
+   "name": "BARREL & CHOKE TUBE",
+   "tasks": [
+    "Scrub the bore and chamber with solvent, then patches until clean",
+    "A final lightly oiled patch through the bore",
+    "Clean the deposits out of the barrel extension and the gas cylinder",
+    "Choke tube installed while the bore is cleaned; its threads kept clean and lightly oiled",
+    "Never fire a choke-tube barrel without a choke tube properly installed"
+   ]
+  },
+  {
+   "name": "GAS SYSTEM",
+   "tasks": [
+    "Inertia weight, magazine tube, action spring, forward seal ring and O-ring cleaned in solvent",
+    "A stiff brass bristle brush on stubborn deposits",
+    "Note the forward seal ring's bevelled edge - it goes back against the inertia weight"
+   ]
+  },
+  {
+   "name": "ACTION",
+   "tasks": [
+    "Bolt, action bar and operating handle cleaned with an evaporating solvent",
+    "Lubricate sparingly - action parts stay cleaner longer",
+    "Do not pull the trigger with the trigger housing out of the receiver",
+    "Do not disassemble the trigger housing assembly"
+   ]
+  },
+  {
+   "name": "OIL & STORAGE",
+   "tasks": [
+    "A light coat of gun oil on all metal parts, wiped thoroughly with a dry cloth",
+    "Avoid over-lubrication below freezing",
+    "For long storage clean and oil thoroughly; do not plug the barrel or store in a fabric-lined case",
+    "Wipe off excess lubrication before firing after storage"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     18,
+     19
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     20
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     21
+    ]
+   },
+   {
+    "g": 3,
+    "steps": [
+     22
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "Inertia weight buffer onto the magazine tube, flat side toward the muzzle, slid back until it rests firmly against and overlaps under the receiver.",
+  "Action spring on by its double-wound end, turned counter-clockwise as it slides on, until it seats in the cut in the end of the buffer.",
+  "Action bar and inertia weight onto the tube until the front of the inertia weight is even with the end of the tube; the bolt on the bolt block; action bars lined up with the cuts in the front of the receiver.",
+  "Push the assembly into the receiver by the inertia weight against the action spring. If the bolt stops about halfway, do not force it - rotate the action bars slightly counter-clockwise to get past the right-hand shell stop.",
+  "When the front of the bolt shows in the ejection port, hold the pressure and push the operating handle into the side of the bolt, notch toward the butt, until it snaps in.",
+  "Forward seal ring onto the tube with its bevelled edge against the inertia weight, then the rubber O-ring against the seal ring.",
+  "Trigger housing into the receiver, pin holes aligned, both pins in until flush with the sides of the receiver.",
+  "Barrel: fit the barrel extension into the receiver while sliding the gas cylinder over the magazine tube, push it in until the bolt stops, and while holding it there pull the operating handle back until the bolt locks open so the barrel seats fully.",
+  "Recoil spring, then washer, onto the tube; forend on; forend cap screwed down hand-tight."
+ ],
+ "fncheck": "Gun completely unloaded and pointed somewhere safe. Safety ON: pull the bolt fully back - it should lock open. Fingers clear of the port, press the bolt release - the bolt should run forward and lock fully closed; repeat several times to feel the action move freely. Bolt closed, safety ON: pull the trigger fully - the hammer should NOT fall. Finger off, safety to OFF - the hammer should still not fall. Then pull the trigger - the hammer should fall. Open the action and put the safety back ON. If any step does not behave as described, Mossberg's book says not to use the gun and to contact them."
+}

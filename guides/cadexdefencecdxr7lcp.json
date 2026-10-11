@@ -1,0 +1,133 @@
+{
+ "bpLabel": "Fieldstrip Best Practices guide. No manufacturer manual exists for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
+ "bpClass": "FA-BOLT",
+ "bpTemplateVersion": 1,
+ "row": "cadexdefencecdxr7lcp",
+ "make": "Cadex Defence",
+ "model": "CDX-R7 LCP",
+ "cleanIntro": "No manual from Cadex Defence exists for this model. Rifles of this kind are opened and closed by hand, which makes them simple to clear and clean — but the way the bolt comes out differs from rifle to rifle, so this guide leaves it in. Everything here is done with the action open: the bore by pull-through or from the muzzle, the parts you can reach, and the outside.\n\nListed in Fieldstrip as several chamberings. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Ammunition out of the room, muzzle somewhere safe",
+   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "box": "none",
+   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, action open",
+   "action": "If the rifle takes a detachable magazine, take it out first. Then open the action fully: lift the bolt handle and draw it all the way back; on a straight-pull, draw it straight back; on a lever action, swing the lever fully down and forward. Work it closed and open again until nothing more comes out, and leave it open.",
+   "box": "none",
+   "prose": "Keep your hand and thumb out of the bolt's path whenever you close it."
+  },
+  {
+   "phase": "Clear",
+   "title": "Look, then feel — and do it twice",
+   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "box": "none",
+   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Cadex Defence with the gun pointed somewhere safe."
+  },
+  {
+   "phase": "Strip",
+   "title": "The bolt stays in — and that is deliberate",
+   "action": "Leave the bolt in the rifle. How a bolt comes out differs from rifle to rifle — a lever beside the action, a button inside the trigger guard, or a release that needs the trigger held — and a guide that cannot see your rifle cannot say which. Everything that follows is done with the action open.",
+   "box": "none",
+   "prose": "⛔ If you do not know where your rifle's bolt release is, never pull the trigger to find out. No screw, stock bolt, trigger or scope mount is touched in this guide."
+  },
+  {
+   "phase": "Clean",
+   "title": "The bore, by pull-through or from the muzzle",
+   "action": "With the action open, drop a pull-through cord in at the chamber and draw it out of the muzzle — a brush wet with bore solvent first, then dry patches until they come out clean. If the open bolt does not leave the chamber clear for a cord, work from the muzzle with a rod and a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "box": "none",
+   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+  },
+  {
+   "phase": "Clean",
+   "title": "The open action",
+   "action": "With the action open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach with a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action or the trigger: what runs in there cannot be wiped back out. A thin film of oil on the outside of the bolt where it slides is enough.",
+   "box": "none"
+  },
+  {
+   "phase": "Clean",
+   "title": "The outside, and how it is stored",
+   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
+   "box": "none"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Look for the things that mean stop",
+   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Cadex Defence.",
+   "box": "none",
+   "prose": "Any one of these means the gun is not fired until Cadex Defence has seen it."
+  }
+ ],
+ "deepAbsentReason": "There is no deep clean for the Cadex Defence CDX-R7 LCP, and this guide will not invent one. No manual from Cadex Defence exists for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Cadex Defence, not onto the bench.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Pull-through from the open chamber, or from the muzzle with a rod guide",
+    "Brush wet with bore solvent, then dry patches until clean",
+    "A lightly oiled patch for storage; a dry patch before the next shot"
+   ]
+  },
+  {
+   "name": "THE OPEN ACTION",
+   "tasks": [
+    "Bolt face and chamber mouth wiped",
+    "Receiver wiped where a cloth reaches",
+    "A thin film of oil on the bolt where it slides",
+    "⛔ No solvent poured or sprayed into the action or the trigger"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wiped with a lightly oiled cloth",
+    "No solvent on wood, finishes or optics"
+   ]
+  },
+  {
+   "name": "STORAGE",
+   "tasks": [
+    "Stored dry — never shut in a closed case while damp",
+    "Looked over for rust at every clean"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     4
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     5
+    ]
+   },
+   {
+    "g": 2,
+    "steps": []
+   },
+   {
+    "g": 3,
+    "steps": [
+     6
+    ]
+   },
+   {
+    "s": 7
+   }
+  ]
+ },
+ "reassembly": [
+  "Nothing was taken apart, so nothing goes back together.",
+  "Close the action under control, with your hand and thumb out of its path."
+ ],
+ "fncheck": "Magazine out and the chamber empty. The action opens and closes fully and smoothly: a bolt handle turns fully down, a lever closes flush. Any safety you can see moves through each of its positions. This check never asks you to pull the trigger — on a rimfire, dry firing can damage the chamber edge, and on any rifle whether it tolerates it is a question for Cadex Defence."
+}

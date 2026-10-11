@@ -1,0 +1,216 @@
+{
+ "row": "kalashnikovusakr103",
+ "make": "Kalashnikov USA",
+ "model": "KR-103",
+ "sourcedFrom": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 (2021)",
+ "sourceSha256": "049772b3fd947a731bfcbe8d4e6f69a0821274f3359336a66dae78b17574a62b",
+ "cleanIntro": "The KR-103 is a US-built 7.62x39 rifle made to the AK-100 pattern, and it field strips the AK way: top cover, recoil spring assembly, carrier and bolt as one unit, then the gas tube and handguards. ⚠ Two things catch people. The recoil spring guide's button is what holds the top cover on — push it in as you lift — and the book has you move the safety DOWN to F before the carrier comes out. Kalashnikov USA asks for a clean after each use, and a drop of oil in six named places and none in the gas system.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine off, bolt back, chamber and magazine well empty",
+   "action": "Point the rifle in a safe direction, rock the magazine off, move the safety down off S, and pull the bolt handle fully back. Look into the chamber AND the magazine well, then let the bolt go forward.",
+   "box": "none",
+   "prose": "An AK has no bolt hold-open, so you hold the handle back yourself while you look. The safety has to come off before the handle will travel — that is the lever, not a fault.",
+   "quote": "With the rifle pointed in a safe direction, detach the magazine, disengage the safety, retract the bolt using the bolt handle, examine the chamber and magazine well to make sure that it is empty, and finally move the bolt into the forward position.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.1 General, 3.1.2, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Safety back up to S before you start",
+   "action": "With the rifle confirmed empty, move the safety lever back UP to S. It stays there for the cover and the spring, and comes down again only for the carrier.",
+   "box": "none",
+   "prose": "The book sets the safety twice in the strip: S here, F for the carrier. Doing it in that order keeps the trigger blocked while your hands are on the receiver.",
+   "quote": "Move the safety lever to “S” or safe position.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.2 Field Stripping, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "⚠ Push the spring-guide button IN, then lift the top cover",
+   "action": "Press the receiver cover release button at the rear of the cover. With one hand on the rear of the cover and the other on the buttstock, push the exposed button of the recoil spring guide forward into the receiver and, as it goes in, pull the cover UP and off.",
+   "box": "none",
+   "prose": "The cover is not clipped on — the tip of the spring guide through its rear hole is the retainer. Prising the cover without pushing the guide in is how covers get bent.",
+   "quote": "Using the hand holding the rear of the receiver push the exposed button of the recoil spring guide and push forward the recoil spring guide into the receiver as you pull the cover up to separate the cover from the recoil spring guide and receiver.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.2 Field Stripping, Figure 3.2, p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring: forward an inch, then up and back",
+   "action": "Push the recoil spring guide FORWARD about one inch (2.5 cm) until it clears the slot in the rear block, then lift the whole spring assembly up and out to the rear of the carrier channel.",
+   "box": "limit",
+   "prose": "Forward first clears the hook in the rear trunnion. Pulling straight up while it is still hooked fights the slot.",
+   "quote": "Push the recoil spring guide forward one inch (2.5 cm) until the guide is out of the receiver end slot of the rear block and extract the recoil spring assembly from the receiver and the bolt carrier channel, moving it up and to the rear.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.2 Field Stripping, Figure 3.3, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Safety DOWN to F, carrier fully back, lift, then out",
+   "action": "Move the safety lever down to F, fingers clear of the trigger. Draw the carrier all the way to the rear, lift it just out of the receiver, then draw it back so the piston slides out of the gas tube. Carrier and bolt come out together.",
+   "box": "none",
+   "prose": "Keep your fingers off the trigger while the safety is on F. The carrier only lifts at the very rear of its travel, and it must come back far enough for the piston to clear the tube.",
+   "quote": "Move\nthe safety lever to the “F” (Fire) position, keeping your fingers away from the trigger area. Retract the bolt carrier until it is at the rear of the receiver, lift it up until it is just out of the receiver and then to the rear to allow the gas piston to come out of the gas tube and remove the bolt carrier and bolt as one unit.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.2 Field Stripping, Figure 3.4, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out of the carrier — turn it counter-clockwise, then forward",
+   "action": "Hold the carrier, turn the bolt head counter-clockwise; it rides back about an inch in its cam slot. Keep turning until it stops moving rearward, then slide it straight FORWARD out of the carrier.",
+   "box": "none",
+   "prose": "The cam slot drives it back as it turns. Once the lug clears the slot it turns freely, and that is your cue to pull it forward without twisting.",
+   "quote": "turn the bolt head counterclockwise with your other hand. As the bolt turns counterclockwise it will also move to the rear of the bolt carrier.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.2 Field Stripping, Figure 3.5, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gas tube: rotate the latch lever until its cam is clear",
+   "action": "Rotate the gas tube latch lever on the rear sight block until you can SEE the cam portion is clear of the tube, then lift the upper handguard and gas tube from the rear, up and out.",
+   "box": "none",
+   "prose": "The latch is a cam lock, so it releases by rotation, not by pulling. Look at the cam before you lift — a half-turned latch still holds the tube.",
+   "quote": "rotate the lever and position the the latch till you can visually see the cam portion of the latch holding the gas tube down clear away allowing for unobstructed removal of gas tube.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.2 Field Stripping, Figures 3.6-3.8, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cleaning rod: hold the detent, unscrew the muzzle device",
+   "action": "Press and HOLD the detent on the front sight base, and unscrew the muzzle device counter-clockwise. With it off, pull the rod head down slightly to clear the front sight base threads and draw the rod out.",
+   "box": "none",
+   "prose": "Keep the detent held down for the whole unscrewing. The rod is stored under the barrel and is the one the book uses for the bore.",
+   "quote": "Located on the front sight base, depress detent (Figure 3.9). Maintain\nholding detent depressed, begin unscrewing your muzzle device in a counterclockwise rotation until it is removed (Figure 3.10).",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.2 Field Stripping, Figures 3.9-3.11, p.24"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lower handguard: lever forward, slide forward, then down",
+   "action": "Rotate the handguard lock lever toward the muzzle, slide the lower handguard FORWARD, then down and out. That is the end of the field strip the book publishes.",
+   "box": "none",
+   "prose": "Forward first, then down — the order the book gives. Lay the parts out in the order they came off.",
+   "quote": "rotate the lever towards the front\nof the barrel. As shown in Figure 3.14, slide the lower hand guard forward, then downwards and out, removing lower hand guard from the action.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.2 Field Stripping, Figures 3.12-3.14, p.25"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore: brush, then patches until clean, then one oiled patch",
+   "action": "With the issued rod and a bore brush, run cleaner through the barrel a few times to lift fouling; then patches until they come out clean, and a last patch with a few drops of gun oil.",
+   "box": "none",
+   "prose": "Clean from the rear with the carrier out — the strip gives you a straight line into the chamber.",
+   "quote": "Apply bore cleaner to the brush and run it through the barrel a few times to remove fouling.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.4 Cleaning and Lubrication, p.28"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe where the bolt, carrier and receiver meet",
+   "action": "Wipe the faces where bolt and carrier interface and the receiver itself, paying most attention to the receiver rails, the front trunnion's bolt-lug slots, the carrier's rail slots and the whole bolt.",
+   "box": "limit",
+   "prose": "These are the book's \"minimal cleaning areas\" — the surfaces that carry the action and the lugs that lock it.",
+   "quote": "Wipe the clean area where the bolt carrier and bolt interface with each other along with the receiver. Paying extra attention to the rails of the receiver, front trunnion bolt lug slots, receiver rail slots in the bolt carrier and all of the bolt assembly.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.4 Cleaning and Lubrication, minimal cleaning areas, p.28"
+  },
+  {
+   "phase": "Clean",
+   "title": "One small drop at each of six points",
+   "action": "With the bolt back in the carrier, one small drop of oil on each rail slot, the back of the bolt's locking lugs, the forward cam lug, and the carrier's hammer-riding surface. ⛔ The book says not to oil the gas block or the piston.",
+   "box": "none",
+   "prose": "Oil in the gas system bakes to carbon. The six points are where steel slides on steel.",
+   "quote": "With the bolt in the carrier, lube both rail slots, back of locking lugs of the bolt, forward cam lug, and finally the hammer ridding surface of the bolt carrier.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.4.2 Lubing, p.28"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Hammer cocked before the carrier goes in",
+   "action": "Before the carrier goes back in, check the hammer is caught on the trigger hook. If it is not, push it back and down with a finger until it engages.",
+   "box": "none",
+   "prose": "A hammer standing up blocks the carrier from seating on the rails.",
+   "quote": "Before putting the bolt carrier group into the receiver make sure that the hammer is engaged with the trigger-mechanism (trigger hook). If the hammer is not engaged, using your finger, push the hammer to the rear and down until it engages the trigger hook.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.3 Reassembly, p.26"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Carrier down onto BOTH rails, then forward",
+   "action": "Piston into the gas tube, then press the carrier down against the hammer spring until its rails bear on both receiver rails, left and right, and push it forward into battery.",
+   "box": "none",
+   "prose": "If one side is not on its rail the carrier binds half way. Push down first, then forward.",
+   "quote": "Insert bolt carrier group into the receiver. Push down over coming hammer spring tension till the bolt carrier group rails have full contact to both receiver rails left and right.",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.3 Reassembly, p.27"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Top cover front-face first, rear down with forward pressure",
+   "action": "Spring assembly back into the carrier channel with the guide base in the rear trunnion grooves. Then the cover: front face into the notch on the rear sight base, rear pressed DOWN while you keep pressing FORWARD, until the guide's button comes through.",
+   "box": "none",
+   "prose": "Let the forward pressure off and the front of the cover hops out of its notch.",
+   "quote": "Insert the top cover by its front face into the semicircular notch on the rear sight base and press the rear of the top cover down while maintaining forward pressure",
+   "cite": "KR-103 SERIES SEMI-AUTOMATIC 7.62X39mm RIFLE OWNER'S MANUAL — Version 1 — 3.3 Reassembly, p.27"
+  }
+ ],
+ "deepAbsentReason": "Kalashnikov USA's KR-103 Owner's Manual (Version 1, 2021) publishes a field strip (section 3.2, pp.20-25), reassembly (3.3, pp.26-27) and cleaning and lubrication (3.4, pp.27-28), and nothing beyond it: no trigger-group, gas-block, barrel or bolt-internal disassembly is described anywhere in the book. Nothing deeper is published for this rifle, so nothing deeper is written here.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Bore brushed with cleaner a few passes",
+    "Patches run until they come out clean",
+    "One last patch with a few drops of gun oil"
+   ]
+  },
+  {
+   "name": "BOLT, CARRIER AND RECEIVER",
+   "tasks": [
+    "Receiver rails wiped",
+    "Front trunnion bolt-lug slots wiped",
+    "Carrier rail slots and bolt wiped",
+    "Outer parts cleaned of carbon, light coat of oil"
+   ]
+  },
+  {
+   "name": "SIX OIL POINTS — NONE IN THE GAS SYSTEM",
+   "tasks": [
+    "Both rail slots — one small drop",
+    "Back of the bolt's locking lugs",
+    "Forward cam lug",
+    "Carrier's hammer-riding surface",
+    "⛔ No oil in the gas block or on the piston"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     9
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     10
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     11
+    ]
+   },
+   {
+    "s": 12
+   },
+   {
+    "s": 13
+   },
+   {
+    "s": 14
+   }
+  ]
+ },
+ "reassembly": [
+  "Bolt into the carrier, cam into its channel, moved forward until it stops.",
+  "Hammer engaged on the trigger hook.",
+  "Carrier in, piston into the gas tube, pressed down onto both rails, pushed forward.",
+  "Recoil spring assembly into the carrier channel, guide base in the rear trunnion grooves.",
+  "Top cover front face into the rear sight base notch, rear pressed down with forward pressure.",
+  "Upper handguard / gas tube, lower handguard, cleaning rod and muzzle device back, latches closed.",
+  "Safety returned to S."
+ ],
+ "fncheck": "Kalashnikov USA's pre-use checks: the handguard secured by its lock lever, then — with the chamber empty and the magazine out — pull the bolt handle fully back and release it to check the rifle functions. Finish with the safety up on S. ⚠ Check the top cover is locked at both ends and the gas tube latch cam is fully closed over the tube before you load."
+}
