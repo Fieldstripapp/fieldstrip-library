@@ -27,6 +27,12 @@ const path = require('path');
 const ROOT = path.resolve(__dirname, '..');
 const PROVE = process.argv.includes('--prove-fail');
 if (PROVE) process.env.FIELDSTRIP_PUBLISH_PROVE_FAIL = 'stamp';
+/* --app <dir> (check-speed order 2026-10-11): the app tree to build from — the gate passes its own tree, so a run in a
+   worktree never reads the main tree another session is checking branches out in (2026-10-11: a spec ls-tree listed at
+   the main tree's HEAD was gone by the time it was read, because a landing moved that HEAD mid-run). lib/appsrc reads
+   FIELDSTRIP_APP at load, so it is set before the require below. */
+const appArg = process.argv.indexOf('--app');
+if (appArg >= 0) process.env.FIELDSTRIP_APP = path.resolve(process.argv[appArg + 1] || '');
 const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'fs-appcommit-'));
 process.argv.push('--out', tmp);                       /* publish.js reads --out at load */
 const app = require('./lib/appsrc');
@@ -38,7 +44,14 @@ const fileOf = (p, name) => (p.files.find(x => x.path === name) || {}).bytes;
 
 try {
   ['index.json', 'changelog.json'].forEach(x => fs.copyFileSync(path.join(ROOT, x), path.join(tmp, x)));
-  const realHead = app.head();
+  /* ⛔ NEVER THE APP'S LIVE COMMIT ID (check-speed order 2026-10-11). Every read still resolves against the app's HEAD
+     CONTENT; the id the build stamps is a fixture, swapped through lib/appsrc exactly as step 2 swaps it. The verdict
+     never depended on which commit HEAD was — only on whether the content moved — and reading it made this suite re-run
+     (12 minutes, twice with its prove-fail) on every commit. The fixture is a real-looking id no app commit is: the
+     shelf's own appCommit can never equal it, so step 1's "stays the shelf's" can only pass for the right reason. */
+  const realHead = 'a1'.repeat(20);
+  app.head = () => realHead;
+  app.headSubject = () => 'fixture commit ' + realHead;
   const p1 = build();
   ['index.json', 'changelog.json'].forEach(x => fs.writeFileSync(path.join(tmp, x), fileOf(p1, x)));
   const s1Index = fs.readFileSync(path.join(tmp, 'index.json')), s1Log = fs.readFileSync(path.join(tmp, 'changelog.json'));
@@ -46,7 +59,7 @@ try {
   const shelf = JSON.parse(fs.readFileSync(path.join(ROOT, 'index.json'), 'utf8'));
   /* the 2026-10-03 shape itself: today's app HEAD against the published shelf. When it publishes nothing,
      appCommit must stay the shelf's; when it would publish, it must take the HEAD */
-  T('THE REAL SHELF at app HEAD ' + realHead.slice(0, 8) + ': ' + (p1.contentChanged ? 'content moved, appCommit takes the HEAD' : 'nothing to publish, appCommit stays the shelf\'s (' + String(shelf.appCommit).slice(0, 8) + ')'),
+  T('THE REAL SHELF at the app HEAD content (fixture id ' + realHead.slice(0, 8) + '): ' + (p1.contentChanged ? 'content moved, appCommit takes the HEAD' : 'nothing to publish, appCommit stays the shelf\'s (' + String(shelf.appCommit).slice(0, 8) + ')'),
     p1.contentChanged ? s1.appCommit === realHead : (s1.appCommit === shelf.appCommit && Buffer.compare(s1Index, fs.readFileSync(path.join(ROOT, 'index.json'))) === 0),
     JSON.stringify({ contentChanged: p1.contentChanged, s1: s1.appCommit, shelf: shelf.appCommit }));
 

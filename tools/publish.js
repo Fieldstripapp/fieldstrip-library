@@ -53,6 +53,11 @@ const OUT = (() => {
   const i = process.argv.indexOf('--out');
   return i >= 0 ? path.resolve(process.argv[i + 1] || '') : ROOT;
 })();
+/* a fixture app commit (lib/appsrc FIELDSTRIP_APP_HEAD_FIXTURE) is for a gate's throwaway build only */
+if (process.env.FIELDSTRIP_APP_HEAD_FIXTURE && OUT === ROOT) {
+  console.error('⛔ REFUSING — FIELDSTRIP_APP_HEAD_FIXTURE is set and --out is not: the real shelf is never stamped with a fixture commit');
+  process.exit(2);
+}
 const GUIDES_DIR = path.join(OUT, 'guides');
 const DRY = process.argv.includes('--dry-run');
 

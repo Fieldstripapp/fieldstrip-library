@@ -42,12 +42,21 @@ function git(args, opts) {
   }, opts || {}));
 }
 
+/* FIELDSTRIP_APP_HEAD_FIXTURE (check-speed order 2026-10-11): an app gate that builds a THROWAWAY library with this
+   publisher (publish.js --out <scratch>; smoke_vc35_net, smoke_vc35b_shelf) names a fixture commit id here instead of
+   the app's live HEAD. Every READ still resolves against HEAD; only the id stamped into the throwaway index changes. The
+   live id was the one thing those gates read that moved with every commit, and none of them looks at it.
+   publish.js refuses the fixture without --out: the real shelf is never stamped with it. */
+const HEAD_FIXTURE = process.env.FIELDSTRIP_APP_HEAD_FIXTURE || '';
+
 /** The commit every read in this publish resolves against. */
 function head() {
+  if (HEAD_FIXTURE) return HEAD_FIXTURE;
   return git(['rev-parse', 'HEAD'], { encoding: 'utf8' }).trim();
 }
 
 function headSubject() {
+  if (HEAD_FIXTURE) return 'fixture commit ' + HEAD_FIXTURE;
   return git(['log', '-1', '--pretty=%s'], { encoding: 'utf8' }).trim();
 }
 
