@@ -1,0 +1,220 @@
+{
+ "row": "rockislandarmory1911tacticaliifs",
+ "make": "Rock Island Armory",
+ "model": "1911 Tactical II FS",
+ "sourcedFrom": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") (not printed as a © line; the cover carries SEPTEMBER 2016)",
+ "sourceSha256": "6a18808a8f8cd8d468f0cf920f763ea72d9d8918ffb0892bf24d68da917f90ba",
+ "cleanIntro": "This guide follows Rock Island Armory's manual for its 1911 A1/A2 pistols, which does not name the Tactical II, so check your pistol against it. Every step below is quoted from that book and stated as generally as the book states it.\n\nThe book prints one field strip for its full-size 1911s and a separate path for compact and bull-barrelled pistols. Which one applies depends on whether your barrel wears a bushing, so step 2 settles that before anything comes apart. Routine cleaning stops at the slide and barrel assembly; the book calls that sufficient.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, chamber checked with the slide back",
+   "action": "This guide follows Rock Island Armory's manual for its 1911 A1/A2 pistols, which does not name the Tactical II, so check your pistol against it. Point the pistol in a safe direction with your finger outside the trigger guard, press the magazine release and take the magazine out. Then pull the slide back and look into the chamber: a 1911 can hold a round in the chamber with the magazine gone, so the book makes both one instruction.",
+   "box": "none",
+   "aside": "Place your free hand under the magazine to prevent it from falling and press the magazine catch to release",
+   "quote": "Press the magazine release and remove the magazine. Pull the slide back and check the chamber to ensure that the pistol is unloaded and safe to handle.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Maintenance, Field Stripping: Disassembly, step 1, p.35"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bushing or bull barrel decides the next steps",
+   "action": "Look at the muzzle. If a separate ring sits around the barrel inside the front of the slide, your pistol has a barrel bushing and the steps below run in order. If the barrel fills the slide's front opening with no ring, it is a bull barrel: the book skips the bushing steps and sends you to its own section, which is in Deep Clean here. The name on the catalog row does not settle this, so check your own pistol.",
+   "box": "limit",
+   "aside": "NOTE: for bull-barreled pistols, see “disassembly of MS, CS and Bull-barreled pistols”. For 6” pistols, see “Barrel Disassembly of 6” Pistols”.",
+   "quote": "Bull-barreled pistols do not use a barrel bushing.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Basic Parts, parts-list footnote, p.16",
+   "warn": "NOTE: For bull-barreled pistols, proceed to number 4.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Plug held down, bushing turned clockwise",
+   "action": "Press the recoil spring plug into the slide with your thumb and keep it there, then turn the barrel bushing clockwise out from over it. The plug is holding the recoil spring back the whole time, so keep your thumb on it and the muzzle away from your face.",
+   "box": "none",
+   "quote": "Press the recoil spring plug with your thumb and rotate the barrel bushing clockwise.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Maintenance, Field Stripping: Disassembly, step 2, p.35",
+   "warn": "NOTE: For bull-barreled pistols, proceed to number 4.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Plug and spring eased forward, left in place",
+   "action": "Let the plug and recoil spring move forward slowly under your thumb instead of letting go. Do not take them out yet: the book says they keep the recoil spring guide in place until the slide is off the frame.",
+   "box": "limit",
+   "quote": "Slowly allow the plug and recoil spring assembly to move forward. Do not remove yet as this will keep the recoil spring guide in place.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Maintenance, Field Stripping: Disassembly, step 3, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide stop out at the disassembly notch",
+   "action": "Pull the slide back until the lug on the slide stop lines up with the disassembly notch, then push the rounded end of the slide stop pin in from the right side of the frame and take the stop out to the left. It only passes at the notch; if it will not move, the slide has drifted off the notch, and forcing it marks the frame.",
+   "box": "none",
+   "aside": "Push inward and through the frame and disengage slide stop from slide and frame.",
+   "quote": "Pull the slide back until the lug on the slide stop is opposite the disassembly notch and push rounded end of pin of slide stop found at right side of the frame.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Maintenance, Field Stripping: Disassembly, step 4, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide run forward off the frame",
+   "action": "Run the slide forward along its rails and off the front of the frame. The barrel, bushing, recoil spring, guide and plug come with it, so support the assembly as it clears. On a bull-barrelled pistol, keep the recoil spring and guide in place while you do this.",
+   "box": "none",
+   "aside": "The barrel, barrel bushing, recoil spring, recoil spring guide and recoil spring plug will come out with it.",
+   "quote": "Pull the slide forward on its guide rails in the frame.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Maintenance, Field Stripping: Disassembly, step 5, p.35",
+   "warn": "NOTE: For bull barreled pistols, caution must be observed to keep the recoil spring and recoil spring guide in place during the process.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring guide and plug out of the slide",
+   "action": "With the slide off the frame, take the recoil spring guide and the plug out of the slide. Note which way round they sat so they go back the same way.",
+   "box": "none",
+   "quote": "Remove the recoil spring guide and plug from the slide.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Maintenance, Field Stripping: Disassembly, step 6, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bushing turned left and drawn out the front",
+   "action": "Turn the barrel bushing to the left as far as it will go and pull it forward out of the slide. It only releases at the end of its travel, so if it will not come out, turn it further. A bull-barrelled pistol has no bushing, so there is nothing to do here.",
+   "box": "none",
+   "quote": "Rotate the barrel bushing to the left as far as it will go and pull it out to the front (this is not applicable for models using a bull-barrel).",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Maintenance, Field Stripping: Disassembly, step 7, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel link tilted forward, barrel out the front",
+   "action": "Tilt the barrel link forward and draw the barrel out through the front of the slide. Forward is the only way it comes out; levering it backwards just wedges the lugs in the slide.",
+   "box": "none",
+   "quote": "Tilt the barrel link forward to remove the barrel through the front of the slide.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Maintenance, Field Stripping: Disassembly, step 8, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Slide, barrel, bushing, recoil spring, guide and plug are off the frame, and the book says that is enough for normal cleaning. The firing pin and extractor are in Deep Clean.",
+   "box": "none",
+   "quote": "Under normal cleaning purposes, field stripping or dismounting of the slide and barrel assembly is sufficient.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Care and Maintenance, p.38",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore and chamber scrubbed with solvent",
+   "action": "Dip a bore brush in gun cleaning solvent and scrub the bore and the chamber until the firing residue is out.",
+   "box": "none",
+   "quote": "Use a bore brush dipped in a gun cleaning solvent to scrub the barrel bore and chamber and remove all firing residues.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Basic Maintenance of Your Firearm, p.37"
+  },
+  {
+   "phase": "Clean",
+   "title": "Breech face scrubbed with an old toothbrush",
+   "action": "Work the slide's breech face with an old toothbrush and solvent to lift the powder and primer residue.",
+   "box": "none",
+   "aside": "Clean the slide’s breech face area.",
+   "quote": "Use an old tooth brush with solvent to remove residue from powder and primers.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Basic Maintenance of Your Firearm, p.37"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lugs, rails, extractor and firing pin cleaned",
+   "action": "Clean inside the slide, the barrel's locking lugs, the frame and slide rails, and around the extractor and firing pin.",
+   "box": "none",
+   "quote": "Also clean the insides of the slide and barrel locking lugs, frame and slide rails, extractor and firing pin.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Basic Maintenance of Your Firearm, p.37"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wiped dry, then oiled straight away",
+   "action": "Wipe every part and surface with a clean, dry cloth until no solvent is left, then put gun oil on the moving parts straight away.",
+   "box": "none",
+   "aside": "Immediately apply some gun oil to preserve and lubricate the moving parts.",
+   "quote": "After brushing, clean up with a clean, dry cloth and wipe all parts and surfaces clean of solvent.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Basic Maintenance of Your Firearm, p.37"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Firing pin out under spring pressure",
+   "action": "Press the firing pin forward with a punch and hold it there, then push the firing pin stop down and out of the slide. The pin is under spring pressure against your punch, so keep it pressed until the stop is clear and keep the back of the slide pointed at the bench.",
+   "box": "none",
+   "quote": "Remove the firing pin by pressing it with a pin while pushing the firing pin stop downwards at the same time and out of the slide.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Maintenance, Field Stripping: Disassembly, step 9, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor prised out by its groove",
+   "action": "Put a punch in the groove at the back of the extractor and lever it straight back out of the slide. Draw it straight; twisting it can bend the claw.",
+   "box": "none",
+   "quote": "Pry the extractor with a pin by its groove out of the slide.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Maintenance, Field Stripping: Disassembly, step 10, p.35"
+  },
+  {
+   "phase": "Strip",
+   "title": "The compact and bull-barrel path",
+   "action": "If step 2 showed a bull barrel, this is your section. Take the slide stop out and separate the slide, barrel and recoil assembly from the frame. Push the guide forward until the small hole in it clears the reverse plug, trap the spring with a paper clip bent at the end, then pull the recoil spring assembly out to the rear and ease the barrel forward and out of the slide. The book says to go no further for routine cleaning.",
+   "box": "none",
+   "prose": "A paper clip with 5/16 inch of its end bent at a 90° angle (fig. 1) is inserted into the hole, trapping the spring assembly (fig. 2).",
+   "quote": "Disassembly of the MS and CS pistols and FS bull-barreled pistols is done by first removing the slide stop and separating the slide - barrel - recoil assembly from the frame.",
+   "cite": "1911 A1/A2 Pistol User's Manual — September 2016 (the cover block reads \"1911 A1/A2 PISTOL SEPTEMBER 2016 USER'S MANUAL\") — Maintenance, Disassembly of MS, CS and FS Bull-Barreled Pistols, p.36",
+   "warn": "No further disassembly is recommended for routine cleaning and maintenance purposes.",
+   "warnSrc": "maker"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Bore brush dipped in gun cleaning solvent through the bore and chamber",
+    "All firing residue scrubbed out"
+   ]
+  },
+  {
+   "name": "SLIDE & FRAME",
+   "tasks": [
+    "Breech face scrubbed with an old toothbrush and solvent",
+    "Inside of the slide and the barrel locking lugs cleaned",
+    "Frame and slide rails cleaned",
+    "Extractor and firing pin cleaned"
+   ]
+  },
+  {
+   "name": "WIPE DOWN & OIL",
+   "tasks": [
+    "Every part and surface wiped clean of solvent with a dry cloth",
+    "Gun oil on the moving parts straight afterwards"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     10
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     11,
+     12
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     13
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "To reassemble the pistol, the reverse procedure of disassembly is usually followed.",
+  "Mount the barrel and slide assembly on to the frame by holding both slide and frame bottom side up.",
+  "Barrel link must be tilted to the front as far as it can go and make sure the barrel link pin is flush in its seat.",
+  "You can now slide the frame forward into the slide rails.",
+  "Fit the slide stop back through the frame at the disassembly notch, then capture the plug under the bushing."
+ ],
+ "fncheck": "With the pistol confirmed empty, dry the chamber and bore, cycle the slide and confirm it returns fully into battery, check the slide stop is seated flush, and check the firearm for proper function before loading live ammunition, as the book asks."
+}

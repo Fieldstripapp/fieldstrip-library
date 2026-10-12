@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 23 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 23,
- "to": 30,
+ "to": 31,
  "rows": [
   {
    "id": "radianmodel1",
@@ -167,13 +167,14 @@
    "id": "centurionarmsc4",
    "maker": "Centurion Arms",
    "model": "C4",
-   "chambering": "5.56",
+   "chambering": "5.56/.300 BLK",
    "category": "AR-pattern rifle",
    "family": "AR15",
    "tier": 4,
    "group": "Rifles",
    "chamberings": [
-    "5.56 / .223"
+    "5.56 / .223",
+    ".300 BLK"
    ],
    "guide": true,
    "guideId": "txar15",
@@ -384,7 +385,7 @@
     "9mm"
    ],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "atlasgunworkstitan",
@@ -716,7 +717,7 @@
     "5.56 / .223"
    ],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "adamsarmsp2",
@@ -730,8 +731,9 @@
    "chamberings": [
     "5.56 / .223"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "adamsarmsp2",
+   "guideSha256": "f08a5e668df3bf5c1fc09efe897d83b28fadba496fdab1a71ee2627d177e1531"
   },
   {
    "id": "fightlitescr",
@@ -1166,7 +1168,7 @@
    ],
    "guide": true,
    "guideId": "smithwessonmpshieldplus",
-   "guideSha256": "135f9f9fa533907729fdfc1283af6e339b3a634d64cd6ade91dade1051065653"
+   "guideSha256": "e4734a93e3b0f12401b729cae5dfdcb002884c470df8c0089831985ba5f3bc78"
   },
   {
    "id": "mp2",
@@ -1705,13 +1707,15 @@
    "id": "henryclassicleverh001",
    "maker": "Henry",
    "model": "Classic Lever H001",
-   "chambering": ".22 LR",
+   "chambering": ".22 LR/.22 WMR/.17 HMR",
    "category": "Rimfire rifle",
    "family": "LEVER-HENRY",
    "tier": 1,
    "group": "Rifles",
    "chamberings": [
-    ".22 LR"
+    ".22 LR",
+    ".22 WMR",
+    ".17 HMR"
    ],
    "guide": true,
    "guideId": "henryclassicleverh001",
@@ -1883,7 +1887,7 @@
    "group": "Suppressors",
    "chamberings": [],
    "guide": false,
-   "verdict": "BLOCKED"
+   "verdict": "FETCHED"
   },
   {
    "id": "angstadtarmsvanquish22",
@@ -2020,7 +2024,7 @@
    "group": "Suppressors",
    "chamberings": [],
    "guide": false,
-   "verdict": "BLOCKED"
+   "verdict": "FETCHED"
   },
   {
    "id": "deadairnomax33",
@@ -2502,7 +2506,7 @@
    "group": "Suppressors",
    "chamberings": [],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament172prokor30ti",
@@ -2806,7 +2810,7 @@
    "group": "Suppressors",
    "chamberings": [],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "sigsauerhexium556ti",
@@ -2819,7 +2823,7 @@
    "group": "Suppressors",
    "chamberings": [],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "sigsauerhexium556inc",
@@ -2832,7 +2836,7 @@
    "group": "Suppressors",
    "chamberings": [],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "sigsauermodx9",
@@ -2861,7 +2865,7 @@
    "group": "Suppressors",
    "chamberings": [],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "sigsauerslx556",
@@ -2874,7 +2878,7 @@
    "group": "Suppressors",
    "chamberings": [],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "savageac30bob",
@@ -3510,7 +3514,7 @@
    ],
    "guide": true,
    "guideId": "smithwessonmp380shieldez",
-   "guideSha256": "d0eb26e316ed7cc4a0021c1c9d8057c91265d46431204cacc66eaac001e7e819"
+   "guideSha256": "320c7cc5eb9ec2df55b8b03aea7815e18a7f219ee0ca3e6da3ecc55ac76691fe"
   },
   {
    "id": "smithwessonmp9m20full",
@@ -3876,8 +3880,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "colt1911government",
@@ -5826,8 +5829,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "springfieldarmoryechelon",
@@ -5908,7 +5910,7 @@
    ],
    "guide": true,
    "guideId": "springfieldarmorysa35",
-   "guideSha256": "4aefaaf557aeb5ca269150c98a7bc1e9ef103df3a195c8748b07dd96eb0e69e7"
+   "guideSha256": "a4b72ada18fe388ff10a1a1a75a65ddbd13455129db0926d0e1df5d5f41d9513"
   },
   {
    "id": "berettam9a4",
@@ -6643,7 +6645,7 @@
     "9mm"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "magnumresearchdeserteaglem",
@@ -7075,7 +7077,7 @@
    ],
    "guide": true,
    "guideId": "coltanaconda",
-   "guideSha256": "6498f23512e3996caaa1b2d7ae52f15dffa1c7202d8cbae7d6b14dcf577f90b3",
+   "guideSha256": "f6dba360fc9d4b96273cdd856f3085e5e589bd5ad619236c7ae459c4706d6941",
    "bestPractices": true
   },
   {
@@ -7718,7 +7720,7 @@
     ".308 Win"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "hecklerkochsp5",
@@ -7813,7 +7815,7 @@
     "9mm"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "grandpowerstribogsp9a1",
@@ -8089,7 +8091,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "remington783",
@@ -8365,8 +8367,7 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "mossberg702plinkster",
@@ -8785,7 +8786,7 @@
     "12 GA"
    ],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "czdrake",
@@ -9009,7 +9010,7 @@
     ".30 cal"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "deadairwolfman",
@@ -9476,7 +9477,7 @@
    ],
    "guide": true,
    "guideId": "springfieldarmoryemp",
-   "guideSha256": "31cf57a9e6da082b7d05e28168f473833fe934cda27d0292fb88dc27b9825132"
+   "guideSha256": "6f732bee0d02343fdc0d2fd7a236e0569edaf069db7281fb730e29983ee5e36f"
   },
   {
    "id": "beretta80xcheetah",
@@ -9604,7 +9605,7 @@
     "9mm"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "keltecp32",
@@ -9715,7 +9716,7 @@
     "9mm"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "waltherp38surplus",
@@ -9811,7 +9812,7 @@
     ".357 Mag"
    ],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "atiomnihybrid",
@@ -10624,8 +10625,9 @@
    "chamberings": [
     ".45 ACP"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "rockislandarmory1911tacticaliifs",
+   "guideSha256": "a4e84d03ca5947a414b603a260de2289e9f06b410fe2b04c4161dcf2d24d0839"
   },
   {
    "id": "stagarmsstag15",
@@ -10815,8 +10817,9 @@
    "chamberings": [
     ".308 Win"
    ],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": true,
+   "guideId": "stagarmsstag10",
+   "guideSha256": "c40950336f15f0e2fdd73a64ad42bbc16c6523f253b732f3e0f0c2e7b0109520"
   },
   {
    "id": "knightsarmamentsr25",
@@ -11119,8 +11122,7 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": false
   },
   {
    "id": "smithwessonmodel69",
@@ -11280,7 +11282,7 @@
    ],
    "guide": true,
    "guideId": "coltnightcobra",
-   "guideSha256": "5cb28d344574ccb8eaa39184d17f0144a0a9393d2563ba13fb8ef2b5987d6f8e",
+   "guideSha256": "a4d2d5a613f0733f09b2f211b2dcad16913fbf841fec9005d0ea7f8072b9682c",
    "bestPractices": true
   },
   {
@@ -11295,8 +11297,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": false
   },
   {
    "id": "rugersuperwrangler",
@@ -11916,8 +11917,7 @@
    "chamberings": [
     ".45 ACP"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "coltcombatelite",
@@ -12058,8 +12058,7 @@
    "chamberings": [
     ".45 ACP"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "coltwileyclappgovernment",
@@ -12073,8 +12072,7 @@
    "chamberings": [
     ".45 ACP"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "tisas1911carryb9",
@@ -12105,7 +12103,7 @@
     ".45 ACP"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "wilsoncombatcqb",
@@ -12121,7 +12119,7 @@
    ],
    "guide": false,
    "held": true,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "americantacticalfx45",
@@ -12247,8 +12245,7 @@
    "chamberings": [
     ".308 Win"
    ],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": false
   },
   {
    "id": "christensenarmsca10",
@@ -12262,8 +12259,7 @@
    "chamberings": [
     ".308 Win"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "wilsoncombatrecontactical",
@@ -12279,7 +12275,7 @@
    ],
    "guide": false,
    "held": true,
-   "verdict": "BLOCKED"
+   "verdict": "FETCHED"
   },
   {
    "id": "barrettrec10",
@@ -12661,8 +12657,7 @@
    "chamberings": [
     ".410 / .45 LC"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": false
   },
   {
    "id": "coltgrizzly",
@@ -12676,8 +12671,7 @@
    "chamberings": [
     ".357 Mag"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "coltkodiak",
@@ -12693,7 +12687,7 @@
    ],
    "guide": true,
    "guideId": "coltkodiak",
-   "guideSha256": "1a6ed1d15cdc714a9e115707d9c96c6266418164f5f2eacfc8e7aaced3d86b7f",
+   "guideSha256": "dc1bf9c2e4b24176294a06a3d25423f9008cef32d9e019df51340784164abf54",
    "bestPractices": true
   },
   {
@@ -12757,8 +12751,9 @@
    "chamberings": [
     ".45 LC"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "cimarronevilroy",
+   "guideSha256": "1c562023d7aba03525db1f21f15bc41906ab716d33600d1208e885ba461cef96"
   },
   {
    "id": "magnumresearchbfr",
@@ -12821,7 +12816,7 @@
     ".45 LC"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "sigsauersrd22x",
@@ -12985,7 +12980,7 @@
     ".30 cal"
    ],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "qfullnelson",
@@ -13161,8 +13156,7 @@
     ".45 cal",
     ".50 cal"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": false
   },
   {
    "id": "mlcvaoptimav2",
@@ -13192,8 +13186,7 @@
    "chamberings": [
     ".50 cal"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": false
   },
   {
    "id": "mlcvawolfv2",
@@ -14722,7 +14715,7 @@
     "9mm"
    ],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "ptrindustries9ctmp",
@@ -14769,7 +14762,7 @@
     ".22 LR"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "anschutz1907",
@@ -14784,7 +14777,7 @@
     ".22 LR"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "anschutz1913",
@@ -14799,7 +14792,7 @@
     ".22 LR"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "anschutz5430",
@@ -14814,7 +14807,7 @@
     ".22 LR"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "atlasgunworksartemis",
@@ -14928,8 +14921,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "czczechmateparrot",
@@ -14943,8 +14935,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "czts2orange",
@@ -15118,7 +15109,7 @@
     "9mm"
    ],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "smithwessonpccompetitorhd",
@@ -15275,8 +15266,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": false
   },
   {
    "id": "tanfogliolimitedcustom",
@@ -15320,8 +15310,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": false
   },
   {
    "id": "volquartsenblackmamba",
@@ -15463,7 +15452,7 @@
     "9mm"
    ],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "waltherppqq5match",
@@ -15493,8 +15482,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": false
   },
   {
    "id": "waltherq5matchsteelframe",
@@ -16614,8 +16602,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "christensenarmsmesafft",
+   "guideSha256": "3b20f82e27de84c6cb16157e3765b4e44da0032fe37dad6d5999665761f0645d"
   },
   {
    "id": "christensenarmsmoderncarbonrifle",
@@ -16686,7 +16675,7 @@
     ".375 H&H"
    ],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "kimber84mmountainascent",
@@ -16699,7 +16688,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "kimberopenrangeprocarbon",
@@ -16711,8 +16700,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": true,
+   "guideId": "kimberopenrangeprocarbon",
+   "guideSha256": "a26db5ab41b2808cf78ac48daf4e284fb1f6fbd53637c901ab31a9212e639f21"
   },
   {
    "id": "mauserm12extreme",
@@ -16725,7 +16715,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "mauserm18",
@@ -16738,7 +16728,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "mauserm98magnum",
@@ -16751,7 +16741,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "noslermodel21",
@@ -16764,7 +16754,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "noslermodel48longrangecarbon",
@@ -16777,7 +16767,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "noslermodel48mountaincarbon",
@@ -16790,7 +16780,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "qthefix",
@@ -16938,8 +16928,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": true,
+   "guideId": "steyrarmsprohunteriii",
+   "guideSha256": "f7278e29052aae0d8093e777cd433f1a379da598bbded51980d48519f7697389"
   },
   {
    "id": "accuracyinternationalatx",
@@ -16952,7 +16943,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "accuracyinternationalaxmc",
@@ -16980,7 +16971,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "anschutz1761",
@@ -16995,7 +16986,7 @@
     ".22 LR"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "barrettmrad",
@@ -17099,8 +17090,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": true,
+   "guideId": "christensenarmsmodernprecisionrifle",
+   "guideSha256": "07015eb141b8510ef458cb11176d0a64e45edafba1ca56c7f51d277590e800cc"
   },
   {
    "id": "deserttechsrsa2",
@@ -17125,8 +17117,7 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "masterpiecearmsbacomppro",
@@ -17139,7 +17130,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "masterpiecearmsbapmrprorifleii",
@@ -17152,7 +17143,7 @@
    "group": "Rifles",
    "chamberings": [],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "masterpiecearmspmrcustommatchrifle",
@@ -17164,8 +17155,7 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "rugercustomshop1022carbonfiber",
@@ -17301,8 +17291,7 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "seekinsprecisionhavakbravo",
@@ -17432,7 +17421,7 @@
     "12 GA"
    ],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "berettasl3",
@@ -17654,8 +17643,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "BLOCKED"
+   "guide": false
   },
   {
    "id": "bularmory1911sofpro",
@@ -17686,7 +17674,7 @@
     "9mm"
    ],
    "guide": false,
-   "verdict": "BLOCKED"
+   "verdict": "FETCHED"
   },
   {
    "id": "bularmoryfireball",
@@ -17700,8 +17688,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "bularmorysasiiultralight",
@@ -17797,8 +17784,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "kiddinnovativedesignsupergrade",
@@ -17875,8 +17861,7 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "stiinternationaltrojan",
@@ -17908,7 +17893,7 @@
     "12 GA"
    ],
    "guide": false,
-   "verdict": "BLOCKED"
+   "verdict": "FETCHED"
   },
   {
    "id": "fabarmaxisrs12trap",
@@ -17923,7 +17908,7 @@
     "12 GA"
    ],
    "guide": false,
-   "verdict": "BLOCKED"
+   "verdict": "FETCHED"
   },
   {
    "id": "fabarmelosn2rssporting",
@@ -18119,7 +18104,7 @@
     "12 GA"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "syrenl4ssporting",
@@ -18150,7 +18135,7 @@
     "12 GA"
    ],
    "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "verdict": "FETCHED"
   },
   {
    "id": "zolikronos",
@@ -18294,8 +18279,7 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "ashburysaberforsstmod1",
@@ -18426,8 +18410,7 @@
    "tier": 4,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "guide": false
   },
   {
    "id": "langdontacticallttimpact",
@@ -18458,7 +18441,7 @@
     "6mm ARC"
    ],
    "guide": false,
-   "verdict": "HAND-DOWNLOAD"
+   "verdict": "FETCHED"
   },
   {
    "id": "proofresearchconvictiontacii",
@@ -18470,8 +18453,7 @@
    "tier": 4,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false,
-   "verdict": "MAKER-PUBLISHES-NOTHING"
+   "guide": false
   },
   {
    "id": "caracalcmp9",
@@ -18720,7 +18702,8 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "cvascoutxppistol",
@@ -18732,7 +18715,8 @@
    "tier": 3,
    "group": "Pistols",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "cmmgmk47",
@@ -18763,7 +18747,8 @@
     ".458 SOCOM",
     "6.5 Grendel"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "cmmgdefcan86",
@@ -18777,7 +18762,8 @@
    "chamberings": [
     ".338"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "cmmgdefcan556",
@@ -18792,7 +18778,8 @@
     "5.56",
     ".308"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "cmmgdefcan9",
@@ -18807,7 +18794,8 @@
     "9mm",
     ".45 cal"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "cmmgzeroed22",
@@ -18821,7 +18809,8 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "cmmgzeroed556",
@@ -18833,7 +18822,8 @@
    "tier": 3,
    "group": "Suppressors",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "faxonfirearmsar10",
@@ -18847,7 +18837,8 @@
    "chamberings": [
     "8.6 BLK"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "faxonfirearmsfx7",
@@ -18859,7 +18850,8 @@
    "tier": 4,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "faxonfirearmsfx22",
@@ -18873,7 +18865,8 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "bularmorycherokee",
@@ -18887,7 +18880,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "lonewolfdusk",
@@ -18899,7 +18893,8 @@
    "tier": 4,
    "group": "Pistols",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "lonewolftimberwolf",
@@ -18911,7 +18906,8 @@
    "tier": 4,
    "group": "Pistols",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "lonewolfelimin8r45",
@@ -18923,7 +18919,8 @@
    "tier": 4,
    "group": "Suppressors",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "lonewolfeliminator22",
@@ -18937,7 +18934,8 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament155rpx",
@@ -18951,7 +18949,8 @@
    "chamberings": [
     ".30 cal / 9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament155goathf",
@@ -18965,7 +18964,8 @@
    "chamberings": [
     "5.56"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament155sbrx",
@@ -18979,7 +18979,8 @@
    "chamberings": [
     ".30 cal"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament105rfx",
@@ -18993,7 +18994,8 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament105ccx",
@@ -19007,7 +19009,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament155versax",
@@ -19019,7 +19022,8 @@
    "tier": 3,
    "group": "Suppressors",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament105versax22",
@@ -19033,7 +19037,8 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament195versax12",
@@ -19047,7 +19052,8 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament195sgx",
@@ -19061,7 +19067,8 @@
    "chamberings": [
     "12 GA / 20 GA"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament195sbsxbreacher",
@@ -19075,7 +19082,8 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "jkarmament155vsx",
@@ -19087,7 +19095,8 @@
    "tier": 3,
    "group": "Suppressors",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "krissusavectorgen3",
@@ -19137,7 +19146,8 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "krissusadmk22c",
@@ -19151,7 +19161,9 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false
+   "guide": true,
+   "guideId": "krissusadmk22c",
+   "guideSha256": "8136187a3b26b71483b76ca8ea3d8db0b38a1e0f32621690bd00910ed805019b"
   },
   {
    "id": "lwrciic",
@@ -19181,7 +19193,8 @@
    "chamberings": [
     "5.56 / .223"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "lwrcisix8",
@@ -19195,7 +19208,8 @@
    "chamberings": [
     "6.8 SPC"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "lwrcirepr",
@@ -19209,7 +19223,8 @@
    "chamberings": [
     ".308 Win"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "lwrcireprmkii",
@@ -19223,7 +19238,8 @@
    "chamberings": [
     ".308 Win"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "lwrcicsass",
@@ -19237,7 +19253,8 @@
    "chamberings": [
     ".308 Win"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "lwrcismg45",
@@ -19251,7 +19268,8 @@
    "chamberings": [
     ".45 ACP"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "pwsmk1mod2m",
@@ -19263,7 +19281,8 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "pwsmk2mod2m",
@@ -19275,7 +19294,8 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "pwsuxr",
@@ -19287,7 +19307,8 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "pwsbde22ti",
@@ -19301,7 +19322,8 @@
    "chamberings": [
     ".22 cal"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "pwsbde36ti",
@@ -19313,7 +19335,8 @@
    "tier": 3,
    "group": "Suppressors",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "pwsbde45ti",
@@ -19325,7 +19348,8 @@
    "tier": 3,
    "group": "Suppressors",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "pwsbde556ti",
@@ -19339,7 +19363,8 @@
    "chamberings": [
     "5.56"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "pwsbde762ti",
@@ -19353,7 +19378,8 @@
    "chamberings": [
     ".30 cal"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "pwsbde9ti",
@@ -19367,7 +19393,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "radicalfirearmsrf22lr",
@@ -19397,7 +19424,8 @@
    "chamberings": [
     "7.62x39"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "wilsoncombatbulwark",
@@ -19411,7 +19439,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "wilsoncombatdivision77project1",
@@ -19425,7 +19454,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "wilsoncombatedcx9",
@@ -19439,7 +19469,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "wilsoncombatedcx9l",
@@ -19453,7 +19484,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "wilsoncombatedcx920",
@@ -19467,7 +19499,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "wilsoncombatedcx9l20",
@@ -19481,7 +19514,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "wilsoncombatexperiorelite",
@@ -19495,7 +19529,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "silencercomaxim9",
@@ -19509,7 +19544,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "mlsilencercomaxim50",
@@ -19523,7 +19559,8 @@
    "chamberings": [
     ".50 cal"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "palmettostatearmoryhrt48",
@@ -19535,7 +19572,8 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "palmettostatearmoryjakl",
@@ -19575,7 +19613,8 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "palmettostatearmoryhrarpcc",
@@ -19587,7 +19626,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": true,
+   "guideId": "palmettostatearmoryhrarpcc",
+   "guideSha256": "a6e3c22cb054550a2f09647066bdd46aea7d7bba9f314cc2e3fb590c6ed2fa9d"
   },
   {
    "id": "palmettostatearmory57rock",
@@ -19695,7 +19736,8 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "weatherbymarkxxiitubular",
@@ -19709,7 +19751,8 @@
    "chamberings": [
     ".22 LR"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "weatherbymodel92",
@@ -19723,7 +19766,8 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "weatherbypatrician",
@@ -19737,7 +19781,8 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "weatherbyregency",
@@ -19751,7 +19796,8 @@
    "chamberings": [
     "12 GA"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "weatherbyolympian",
@@ -19766,7 +19812,8 @@
     "12 GA",
     "20 GA"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "mossberg5500mkii",
@@ -19908,7 +19955,8 @@
    "tier": 3,
    "group": "Pistols",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "BLOCKED"
   },
   {
    "id": "eaabalikliblk",
@@ -19920,7 +19968,8 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "yhmvictra20modular",
@@ -19932,7 +19981,8 @@
    "tier": 3,
    "group": "Suppressors",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "waltherpdpprosd",
@@ -20022,7 +20072,8 @@
    "tier": 3,
    "group": "Shotguns",
    "chamberings": [],
-   "guide": false
+   "guide": false,
+   "verdict": "FETCHED"
   },
   {
    "id": "cmmgmkg",
@@ -20034,7 +20085,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": true,
+   "guideId": "cmmgmkg",
+   "guideSha256": "77d6f53c5e911d2bd5f6b99d821613974e639f0da06c70a7f9f6a20e5ba26ac8"
   },
   {
    "id": "cmmgmkgs",
@@ -20046,7 +20099,9 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": true,
+   "guideId": "cmmgmkgs",
+   "guideSha256": "b1219471cdf0dff67d98e73f05c5b1ac02863891b89670d16fb893b96cc9c636"
   },
   {
    "id": "cmmgmk57",
@@ -20060,7 +20115,9 @@
    "chamberings": [
     "5.7x28"
    ],
-   "guide": false
+   "guide": true,
+   "guideId": "cmmgmk57",
+   "guideSha256": "ee47cb574b423a1186f4019dd7a970ac9168b016f0100fab7778c07aae9355e6"
   },
   {
    "id": "cz75legend",
@@ -20074,7 +20131,9 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": true,
+   "guideId": "cz75legend",
+   "guideSha256": "89c032dd39bc68671176a6e231eefe461b26f27d949f617baf839071185e38ae"
   },
   {
    "id": "savagemodel334",
@@ -20086,7 +20145,10 @@
    "tier": 3,
    "group": "Rifles",
    "chamberings": [],
-   "guide": false
+   "guide": true,
+   "guideId": "savagemodel334",
+   "guideSha256": "9a8897f830a80b4ccb7613d8883a5137239cfca56dba7d2c3d2ae16233b2a2ef",
+   "bestPractices": true
   },
   {
    "id": "girsanwitness2311cmxxxx",
@@ -20100,7 +20162,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "girsanwitness2311sc9xxx",
@@ -20114,7 +20177,8 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "korthsupersportgtx",
@@ -20142,7 +20206,9 @@
    "chamberings": [
     "10mm"
    ],
-   "guide": false
+   "guide": true,
+   "guideId": "rockislandarmoryrockstainlessstandardfs10mm",
+   "guideSha256": "03a6dbb37842c763f8e66fad8dce8ce7e9f73d0b3f3b60041f472637a27dae31"
   },
   {
    "id": "rockislandarmoryrockstandardstainlessfs9mm",
@@ -20156,7 +20222,9 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": true,
+   "guideId": "rockislandarmoryrockstandardstainlessfs9mm",
+   "guideSha256": "eacebb4e6958c9b41e24d9bcdc9a3dd074248f5a2bcfd136c64dba181eb91e93"
   },
   {
    "id": "rockislandarmoryrockstandardstainlesscs9mm",
@@ -20170,7 +20238,9 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": true,
+   "guideId": "rockislandarmoryrockstandardstainlesscs9mm",
+   "guideSha256": "6c16605f01d1b121903ea2c28ac5c4ae021b152cc5b425c61e41bce4be9dbb28"
   },
   {
    "id": "rockislandarmorybbr3109mm",
@@ -20184,7 +20254,9 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false
+   "guide": true,
+   "guideId": "rockislandarmorybbr3109mm",
+   "guideSha256": "4e07cd123f1142ed97360d519721235e1650e517e7520e4e8dd8e9470f7af34e"
   },
   {
    "id": "autoordnancethompsont1sb50dh",
@@ -20198,7 +20270,9 @@
    "chamberings": [
     ".45 ACP"
    ],
-   "guide": false
+   "guide": true,
+   "guideId": "autoordnancethompsont1sb50dh",
+   "guideSha256": "2ed610914ce2d2213ad80300a7588061ce064cd84e68577ca6104acf44d00a73"
   },
   {
    "id": "czscorpion3plus",
@@ -20284,6 +20358,207 @@
    "guide": true,
    "guideId": "czbren2mspistol",
    "guideSha256": "921de3c28872dfe1f72e1236f08af31d925725342d9a9d9e1614baf25c136a6e"
+  },
+  {
+   "id": "macfirearmscerberus",
+   "maker": "MAC Firearms",
+   "model": "Cerberus",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-MAC-CERBERUS",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "savagereveltactical",
+   "maker": "Savage",
+   "model": "Revel Tactical",
+   "chambering": "—",
+   "category": "Lever-action rifle",
+   "family": "NEW-SAVAGE-REVELTACTICAL",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "savagereveltactical",
+   "guideSha256": "b6ad58a634d69257668e67b5e4c00646885fa97169a969b5a66c572864289b37"
+  },
+  {
+   "id": "taylorscocolt1862pocketnavy",
+   "maker": "Taylors & Co",
+   "model": "Colt 1862 Pocket Navy",
+   "chambering": ".36 cal",
+   "category": "Cap-and-ball revolver, open-top",
+   "family": "ML-REV-COLT",
+   "tier": 3,
+   "group": "Muzzleloaders",
+   "chamberings": [
+    ".36 cal"
+   ],
+   "guide": true,
+   "guideId": "taylorscocolt1862pocketnavy",
+   "guideSha256": "ab6aad9ca970216f467097c470dc57eede705b946587d37ac6bc65da80e70bf8"
+  },
+  {
+   "id": "hipointhp15",
+   "maker": "Hi-Point",
+   "model": "HP-15",
+   "chambering": "5.56/.300 BLK",
+   "category": "AR-pattern rifle",
+   "family": "NEW-HIPOINT-HP15",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223",
+    ".300 BLK"
+   ],
+   "guide": false
+  },
+  {
+   "id": "savagerevel",
+   "maker": "Savage",
+   "model": "REVEL",
+   "chambering": ".22 LR/.22 WMR/.17 HMR",
+   "category": "Rimfire rifle",
+   "family": "NEW-SAVAGE-REVEL",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR",
+    ".22 WMR",
+    ".17 HMR"
+   ],
+   "guide": false
+  },
+  {
+   "id": "shadowsystemsu526",
+   "maker": "Shadow Systems",
+   "model": "U526",
+   "chambering": "5.56",
+   "category": "AR-pattern rifle",
+   "family": "NEW-SHADOW-U526",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "macfirearmsra9",
+   "maker": "MAC Firearms",
+   "model": "RA9",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-MAC-RA9",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false
+  },
+  {
+   "id": "taylorscotc73",
+   "maker": "Taylors & Co",
+   "model": "TC73",
+   "chambering": "9mm",
+   "category": "Lever-action rifle",
+   "family": "NEW-TAYLORS-TC73",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false
+  },
+  {
+   "id": "lantacmspec556s",
+   "maker": "Lantac",
+   "model": "M-SPEC556S",
+   "chambering": "5.56",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": false
+  },
+  {
+   "id": "centurionarmsmaximusl",
+   "maker": "Centurion Arms",
+   "model": "MAXIMUS-L",
+   "chambering": "5.56",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": false
+  },
+  {
+   "id": "centurionarmsmaximush",
+   "maker": "Centurion Arms",
+   "model": "MAXIMUS-H",
+   "chambering": "7.62",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "7.62"
+   ],
+   "guide": false
+  },
+  {
+   "id": "centurionarmsminimaximus",
+   "maker": "Centurion Arms",
+   "model": "Mini MAXIMUS",
+   "chambering": ".22 LR",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": false
+  },
+  {
+   "id": "pardinitr20",
+   "maker": "Pardini",
+   "model": "TR20",
+   "chambering": ".22 LR",
+   "category": "Semi-auto rimfire rifle",
+   "family": "NEW-PARDINI-TR20",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": false
+  },
+  {
+   "id": "centurionarmsharrismars",
+   "maker": "Centurion Arms",
+   "model": "Harris Mini Assault Rifle System",
+   "chambering": "—",
+   "category": "AR-pattern rifle",
+   "family": "NEW-CENTURION-HARRISMARS",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false
   }
  ],
  "removed": [

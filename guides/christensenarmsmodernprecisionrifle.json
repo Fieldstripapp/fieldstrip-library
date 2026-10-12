@@ -1,0 +1,217 @@
+{
+ "row": "christensenarmsmodernprecisionrifle",
+ "make": "Christensen Arms",
+ "model": "Modern Precision Rifle",
+ "sourcedFrom": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document (UNKNOWN — no copyright year is printed in the document)",
+ "sourceSha256": "108cc94bd5dce3b5b7747a048a57bf6769cc5650036336569f0c7471b792a7e7",
+ "cleanIntro": "Christensen's own book for the Modern Precision Rifle. The working strip is short — magazine out, then the bolt — and the one part that is not obvious is the bolt release, which must be held fully down or the bolt will not clear the action. The MPR is a chassis rifle: the handguard, pistol grip, trigger guard and stock are separate pieces on their own screws, and the book prints a torque table for the action, handguard, trigger-guard and adjustment screws. The book is plain that the rifle will fire with a round chambered and the magazine out. Graphite lubricants are banned outright, and the action screws go back at 65 inch-pounds.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety all the way back to S",
+   "action": "The safety lever sits to the right of the bolt shroud on a right-handed rifle. Move it all the way back to S before anything else. If it will not go, the rifle is not cocked: the book notes the lever cannot reach SAFE on an uncocked rifle, so a safety that will not move is usually a rifle that has already been dry-fired, not a fault to force past.",
+   "box": "none",
+   "quote": "To engage the safety, move the safety lever all the way back to the “S” position.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — SAFETY FEATURES, printed p.4"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine catch, then the magazine straight down",
+   "action": "Press the magazine catch lever and draw the magazine straight down, before the bolt is touched. Keep a hand under it: the book warns the magazine can fall free as soon as the catch is pressed, and a magazine dropped on a hard floor can be damaged. A magazine left in place simply feeds the next round when the bolt is worked.",
+   "box": "none",
+   "aside": "CAUTION: THE MAGAZINE MAY FALL FREE WHEN THE MAGAZINE CATCH LEVER IS PRESSED. DON’T ALLOW THE MAGAZINE TO FALL ONTO A HARD SURFACE. DOING SO MAY DAMAGE THE MAGAZINE.",
+   "quote": "Remove the magazine by depressing the magazine catch lever and pulling the magazine down.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — UNLOADING THE FIREARM, printed p.12"
+  },
+  {
+   "phase": "Clear",
+   "title": "Then the bolt back, chamber checked",
+   "action": "Now open the bolt to extract anything in the chamber, then look in and confirm the chamber is empty. The order is the book’s own — safety to SAFE, magazine out, THEN the bolt back and the chamber checked — and the book is plain that this rifle will fire with a round chambered and the magazine removed.",
+   "box": "none",
+   "aside": "THE RIFLE WILL FIRE WITH A ROUND CHAMBERED AND THE MAGAZINE REMOVED.",
+   "quote": "Open the bolt to extract any chambered cartridge.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — UNLOADING THE FIREARM, printed p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Unloaded, and safety glasses on",
+   "action": "Christensen asks for safety glasses for disassembly and maintenance, not just for shooting — there are springs under tension in the bolt, and solvent gets flicked about once the brushes come out.",
+   "box": "limit",
+   "aside": "WARNING: ALWAYS UNLOAD YOUR FIREARM BEFORE CLEANING, LUBRICATION, DISASSEMBLY OR REASSEMBLY.",
+   "quote": "WARNING: ALWAYS WEAR SAFETY GLASSES WHEN DISASSEMBLING, MAINTAINING OR ASSEMBLING YOUR FIREARM.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — DISASSEMBLY, printed p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt handle up, all the way back",
+   "action": "Point the rifle in a safe direction, confirm once more that it is not loaded, then lift the bolt handle and draw the bolt fully rearward until it stops. The bolt has to be at the very back of its travel for the release to let it out.",
+   "box": "none",
+   "quote": "Lift Bolt Handle and pull all the way back.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — REMOVE BOLT ASSEMBLY, printed p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hold the bolt release FULLY down and slide the bolt out",
+   "action": "Depress the bolt release completely and keep it held while you slide the bolt out of the rifle. 'Fully' matters: a half-pressed release lets the bolt move and then stop dead, which is easy to mistake for an obstruction and start pulling against. Held right down, the bolt comes straight out.",
+   "box": "none",
+   "quote": "While depressing Bolt Release fully, slide the Bolt from the Rifle.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — REMOVE BOLT ASSEMBLY, printed p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Look down the bore",
+   "action": "With the bolt out you can see the whole bore. Check it for obstructions or debris now. Something found here is a cleaning-rod-and-patch job; if a rod and patch will not clear it, the book sends the rifle to a qualified gunsmith rather than having you force it.",
+   "box": "none",
+   "aside": "Use a cleaning rod and patch to remove any obstructions. If they are insufficient for the job, take your rifle to a qualified gunsmith.",
+   "quote": "Check the barrel for any obstructions or debris by visually inspecting the bore.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — UNLOADING THE FIREARM, printed p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the chassis only comes apart if you must",
+   "action": "Bolt and magazine out is the working strip, and it is all the routine clean needs. Christensen does publish taking the barrelled action out of the chassis, and Deep Clean covers it together with the length-of-pull and comb bars, but every screw goes back at a stated torque, so do not take the chassis apart casually.",
+   "box": "none",
+   "quote": "Remove the barreled action from the chassis",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — REMOVING BARRELED ACTION, printed p.13",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "Handguard off first",
+   "action": "With the bolt out and the rifle confirmed empty, unbolt the handguard and take it off. It is held by eight mounting screws, and they go back at 20 inch-pounds, so do not start the chassis strip without a torque driver to hand.",
+   "box": "none",
+   "quote": "Unbolt and remove the handguard",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — REMOVING BARRELED ACTION, printed p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Pistol grip, then the trigger guard forward",
+   "action": "Take the pistol grip off the trigger guard, then unbolt the flathead screw at the back of the trigger guard and slide the guard forward to free it from its front tapered mortise joint. If it will not slide, the book's remedy is a nylon-headed hammer on the rear of the pistol-grip mounting lug — not a screwdriver levering at the chassis.",
+   "box": "none",
+   "quote": "Slide the trigger guard forward to release it from the front taper mortise joint",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — REMOVING BARRELED ACTION, printed p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Action screws out, barrelled action free",
+   "action": "Remove the action screws and lift the barrelled action out of the chassis. If it sticks, tap the top of the handguard mounting lug with a nylon-headed hammer to start it, rather than prying. The action screws go back at 65 inch-pounds.",
+   "box": "none",
+   "aside": "NOTE: If the barreled action does not remove easily, use a nylon head or similar hammer to tap the top of the handguard mounting lug to begin loosening the barreled action from the chassis assembly.",
+   "quote": "Remove the barreled action from the chassis",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — REMOVING BARRELED ACTION, printed p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Length-of-pull and comb bars: clamps off, pad and cheek rest out",
+   "action": "With the bolt out and the rifle empty, take off the length-of-pull and comb-height clamps with their shoulder bolts, and slide the recoil pad and the cheek rest out of their housings in the stock. Either can come out on its own. The book lists the removal and stops there; the clamp screws go back at 20 inch-pounds and no tighter.",
+   "box": "none",
+   "aside": "NOTE: LOP and comb height adjustment can be removed individually",
+   "quote": "Remove LOP and comb height clamps with their respective shoulder bolts",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — CLEANING LENGTH OF PULL AND COMB HEIGHT ADJUSTMENT BAR, printed p.14"
+  },
+  {
+   "phase": "Clean",
+   "title": "Chamber and locking lugs — push and twist",
+   "action": "Put a chamber brush on the rod, dip it in solvent, and work it into the chamber and the locking-lug recesses by pushing and twisting rather than stroking. Then swap to a swab holder and run a solvent swab through the chamber and out the muzzle brake. On heavy carbon let the solvent sit before wiping; the book allows a nylon bore brush, used with care.",
+   "box": "none",
+   "aside": "A nylon bore brush may be used with care to remove heavy carbon buildup.",
+   "quote": "Install the chamber brush on the cleaning rod, dip it in cleaning solvent and insert into the chamber and locking lugs.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — RIFLE MAINTENANCE, printed p.15"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the breech, and never reverse the brush",
+   "action": "Every patch and brush goes in from the breech end and out the muzzle. Once a bore brush is in the bore it goes all the way through before it comes back — the book prints that caution again and again, because dragging bristles backwards over the rifling tears them out and lodges them.",
+   "box": "none",
+   "aside": "CAUTION: DO NOT REVERSE THE DIRECTION OF THE BORE BRUSH WHILE IT IS IN THE BORE.",
+   "quote": "ALWAYS push the cleaning/oiling patch from the breech end.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — CLEANING, printed p.14"
+  },
+  {
+   "phase": "Clean",
+   "title": "Solvents — anything but graphite",
+   "action": "Use a good solvent for metal fouling and lubricate generously, but obey the book's one absolute ban: no lubricant containing graphite, under any condition, because it encourages rapid corrosion in this rifle. Read the label of any dry-film product before it goes near the action.",
+   "box": "none",
+   "quote": "Under NO condition should any lubricant containing graphite be used with your rifle. Graphite can encourage rapid corrosion in your rifle.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — CLEANING SOLVENTS AND LUBRICANTS, printed p.14"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light oil on bore, chamber, barrel and lugs",
+   "action": "Lightly lubricate the bore, the chamber and the outside of the barrel, run a lubricated swab from the receiver to the muzzle brake, and oil the locking lugs. Light is the word: the book warns that preservative in the bore raises pressure on firing, so whatever goes in comes back out with a dry patch before the rifle is shot.",
+   "box": "none",
+   "aside": "Do not over lubricate.",
+   "quote": "Lightly lubricate the bore, chamber and outer surface of the barrel.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — RIFLE MAINTENANCE, printed p.15"
+  },
+  {
+   "phase": "Clean",
+   "title": "Keep each bolt with its own rifle",
+   "action": "If you own more than one rifle, keep each bolt with its own action — the book capitalises this, and a bolt in the wrong rifle is a headspace question, not a housekeeping one.",
+   "box": "limit",
+   "quote": "WARNING! DO NOT INTERCHANGE BOLTS BETWEEN RIFLES.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — RIFLE MAINTENANCE, printed p.15"
+  },
+  {
+   "phase": "Clean",
+   "title": "Back together: thread locker and the torque table",
+   "action": "Reassemble in reverse order, putting thread-locking compound back on every screw, and torque each to the book's table: action screws 65 inch-pounds; handguard, trigger-guard and adjustment screws 20 inch-pounds. Then the bolt: of its two front lugs one is grooved and one is not, and the grooves line up with the grooves in the action.",
+   "box": "none",
+   "aside": "REAPPLY THREAD THREAD-LOCKING COMPOUND TO ALL SCREWS",
+   "quote": "Follow disassembly instructions in reverse order.",
+   "cite": "Christensen Arms Modern Precision Rifle Owner's Manual — UNKNOWN — no revision or edition code is printed in the document — REASSEMBLY, printed p.15"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Bolt and magazine out; rifle on its side with the ejection port up, or upright in a gun vise",
+    "Correct-caliber brush on the rod with solvent, pushed through from the BREECH end several times",
+    "Never reverse the brush while it is in the bore",
+    "Patches on the tip, a clean one each time, until a patch comes out clean",
+    "One oil-saturated patch through, then a clean dry patch to take the excess back out"
+   ]
+  },
+  {
+   "name": "CHAMBER & LUGS",
+   "tasks": [
+    "Chamber brush with solvent, pushed and twisted into the chamber and locking lugs",
+    "Solvent swab through the chamber and out the muzzle brake",
+    "Let solvent sit on heavy carbon, then wipe clean",
+    "Swabs through from chamber to muzzle brake until the bore is dry",
+    "Light lubricant on the locking lugs"
+   ]
+  },
+  {
+   "name": "BOLT & ACTION",
+   "tasks": [
+    "Wipe the bolt down and inspect it",
+    "Lubricate the moving parts generously",
+    "Never use a lubricant containing graphite",
+    "Never fit another rifle's bolt to this action"
+   ]
+  },
+  {
+   "name": "STOCK, BARREL & MUZZLE BRAKE",
+   "tasks": [
+    "Stock wiped with a damp rag, warm water or mild household cleaner",
+    "Barrel wiped with gun oil and dried back to restore the finish",
+    "Clean the baffles in the muzzle brake while cleaning the rifle",
+    "Inspect barrel and stock for cracks, bends or breaks",
+    "⚠ Removing the muzzle brake can permanently mark the barrel's finish, and refitting it may need shims to clock it back into position"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Reassemble in the reverse order of disassembly.",
+  "Reapply thread-locking compound to all screws.",
+  "Action screws to 65 inch-pounds.",
+  "Handguard screws, trigger-guard screw and adjustment screws to 20 inch-pounds.",
+  "Insert the bolt with the grooved lug matched to the grooves in the action.",
+  "Clean and dry the bore before the rifle is fired."
+ ],
+ "fncheck": "Christensen's book for this rifle says a functional check should follow any disassembly and reassembly, with the rifle unloaded and the magazine removed, and points to a later page for it, but the page it names carries storage instructions and the book prints no functional-check procedure. What the book does state: the safety lever reaches S only on a cocked rifle; the trigger is adjusted at the factory and every adjustment to it must be done at the factory; and in case of a malfunction you stop and contact Christensen Arms if the manual does not resolve it."
+}
