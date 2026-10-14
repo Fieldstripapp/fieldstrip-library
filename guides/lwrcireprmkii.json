@@ -1,0 +1,319 @@
+{
+ "row": "lwrcireprmkii",
+ "make": "LWRCI",
+ "model": "REPR MKII",
+ "sourcedFrom": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page (2017 — revision \"015-0019 REV A 04/17\" on the back page (\"2017 LWRCI\" on printed p.42))",
+ "sourceSha256": "c706acf4d599819b737f359cf89b564dff8d3e36e3960f27ca5f0aaa0956807f",
+ "cleanIntro": "The LWRCI REPR MKII is a 7.62x51mm NATO / .308 Winchester AR-pattern rifle that runs on a short-stroke gas piston instead of direct gas: gas from the barrel pressurises a piston cup on the gas block's nozzle, the cup drives an operating rod, and the rod strikes the bolt carrier. It comes with a 12.7\", 16.1\" or 20\" barrel, a 20-position adjustable gas block, a Geissele SSA-E trigger, and ambidextrous controls — charging handle, bolt catch, selector and magazine release.\n\nTwo things differ from a plain AR on the bench. The piston parts live under a removable top rail held by two captive pusher screws, and LWRCI says they run dry — no lubricant on them, ever. LWRCI calls for routine maintenance after each firing session (or daily in the field), and detailed maintenance — the bolt carrier group and the piston system apart — every 1,000 rounds or once a week. It advises against water-based lubricants such as WD-40.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe — magazine out",
+   "action": "Point the muzzle in a safe direction and keep it there. Press either magazine release — the paddle on the left or the button on the right — and pull the magazine out.",
+   "box": "none",
+   "prose": "Magazines may not drop free on their own; a tug while you hold the release makes sure it comes out.",
+   "quote": "While pointing the muzzle in a safe direction, remove the magazine (if present) by depressing the magazine release and pulling the magazine out.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 3.1 Clearing the Weapon, printed p.17"
+  },
+  {
+   "phase": "Clear",
+   "title": "Hold the bolt catch down",
+   "action": "Press and hold the bottom half of either bolt catch lever. The controls are on both sides, so your firing hand can hold it.",
+   "box": "none",
+   "prose": "Holding the lower half is what makes the catch trap the carrier when it comes back.",
+   "quote": "Press and hold the bottom half of either bolt catch lever.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 3.1 Clearing the Weapon, printed p.17"
+  },
+  {
+   "phase": "Clear",
+   "title": "Charging handle all the way back",
+   "action": "With your other hand, grip the charging handle, squeeze its latch, and pull the handle and carrier firmly all the way to the rear. Any chambered round should eject. The carrier stays trapped back on the bolt catch.",
+   "box": "none",
+   "prose": "If the carrier does not come all the way back, the bolt catch can catch on the front of the carrier instead of the bolt.",
+   "quote": "grasp the charging handle, depress the latch(es) and firmly pull the charging handle and carrier group all the way to the rear.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 3.1 Clearing the Weapon, printed p.17"
+  },
+  {
+   "phase": "Clear",
+   "title": "Charging handle home",
+   "action": "Push the charging handle forward until it is closed and latched. The carrier stays locked back.",
+   "box": "none",
+   "prose": "The handle does not ride with the carrier; it has to be returned by hand.",
+   "quote": "Return the charging handle to the closed and latched position.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 3.1 Clearing the Weapon, printed p.17"
+  },
+  {
+   "phase": "Clear",
+   "title": "LOOK into the chamber",
+   "action": "Roll the rifle counter-clockwise until you can see the bolt and chamber through the ejection port. See an empty chamber and the bolt locked back. In poor light, check by feel.",
+   "box": "none",
+   "prose": "No case flying out is not proof of an empty chamber — a round can stay in for any number of reasons.",
+   "caution": "Do not depend on the fact that no casing was ejected on clearing.",
+   "quote": "Visually check to make sure that the chamber is clear and that the bolt is locked to the rear. In low light conditions, perform a tactile check.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 3.1 Clearing the Weapon, printed p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Clear it again",
+   "action": "Clear the rifle more than once before you take it apart. Leave the hammer cocked: the buffer only comes out of the lower with the hammer cocked.",
+   "box": "none",
+   "prose": "LWRCI points out that most negligent discharges happen during disassembly and cleaning.",
+   "quote": "Clear the rifle several times. Most negligent discharges occur during disassembly and cleaning operations.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.2 Field Strip, printed p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear takedown pin out",
+   "action": "From the left side, press in the rear takedown pin. From the right side, pull it out to the right until it stops. It stays captive in the lower.",
+   "box": "none",
+   "prose": "Pushing first from the left starts the pin past its detent; then it pulls easily from the right.",
+   "quote": "From the left-hand side, press in the rear takedown pin. From the right-hand side, pull the rear takedown pin to the right until it stops.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.2 Field Strip, printed p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front pivot pin out",
+   "action": "Do the same with the front pivot pin: press it in from the left, then pull it out to the right until it stops.",
+   "box": "none",
+   "prose": "With both pins out, nothing holds the upper to the lower.",
+   "quote": "Repeat step 2 for the front pivot pin.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.2 Field Strip, printed p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Upper off the lower",
+   "action": "Lift the upper receiver group away from the lower receiver group.",
+   "box": "none",
+   "prose": "The upper holds the barrel, piston system, bolt carrier group and charging handle; the lower holds the trigger, buffer and spring.",
+   "quote": "Separate the upper and lower receiver groups.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.2 Field Strip, printed p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer retainer down",
+   "action": "With the hammer cocked, press the buffer retainer down with a screwdriver, punch or similar tool. The buffer springs free.",
+   "box": "none",
+   "prose": "Keep a hand over the back of the lower: the buffer comes out under spring pressure.",
+   "quote": "With the hammer cocked, depress the buffer retainer using a screwdriver, punch, or other suitable tool. The buffer should spring free.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.2 Field Strip, printed p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and spring out",
+   "action": "Pull the buffer and its spring out of the buffer tube in the lower receiver.",
+   "box": "none",
+   "prose": "They come out together; keep them together.",
+   "quote": "Pull on the buffer to remove the buffer and buffer spring from the lower receiver.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.2 Field Strip, printed p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier group out",
+   "action": "On the upper, pull the charging handle about three-quarters of the way back, then slide the bolt carrier group out of the back of the upper receiver.",
+   "box": "none",
+   "prose": "Three-quarters is enough to bring the carrier out; the handle comes out next.",
+   "quote": "Remove the bolt carrier group from the upper receiver.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.2 Field Strip, printed p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle out",
+   "action": "Pull the charging handle fully to the rear, then move it downward so its wide end drops through the cut-out in the upper's guide track, and take it out.",
+   "box": "none",
+   "prose": "It only comes out at the cut-out; anywhere else the track holds it.",
+   "quote": "Pull the charging handle fully towards the rear. Remove the charging handle by moving it downward so the expanded end of the charging handle passes through the cut-out in the guide track of the upper receiver.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.2 Field Strip, printed p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench: upper receiver with barrel and piston system, bolt carrier group, charging handle, buffer, buffer spring and lower receiver. DEEP CLEAN carries LWRCI's detailed disassembly — the bolt carrier group apart, the top rail off and the piston system out.",
+   "box": "none",
+   "prose": "No special tools are needed for any of this. LWRCI also notes that rifles should not be taken further than this outside a controlled setting such as a gunsmith's shop.",
+   "caution": "Please note that rifles should not be broken down beyond the field strip unless in a controlled environment, such as the factory or in a gunsmith’s shop.",
+   "quote": "Field Stripping, or Basic Disassembly, is breaking the rifle down to its core components for the purpose of field-expedient maintenance (mainly cleaning and lubrication).",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.2 Field Strip, printed p.25",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Firing pin retainer out",
+   "action": "Cup the bolt carrier group in one hand. With a punch or the tip of a cartridge, push the firing pin retainer out into your cupped hand. Push it straight — do not twist it.",
+   "box": "limit",
+   "prose": "Cupping the carrier is what keeps the small retainer from being lost.",
+   "quote": "Cup the bolt carrier group in one hand and, with a suitable punch or the tip of a cartridge, push out the firing pin retainer in to your cupped hand. Do not twist the retainer during removal.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin out",
+   "action": "Slide the firing pin out of the back of the carrier.",
+   "box": "none",
+   "prose": "With the retainer gone, nothing else holds it.",
+   "quote": "Slide the firing pin out of the rear of the carrier.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin out",
+   "action": "Lift the cam pin out of the bolt carrier group.",
+   "box": "none",
+   "prose": "The cam pin is what turns the bolt to lock and unlock. It must go back in before the rifle is fired.",
+   "caution": "The rifle may chamber a round and fire without the cam pin, but that shot could lead to catastrophic failure of the weapon.",
+   "quote": "Lift the cam pin out of the bolt carrier group.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out of the carrier",
+   "action": "Take the bolt out of the front of the bolt carrier.",
+   "box": "none",
+   "prose": "With the cam pin out, it slides straight out.",
+   "quote": "Remove the bolt from the front of the bolt carrier.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor pivot pin out",
+   "action": "With a punch or similar tool, push the extractor pivot pin out of the bolt and take the bolt apart.",
+   "box": "none",
+   "prose": "This is as far as LWRCI takes the bolt. Work over a cloth so the small parts are not lost.",
+   "quote": "Using a suitable punch or tool, push the extractor pivot pin out of the bolt and disassemble the bolt.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.28"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pusher screws loose",
+   "action": "On the upper, loosen the pusher screws at the front of the rail. Do not take them all the way out.",
+   "box": "limit",
+   "prose": "The screws are captive and stay in the rail. Under the top rail is the piston system.",
+   "quote": "Loosen the pusher screws at the front of the rail. The screws are captive and will remain in the rail; do not remove them completely.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Top rail forward",
+   "action": "Slide the top rail forward until it comes off the titanium pins in the lower rail.",
+   "box": "none",
+   "prose": "The pins are what hold the top rail down; forward travel frees it.",
+   "quote": "Slide the top rail forward to disengage it from the titanium pins in the lower rail.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Top rail off",
+   "action": "Lift the top rail up and away from the lower rail.",
+   "box": "none",
+   "prose": "The piston cup, operating rod and piston spring are now exposed.",
+   "quote": "Lift the upper rail to separate it from the lower rail.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Keep the piston cup forward",
+   "action": "From here on, keep the piston cup fully forward — angle the upper receiver muzzle-down, or hold the cup in place with a hand.",
+   "box": "none",
+   "prose": "If the cup slides back with the rod, the rod will not come free of it.",
+   "quote": "Ensure that the piston cup stays fully forward during the rest of the process, either by angling the upper receiver assembly downward or by keeping the piston cup in place with a hand.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Operating rod back, off the cup",
+   "action": "Grip the operating rod and pull it back, compressing the spring on the rod. The rod comes away from the piston cup.",
+   "box": "none",
+   "prose": "The spring is under load while you hold it back; keep control of the rod.",
+   "quote": "Grab the operating rod near and pull back, compressing the spring on the operating rod. The operating rod will separate from the piston cup.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Operating rod out",
+   "action": "Angle the operating rod so that, as you let the spring tension off, the rod clears the piston cup. Lift it out of the upper receiver.",
+   "box": "none",
+   "prose": "The rod, the piston spring and the spring cup come out together.",
+   "quote": "Angle the operating rod so that as the spring tension is released, the rod clears the piston cup and can be removed from the upper receiver.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Piston cup off the nozzle — LWRCI's last step",
+   "action": "Take the piston cup off the nozzle on the gas block. Stop here: this is the last step of LWRCI's detailed disassembly.",
+   "box": "none",
+   "prose": "The book goes no further than this.",
+   "quote": "Remove the piston cup from the nozzle on the gas block.",
+   "cite": "LWRCI REPR MKII Rapid Engagement Precision Rifle Operator's Manual — 015-0019 REV A 04/17 — printed on the back page — 5.3 Detailed Disassembly, printed p.29"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Push a patch soaked in solvent through the bore from the chamber end to the muzzle, take the rod out, and let the barrel sit for several minutes.",
+    "Run a bore brush through several times to break the build-up free; a chamber brush clears the chamber.",
+    "Push dry patches through until they come out clean.",
+    "If accuracy falls off, clean the bore with a carbon/copper solvent, following the solvent's own instructions.",
+    "Do not check the bore for obstructions with a flexible cleaner — LWRCI warns it can snag and break, making the obstruction worse. Use a cleaning rod."
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Wipe the bolt carrier with a cloth slightly dampened with solvent.",
+    "Scrub the face of the bolt with a nylon brush dipped in solvent, then wipe the solvent off with a cloth.",
+    "Deep clean: scrub the bolt and the extractor with a nylon brush and solvent, paying particular attention to build-up in the extractor groove.",
+    "Deep clean: scrub the bolt carrier and firing pin; run a pipe cleaner through the firing pin hole and cavity; wipe away all the solvent.",
+    "Deep clean: a moderate coat of lube in the cavity of the carrier where the bolt goes.",
+    "A moderate coat of lube on the carrier body, especially the runners on the bottom and the bosses on the rear; two drops into the cam pin slot; a drop on the cam pin.",
+    "Do not lubricate the face of the bolt."
+   ]
+  },
+  {
+   "name": "UPPER RECEIVER AND CHARGING HANDLE",
+   "tasks": [
+    "Wipe the charging handle and the inside of the upper receiver with a solvent-damp cloth.",
+    "Deep clean: scrub the inside of the upper receiver with a nylon brush and solvent, then wipe it dry.",
+    "A coat of lube inside the upper receiver and on the outside of the long, thin section of the charging handle; a drop on the charging handle latch."
+   ]
+  },
+  {
+   "name": "BUFFER, SPRING AND LOWER",
+   "tasks": [
+    "Wipe the buffer and buffer spring with a solvent-damp cloth.",
+    "A coat of lube on the buffer spring.",
+    "A drop of lube on the hammer pin and the trigger pin, and on the takedown pins."
+   ]
+  },
+  {
+   "name": "GAS PISTON SYSTEM",
+   "tasks": [
+    "Deep clean: scrub the piston parts with a DRY brass wire brush, including the gas block nozzle inside and out; wipe the carbon off with a rag and solvent. Heavily fouled parts may need it more than once.",
+    "Dry the piston parts completely before reassembly.",
+    "Do not lubricate the piston system — LWRCI says these parts are designed to run dry.",
+    "The rail around the gas block collects carbon and copper; a blue-green colour there is cosmetic and can be cleaned off with ordinary carbon removal.",
+    "In sand or snow, take the top rail off during routine maintenance and brush the piston parts clear."
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Check each magazine is clean and not dented or cracked, and that the follower moves freely and returns under its own spring.",
+    "Do not oil or lubricate magazines or ammunition."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Reassembly is the disassembly in reverse order.",
+  "Deep clean only: piston cup onto the gas block nozzle first, then the operating rod with its spring. Spin both parts to make sure they are seated — there should be no binding.",
+  "Deep clean only: top rail back down onto the titanium pins and slid back into place; tighten the captive pusher screws. ⛔ Never fire the rifle without the piston parts and the top rail properly installed — LWRCI warns it can fire without them, and that can cause severe injury.",
+  "Deep clean only: bolt reassembled with its extractor and extractor pivot pin, bolt into the carrier, cam pin in. ⛔ Never forget the cam pin.",
+  "Deep clean only: firing pin into the back of the carrier, then the firing pin retainer pushed in.",
+  "Charging handle back into the upper's guide track at the cut-out, then the bolt carrier group into the upper.",
+  "Buffer spring and buffer into the buffer tube; push the buffer fully in past the buffer retainer so the retainer holds it.",
+  "Upper back onto the lower; push the front pivot pin and the rear takedown pin fully home.",
+  "Check the gas block is set for how you will shoot, then run the function check before loading."
+ ],
+ "fncheck": "Clear the rifle first (no magazine, empty chamber). Seat an empty magazine and tug it — it must stay locked in. Pull the charging handle back: the carrier must lock to the rear on the empty magazine, and the handle must not return forward on its own; push it home until it latches. Press a magazine release and remove the magazine: the carrier stays back. Press the large upper paddle of either bolt release: the carrier slams forward into battery (never onto a chamber flag). On SAFE, pull the trigger — the hammer must not drop. On SEMI, pull it — the hammer drops with a click; charge the rifle and pull again — it drops again. Hold the trigger down while you charge once more, then let the trigger out slowly: you should hear the disconnector click, and the hammer must stay cocked. Then clear the rifle again."
+}

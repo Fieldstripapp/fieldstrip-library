@@ -1,0 +1,111 @@
+{
+ "row": "keltecp11",
+ "make": "Kel-Tec",
+ "model": "P11",
+ "sourcedFrom": "KEL-TEC PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — ABSENT — no revision code printed on any page (UNKNOWN — not printed in the document)",
+ "sourceSha256": "acba19294c6f4e32b9095c986559a672f5daeceb27fcad2ad3f15842ba884fa1",
+ "cleanIntro": "A double-column, double-action-only pocket pistol — the caliber is the one marked on the right side of the grip, under the slide — that comes apart on one pin. Kel-Tec's procedure is: unload, lock the slide open on the slide stop, pull the assembly pin with the rim of a case, push the barrel back, let the slide run forward off the frame, then lift out the recoil springs and barrel. The book stops there and says so, so there is no Deep Clean path.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, slide back briskly, look and feel",
+   "action": "This guide follows Kel-Tec's pistol manual, which does not print the P11's name, so check your pistol against it. Point the muzzle somewhere safe, press the magazine catch and remove the magazine, then pull the slide fully back in one brisk stroke to throw the chambered round clear. Look into the chamber, then put a finger in it.",
+   "box": "limit",
+   "prose": "The stroke has to be brisk: a slow pull on a short slide can let the extractor drag a live round partway out and drop it back onto the feed ramp, which looks like an empty gun at a glance. Keep your hand clear of the ejection port and your fingers away from the trigger and the muzzle, which on a pistol this short is very close to your support hand. Then thumb the remaining cartridges forward out of the magazine. The book is plain that the extractor is not to be trusted: look and feel.",
+   "quote": "To unload the pistol, remove the magazine and briskly pull the slide back to extract the round in the chamber. Do not obstruct the ejector port and keep fingers away from trigger and muzzle. Visually inspect the chamber to make sure it is empty.",
+   "cite": "KEL-TEC PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — ABSENT — no revision code printed on any page — Instructions for Use — Unloading, p.11",
+   "warn": "Do not trust the extractor to clear the chamber, look and feel.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "No safety lever, and the hammer is never cocked",
+   "action": "Accept that there is nothing on this pistol to put on safe. Keep your finger outside the trigger guard for the whole strip, and never touch the trigger while you work the slide.",
+   "box": "limit",
+   "prose": "The fire control is double action only: each trigger pull carries the hammer through its whole stroke and lets it go, and at rest the hammer is never cocked. That is a sound resting state, and it is also why nothing on the outside of the gun shows its condition — no cocking indicator to read and no safety to check. The only condition you can rely on is the empty chamber you just saw and felt.",
+   "quote": "It has no manual safety and the hammer is never cocked, very much like a hammerless revolver.",
+   "cite": "KEL-TEC PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — ABSENT — no revision code printed on any page — Safety, p.12",
+   "warn": "Never touch the trigger when working the slide.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lock the slide open on the slide stop",
+   "action": "Pull the slide fully back and push the slide stop up until it catches the slide and holds it open.",
+   "box": "none",
+   "prose": "The assembly pin cannot be drawn with the slide closed; locking it open lines the parts up and takes the spring load off the pin. If the slide stop will not hold, the slide has not come back far enough — pull it to the end of its travel and try again rather than forcing the stop.",
+   "quote": "Pull the slide back and push up on the slide stop until slide is locked open.",
+   "cite": "KEL-TEC PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — ABSENT — no revision code printed on any page — Disassembly, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pull the assembly pin out with the rim of a case",
+   "action": "Hook the rim of an empty case under the head of the assembly pin and draw the pin out of the pistol.",
+   "box": "none",
+   "prose": "The rim is the book's tool: it gets under the pin head without scratching the frame the way a screwdriver tip does. Use a fired, empty case, never a loaded round — the strip is done with every cartridge away from the bench. Set the pin somewhere it cannot roll; it is the one small part that holds the whole gun together.",
+   "quote": "Using the rim of a case, pull the assembly pin from the pistol.",
+   "cite": "KEL-TEC PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — ABSENT — no revision code printed on any page — Disassembly, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel back, then let the slide run forward off the frame",
+   "action": "Push the barrel rearward. Hold the slide, release the slide stop, and let the slide move slowly forward and off the front of the frame.",
+   "box": "none",
+   "prose": "The barrel has to go back first so it unlocks from the slide; this is a tilting-barrel locked breech and the pin you just removed is what cams it. Keep hold of the slide as the stop drops — the recoil springs are under load and will drive it forward hard if you let go. If the slide will not come, the barrel has not gone far enough back; do not lever it.",
+   "quote": "Push the barrel back. While holding slide, release the slide stop allowing the slide to slowly move forward, off the frame.",
+   "cite": "KEL-TEC PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — ABSENT — no revision code printed on any page — Disassembly, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lift out the recoil springs and the barrel",
+   "action": "Turn the slide over and lift the recoil springs out, then take the barrel out of the slide.",
+   "box": "none",
+   "prose": "The book lists an outside and an inside recoil spring on a guide; keep them together as they came out so they go back the same way. This leaves the bore, chamber, breech face and the underside of the slide open to clean.",
+   "quote": "Remove recoil springs and barrel.",
+   "cite": "KEL-TEC PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — ABSENT — no revision code printed on any page — Disassembly, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Frame, slide, barrel, recoil springs, assembly pin and magazine. That is the whole strip Kel-Tec publishes for this pistol — the firing pin, extractor, hammer and trigger parts stay where they are.",
+   "box": "limit",
+   "prose": "Everything the maintenance section asks you to reach is now open: the bore and chamber, the breech, the extractor from the outside and the frame. The firing pin screw is a factory setting; the book says not to turn it, and there is no cleaning reason to. Anything that needs adjustment or repair goes back to Kel-Tec, unloaded.",
+   "quote": "No further disassembly is recommended. Do not rotate the firingpin screw, it is factory adjusted.",
+   "cite": "KEL-TEC PISTOL SAFETY, INSTRUCTION, AND PARTS MANUAL — ABSENT — no revision code printed on any page — Disassembly, p.13",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Kel-Tec's pistol manual publishes one disassembly and stops inside it: after the recoil springs and barrel come out, the same paragraph on printed p.13 says no further disassembly is recommended and that the firing pin screw is factory adjusted and must not be rotated. Its Maintenance section (p.14) sends the reader back to that same disassembly for a more detailed cleaning, and its Service section sends adjustment and repair to the factory. Nothing deeper is published, so nothing deeper is written here.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Brush the bore and chamber with a good powder-removing solvent and a bore brush",
+    "Wipe the bore and chamber clean with patches or a swab"
+   ]
+  },
+  {
+   "name": "BREECH & EXTRACTOR",
+   "tasks": [
+    "Small brush dipped in solvent around the breech of the barrel and the chamber mouth",
+    "Clean the deposits from the extractor and the areas around it that see powder and primer residue",
+    "Do not turn the firing pin screw — it is factory adjusted"
+   ]
+  },
+  {
+   "name": "FRAME & OIL",
+   "tasks": [
+    "Light brushing and solvent to lift residue off the frame",
+    "After the whole gun is clean, wipe a light coat of good gun oil onto all external surfaces with a cloth, then wipe it back"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Put the barrel and the recoil springs back in the slide and make certain they are well centered.",
+  "Push the slide onto the frame and push up on the slide stop until the slide is locked open.",
+  "Let the barrel fall completely forward.",
+  "Look into the assembly pin hole and line it up with the cut in the barrel, then insert the assembly pin and push it completely in.",
+  "Work the slide a few times to check the action. Do not dry fire the pistol — the book says dry firing should be avoided."
+ ],
+ "fncheck": "With the magazine out and the chamber checked empty: the assembly pin should be pushed fully home; the slide should run its full travel by hand a few times and return fully forward under spring pressure; and pulling the slide back and pushing up on the slide stop should hold it open. Do not test it by dry firing — Kel-Tec says dry firing should be avoided."
+}

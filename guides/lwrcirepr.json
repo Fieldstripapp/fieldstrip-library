@@ -1,0 +1,277 @@
+{
+ "row": "lwrcirepr",
+ "make": "LWRCI",
+ "model": "R.E.P.R.",
+ "sourcedFrom": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page (2011 — revision \"015-0002 01/04/11 Rev. B\" on the back page (text © 2009, 2010))",
+ "sourceSha256": "aeac88dcaeb92cb57dd0f56cacb4a3f06429581e09da767f714b58dbf431ea20",
+ "cleanIntro": "The LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) is a 7.62x51mm NATO / .308 Winchester AR-pattern rifle that runs on a gas piston instead of direct gas: the gas drives a piston cup off a nozzle, the cup drives an operating rod, and the rod strikes the carrier key. It has a left-side non-reciprocating charging handle with a built-in forward assist, and a four-position gas regulator.\n\nTwo things differ from a plain AR on the bench. The charging handle is on the left and does not ride with the carrier. And the piston parts live under a removable top rail held by two captive pusher screws. LWRCI calls for routine maintenance after every firing session, and detailed maintenance — the bolt, extractor and piston system apart — every 2,000 rounds or once a week in the field.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe — magazine out",
+   "action": "Point the muzzle in a safe direction and keep it there the whole time. Press the magazine release and let the magazine drop free or pull it out.",
+   "box": "none",
+   "prose": "With a magazine still seated, working the charging handle only loads the next round.",
+   "quote": "Remove the Magazine (if present) by depressing the Magazine Release and either allowing it to drop free or pulling it out.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 3.3 Clearing Your Weapon – Unloading, printed p.28"
+  },
+  {
+   "phase": "Clear",
+   "title": "Hold the bolt catch, charging handle back",
+   "action": "With your trigger finger, press and hold the bottom of the bolt catch. With your support hand, pull the left-side charging handle firmly all the way back, then let it go. The bolt carrier stays locked back.",
+   "box": "none",
+   "prose": "Holding the lower part of the catch is what traps the carrier open. If you press the charging handle knob while you pull, the carrier will not come all the way back.",
+   "quote": "Grasp the Charging Handle firmly with the support hand and pull firmly all the way to the rear. Release the Charging Handle. The bolt carrier should remain locked back.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 3.3 Clearing Your Weapon – Unloading, printed p.28"
+  },
+  {
+   "phase": "Clear",
+   "title": "LOOK into the chamber",
+   "action": "Roll the rifle counter-clockwise and look through the ejection port. See an empty chamber — no round, no case. In poor light, check it by feel.",
+   "box": "none",
+   "prose": "No round flying out is not proof of an empty chamber: a broken extractor or a torn case rim can leave a live round in place.",
+   "caution": "Do not depend on the fact that no chambered round was ejected on clearing.",
+   "quote": "Roll the rifle counterclockwise to visually confirm that there is no round or casing in the chamber. If light conditions are low, physically inspect chamber.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 3.3 Clearing Your Weapon – Unloading, printed p.29"
+  },
+  {
+   "phase": "Clear",
+   "title": "Carrier home, hammer down, port closed",
+   "action": "Press the paddle of the bolt catch so the carrier runs forward into battery. Pointing in a safe direction, pull the trigger. Close the ejection port cover.",
+   "box": "limit",
+   "prose": "The selector will not go to SAFE afterwards — that is how you know the hammer is down. LWRCI's field strip starts with the carrier in battery.",
+   "quote": "While pointing the weapon in a safe direction, depress the Trigger to render it inert. Your Selector Lever should not go to safe, indicating that the hammer is no longer cocked.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 3.3 Clearing Your Weapon – Unloading, printed p.29"
+  },
+  {
+   "phase": "Strip",
+   "title": "Condition 4, carrier in battery",
+   "action": "Confirm the rifle is clear, with no magazine, the bolt forward on an empty chamber and the port cover closed. The carrier must be all the way forward before you start.",
+   "box": "none",
+   "prose": "For routine cleaning LWRCI lets you leave the upper hinged on the lower (\"shotgun style\"); the full strip below separates them.",
+   "quote": "ensure the weapon is Condition 4. Your Bolt Carrier must be in battery.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.1 Disassembly (Field Strip), printed p.44"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear takedown pin out",
+   "action": "Push the rear takedown pin from the left side to start it moving, then pull it out from the right. A dowel or a bullet tip helps. Pull it as far as it goes — it stays captive in the lower.",
+   "box": "none",
+   "prose": "The detent is stiff on a new rifle and loosens with use.",
+   "quote": "Pull out the Take Down Pin by pushing from the left side of the Lower Receiver to start the pin moving then pull out from the right.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.1 Disassembly (Field Strip), printed p.45"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pivot open, front pin out, upper off",
+   "action": "Swing the lower receiver down until it is at 90 degrees to the upper. Pull out the front takedown pin and lift the upper away from the lower.",
+   "box": "none",
+   "prose": "The rear pin only frees the back of the upper; the front pin is the hinge.",
+   "quote": "Pivot the Lower Receiver until it is 90° to the Upper Receiver. Pull out the front take down pin and disconnect the upper from the lower completely.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.1 Disassembly (Field Strip), printed p.46"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier group out",
+   "action": "Pull the left-side charging handle all the way back, grasp the rear of the bolt carrier and draw it out of the upper. Push the charging handle forward again.",
+   "box": "none",
+   "prose": "The charging handle is non-reciprocating, so it stays in the upper; only the carrier comes out.",
+   "quote": "Pull the Charging Handle back all the way and grasp the rear of the Bolt Carrier. Remove it from the receiver. Return the Charging Handle to the forward position",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.1 Disassembly (Field Strip), printed p.46"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and recoil spring out of the lower",
+   "action": "In the lower receiver, press the buffer detent and draw the buffer and its recoil spring out of the buffer tube.",
+   "box": "none",
+   "prose": "The detent is what holds the buffer in the tube; with it pressed, the buffer and spring pull straight out.",
+   "quote": "Remove the Buffer and Buffer/Recoil Spring by depressing the buffer detent",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.1 Disassembly (Field Strip), printed p.47"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer off the spring",
+   "action": "Separate the recoil buffer from the recoil spring.",
+   "box": "none",
+   "prose": "Lay the parts out left to right in the order they came off, and reassembly runs right to left.",
+   "quote": "Remove the Recoil Buffer from the Recoil Spring.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.1 Disassembly (Field Strip), printed p.47"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench: upper receiver with barrel and charging handle, bolt carrier group, buffer, recoil spring and lower receiver. DEEP CLEAN carries LWRCI's detailed disassembly — the bolt carrier and bolt apart, the top rail off and the gas piston parts out.",
+   "box": "none",
+   "prose": "LWRCI's book is an operator's manual: it encourages leaving any parts beyond its own procedures to a certified armorer.",
+   "quote": "The R.E.P.R. is now Field Stripped.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.1 Disassembly (Field Strip), printed p.47",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin out",
+   "action": "Over a cloth so nothing small is lost, pull the firing pin retaining pin out of the bolt carrier.",
+   "box": "none",
+   "prose": "Note which side it came from: it goes back in from left to right, looking from the rear.",
+   "quote": "Remove the Firing Pin Retaining Pin from the Bolt Carrier.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.2 Detailed Disassembly, printed p.48"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin out",
+   "action": "Turn the carrier so the bolt faces up and tap it against a surface. The firing pin drops out of the back.",
+   "box": "none",
+   "prose": "Tip it into your hand or onto the cloth, not onto a hard floor.",
+   "quote": "Turn the carrier so the Bolt is facing upward and tap against a surface to remove the Firing Pin.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.2 Detailed Disassembly, printed p.48"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin a quarter-turn and out",
+   "action": "Push the bolt back into the carrier. Turn the bolt cam pin 90 degrees counter-clockwise and pull it out.",
+   "box": "none",
+   "prose": "The cam pin is what turns the bolt to lock and unlock. It goes back in with its arrow facing forward.",
+   "caution": "NEVER FIRE THE WEAPON WITHOUT THE CAM PIN INSTALLED. THIS COULD RESULT IN INJURY OR DEATH.",
+   "quote": "Ensure the Bolt is retracted into the Bolt Carrier and rotate the Bolt Cam-Pin 90° counter-clockwise. Pull to remove the Bolt Cam Pin",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.2 Detailed Disassembly, printed p.49"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out of the carrier",
+   "action": "With the cam pin out, pull the bolt assembly forward out of the carrier.",
+   "box": "none",
+   "prose": "Nothing else holds it; it slides straight out of the front.",
+   "quote": "Once the Cam Pin is removed, pull forward on the Bolt Assembly to remove it form the Carrier.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.2 Detailed Disassembly, printed p.50"
+  },
+  {
+   "phase": "Strip",
+   "title": "Start the extractor pin",
+   "action": "Use the firing pin as a punch to push the extractor pin partway out of the bolt.",
+   "box": "none",
+   "prose": "The firing pin is the right size for the job, so no separate punch is needed.",
+   "quote": "Utilize the Firing Pin to push the Extractor Pin and start it out of the bolt.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.2 Detailed Disassembly, printed p.51"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor out — the bolt stops here",
+   "action": "Grip the extractor pin from the other side and pull it out. Turn the bolt over and tap the extractor out into your palm, with its springs and O-ring.",
+   "box": "none",
+   "prose": "The springs and O-ring are small and easy to lose. LWRCI takes the bolt no further than this at the operator level.",
+   "caution": "At the Operator level, no further disassembly of the bolt beyond removing the Extractor is necessary.",
+   "quote": "Grasp the pin from the opposite side and remove it. Turn the Bolt over and tap the Extractor out into your palm. Be sure not to lose the extractor springs and o-ring.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.2 Detailed Disassembly, printed p.51"
+  },
+  {
+   "phase": "Strip",
+   "title": "Top rail off",
+   "action": "On the upper, loosen the two pusher screws at the front of the handguard. Push the top rail forward, then lift it up and off.",
+   "box": "none",
+   "prose": "The pusher screws are held captive and stay in the handguard. Under the top rail is the gas piston system.",
+   "caution": "The two Pusher Screws are captive and are not supposed to come free from the Rail handguard Body.",
+   "quote": "Remove the Top Rail by loosening the two Pusher Screws and pushing the upper rail forward",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.2 Detailed Disassembly, printed p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Operating rod free of the piston cup",
+   "action": "Grip the front of the operating rod and pull it firmly back, compressing the piston spring, while you pull the piston cup forward. Keep the rod straight in line with the receiver as you pull.",
+   "box": "none",
+   "prose": "If the rod goes back at an angle it binds. Pulled straight, its front end comes free of the piston cup.",
+   "quote": "Ensure to pull it straight back into the receiver or it will bind. The front of the operating rod will disengage from the piston cup.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.2 Detailed Disassembly, printed p.54"
+  },
+  {
+   "phase": "Strip",
+   "title": "Operating rod assembly out",
+   "action": "Lift the front of the operating rod assembly, then draw it forward and away from the receiver.",
+   "box": "none",
+   "prose": "If you are taking out only the piston parts on an otherwise assembled rifle, LWRCI says to lock the bolt to the rear first, to take the recoil spring's pressure off.",
+   "quote": "Lift out the front of the operating rod assembly and pull it forward then away from the receiver.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.2 Detailed Disassembly, printed p.54"
+  },
+  {
+   "phase": "Strip",
+   "title": "Piston cup off the nozzle — LWRCI's stopping point",
+   "action": "Pull the piston cup back off the gas nozzle. Stop here: this is the end of LWRCI's detailed disassembly.",
+   "box": "none",
+   "prose": "LWRCI leaves anything further to higher-echelon maintenance. It also advises against removing the rail, because the barrel nut is the rail mount.",
+   "quote": "Pull the piston cup to the rear and off of the nozzle. This completes detailed disassembly.",
+   "cite": "LWRCI R.E.P.R. (Rapid Engagement Precision Rifle) Manual — 015-0002 01/04/11 Rev. B — printed on the back page — 6.2 Detailed Disassembly, printed p.55"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Always push the rod from the chamber end toward the muzzle — LWRCI warns the muzzle can be damaged otherwise, and accuracy suffers.",
+    "Push a patch soaked in Simple Green, SLIP 2000 Carbon Killer or an approved solvent through the bore.",
+    "Run the bore brush through several times.",
+    "Push dry patches through until one comes out clean.",
+    "If accuracy falls off, clean the bore with a copper solvent following its maker's instructions."
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Wipe the bolt carrier with a cloth slightly dampened with solvent.",
+    "Scrub the bolt face with a GP brush dipped in solvent or CLP, then wipe all of it off with a rag.",
+    "Deep clean: scrub the extractor with a GP brush and solvent, especially brass build-up in the extractor groove.",
+    "Deep clean: scrub the carrier, bolt body and firing pin; run a pipe cleaner through the firing pin hole and cavity; wipe dry.",
+    "Deep clean: moderate coat of lube inside the carrier where the bolt sits.",
+    "A drop of lube on the extractor (where its pin goes in) and on the bolt cam pin, and on the carrier sear.",
+    "Do not lubricate the face of the bolt."
+   ]
+  },
+  {
+   "name": "UPPER RECEIVER AND CHARGING HANDLE",
+   "tasks": [
+    "Wipe the charging handle and the inside of the upper with a solvent-damp cloth.",
+    "Deep clean: scrub the inside of the upper with a GP brush and solvent, then wipe it dry.",
+    "Light coat of lube inside the upper receiver, on the ejection port cover and on the compensator.",
+    "A drop of lube on the charging handle knob."
+   ]
+  },
+  {
+   "name": "BUFFER, SPRING AND LOWER",
+   "tasks": [
+    "Wipe the buffer and recoil spring with a solvent-damp cloth.",
+    "Light coat of lube on the buffer spring.",
+    "A drop of lube on the hammer pivot, the trigger pivot and the bolt catch, worked in by moving each part."
+   ]
+  },
+  {
+   "name": "GAS PISTON SYSTEM",
+   "tasks": [
+    "Deep clean: scrub the gas piston nozzle with a DRY brass wire brush and wipe off the carbon with a rag and solvent.",
+    "Do not lubricate the gas piston nozzle before firing — LWRCI says it must be completely dry, as lube can cause fouling when fired.",
+    "Deep clean: scrub the piston cup inside and out with a dry brass wire brush; light coat of lube on the outside only, excess wiped off.",
+    "Do not put any lubricant inside the piston cup.",
+    "Deep clean: scrub the operating rod assembly with a GP brush and solvent, wipe it, then give it a light coat of lube.",
+    "Check the inside of the top rail for fouling that could get in the way of the piston. Blue-green copper staining there is cosmetic.",
+    "For long storage only, a light coat of CLP on the nozzle is allowed; expect some smoke as it burns off."
+   ]
+  },
+  {
+   "name": "MAGAZINES",
+   "tasks": [
+    "Check each magazine is clean and not dented, especially the feed lips, and that the follower moves freely and returns under its own spring.",
+    "Do not oil or lubricate magazines or ammunition."
+   ]
+  }
+ ],
+ "reassembly": [
+  "Deep clean only: piston cup back onto the nozzle; operating rod assembly back in, turned until it fully seats in the piston cup; top rail back on and the two pusher screws tightened by finger or with a coin. Never use excessive force on them.",
+  "Deep clean only: extractor with its springs and O-ring into the bolt; press firmly on the centre of the extractor to line up the holes while you push the extractor pin back in.",
+  "Deep clean only: bolt back into the carrier; cam pin in with its arrow facing forward and turned to lock. ⛔ Never fire without the cam pin installed.",
+  "Deep clean only: firing pin fully forward, retaining pin in from left to right looking from the rear. With the bolt pushed back into the carrier, push the firing pin forward and check it sticks out through the bolt face. Tap the bottom of the carrier against your palm: the firing pin must stay in.",
+  "Buffer back onto the recoil spring and into the buffer tube; push the buffer fully past the buffer detent and make sure the detent holds it.",
+  "Bolt carrier group into the upper with the bolt fully extended.",
+  "Front takedown pin through the upper and lower; swing the lower up until it meets the upper and push the rear takedown pin all the way in. You may need to squeeze the receivers together.",
+  "Check the gas regulator is on the right setting for how you will shoot, then run the function check before loading."
+ ],
+ "fncheck": "Clear the rifle first (no magazine, bolt forward on an empty chamber). Seat an empty magazine and tug it down — it must stay locked in. Pull the charging handle firmly back: the carrier must lock to the rear; push the handle forward to its locked position. Press the magazine release: the magazine drops and the carrier stays back. Press the top serrated part of the bolt catch: the carrier springs fully forward into battery. On SAFE, pull the trigger — the hammer must not fall. On SEMI, pull it — the hammer falls. Charge the rifle again and hold the trigger down: the hammer falls. Keep holding the trigger and charge once more, then let the trigger out as slowly as you can: you should hear the disconnector click and the hammer must stay cocked. Then clear the rifle again."
+}

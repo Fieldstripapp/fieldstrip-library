@@ -1,0 +1,108 @@
+{
+ "row": "christensenarmsridgeline",
+ "make": "Christensen Arms",
+ "model": "Ridgeline",
+ "sourcedFrom": "BOLT RIFLE — OWNER'S MANUAL — UNKNOWN — no revision or edition code is printed in the document (UNKNOWN — no copyright year is printed in the document)",
+ "sourceSha256": "782c00af7ae2abcf4beb0c6f0b62d6d3259bb35bbe67b6eac8f7438c0d3d171b",
+ "cleanIntro": "This guide follows Christensen Arms' bolt-rifle owner's manual, which covers the family without naming the Ridgeline; check your rifle against it. The book's own strip is short: safety to S, the magazine or floor plate emptied, the bolt opened and then removed, and the bore inspected. It publishes nothing past taking the bolt out. Two things to carry in your head: Christensen bans any lubricant containing graphite outright, and the trigger group is never to be taken apart or adjusted by the owner.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety back to S",
+   "action": "This guide follows Christensen Arms' bolt-rifle owner's manual, which covers the family without naming the Ridgeline; check your rifle against it. The safety lever sits to the right of the bolt shroud on a right-handed rifle. Move it all the way back to the S position before anything else. If it will not go, the book's own notice applies: an uncocked rifle's lever cannot be moved to SAFE — that is not a broken safety.",
+   "box": "none",
+   "aside": "To engage the safety, move the safety lever all the way back to the “S” position.",
+   "quote": "Place safety selector in the “SAFE” position.",
+   "cite": "BOLT RIFLE — OWNER'S MANUAL — UNKNOWN — no revision or edition code is printed in the document — UNLOADING THE FIREARM, printed p.13"
+  },
+  {
+   "phase": "Clear",
+   "title": "Detachable magazine: catch down, magazine out",
+   "action": "If your rifle feeds from a detachable magazine, press the magazine catch lever and pull the magazine down and out. Do this before the bolt is worked: Christensen warns that any round left in the magazine or mag box will be chambered when the bolt cycles, and the rifle can still fire with a round chambered and the magazine removed.",
+   "box": "none",
+   "quote": "Remove the magazine by depressing the magazine catch lever and pulling the magazine down.",
+   "cite": "BOLT RIFLE — OWNER'S MANUAL — UNKNOWN — no revision or edition code is printed in the document — UNLOADING THE FIREARM, printed p.13"
+  },
+  {
+   "phase": "Clear",
+   "title": "Hinged floor plate: hold it as it springs open",
+   "action": "If your rifle has a hinged floor plate instead, press the floor plate release lever. The plate springs open on its own, so keep a hand under it and let it open slowly — the point is that the cartridges in the box come out into your hand, not onto the floor.",
+   "box": "limit",
+   "quote": "Pressing the floor plate release lever, the floor plate will spring open when the release lever is pressed. Hold and slowly open the floor plate to ensure unused cartridges do not fall",
+   "cite": "BOLT RIFLE — OWNER'S MANUAL — UNKNOWN — no revision or edition code is printed in the document — UNLOADING THE FIREARM, printed p.13"
+  },
+  {
+   "phase": "Clear",
+   "title": "Open the bolt, chamber empty",
+   "action": "With the magazine or mag box empty, lift the bolt handle and draw the bolt back to extract any cartridge in the chamber. Then look into the chamber and confirm it is empty. Christensen's warning is to assume every firearm is loaded and inspect it the moment you pick it up.",
+   "box": "none",
+   "quote": "Open the bolt to extract any chambered cartridge.",
+   "cite": "BOLT RIFLE — OWNER'S MANUAL — UNKNOWN — no revision or edition code is printed in the document — UNLOADING THE FIREARM, printed p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt assembly out",
+   "action": "With the action open, take the bolt assembly out of the receiver. The book does not walk through operating the bolt release for this step — its structure page labels it the IMPROVED BOLT RELEASE beside the action — so use your rifle's release as fitted, and do not force the bolt past a stop. Keep the bolt with this rifle: Christensen capitalises the warning not to interchange bolts between rifles.",
+   "box": "none",
+   "quote": "Open the action and remove the Bolt Assembly.",
+   "cite": "BOLT RIFLE — OWNER'S MANUAL — UNKNOWN — no revision or edition code is printed in the document — UNLOADING THE FIREARM, printed p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Look down the bore while the bolt is out",
+   "action": "With the bolt out you can see the bore end to end from the breech. Check it now for obstructions or debris — a patch, a lodged bullet, excess oil. If a cleaning rod and patch will not clear it, Christensen sends the rifle to a qualified gunsmith rather than having you force it.",
+   "box": "none",
+   "quote": "Check the barrel for any obstructions of debris by visually inspecting the bore.",
+   "cite": "BOLT RIFLE — OWNER'S MANUAL — UNKNOWN — no revision or edition code is printed in the document — UNLOADING THE FIREARM, printed p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — bolt and magazine out",
+   "action": "Bolt assembly out and the magazine out (or the floor plate emptied) is the whole of the book's strip, and it is everything the cleaning below needs. The book publishes no removal of the stock, the barrelled action or the trigger — the trigger group is not to be taken apart at all. Lay the rifle on its side with the ejection port up, or upright in a vise, for cleaning.",
+   "box": "none",
+   "quote": "Remove the Bolt Assembly and external magazine.",
+   "cite": "BOLT RIFLE — OWNER'S MANUAL — UNKNOWN — no revision or edition code is printed in the document — CLEANING, printed p.14"
+  }
+ ],
+ "deepAbsentReason": "Christensen's bolt-rifle book takes the rifle no further than removing the bolt assembly and the external magazine (UNLOADING THE FIREARM, printed p.13; CLEANING, printed p.14). Its RIFLE ASSEMBLY page (printed p.16) is a labelled parts figure with no procedure, and its REASSEMBLY section (printed p.17) says only to follow the disassembly instructions in reverse order. It publishes no disassembly of the bolt, stock or trigger, and forbids taking the trigger group apart. This listing therefore has NO deep clean.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Bolt and magazine out; rifle on its side, ejection port up, or upright in a vise",
+    "Correct-caliber brush on the rod, dipped in solvent, pushed through from the BREECH end, several passes",
+    "Never reverse the bore brush while it is in the bore",
+    "Patch tip and patches, a clean patch each time, until the patch comes out clean",
+    "One patch saturated with oil through the barrel, then a clean dry patch to take the excess out"
+   ]
+  },
+  {
+   "name": "CHAMBER & LUGS",
+   "tasks": [
+    "Chamber brush dipped in solvent, pushed and twisted into the chamber and locking lugs",
+    "Solvent swab through the chamber and out the muzzle; let it sit on carbon, then wipe clean",
+    "A nylon bore brush may be used with care on heavy carbon",
+    "Light lubricant on the bore, chamber, outside of the barrel and the locking lugs — do not over-lubricate",
+    "Do not use any lubricant containing graphite"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Stock wiped with a damp rag, warm water or mild household cleaner",
+    "Gun oil on the barrel, wiped dry to restore the finish",
+    "Inspect barrel and stock for cracks, bends or breaks, and the bore for obstructions",
+    "If a muzzle brake is fitted, clean its baffles while cleaning the rifle",
+    "Wash your hands afterwards — the fouling of a dirty rifle may carry lead"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Follow the disassembly in reverse order — the book's own instruction.",
+  "Insert the bolt into the action: of the two lugs at the front of the bolt, one is grooved and one is not; match the grooves on the lug to the grooves in the action.",
+  "Fit the magazine, or close and latch the floor plate, empty.",
+  "The book lists thread-locking compound on all screws and 65 inch-pounds on the action screws for reassembly; it publishes no procedure for removing them, so if they were not disturbed, leave them alone.",
+  "Run the functional check, both halves, before the rifle goes away."
+ ],
+ "fncheck": "Remove the magazine and inspect the chamber by eye and by hand to make sure it is empty. Fit an empty magazine and confirm the magazine catch holds it solidly, then take it out again. With the safety in the SAFE position, squeeze the trigger — the firing pin should not fall. Move the safety to FIRE, squeeze and hold the trigger to the rear — the firing pin should fall. If the rifle fails either test, Christensen's instruction is to call them, not to adjust anything yourself."
+}
