@@ -104,12 +104,18 @@ const LANGS = { de: 'German', fr: 'French', it: 'Italian', es: 'Spanish',
 const langName = t => LANGS[String(t).toLowerCase()] || String(t);
 
 /* The citation the splice builds for a step. Identical join, identical order. */
+/* PLAIN CITATIONS (Darren 2026-10-17 11:23, mirrored from splice_authored.js): "NOT
+   PRINTED" in a spec's edition or year is our record that the book prints none. The
+   record keeps it; the owner's citation leaves it out rather than printing the
+   placeholder. One rule, both emitters — the parity gate holds them together. */
+const plainEd = v => (v == null || String(v).trim().toUpperCase() === 'NOT PRINTED') ? '' : v;
+
 function citeFor(spec, st) {
   /* a step marked doc:2 belongs to the SECOND book and is cited to it by name and
      edition — the same rule splice_authored.js applies on the app side */
   const man = st.doc === 2 ? spec.manual2 : spec.manual;
   const ed = st.doc === 2 ? spec.edition2 : spec.edition;
-  return [man, ed, st.section].filter(Boolean).join(' — ');
+  return [man, plainEd(ed), st.section].filter(Boolean).join(' — ');
 }
 
 function projectStep(spec, st, unknown, where, box) {
@@ -184,8 +190,9 @@ function projectGuide(spec, boxes) {
      instead (Darren ruling 2026-10-07 reversed the 2026-08-20 strike — a
      best-practices guide is labelled, never indistinguishable). */
   if (!bp) {
-    g.sourcedFrom = spec.manual + ' — ' + spec.edition + ' (' + spec.year + ')' +
-      (spec.manual2 ? '  +  ' + spec.manual2 + ' — ' + spec.edition2 : '');
+    g.sourcedFrom = [spec.manual, plainEd(spec.edition)].filter(Boolean).join(' — ') +
+      (plainEd(spec.year) ? ' (' + spec.year + ')' : '') +
+      (spec.manual2 ? '  +  ' + [spec.manual2, plainEd(spec.edition2)].filter(Boolean).join(' — ') : '');
     g.sourceSha256 = spec.sha256;
     if (spec.sha256_2) g.sourceSha256_2 = spec.sha256_2;
   }
