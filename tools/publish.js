@@ -101,7 +101,15 @@ function build() {
   const appBodies = quotebox.guideBodies(html);
   const shelfBodies = quotebox.guideBodies(shelfBlock);
   const appNotOnShelf = [...appBodies.keys()].filter(r => !shelfBodies.has(r));
-  const appDiffers = [...appBodies.keys()].filter(r => shelfBodies.has(r) && shelfBodies.get(r) !== appBodies.get(r));
+  /* ⛔ KEPT TRANSITION EXEMPT (Darren ruling 2026-11-01, on the Savage-334 KEPT rule 2026-10-14): a row the
+     app still bakes AS Best Practices while the shelf carries its real (non-BP) guide is the ruled state —
+     splice_authored keeps the app's BP entry by design until the release bake bakes the real guide in. So
+     app≠shelf here is CORRECT, not a stale block, and the shelf must be free to publish the real guide. The
+     exemption is exactly that shape: app body BP, shelf body not. A genuine stale (both sides non-BP and
+     differing, or the app ahead of the shelf with a real guide the shelf lacks) is NOT exempt and still refuses.
+     Both-way control: check_publish_ready.js --selftest (KEPT allowed, a real stale still refused). */
+  const keptTransition = r => quotebox.isBP(appBodies.get(r)) && !quotebox.isBP(shelfBodies.get(r));
+  const appDiffers = [...appBodies.keys()].filter(r => shelfBodies.has(r) && shelfBodies.get(r) !== appBodies.get(r) && !keptTransition(r));
   if (appNotOnShelf.length || appDiffers.length) {
     throw new Error('⛔ REFUSING — the app compiles in guides the shelf block does not carry identically ' +
       '(app ⊆ shelf is violated; the shelf block is STALE — run splice_authored.js --apply and commit it). ' +

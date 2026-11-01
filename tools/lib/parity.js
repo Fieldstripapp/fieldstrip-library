@@ -54,6 +54,8 @@ function spliceProvenance(html) {
     out.set(s.row, {
       sourcedFrom: sf ? JSON.parse(sf[1]) : null,
       sourceSha256: sh ? JSON.parse(sh[1]) : null,
+      /* the app still bakes this row AS Best Practices (the KEPT transition, below) */
+      bp: /\n\s*bpLabel:/.test(body),
     });
   });
   if (!out.size) throw new Error('⛔ REFUSING — the SOURCED GUIDES block parsed to zero guides');
@@ -76,6 +78,12 @@ function compare(guides, html) {
     const theirs = app.get(g.row);
     if (!theirs) { shelfOnly.push(g.row); continue; }
     checked++;
+    /* ⛔ KEPT TRANSITION (Darren ruling 2026-11-01, on the Savage-334 KEPT rule 2026-10-14): the app still
+       bakes this row AS Best Practices while the shelf now carries its real (non-BP) guide. splice_authored
+       keeps the app's BP entry by design until the next release bake, so the provenance DIFFERS here on purpose
+       — a BP guide cites no book. Not a mismatch. The narrow shape — app BP, shelf real — is the only one
+       exempt: a genuine citation disagreement (both sides real, or the app ahead of the shelf) is not. */
+    if (theirs.bp && !mine.bpLabel) continue;
     const a = mine.sourcedFrom || null, b = theirs.sourcedFrom || null;
     if (a !== b) {
       mismatches.push(g.row + ': sourcedFrom differs\n        library: ' + JSON.stringify(a) +

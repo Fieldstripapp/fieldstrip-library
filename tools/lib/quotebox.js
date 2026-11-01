@@ -151,4 +151,9 @@ function guideBodies(text) {
   return out;
 }
 
-module.exports = { guideBodies, readBlock, census, callOf, branchOf, BEGIN, END };
+/* a guide's emitted body is a Best Practices guide iff it carries a bpLabel line. The KEPT
+   transition (Darren ruling 2026-11-01) turns on this: the app keeps a baked BP guide while the
+   shelf carries the row's real (non-BP) guide, so app≠shelf is correct there, not a stale block. */
+function isBP(body) { return /\bbpLabel:/.test(body || ''); }
+
+module.exports = { guideBodies, readBlock, census, callOf, branchOf, isBP, BEGIN, END };
