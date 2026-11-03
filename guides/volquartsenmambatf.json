@@ -1,0 +1,145 @@
+{
+ "bpLabel": "Fieldstrip Best Practices — this guide follows the Ruger Mark IV push-button take-down as documented in Ruger’s own Mark IV manual, which Volquartsen’s own page says the Volquartsen Mamba-TF shares. It is not Volquartsen’s manual for this model. If you obtain the factory manual, follow it over this guide. Never take this firearm further apart than this guide goes.",
+ "bpClass": "pattern:mk4",
+ "bpTemplateVersion": 1,
+ "row": "volquartsenmambatf",
+ "make": "Volquartsen",
+ "model": "Mamba-TF",
+ "cleanIntro": "No manual from Volquartsen exists for this model, but Volquartsen’s own page says the Volquartsen Mamba-TF is built on the Ruger Mark IV frame with its push-button take-down, and that take-down is documented by Ruger’s own Mark IV manual. This guide follows it: clear, one button, two assemblies, the bolt out — and nothing further.\n\nListed in Fieldstrip as .22 LR. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Ammunition out of the room, muzzle somewhere safe",
+   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "box": "none",
+   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+  },
+  {
+   "phase": "Clear",
+   "title": "Confirm yours is built the Mark IV way",
+   "action": "Look for the pattern: a round take-down button at the rear of the frame, just below the bolt, and a bolt that cocks by a pair of ears at the back of the receiver. That button is this whole guide.",
+   "box": "none",
+   "prose": "⛔ No button there, or a different upper than your maker’s page shows? Stop: clean the pistol with the bolt held open and put the question to Volquartsen."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, bolt back, look and feel — twice",
+   "action": "Remove the magazine first. Draw the bolt fully rearward by its ears and look into the chamber, then touch it with a fingertip — on a .22 the case rim hides easily. Ease the bolt forward, then check the same way a second time.",
+   "box": "none",
+   "quote": "Draw the bolt fully rearward and visually inspect the chamber to be certain that there is no cartridge in it and then release the bolt.",
+   "cite": "Ruger Mark IV Instruction Manual — PM1179 — Disassembly, step 1, p.21",
+   "warn": "Always unload a firearm before cleaning, lubrication, disassembly, or assembly.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the take-down button",
+   "action": "Hold the barrel in one hand and the grip frame in the other, and press the take-down button at the rear of the frame, just below the bolt.",
+   "box": "none",
+   "quote": "Holding the barrel in one hand and the grip frame assembly in the other, depress the take-down button located just below the rear of the bolt",
+   "cite": "Ruger Mark IV Instruction Manual — PM1179 — Disassembly, step 2, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel tilted down, upper lifted off",
+   "action": "With the button pressed, tilt the barrel downward until it clears the bolt stop pin, then lift the barrel/receiver assembly straight up off the grip frame.",
+   "box": "none",
+   "quote": "The barrel/receiver assembly can now be lifted straight up off of the grip frame assembly",
+   "cite": "Ruger Mark IV Instruction Manual — PM1179 — Disassembly, step 3, p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out by its ears — and that is the end of it",
+   "action": "Pull straight back on the bolt ears and draw the bolt out of the receiver. Ruger’s own line closes the strip: nothing else comes off, and everything in the grip frame is Volquartsen’s work.",
+   "box": "none",
+   "quote": "Pull straight back on the bolt ears to remove the bolt from the receiver",
+   "cite": "Ruger Mark IV Instruction Manual — PM1179 — Disassembly, step 5, p.21"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore from the chamber end, bolt face wiped",
+   "action": "With the upper off, brush the bore wet with solvent from the chamber end, then dry patches until clean and a lightly oiled patch for storage — .22 rimfire fouling is waxy and comes off the chamber mouth with a nylon brush. Wipe the bolt face and the receiver’s bolt raceway; a thin film of oil on the bolt’s bearing surfaces, and none into the firing-pin channel.",
+   "box": "none"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Look for the things that mean stop",
+   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the grip frame for cracks, the bolt face for a peened rim notch, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Volquartsen.",
+   "box": "none",
+   "prose": "Any one of these means the gun is not fired until Volquartsen has seen it."
+  }
+ ],
+ "deepAbsentReason": "There is no deep clean for the Volquartsen Mamba-TF, and this guide will not invent one. No manual from Volquartsen exists for this model; the pattern source documents a field strip and nothing deeper for an owner. Anything that needs more than this guide goes to Volquartsen, not onto the bench.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Brush wet with bore solvent, from the chamber end",
+    "Dry patches until clean, then a lightly oiled patch for storage",
+    "A dry patch through before the next shot"
+   ]
+  },
+  {
+   "name": "BOLT & RECEIVER",
+   "tasks": [
+    "Bolt face and raceway wiped",
+    "A thin film of oil on the bolt’s bearing surfaces",
+    "⛔ No oil into the firing-pin channel"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wiped with a lightly oiled cloth",
+    "No solvent on wood, finishes or optics"
+   ]
+  },
+  {
+   "name": "STORAGE",
+   "tasks": [
+    "Stored dry — never shut in a closed case while damp",
+    "Looked over for rust at every clean"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": []
+   },
+   {
+    "g": 1,
+    "steps": [
+     6
+    ]
+   },
+   {
+    "s": 7
+   },
+   {
+    "g": 2,
+    "steps": []
+   },
+   {
+    "g": 3,
+    "steps": []
+   }
+  ]
+ },
+ "reassembly": [
+  {
+   "title": "Safety on, bolt fully into the receiver",
+   "action": "Confirm the pistol is free of cartridges and put the safety on — Ruger requires it for reassembly — then insert the bolt fully into the barrel/receiver assembly.",
+   "quote": "2. Insert the bolt fully into the barrel/receiver assembly (see Figure 15).",
+   "section": "Reassembly, step 2, p.23"
+  },
+  {
+   "title": "Notch onto the pivot pin, rotated down until the button clicks",
+   "action": "Set the receiver’s notch over the grip frame’s pivot pin and rotate the barrel/receiver assembly down onto the frame until the take-down button clicks home.",
+   "quote": "3. Place the barrel/receiver assembly on top of the frame so that the notch in the receiver aligns with the pivot pin in the grip frame (see Figure 16).",
+   "section": "Reassembly, step 3, p.23"
+  }
+ ],
+ "fncheck": "Magazine out and the chamber proven empty twice. Work the bolt by its ears: it runs freely and returns fully forward. The safety moves between its positions and, when on, locks the works. This check never asks you to pull the trigger — this is a rimfire, and dry firing one is a question only Volquartsen may answer."
+}

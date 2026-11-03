@@ -1,11 +1,11 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. No manufacturer manual exists for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAP",
+ "bpLabel": "Fieldstrip Best Practices — this guide follows the Glock-pattern field strip as documented in GLOCK’s own manual, which Grey Ghost Precision’s own page says the Grey Ghost Precision Combat Pistol shares. It is not Grey Ghost Precision’s manual for this model. If you obtain the factory manual, follow it over this guide. Never take this firearm further apart than this guide goes.",
+ "bpClass": "pattern:glock",
  "bpTemplateVersion": 1,
  "row": "greyghostcombatpistol",
  "make": "Grey Ghost Precision",
  "model": "Combat Pistol",
- "cleanIntro": "No manual from Grey Ghost Precision exists for this model, so this guide works from what is true of every pistol of its kind and asks you to look before it asks you to do anything. It clears the pistol, then strips it only if yours shows one of three takedown controls that come apart the same way on every pistol that has them. If yours shows none of them, the slide stays on and the pistol is cleaned locked open — that is a complete clean, not a lesser one.\n\nListed in Fieldstrip as 9mm. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "cleanIntro": "No manual from Grey Ghost Precision exists for this model, but Grey Ghost Precision’s own page says the Grey Ghost Precision Combat Pistol is built on the Glock pattern, and that pattern’s take-down is documented by GLOCK’s own manual. This guide follows it: clear, prove the pistol empty twice, then the four-component field strip every pistol of the pattern shares. If what you see on yours does not match a step, stop there and clean the pistol locked open instead.\n\nListed in Fieldstrip as 9mm. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
  "steps": [
   {
    "phase": "Clear",
@@ -16,94 +16,121 @@
   },
   {
    "phase": "Clear",
-   "title": "Magazine out first, then the slide",
-   "action": "Press the magazine release and take the magazine out of the grip before you touch the slide. Then pull the slide fully back and lock it open on the slide stop if your pistol has one; if it will not lock, hold it back. The order is the whole point: working the slide with a magazine still in puts a fresh round in the chamber, and that is the classic way an empty pistol stops being empty.",
+   "title": "Confirm yours is built the Glock way",
+   "action": "Look at the pistol before you touch a control: a flat-faced slide with no external hammer, and on each side of the frame, just above the front of the trigger guard, a small serrated takedown tab (the slide lock). Those tabs are the pattern’s takedown, and this whole guide hangs on them.",
    "box": "none",
-   "prose": "If the magazine will not come out, stop and contact Grey Ghost Precision, with the pistol pointed somewhere safe."
+   "prose": "⛔ If yours shows no tabs, a lever instead, or anything you cannot name, this is where the strip ends: clean the pistol locked open and ask Grey Ghost Precision about the rest."
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and down into the empty magazine well, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Magazine out first — the order is the point",
+   "action": "Press the magazine catch and take the magazine out of the grip before the slide moves. Working the slide with a magazine in feeds a fresh round into the chamber — that is the classic way an empty pistol stops being empty.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Grey Ghost Precision with the gun pointed somewhere safe."
+   "quote": "Remove the magazine by pressing the magazine catch",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 1, p.22"
+  },
+  {
+   "phase": "Clear",
+   "title": "Rack it to eject anything in the chamber",
+   "action": "Hold the grip with your firing hand, finger outside the guard. Grasp the rear of the slide at the serrations and pull it fully back to eject any cartridge in the chamber.",
+   "box": "none",
+   "quote": "pull the slide fully back to eject any cartridge that may be in the chamber",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 2, p.22"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock the slide open",
+   "action": "Push up on the slide stop lever and ease the slide back from fully rearward until it locks open.",
+   "box": "none",
+   "quote": "Lock the slide in the rearward (open) position by pushing up on the slide stop lever",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 3, p.22"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look AND feel — chamber and magazine well, twice",
+   "action": "With the slide locked back, look into the chamber and down into the magazine well, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the slide under control, open and lock it again, and check the same way a second time. Both passes, every time — the next step depends on them.",
+   "box": "none",
+   "quote": "both visually and physically (with your finger) inspect both the chamber and the magazine well of the pistol to be sure that no ammunition remains in either place",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 4, p.22"
   },
   {
    "phase": "Strip",
-   "title": "Which takedown does yours have? Look before you touch",
-   "action": "With the pistol empty and the slide locked open, look at the frame just above the trigger. One of three things decides your next step: two small serrated tabs, one on each side of the frame just above the front of the trigger guard; a single lever on the left side of the frame, made to rotate; or a trigger guard whose front end is made to pull down away from the frame. Follow only the step written for what you see, and skip the other two.",
+   "title": "Slide forward, muzzle safe, then the trigger press the pattern requires",
+   "action": "Release the slide forward, point the muzzle at something that would stop a bullet, and pull the trigger — you will hear the striker click. On this pattern the striker must be released before the slide will come off; that is GLOCK’s own instruction, not a shortcut. Do this only because you have just proven the chamber and the magazine well empty twice, by eye and by fingertip, in the step above.",
    "box": "none",
-   "prose": "⛔ If you see none of these, more than one, or you are not sure, this is where your strip ends: leave the slide on and go straight to the cleaning steps, which work with the pistol locked open. Never press a trigger, push on a pin or press a button to find out how a pistol comes apart."
+   "quote": "With the muzzle of your GLOCK pistol pointed in a safe direction (a safe direction is one in which no one can possibly be injured in the event of an unintentional discharge), pull the trigger.",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 6, p.22",
+   "warn": "If the trigger is in the forward position, on your GLOCK pistol may be loaded.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Two tabs: release the striker, then slide forward off the frame",
-   "action": "Only if your pistol has the two takedown tabs. Let the slide run forward, point the muzzle at a safe backstop, and press the trigger once — on pistols built this way the striker has to be released before the slide will come off, and you will hear it click. Then grip the pistol so your fingers draw the slide back a few millimetres, pull both tabs down with your other hand and hold them there, and let the slide run forward off the front of the frame.",
-   "box": "none",
-   "prose": "⛔ Only after the chamber has been proven empty twice. If yours is a rimfire (.22) pistol, do not press the trigger: stop here and clean it with the slide on. If the slide will not move forward with both tabs held down, let go and stop — never force it."
+   "title": "Retract about 1/8 inch — no further",
+   "action": "Using your fingers, draw the slide back about an eighth of an inch and hold it there. Further than that and the trigger resets, and you will be starting over.",
+   "box": "limit",
+   "quote": "Using your fingers, retract the slide (1) about 1/8 in. / 3mm and hold it in this position",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 8, p.23"
   },
   {
    "phase": "Strip",
-   "title": "A takedown lever: turn it down, then ease the slide off",
-   "action": "Only if your pistol has a takedown lever. Rotate the lever down until it stops, usually about a quarter turn. Some pistols let it turn with the slide locked open and others only with the slide forward, and some also have a small button on the right side of the frame that has to be held in while the lever turns. Once it has turned, hold the slide, let it run forward under control, and ease it off the front of the frame.",
+   "title": "Both takedown tabs down, evenly",
+   "action": "With the thumb and index finger of your other hand, pull both serrated tabs of the slide lock down at the same time and hold them.",
    "box": "none",
-   "prose": "⛔ If the lever will not turn by hand either way, stop here and clean the pistol with the slide on. Never use a tool on the lever, and never press the trigger to make it move."
+   "quote": "pull the slide lock",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 9, p.23"
   },
   {
    "phase": "Strip",
-   "title": "A pull-down trigger guard: slide back, up and off",
-   "action": "Only if the front of your trigger guard pulls down. Pull the front of the trigger guard down; on most pistols built this way it then tips a little to one side and rests against the frame, holding itself open. Draw the slide all the way back, lift its rear end up off the frame, and ease it forward off the barrel. The barrel stays fixed to the frame and the recoil spring stays on the barrel — on this pattern neither is taken out.",
+   "title": "Slide forward off the frame",
+   "action": "Holding the tabs down, let the slide run forward and off the front of the frame. Set the frame aside — nothing inside it is touched in this guide.",
    "box": "none",
-   "prose": "Push the trigger guard back into place once the slide is off, so it cannot catch on anything while you clean."
+   "quote": "While holding the slide lock down, push the slide forward and off of the frame",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 10, p.23"
   },
   {
    "phase": "Strip",
-   "title": "Tabs or lever: spring and barrel out of the slide",
-   "action": "Turn the slide upside down. The recoil spring and its guide rod sit under the barrel and are still under some pressure: push the guide rod gently forward, lift its rear end clear of the barrel, and let it out slowly under your thumb. Note which way round it sat — which end faced the barrel — because it goes back the same way. Then lift the barrel out by its chamber end.",
+   "title": "Recoil spring assembly out",
+   "action": "Turn the slide over. Press the recoil spring assembly slightly toward the muzzle end, lift it up and out, and set it down the way it sat — it goes back the same way round.",
    "box": "none",
-   "prose": "A pull-down trigger guard pistol skips this step: its barrel stays where it is."
+   "quote": "Press the recoil spring assembly",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 11, p.23"
   },
   {
    "phase": "Strip",
-   "title": "That is the whole strip",
-   "action": "Nothing else comes apart. The firing pin or striker, the extractor, the sights and everything inside the frame stay exactly as they are — on a pistol with no published procedure, those are work for Grey Ghost Precision. Lay the parts out in the order they came off, on a clean cloth, away from the edge of the bench.",
+   "title": "Barrel out — four components, and that is the whole strip",
+   "action": "Hold the barrel by its locking cams, lift it, push it toward the front of the slide, then pull it up and toward the rear to free it. Slide, barrel, recoil spring assembly, frame: that is the complete field strip of the pattern. The striker, the extractor and everything inside the frame stay exactly where they are — work for Grey Ghost Precision.",
    "box": "none",
-   "prose": "If any part came loose that this guide did not ask for, stop and contact Grey Ghost Precision before you put the pistol back together."
+   "quote": "Holding the barrel by the barrel locking cams, lift it and push it toward the front of the slide and then pull it up and toward the rear to remove it from the slide",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — IX. Field stripping, step 12, p.23"
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the chamber end whenever you can",
-   "action": "With the barrel out, push a brush wet with bore solvent through from the chamber end, a few passes, then dry patches until they come out clean. If your barrel stayed in, lock the slide open and feed a pull-through cord in at the chamber through the ejection port, or work from the muzzle with a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
-   "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
-  },
-  {
-   "phase": "Clean",
-   "title": "Breech face, rails and the feed ramp",
-   "action": "Wipe the breech face — the flat at the back of the slide where the cartridge sits — and the slide's rails and the frame's rails with a cloth and a little solvent, using a small nylon brush on the carbon. Wipe the feed ramp at the bottom of the chamber mouth until it is smooth and bright. Use solvent sparingly and keep it out of the frame's internals and the firing-pin hole: what runs in there cannot be wiped back out.",
+   "title": "Bore from the chamber end, breech face wiped",
+   "action": "With the barrel out, push a brush wet with bore solvent through from the chamber end, a few passes, then dry patches until they come out clean, and a lightly oiled patch for storage. Wipe the breech face and the feed ramp with a cloth and a little solvent; run a dry patch through before you shoot.",
    "box": "none"
   },
   {
    "phase": "Clean",
-   "title": "Oil lightly where metal slides on metal",
-   "action": "A thin film of gun oil goes on the slide rails, the frame rails, the outside of the barrel where it rubs the slide, and the barrel's locking surfaces. A drop is enough on each; wipe off anything that runs. No oil goes into the firing-pin hole or into the frame from the outside.",
+   "title": "Rails brushed, then a light film where metal slides",
+   "action": "Brush the rail cuts in the slide with a nylon brush and a little lubricant, wipe them with a clean patch, and do the same along the frame rails. A drop of oil spread thin on the rails and on the barrel where it rubs the slide is enough; wipe off anything that runs, and keep oil out of the striker channel and the magazine well.",
    "box": "none",
-   "prose": "Too much oil collects grit and, in the cold, slows the parts it was meant to help."
+   "quote": "Wet a nylon bristle brush with lubricant and thoroughly brush the rail cuts in the slide",
+   "cite": "GLOCK Safe Action Pistols — Instructions for Use — EN 09-23 — X. Preventive Maintenance, Clean the slide, step 1, p.29"
   },
   {
    "phase": "Inspect",
    "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the slide, the frame and the barrel for cracks, the recoil spring for kinks or a broken coil, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Grey Ghost Precision.",
+   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the slide, the frame and the barrel for cracks, the recoil spring assembly for kinks or a cracked end, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Grey Ghost Precision.",
    "box": "none",
    "prose": "Any one of these means the gun is not fired until Grey Ghost Precision has seen it."
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Grey Ghost Precision Combat Pistol, and this guide will not invent one. No manual from Grey Ghost Precision exists for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Grey Ghost Precision, not onto the bench.",
+ "deepAbsentReason": "There is no deep clean for the Grey Ghost Precision Combat Pistol, and this guide will not invent one. No manual from Grey Ghost Precision exists for this model; the pattern source documents a field strip and nothing deeper for an owner. Anything that needs more than this guide goes to Grey Ghost Precision, not onto the bench.",
  "cleaning": [
   {
    "name": "BORE",
    "tasks": [
-    "Brush wet with bore solvent, from the chamber end whenever the barrel is out",
+    "Brush wet with bore solvent, from the chamber end",
     "Dry patches until clean, then a lightly oiled patch for storage",
     "A dry patch through before the next shot"
    ]
@@ -111,17 +138,15 @@
   {
    "name": "BREECH, RAILS & FEED RAMP",
    "tasks": [
-    "Breech face wiped, carbon off with a nylon brush",
-    "Slide rails and frame rails wiped",
-    "Feed ramp wiped smooth and bright",
-    "⛔ No solvent or oil into the firing-pin hole or the frame's internals"
+    "Breech face and feed ramp wiped",
+    "Rail cuts brushed and wiped, slide and frame",
+    "⛔ No solvent or oil into the striker channel or the frame’s internals"
    ]
   },
   {
    "name": "LUBRICATION",
    "tasks": [
-    "A thin film on the slide rails and the frame rails",
-    "A drop on the barrel where it rubs the slide, and on its locking surfaces",
+    "A thin film on the rails and where the barrel rubs the slide",
     "Excess wiped off"
    ]
   },
@@ -145,23 +170,21 @@
    {
     "g": 0,
     "steps": [
-     9
+     12
     ]
    },
    {
     "g": 1,
     "steps": [
-     10
+     13
     ]
+   },
+   {
+    "s": 14
    },
    {
     "g": 2,
-    "steps": [
-     11
-    ]
-   },
-   {
-    "s": 12
+    "steps": []
    },
    {
     "g": 3,
@@ -174,11 +197,24 @@
   ]
  },
  "reassembly": [
-  "Tabs or lever: the barrel back into the slide, then the recoil spring and guide rod back under it, the same way round as they came out.",
-  "Tabs or lever: the slide back onto the frame rails from the front and drawn fully back — it should glide without catching. On a lever pistol, turn the lever back up until it stops.",
-  "Pull-down trigger guard: trigger guard down, the slide fitted over the barrel from the front, drawn fully back, its rear lowered onto the frame and let run forward; then the trigger guard pushed back into place.",
-  "Work the slide several times by hand with an empty magazine in: it should run smoothly, and lock open on the empty magazine if your pistol has a slide stop.",
-  "Take the magazine out again before the function check."
+  {
+   "title": "Barrel into the slide",
+   "action": "Hold the barrel by its locking cams and seat it into the upside-down slide, chamber end to the rear.",
+   "quote": "Holding the barrel (2) by the barrel locking cams, insert it into the slide (1) by pushing it down and in",
+   "section": "XI. Reassembly and inspection, step 1, p.33"
+  },
+  {
+   "title": "Recoil spring assembly against the barrel",
+   "action": "Small end of the recoil spring assembly into the indentation at the front of the slide, then press the large end down until it rests in the half-moon notch on the barrel’s locking cams.",
+   "quote": "Insert the recoil spring assembly (3) into the slide by placing the small end of the recoil spring assembly in the indentation in the front of the slide",
+   "section": "XI. Reassembly and inspection, step 2, p.33"
+  },
+  {
+   "title": "Slide onto the frame until the slide lock snaps up",
+   "action": "Finger off the trigger and outside the guard, start the slide onto the frame rails from the front and push it rearward until the slide lock snaps up and holds it.",
+   "quote": "place the slide on top of the frame (17) in front of the slide rails and push the slide towards the back of the frame until the slide lock (21) snaps up to lock the slide into place",
+   "section": "XI. Reassembly and inspection, step 3, p.33"
+  }
  ],
- "fncheck": "Magazine out and the chamber empty. Work the slide: it runs fully back and returns fully forward, and it locks open on an empty magazine if your pistol has a slide stop. Any safety or decocker you can see moves through each of its positions on the empty pistol. This check never asks you to press the trigger — whether a pistol of unknown design tolerates dry firing is a question for Grey Ghost Precision."
+ "fncheck": "Magazine out and the chamber proven empty twice, by eye and fingertip. Rack the slide several times: it should run smooth, with no grit, and lock open on an empty magazine. Then GLOCK’s own inspection, which its manual documents for this pattern: muzzle at a safe backstop, pull the trigger once — a clean click — hold it back, rack the slide, and ease the trigger forward until it resets. If the striker does not click, or the trigger does not reset, the pistol goes to Grey Ghost Precision before it is loaded again."
 }

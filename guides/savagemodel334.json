@@ -1,133 +1,157 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. No manufacturer manual exists for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-BOLT",
- "bpTemplateVersion": 1,
  "row": "savagemodel334",
  "make": "Savage",
  "model": "Model 334",
- "cleanIntro": "No manual from Savage exists for this model. Rifles of this kind are opened and closed by hand, which makes them simple to clear and clean — but the way the bolt comes out differs from rifle to rifle, so this guide leaves it in. Everything here is done with the action open: the bore by pull-through or from the muzzle, the parts you can reach, and the outside.\n\nListed in Fieldstrip as several chamberings. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) (2023 (date code 06/23 on the back cover))",
+ "sourceSha256": "5e486c86703db28173ae32aa4efd8e77bba8ebd0c9f2eac22c582a22082e4c2c",
+ "cleanIntro": "Savage prints one manual for the Model 334, and every step below is quoted from it. The 334 is a bolt-action rifle with a detachable single-stack magazine, a three-position safety button behind the bolt, and a Bolt Release Lever that lets the bolt come out of the back of the receiver. Savage's strip takes the bolt out, then the two action screws, the stock and the trigger guard. Savage's own limit is plain: nothing is taken apart beyond those disassembly sections, and the trigger screw is factory set and never forced.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Muzzle safe, safety button to Safety On",
+   "action": "Point the muzzle in a safe direction and keep your finger out of the trigger guard for all of unloading. Pull the safety button back to the middle position, Safety On, where only the white dot shows and the trigger is blocked. Do not use the fully rearward Bolt Locked position here: it locks the bolt shut, and you need the bolt to open to unload.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "quote": "Always point the muzzle in a safe direction and keep your finger out of the trigger guard. Push the safety button to the \"Safety On\" position",
+   "cite": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) — Unloading the Rifle, p.17"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, action open",
-   "action": "If the rifle takes a detachable magazine, take it out first. Then open the action fully: lift the bolt handle and draw it all the way back; on a straight-pull, draw it straight back; on a lever action, swing the lever fully down and forward. Work it closed and open again until nothing more comes out, and leave it open.",
+   "title": "Magazine out first",
+   "action": "Press the magazine release button at the front of the magazine well with a finger and pull the magazine away from the rifle. Take it out before you touch the bolt, so working the bolt cannot feed another cartridge into the chamber. Set the magazine aside, away from the rifle.",
    "box": "none",
-   "prose": "Keep your hand and thumb out of the bolt's path whenever you close it."
+   "quote": "While pressing the magazine release button in front of the magazine well with your finger, pull the magazine away from the firearm.",
+   "cite": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) — Unloading the Rifle, p.17"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Bolt handle up, bolt back until it stops",
+   "action": "Lift the bolt handle and draw the bolt all the way back until it stops. Pulling it back extracts any cartridge or fired case from the chamber and throws it out of the receiver, so keep your face clear of the ejection port and be ready to catch it.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Savage with the gun pointed somewhere safe."
+   "quote": "Lift the bolt handle and pull the bolt back until it stops.",
+   "cite": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) — Unloading the Rifle, p.17"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber checked by eye and by finger",
+   "action": "Look into the chamber and feel it with a fingertip to confirm there is no cartridge or empty case left in it. Check the magazine well as well. If a cartridge or case is stuck in the chamber, Savage says to take the bolt out, leave it out, and contact Savage or a qualified gunsmith before the rifle is used again.",
+   "box": "none",
+   "quote": "In order to be sure that there is no loaded or empty cartridge in the chamber, check the chamber visually and by hand.",
+   "cite": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) — Unloading the Rifle, p.17",
+   "warn": "Check the chamber and magazine at least \"twice\" before sliding the bolt assembly forward and closing it. Otherwise, any cartridge in the chamber can be fired.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "The bolt stays in — and that is deliberate",
-   "action": "Leave the bolt in the rifle. How a bolt comes out differs from rifle to rifle — a lever beside the action, a button inside the trigger guard, or a release that needs the trigger held — and a guide that cannot see your rifle cannot say which. Everything that follows is done with the action open.",
+   "title": "Bolt handle fully up, bolt fully back",
+   "action": "With the magazine out and the chamber proved empty, rotate the bolt handle upward until it stops, then pull it rearward until the bolt stops against the bolt stop. The bolt has to be all the way back for the release to let it go.",
    "box": "none",
-   "prose": "⛔ If you do not know where your rifle's bolt release is, never pull the trigger to find out. No screw, stock bolt, trigger or scope mount is touched in this guide."
+   "quote": "Rotate the bolt handle upward until it stops and pull it rearward until the bolt stops.",
+   "cite": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) — Disassembly of the Rifle, Removing the Bolt Assembly from the Rifle, p.18"
   },
   {
-   "phase": "Clean",
-   "title": "The bore, by pull-through or from the muzzle",
-   "action": "With the action open, drop a pull-through cord in at the chamber and draw it out of the muzzle — a brush wet with bore solvent first, then dry patches until they come out clean. If the open bolt does not leave the chamber clear for a cord, work from the muzzle with a rod and a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "phase": "Strip",
+   "title": "Bolt Release Lever pressed, bolt drawn out",
+   "action": "Press and hold the Bolt Release Lever on the receiver and pull the bolt straight out of the back of the receiver. Set the bolt down where it cannot roll or pick up grit. With the bolt out you can look through the bore from the back of the receiver to the muzzle.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "quote": "While pressing the Bolt Release Lever, pull the bolt out of the receiver",
+   "cite": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) — Disassembly of the Rifle, Removing the Bolt Assembly from the Rifle, p.18"
   },
   {
-   "phase": "Clean",
-   "title": "The open action",
-   "action": "With the action open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach with a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action or the trigger: what runs in there cannot be wiped back out. A thin film of oil on the outside of the bolt where it slides is enough.",
-   "box": "none"
+   "phase": "Strip",
+   "title": "Front and rear action screws out, 5 mm hex",
+   "action": "With the bolt open or out and the magazine removed, turn the front and rear action screws counterclockwise with a 5 mm hex wrench until they are free. Use a wrench that fits the screw heads fully so they do not round. Keep both screws together.",
+   "box": "limit",
+   "quote": "Unscrew the front and rear action screws by rotating them counter clockwise using a 5mm hex wrench",
+   "cite": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) — Disassembly of Stock and Trigger Guard, p.19"
   },
   {
-   "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
-  },
-  {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Savage.",
+   "phase": "Strip",
+   "title": "Stock pulled straight off the barreled action",
+   "action": "Pull the stock straight away from the barrel and receiver. Do not lever or twist it off, which can bind the trigger in its cutout or mark the inletting.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until Savage has seen it."
+   "quote": "Remove the stock by pulling it straightly from the barrel and receiver.",
+   "cite": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) — Disassembly of Stock and Trigger Guard, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Action screws and pillars pushed out of the stock",
+   "action": "Push the action screws and their pillars firmly out of the stock. Keep each pillar with its screw so the same pair goes back into the same hole.",
+   "box": "none",
+   "quote": "Remove the action screws and pillars from the stock by firmly pushing them",
+   "cite": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) — Disassembly of Stock and Trigger Guard, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger guard out, front end first",
+   "action": "Pull the front end of the trigger guard outward from the stock first, then work the rear part out until the guard comes free. It goes back in the opposite order, rear first.",
+   "box": "none",
+   "quote": "Remove the trigger guard by pulling the front end outward from the stock",
+   "cite": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) — Disassembly of Stock and Trigger Guard, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Bolt out, stock off, action screws, pillars and trigger guard out. That is as far as Savage lets an owner take the Model 334. Leave the trigger and its fixed, factory-set trigger screw alone, and do not take the bolt apart.",
+   "box": "limit",
+   "quote": "Never disassemble your firearm beyond the instructions included in the disassembly sections of this manual.",
+   "cite": "Model 334 Instruction Manual — (06/23) Rev 01 (printed on the back cover) — Assembly of the Rifle, warnings, p.21",
+   "warn": "The Trigger Screw is fixed and is factory set, do not try to force it.",
+   "warnSrc": "maker",
+   "branch": true
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Savage Model 334, and this guide will not invent one. No manual from Savage exists for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Savage, not onto the bench.",
+ "deepAbsentReason": "The book's disassembly ends on p.19 with the bolt out and the stock, action screws, pillars and trigger guard off. On p.21 it says 'Never disassemble your firearm beyond the instructions included in the disassembly sections of this manual.' and 'Never manipulate internal components beyond what you are instructed to do in this manual.', and it publishes no deeper procedure.",
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BORE & CHAMBER",
    "tasks": [
-    "Pull-through from the open chamber, or from the muzzle with a rod guide",
-    "Brush wet with bore solvent, then dry patches until clean",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Magazine and bolt out of the rifle before you start",
+    "Solvent on a bore brush of the right size, then push it from the chamber end out of the muzzle a couple of times; let the brush exit the muzzle before pulling it back",
+    "Clean patches from the chamber end out of the muzzle, taking each dirty patch off before pulling the rod back, until a patch comes out clean",
+    "Wipe solvent residue off the muzzle with a clean rag",
+    "One lightly oiled patch through from the chamber end",
+    "Do not run the rod in from the muzzle end; it can damage the crown and degrade accuracy",
+    "Do not leave oil in the chamber or bore; residual oil can cause over-pressure or a blockage"
    ]
   },
   {
-   "name": "THE OPEN ACTION",
+   "name": "BOLT ASSEMBLY",
    "tasks": [
-    "Bolt face and chamber mouth wiped",
-    "Receiver wiped where a cloth reaches",
-    "A thin film of oil on the bolt where it slides",
-    "⛔ No solvent poured or sprayed into the action or the trigger"
+    "Clean every surface of the bolt assembly with solvent, a small soft bristle brush for stubborn deposits",
+    "Dry it with a clean patch or lint-free rag",
+    "A mild coat of gun oil over the assembly"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "BARREL & RECEIVER EXTERIOR",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
+    "Wipe every reachable surface of the barrel and receiver with a lint-free rag soaked in solvent; a soft bristle brush for the corners",
+    "Wipe all the solvent off with a clean, dry rag",
+    "Gun oil on a clean rag, applied lightly; leave no excess oil"
    ]
   },
   {
-   "name": "STORAGE",
+   "name": "MAGAZINE",
    "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Solvent on a clean rag over the outside of the magazine and the follower, then dry it straight away",
+    "A light coat of gun oil on every surface of the magazine you can reach"
+   ]
+  },
+  {
+   "name": "STOCK",
+   "tasks": [
+    "Normally a wipe with a clean, dry rag is enough",
+    "After hunting or shooting in rain, clean the stock completely"
    ]
   }
  ],
- "cleanMap": {
-  "screens": [
-   {
-    "g": 0,
-    "steps": [
-     4
-    ]
-   },
-   {
-    "g": 1,
-    "steps": [
-     5
-    ]
-   },
-   {
-    "g": 2,
-    "steps": []
-   },
-   {
-    "g": 3,
-    "steps": [
-     6
-    ]
-   },
-   {
-    "s": 7
-   }
-  ]
- },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Close the action under control, with your hand and thumb out of its path."
+  "Safety button on Safety On, chamber empty, magazine out. Lay the stock onto the barreled action, lining the trigger up with the rear of its cutout.",
+  "Fit the trigger guard rear end first, then rotate the front end into the stock.",
+  "Put the action screw pillars into the stock, then the action screws.",
+  "Tighten the front and rear action screws carefully with a 5 mm hex key; Savage recommends 60 inch-pounds.",
+  "Check the chamber and bore are empty and free of oil and debris. With the safety on Safety On, line the bolt handle up at 2 o'clock with the slot in the receiver and slide the bolt in; pressing the Bolt Release Lever helps it go. Release the lever and listen for the click as it engages the bolt body.",
+  "Slide the bolt forward until it stops and turn the handle down until it will go no further."
  ],
- "fncheck": "Magazine out and the chamber empty. The action opens and closes fully and smoothly: a bolt handle turns fully down, a lever closes flush. Any safety you can see moves through each of its positions. This check never asks you to pull the trigger — on a rimfire, dry firing can damage the chamber edge, and on any rifle whether it tolerates it is a question for Savage."
+ "fncheck": "With no ammunition in the rifle or magazine and the muzzle in a safe direction, work the bolt fully back and fully forward and down several times; it should run smoothly and close with the handle fully down. With the handle down, move the safety button through all three positions and confirm each one: fully forward shows the red dot, the middle shows only white and blocks the trigger, and fully rearward also locks the bolt so the handle will not lift. If anything binds, or the safety does not work in every position, do not load the rifle; take it to a qualified gunsmith or Savage Arms."
 }

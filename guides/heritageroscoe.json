@@ -1,11 +1,11 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. No manufacturer manual exists for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-REV",
+ "bpLabel": "Fieldstrip Best Practices — this guide follows Colt’s own revolver books, which document no field strip for a revolver: nothing here comes apart beyond swinging the cylinder out. It is not Heritage’s manual for this model. If you obtain the factory manual, follow it over this guide. Never take this firearm further apart than this guide goes.",
+ "bpClass": "pattern:da-revolver",
  "bpTemplateVersion": 1,
  "row": "heritageroscoe",
  "make": "Heritage",
  "model": "Roscoe",
- "cleanIntro": "No manual from Heritage exists for this model, so this guide works from what is true of every revolver of its kind, and asks you which kind yours is: one whose cylinder swings out to the side, or one loaded through a gate behind the cylinder. The revolver comes apart only as far as its own design allows by hand; the lockwork never comes out.\n\nListed in Fieldstrip as .38 Special. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "cleanIntro": "No manual from Heritage exists for this model, and a revolver is the one gun where that costs an owner nothing: Colt’s own operator books document no field strip at all — the maker’s word, not this guide’s caution. Everything a revolver needs is reachable with the cylinder swung out, and that is exactly as far as this guide goes. If yours loads through a gate behind the cylinder instead of swinging out, this is the wrong guide — stop and clean the chambers through the gate.\n\nListed in Fieldstrip as .38 Special. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
  "steps": [
   {
    "phase": "Clear",
@@ -16,61 +16,48 @@
   },
   {
    "phase": "Clear",
-   "title": "Which revolver is it? Look at the cylinder",
-   "action": "Look at the frame just behind the cylinder, usually on the right. If there is a small hinged gate there that swings open to show one chamber at a time, yours is a loading-gate revolver. If there is no gate, and a release beside the frame lets the whole cylinder swing out to the side, yours is a swing-out revolver. Follow the steps for yours and skip the others.",
+   "title": "Hammer down, cylinder out to the left",
+   "action": "With the hammer down and your finger off the trigger, work the cylinder release beside the frame — pushed, pulled or pressed, you can see which way yours is shaped to move — and swing the cylinder out to the left.",
    "box": "none",
-   "prose": "⛔ If you cannot tell, stop here and contact Heritage — never pry at a cylinder to find out."
+   "quote": "Open revolver by pulling cylinder latch to the rear and pushing the cylinder out to the left of the revolver.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® Python™ Revolver — Rev. - — Cleaning & Lubrication, step 3, p.17",
+   "warn": "DO NOT ATTEMPT TO CLOSE THE CYLINDER WITH THE HAMMER COCKED. DO NOT SWING OR SLAM THE CYLINDER FORCIBLY INTO PLACE WITH THE HAMMER COCKED. DOING ANY OF THESE ACTIONS COULD DAMAGE THE REVOLVER MECHANISM.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Swing-out: hammer down, cylinder out, rod pushed",
-   "action": "Only for a swing-out cylinder. With the hammer down and your finger off the trigger, work the cylinder release — it is pushed forward, pulled back or pressed in depending on the design, and you can see which way it is shaped to move — and swing the cylinder out. Point the muzzle up and push the ejector rod firmly to clear every chamber, then let the rod return on its own.",
-   "box": "none"
-  },
-  {
-   "phase": "Clear",
-   "title": "Loading gate: one chamber at a time",
-   "action": "Only for a loading gate. Open the gate. On some revolvers of this kind the hammer must first be drawn back to its loading notch — a light click partway back — before the cylinder will turn; on others the open gate alone frees it. Turn the cylinder by hand until each chamber in turn lines up with the gate, and push each case out with the ejector rod under the barrel.",
+   "title": "Eject, then look and feel every chamber — twice",
+   "action": "Muzzle up, push the ejector rod firmly to lift everything out of the chambers, and let the rod seat again. Look into every chamber, count them as you go, and run a fingertip across the rear face of the cylinder. Then do it all a second time. A case that will not come out is a stop — never pry it.",
    "box": "none",
-   "prose": "⛔ If the cylinder will not turn with the gate open and you do not know whether yours needs the loading notch, stop and contact Heritage. Never force a cylinder to turn."
-  },
-  {
-   "phase": "Clear",
-   "title": "Every chamber, by eye and by finger — twice",
-   "action": "Look into every chamber and run a fingertip across the rear face of the cylinder. Count them as you go: a chamber you skipped is a chamber you did not check. Then do it all a second time.",
-   "box": "none",
-   "prose": "⛔ If a case will not come out, stop: never pry or hammer it — contact Heritage."
+   "quote": "Push ejector rod rearward forcing out all live rounds or empty cartridge cases from the chambers. When they are clear of the chambers, remove from revolver.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® Python™ Revolver — Rev. - — Cleaning & Lubrication, step 4, p.17"
   },
   {
    "phase": "Strip",
-   "title": "Swing-out: the open cylinder is the whole strip",
-   "action": "Only for a swing-out revolver. With the cylinder swung out, everything an owner cleans is within reach, and that is as far as this revolver comes apart. The crane screw, the sideplate and the lockwork behind it are never touched — on a revolver with no published procedure, those are work for Heritage.",
-   "box": "none"
+   "title": "No strip — the maker’s own line",
+   "action": "Nothing on this revolver comes apart on a bench. The sideplate, the crane and the lockwork behind them belong to Heritage, and the pattern’s own book says so in capitals. The open cylinder is the whole opening, and it is enough.",
+   "box": "limit",
+   "quote": "IMPORTANT: DO NOT FIELD STRIP YOUR REVOLVER. IF YOU DO SO YOU WILL VOID YOUR SERVICE AGREEMENT.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® Python™ Revolver — Rev. - — Cleaning & Lubrication, closing note, p.18"
   },
   {
    "phase": "Strip",
-   "title": "Loading gate: cylinder out, only if a latch frees the base pin",
-   "action": "Only for a loading-gate revolver. Look at the front of the frame, under the barrel, at what holds the base pin — the long pin the cylinder turns on. If a spring-loaded button crosses the frame there, press it and draw the base pin forward out of the frame; then, with the gate open — and the hammer at its loading notch if yours has one — roll the cylinder out of the frame to the gate side. If a screw holds the base pin, or you see no button, stop: the cylinder stays in and is cleaned through the gate.",
-   "box": "none",
-   "prose": "Note which way round the cylinder came out; it goes back the same way."
+   "title": "Hard use is a stop, not a strip",
+   "action": "If the revolver has been in salt air, water, mud or sand, a bench clean is not the cure — that calls for a full strip by someone qualified, which is exactly what the book says.",
+   "box": "limit",
+   "quote": "Note: If the revolver has been used in salt air, water, mud, or sand, it should be completely disassembled, cleaned, and inspected by a competent gunsmith or returned to Colt for service.",
+   "cite": "OPERATOR’S MANUAL FOR: \nColt® Python™ Revolver — Rev. - — Maintenance, p.15"
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the breech end when it is open",
-   "action": "With a swing-out cylinder open, or a loading-gate cylinder out, the rear of the barrel is exposed: push a brush wet with bore solvent from there through to the muzzle, then dry patches until they come out clean. With a loading-gate cylinder still in, work from the muzzle with a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
-   "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
-  },
-  {
-   "phase": "Clean",
-   "title": "Each chamber on its own",
-   "action": "A bore brush is the wrong size for a chamber. Use a chamber brush or a patch on a jag, one chamber at a time — through the gate if the cylinder is still in. Pay attention to the chamber mouths: lead and copper build a ring there that makes cases stick and extraction stiff.",
+   "title": "Bore from the breech, each chamber on its own",
+   "action": "With the cylinder out of the way, brush the bore wet with solvent from the breech end through to the muzzle, then dry patches until clean. A bore brush is the wrong size for a chamber: use a chamber brush or a patch on a jag, one chamber at a time, and pay attention to the ring at each chamber mouth.",
    "box": "none"
   },
   {
    "phase": "Clean",
-   "title": "Cylinder face, forcing cone and the ejector star",
-   "action": "The front face of the cylinder and the rear face of the barrel take the worst of the blast; clean the grey ring off both with a small brush and a little solvent. On a swing-out revolver, push the ejector rod so the star lifts, clean under it, and let it seat: packed powder there stops the cylinder closing. Then a thin film of oil in the bore and chambers for storage and a trace on the crane or the base pin — and none into the lockwork from the outside.",
+   "title": "Cylinder face, forcing cone, under the star",
+   "action": "The grey blast ring on the front face of the cylinder and on the barrel’s rear face comes off with a small brush and a little solvent. Push the ejector rod so the star lifts, brush under it, and let it seat — packed grit under the star is what stops a cylinder closing. A lightly oiled patch through bore and chambers for storage, a trace on the crane, and none into the lockwork.",
    "box": "none"
   },
   {
@@ -81,29 +68,23 @@
    "prose": "Any one of these means the gun is not fired until Heritage has seen it."
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Heritage Roscoe, and this guide will not invent one. No manual from Heritage exists for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Heritage, not onto the bench.",
+ "deepAbsentReason": "There is no deep clean for the Heritage Roscoe, and this guide will not invent one. No manual from Heritage exists for this model; the pattern source documents a field strip and nothing deeper for an owner. Anything that needs more than this guide goes to Heritage, not onto the bench.",
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BORE & CHAMBERS",
    "tasks": [
-    "From the breech end when the cylinder is open or out; otherwise from the muzzle with a rod guide",
-    "Brush wet with bore solvent, then dry patches until clean",
+    "Bore from the breech end, brush wet then dry patches until clean",
+    "Each chamber on its own with a chamber brush",
+    "The ring at each chamber mouth",
     "A lightly oiled patch for storage; a dry patch before the next shot"
-   ]
-  },
-  {
-   "name": "CHAMBERS",
-   "tasks": [
-    "Each chamber on its own, with a chamber brush or a patch on a jag",
-    "The ring at each chamber mouth"
    ]
   },
   {
    "name": "CYLINDER & FRAME",
    "tasks": [
-    "Cylinder face and the barrel's rear face",
-    "Under the ejector star on a swing-out cylinder",
-    "A trace of oil on the crane or the base pin",
+    "Cylinder face and the barrel’s rear face de-ringed",
+    "Under the ejector star, then the star seated",
+    "A trace of oil on the crane",
     "⛔ No oil into the lockwork from the outside"
    ]
   },
@@ -127,38 +108,35 @@
    {
     "g": 0,
     "steps": [
-     7
+     5
     ]
    },
    {
     "g": 1,
     "steps": [
-     8
+     6
     ]
+   },
+   {
+    "s": 7
    },
    {
     "g": 2,
-    "steps": [
-     9
-    ]
-   },
-   {
-    "s": 10
-   },
-   {
-    "g": 3,
     "steps": []
    },
    {
-    "g": 4,
+    "g": 3,
     "steps": []
    }
   ]
  },
  "reassembly": [
-  "Swing-out: the cylinder swung closed until its latch clicks — it should close without force.",
-  "Loading gate, if the cylinder came out: the cylinder rolled back in from the gate side, the base pin slid back in from the front until its latch catches, and the gate closed.",
-  "Swing-out, closed: the cylinder is locked and does not spin freely. Loading gate, gate open: the cylinder turns and clicks into line with each chamber in turn."
+  {
+   "title": "Cylinder closed until the latch comes forward",
+   "action": "Hammer down, cylinder pushed gently into the frame until the latch moves forward into its closed position, then the cylinder rotated until the bolt clicks into a notch and locks it. It closes without force or it does not close.",
+   "quote": "With the hammer still in the uncocked position, push the cylinder into the frame until the cylinder latch moves forward into its closed position.",
+   "section": "UNLOADING, p.31"
+  }
  ],
- "fncheck": "Every chamber empty. A swing-out cylinder opens, closes and latches without force. A loading-gate cylinder turns with the gate open and clicks into line with each chamber, and the gate stays shut when closed. This check never asks you to cock the hammer or pull the trigger — whether a revolver of unknown design may be dry-fired is a question for Heritage."
+ "fncheck": "Every chamber proven empty twice, cylinder closed and latched. Watch carry-up: draw the hammer back slowly with your thumb, finger OFF the trigger, and watch the cylinder turn and lock as the hand carries it — then, before the hammer ever reaches full cock, ease it back down under your thumb. Do that at two or three chambers. The cylinder should turn to a crisp lock each time, and the latch should sit fully forward on its own. The hammer is never cocked fully and the trigger is never pulled in this check; a revolver that drags, skips or fails to lock goes to Heritage."
 }

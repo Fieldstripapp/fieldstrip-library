@@ -1,0 +1,192 @@
+{
+ "row": "pwsbde9ti",
+ "make": "Primary Weapons Systems",
+ "model": "BDE9-Ti",
+ "sourcedFrom": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") (ABSENT — no copyright line or date printed; the edition string V26.1 is the only revision mark)",
+ "sourceSha256": "79cc8dcba114cdf74168adf9352de769e5c50fdbbcdb8d926cd5f69493bce97c",
+ "cleanIntro": "The BDE9-TI is a modular pistol-caliber can printed in titanium: a chamber, a 3D-printed main baffle stack, two CNC-turned modular baffles and a 9mm flat end cap, with a spring piston interface and a 1/2-28 piston on the chamber's 1.125-28 (ALPHA universal) threads. The parts come apart with the supplied wrenches; the piston interface itself does not.\n\nPWS rates it for 9mm and up to .300 Blackout subsonic, and puts the interval at every 500 rounds: clean, lubricate, and check torque to 7 ft. lb.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Host treated as loaded until you have proved it empty",
+   "action": "Before the can is touched, the host it is on gets cleared by that firearm's own procedure: magazine out, action open, chamber looked into and seen empty. A suppressor coming off a barrel puts your hands at the muzzle, so the host is empty first.",
+   "box": "none",
+   "quote": "TREAT ALL FIREARMS AS LOADED AT ALL TIMES.",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — WARNINGS, rule 2, printed p.6"
+  },
+  {
+   "phase": "Clear",
+   "title": "Let it cool completely before it comes off",
+   "action": "Wait until the can is cold to the touch before you reach for it. A titanium can stays hot well after the slide or barrel feels fine, and PWS says it runs far hotter than the point where skin burns. Set it down touching nothing while it cools.",
+   "box": "none",
+   "caution": "Do not handle a hot suppressor.",
+   "quote": "Allow the firearm and suppressor to completely cool prior to any contact.",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — WARNINGS, SUPPRESSORS GET HOT, printed p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gloves, goggles, and air",
+   "action": "Put on gloves and eye protection before the can opens. The fouling inside a can is toxic, and PWS ties its warranty to taking these precautions. Work somewhere ventilated and nowhere near a flame, because solvent comes next.",
+   "box": "none",
+   "aside": "You should clean your suppressor in a wellventilated area away from open flame.",
+   "quote": "When cleaning a suppressor, you should wear gloves and safety goggles.",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — WARNINGS, CLEANING, printed p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Supplied wrenches, parts diagram open",
+   "action": "Use the wrenches that came with the can to break each threaded joint. Keep the parts diagram (printed p.7) in front of you while you work, so you know which part is which and the order they go back.",
+   "box": "none",
+   "aside": "Please review the parts diagram referenced earlier in the manual when disassembling.",
+   "quote": "simply use the supplied wrenches to separate each part of the assembly.",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — MODIFICATIONS, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "The piston interface stays in one piece",
+   "action": "The spring piston interface is the one assembly on this can you do not take apart. Separate the parts around it and leave it whole. If it seems to need opening, that is a question for PWS, not a job for the bench.",
+   "box": "none",
+   "quote": "Please note that the piston interface is not meant to be disassembled.",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — MODIFICATIONS, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Thread caps off",
+   "action": "The wrench diagram marks one end of the wrench for the thread caps. The book does not list the two caps by name; the parts diagram (printed p.7) shows a 9mm flat end cap and a piston end cap. Turn them off with that end and lay each part down in the order it came off.",
+   "box": "none",
+   "quote": "USE TO REMOVE BOTH THREAD CAPS",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — MODIFICATIONS, wrench diagram, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Modular baffles off, stuck joints broken loose",
+   "action": "The other end of the wrench takes off the two modular baffles and breaks loose any joint that will not turn by hand. Carbon is what locks these parts together, so a joint that fights you is a joint that needed cleaning.",
+   "box": "none",
+   "aside": "Often, carbon can cause parts to lock up.",
+   "quote": "USE TO REMOVE BAFFLES AND LOOSEN PARTS",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — MODIFICATIONS, wrench diagram, printed p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Nylon brush and CLP, a soak for stuck carbon",
+   "action": "Brush each part with a nylon brush and a CLP-type product. Use nylon only on this can. Any part with carbon that will not brush off goes into a CLP soak and gets brushed again afterward.",
+   "box": "none",
+   "aside": "You can soak individual parts in CLP for any stuck-on carbon.",
+   "quote": "To clean any part of this assembly, use a nylon brush with CLP (Cleaner, Lubricant, Preservative) type of product.",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — MAINTENANCE, printed p.14"
+  },
+  {
+   "phase": "Clean",
+   "title": "Look through the bore path",
+   "action": "Hold each part up to the light and look down the bore. Mud, sand or anything else lodged in the path is an obstruction. A bullet will strike it, so it comes out before the can goes back on a barrel.",
+   "box": "none",
+   "quote": "Visually inspect the suppressor for any bore obstructions including natural matter like mud and/or sand.",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — MAINTENANCE, printed p.14"
+  },
+  {
+   "phase": "Clean",
+   "title": "Grease the booster on a tilting-barrel pistol",
+   "action": "On a pistol whose barrel tilts, the booster/piston device has to move freely for the gun to cycle. PWS recommends keeping it greased with a synthetic grease (it names Super Lube synthetic grease or white lithium synthetic grease). Grease it; do not take it apart.",
+   "box": "none",
+   "quote": "When using on a pistol with a tilting barrel, we recommend keeping the booster/piston device lubricated using Super Lube",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — MAINTENANCE, printed p.14"
+  },
+  {
+   "phase": "Clean",
+   "title": "Mind what touches the outside",
+   "action": "The outside of the can is DLC-coated. PWS warns that some cleaners and solvents should not be used on it, but the book does not say which. CLP is the product it names, so use CLP on the outside and nothing harsher.",
+   "box": "limit",
+   "quote": "Please be aware that the exterior is DLC (Diamond-like carbon) coated, so certain cleaners and solvents should not be used.",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — MAINTENANCE, printed p.14"
+  },
+  {
+   "phase": "Clean",
+   "title": "Oil or grease on every thread going back",
+   "action": "Before any joint goes back together, put a film of oil or grease on its threads. Carbon that bakes into dry threads can lock two parts together.",
+   "box": "none",
+   "quote": "When reassembling/installing your suppressor, we suggest applying oil or grease on the threads to avoid carbon locking between parts.",
+   "cite": "Primary Weapons Systems BDE9-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE9-TI OWNERS MANUAL | V26.1\") — MAINTENANCE, printed p.14"
+  }
+ ],
+ "deepAbsentReason": "There is nothing below this. PWS publishes one procedure for the BDE9-TI, the one above: separate each part with the supplied wrenches (printed p.11), brush and soak in CLP and grease the booster (printed p.14), and reassemble hand tight to 7 ft. lbs. (printed pp.11-12). The book says the piston interface is not meant to be disassembled (printed p.11), the parts diagram (printed p.7) shows the 3D-printed baffle stack as a single part, and the safety list forbids changing the can's internal components (printed p.6), so no deeper teardown exists in it to quote.",
+ "cleaning": [
+  {
+   "name": "BAFFLES AND END CAP",
+   "tasks": [
+    "Main baffle stack, both modular baffles and the end cap brushed with nylon and CLP",
+    "Stuck-on carbon soaked in CLP, then brushed again",
+    "Parts laid out in the order they came off"
+   ]
+  },
+  {
+   "name": "CHAMBER AND PISTON",
+   "tasks": [
+    "Chamber, piston and piston end cap brushed with nylon and CLP",
+    "Bore path checked clear of mud, sand or anything else lodged in it",
+    "Booster/piston device greased with a synthetic grease when the host is a tilting-barrel pistol",
+    "⛔ Do not disassemble the piston interface"
+   ]
+  },
+  {
+   "name": "DLC EXTERIOR",
+   "tasks": [
+    "Outside wiped with CLP, nothing harsher"
+   ]
+  },
+  {
+   "name": "THREADS",
+   "tasks": [
+    "Oil or grease on every thread before it goes back together",
+    "⛔ Never thread a modular baffle or the end cap straight onto the entrance chamber: the thread pitch is different and it damages the threads"
+   ]
+  },
+  {
+   "name": "⛔ THE SCHEDULE IS THE MAINTENANCE",
+   "tasks": [
+    "Every 500 rounds: clean, lubricate and check torque (7 ft. lb.)",
+    "Fit and retention on the host checked before each use"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     7
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     8,
+     9
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     10
+    ]
+   },
+   {
+    "g": 3,
+    "steps": [
+     11
+    ]
+   },
+   {
+    "g": 4,
+    "steps": []
+   }
+  ]
+ },
+ "reassembly": [
+  "Every thread gets a film of oil or grease before it is started.",
+  "The modular baffles go onto the main baffle stack, none, one or both for the length you want, and the end cap closes the front. ⛔ Never thread a modular baffle or the end cap straight onto the entrance chamber: its thread pitch is different.",
+  "Tighten every part hand tight to 7 ft. lbs. Do not go past the spec. Overtightening damages the can.",
+  "With the end cap straight on the main baffle stack (no modular baffles), the can is at its shortest. PWS tested its hearing-safe rating in that configuration with factory ammunition.",
+  "Thread it onto a host it is rated for: 9mm, or up to .300 Blackout subsonic and subsonic 350 Legend, on the 1/2-28 direct-thread mount or an ALPHA-pattern (1.125-28) mount."
+ ],
+ "fncheck": "Off the gun: every joint is snug and nothing rattles when you shake the can. Look through the bore path from both ends and see light all the way through. On the host, before each use: the mount is fully threaded onto the barrel and every part is tight. PWS puts this check on the owner before every use. If the can is worn, loose, or does not fit the host properly, stop using it."
+}

@@ -1,0 +1,323 @@
+{
+ "row": "sigsauerp211gto",
+ "make": "SIG Sauer",
+ "model": "P211 GTO",
+ "sourcedFrom": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page (2026 — \"©2026 SIG SAUER Inc., All Rights Reserved\" on the back page)",
+ "sourceSha256": "d484a7267ebf5e1f54f6793957621f68528ff84a4baec1077f50be1f04670b9f",
+ "cleanIntro": "The P211 GTO is SIG's double-stack 1911, and SIG's P211 book covers it. It strips like a 1911 and carries a 1911's hazards: the hammer must be COCKED before anything moves, SIG forbids lowering it by pressing the trigger, and the recoil spring comes off under load. The book draws two generations of slide catch — older ones need a 1/16-inch punch and carry a pin that must never be removed — so look at yours before you start. Deep Clean follows the book's own further procedures: the ambidextrous slide catch lever, the compensator on pistols that carry one, and the magazines.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, magazine out, slide locked back",
+   "action": "Point the muzzle in a safe direction, release the magazine and set it aside, then pull the slide fully back and lock it to the rear so the chamber is open.",
+   "box": "none",
+   "prose": "The magazine always comes out before the slide moves; with it still seated, working the slide only feeds a fresh round. With the slide locked back the chamber and the top of the magazine well are both in view for the next check. SIG asks for safety glasses for every part of this job, from here to the function check.",
+   "quote": "Point the muzzle in a safe direction. 2. Release the magazine. 3. Lock the slide rearward to open the chamber.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §9.3 Unloading and clearing the pistol, steps 1–3, p.31",
+   "warn": "PRIOR TO PERFORMING ANY MAINTENANCE ON THE FIREARM, READ AND UNDERSTAND THE OPERATOR’S MANUAL. ENSURE THAT THE FIREARM IS UNLOADED, CLEARED, AND THE MAGAZINE IS REMOVED. SAFETY GLASSES SHOULD BE WORN WHENEVER DISASSEMBLING, CLEANING, INSPECTING, OR ASSEMBLING A FIREARM.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look, then check it twice",
+   "action": "Look into the chamber and down the barrel and confirm there is no cartridge. Then check again — by eye and by touch — before going on.",
+   "box": "none",
+   "prose": "SIG asks for the check twice and both ways on purpose: a look alone can miss a case sitting low in a double-stack well, and a finger in the chamber finds what a glance in poor light does not. The rest of the strip rests on this check, because the next steps cock the hammer and take the safety off.",
+   "quote": "Visually verify that chamber and barrel are clear of any cartridges. 5. Check the firearm twice, both visually and physically.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §9.3 Unloading and clearing the pistol, steps 4–5, p.31"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ Hammer COCKED, manual safety OFF",
+   "action": "Confirm the hammer is cocked, then rotate the manual safety lever down to disengage it. The slide cannot move with the safety engaged, so the strip cannot start until it is off.",
+   "box": "none",
+   "prose": "Cocked, on an empty gun, with the safety off: that combination feels wrong to many owners and is exactly what SIG's procedure asks for. If the hammer is down, cock it by hand — the next step explains why the trigger is never the way to change its position.",
+   "quote": "Ensure that the hammer is cocked. 3. Disengage the manual safety.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.1 Field strip the pistol, steps 2–3, p.51"
+  },
+  {
+   "phase": "Clear",
+   "title": "⛔ NEVER lower the hammer with the trigger",
+   "action": "Do not lower the hammer by pressing the trigger and easing it forward. SIG says doing so prevents the full application of the pistol's safety features and could cause an unintentional discharge.",
+   "box": "limit",
+   "prose": "This is a habit many 1911 owners bring with them, and it is the one SIG prints in capitals in the middle of the field strip. Keep the hammer cocked through the whole strip and the reassembly; the assembly section asks you to confirm it is still cocked before the slide goes back on.",
+   "quote": "DO NOT ATTEMPT TO LOWER THE HAMMER OF THIS PISTOL BY PRESSING THE TRIGGER AND EASING THE HAMMER FORWARD. MANUALLY LOWERING THE HAMMER IN THIS MANNER PREVENTS THE FULL APPLICATION OF THE SAFETY FEATURES OF THIS PISTOL.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.1 Field strip the pistol, warning, p.51"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide back until the catch lug meets the DISASSEMBLY notch",
+   "action": "Pull the slide to the rear and line the lug of the slide catch lever up with the disassembly notch on the slide. Hold it there; the catch will not come out from any other position.",
+   "box": "none",
+   "prose": "A 1911-pattern slide has two notches and only the small disassembly notch releases the catch — the larger one is where the slide locks open. Find the alignment by eye rather than by pressure; pushing on a catch that is not aligned marks the frame.",
+   "quote": "Pull the slide to the rear and align the lug of the slide catch lever with the disassembly notch on the slide.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.1 Field strip the pistol, step 4, p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the LEFT slide catch out through the RIGHT-side lever",
+   "action": "Press the left-side slide catch lever out of the frame, through the opening in the right-side slide catch lever. On older P211 pistols the catch needs a 1/16-inch pin punch to push it out; newer ones do not.",
+   "box": "none",
+   "prose": "SIG draws both generations side by side. If yours will not move under thumb pressure, check which slide catch you have before reaching for anything bigger than the punch SIG names. The right-side lever of the ambidextrous catch stays in the frame for now.",
+   "quote": "Press the left side slide catch lever out of the frame through the opening in the right side slide catch lever.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.1 Field strip the pistol, step 5, p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ Slide forward off the frame — keep hold of the spring guide",
+   "action": "Pull the slide assembly forward off the frame while keeping your grip on the spring guide. The recoil spring is under load; let go of the guide and it can leave the slide.",
+   "box": "none",
+   "prose": "\"While maintaining grip on the spring guide\" is doing real work in SIG's sentence. Once the slide is off, do not press the trigger on the bare frame: SIG says dry firing without the slide WILL damage the rear of the frame — not may, will — and the frame is the serialised part.",
+   "quote": "Pull the slide assembly forward off of the frame while maintaining grip on the spring guide.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.1 Field strip the pistol, step 6, p.54",
+   "warn": "DO NOT DRY FIRE THE PISTOL WITH THE SLIDE REMOVED. FAILURE TO COMPLY WILL DAMAGE THE REAR OF THE FRAME.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil spring and guide forward, then up over the barrel link",
+   "action": "Turn the slide over, push the recoil spring and spring guide forward slightly, then lift them up and over the barrel link and out of the slide.",
+   "box": "none",
+   "prose": "The small forward push takes the guide's rear off the barrel so it can clear the link. Keep a thumb on the spring as it comes up — it is still under some tension, and SIG asks for eye protection and control for exactly this moment.",
+   "quote": "Push the recoil spring and spring guide forward slightly, then lift them up and over the barrel link.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.1 Field strip the pistol, step 8, p.56",
+   "warn": "FIREARMS CONTAIN SEVERAL SPRING-LOADED PARTS. WEAR EYE PROTECTION AND MAINTAIN CONTROL DURING MAINTENANCE. FAILURE TO COMPLY MAY RESULT IN INJURY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Spring off the guide, recoil plug out, barrel link forward",
+   "action": "Take the recoil spring off the guide rod. Then remove the recoil plug from the front of the slide and rotate the barrel link forward.",
+   "box": "none",
+   "prose": "Note the spring's colour before you set it down: SIG makes carry-length and full-length springs in several weights, and they are not interchangeable. Rotating the link forward is what lets the barrel pass out of the front of the slide in the next step.",
+   "quote": "Remove the recoil plug from the slide and rotate the barrel link forward.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.1 Field strip the pistol, step 10, p.56"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out through the front of the slide",
+   "action": "With the barrel link rotated forward, slide the barrel out through the front of the slide.",
+   "box": "none",
+   "prose": "If the barrel catches, the link is not fully forward — rotate it again rather than forcing the barrel. Handle it by the chamber end and keep the muzzle crown off the bench.",
+   "quote": "Remove the barrel from the front of the slide.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.2 Cleaning and lubricating the P211 pistol, step 11, p.58"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — no further",
+   "action": "Frame, slide, barrel, recoil spring, guide and plug. SIG says this level is enough for a thorough cleaning after firing and that further disassembly is not authorized.",
+   "box": "limit",
+   "prose": "Everything SIG's cleaning section names is now in reach. The book does give three further owner procedures — the ambidextrous slide catch lever, the compensator on pistols that carry one, and the magazines — and Deep Clean follows those, and nothing past them.",
+   "quote": "THIS LEVEL OF DISASSEMBLY IS SUFFICIENT TO ALLOW A THOROUGH CLEANING AFTER FIRING. FURTHER DISASSEMBLY IS NOT AUTHORIZED.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.2 Cleaning and lubricating the P211 pistol, caution, p.58",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Optional: ambidextrous slide catch lever off — newer pistols",
+   "action": "On newer P211 pistols, rotate the ambidextrous (right-side) slide catch lever clockwise 90 degrees and remove it. SIG marks this step optional.",
+   "box": "none",
+   "prose": "Only take it off if the area under it needs cleaning. Newer and older levers are drawn side by side in the book; the older one turns a different amount and has a pin behind it, which is the next step.",
+   "quote": "Newer models: Rotate the ambidexterous slide catch lever clockwise 90 degrees to remove.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.1 Field strip the pistol, step 7, p.54"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "⛔ Older pistols: about 50 degrees — and the slide catch PIN stays in",
+   "action": "On older P211 pistols, rotate the lever approximately 50 degrees to remove it, and make sure the slide catch pin does not fall out. If your pistol has a slide catch pin, never remove it.",
+   "box": "none",
+   "prose": "SIG says the pin is present on older P211 pistols and that removing it may damage the firearm. Its cleaning section adds the other half: on older frames, look under the front right frame rail for the pin, and if it is not there, contact SIG Sauer customer service before using the pistol.",
+   "quote": "Older models: Rotate lever approximately 50 degrees to remove. Ensure that the slide catch pin does not fall out.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.1 Field strip the pistol, step 7, p.54",
+   "warn": "IF PRESENT, DO NOT REMOVE THE SLIDE CATCH PIN. FAILURE TO COMPLY MAY RESULT IN DAMAGE TO THE FIREARM. THE SLIDE CATCH PIN IS PRESENT ON OLDER P211 PISTOLS.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Compensator: only when it needs it",
+   "action": "If your pistol carries a compensator, take it off only when the compensator itself needs cleaning or maintenance. SIG says it is not part of normal preventive maintenance.",
+   "box": "none",
+   "prose": "The compensator is held by a detent pressed against the barrel, and the barrel is what gets damaged if that detent is forced. If your P211 has no compensator, skip ahead to the magazines.",
+   "quote": "Removing the compensator is not required for normal preventive maintenance of the pistol.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.4 Compensator maintenance, note, p.74"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Set screw and detent spring out (5/64-inch hex)",
+   "action": "With the pistol field stripped, use a 5/64-inch hex drive bit to unscrew the set screw on the right side of the compensator, and take out the screw and the compensator detent spring.",
+   "box": "none",
+   "prose": "The detent spring is small and under light load; keep a hand over the hole as the screw comes out. Lay the screw and spring together so neither goes missing.",
+   "quote": "Using a 5/64-in. hex drive bit, unscrew the set screw on the right side of the compensator and remove it and the compensator detent spring.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.4 Compensator maintenance, removal step 2, p.74",
+   "warn": "FIREARMS CONTAIN SEVERAL SPRING-LOADED PARTS. WEAR EYE PROTECTION AND MAINTAIN CONTROL DURING MAINTENANCE. FAILURE TO COMPLY MAY RESULT IN INJURY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "⛔ Detent out with a 1/16-inch punch — never forced",
+   "action": "Put a 1/16-inch punch in the small hole on the left side of the compensator and press on the detent to push it out. Do not hammer the punch, do not use excessive force, and do not drive the punch into the barrel lug.",
+   "box": "limit",
+   "prose": "If the detent will not fall out, SIG allows a gentle tap with a gunsmith's hammer and no more; if it still will not come, stop and contact SIG Sauer customer service. Forcing it damages the barrel, which is a far bigger repair than a stuck detent.",
+   "quote": "Insert a 1/16th-in. punch in the small hole on the left side of the compensator and press on the detent to remove it. Do not hammer the punch or use excessive force. Do not drive the punch into the barrel lug.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.4 Compensator maintenance, removal step 3, p.76",
+   "warn": "DO NOT UNDER ANY CIRCUMSTANCES ATTEMPT TO FORCEFULLY DRIVE THE DETENT OUT OF THE COMPENSATOR. FAILURE TO COMPLY WILL DAMAGE THE BARREL.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Rotate the compensator off the front of the barrel",
+   "action": "Rotate the compensator and slide it off the front of the barrel.",
+   "box": "none",
+   "prose": "It comes off the way it goes on — turned until its slot lines up with the barrel's lugs. Note which way up it sits so the reinstall goes the same way.",
+   "quote": "Rotate the compensator and remove it from the front of the barrel.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.4 Compensator maintenance, removal step 4, p.76"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Clean the compensator with a nylon brush; detent hole dry",
+   "action": "Scrub the carbon off every accessible surface of the compensator with a nylon brush, then clean the detent hole and make sure it is dry and free of debris.",
+   "box": "none",
+   "prose": "Nylon, not steel: SIG names the brush. A detent hole left wet or gritty is what lets the detent fail to seat, and a detent that does not seat lets the compensator turn.",
+   "quote": "Using a nylon brush, clean any carbon buildup from all accessible surfaces.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.4 Compensator maintenance, cleaning, p.78"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Compensator back on: upside-down, then rotate into position",
+   "action": "Line the lugs on the barrel up with the slot in the compensator, slide it onto the barrel upside-down, then rotate it into position.",
+   "box": "none",
+   "prose": "The upside-down start is how the slot passes the lugs; the rotation is what locks it on. When it is in position, the detent hole should line up for the next step.",
+   "quote": "Align the lugs on the barrel with the slot in the compensator. Install the compensator on the barrel upside-down, then rotate it into position.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.4 Compensator maintenance, installation step 1, p.78"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Detent in, angled face toward the barrel — the compensator must not turn",
+   "action": "Install the detent with its angled surface facing diagonally up and toward the barrel, and press it with a punch until it seats against the barrel. The compensator must not rotate.",
+   "box": "limit",
+   "prose": "A detent installed the wrong way round will not hold, and the test is simple: with the detent seated, try to turn the compensator by hand. If it moves, the detent is not seated or is facing the wrong way.",
+   "quote": "Install the detent with the angled surface facing diagonally up and toward the barrel. Press the detent with a punch to ensure that it seats against the barrel. The compensator must not rotate.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.4 Compensator maintenance, installation step 2, p.78"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Detent spring and set screw: 15 in-lbf",
+   "action": "Install the compensator detent spring and the set screw, and tighten the screw to 15 in-lbf with a 5/64-inch hex drive bit.",
+   "box": "none",
+   "prose": "SIG gives a torque, not a feel, so use a driver that can show one. SIG also asks for the set screw to be checked for tightness every 1,000 rounds fired; a loose one can damage the compensator and the barrel.",
+   "quote": "Install the compensator detent spring and compensator set screw. Using a 5/64-in. hex drive bit, tighten the screw to 15 in-lbf.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.4 Compensator maintenance, installation step 3, p.80",
+   "warn": "THE COMPENSATOR SET SCREW SHOULD BE TIGHTENED TO 15 IN-LBF. INSPECT THE COMPENSATOR SET SCREW FOR TIGHTNESS EVERY 1000 ROUNDS FIRED. FAILURE TO COMPLY MAY RESULT IN DAMAGE TO THE COMPENSATOR AND BARREL.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Standard magazine: release the floorplate",
+   "action": "With the magazine empty and out of the pistol, use a punch or similar tool to push the tab of the magazine insert forward and then down to release the floorplate.",
+   "box": "none",
+   "prose": "The insert is what holds the spring in, so it pushes back against your tool. Keep the magazine pointed away from your face and hold the base as the tab moves.",
+   "quote": "Using a punch or similar tool, push the tab of the magazine insert forward then down to release and remove the floorplate.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.5 Magazine maintenance, standard magazines, step 1, p.80",
+   "warn": "FIREARMS CONTAIN SEVERAL SPRING-LOADED PARTS. WEAR EYE PROTECTION AND MAINTAIN CONTROL DURING MAINTENANCE. FAILURE TO COMPLY MAY RESULT IN INJURY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Cup a hand under it, floorplate off, spring and follower out",
+   "action": "Cup a hand under the bottom of the magazine tube to control the spring, slide the floorplate off, then take the follower and spring out of the tube.",
+   "box": "none",
+   "prose": "A double-stack spring has a lot of stored length and the cupped hand is what stops it launching the insert across the room. Note which way the follower sits on the spring before you separate them.",
+   "quote": "Cup a hand under the bottom of the magazine tube to control the magazine spring and slide the floorplate off of the magazine tube.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.5 Magazine maintenance, standard magazines, step 2, p.84"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "23-round magazine: sleeve tabs in, sleeve off",
+   "action": "On a 23-round magazine, press the two sleeve tabs in the floorplate toward each other and slide the sleeve up and off the tube, then take out the follower and spring.",
+   "box": "none",
+   "prose": "The 23-round magazine comes apart differently from the standard one — by its sleeve, not by an insert tab — so follow the procedure for the magazine in your hand.",
+   "quote": "Press the two magazine sleeve tabs in the magazine floorplate toward each other and slide the sleeve up and off of the magazine tube.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.5 Magazine maintenance, 23-round magazines, step 1, p.82"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Clean the magazine, light coat of CLP on spring and tube",
+   "action": "Wipe the tube and follower with a cloth, then clean them with a soft brush and CLP. Wipe the spring, base plate, floorplate and sleeve (if fitted) with a cloth, and finish with a light coat of CLP on the spring and the magazine tube.",
+   "box": "none",
+   "prose": "A light coat is SIG's instruction; a heavy one collects the grit that makes a follower drag. Before the magazine goes back in service, SIG's caution applies: never use one that shows damage or fails the function check.",
+   "quote": "Apply a light coat of CLP to the spring and magazine tube.",
+   "cite": "SIG SAUER P211® — OPERATOR'S MANUAL — P/N 5100230-01 REV 04 — printed on the back page — §11.5 Magazine maintenance, cleaning, step 3, p.84"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "SLIDE ASSEMBLY",
+   "tasks": [
+    "Remove all the old lubricant before putting any new on",
+    "Wipe the slide with a cloth; a soft brush and CLP for heavy dirt and carbon",
+    "Extractor, rail slots and breech face free of dirt and residue",
+    "Light coat of CLP in the slide's frame-rail slots; lightly oil the external parts",
+    "⛔ Do not lubricate the firing pin hole or the firing pin safety lock — oil there can cause a light strike and a failure to fire"
+   ]
+  },
+  {
+   "name": "FRAME ASSEMBLY",
+   "tasks": [
+    "Wipe the frame with a soft cloth; cotton swabs for the hard-to-reach areas",
+    "Pay special attention to the frame rails, then give them a light coat of CLP",
+    "CLP on the accessible working parts",
+    "Clean the magazine well of dirt, dust and residue with a soft cloth",
+    "⚠ On older frames, look under the front right frame rail for the slide catch pin — if it is missing, contact SIG Sauer customer service"
+   ]
+  },
+  {
+   "name": "BARREL",
+   "tasks": [
+    "CLP-soaked patch through the bore from the chamber end, out past the muzzle; let it soak to soften carbon",
+    "Wipe the outside of the barrel with a CLP-soaked cloth, then a second CLP patch",
+    "Bronze bore brush of the right caliber on a cleaning rod for heavy deposits, then another CLP patch",
+    "Dry patches until they come out clean",
+    "⛔ Never clean the barrel from the muzzle end, and never use a steel wire brush",
+    "Lightly oil the bore and chamber only if the pistol is going into storage",
+    "⚠ Always remove any lubricant from the bore before firing"
+   ]
+  },
+  {
+   "name": "RECOIL SPRING AND GUIDE",
+   "tasks": [
+    "Clean the guide assembly with CLP and a soft brush",
+    "Clean the recoil spring with a soft cloth lightly coated in CLP",
+    "Light coat of CLP on both after cleaning",
+    "Carry-length and full-length recoil springs are not interchangeable — refit the spring that came out"
+   ]
+  },
+  {
+   "name": "HOW OFTEN",
+   "tasks": [
+    "Clean and lubricate at a minimum of every 500 cartridges in normal conditions",
+    "Avoid over-lubricating any part",
+    "Compensator set screw checked for tightness every 1,000 rounds, if your pistol has one"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Check the pistol is clear of all foreign matter.",
+  "Barrel link rotated forward; barrel into the slide.",
+  "Recoil spring guide into the recoil spring, open end first where the spring has one.",
+  "Recoil plug in, then rotate the barrel link up.",
+  "Recoil spring and guide into the slide, with the flat portion against the barrel — keep control of the spring.",
+  "Confirm the hammer is still cocked. Never dry fire without the slide fitted.",
+  "If you removed the ambidextrous slide catch lever: newer levers go in with the rear pointed straight up; older levers at a 50-degree angle with the slide catch pin still in place. Rotate it down into its retaining notch.",
+  "Make sure the firing pin safety lever is down.",
+  "Align the frame rails with the slide's slots and push the slide onto the frame.",
+  "Push the slide back until the barrel link lines up with the slide catch hole on the left of the frame, and hold it there.",
+  "Insert the slide catch lever partway through the frame so it passes through the barrel link.",
+  "Retract the slide to the disassembly notch and push the slide catch lever the rest of the way in.",
+  "Release the slide forward and engage the manual safety.",
+  "Magazine, if you stripped it: follower on the spring, into the bottom of the tube, compress until the insert is flush and slide the floorplate on (23-round: floorplate on, then slide the sleeve down until it clicks into the floorplate).",
+  "⛔ Function-check — SIG requires it after every cleaning and reassembly."
+ ],
+ "fncheck": "SIG requires the function check after every cleaning and reassembly, on the assembled pistol, with the pistol unloaded and cleared. Insert an empty magazine — it should click and the catch must hold it. With the manual safety off, pull the slide fully back: the follower must push the slide catch up and lock the slide open. Press the magazine catch: the magazine must fall free under its own weight. Release the slide with the slide catch lever. If your pistol has a magazine disconnect, SIG's book walks you through checking that the hammer will not fall with the magazine out. Then, pointing in a safe direction: compress the grip safety and pull and hold the trigger — the hammer must fall; still holding the trigger, run the slide fully back and release it — the hammer should stay cocked; release the trigger. Grip the pistol WITHOUT compressing the grip safety and pull the trigger — the trigger must be blocked and the hammer must not fall. Compress the grip safety and pull the trigger — the hammer must fall. Engage the manual safety. If any step fails, do not use the pistol; contact SIG Sauer customer service."
+}

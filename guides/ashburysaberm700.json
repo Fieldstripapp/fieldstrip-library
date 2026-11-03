@@ -1,11 +1,11 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. No manufacturer manual exists for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-BOLT",
+ "bpLabel": "Fieldstrip Best Practices — this guide follows the Remington 700 bolt-action procedure as documented in Remington’s own Model 700 manual, which Ashbury Precision Ordnance’s own page says the Ashbury Precision Ordnance SABER-M700 shares. It is not Ashbury Precision Ordnance’s manual for this model. If you obtain the factory manual, follow it over this guide. Never take this firearm further apart than this guide goes.",
+ "bpClass": "pattern:r700",
  "bpTemplateVersion": 1,
  "row": "ashburysaberm700",
  "make": "Ashbury Precision Ordnance",
  "model": "SABER-M700",
- "cleanIntro": "No manual from Ashbury Precision Ordnance exists for this model. Rifles of this kind are opened and closed by hand, which makes them simple to clear and clean — but the way the bolt comes out differs from rifle to rifle, so this guide leaves it in. Everything here is done with the action open: the bore by pull-through or from the muzzle, the parts you can reach, and the outside.\n\nListed in Fieldstrip as several chamberings. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "cleanIntro": "No manual from Ashbury Precision Ordnance exists for this model, but Ashbury Precision Ordnance’s own page says the Ashbury Precision Ordnance SABER-M700 carries a Remington 700-pattern action, and that pattern’s owner procedure is documented by Remington’s own Model 700 book. This guide follows it: clear, bolt out at the release the pattern puts inside the trigger guard, the bore from the chamber end, and the bolt back in. If your rifle’s bolt release is not where this guide says, stop — never pull a trigger to find out.\n\nListed in Fieldstrip as several chamberings. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
  "steps": [
   {
    "phase": "Clear",
@@ -16,69 +16,62 @@
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, action open",
-   "action": "If the rifle takes a detachable magazine, take it out first. Then open the action fully: lift the bolt handle and draw it all the way back; on a straight-pull, draw it straight back; on a lever action, swing the lever fully down and forward. Work it closed and open again until nothing more comes out, and leave it open.",
+   "title": "Safety fully rearward to S before anything else moves",
+   "action": "Pull the safety fully rearward to its S position. It is never a substitute for an empty chamber — it is just the first thing the pattern’s own book does, and so does this guide.",
    "box": "none",
-   "prose": "Keep your hand and thumb out of the bolt's path whenever you close it."
+   "quote": "To engage the safety mechanism, pull the safety mechanism fully to the rear towards the \"S\" position. See Picture 3.",
+   "cite": "Owner's Manual — Instruction Book for: Models 700, Seven, & 673 Bolt action centerfire rifles — Part No. 3509 rd Form RD 7055 rev. 0526 — Important Parts of the Firearm — The Safety Mechanism, p.7"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Magazine empty, bolt back, look and feel — twice",
+   "action": "If yours takes a detachable magazine, take it out; a floorplate rifle gets its plate opened and emptied. Raise the bolt handle, draw the bolt fully back, and look into the chamber and the magazine, then feel the chamber with a fingertip. Close under control and check a second time. Then look through the bore for any obstruction.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Ashbury Precision Ordnance with the gun pointed somewhere safe."
+   "quote": "l. TO CHECK THE INSIDE OF THE BARREL: 1. Always point the firearm in a safe direction. 2. Place the safety mechanism in the \"S\" position. 3. Raise the bolt handle. 4. Pull the bolt all the way back. 5. Remove any ammunition from the chamber or magazine.",
+   "cite": "Owner's Manual — Instruction Book for: Models 700, Seven, & 673 Bolt action centerfire rifles — Part No. 3509 rd Form RD 7055 rev. 0526 — The Barrel — I. To check the inside of the barrel, p.9",
+   "warn": "NEVER try to remove an object from the barrel by loading another cartridge and firing.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "The bolt stays in — and that is deliberate",
-   "action": "Leave the bolt in the rifle. How a bolt comes out differs from rifle to rifle — a lever beside the action, a button inside the trigger guard, or a release that needs the trigger held — and a guide that cannot see your rifle cannot say which. Everything that follows is done with the action open.",
+   "title": "Bolt out at the release inside the trigger guard",
+   "action": "Bolt handle up, bolt fully back, then push the bolt stop release inside the front of the trigger guard and slide the bolt assembly out of the receiver. That is the pattern’s whole owner strip: the bolt stays in one piece, and the trigger assembly, stock screws and magazine system stay untouched — Ashbury Precision Ordnance’s work.",
    "box": "none",
-   "prose": "⛔ If you do not know where your rifle's bolt release is, never pull the trigger to find out. No screw, stock bolt, trigger or scope mount is touched in this guide."
+   "quote": "4. Raise the bolt handle. 5. Pull the bolt handle all the way back. 6. Push the bolt stop release in the trigger guard. See Picture 8. 7. Slide the bolt assembly from the firearm.",
+   "cite": "Owner's Manual — Instruction Book for: Models 700, Seven, & 673 Bolt action centerfire rifles — Part No. 3509 rd Form RD 7055 rev. 0526 — To Remove The Bolt Assembly, steps 4-7, p.8"
   },
   {
    "phase": "Clean",
-   "title": "The bore, by pull-through or from the muzzle",
-   "action": "With the action open, drop a pull-through cord in at the chamber and draw it out of the muzzle — a brush wet with bore solvent first, then dry patches until they come out clean. If the open bolt does not leave the chamber clear for a cord, work from the muzzle with a rod and a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Port down, and always from the chamber end",
+   "action": "Lay the rifle on its side with the ejection port facing down so solvent drains out instead of into the trigger. Clean the barrel from the chamber end to the muzzle: brush wet with solvent, dry patches until clean, a lightly oiled patch for storage, and a dry patch before the next shot. Wipe the bolt body and its lugs, and put a thin film of oil on the lugs and the bolt body where it rides.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
-  },
-  {
-   "phase": "Clean",
-   "title": "The open action",
-   "action": "With the action open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach with a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action or the trigger: what runs in there cannot be wiped back out. A thin film of oil on the outside of the bolt where it slides is enough.",
-   "box": "none"
-  },
-  {
-   "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
+   "quote": "NOTE: Barrel should lay horizontally with the ejection port facing down during cleaning. Always clean the barrel from the chamber end to the muzzle.",
+   "cite": "Owner's Manual — Instruction Book for: Models 700, Seven, & 673 Bolt action centerfire rifles — Part No. 3509 rd Form RD 7055 rev. 0526 — To Clean the Barrel — note between steps 4 and 5, p.13"
   },
   {
    "phase": "Inspect",
    "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Ashbury Precision Ordnance.",
+   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, the bolt’s locking lugs for chips, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Ashbury Precision Ordnance.",
    "box": "none",
    "prose": "Any one of these means the gun is not fired until Ashbury Precision Ordnance has seen it."
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Ashbury Precision Ordnance SABER-M700, and this guide will not invent one. No manual from Ashbury Precision Ordnance exists for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Ashbury Precision Ordnance, not onto the bench.",
+ "deepAbsentReason": "There is no deep clean for the Ashbury Precision Ordnance SABER-M700, and this guide will not invent one. No manual from Ashbury Precision Ordnance exists for this model; the pattern source documents a field strip and nothing deeper for an owner. Anything that needs more than this guide goes to Ashbury Precision Ordnance, not onto the bench.",
  "cleaning": [
   {
    "name": "BORE",
    "tasks": [
-    "Pull-through from the open chamber, or from the muzzle with a rod guide",
+    "Ejection port DOWN; always from the chamber end to the muzzle",
     "Brush wet with bore solvent, then dry patches until clean",
     "A lightly oiled patch for storage; a dry patch before the next shot"
    ]
   },
   {
-   "name": "THE OPEN ACTION",
+   "name": "BOLT & ACTION",
    "tasks": [
-    "Bolt face and chamber mouth wiped",
-    "Receiver wiped where a cloth reaches",
-    "A thin film of oil on the bolt where it slides",
-    "⛔ No solvent poured or sprayed into the action or the trigger"
+    "Bolt body and lugs wiped, a thin film of oil on both",
+    "Receiver raceway wiped",
+    "⛔ No solvent into the trigger assembly"
    ]
   },
   {
@@ -105,10 +98,11 @@
     ]
    },
    {
+    "s": 5
+   },
+   {
     "g": 1,
-    "steps": [
-     5
-    ]
+    "steps": []
    },
    {
     "g": 2,
@@ -116,18 +110,23 @@
    },
    {
     "g": 3,
-    "steps": [
-     6
-    ]
-   },
-   {
-    "s": 7
+    "steps": []
    }
   ]
  },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Close the action under control, with your hand and thumb out of its path."
+  {
+   "title": "Lugs aligned, bolt home",
+   "action": "Align the lugs on the bolt assembly with the receiver’s cuts, slide the bolt fully in, and push the handle down to close.",
+   "quote": "3. Align the lugs on the bolt assembly with the receiver. See Picture 8. 4.Slide the bolt assembly into the receiver and push all the way in.",
+   "section": "To Replace The Bolt Assembly, steps 3-4, p.9"
+  },
+  {
+   "title": "Check the barrel first",
+   "action": "Before the bolt went back you looked through the barrel — Remington prints that warning at exactly this point, and it is the one that catches a forgotten patch.",
+   "quote": "Before you replace the bolt assembly, make sure the barrel is free from obstructions.",
+   "section": "To Clean the Firearm, warning before step 5, p.13"
+  }
  ],
- "fncheck": "Magazine out and the chamber empty. The action opens and closes fully and smoothly: a bolt handle turns fully down, a lever closes flush. Any safety you can see moves through each of its positions. This check never asks you to pull the trigger — on a rimfire, dry firing can damage the chamber edge, and on any rifle whether it tolerates it is a question for Ashbury Precision Ordnance."
+ "fncheck": "Chamber and magazine proven empty twice. Run Remington’s own test for this pattern: safety at F, close the bolt smartly — the firing pin must remain cocked — then pull the trigger; the firing pin must release. Remington’s instruction is to repeat that test at least ten times, and a firing pin that ever fails to stay cocked when the bolt closes means the rifle goes to Ashbury Precision Ordnance before it is loaded again. This dry test is the pattern source’s own, performed only on a rifle proven empty, muzzle at a safe backstop."
 }

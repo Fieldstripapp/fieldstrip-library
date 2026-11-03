@@ -2,7 +2,7 @@
  "row": "banishsilencercentralbanis",
  "make": "Banish (Silencer Central)",
  "model": "Banish 30",
- "sourcedFrom": "BANISH 30 — OWNER'S MANUAL — NOT PRINTED — no revision or part number appears in this document (NOT PRINTED)",
+ "sourcedFrom": "BANISH 30 — OWNER'S MANUAL — NOT PRINTED — no revision or part number appears in this document",
  "sourceSha256": "66b4512f3e79619c5f46ac4683fab853cfe17cacca842453a2070dd012695fac",
  "cleanIntro": "A modular titanium .30 can that runs either 9 inches with the front module fitted or 7 inches without it, on a 5/8x24 direct thread. Eight STifle baffles live in it — six in the main tube and two in the front module — and it is user-serviceable end to end except for the muzzle-threaded end of the tube, which is fixed. Banish rates it .17 through .300 Weatherby and asks for a clean every 50 to 100 rounds.",
  "steps": [
@@ -96,8 +96,7 @@
    "action": "The Banish 30 is off the barrel and the threads are protected — that is the routine strip. Everything further is the Deep Clean, and Banish sets the trigger at every 50 to 100 rounds fired. It also warns off one ammunition class entirely: solid lead or plated lead bullets are not recommended in this can.",
    "box": "limit",
    "prose": "That interval is short for a centrefire can, and it exists because the deep clean is the only way to reach the six baffles in the main tube.",
-   "aside": "Quoted as the text extraction renders it — the printed page shows the range as 50 - 100 and the hyphen is dropped by the extraction.",
-   "quote": "It is recommended that the suppressor be cleaned every 50 100 rounds fired. The use of solid lead or plated lead bullets is not recommended.",
+   "quote": "It is recommended that the suppressor be cleaned every 50 – 100 rounds fired. The use of solid lead or plated lead bullets is not recommended.",
    "cite": "BANISH 30 — OWNER'S MANUAL — NOT PRINTED — no revision or part number appears in this document — CLEANING & DISASSEMBLY, p.8",
    "branch": true
   }
@@ -126,7 +125,7 @@
    "phase": "Strip",
    "title": "⛔ The muzzle-threaded end of the main tube stays put",
    "action": "Do not attempt to remove the rear, barrel-threaded end of the main tube. Banish states it cannot be removed. That end carries the 5/8x24 threads and the datum the whole baffle stack indexes against; there is no published way to take it off and nothing to gain by trying.",
-   "box": "limit",
+   "box": "none",
    "prose": "Everything you need to clean is reachable from the front once the end cap and module are off.",
    "quote": "The muzzle threaded end of the suppressor on the main tube cannot be removed.",
    "cite": "BANISH 30 — OWNER'S MANUAL — NOT PRINTED — no revision or part number appears in this document — CLEANING & DISASSEMBLY, p.8",
@@ -167,7 +166,7 @@
    "phase": "Clean",
    "title": "⛔ The module's two baffles never go in the main tube",
    "action": "When you rebuild the 9 inch configuration, keep the module's pair where they belong. Banish says these two have no indexing tabs and no centre slot and must only be used in the modular extension. Putting one in the main tube means the stack cannot index, and the end cap will tell you so by sitting proud.",
-   "box": "limit",
+   "box": "none",
    "prose": "This is the one mistake this can invites, because all eight baffles look broadly alike in a tray.",
    "quote": "The module extension has two baffles, note these two baffles don’t have the indexing tabs or center slot and must only be used in the modular extension and never placed in the main tube.",
    "cite": "BANISH 30 — OWNER'S MANUAL — NOT PRINTED — no revision or part number appears in this document — ASSEMBLY - FULL LENGTH 9”, p.5",

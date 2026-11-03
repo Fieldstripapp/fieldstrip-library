@@ -1,0 +1,132 @@
+{
+ "row": "faxonfirearmsfx7",
+ "make": "Faxon Firearms",
+ "model": "FX7",
+ "sourcedFrom": "Faxon Firearms Bolt Action Owner's Manual — Faxon Firearms bolt action owner's manual (undated; file Bolt-Action-Manual.pdf) (UNKNOWN — not printed in the document)",
+ "sourceSha256": "8ca81592ca0e70cd3801214affc818e89e3ae4ef2716213a6504e1d3a753fb6c",
+ "cleanIntro": "The FX7 is Faxon's bolt-action rifle. It feeds from a detachable box magazine and takes a Remington 700 type trigger with its own manual safety lever.\n\nFaxon's strip is one part: the bolt comes out of the action past the bolt release button, and nothing else is taken off. Faxon prints no cleaning procedure beyond keeping the bore clear and clearing out unburned powder, and it forbids taking the trigger group apart.\n\nThis guide follows Faxon's own bolt action owner's manual.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety lever all the way back to S",
+   "action": "Point the rifle somewhere safe and keep your finger off the trigger. On most Remington 700 type triggers, the kind the FX7 uses, the safety lever sits to the right of the cocking piece shroud. Move it all the way back to the S position.",
+   "box": "none",
+   "prose": "The lever cannot be moved to S unless the rifle is cocked; carry on to the magazine and the bolt either way, muzzle safe. This book covers the safety as Faxon describes it; a replacement trigger is not covered by it. If the trigger has ever been changed, check where its safety is and how it works: not every Remington 700 type trigger puts it in the same place or works it the same way.",
+   "quote": "To engage the safety, move the safety lever all the way back to the",
+   "cite": "Faxon Firearms Bolt Action Owner's Manual — Faxon Firearms bolt action owner's manual (undated; file Bolt-Action-Manual.pdf) — Safety Features, p.1"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out: catch lever pressed, magazine pulled down",
+   "action": "Press the magazine catch lever and pull the magazine down and out of the rifle.",
+   "box": "none",
+   "prose": "Keep a hand under it. The magazine may fall free as soon as the catch is pressed, and a drop onto a hard surface can damage it.",
+   "quote": "Remove the magazine by depressing the magazine catch lever and pulling the magazine down.",
+   "cite": "Faxon Firearms Bolt Action Owner's Manual — Faxon Firearms bolt action owner's manual (undated; file Bolt-Action-Manual.pdf) — UNLOADING, p.3"
+  },
+  {
+   "phase": "Clear",
+   "title": "THEN the bolt back, and look in the chamber",
+   "action": "Only once the magazine is out, lift the bolt handle and pull the bolt back to extract any chambered cartridge. Then look into the chamber and see that it is empty.",
+   "box": "none",
+   "prose": "⛔ The FX7 will fire with no magazine in it. Faxon's warning is that the rifle is not safe until the magazine is out, the safety is on, the bolt is open and the chamber is empty.",
+   "quote": "Remove the magazine, THEN pull the bolt back and check the chamber.",
+   "cite": "Faxon Firearms Bolt Action Owner's Manual — Faxon Firearms bolt action owner's manual (undated; file Bolt-Action-Manual.pdf) — CLEARING THE RIFLE, p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt handle up, bolt back to nearly the rear",
+   "action": "Muzzle pointed safely, magazine out, chamber clear. Lift the bolt handle and pull the bolt back until it is nearly at the rear of its travel, not all the way.",
+   "box": "none",
+   "quote": "Lift Bolt Handle and pull the bolt back to nearly the rear most position.",
+   "cite": "Faxon Firearms Bolt Action Owner's Manual — Faxon Firearms bolt action owner's manual (undated; file Bolt-Action-Manual.pdf) — REMOVE BOLT ASSEMBLY, p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete: bolt release pressed, bolt out",
+   "action": "Hold the bolt release button down and slide the bolt the rest of the way out of the rifle. That is Faxon's whole strip: the bolt out, the rifle otherwise left together.",
+   "box": "none",
+   "prose": "⛔ Faxon's book goes no further. The trigger group is never taken apart: Faxon warns that any alteration or adjustment to it could cause an accidental discharge.",
+   "quote": "While depressing Bolt Release Button, slide the Bolt the rest of the way out of the rifle.",
+   "cite": "Faxon Firearms Bolt Action Owner's Manual — Faxon Firearms bolt action owner's manual (undated; file Bolt-Action-Manual.pdf) — REMOVE BOLT ASSEMBLY, p.4",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt out, look through the bore",
+   "action": "With the bolt out of the action, look down the bore and check it for any obstruction or debris. A cleaning rod and patch take out what is there.",
+   "box": "none",
+   "prose": "⛔ If a rod and patch will not clear it, or a bullet is lodged in the bore, do not try to shoot it out or force it: the rifle goes to a qualified gunsmith.",
+   "quote": "Check the barrel for any obstructions of debris by visually inspecting the bore.",
+   "cite": "Faxon Firearms Bolt Action Owner's Manual — Faxon Firearms bolt action owner's manual (undated; file Bolt-Action-Manual.pdf) — CLEARING A BARREL OBSTRUCTION, p.3"
+  },
+  {
+   "phase": "Clean",
+   "title": "Nothing left in the barrel before it is fired",
+   "action": "When you are done, the barrel is clear of everything before the rifle is shot again: excess oil, grease, a cleaning patch, debris.",
+   "box": "none",
+   "quote": "Make sure your barrel is clear of all obstructions including (but not limited to) excessive oil, grease, cleaning patches, debris, etc. before shooting.",
+   "cite": "Faxon Firearms Bolt Action Owner's Manual — Faxon Firearms bolt action owner's manual (undated; file Bolt-Action-Manual.pdf) — Safety First!, p.1"
+  },
+  {
+   "phase": "Clean",
+   "title": "Unburned powder out of the receiver",
+   "action": "After a round that sounded or kicked differently, clear the rifle and check the receiver and the bore for unburned powder. If there is any, clean it out before you shoot again.",
+   "box": "none",
+   "quote": "If there is unburned powder, clean it out before resuming operation.",
+   "cite": "Faxon Firearms Bolt Action Owner's Manual — Faxon Firearms bolt action owner's manual (undated; file Bolt-Action-Manual.pdf) — FIRING, p.3"
+  }
+ ],
+ "deepAbsentReason": "Faxon's bolt action owner's manual ends its disassembly at removing the bolt (REMOVE BOLT ASSEMBLY, printed p.4) and prints nothing past it; the same book forbids taking the trigger group apart (Safety First!, printed p.1). There is no deeper procedure in the book to follow.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Bolt out, bore looked through for any obstruction or debris",
+    "Obstruction removed with a cleaning rod and patch",
+    "Barrel clear of excess oil, grease and patches before shooting",
+    "⛔ Never shoot out a bore obstruction: a lodged bullet goes to a gunsmith"
+   ]
+  },
+  {
+   "name": "RECEIVER",
+   "tasks": [
+    "Receiver checked for unburned powder and cleaned out"
+   ]
+  },
+  {
+   "name": "TRIGGER GROUP",
+   "tasks": [
+    "⛔ Do not disassemble or adjust the trigger group"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     5,
+     6
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     7
+    ]
+   },
+   {
+    "g": 2,
+    "steps": []
+   }
+  ]
+ },
+ "reassembly": [
+  "Muzzle pointed in a safe direction, magazine out, chamber empty.",
+  "Bolt into the receiver bore, the bolt stop lined up with its channel along the left side of the bolt body, opposite the bolt handle.",
+  "Bolt pushed home until the stop snaps into the channel, then rotated down to the closed position.",
+  "Bolt cycled open and closed a couple of times to confirm the action works."
+ ],
+ "fncheck": "Prove the rifle empty: magazine out, bolt open, chamber looked into. Cycle the bolt open and closed a couple of times; it should run freely, which is Faxon's own check after the bolt goes back in. With the rifle cocked, move the safety lever back to S and forward to F, finger off the trigger. Seat an empty magazine by pushing it up until the catch holds it, then pull down on it slightly to make sure it is locked; never smack it into place. Before loading, look through the barrel: nothing in it."
+}

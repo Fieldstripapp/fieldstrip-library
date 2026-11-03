@@ -1,11 +1,11 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. No manufacturer manual exists for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-BOLT",
+ "bpLabel": "Fieldstrip Best Practices — this guide follows the Tikka T3x bolt-action procedure as documented in Tikka’s own T1x/T3x manual, which Langdon Tactical’s own page says the Langdon Tactical LTT Impact shares. It is not Langdon Tactical’s manual for this model. If you obtain the factory manual, follow it over this guide. Never take this firearm further apart than this guide goes.",
+ "bpClass": "pattern:tikka-t3x",
  "bpTemplateVersion": 1,
  "row": "langdontacticallttimpact",
  "make": "Langdon Tactical",
  "model": "LTT Impact",
- "cleanIntro": "No manual from Langdon Tactical exists for this model. Rifles of this kind are opened and closed by hand, which makes them simple to clear and clean — but the way the bolt comes out differs from rifle to rifle, so this guide leaves it in. Everything here is done with the action open: the bore by pull-through or from the muzzle, the parts you can reach, and the outside.\n\nListed in Fieldstrip as several chamberings. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "cleanIntro": "No manual from Langdon Tactical exists for this model, but Langdon Tactical’s own page says the Langdon Tactical LTT Impact is built on the Tikka T3x action, and that action’s owner procedure is documented by Tikka’s own manual. This guide follows its routine clean: clear, magazine and bolt out, the bore from the breech, and back together. If your rifle’s bolt release is not the button this guide names, stop — never pull a trigger to find out.\n\nListed in Fieldstrip as several chamberings. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
  "steps": [
   {
    "phase": "Clear",
@@ -16,69 +16,78 @@
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, action open",
-   "action": "If the rifle takes a detachable magazine, take it out first. Then open the action fully: lift the bolt handle and draw it all the way back; on a straight-pull, draw it straight back; on a lever action, swing the lever fully down and forward. Work it closed and open again until nothing more comes out, and leave it open.",
-   "box": "none",
-   "prose": "Keep your hand and thumb out of the bolt's path whenever you close it."
+   "title": "Muzzle safe, safety forward so the bolt will lift",
+   "action": "Point the muzzle somewhere safe, finger away from the trigger, and push the safety catch forward — on this action the safety locks the bolt closed, so it must come off before anything opens. It is never a substitute for the empty chamber you are about to prove.",
+   "box": "limit",
+   "quote": "Disengage the manual safety by moving the safety catch forwards (red warning dot shown).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8",
+   "warn": "Keep your finger AWAY FROM THE TRIGGER and point the barrel in a SAFE direction.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Magazine out first",
+   "action": "Press the magazine release button ahead of the trigger guard and take the magazine out.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Langdon Tactical with the gun pointed somewhere safe."
+   "quote": "Remove the magazine by pushing the magazine release button (fig. 8).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8"
   },
   {
    "phase": "Strip",
-   "title": "The bolt stays in — and that is deliberate",
-   "action": "Leave the bolt in the rifle. How a bolt comes out differs from rifle to rifle — a lever beside the action, a button inside the trigger guard, or a release that needs the trigger held — and a guide that cannot see your rifle cannot say which. Everything that follows is done with the action open.",
+   "title": "Bolt out at the bolt stop button",
+   "action": "Lift the bolt handle, press the bolt stop button at the left rear of the receiver, and draw the bolt completely out of the receiver. That is the pattern’s whole routine strip — the bolt stays in one piece, and the trigger, receiver screws and stock stay untouched.",
    "box": "none",
-   "prose": "⛔ If you do not know where your rifle's bolt release is, never pull the trigger to find out. No screw, stock bolt, trigger or scope mount is touched in this guide."
+   "quote": "Remove the bolt by lifting the bolt handle, pressing the bolt stop button and completely pulling the bolt out of the receiver (fig. 9).",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8"
   },
   {
-   "phase": "Clean",
-   "title": "The bore, by pull-through or from the muzzle",
-   "action": "With the action open, drop a pull-through cord in at the chamber and draw it out of the muzzle — a brush wet with bore solvent first, then dry patches until they come out clean. If the open bolt does not leave the chamber clear for a cord, work from the muzzle with a rod and a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "phase": "Clear",
+   "title": "Chamber checked by eye and fingertip — twice",
+   "action": "With the bolt out, look into the open chamber and touch it with a fingertip, and look into the magazine well. Check twice. The open receiver hides nothing.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "quote": "Check the cartridge chamber to be certain it is empty.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — LOAD CHECK, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bore sighted through from the rear",
+   "action": "Look through the barrel from the rear against the light: no obstruction, however minor.",
+   "box": "none",
+   "quote": "Look through the barrel from the rear and make sure there are no obstructions, even minor ones.",
+   "cite": "Tikka T1x / T3x Instruction Manual — v5.3 — OBSTRUCTION CHECK, p.9",
+   "warn": "If an obstruction in the barrel is detected, a competent gunsmith must remove the obstruction.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
-   "title": "The open action",
-   "action": "With the action open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach with a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action or the trigger: what runs in there cannot be wiped back out. A thin film of oil on the outside of the bolt where it slides is enough.",
-   "box": "none"
-  },
-  {
-   "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
+   "title": "Bore from the breech, bolt wiped and lightly oiled",
+   "action": "With the bolt out, the bore cleans from the breech end: brush wet with solvent, dry patches until clean, a lightly oiled patch for storage, a dry patch before the next shot. Wipe the bolt body and its lugs and leave a thin film of oil on both; wipe the receiver’s raceway, and keep solvent out of the trigger unit.",
    "box": "none"
   },
   {
    "phase": "Inspect",
    "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Langdon Tactical.",
+   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, the bolt’s locking lugs for chips, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Langdon Tactical.",
    "box": "none",
    "prose": "Any one of these means the gun is not fired until Langdon Tactical has seen it."
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Langdon Tactical LTT Impact, and this guide will not invent one. No manual from Langdon Tactical exists for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Langdon Tactical, not onto the bench.",
+ "deepAbsentReason": "There is no deep clean for the Langdon Tactical LTT Impact, and this guide will not invent one. No manual from Langdon Tactical exists for this model; the pattern source documents a field strip and nothing deeper for an owner. Anything that needs more than this guide goes to Langdon Tactical, not onto the bench.",
  "cleaning": [
   {
    "name": "BORE",
    "tasks": [
-    "Pull-through from the open chamber, or from the muzzle with a rod guide",
+    "From the breech end with the bolt out",
     "Brush wet with bore solvent, then dry patches until clean",
     "A lightly oiled patch for storage; a dry patch before the next shot"
    ]
   },
   {
-   "name": "THE OPEN ACTION",
+   "name": "BOLT & ACTION",
    "tasks": [
-    "Bolt face and chamber mouth wiped",
-    "Receiver wiped where a cloth reaches",
-    "A thin film of oil on the bolt where it slides",
-    "⛔ No solvent poured or sprayed into the action or the trigger"
+    "Bolt body and lugs wiped, a thin film of oil on both",
+    "Receiver raceway wiped",
+    "⛔ No solvent into the trigger unit"
    ]
   },
   {
@@ -96,38 +105,13 @@
    ]
   }
  ],
- "cleanMap": {
-  "screens": [
-   {
-    "g": 0,
-    "steps": [
-     4
-    ]
-   },
-   {
-    "g": 1,
-    "steps": [
-     5
-    ]
-   },
-   {
-    "g": 2,
-    "steps": []
-   },
-   {
-    "g": 3,
-    "steps": [
-     6
-    ]
-   },
-   {
-    "s": 7
-   }
-  ]
- },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Close the action under control, with your hand and thumb out of its path."
+  {
+   "title": "Bolt back into the receiver, magazine last",
+   "action": "Slide the bolt back into the receiver, close the handle fully down, and refit the magazine last.",
+   "quote": "• Insert the bolt into the receiver (fig. 6).",
+   "section": "Before use — check points, p.6"
+  }
  ],
- "fncheck": "Magazine out and the chamber empty. The action opens and closes fully and smoothly: a bolt handle turns fully down, a lever closes flush. Any safety you can see moves through each of its positions. This check never asks you to pull the trigger — on a rimfire, dry firing can damage the chamber edge, and on any rifle whether it tolerates it is a question for Langdon Tactical."
+ "fncheck": "Chamber and magazine proven empty twice. Close the bolt: it locks fully down and the cocking indicator shows cocked. Pull the safety back to ON — it should lock the bolt closed — and push it forward again: the red dot shows and the bolt lifts freely. This check never asks you to pull the trigger."
 }

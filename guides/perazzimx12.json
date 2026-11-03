@@ -1,11 +1,11 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. No manufacturer manual exists for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-BRK",
+ "bpLabel": "Fieldstrip Best Practices — this guide follows the break-action take-down as documented in Caesar Guerini’s own over-and-under manual: the take-apart every break-action shotgun is built for. It is not Perazzi’s manual for this model. If you obtain the factory manual, follow it over this guide. Never take this firearm further apart than this guide goes.",
+ "bpClass": "pattern:break-action",
  "bpTemplateVersion": 1,
  "row": "perazzimx12",
  "make": "Perazzi",
  "model": "MX12",
- "cleanIntro": "No manual from Perazzi exists for this model. A break-action gun is built to come apart into three pieces — stock and action, barrels, forend — and that take-down is the same on every gun of the kind. This guide clears the gun, takes it down that far and no further, and cleans it with the barrels off.\n\nListed in Fieldstrip as 12 GA. The gauge and chamber length marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "cleanIntro": "No manual from Perazzi exists for this model. But a break-action gun is built to come apart into three pieces — stock and action, barrels, fore-end — and that take-down is documented in Caesar Guerini’s own over-and-under manual, which this guide follows. It is the same take-apart whether yours is an over-under, a side-by-side or a single-barrel; where this guide says \"each barrel\", work every barrel yours has. If your fore-end is held by a screw, the strip stops before it starts.\n\nListed in Fieldstrip as 12 GA. The gauge and chamber length marked on the gun itself is the one that counts — not this guide, and not the listing.",
  "steps": [
   {
    "phase": "Clear",
@@ -16,70 +16,93 @@
   },
   {
    "phase": "Clear",
-   "title": "Open the action and let the barrels drop",
-   "action": "Push the top lever across and let the barrels drop open on the hinge. Lift out any shells the extractors raise, or catch any the ejectors throw. Open, the gun shows its own state plainly — which is why it stays open until this guide tells you to close it.",
-   "box": "none"
+   "title": "Top lever over, barrels down, shells out",
+   "action": "Push the top lever to the right — on a few guns the opening lever sits elsewhere; work the one yours has — support the action, and let the barrels pivot open. Lift out anything the extractors raise, or catch what the ejectors throw.",
+   "box": "none",
+   "quote": "Push the top lever to the right, support the receiver with the shooting hand and with the other hand grasp the top of the barrels palm down at the front of the fore-end and push down.",
+   "cite": "Caesar Guerini Use and Maintenance Manual — Over-and-Under Shotguns — UNKNOWN — read off the manual's own pages — TO UNLOAD THE GUN, PDF p.11 (printed p.19)"
   },
   {
    "phase": "Clear",
-   "title": "Look through every barrel, feel every chamber",
-   "action": "Look through each barrel from the breech end against the light, then run a fingertip into every chamber the gun has. Do it twice. A shell left in a chamber is the one thing this whole guide exists to catch.",
+   "title": "Look through every barrel, feel every chamber — twice",
+   "action": "Look through each bore from the breech against the light and run a fingertip into every chamber the gun has. Close, open, and do it all a second time. A shell left in a chamber is the one thing this whole guide exists to catch.",
    "box": "none",
-   "prose": "⛔ If a shell will not come out of a chamber, stop: never pry it out with a tool — contact Perazzi."
+   "quote": "Make certain the shotgun is on safe and the action open with shells removed from both barrels.",
+   "cite": "Caesar Guerini Use and Maintenance Manual — Over-and-Under Shotguns — UNKNOWN — read off the manual's own pages — DISASSEMBLY INSTRUCTIONS, PDF p.12 (printed p.20)"
   },
   {
    "phase": "Strip",
-   "title": "Forend off by its latch",
-   "action": "With the gun open, look under the forend for its release: a lever on its underside, a button at its front tip, or nothing at all on a forend that snaps on. Work the lever or press the button and lift the forend away from the barrels; a snap-on forend comes away with a firm pull at its front end. Put it aside on a soft cloth.",
+   "title": "Close the action again before the strip",
+   "action": "Odd as it reads, the book closes the empty gun before the fore-end comes off — a closed action cannot drop its barrels early. Close the breech and confirm the top lever has come back to engage.",
    "box": "none",
-   "prose": "⛔ If a screw holds the forend on, or it will not release by hand, stop here: clean the gun with the forend on and the action open."
+   "quote": "Close the breech and make sure the top lever engages the barrels.",
+   "cite": "Caesar Guerini Use and Maintenance Manual — Over-and-Under Shotguns — UNKNOWN — read off the manual's own pages — DISASSEMBLY INSTRUCTIONS, PDF p.12 (printed p.20)"
   },
   {
    "phase": "Strip",
-   "title": "Barrels off the hinge",
-   "action": "With the forend off and the action still open, lift the barrels upward and forward off the hinge pin; they come free once their hooks clear it. Lay them down on a soft cloth — never stand a pair of barrels on their muzzles.",
-   "box": "none"
+   "title": "Fore-end off by its latch — a screw is a stop",
+   "action": "Find the fore-end’s release: a latch lever on its underside, a button at its tip, or a plain snap-on fit that yields to a firm pull at the front end. Work it and lift the fore-end away from the barrels, onto a soft cloth.",
+   "box": "none",
+   "quote": "Press down on the fore-end latch and remove the fore-end",
+   "cite": "Caesar Guerini Use and Maintenance Manual — Over-and-Under Shotguns — UNKNOWN — read off the manual's own pages — DISASSEMBLY INSTRUCTIONS, PDF p.12 (printed p.20)",
+   "warn": "If a screw holds the fore-end on, or it will not release by hand, stop here: clean the gun with the fore-end on and the action open. A screw’s torque belongs to the maker."
   },
   {
    "phase": "Strip",
-   "title": "That is the whole take-down",
-   "action": "Nothing else comes apart. The stock, the trigger group — even on a gun made for it to drop out — the ejectors and extractors, the choke tubes and anything held by a screw all stay exactly as they are: those are work for Perazzi.",
+   "title": "Barrels off the hinge — and that is the whole take-down",
+   "action": "Open the action with the top lever, keep control of the barrels, and lift them up and off the hinge. Lay them on a soft cloth — never stood on their muzzles. Stock, trigger group (even a drop-out one), ejectors, extractors and anything held by a screw stay exactly as they are: Perazzi’s work.",
    "box": "none",
-   "prose": "Choke tubes do need taking out now and then so they cannot seize, but how, and with which wrench, is a question for Perazzi."
+   "quote": "Open the action using the top lever, being careful to keep control of the barrels and carefully remove the barrels from the receiver",
+   "cite": "Caesar Guerini Use and Maintenance Manual — Over-and-Under Shotguns — UNKNOWN — read off the manual's own pages — DISASSEMBLY INSTRUCTIONS, PDF p.12 (printed p.20)"
   },
   {
    "phase": "Clean",
-   "title": "Each bore and each chamber, from the breech",
-   "action": "Brush each bore wet with bore solvent from the breech end, a few passes, then dry patches until they come out clean. Clean each chamber with a chamber brush — plastic and carbon build a ring at the chamber mouth that makes shells stick. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Each bore and chamber, from the breech",
+   "action": "A patch wet with bore solvent through each bore from the chamber end, then the brush, full strokes all the way through, then dry patches until one comes out clean. A chamber brush on each chamber — plastic wad fouling builds a ring at the chamber mouth that makes shells stick.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "quote": "Wet a patch with bore cleaning solvent and wet the inside of each bore by pushing the wet patch through from the chamber end of the barrel.",
+   "cite": "Caesar Guerini Use and Maintenance Manual — Over-and-Under Shotguns — UNKNOWN — read off the manual's own pages — BARREL SET, PDF p.12 (printed p.20)"
   },
   {
    "phase": "Clean",
-   "title": "Breech face, extractors and the hinge",
-   "action": "Wipe the standing breech — the flat face of the action with the firing-pin holes in it — with a cloth and a little solvent, and keep oil out of those holes. Wipe the extractors or ejectors in place at the barrels' breech end; they stay where they are. Then a thin film of gun grease or oil on the hinge pin, the barrel hooks and the forend iron's bearing face, where metal turns on metal.",
-   "box": "none"
+   "title": "Chokes stay in — greased, not forgotten",
+   "action": "Screw-in chokes stay in their muzzles for this clean. They do need coming out now and then with the maker’s wrench so they cannot seize — and when they are out, the book’s own advice is a light film of grease on their walls before they go back.",
+   "box": "none",
+   "quote": "we recommend covering the external circumference of the choke tube with a light quantity of protective grease.",
+   "cite": "Caesar Guerini Use and Maintenance Manual — Over-and-Under Shotguns — UNKNOWN — read off the manual's own pages — INSTALLATION AND REMOVAL OF CHOKE TUBES, PDF p.11 (printed p.18)"
   },
   {
    "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
+   "title": "Standing breech, outside of the barrels, and the pivots",
+   "action": "Wipe the standing breech — the flat face with the firing-pin holes — and keep oil out of those holes. Wipe the extractors or ejectors in place at the barrels’ breech end. Wipe the outside of the barrels dry of moisture and residue and leave a protective film on the bluing; then a thin film of grease or oil on the hinge pin, the barrel hooks and the fore-end iron’s bearing face, where metal turns on metal.",
+   "box": "none",
+   "quote": "Carefully wipe the outside of the barrels to remove any moisture, dirt, carbon or other residues from the bluing.",
+   "cite": "Caesar Guerini Use and Maintenance Manual — Over-and-Under Shotguns — UNKNOWN — read off the manual's own pages — BARREL SET, PDF p.12 (printed p.21)",
+   "warn": "Rust can and will occur if this step is neglected and this is NOT covered by warranty.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver brushed, wood kept dry of solvent",
+   "action": "Brush residue out of the receiver with a soft bristle brush and a little general-purpose solvent, and keep solvent off the wood. Lubricate with a thin film only — enough to stop rust and no more.",
+   "box": "none",
+   "quote": "The receiver should have any residue/carbon/ dirt removed with a soft bristle brush and general purpose solvent.",
+   "cite": "Caesar Guerini Use and Maintenance Manual — Over-and-Under Shotguns — UNKNOWN — read off the manual's own pages — STOCK, RECEIVER AND FORE-END GROUP, PDF p.12 (printed p.21)"
   },
   {
    "phase": "Inspect",
    "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the barrels, the action and the stock for cracks, dents in the barrels, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Perazzi.",
+   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the barrels, the action and the stock for cracks, dents or rings in the barrels, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Perazzi.",
    "box": "none",
    "prose": "Any one of these means the gun is not fired until Perazzi has seen it."
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Perazzi MX12, and this guide will not invent one. No manual from Perazzi exists for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Perazzi, not onto the bench.",
+ "deepAbsentReason": "There is no deep clean for the Perazzi MX12, and this guide will not invent one. No manual from Perazzi exists for this model; the pattern source documents a field strip and nothing deeper for an owner. Anything that needs more than this guide goes to Perazzi, not onto the bench.",
  "cleaning": [
   {
    "name": "BORES & CHAMBERS",
    "tasks": [
-    "Each bore brushed wet from the breech end, then dry patches until clean",
+    "Each bore wet-patched and brushed from the breech end, then dry patches until clean",
     "Each chamber with a chamber brush — the plastic ring at the mouth",
     "A lightly oiled patch for storage; a dry patch before the next shot"
    ]
@@ -90,7 +113,14 @@
     "Standing breech wiped",
     "⛔ No oil into the firing-pin holes",
     "Extractors or ejectors wiped in place",
-    "A thin film of grease or oil on the hinge pin, the barrel hooks and the forend iron"
+    "A thin film of grease or oil on the hinge pin, barrel hooks and fore-end iron"
+   ]
+  },
+  {
+   "name": "CHOKES",
+   "tasks": [
+    "Stay in for this clean",
+    "Periodic removal with the maker’s wrench so they cannot seize; a light film of grease on the walls when refitted"
    ]
   },
   {
@@ -108,10 +138,60 @@
    ]
   }
  ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     6
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     8
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     7
+    ]
+   },
+   {
+    "g": 3,
+    "steps": [
+     9
+    ]
+   },
+   {
+    "s": 10
+   },
+   {
+    "g": 4,
+    "steps": []
+   }
+  ]
+ },
  "reassembly": [
-  "Action open: the barrels lowered onto the hinge pin with their hooks engaged, then swung closed — the top lever returns to the centre.",
-  "The forend back on: hooked at its rear, then pressed up until its latch clicks or the snap-on forend seats.",
-  "Open and close the gun once: it should open smoothly and close with the lever returning to the centre."
+  {
+   "title": "Barrels onto the hinge, lever over, breech closed",
+   "action": "Set the barrels’ locking block against the inside of the receiver, confirm the hooks engage the hinge, then move the top lever to the right and close the breech.",
+   "quote": "Make sure this locking block engages in the receiver then move the top lever to the right and close the breech.",
+   "section": "ASSEMBLY INSTRUCTIONS, step b, PDF p.12 (printed p.16)"
+  },
+  {
+   "title": "It is not assembled yet — the warning that matters",
+   "action": "The gun looks whole now, but the book’s own caution is the one every break-action owner learns once: open it before the fore-end is on and the barrels come off in your hands.",
+   "quote": "CAUTION: THOUGH THE GUN IS BASICALLY ASSEMBLED AT THIS TIME, THE BARRELS WILL COME OFF THE RECEIVER IF THE BREECH IS OPENED BEFORE THE FORE-END IS INSTALLED!",
+   "section": "ASSEMBLY INSTRUCTIONS, caution after step b, PDF p.12 (printed p.16)"
+  },
+  {
+   "title": "Fore-end on until the catch snaps",
+   "action": "Fore-end onto the front of the receiver, its front pressed toward the barrels until the catch snaps in. Only then is the gun safe to open.",
+   "quote": "Place the fore-end on the front of the receiver and push the front of the fore-end toward the barrels until the fore-end catch snaps into place (photo 5).",
+   "section": "ASSEMBLY INSTRUCTIONS, step c, PDF p.12 (printed p.16)"
+  }
  ],
- "fncheck": "Every chamber empty. The gun opens fully, closes, and locks with the top lever back at the centre. A safety, if fitted, moves through its positions. This check never asks you to pull a trigger; whether a gun of this kind may be dry-fired, with snap caps or without, is a question for Perazzi."
+ "fncheck": "Every chamber proven empty twice. With the fore-end on, open the gun with the top lever and close it again: it opens smoothly, the barrels stay on the receiver, and the lever snaps back toward centre, locking the breech. A safety, if fitted, moves through its positions. This check never asks you to pull a trigger; whether a gun of this kind may be dry-fired, with snap caps or without, is a question for Perazzi."
 }

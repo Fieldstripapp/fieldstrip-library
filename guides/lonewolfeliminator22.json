@@ -1,0 +1,125 @@
+{
+ "row": "lonewolfeliminator22",
+ "make": "Lone Wolf",
+ "model": "ELIMINATOR 22",
+ "sourcedFrom": "ELIMINATOR 22 SUPPRESSOR OWNERS MANUAL — UNKNOWN — no edition or revision printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "924a541298b5c6e99aecc975160456cc86d95c5a4e9a74d62646a7c2fa4888e4",
+ "cleanIntro": "Lone Wolf's book for the ELIMINATOR 22 keeps its maintenance short. The least it asks for is a mount area free of carbon and debris and clean baffle threads; the taper threads between the eight identical baffles resist carbon locking, but regular cleaning is still advised. The body and baffles are anodized aluminum, so every chemical used must be safe on it. The book gives no step-by-step cleaning procedure and no cleaning interval.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Host unloaded and safe",
+   "action": "Before you put a hand on the suppressor, make sure the host firearm is unloaded and safe, following the clearing procedure in the host's own manual.",
+   "box": "none",
+   "prose": "The can sits directly in front of the muzzle, so every minute you spend turning it is a minute your hand is in front of the bore. Lone Wolf's book points you to the basic rules of gun safety but gives no clearing procedure of its own, because the right one depends on the host.",
+   "quote": "Always follow the five rules of gun safety.",
+   "cite": "ELIMINATOR 22 SUPPRESSOR OWNERS MANUAL — UNKNOWN — no edition or revision printed in the document — Front matter, printed p.2"
+  },
+  {
+   "phase": "Clear",
+   "title": "Let it cool to room temperature",
+   "action": "Wait until the suppressor is back to ambient temperature before you try to take it off. If you cannot wait, use protective measures — gloves or a heat-proof grip — rather than bare hands.",
+   "box": "none",
+   "prose": "A can that has just been shot is hot enough to burn, and hot threads also bind, which is when people reach for force they should not use.",
+   "quote": "Let the suppressor cool to ambient temperature before removal.",
+   "cite": "ELIMINATOR 22 SUPPRESSOR OWNERS MANUAL — UNKNOWN — no edition or revision printed in the document — 5. REMOVAL, printed p.9",
+   "warn": "Be cautious! The suppressor will have become extremely hot after use and could cause burns or injury.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Unthread it from the barrel",
+   "action": "The ELIMINATOR 22 mounts with a direct-thread end cap, so it comes off by unthreading it from the muzzle threads (or from the thread adaptor, if your pistol needs one).",
+   "box": "none",
+   "prose": "The book gives no torque, tool or direction for removal. If it will not move, stop and let it cool further rather than adding force — hot, carbon-fouled threads are what bind.",
+   "quote": "The LONE WOLF ARMS ELIMINATOR .22 Suppressor utlizes a direct thread end cap.",
+   "cite": "ELIMINATOR 22 SUPPRESSOR OWNERS MANUAL — UNKNOWN — no edition or revision printed in the document — 4. MOUNTING OPTIONS, printed p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — off the host",
+   "action": "With the suppressor off the gun you have what the routine clean needs. The least maintenance Lone Wolf asks for is keeping the mount area and the baffle threads free of carbon and debris. Separating the baffles is the deep clean.",
+   "box": "none",
+   "prose": "Carbon left in the mount area is what stops the end cap seating cleanly on the next host, and the baffle threads are what hold the whole stack together.",
+   "quote": "Generally, the minimum maintenance needed is keeping the mount area free of carbon and other debris and the threads of the baffles.",
+   "cite": "ELIMINATOR 22 SUPPRESSOR OWNERS MANUAL — UNKNOWN — no edition or revision printed in the document — 6. CLEANING & MAINTENANCE, printed p.10",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Clear carbon from the mount area and end cap",
+   "action": "Clean the carbon and debris out of the mount area and the direct-thread end cap. Lone Wolf says the can needs maintenance to perform its best, and the mount area is the first place it names.",
+   "box": "none",
+   "prose": "Carbon in the end cap threads is what makes the can hard to thread onto the next host, or stops it sitting square on the muzzle.",
+   "quote": "The LONE WOLF ARMS ELIMINATOR .22 Suppressor will require maintenance for best performance.",
+   "cite": "ELIMINATOR 22 SUPPRESSOR OWNERS MANUAL — UNKNOWN — no edition or revision printed in the document — 6. CLEANING & MAINTENANCE, printed p.10"
+  },
+  {
+   "phase": "Clean",
+   "title": "Only chemicals that are safe on anodized aluminum",
+   "action": "The body and baffles are aluminum with an anodized finish. Before any solvent goes on them, make sure it is safe for anodized aluminum.",
+   "box": "none",
+   "prose": "Some aggressive carbon removers attack aluminum and its finish. Check the label before you soak or scrub.",
+   "quote": "Be aware of what chemicals you choose to use and that they are safe to use with anodized aluminum.",
+   "cite": "ELIMINATOR 22 SUPPRESSOR OWNERS MANUAL — UNKNOWN — no edition or revision printed in the document — 6. CLEANING & MAINTENANCE, printed p.10"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Separate the baffles",
+   "action": "Unthread the baffles from one another and lay them out. The can ships with eight, and they are all identical, so you do not need to keep track of their order.",
+   "box": "none",
+   "prose": "The book gives no step-by-step procedure and names no tool for this. It tells you the baffles go back together in any order, which is what makes taking them apart for cleaning straightforward.",
+   "quote": "The baffles are all the same and can be put back together in any order.",
+   "cite": "ELIMINATOR 22 SUPPRESSOR OWNERS MANUAL — UNKNOWN — no edition or revision printed in the document — 2. SPECIFICATIONS, printed p.4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean the baffles and their threads",
+   "action": "Clean the carbon and debris off each baffle and out of its threads, using only chemicals that are safe on anodized aluminum.",
+   "box": "none",
+   "prose": "The taper threads help, but they do not stop carbon building up. Carbon left in the threads is what makes the stack bind or cross-thread when it goes back together.",
+   "quote": "The taper threads between baffles will help reduce carbon locking, but regular cleaning is still advised.",
+   "cite": "ELIMINATOR 22 SUPPRESSOR OWNERS MANUAL — UNKNOWN — no edition or revision printed in the document — 6. CLEANING & MAINTENANCE, printed p.10"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "MOUNT AREA & THREADS",
+   "tasks": [
+    "Mount area and direct-thread end cap free of carbon and other debris",
+    "Baffle threads kept clean — the taper threads resist carbon locking, but regular cleaning is still advised"
+   ]
+  },
+  {
+   "name": "BODY & FINISH",
+   "tasks": [
+    "Anodized aluminum body and baffles — only chemicals safe on anodized aluminum",
+    "⚠ Lead cast bullets can increase the fouling inside the can and mean more cleaning"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     4
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     5
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "Thread the baffles back together. They are all the same and can go in any order — Lone Wolf found the sound reduction is the same whatever the baffle orientation.",
+  "The can comes with eight baffles for maximum suppression. You may run fewer; fewer baffles means less sound reduction.",
+  "With the host unloaded, thread the suppressor's direct-thread end cap onto a 1/2-28 threaded muzzle. A pistol with smaller or metric threads needs a 1/2-28 adaptor."
+ ],
+ "fncheck": "Host unloaded: the baffle stack is threaded fully together and the suppressor is threaded onto the 1/2-28 muzzle or adaptor. On any new host, check the suppressor's alignment to the bore before shooting — the barrel's threads must be aligned to the bore axis — or have a qualified gunsmith do it, to reduce the risk of a baffle strike."
+}

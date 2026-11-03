@@ -1,11 +1,11 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. No manufacturer manual exists for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAR",
+ "bpLabel": "Fieldstrip Best Practices — this guide follows the SKS field strip as documented in the United States Army’s own training circular for the SKS carbine (TC 9-56, 1969), the government manual for this rifle. It is not a manufacturer’s manual for this model. If you obtain a manual for your rifle from its maker or importer, follow it over this guide. Never take this firearm further apart than this guide goes.",
+ "bpClass": "pattern:sks",
  "bpTemplateVersion": 1,
  "row": "varioussurplussks",
  "make": "Various (surplus)",
  "model": "SKS",
- "cleanIntro": "No living maker publishes a manual for this model. Semi-auto rifles of this kind come apart in too many different ways for a general guide to say how yours does, so this one does not take it apart at all: it clears it, cleans the bore and everything you can reach with the action locked open, and looks it over. Done properly, that is a full routine clean.\n\nListed in Fieldstrip as 7.62x39. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "cleanIntro": "No living maker publishes a manual for this model — the makers were arsenals, and the arsenals are gone. But the rifle itself is the pattern, and the United States Army documented its field strip in TC 9-56, the government’s own training circular for the SKS. This guide follows it. SKS carbines were built in several countries and small details differ — the East German guns carry no tool case or cleaning rod, for one — so where yours differs from a step, work with what your rifle has.\n\nListed in Fieldstrip as 7.62x39. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
  "steps": [
   {
    "phase": "Clear",
@@ -16,68 +16,82 @@
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, action back and locked",
-   "action": "If the rifle takes a detachable magazine, take it out before you touch anything else. Pull the charging handle all the way back and lock the action open if your rifle holds open; if it does not, hold it back. Keep your hand and thumb out of the bolt's path the whole time — on some rifles the action can run forward on its own when the magazine follower is pressed.",
+   "title": "Clear the weapon — look and feel, twice",
+   "action": "Pull the operating handle fully rearward; on an empty magazine the bolt should catch open. Look into the chamber and down at the magazine follower, then put a fingertip to the chamber. If cartridges remain in the fixed magazine, open the magazine cover by its catch behind it and let them fall clear, then check chamber and magazine again. Do the whole check a second time, and keep your hand out of the bolt’s path when it closes.",
    "box": "none",
-   "prose": "If the magazine is fixed, work the action until nothing more comes out, then go on to the next step."
-  },
-  {
-   "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
-   "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact a qualified gunsmith with the gun pointed somewhere safe."
+   "quote": "Clear the weapon",
+   "cite": "TC 9-56, SKS Rifle, Simonov Type 56 — Training Circular 9-56 — Disassembly and Assembly, a.(1), p.5"
   },
   {
    "phase": "Strip",
-   "title": "No takedown — and that is deliberate",
-   "action": "Leave the rifle in one piece. Top covers, takedown pins, recoil springs, bolt carriers and gas systems all differ across rifles of this kind, and a guide that cannot see your rifle cannot honestly tell you which control does what. Everything in this clean is done with the action locked open.",
+   "title": "Tool case and cleaning rod off",
+   "action": "If yours carries them: press the cover in the butt plate to eject the combination tool case, then swing the cleaning rod’s head clear of the front sight base and draw the rod out forward. An East German Karabiner-S has neither — skip ahead.",
    "box": "none",
-   "prose": "⛔ No pin is pushed, no cover lifted and no screw turned. Anything beyond the outside and the open breech is work for a qualified gunsmith."
+   "quote": "pull the cleaning rod out of the rifle.",
+   "cite": "TC 9-56, SKS Rifle, Simonov Type 56 — Training Circular 9-56 — Disassembly and Assembly, a.(2), p.6"
   },
   {
-   "phase": "Clean",
-   "title": "The bore, from the muzzle or by pull-through",
-   "action": "Work from the muzzle with a cleaning rod and a rod guide so the rod never rubs the crown, or feed a pull-through cord in at the open chamber and draw it out of the muzzle. Brush wet with bore solvent, a few passes, then dry patches until they come out clean. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "phase": "Strip",
+   "title": "Receiver cover pin out, cover and driving spring off",
+   "action": "Rotate the receiver cover pin — the knob at the right rear of the receiver — up to vertical and pull it out to the right as far as it goes; it may need a firm pry to start turning. Slide the receiver cover off to the rear, then draw the driving spring assembly out of the bolt carrier. The TC’s assembly step names the pin geometry this undoes.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "quote": "Insure that the receiver cover pin is pulled fully out to the right, then slide the receiver cover into place from the rear.",
+   "cite": "TC 9-56, SKS Rifle, Simonov Type 56 — Training Circular 9-56 — Disassembly and Assembly, b.(4), p.8 — the assembly step for this same joint; removal is the motion reversed (the removal paragraph on p.6 does not extract cleanly from the scan)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Carrier and bolt out, then apart",
+   "action": "Pull the operating handle fully rearward and lift the bolt carrier and bolt up and out of the receiver, then separate the bolt from the carrier. Note how the bolt sat — extractor to the right front — because it goes back exactly that way.",
+   "box": "none",
+   "quote": "lift the bolt carrier and bolt out of the receiver. Separate the bolt from the bolt carrier.",
+   "cite": "TC 9-56, SKS Rifle, Simonov Type 56 — Training Circular 9-56 — Disassembly and Assembly, a.(4), p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gas tube up, piston out",
+   "action": "Rotate the gas cylinder tube lock up to its stop, lift the rear of the gas cylinder tube with its handguard, and the gas piston will slide out of it. Keep the piston with the tube.",
+   "box": "none",
+   "quote": "lift the rear of the gas cylinder tube",
+   "cite": "TC 9-56, SKS Rifle, Simonov Type 56 — Training Circular 9-56 — Disassembly and Assembly, a.(5), pp.6-7"
+  },
+  {
+   "phase": "Strip",
+   "title": "And that is where it stops",
+   "action": "The TC’s next step — dropping the trigger group — is marked \"if necessary\", and on a surplus rifle on a kitchen bench it is not necessary: that is a qualified gunsmith’s work. The book closes the strip in its own words below.",
+   "box": "limit",
+   "quote": "(7) No further disassembly is necessary or desirable.",
+   "cite": "TC 9-56, SKS Rifle, Simonov Type 56 — Training Circular 9-56 — Disassembly and Assembly, a.(7), p.7"
   },
   {
    "phase": "Clean",
-   "title": "The breech you can reach through the open action",
-   "action": "With the action locked open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach through the ejection port, using a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action: what runs inside cannot be wiped back out, and no oil goes in from the outside either.",
-   "box": "none"
-  },
-  {
-   "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
+   "title": "Bore, gas system and bolt",
+   "action": "Brush the bore wet with solvent from the muzzle with a rod guide — or a pull-through from the chamber — then dry patches until clean and a lightly oiled patch for storage. Corrosive-primed surplus ammunition is common in this calibre: if any might have been fired, flush the bore, the gas piston, the piston channel and the bolt face with hot water or a water-based solvent first, dry everything, then oil. Wipe the carrier, the bolt and the inside of the receiver; the piston and tube go back dry.",
    "box": "none"
   },
   {
    "phase": "Inspect",
    "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for a qualified gunsmith.",
+   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel, the gas tube and the stock for cracks, a pitted or stuck gas piston, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for a qualified gunsmith.",
    "box": "none",
    "prose": "Any one of these means the gun is not fired until a qualified gunsmith has seen it."
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Various (surplus) SKS, and this guide will not invent one. No living maker publishes a manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to a qualified gunsmith, not onto the bench.",
+ "deepAbsentReason": "There is no deep clean for the Various (surplus) SKS, and this guide will not invent one. No living maker publishes a manual for this model; the pattern source documents a field strip and nothing deeper for an owner. Anything that needs more than this guide goes to a qualified gunsmith, not onto the bench.",
  "cleaning": [
   {
    "name": "BORE",
    "tasks": [
-    "From the muzzle with a rod guide, or a pull-through from the open chamber",
-    "Brush wet with bore solvent, then dry patches until clean",
+    "From the muzzle with a rod guide, or a pull-through from the chamber",
+    "After possibly-corrosive surplus ammunition: hot water or water-based solvent FIRST, then dry, then oil",
     "A lightly oiled patch for storage; a dry patch before the next shot"
    ]
   },
   {
-   "name": "THE OPEN BREECH",
+   "name": "GAS SYSTEM & BOLT",
    "tasks": [
-    "Bolt face and chamber mouth wiped through the ejection port",
-    "Receiver wiped where a cloth reaches",
-    "⛔ No solvent or oil poured or sprayed into the action"
+    "Gas piston and tube wiped clean and put back DRY",
+    "Bolt face and carrier wiped",
+    "Receiver wiped out"
    ]
   },
   {
@@ -100,14 +114,15 @@
    {
     "g": 0,
     "steps": [
-     4
+     7
     ]
    },
    {
+    "s": 8
+   },
+   {
     "g": 1,
-    "steps": [
-     5
-    ]
+    "steps": []
    },
    {
     "g": 2,
@@ -115,18 +130,35 @@
    },
    {
     "g": 3,
-    "steps": [
-     6
-    ]
-   },
-   {
-    "s": 7
+    "steps": []
    }
   ]
  },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Close the action under control, with your hand and thumb out of the bolt's path."
+  {
+   "title": "Gas piston into its tube, tube locked down",
+   "action": "Slide the gas piston into the tube small end first, set the tube’s front over the gas cylinder, swing its rear into the rear sight base, and turn the lock back down.",
+   "quote": "Slide the gas piston, small end first, into the gas cylinder tube; fit the large end of the tube over the gas cylinder (fig 2 ).",
+   "section": "Disassembly and Assembly, b.(2), p.8"
+  },
+  {
+   "title": "Bolt into the receiver, carrier mated over it",
+   "action": "Bolt into the receiver with the extractor to the right front, its rear about three-eighths of an inch off the receiver’s rear wall; carrier laid on top, pressed down and worked gently until it mates, then both slid fully forward.",
+   "quote": "Place the bolt into the receiver, with the extractor to the right front, and position the rear of the bolt about three-eights of an inch from the inner rear wall of the receiver.",
+   "section": "Disassembly and Assembly, b.(3), p.8"
+  },
+  {
+   "title": "Driving spring in, stepped end first",
+   "action": "The driving spring assembly goes into the bolt carrier stepped end first.",
+   "quote": "stepped end first, into the bolt carrier.",
+   "section": "Disassembly and Assembly, b.(3), p.8"
+  },
+  {
+   "title": "Cover on, pin rotated down to lock",
+   "action": "Cover pin pulled fully out to the right, cover slid into place from the rear, pin pushed home and rotated down. Cleaning rod and tool case back where they live.",
+   "quote": "Secure it with the receiver cover pin and rotate the pin down to the locked position.",
+   "section": "Disassembly and Assembly, b.(4), p.8"
+  }
  ],
- "fncheck": "Magazine out and the chamber empty. Work the action: it runs fully back and returns fully forward, and it locks open on an empty magazine if the rifle holds open. Any safety or selector you can see moves through each of its positions. This check never asks you to pull the trigger."
+ "fncheck": "Chamber and magazine proven empty twice. Cycle the operating handle: the carrier runs fully back and returns fully to battery, and with the magazine empty and its follower up, the bolt catches open on the rearward stroke. The safety swings through its arc at the rear of the trigger guard. This check never asks you to press the trigger."
 }

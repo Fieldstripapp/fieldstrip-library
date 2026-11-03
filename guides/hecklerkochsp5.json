@@ -4,12 +4,12 @@
  "model": "SP5",
  "sourcedFrom": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL (2026)",
  "sourceSha256": "475eb998678fb5f88223f77ec36f4148071dfa1e6805c3b776df97dc4918da6a",
- "cleanIntro": "HK's civilian MP5: a 9x19 roller-delayed blowback with an 8.86 inch barrel, fluted chamber, paddle and button magazine releases, and ambidextrous safety levers. HK builds and documents it as a semi-automatic civilian sporting PISTOL — the SP prefix — though it lives among the rifles in this catalog. Nothing about its maintenance resembles an HK handgun: the strip is push-pins and assembly groups, the bolt is a two-piece roller-locked group with a rotating locking piece, and the chamber flutes mean some brass discoloration is the system working as designed.",
+ "cleanIntro": "HK's civilian MP5: a 9x19 roller-delayed blowback with an 8.86 inch barrel, fluted chamber, paddle and button magazine releases, and ambidextrous safety levers. HK builds and documents it as a semi-automatic civilian sporting PISTOL — the SP prefix. Nothing about its maintenance resembles an HK handgun: the strip is push-pins and assembly groups, the bolt is a two-piece roller-locked group with a rotating locking piece, and the chamber flutes mean some brass discoloration is the system working as designed.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "SP5, SP5K, SP5K-PDW — and the NFA line you must not cross",
-   "action": "The book covers the SP5 series: the full 8.86 inch SP5 and the short SP5K models. Before anything mechanical, absorb its one legal-configuration warning: adding an HK stock to a pistol with a barrel under 16 inches manufactures a short-barreled rifle under the NFA — and merely possessing the pistol together with the butt stock counts, registered in advance or unlawful. This spec covers cleaning and maintenance only; configuration is between you, the law, and nobody else.",
+   "title": "SP5, SP5K, SP5K-PDW — and HK's configuration warning",
+   "action": "The book covers the SP5 series: the full 8.86 inch SP5 and the short SP5K models. Before anything mechanical, read its one configuration warning, printed below in HK's own words: it is about the pistol and a stock. This guide covers cleaning and maintenance only.",
    "box": "none",
    "prose": "The warning is printed in the introduction, ahead of the safety rules — that placement is HK telling you which mistake it considers easiest to make with this gun.",
    "quote": "Even if the pistol is not assembled into the butt stock, possession of the pistol and the butt stock would constitute a short barrel rifle (SBR) which may not be lawfully possessed unless it is registered to the possessor in the National Firearms Registration and Transfer Record in advance.",
@@ -102,9 +102,9 @@
   {
    "phase": "Strip",
    "title": "Field strip complete — the end of recommended disassembly",
-   "action": "The book draws its line here in so many words: further disassembly, including the pistol grip and trigger mechanism, is not necessary and not recommended. Clean each time the gun is fired and at intervals of 1000 rounds, or whenever it has been through sand, dust or water — especially salt water.",
+   "action": "The book draws its line here in so many words: further disassembly, including the pistol grip and trigger mechanism, is not necessary and not recommended. Clean each time the gun is fired and at intervals of 1,000 rounds, or whenever it has been through sand, dust or water — especially salt water.",
    "box": "limit",
-   "prose": "Note the interval: 1000 rounds, not the 500-600 of HK's handgun books — the roller-delay system and fluted chamber shed fouling differently than a Browning-action pistol.",
+   "prose": "Note the interval: 1,000 rounds, not the 500–600 of HK's handgun books — the roller-delay system and fluted chamber shed fouling differently than a Browning-action pistol.",
    "quote": "End of recommended disassembly procedure Further disassembly, including disassembly of the pistol grip and the trigger mechanism is not necessary or recommended. For more information, please contact HK Customer Service.",
    "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 8 — DISASSEMBLY, p.26",
    "branch": true
@@ -142,7 +142,7 @@
    "phase": "Clean",
    "title": "⛔ Excessive force is a named hazard — and so is over-disassembly",
    "action": "Two of the book's own cleaning warnings: do not use excessive force when cleaning (it damages the gun), and only disassemble to the extent the manual describes, because improper assembly compromises the safety and functioning of the pistol. The trigger pack and grip stay closed.",
-   "box": "limit",
+   "box": "none",
    "prose": "Roller guns attract detail-strippers. The book's answer is structural: everything the owner needs to reach is reachable in the assembly-group strip above, and nothing past it is.",
    "quote": "WARNING! Risk of injury from improperly assembled SP5 Series pistol! Improper assembly can compromise the safety and functioning of the SP5 Series pistol. Only disassemble the pistol to the extent described in this manual.",
    "cite": "OPERATOR'S MANUAL — SP5 SERIES — May 2026 (imprint page); published as 5.12.2026 FINAL — Section 10 — CLEANING & MAINTENANCE, p.30"
@@ -194,18 +194,20 @@
   {
    "name": "INTERVALS",
    "tasks": [
-    "Clean each time the gun is fired and at intervals of 1000 rounds",
+    "Clean each time the gun is fired and at intervals of 1,000 rounds",
     "Thorough cleaning after any exposure to sand, dust or water — especially salt water",
     "No excessive force anywhere — it is a named hazard in this book"
    ]
   }
  ],
  "reassembly": [
-  "Assemble the bolt group: spring onto firing pin, both into the carrier; locking piece pressed in and turned anti-clockwise to its assembly position; bolt head on with the extractor up, turned counter-clockwise until the connecting piece snaps audibly into place.",
+  "SP5K, if the scope mount came off: place it against the receiver, depress both scope mount clamps at the same time and pivot it onto the receiver until the clamps click into place, then tighten its screws clockwise with the torque wrench set to 3 Nm and the TX15 Torx insert.",
+  "Assemble the bolt group: spring onto firing pin, both into the carrier; locking piece pressed in and turned counterclockwise to its assembly position; bolt head on with the extractor up, turned counterclockwise until the connecting piece snaps audibly into place.",
   "Place the handguard onto the receiver from below, press it rearward, and push its locking pin in from either side.",
   "Insert the bolt group and recoil spring into the receiver from the rear.",
   "Insert the pistol grip into the receiver and rotate it upward.",
   "Insert the back plate and push its locking pin(s) in — one pin on the SP5.",
+  "Magazine: HK says disassembly of magazines for maintenance is not necessary, and its book prints no steps for putting one back together. If you took one apart for major cleaning and have any problem reassembling it, contact HK Customer Service.",
   "Perform the function check."
  ],
  "fncheck": "After assembly, pull the cocking lever to the rear and release. On SAFE the trigger must be dead. On FIRE the hammer must fall. Hold the trigger to the rear, cycle the cocking lever, and release the trigger to confirm the reset. Repeat the cycle several times to make certain the pistol functions correctly — the book's own closing instruction — and confirm both selector levers move together and reach SAFE even uncocked."

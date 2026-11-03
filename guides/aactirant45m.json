@@ -4,14 +4,14 @@
  "model": "Ti-Rant 45M",
  "sourcedFrom": "TM-Ti-RANT® 45-M — TECHNICAL MANUAL FOR OPERATION AND MAINTENANCE OF SILENCER MODEL Ti-RANT 45-M — 610476 REV-12.16 (printed on the cover) (2016 (© 2016 ADVANCED ARMAMENT CORP. / © 2016 RA Brands, L.L.C.))",
  "sourceSha256": "c7e6f508bf8a8e3ddb1c0f7b54fb534ff65c3388fb6d60387af5defd00edb486",
- "cleanIntro": "The Ti-RANT 45-M is a user-serviceable modular pistol silencer: an aluminium baffle stack in a main tube body, a removable front module that turns it from a 7\" compact into a 9\" full-size can, and AAC's A.S.A.P. piston system (piston, driving spring and piston housing) threaded onto the rear. AAC's own manual takes it fully apart. The piston system comes out after every range visit, and the baffle stack every 750 dry rounds. ⛔ It is only ever worked on off the host. Never use sandpaper, emery cloth or an ultrasonic cleaner on any part, and clean the baffles only with a solvent that is safe on anodized aluminium.",
+ "cleanIntro": "The Ti-RANT 45-M is a user-serviceable modular pistol suppressor: an aluminium baffle stack in a main tube body, a removable front module that turns it from a 7\" compact into a 9\" full-size can, and AAC's A.S.A.P. piston system (piston, driving spring and piston housing) threaded onto the rear. AAC's own manual takes it fully apart. The piston system comes out after every range visit, and the baffle stack every 750 dry rounds. ⛔ It is only ever worked on off the host. Never use sandpaper, emery cloth or an ultrasonic cleaner on any part, and clean the baffles only with a solvent that is safe on anodized aluminium.",
  "steps": [
   {
    "phase": "Clear",
    "title": "Make the HOST firearm safe first: magazine out, empty, on SAFE",
-   "action": "Keep the host pointed in a safe direction. Remove the magazine, unload the firearm completely and put its safety on \"SAFE\", following the host's own manual. A silencer never goes on or comes off a gun you have not checked empty.",
+   "action": "Keep the host pointed in a safe direction. Remove the magazine, unload the firearm completely and put its safety on \"SAFE\", following the host's own manual. A suppressor never goes on or comes off a gun you have not checked empty.",
    "box": "none",
-   "prose": "This book covers the silencer, not the pistol or carbine it is on. The can has no action to clear, and for unloading the host AAC sends you to the host's own owner's manual.",
+   "prose": "This book covers the suppressor, not the pistol or carbine it is on. The can has no action to clear, and for unloading the host AAC sends you to the host's own owner's manual.",
    "quote": "2. Render the firearm safe by removing the magazine, completely unloading the firearm and engaging the safety to the \"SAFE\" position. See the firearm's owner's manual for detailed instructions.",
    "cite": "TM-Ti-RANT® 45-M — TECHNICAL MANUAL FOR OPERATION AND MAINTENANCE OF SILENCER MODEL Ti-RANT 45-M — 610476 REV-12.16 (printed on the cover) — Removing your Ti-RANT 45-M from a host firearm, step 2, P.5",
    "warn": "Never install or remove a silencer on or from a host firearm that you have not verified to be completely empty and rendered safe.",
@@ -20,7 +20,7 @@
   {
    "phase": "Clear",
    "title": "Let it cool to ambient before you touch it",
-   "action": "Check that the silencer has cooled to ambient temperature, and let it cool if it is hot. If it has to come off hot, wear heat-resistant gloves.",
+   "action": "Check that the suppressor has cooled to ambient temperature, and let it cool if it is hot. If it has to come off hot, wear heat-resistant gloves.",
    "box": "none",
    "prose": "A can that has just been shot is hot enough to burn a bare hand, and a hot one looks no different from a cold one.",
    "quote": "3. Verify the silencer is at ambient temperature. If the silencer is hot, allow it to cool.",
@@ -31,7 +31,7 @@
   {
    "phase": "Strip",
    "title": "Unscrew it off the muzzle: AGAINST the \"ON\" arrow on the piston",
-   "action": "Unscrew the silencer from the muzzle threads, turning it the opposite way to the \"ON\" arrow marked on the A.S.A.P. piston. Every piston is marked with its thread size and pitch and with that arrow, so read the arrow rather than assuming a direction.",
+   "action": "Unscrew the suppressor from the muzzle threads, turning it the opposite way to the \"ON\" arrow marked on the A.S.A.P. piston. Every piston is marked with its thread size and pitch and with that arrow, so read the arrow rather than assuming a direction.",
    "box": "none",
    "prose": "Some pistons carry an O-ring next to the threads that grips the muzzle to stop the can working loose, so expect some drag as it comes off.",
    "quote": "4. Carefully unscrew the silencer from the host firearm's muzzle threads in the opposite of the “ON” direction indicated on the piston.",
@@ -109,7 +109,7 @@
   {
    "phase": "Clean",
    "title": "Clean the interface at the rear of the can: index notches and stop-surfaces",
-   "action": "With a plastic bristle brush and solvent, clean the interface at the rear of the silencer, where the piston housing threads on. Make sure the piston index notches and the piston stop-surfaces at the front end of the interface are free of carbon.",
+   "action": "With a plastic bristle brush and solvent, clean the interface at the rear of the suppressor, where the piston housing threads on. Make sure the piston index notches and the piston stop-surfaces at the front end of the interface are free of carbon.",
    "box": "none",
    "prose": "The piston locates on these notches and stops against these surfaces. Carbon built up there changes where it sits.",
    "quote": "6. Using a plastic bristle brush and solvent, clean the interface in the rear of the silencer. See Figure 17. Insure the piston index notches and piston stop-surfaces located on the front end of the interface are free of carbon buildup.",
@@ -224,7 +224,7 @@
    "name": "OFF THE HOST, COLD",
    "tasks": [
     "Host firearm: magazine out, fully unloaded, on SAFE",
-    "Silencer at ambient temperature, or heat-resistant gloves on",
+    "Suppressor at ambient temperature, or heat-resistant gloves on",
     "Unscrewed against the \"ON\" arrow on the piston",
     "Never configured, stripped or cleaned while mounted"
    ]
@@ -243,7 +243,7 @@
   {
    "name": "REAR INTERFACE",
    "tasks": [
-    "Interface at the rear of the silencer brushed with solvent",
+    "Interface at the rear of the suppressor brushed with solvent",
     "Piston index notches and stop-surfaces free of carbon"
    ]
   },
@@ -295,5 +295,5 @@
   "A.S.A.P. system: driving spring into the bore of the piston housing, piston into the housing, and the housing threaded onto the exposed threads at the rear of the interface on the main tube body.",
   "⛔ Never fire it with an incorrectly assembled baffle core."
  ],
- "fncheck": "With the host unloaded and on SAFE and the can cold: check the muzzle threads and the threads inside the rear of the A.S.A.P. piston are clean and undamaged. Look through the silencer from the rear to confirm the bullet path is clear. Screw it on by hand in the \"ON\" direction marked on the piston, tight enough to stay put while firing, and recheck that it is tight (with heat-resistant gloves if it is hot), because keeping it secure is the user's job. ⛔ Fire standard-pressure ammunition only, never +P. Subsonic 300 AAC Blackout goes through it only with AAC's 5/8 x 24 adapter, and supersonic rifle ammunition never. Shot wet, it takes no more than 5cc of water."
+ "fncheck": "With the host unloaded and on SAFE and the can cold: check the muzzle threads and the threads inside the rear of the A.S.A.P. piston are clean and undamaged. Look through the suppressor from the rear to confirm the bullet path is clear. Screw it on by hand in the \"ON\" direction marked on the piston, tight enough to stay put while firing, and recheck that it is tight (with heat-resistant gloves if it is hot), because keeping it secure is the user's job. ⛔ Fire standard-pressure ammunition only, never +P. Subsonic 300 AAC Blackout goes through it only with AAC's 5/8 x 24 adapter, and supersonic rifle ammunition never. Shot wet, it takes no more than 5cc of water."
 }

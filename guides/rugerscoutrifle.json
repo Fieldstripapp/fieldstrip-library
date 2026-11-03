@@ -1,0 +1,222 @@
+{
+ "row": "rugerscoutrifle",
+ "make": "Ruger",
+ "model": "Scout Rifle",
+ "sourcedFrom": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 (2023)",
+ "sourceSha256": "97ee8631a777a8fb4edcfd802da94da2fcc1936a94d0c62a6984241f5c19cebb",
+ "cleanIntro": "The Scout is a detachable-box-magazine bolt rifle with a three-position safety, and Ruger's own Scout manual sets the routine clean at the bolt and the magazine out, nothing more. Deep Clean follows the same book further: the firing pin assembly out of the bolt (never apart), the stock off by two screws and a cross bolt, then the trigger, sear and safety, and the magazine.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Muzzle safe, safety in LOAD-UNLOAD",
+   "action": "Point the rifle in a safe direction and keep your fingers outside the trigger guard. Move the three-position safety to the middle \"Load-Unload\" position. That is the position that lets the bolt be cycled to unload a live round; in \"Safe\" (full rearward) the bolt handle is locked down and cannot be raised.",
+   "box": "none",
+   "prose": "The selector can only leave \"Fire\" when the firing pin is cocked, and fully raising the bolt handle cocks it. If the selector will not move, that is why, not a fault. Never have a finger in the guard while you work the selector.",
+   "quote": "Keep the rifle pointed in a safe direction! See Figure 8. Put the safety in the “Load-Unload” position.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 1, p.22"
+  },
+  {
+   "phase": "Clear",
+   "title": "Bolt handle fully up, then fully back; check the chamber",
+   "action": "Lift the bolt handle all the way, then pull the bolt completely to the rear to eject any chambered cartridge. Then look into the chamber and make certain it is empty.",
+   "box": "none",
+   "prose": "Fully up before you pull: a half-raised handle drags the extractor and can leave a round loose in the receiver. Ruger prints the chamber check in capitals because it is the step people skip when they are sure.",
+   "quote": "Lift the bolt handle fully and then pull it completely to the rear to eject",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 2, p.22",
+   "warn": "3. CHECK TO BE CERTAIN THAT THE CHAMBER IS EMPTY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, and a chambered round can still fire",
+   "action": "Remove the magazine: push and hold the magazine latch at the rear of the magazine well forward as you pull the magazine out. Do not let it drop to the ground. Then confirm the magazine itself is empty.",
+   "box": "none",
+   "prose": "Ruger puts the reason in the same step: taking the magazine out does nothing about a cartridge in the chamber. Magazine out is not the same as unloaded, which is why the chamber check comes first.",
+   "quote": "4. Remove the magazine. REMEMBER that even though the magazine has been removed, a cartridge remaining in the chamber can still be fired!",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 4, p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out: pull back and pivot the bolt stop open together",
+   "action": "With the safety still in \"Load-Unload\", open the bolt and pull it to the rear while at the same time pivoting open the bolt stop. On a right-handed rifle the bolt stop is on the left side of the receiver; on a left-handed rifle it is on the right. The bolt then slides out of the back of the receiver.",
+   "box": "none",
+   "prose": "Both motions at once. The bolt will not pass a closed stop, and forcing it only marks the stop. Ruger's nomenclature page says the same: the bolt stop lets the bolt be withdrawn simply by pulling it out.",
+   "quote": "5. To remove the bolt: Open bolt and pull to the rear while at the same time pivoting open the bolt stop which is located on the left side of the receiver on the righthanded version",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 5, p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Bolt and magazine are out, and the receiver, barrel and stock stay together. Ruger's own words: this is as far as you need to take the rifle down for a routine cleaning, and it is rarely necessary to go further. Deep Clean covers what the manual documents past this point.",
+   "box": "none",
+   "prose": "Most Scout owners will never need more than this. The deeper strip is there for a rifle that has been soaked, stored, or is being inspected, and it is worth reading the cautions before you start it.",
+   "quote": "This is as far as you need to dismantle the rifle for a routine cleaning. It is rarely necessary to proceed further.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 5, p.23",
+   "branch": true
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Sling, scope and rings off first, and no substitute springs",
+   "action": "Before going further, take off the sling, the scope and the scope rings. Work over a covered bench, with a box for each part as it comes out. If a spring or plunger is lost, do not substitute another one.",
+   "box": "none",
+   "prose": "Ruger suggests a shallow-nap rug or an old coarse blanket: it stops the rifle sliding and catches pins, plungers and springs that would otherwise be gone. The safety selector, bolt stop and trigger are all under spring tension, so expect them to jump.",
+   "quote": "Before starting disassembly, remove the sling, scope and scope rings.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, warning, p.22",
+   "warn": "If a spring or plunger become lost do not use a substitute. Springs of correct tension are vital to the safe and reliable performance of firearms.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Firing pin assembly out of the bolt, never apart",
+   "action": "With the bolt out of the rifle and the firing pin cocked, put a pin or nail into the \"disassembly hole\" in the cocking piece. Then unscrew the firing pin assembly and take it out of the bolt. Leave the pin in the hole until the assembly is back in the bolt.",
+   "box": "none",
+   "prose": "The pin or nail should be close to the hole's diameter and at least 2 inches long, because you will use it as a lever to draw the firing pin back on reassembly. The assembly itself stays whole: it is meant to be permanent, it is under great spring pressure, and it needs special tools to rebuild.",
+   "quote": "6. To remove firing pin assembly from bolt: With bolt out of the rifle and firing pin cocked, insert a pin or nail into the “disassembly hole” in the cocking piece.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 6, p.23",
+   "warn": "CAUTION: The firing pin assembly is intended to be a permanent assembly and should not be disassembled. The parts are under great spring pressure and if disassembled could fly apart with sufficient force to cause serious injury.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Stock off: the front mounting lug screw and the trigger guard screw",
+   "action": "Loosen and remove the screw that holds the front mounting lug. Then loosen and remove the screw that holds the trigger guard/magazine well.",
+   "box": "none",
+   "prose": "The front screw is angled, and on reassembly it is the one that draws the barrel-action down into the stock's bedding, so note where it sits. Both screws get specific torques going back in.",
+   "quote": "a. Loosen and remove the screw that holds the front mounting lug.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 7a, p.23"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "The cross bolt behind the magazine well, then the trigger guard",
+   "action": "Loosen and remove the cross bolt that runs through the stock at the rear of the magazine well. Then remove the trigger guard/magazine well.",
+   "box": "none",
+   "prose": "This is the fastener people miss, because a floorplate rifle has nothing like it. The trigger guard will not come free while the cross bolt is still in.",
+   "quote": "c. Loosen and remove the cross bolt that runs through the stock at the rear of the magazine well.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 7c, p.24"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Barrel and receiver out of the stock level",
+   "action": "Lift the barrel out of the stock very carefully, lifting the receiver at the same time, so the barrel and receiver come out of the stock level and not at an angle.",
+   "box": "none",
+   "prose": "Tipping it out at an angle levers the action against the bedding. Ruger's own accuracy advice is to never alter the stock bedding, and a careful level lift is how it stays as it left the factory.",
+   "quote": "Lift the receiver at the same time as the barrel is lifted so that the barrel-receiver comes out of the stock level and not at an angle.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 7, p.24"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Trigger out: safety to FIRE, hold the trigger, press out its pin",
+   "action": "With the barrel-receiver out of the stock, put the safety selector in the \"Fire\" position. Hold the trigger in place and press out the trigger pivot pin. The trigger is spring loaded, so keep hold of it.",
+   "box": "none",
+   "prose": "The trigger/sear spring sits between a dimple in the trigger and a dimple on the sear. Note how it sits before it moves; that is how it goes back.",
+   "quote": "8. To remove the trigger: (Safety selector should be in the “Fire” position.) While holding the trigger in place, press out the trigger pivot pin.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 8, p.25",
+   "warn": "(Caution: Trigger is spring loaded.)",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Sear out: press out its pin, turn the receiver over",
+   "action": "Press out the sear pivot pin. Then turn the receiver upside down and slide the sear forward; it drops out of the top slot in the receiver.",
+   "box": "none",
+   "prose": "The sear comes out through the top, which is the opposite of what most people expect. Do not pry it downward.",
+   "quote": "Turn receiver upside down and slide sear forward. Sear will drop out of the top slot in the receiver.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 9, p.25"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Safety assembly: hold the selector, slide the retainer up",
+   "action": "Rotate the safety selector so its upper section sits fully over the centre of the receiver tang. Hold the selector in place with thumb and forefinger and slide the retainer up out of the receiver. Lift out the selector, then the safety selector detent and its spring.",
+   "box": "none",
+   "prose": "A spring and plunger push against the lower section of the selector the whole time. Keep your thumb on it, or the plunger is somewhere under the bench and Ruger says not to substitute it.",
+   "quote": "b. While holding the safety selector in place with thumb and forefinger, slide the retainer up out of receiver.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Disassembly, step 10, p.25",
+   "warn": "The spring and plunger will jump out if not contained.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Magazine: tap the bottom cover forward past its detent",
+   "action": "With the magazine empty, slide the bottom cover toward the front of the magazine. The magazine spring is compressed under the cover, and you will need a plastic mallet to tap the cover forward past the detent bump near the front.",
+   "box": "none",
+   "prose": "Keep the cover under control as it clears the detent, because the spring is pushing it. Ruger's test for when this is needed: load one cartridge, press it down, let go, and it should snap up to the feeding position. If it does not, the magazine needs cleaning.",
+   "quote": "The magazine may be disassembled by sliding the bottom cover toward the front of the magazine.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Magazine Inspection and Care, p.28",
+   "warn": "CAUTION! The magazine spring is compressed underneath the bottom cover.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Spring and follower out; leave the spring on the follower",
+   "action": "With the bottom cover off, take the magazine spring and follower out of the magazine. That completes the magazine's disassembly; the spring does not need to come off the follower. Soak the shell in a solvent that will not rust the metal or harm the plastic parts, shake it out with the top opening pointed away from you, and wipe the shell and follower with a cotton cloth.",
+   "box": "none",
+   "prose": "If cleaning does not bring the spring tension back, Ruger's instruction is to stop using that magazine, not to stretch or swap the spring.",
+   "quote": "With the bottom cover removed, the magazine spring and follower may be removed from the magazine, completing its disassembly.",
+   "cite": "INSTRUCTION MANUAL FOR RUGER® bolt-action scout rifle (PM280) — PM280 — Magazine Inspection and Care, p.28"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE AND CHAMBER",
+   "tasks": [
+    "⛔ Rifle and magazine confirmed unloaded before any cleaning",
+    "Insert the rod from the chamber end and push so the patch or brush comes out of the muzzle",
+    "Push-pull a solvent-wetted patch through the bore several times",
+    "Run a solvent-wetted brush the full length of the bore as many times as it takes to clear the bore and chamber",
+    "Dry the bore with clean patches and look at it; brush again if it is still fouled",
+    "Finish with dry patches through the bore and chamber",
+    "Do not reverse the rod while a brush or patch is in the bore; use the correct size, not larger"
+   ]
+  },
+  {
+   "name": "RECEIVER AND BOLT",
+   "tasks": [
+    "Clean solvent-wetted patch over every reachable surface inside the receiver",
+    "Solvent-wetted toothbrush on caked dirt on the bolt assembly and inside the receiver",
+    "Clear grease and dirt from the bolt face, under the extractor and in the chamber",
+    "Remove the solvent with patches or a cloth"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Check the follower moves freely and the spring lifts a cartridge straight to the feeding position",
+    "Clean with a solvent that will not rust the metal or damage the plastic parts",
+    "Do not use a damaged, non-standard or non-Ruger magazine"
+   ]
+  },
+  {
+   "name": "OIL AND STOCK",
+   "tasks": [
+    "A very light coat of oil on all surfaces, inside and out; oil collects dirt",
+    "A drop of oil on the bolt assembly parts, the trigger pivot points, the safety, the bolt stop and the magazine latch",
+    "Wipe all solvent, lubricant and preservative off the stock on reassembly",
+    "Do not use solvents containing acetone near the stock; they can damage its finish",
+    "⛔ Nothing left in the bore: oil, grease or a patch in the bore can damage the rifle and injure the shooter",
+    "Stainless rifles: wipe external surfaces dry after handling or exposure; stainless resists rust, it is not immune"
+   ]
+  },
+  {
+   "name": "LEAVE ALONE",
+   "tasks": [
+    "⛔ Firing pin assembly out of the bolt only, never taken apart",
+    "⛔ No substitute springs or plungers",
+    "Do not alter the stock bedding in any way"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Safety assembly: detent and detent spring into the hole in the receiver, selector in place with its upper section over the centre of the tang, then hold it down and slide the retainer into its dovetail from the top, with the retainer's notch lined up with the sear pivot pin hole.",
+  "Sear: rear end (the end with the hole) into the slot from the top of the receiver, swing the rear up and slide it into position until its hole lines up with the receiver holes, then insert the sear pivot pin.",
+  "Trigger: trigger/sear spring over the dimple in the trigger, trigger in with the spring aligned to the dimple on the sear, and the trigger pivot pin back in while you hold the trigger in position.",
+  "Stock: barrel-action assembly into the stock, trigger guard/magazine well into the stock, and the cross bolt installed and tightened through the stock behind the magazine well.",
+  "Screw at the rear of the trigger guard in loosely. Then the front mounting lug, with the angled front mounting screw tightened firmly to 90 in-lbs, which draws the barrel-action into the bedding. Then the rear trigger guard screw tightened to 10 in-lbs.",
+  "Firing pin assembly: screw it fully into the bolt until the flat on the bottom right of the bolt sleeve lines up with the flat on the bottom of the bolt handle. Use the restraining pin as a lever if the cocking piece nose needs drawing back into its notch, and only then remove the pin.",
+  "Bolt: handle up, bolt head away from you, extractor lined up with the right-hand locking lug (left-hand on a left-handed rifle); align the lugs with the channels at the rear of the receiver, insert, and push the bolt fully forward.",
+  "Magazine: follower and spring into the bottom of the shell the right way round, compress the spring and slide the bottom cover on from the front toward the rear, tapping it past its detent with a plastic mallet until it seats fully.",
+  "⛔ Bore checked clear of patches, oil and grease before any live round."
+ ],
+ "fncheck": "With no ammunition in the chamber or the magazine and the rifle pointed in a safe direction: magazine out, cycle the bolt a few times and confirm it runs smoothly. Close the bolt, safety in \"Fire\", pull the trigger and listen for the firing pin click; repeat twice more. Cycle the bolt closed again and check the safety: in \"Safe\" (rearmost) the trigger gives no click and the bolt handle will not lift; in \"Load-Unload\" (middle) the trigger gives no click but the bolt cycles; in \"Fire\" (forward) the trigger clicks and the bolt cycles. Press the magazine follower down with a small tool and confirm it springs back to the top. With the bolt open, insert the magazine until the latch clicks and confirm it does not slide out. If any check fails, do not use the rifle until a gunsmith or Ruger Customer Service has inspected it."
+}

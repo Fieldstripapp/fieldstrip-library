@@ -4,14 +4,14 @@
  "model": "MCX Rattler",
  "sourcedFrom": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 (UNKNOWN — not printed in the document)",
  "sourceSha256": "433c5aee048981434d0cb905b17c58a83a79131ee36d54ca32cfcd303328239f",
- "cleanIntro": "This guide follows SIG Sauer's MCX Operator's Manual (P/N 2400509-01), which does not name the MCX Rattler, so check your variant against it. SIG prints one standard MCX book and it never uses the word \"Rattler\"; every step below is quoted from that book and stated as generally as the book states it.\n\nSIG's own user-level strip for the SIG MCX, in SIG's order and no further. The MCX is not an AR despite the family resemblance: it runs a short-stroke gas piston with an op rod that comes out of the LEFT side of the bolt carrier, the carriage assembly pulls out as one unit by its recoil spring plate rather than riding a buffer tube, and the receivers separate at BOTH pins. The book stops the user at fourteen steps and says so in plain words. Everything past that — the gas valve, handguard and barrel — is published here too and is treated as the deep clean.",
+ "cleanIntro": "SIG's own user-level strip for the SIG MCX, in SIG's order and no further. The MCX is not an AR despite the family resemblance: it runs a short-stroke gas piston with an op rod that comes out of the LEFT side of the bolt carrier, the carriage assembly pulls out as one unit by its recoil spring plate rather than riding a buffer tube, and the receivers separate at BOTH pins. The book stops the user at fourteen steps and says so in plain words. Everything past that — the gas valve, handguard and barrel — is published here too and is treated as the deep clean.",
  "steps": [
   {
    "phase": "Clear",
    "title": "Know what you are holding",
    "action": "This guide follows SIG Sauer's MCX Operator's Manual (P/N 2400509-01), which does not name the MCX Rattler, so check your variant against it. Every step below is quoted from that book and stated as generally as the book states it; where the book's text is specific to one configuration, it is not used here.",
    "box": "none",
-   "prose": "SIG's MCX book speaks of the SIG MCX series as a whole and never prints the word Rattler; its own statement of what it covers is quoted here. Two SIG rifles close to yours are covered by a separate manual, not this one: the MCX VIRTUS has its own book under a different part number (2402117-01), and the later Rattler LT is covered by SIG's MCX-SPEAR LT manual. If your rifle is either of those, stop and use that book.",
+   "prose": "Two SIG rifles close to yours are covered by a separate manual, not this one: the MCX VIRTUS has its own book under a different part number (2402117-01), and the later Rattler LT is covered by SIG's MCX-SPEAR LT manual. If your rifle is either of those, stop and use that book.",
    "quote": "This manual is intended to provide the user with the information necessary to safely operate and perform authorized preventative maintenance at the user level on the SIG MCX series of rifles.",
    "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — Operator's Manual for the SIG MCX — scope statement, p.8"
   },
@@ -195,6 +195,34 @@
    "caution": "Note: The carriage assembly must be removed prior to attempting barrel removal.",
    "quote": "Pull the barrel straight out of the upper receiver. Do not wiggle it back and forth as this can damage the upper receiver.",
    "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1.4 Barrel Removal/Re-assembly, step 3, p.63"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean what came off — every mating surface",
+   "action": "Before anything goes back, clean what the Deep Clean took off. SIG's barrel instruction starts here: every mating surface clean — the barrel extension and its flange, the barrel clamps, and the inside of the upper where the barrel seats. While the piston and the gas valve are out, wipe the carbon off them with CLP; SIG's book prints no step of its own for them.",
+   "box": "none",
+   "prose": "Use only products made for firearms, and keep wire brushes off the aluminum upper and lower.",
+   "quote": "Ensure all mating surfaces are clean.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1.5 Barrel Installation, step 1, p.64",
+   "warn": "DO NOT USE WIRE BRUSHES ON ALUMINUM SURFACES SUCH AS THE UPPER/LOWER RECEIVERS AS THIS CAN SCRATCH THE FINISH.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Check the barrel index pins",
+   "action": "Look at the two index pins on the barrel. A damaged or loose pin is how a barrel goes back in out of line — if either one is, stop and have the rifle seen to.",
+   "box": "limit",
+   "quote": "Check the barrel index pins for damage/looseness.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1.5 Barrel Installation, step 2, p.64"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Barrel back in — index pins engaged, both screws to 60 inch pounds",
+   "action": "Slide the barrel back into the upper with both index pins engaged. Start screw #1 with the T27 Torx wrench and go back and forth between the two screws with even pressure until the clamps are snug. Then torque screw #1 to 60 inch pounds, screw #2 to 60, and screw #1 to 60 once more.",
+   "box": "limit",
+   "prose": "The carriage assembly goes back in after this, in the reassembly that follows.",
+   "quote": "Tighten screw #1, to 60 inch pounds with a torque wrench. Then tighten screw #2 to 60 inch pounds. Final step is to re-tighten screw #1 to 60 inch pounds.",
+   "cite": "OWNERS MANUAL: HANDLING & SAFETY INSTRUCTIONS\nSIG MCX\n® — P/N 2400509-01 REV04 — 4.1.5 Barrel Installation, step 5, p.64"
   }
  ],
  "cleaning": [
@@ -202,35 +230,33 @@
    "name": "BORE AND CHAMBER",
    "tasks": [
     "Suppressor OFF before any patch enters the bore",
-    "Rod assembled to length with the jag; dropped female end first through the bore from the chamber end",
-    "CLP or rifle bore cleaner on the patch, pulled slowly toward the muzzle",
-    "Let the CLP stand in the barrel to loosen fouling",
-    "Bore brush pulled through several times, then a wet patch to carry off what it loosened",
-    "Fresh patches pulled until they come out clean",
-    "Chamber brush on the rod handle with a rod section through it as a T-handle; muzzle elevated so solvent does not run back into the clean bore",
-    "Plunging strokes and full 360 degree rotations in the barrel extension to reach the locking lug area"
+    "Rod in from the chamber end, female end first",
+    "CLP-wet patch pulled toward the muzzle; let the CLP stand",
+    "Bore brush through, then patches until they come out clean",
+    "Chamber brush with the T-handle, muzzle elevated",
+    "Locking-lug area: plunging strokes and full rotations"
    ]
   },
   {
    "name": "CARRIAGE ASSEMBLY",
    "tasks": [
-    "Bolt body with solvent; carbon off the bolt lugs",
+    "Bolt body and lugs de-carboned",
     "Extractor hook",
-    "Recoil spring rods and recoil springs",
-    "Op rod, with attention to residue on the dogleg that engages the bolt carrier",
-    "Cam pin, and the op rod interface of the carrier",
-    "Firing pin spring; firing pin wiped down and the carbon cleaned from under its large flange",
-    "Bolt carrier body wiped down; bolt channel cleared of carbon"
+    "Recoil springs and rods",
+    "Op rod — the dogleg especially",
+    "Cam pin, and the carrier's op rod interface",
+    "Firing pin and spring; carbon out from under the pin's flange",
+    "Carrier wiped down; bolt channel clear"
    ]
   },
   {
    "name": "RECEIVERS AND CONTROLS",
    "tasks": [
-    "No wire brushes on the aluminum upper or lower — it scratches the finish",
+    "No wire brushes on the aluminum",
     "Upper receiver channel cleaned and lubricated",
     "Charging handle",
-    "Fire control selector, pivot and takedown pin detent channels, fire control components lightly lubricated with CLP",
-    "Sights: front and rear folded down, a few drops of CLP in the detent; under the front sight post base; rear sight windage screw threads"
+    "Selector, detent channels and fire controls — light CLP",
+    "Sights: detents, front post base, windage screw threads"
    ]
   }
  ],

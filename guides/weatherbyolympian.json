@@ -1,0 +1,138 @@
+{
+ "row": "weatherbyolympian",
+ "make": "Weatherby",
+ "model": "Olympian",
+ "sourcedFrom": "Weatherby OLYMPIAN over/under shotgun instruction manual — UNKNOWN — no revision or document number is printed (1980 — copyright line on p.8)",
+ "sourceSha256": "8664428e9a97a34d61e64356d291a40a71ecf980ea47ee7d3ab6fe0ee649f222",
+ "cleanIntro": "The Olympian is Weatherby's box-lock over/under. The safety and barrel selector share one lever on the top tang, and a top lever opens the breech.\n\nWeatherby's strip is two moves: the forearm comes off first by its release latch on the underside, then the top lever goes to the right and the barrels pivot down off the hinge pin. The book goes no further than that.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety on: tang lever rearward, S showing",
+   "action": "Point the gun somewhere safe and keep your finger off the trigger. Push the safety/barrel selector on the top tang rearward until the S shows. Pushed forward it covers the S and the gun is off safe.",
+   "box": "none",
+   "quote": "Push the lever rearward for \"SAFE\" and an \"S\" will apear.",
+   "cite": "Weatherby OLYMPIAN over/under shotgun instruction manual — UNKNOWN — no revision or document number is printed — OPERATING INSTRUCTIONS, Safety/Barrel Selector, p.4"
+  },
+  {
+   "phase": "Clear",
+   "title": "Open it and prove both chambers clear",
+   "action": "Move the top lever to the right and push the barrels down to open the breech. Look into both chambers and feel them. Weatherby's disassembly starts here: nothing comes apart until both chambers are clear.",
+   "box": "none",
+   "quote": "First check to make sure that the chambers are clear!",
+   "cite": "Weatherby OLYMPIAN over/under shotgun instruction manual — UNKNOWN — no revision or document number is printed — DIRECTIONS FOR DISASSEMBLY, p.3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forearm off: butt on your thigh, latch pulled, front pivoted away",
+   "action": "Close the gun. Rest the butt of the stock on your thigh with the trigger guard up and cradle the barrels in one hand. Pull the forearm release latch on the underside of the forearm and pivot the forearm away from the barrels.",
+   "box": "none",
+   "quote": "Rest the stock butt on the thigh with the trigger guard up and while cradling the barrels in one hand, pull the forearm release latch and pivot",
+   "cite": "Weatherby OLYMPIAN over/under shotgun instruction manual — UNKNOWN — no revision or document number is printed — DIRECTIONS FOR DISASSEMBLY, p.3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stock at the pistol grip, butt under your arm",
+   "action": "Take the stock by the pistol grip and tuck the butt under your arm against your body. Hold the barrels in your other hand. With the forearm off, the barrels are held only by the lock, so they need that hand before the lever moves.",
+   "box": "none",
+   "quote": "grasp the stock at the pistol grip and place the butt section under your arm against your body.",
+   "cite": "Weatherby OLYMPIAN over/under shotgun instruction manual — UNKNOWN — no revision or document number is printed — DIRECTIONS FOR DISASSEMBLY, p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "Top lever right, barrels down until they come off the receiver",
+   "action": "Push the top lever to the right and pivot the barrels down until they come free of the receiver. Lift them off the hinge pin at the front of the receiver.",
+   "box": "none",
+   "quote": "Push the top lever to the right (Fig. 6) and pivot the barrels down until they disengage from the receiver.",
+   "cite": "Weatherby OLYMPIAN over/under shotgun instruction manual — UNKNOWN — no revision or document number is printed — DIRECTIONS FOR DISASSEMBLY, p.4"
+  },
+  {
+   "phase": "Strip",
+   "title": "For storage: the forearm can go back on the barrels",
+   "action": "If the gun is going into storage taken down, you can put the forearm back on the barrels. Set the rear of the forearm where it sits for assembly, pivot it toward the barrels until it locks, and snap the release lever closed.",
+   "box": "none",
+   "quote": "For storage, the forearm may be reattached to the barrels when disassembled.",
+   "cite": "Weatherby OLYMPIAN over/under shotgun instruction manual — UNKNOWN — no revision or document number is printed — DIRECTIONS FOR DISASSEMBLY, p.4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean the bores; a light coat of oil on the metal",
+   "action": "Clean the bore of each barrel with good cleaning equipment. Then give all the metal surfaces a light coat of oil.",
+   "box": "none",
+   "quote": "Periodically clean the bore with good cleaning equipment and oil all metal surfaces with a light coat of oil.",
+   "cite": "Weatherby OLYMPIAN over/under shotgun instruction manual — UNKNOWN — no revision or document number is printed — ADDITIONAL INFORMATION AND SUGGESTIONS, Cleaning, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Breech faces clean and lightly oiled; no oil poured into the receiver",
+   "action": "Never pour oil into the receiver. The mating surfaces of the breech block and receiver need to be especially clean and only lightly oiled, because they decide how well the gun fits and locks.",
+   "box": "limit",
+   "quote": "Never pour oil into the receiver. Make sure that the mating surfaces of the breech block and receiver are especially clean and lightly oiled for proper fit and locking.",
+   "cite": "Weatherby OLYMPIAN over/under shotgun instruction manual — UNKNOWN — no revision or document number is printed — ADDITIONAL INFORMATION AND SUGGESTIONS, Cleaning, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "If the gun is dry: a drop or two of oil on the lugs",
+   "action": "Before you put it back together, if the gun is dry, put one or two drops of gun oil in the lug recess of the forward barrel lug, on all sides of both barrel lugs, and at the end of the forearm bracket.",
+   "box": "none",
+   "quote": "put one or two drops of gun oil on (A) lug recess of the forward",
+   "cite": "Weatherby OLYMPIAN over/under shotgun instruction manual — UNKNOWN — no revision or document number is printed — DIRECTIONS FOR ASSEMBLY, p.2"
+  }
+ ],
+ "deepAbsentReason": "Weatherby's Olympian book takes the gun down to forearm and barrels off (its disassembly directions, pages 3 and 4) and publishes nothing deeper. No deeper path is invented.",
+ "cleaning": [
+  {
+   "name": "BORES AND METAL",
+   "tasks": [
+    "Bore of each barrel cleaned with good cleaning equipment",
+    "All metal surfaces given a light coat of oil"
+   ]
+  },
+  {
+   "name": "BREECH BLOCK AND RECEIVER",
+   "tasks": [
+    "Mating surfaces of the breech block and receiver especially clean",
+    "Those surfaces lightly oiled for proper fit and locking",
+    "Never pour oil into the receiver"
+   ]
+  },
+  {
+   "name": "LUGS AND FOREARM BRACKET",
+   "tasks": [
+    "If dry: one or two drops of gun oil in the lug recess of the forward barrel lug",
+    "All sides of both barrel lugs",
+    "The end of the forearm bracket"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     6
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     7
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     8
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "No shells or obstructions in the barrels; every part free of dirt and excess oil.",
+  "Receiver by the pistol grip, butt tucked between your body and arm just above the waist; barrels in the other hand above the forearm lug.",
+  "Hook the barrel lug recess over the hinge pin at the front of the receiver, then lift the rear of the barrels sharply into the receiver.",
+  "It is a precision fit: if you feel binding, stop and start again. Locked, the top lever moves back to centre on its own.",
+  "Butt on your thigh, trigger guard up: engage the rear of the forearm at the front of the receiver, pivot it into place and snap the release closed."
+ ],
+ "fncheck": "Prove both chambers empty by eye and by finger. Open and close the gun a few times: open, the top lever stays to the right; closing it should bring the top lever back to centre. If the top lever does not return to centre, the barrels are not locked and the gun must not be fired. Safety lever rearward with the S showing, then forward to cover it. With the safety on SAFE, the selector goes left for the over barrel (O shows) and right for the under barrel (U shows)."
+}

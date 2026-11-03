@@ -1,8 +1,251 @@
 {
  "_doc": "Everything a client holding version 31 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 31,
- "to": 32,
+ "to": 33,
  "rows": [
+  {
+   "id": "wbpjack",
+   "maker": "WBP",
+   "model": "Jack",
+   "chambering": "7.62x39",
+   "category": "AK-pattern rifle",
+   "family": "AK",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [
+    "7.62x39"
+   ],
+   "guide": true,
+   "guideId": "wbpjack",
+   "guideSha256": "cec222c8f8396c863f24078ff4a71d6cf1cd64386904e920a0f78646380517f8",
+   "bestPractices": true
+  },
+  {
+   "id": "greyghostcombatpistol",
+   "maker": "Grey Ghost Precision",
+   "model": "Combat Pistol",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "GLOCK",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "greyghostcombatpistol",
+   "guideSha256": "08cca90a080d0b9e4a247ba39cce61727ba4c190cc7f954026fd646f50ff37b6",
+   "bestPractices": true
+  },
+  {
+   "id": "faxonfx19patriot",
+   "maker": "Faxon Firearms",
+   "model": "FX-19 Patriot",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "GLOCK",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "faxonfx19patriot",
+   "guideSha256": "3f144ce6163a61d6a9f23e65bbc11b1296ad60a13a20d313cac8336dd7f98562"
+  },
+  {
+   "id": "feinwerkbauaw93",
+   "maker": "Feinwerkbau",
+   "model": "AW93",
+   "chambering": ".22 LR",
+   "category": "Match pistol",
+   "family": "MATCH-PISTOL",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "feinwerkbauaw93",
+   "guideSha256": "8c52427011594b3542b6b78be08504ef337ece31f66865d00ec601f2914d5f9b"
+  },
+  {
+   "id": "feinwerkbaup8x",
+   "maker": "Feinwerkbau",
+   "model": "P8X",
+   "chambering": "4.5mm air",
+   "category": "Match pistol",
+   "family": "MATCH-PISTOL",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".177 / 4.5mm air"
+   ],
+   "guide": true,
+   "guideId": "feinwerkbaup8x",
+   "guideSha256": "00260ea9df06fbc6318e9346117e7be1b35288bb0311b2a61d37ebb22b543ea1"
+  },
+  {
+   "id": "waltherlp500",
+   "maker": "Walther",
+   "model": "LP500",
+   "chambering": "4.5mm air",
+   "category": "Match pistol",
+   "family": "MATCH-PISTOL",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".177 / 4.5mm air"
+   ],
+   "guide": true,
+   "guideId": "waltherlp500",
+   "guideSha256": "f43ee64b897708688c4e4aebe9c0e8791c5bc178f59def7981e3e9bd591e90dc"
+  },
+  {
+   "id": "rugerlcpii",
+   "maker": "Ruger",
+   "model": "LCP II",
+   "chambering": ".380 ACP",
+   "category": "Semi-auto pistol",
+   "family": "RUGER-LCP",
+   "tier": 1,
+   "group": "Pistols",
+   "chamberings": [
+    ".380 ACP"
+   ],
+   "guide": true,
+   "guideId": "rugerlcpii",
+   "guideSha256": "30ce3d44ee524c1d6d9fdd574c5ecd0662864c4d90448df33afcb8c2a5d50a8e"
+  },
+  {
+   "id": "smithwesson642",
+   "maker": "Smith & Wesson",
+   "model": "642",
+   "chambering": ".38 Spl",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 1,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": true,
+   "guideId": "smithwesson642",
+   "guideSha256": "8a3015a27b6837e16a4b70abfe20176a7a2514823ccddbc61a6c4db3fbf3b7b8"
+  },
+  {
+   "id": "smithwesson442",
+   "maker": "Smith & Wesson",
+   "model": "442",
+   "chambering": ".38 Spl",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 1,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": true,
+   "guideId": "smithwesson442",
+   "guideSha256": "03c7b7974fd2627084704ba45fa45f068d2aec9d838e3dbc36b90495c6cceba1"
+  },
+  {
+   "id": "smithwesson686",
+   "maker": "Smith & Wesson",
+   "model": "686",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 1,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwesson686",
+   "guideSha256": "09c23ae633e444742fa278c9b8b3ba5bcf3a32132855de7d112c82d1d4ed0652"
+  },
+  {
+   "id": "taurus856",
+   "maker": "Taurus",
+   "model": "856",
+   "chambering": ".38 Spl",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 1,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": true,
+   "guideId": "taurus856",
+   "guideSha256": "90788e9075aa98cfab300a962b2a9071fc86027ed665a7262893f0624862b7d3"
+  },
+  {
+   "id": "taurusjudge",
+   "maker": "Taurus",
+   "model": "Judge",
+   "chambering": ".410 / .45 LC",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 1,
+   "group": "Revolvers",
+   "chamberings": [
+    ".410 / .45 LC"
+   ],
+   "guide": true,
+   "guideId": "taurusjudge",
+   "guideSha256": "266ab2d083693a9b32d292fdd33cf11bdfc4832f688dc6703a7c25a953541774"
+  },
+  {
+   "id": "heritageroughrider",
+   "maker": "Heritage",
+   "model": "Rough Rider",
+   "chambering": ".22 LR",
+   "category": "Revolver",
+   "family": "REV-SA",
+   "tier": 1,
+   "group": "Revolvers",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "heritageroughrider",
+   "guideSha256": "3e304317537fa3684ea0b674d830f8868a4d8113d989631a11ce2120bf322402"
+  },
+  {
+   "id": "savageaxisii",
+   "maker": "Savage",
+   "model": "Axis II",
+   "chambering": ".308/6.5CM",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-SAVAGE",
+   "tier": 1,
+   "group": "Rifles",
+   "chamberings": [
+    ".308 Win",
+    "6.5 Creedmoor"
+   ],
+   "guide": true,
+   "guideId": "savageaxisii",
+   "guideSha256": "8a94af43b507b6253d74277f77ca6fa4f45137136d027be770d088209e824b8e"
+  },
+  {
+   "id": "marlin336",
+   "maker": "Marlin",
+   "model": "336",
+   "chambering": ".30-30",
+   "category": "Lever-action rifle",
+   "family": "LEVER-MARLIN",
+   "tier": 1,
+   "group": "Rifles",
+   "chamberings": [
+    ".30-30"
+   ],
+   "guide": true,
+   "guideId": "marlin336",
+   "guideSha256": "9cb1598ae6a7acf9d7f7600bab1d5e0ae2c8664feec968053b205ad4ae1dc3ff"
+  },
   {
    "id": "aacjaeger30",
    "maker": "AAC",
@@ -17,7 +260,7 @@
    ],
    "guide": true,
    "guideId": "aacjaeger30",
-   "guideSha256": "44b16e1ed708e035ced217a5788659e2207b04e868d58589b6c94dd294b5693d"
+   "guideSha256": "32d760b36fb1c9a7d9d4683062b0aff1573e9dcae66dcf82816eeec9272730fd"
   },
   {
    "id": "aacranger5",
@@ -31,7 +274,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "aacranger5",
-   "guideSha256": "657ce6ae31fcbe1e03be929a16f4b8aa5d144d7e8b94e0493f4045e3777c2578"
+   "guideSha256": "4ae6da093a11297c7ad894b3b65f13548756c7c6fb6caf7f3654d5597412cf91"
   },
   {
    "id": "aactirant45m",
@@ -45,7 +288,380 @@
    "chamberings": [],
    "guide": true,
    "guideId": "aactirant45m",
-   "guideSha256": "3af962632be93242619b6d44a2bc373b6a40c25d7eb348f0b306e2328fa55117"
+   "guideSha256": "d7c75db620c94030c6f64e48ec149450fb98ebcb029a5a7796b7f911422a54e0"
+  },
+  {
+   "id": "angstadtarmsreticent360l",
+   "maker": "Angstadt Arms",
+   "model": "Reticent 360L",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "angstadtarmsreticent360l",
+   "guideSha256": "85531978f81ddb3ba4707000eee9f047201eaf96ca6e48852ff8c5e9954d4411"
+  },
+  {
+   "id": "angstadtarmsvanquish22",
+   "maker": "Angstadt Arms",
+   "model": "Vanquish 22",
+   "chambering": ".22 LR",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "danieldefenseddm4isr",
+   "maker": "Daniel Defense",
+   "model": "DDM4ISR",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".300 BLK"
+   ],
+   "guide": true,
+   "guideId": "danieldefenseddm4isr",
+   "guideSha256": "c4f07c904babe2b7c34df099a32984dafb48f2e2f691084da84b38ac0e6e7087"
+  },
+  {
+   "id": "deadairghost45",
+   "maker": "Dead Air",
+   "model": "Ghost 45",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SERVICEABLE",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "deadairghost45",
+   "guideSha256": "c42d8daaa0728e9c28f28d09fe0672adf71e5a99242ae2bb7ff1317201d4799f"
+  },
+  {
+   "id": "gemtechintegra1522",
+   "maker": "Gemtech",
+   "model": "Integra 15-22",
+   "chambering": ".22 LR",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "gemtechintegra1522",
+   "guideSha256": "1d1f8aa4972f2dd7a3411085e0ae122e43c063a6bb80732c87aeae4a41f35f37"
+  },
+  {
+   "id": "gemtechnebula57",
+   "maker": "Gemtech",
+   "model": "Nebula 5.7",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "gemtechnebula57",
+   "guideSha256": "cc9dc88474a9280eacfc544eb7df482c130d9b5f699c9a321dc53e17a6440cc3"
+  },
+  {
+   "id": "gemtechneutrino",
+   "maker": "Gemtech",
+   "model": "Neutrino",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "gemtechneutrino",
+   "guideSha256": "1318f96a52fbcd52b5819fbcf255bcf40b6c083ec2c048b00f7e447a13759f6f"
+  },
+  {
+   "id": "jkarmament155rpx46",
+   "maker": "JK Armament",
+   "model": "155 RPX 46",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "jkarmament155rpx46",
+   "guideSha256": "15dc31cff352c3882603b39f526239ec3217a49c25725781383bb198778f8047"
+  },
+  {
+   "id": "sigsauerhexium300",
+   "maker": "SIG Sauer",
+   "model": "HEXIUM 300",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "sigsauerhexium300",
+   "guideSha256": "ad4e7da18eaa8308c55c8340d5d5d94c079f74d27ac62264349a2bdf7fd82724"
+  },
+  {
+   "id": "sigsauerhexium556ti",
+   "maker": "SIG Sauer",
+   "model": "HEXIUM 556 Ti",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "sigsauerhexium556ti",
+   "guideSha256": "35f5ad5f4efe4c2f0d1af821bd123dcf7a2cfa292e51fc77c9b2be5ef14c8813"
+  },
+  {
+   "id": "sigsauerhexium556inc",
+   "maker": "SIG Sauer",
+   "model": "Hexium 556 INC",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "sigsauerhexium556inc",
+   "guideSha256": "f527e33aa5abccc6277e852a371ebbddd1b07152724bce126802f82c4eb8f46b"
+  },
+  {
+   "id": "sigsauerslh762",
+   "maker": "SIG Sauer",
+   "model": "SLH762",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "sigsauerslh762",
+   "guideSha256": "f0cd10b309b063464a73d6a04fdabbeb0f0735d8b782412b32ad37466bd70d11"
+  },
+  {
+   "id": "sigsauerslx556",
+   "maker": "SIG Sauer",
+   "model": "SLX556",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "sigsauerslx556",
+   "guideSha256": "4bc58514f183504ac5a162e71548feb4df5cc95812ab55e89a19b0390868b941"
+  },
+  {
+   "id": "silencercentralbanish46",
+   "maker": "Silencer Central",
+   "model": "BANISH 46",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "silencercentralbanishbackcountryti",
+   "maker": "Silencer Central",
+   "model": "BANISH Backcountry Ti",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "silencercentralbanishhnt30",
+   "maker": "Silencer Central",
+   "model": "BANISH HNT 30",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "silencercentralbanishhnt30",
+   "guideSha256": "8c7ad3285c25554d467bb3b424db967ce519abfb8b30b29f3256f3799e227147"
+  },
+  {
+   "id": "cfsup",
+   "maker": "Dead Air",
+   "model": "Sandman-S",
+   "chambering": ".30 cal",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 1,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "cfsup",
+   "guideSha256": "8901a5962b17d948f4048b770f495d868b88bcbf3f500a0e56e91bf4f29a844a"
+  },
+  {
+   "id": "banishsilencercentralbanis",
+   "maker": "Banish (Silencer Central)",
+   "model": "Banish 30",
+   "chambering": ".30 cal",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 1,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "banishsilencercentralbanis",
+   "guideSha256": "94434a87e1388944105f49f254b57c591d4933ccd2222f41bfb8ebbcc11fae82"
+  },
+  {
+   "id": "hecklerkochvp9",
+   "maker": "Heckler & Koch",
+   "model": "VP9",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "HK-VP9",
+   "tier": 2,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "hecklerkochvp9",
+   "guideSha256": "c69c01c719456415473596c2e88b0aeb8ea05054b325b39a0a7cc926ea95aaec"
+  },
+  {
+   "id": "browningbuckmark",
+   "maker": "Browning",
+   "model": "Buck Mark",
+   "chambering": ".22 LR",
+   "category": "Rimfire pistol",
+   "family": "BUCKMARK",
+   "tier": 2,
+   "group": "Pistols",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "browningbuckmark",
+   "guideSha256": "cc924da561bfffb059348a3b56ca090b9fa837514860660ab4458ad25b8e11e9"
+  },
+  {
+   "id": "smithwesson637",
+   "maker": "Smith & Wesson",
+   "model": "637",
+   "chambering": ".38 Spl",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 2,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": true,
+   "guideId": "smithwesson637",
+   "guideSha256": "45b565882e302badd832fd7162336fe0bcc76951cea57e2d7bbd9d9a025dbd68"
+  },
+  {
+   "id": "smithwessonmodel66",
+   "maker": "Smith & Wesson",
+   "model": "Model 66",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 2,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel66",
+   "guideSha256": "09e55452d3a7df8f8c88eab87fd2c304ab7f72652ae75cf90181e3154981dc5f"
+  },
+  {
+   "id": "smithwessonmodel10",
+   "maker": "Smith & Wesson",
+   "model": "Model 10",
+   "chambering": ".38 Spl",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 2,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel10",
+   "guideSha256": "4adaf27895e89369e502c977eef26a1545516751e8e488ae4731648d36733e99"
+  },
+  {
+   "id": "smithwesson629",
+   "maker": "Smith & Wesson",
+   "model": "629",
+   "chambering": ".44 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 2,
+   "group": "Revolvers",
+   "chamberings": [
+    ".44 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwesson629",
+   "guideSha256": "c184119baf60f64cb73d2e71641ec7a4364e4ac4e0479c5344c215f5648237b5"
+  },
+  {
+   "id": "smithwessonbodyguard38",
+   "maker": "Smith & Wesson",
+   "model": "Bodyguard 38",
+   "chambering": ".38 Spl",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 2,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": true,
+   "guideId": "smithwessonbodyguard38",
+   "guideSha256": "dcbd37b085f16367537043950d21ba79657d37333b82b633e3c3aec55385b00f"
   },
   {
    "id": "andersonmanufacturingam15",
@@ -64,6 +680,448 @@
    "guideSha256": "2e06ef0c3cd8338a1d444e947bfb44e6e4a0fa69933ec074069fae7e493b6ae5"
   },
   {
+   "id": "danieldefenseddm4v7",
+   "maker": "Daniel Defense",
+   "model": "DDM4 V7",
+   "chambering": "5.56",
+   "category": "AR-pattern rifle",
+   "family": "AR15",
+   "tier": 2,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223"
+   ],
+   "guide": true,
+   "guideId": "danieldefenseddm4v7",
+   "guideSha256": "324b275a562f2622e2f33713db1e6f9f387e7b459705d965b8c3bce770f2df06"
+  },
+  {
+   "id": "coltle6920",
+   "maker": "Colt",
+   "model": "LE6920",
+   "chambering": "5.56",
+   "category": "AR-pattern rifle",
+   "family": "AR15",
+   "tier": 2,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223"
+   ],
+   "guide": true,
+   "guideId": "coltle6920",
+   "guideSha256": "97c4ac31adee85658350a94a883b95447dcf05873edaed4a0873caad16829fc3"
+  },
+  {
+   "id": "centuryarmsdracopistol",
+   "maker": "Century Arms",
+   "model": "Draco (pistol)",
+   "chambering": "7.62x39",
+   "category": "AK-pattern pistol",
+   "family": "AK",
+   "tier": 2,
+   "group": "Pistols",
+   "chamberings": [
+    "7.62x39"
+   ],
+   "guide": true,
+   "guideId": "centuryarmsdracopistol",
+   "guideSha256": "5b9cb79b11e95c462bab064db10bf4f9bb5247098e94da42b7e70ff44a4407e7"
+  },
+  {
+   "id": "varioussurplussks",
+   "maker": "Various (surplus)",
+   "model": "SKS",
+   "chambering": "7.62x39",
+   "category": "Semi-auto rifle",
+   "family": "SKS",
+   "tier": 2,
+   "group": "Rifles",
+   "chamberings": [
+    "7.62x39"
+   ],
+   "guide": true,
+   "guideId": "varioussurplussks",
+   "guideSha256": "0a47569615232d543c8ae9978491f0158a6b6158b9403e7d33794525b39b63d7",
+   "bestPractices": true
+  },
+  {
+   "id": "savage110",
+   "maker": "Savage",
+   "model": "110",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-SAVAGE",
+   "tier": 2,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "savage110",
+   "guideSha256": "7b9116ee1dccf55919833185a4d8aa1493034b7b097cb73fbb6ac5caf7145cb4"
+  },
+  {
+   "id": "winchestermodel70",
+   "maker": "Winchester",
+   "model": "Model 70",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-M70",
+   "tier": 2,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "winchestermodel70",
+   "guideSha256": "fdea31ee7887eaec44d0adab165f2bccb26d6875959a807d72020b6fd1e1e5db"
+  },
+  {
+   "id": "browningxbolt",
+   "maker": "Browning",
+   "model": "X-Bolt",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-XBOLT",
+   "tier": 2,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "browningxbolt",
+   "guideSha256": "a6ff7de2b53ebdfcbe1173f1727b3b4555c78cf2c71546517aa13a8670401029"
+  },
+  {
+   "id": "savagemarkii",
+   "maker": "Savage",
+   "model": "Mark II",
+   "chambering": ".22 LR",
+   "category": "Rimfire rifle",
+   "family": "BOLT-RF",
+   "tier": 2,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "savagemarkii",
+   "guideSha256": "a677f2e9da68a5a01a2118a7a46e51108d40a56099171012fca50af456feb5c3"
+  },
+  {
+   "id": "keystonecrickettyouth",
+   "maker": "Keystone",
+   "model": "Crickett (youth)",
+   "chambering": ".22 LR",
+   "category": "Single-shot rimfire rifle",
+   "family": "CRICKETT",
+   "tier": 2,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "keystonecrickettyouth",
+   "guideSha256": "44fde71a5fc99b8f6f4d034783f028ca0415047b7d1ade98cb43f7e9dcc0cf20"
+  },
+  {
+   "id": "marlin1895",
+   "maker": "Marlin",
+   "model": "1895",
+   "chambering": ".45-70",
+   "category": "Lever-action rifle",
+   "family": "LEVER-MARLIN",
+   "tier": 2,
+   "group": "Rifles",
+   "chamberings": [
+    ".45-70"
+   ],
+   "guide": true,
+   "guideId": "marlin1895",
+   "guideSha256": "d3a894909b3d50edcd427f66840e7b1b81979d0bdf5d883e8edace455adb67e1"
+  },
+  {
+   "id": "winchestermodel94",
+   "maker": "Winchester",
+   "model": "Model 94",
+   "chambering": ".30-30",
+   "category": "Lever-action rifle",
+   "family": "LEVER-WIN94",
+   "tier": 2,
+   "group": "Rifles",
+   "chamberings": [
+    ".30-30"
+   ],
+   "guide": true,
+   "guideId": "winchestermodel94",
+   "guideSha256": "d5630d713c09e48e5a540ef0d6d24eca7245f7e41b700f4cc6f17881f6355ad4"
+  },
+  {
+   "id": "mossberg590shockwave",
+   "maker": "Mossberg",
+   "model": "590 Shockwave",
+   "chambering": "12 GA",
+   "category": "Pump shotgun",
+   "family": "PUMP-590",
+   "tier": 2,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossberg590shockwave",
+   "guideSha256": "2a46a2b596d36bd00480c1eee9e7b915e941c307b66455aed1a69621fb4dcf52"
+  },
+  {
+   "id": "winchestersxp",
+   "maker": "Winchester",
+   "model": "SXP",
+   "chambering": "12 GA",
+   "category": "Pump shotgun",
+   "family": "PUMP-SXP",
+   "tier": 2,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "winchestersxp",
+   "guideSha256": "c4678166613838b8d4ddb6d5a5d88cf7e4731230a7c6b024ebd84ede04ab4b45"
+  },
+  {
+   "id": "mossbergsilverreservesxs",
+   "maker": "Mossberg",
+   "model": "Silver Reserve SxS",
+   "chambering": "12 GA",
+   "category": "Break-action shotgun",
+   "family": "BREAK-OU",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossbergsilverreservesxs",
+   "guideSha256": "8a50fe1e7d1de256f84119d8a7b13f10b0329e46240fa40c263b24ddecbb1d03"
+  },
+  {
+   "id": "mossberg990aftershock",
+   "maker": "Mossberg",
+   "model": "990 Aftershock",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-GAS-940",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossberg990aftershock",
+   "guideSha256": "3fb84d9185d126a6cf11321350163f0bab9e75639fff4c96468e2f7445abeaab"
+  },
+  {
+   "id": "mossbergsa20",
+   "maker": "Mossberg",
+   "model": "SA-20 / SA-28",
+   "chambering": "20 GA / 28 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-GAS-940",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "20 GA",
+    "28 GA"
+   ],
+   "guide": true,
+   "guideId": "mossbergsa20",
+   "guideSha256": "6896924f600a5166d7bd26fd98b607542e1d9f2925cbf8ff4c1b3d8c7b512527"
+  },
+  {
+   "id": "mossbergmaverickou",
+   "maker": "Mossberg",
+   "model": "Maverick Over/Under",
+   "chambering": "12 GA",
+   "category": "Break-action shotgun",
+   "family": "BREAK-OU",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossbergmaverickou",
+   "guideSha256": "db99d90a8798e9545bfed00c2b17c0fe4c4a1fd3faeb6cc2b0a64f3ecb193643"
+  },
+  {
+   "id": "mossberg695",
+   "maker": "Mossberg",
+   "model": "695",
+   "chambering": "12 GA",
+   "category": "Bolt-action shotgun",
+   "family": "BOLT-695",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossberg695",
+   "guideSha256": "9f1079ef77204406cff05d585f6f123314e6c73847b12bc28d7c7061a8aa1144"
+  },
+  {
+   "id": "mossbergssione",
+   "maker": "Mossberg",
+   "model": "SSi-One",
+   "chambering": "multi",
+   "category": "Break-action single shot",
+   "family": "BREAK-SS",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "mossbergssione",
+   "guideSha256": "34978953be2af2ecdf328738c7b5eac47a1c9c6d983f023275c09fb93fdf5948"
+  },
+  {
+   "id": "winchestersx4",
+   "maker": "Winchester",
+   "model": "SX4",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-GAS-SX",
+   "tier": 2,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "winchestersx4",
+   "guideSha256": "65cf9ac8b2afde505be45a1018ce2768ca57bb164d5ec9e8dd55e59ed51c42ec"
+  },
+  {
+   "id": "stoegerm3000",
+   "maker": "Stoeger",
+   "model": "M3000",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-INERTIA",
+   "tier": 2,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "stoegerm3000",
+   "guideSha256": "6192efda55b40d4e80d2cefcef9c0a7777670836632b841ef461025d4a3a2eb8"
+  },
+  {
+   "id": "browningcitori",
+   "maker": "Browning",
+   "model": "Citori",
+   "chambering": "12 GA",
+   "category": "Break-action shotgun",
+   "family": "BREAK-OU",
+   "tier": 2,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "browningcitori",
+   "guideSha256": "16905f5561b500e5725da549bfbc3402c7f9dd39f14d79ae514b2ee5b61fddff"
+  },
+  {
+   "id": "deadairmaskhd",
+   "maker": "Dead Air",
+   "model": "Mask HD",
+   "chambering": ".22 LR",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 2,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "deadairmaskhd",
+   "guideSha256": "0c818a5c94bf0873847bf9f071795598e11c058720ff14da1dc6cf919049b6f6"
+  },
+  {
+   "id": "banishsilencercentralbanis2",
+   "maker": "Banish (Silencer Central)",
+   "model": "Banish 45",
+   "chambering": ".45/9mm",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 2,
+   "group": "Suppressors",
+   "chamberings": [
+    ".45 cal / 9mm"
+   ],
+   "guide": true,
+   "guideId": "banishsilencercentralbanis2",
+   "guideSha256": "1e92ffb17774bcdc859b48b6786994e5885fd2641188b9c0e03274359cf78d5b"
+  },
+  {
+   "id": "banishsilencercentralbanis3",
+   "maker": "Silencer Central",
+   "model": "BANISH 22",
+   "chambering": ".22 LR",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 2,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "banishsilencercentralbanis3",
+   "guideSha256": "7b8d784d0ba12c496957b09d9e901d95ce358b07cf9bf380452e868fb7b4de3b"
+  },
+  {
+   "id": "ruggedobsidian9",
+   "maker": "Rugged",
+   "model": "Obsidian 9",
+   "chambering": "9mm",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 2,
+   "group": "Suppressors",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "ruggedobsidian9",
+   "guideSha256": "26366121b8dd28d67a1b3df328c17a4bc8e5b3af8891ae65ed373512b96fda61"
+  },
+  {
+   "id": "ruggedobsidian45",
+   "maker": "Rugged",
+   "model": "Obsidian 45",
+   "chambering": ".45",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 2,
+   "group": "Suppressors",
+   "chamberings": [
+    ".45 cal"
+   ],
+   "guide": true,
+   "guideId": "ruggedobsidian45",
+   "guideSha256": "e2c6867c00ce27b3381c8f60b2807ef90e87371676c172783f6ac3554093d390"
+  },
+  {
+   "id": "ruggedoculus22",
+   "maker": "Rugged",
+   "model": "Oculus 22",
+   "chambering": ".22 LR",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 2,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "ruggedoculus22",
+   "guideSha256": "6fd93b5698a8dce7bee613683d5bb8630299a3885a4808f89fac517c31daeb72"
+  },
+  {
    "id": "smithwessoncsx",
    "maker": "Smith & Wesson",
    "model": "CSX",
@@ -78,6 +1136,22 @@
    "guide": true,
    "guideId": "smithwessoncsx",
    "guideSha256": "92edabafbc8ce41d3f642a4af4c2fd8eca56443868551a8c7a14e1a4e575e015"
+  },
+  {
+   "id": "rugeramericanpistol",
+   "maker": "Ruger",
+   "model": "American Pistol",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "RUGER-AMER-P",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "rugeramericanpistol",
+   "guideSha256": "5a7ccf0f1de13f6d7ce5c705c77337c82bf66df9f084089c84e3b0fa86cd5747"
   },
   {
    "id": "springfieldarmory1911garri",
@@ -129,6 +1203,294 @@
    "guideSha256": "4548ace25b56abeea30e9b58ecbbf88fef9b2c9b434af42b7cf342844d426535"
   },
   {
+   "id": "hecklerkochvp9sk",
+   "maker": "Heckler & Koch",
+   "model": "VP9SK",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "HK-VP9",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "hecklerkochvp9sk",
+   "guideSha256": "fa8ec74d3576ecb4e15b3d2628cd133775e43d0f180f638ae1760c9f3b16b648"
+  },
+  {
+   "id": "hecklerkochusp9",
+   "maker": "Heckler & Koch",
+   "model": "USP 9",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "HK-USP",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "hecklerkochusp9",
+   "guideSha256": "273e989ba4d2ad96a888dd269e485c9406aa92d37be079ffe2c29bba7af5bcb3"
+  },
+  {
+   "id": "hecklerkochusp45",
+   "maker": "Heckler & Koch",
+   "model": "USP 45",
+   "chambering": ".45 ACP",
+   "category": "Semi-auto pistol",
+   "family": "HK-USP",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".45 ACP"
+   ],
+   "guide": true,
+   "guideId": "hecklerkochusp45",
+   "guideSha256": "b2485bb3a3218ba6f99a2f587c692285b17f6d8f5b6d21eddb59f820c6b21b6d"
+  },
+  {
+   "id": "hecklerkochp30",
+   "maker": "Heckler & Koch",
+   "model": "P30",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "HK-P30",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "hecklerkochp30",
+   "guideSha256": "f067f2dab82e59df33c6110fe11071b43cee65333a45f5088eb43faebdc84d82"
+  },
+  {
+   "id": "caniktp9sfx",
+   "maker": "Canik",
+   "model": "TP9SFx",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "CANIK",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "caniktp9sfx",
+   "guideSha256": "308190c86fd55d3a859bcb3ad236763d6171bf44f73dc8c3ff91d9fd6d3cc294"
+  },
+  {
+   "id": "canikmetesft",
+   "maker": "Canik",
+   "model": "METE SFT",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "CANIK",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "canikmetesft",
+   "guideSha256": "59261484a7b1557aec0b47592c24966519c03361eb7d21faf5bd8a8bf9f96a79"
+  },
+  {
+   "id": "sarusasar9",
+   "maker": "SAR USA",
+   "model": "SAR9",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "SAR9",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "sarusasar9",
+   "guideSha256": "e992fe130d69702fb0a9a3ce9bd30020b3e1221e8936627d7a982cb10773d4c8"
+  },
+  {
+   "id": "keltecpf9",
+   "maker": "Kel-Tec",
+   "model": "PF9",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "KELTEC-P",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "keltecpf9",
+   "guideSha256": "71184aa961c75aa196b8dd53bec1cbe01bf903fc7bf2be422699d4c220d86c0c"
+  },
+  {
+   "id": "shadowsystemsmr920",
+   "maker": "Shadow Systems",
+   "model": "MR920",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "GLOCK",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "shadowsystemsmr920",
+   "guideSha256": "35a941962c4104c84866ec4337ab591fdd71dda781e96953959414f6adeedb4b"
+  },
+  {
+   "id": "browning1911380",
+   "maker": "Browning",
+   "model": "1911-380",
+   "chambering": ".380 ACP",
+   "category": "Semi-auto pistol",
+   "family": "1911-MICRO",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".380 ACP"
+   ],
+   "guide": true,
+   "guideId": "browning1911380",
+   "guideSha256": "7156f1914fcfb650dfc310f267a017549d12f863ecf2df8effeb03ddb2e6a83b"
+  },
+  {
+   "id": "smithwesson638",
+   "maker": "Smith & Wesson",
+   "model": "638",
+   "chambering": ".38 Spl",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": true,
+   "guideId": "smithwesson638",
+   "guideSha256": "70b8231a358c9350d326db2f070dbced05e7c3880502bac7792c5ff030963495"
+  },
+  {
+   "id": "smithwesson586",
+   "maker": "Smith & Wesson",
+   "model": "586",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwesson586",
+   "guideSha256": "c9bbf59b9ff66bf23e61e244514d3f6e27a31491f3cf952499655d47182ce3cd"
+  },
+  {
+   "id": "smithwessonmodel19",
+   "maker": "Smith & Wesson",
+   "model": "Model 19",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel19",
+   "guideSha256": "6739a3484a359b90df8ab7a9b3ebc9bea412f49a2d1141b0c7e2b435ce18d54e"
+  },
+  {
+   "id": "smithwessonmodel36",
+   "maker": "Smith & Wesson",
+   "model": "Model 36",
+   "chambering": ".38 Spl",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel36",
+   "guideSha256": "46f63c4663720bf927e71ea792862352f3ed24203ea7974af917f67657bfe48d"
+  },
+  {
+   "id": "smithwessonmodel60",
+   "maker": "Smith & Wesson",
+   "model": "Model 60",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel60",
+   "guideSha256": "2caa3151a54065a89883c7429482a1756a89f634b6e731d4b4412a1b8bb5ddfe"
+  },
+  {
+   "id": "smithwessonmodel29",
+   "maker": "Smith & Wesson",
+   "model": "Model 29",
+   "chambering": ".44 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".44 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel29",
+   "guideSha256": "5e9d00e36749ec71cc0cea48b08925d648ad073ceaac2076ed41766295771847"
+  },
+  {
+   "id": "smithwessonmodel617",
+   "maker": "Smith & Wesson",
+   "model": "Model 617",
+   "chambering": ".22 LR",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel617",
+   "guideSha256": "439bf95906a57462eb61b35b5507344f691ce4f68f792a9089b5f3fab07da7cf"
+  },
+  {
+   "id": "smithwessongovernor",
+   "maker": "Smith & Wesson",
+   "model": "Governor",
+   "chambering": ".410 / .45 LC",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".410 / .45 LC"
+   ],
+   "guide": true,
+   "guideId": "smithwessongovernor",
+   "guideSha256": "f92851b0a3fe803d6cbf626c2e9cd2b1bd4501317987a85bc6b9b40f7aa2c41b"
+  },
+  {
    "id": "rugervaquero",
    "maker": "Ruger",
    "model": "Vaquero",
@@ -143,6 +1505,38 @@
    "guide": true,
    "guideId": "rugervaquero",
    "guideSha256": "6631462cc9450ea19e2ab4af9c835ac2de76f409e68811072c7261f56191681d"
+  },
+  {
+   "id": "tauruspublicdefender",
+   "maker": "Taurus",
+   "model": "Public Defender",
+   "chambering": ".410 / .45 LC",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".410 / .45 LC"
+   ],
+   "guide": true,
+   "guideId": "tauruspublicdefender",
+   "guideSha256": "f1eea5be2e27ae9aae79f6e325f314d4ea2be844e4641f76202db1f85435740b"
+  },
+  {
+   "id": "heritagebarkeep",
+   "maker": "Heritage",
+   "model": "Barkeep",
+   "chambering": ".22 LR",
+   "category": "Revolver",
+   "family": "REV-SA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "heritagebarkeep",
+   "guideSha256": "3402ebae3acf8d3b095a487be618c566bd4450cdffcd9c5efa0ebd6e13326885"
   },
   {
    "id": "aeroprecisionac15",
@@ -209,6 +1603,38 @@
    "guideSha256": "dd3a2bec86efec737d5014998f775d9d554a9c5c8b116765258713c3c8fb235e"
   },
   {
+   "id": "diamondbackdb15",
+   "maker": "Diamondback",
+   "model": "DB15",
+   "chambering": "5.56",
+   "category": "AR-pattern rifle",
+   "family": "AR15",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223"
+   ],
+   "guide": true,
+   "guideId": "diamondbackdb15",
+   "guideSha256": "31626f1095a80d5d78e2011de1cab0814dcc3f379b6683db36d73f33c6710d1f"
+  },
+  {
+   "id": "smithwessonmp10",
+   "maker": "Smith & Wesson",
+   "model": "M&P10",
+   "chambering": ".308",
+   "category": "AR-pattern rifle",
+   "family": "AR10",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".308 Win"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmp10",
+   "guideSha256": "18a9471587d0b972851715d58ad80a734adae9cba021c1accc73d00304e5afcd"
+  },
+  {
    "id": "aeroprecisionm5",
    "maker": "Aero Precision",
    "model": "M5",
@@ -223,6 +1649,88 @@
    "guide": true,
    "guideId": "aeroprecisionm5",
    "guideSha256": "a66ad1d0c04ccefde830610aa61224fd474d8af678ebd9463df795d4c01248f7"
+  },
+  {
+   "id": "sigsauermcx",
+   "maker": "SIG Sauer",
+   "model": "MCX",
+   "chambering": "5.56/.300BLK",
+   "category": "Semi-auto rifle",
+   "family": "MCX",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223",
+    ".300 BLK"
+   ],
+   "guide": true,
+   "guideId": "sigsauermcx",
+   "guideSha256": "02f23de8230c3b07a7fc0f6812c3a01ece12c1b3968af5cd42bdceed8f591583"
+  },
+  {
+   "id": "arsenalsam7r",
+   "maker": "Arsenal",
+   "model": "SAM7R",
+   "chambering": "7.62x39",
+   "category": "AK-pattern rifle",
+   "family": "AK",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "7.62x39"
+   ],
+   "guide": true,
+   "guideId": "arsenalsam7r",
+   "guideSha256": "6e4959564f36d11fd79a215e363db9e493017ee65093322663369fc5f43ab0a5",
+   "bestPractices": true
+  },
+  {
+   "id": "centuryarmsminidraco",
+   "maker": "Century Arms",
+   "model": "Mini Draco",
+   "chambering": "7.62x39",
+   "category": "AK-pattern pistol",
+   "family": "AK",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "7.62x39"
+   ],
+   "guide": true,
+   "guideId": "centuryarmsminidraco",
+   "guideSha256": "7a361ef120061612ac0bc351804f401ebe95659027a49d2ee4c2a68fdece2c64"
+  },
+  {
+   "id": "zastavazpap92pistol",
+   "maker": "Zastava",
+   "model": "ZPAP92 (pistol)",
+   "chambering": "7.62x39",
+   "category": "AK-pattern pistol",
+   "family": "AK",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "7.62x39"
+   ],
+   "guide": true,
+   "guideId": "zastavazpap92pistol",
+   "guideSha256": "7fedc442e94e5caefb5a37530387db34098385341416d683dd59dc5f71d2bfd9"
+  },
+  {
+   "id": "fnscar17s",
+   "maker": "FN",
+   "model": "SCAR 17S",
+   "chambering": ".308",
+   "category": "Semi-auto rifle",
+   "family": "SCAR",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".308 Win"
+   ],
+   "guide": true,
+   "guideId": "fnscar17s",
+   "guideSha256": "438f5838c28e7828852658cd5718c965ff859493653498b563ce2d03c8615464"
   },
   {
    "id": "ptrindustriesptr91",
@@ -241,6 +1749,22 @@
    "guideSha256": "8410fd337af37634154a750b0c38bddfc042945227262b8f7170130188da1d30"
   },
   {
+   "id": "hecklerkochsp5",
+   "maker": "Heckler & Koch",
+   "model": "SP5",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "MP5",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "hecklerkochsp5",
+   "guideSha256": "88406847fff6a244eae749bef2e057cb61720b632c99b2241ad6f472d0bba996"
+  },
+  {
    "id": "extarep9",
    "maker": "Extar",
    "model": "EP9",
@@ -257,6 +1781,161 @@
    "guideSha256": "6751d85aea24fac0fe53fec11cdb14f05ccebfce8266f23eb7a1adda7bcb0910"
   },
   {
+   "id": "browningbarmark3",
+   "maker": "Browning",
+   "model": "BAR Mark 3",
+   "chambering": ".30-06",
+   "category": "Semi-auto rifle",
+   "family": "BAR",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".30-06"
+   ],
+   "guide": true,
+   "guideId": "browningbarmark3",
+   "guideSha256": "6def7601e58ba056da2577f0e646c242916440f5172bd00a7c36c718e6af26c8"
+  },
+  {
+   "id": "bergarab14hmr",
+   "maker": "Bergara",
+   "model": "B-14 HMR",
+   "chambering": "6.5 CM",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-B14",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "6.5 Creedmoor"
+   ],
+   "guide": true,
+   "guideId": "bergarab14hmr",
+   "guideSha256": "f95c987c5e022f4a6138b41f63c009b7eeebdf4d311d93a755b574bb397bba35"
+  },
+  {
+   "id": "bergarab14ridge",
+   "maker": "Bergara",
+   "model": "B-14 Ridge",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-B14",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "bergarab14ridge",
+   "guideSha256": "c63ad4293319bc147ea3c000a9a35f9ddd9f0b5618de77d41c6bc27a106f703b"
+  },
+  {
+   "id": "weatherby18i",
+   "maker": "Weatherby",
+   "model": "18i / SORIX",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-INERTIA",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "weatherby18i",
+   "guideSha256": "e5b9ab478deaabf6e406f03cc39ad67ed140b17f7bb6a766534284b438939f16"
+  },
+  {
+   "id": "weatherbyelement",
+   "maker": "Weatherby",
+   "model": "Element",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-INERTIA",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "weatherbyelement",
+   "guideSha256": "5d23c47ca58622d26ea18943afe57569844c5c204ac4a81acc5937f4c80c3e0a"
+  },
+  {
+   "id": "weatherbypa08",
+   "maker": "Weatherby",
+   "model": "PA-08",
+   "chambering": "12 GA",
+   "category": "Pump-action shotgun",
+   "family": "PUMP-590",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "weatherbypa08",
+   "guideSha256": "343fba348a296850198c8f15732974310214fbb5a0fcb9061cd0bad10665f496"
+  },
+  {
+   "id": "weatherbysa08",
+   "maker": "Weatherby",
+   "model": "SA-08 / SA-459",
+   "chambering": "12 GA / 20 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-INERTIA",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": true,
+   "guideId": "weatherbysa08",
+   "guideSha256": "ac91f10717b565e96645d784e82223d361f56c2a650d8c586280f36c49ab4117"
+  },
+  {
+   "id": "weatherbyorionsxs",
+   "maker": "Weatherby",
+   "model": "Orion SxS",
+   "chambering": "12 GA",
+   "category": "Break-action shotgun",
+   "family": "BREAK-OU",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "weatherbyorionsxs",
+   "guideSha256": "b794b33dfa3b1342cdfdc0ef7a8c44cfec9df72c5cd7d8919414bf5b7b838963"
+  },
+  {
+   "id": "weatherbymodel307",
+   "maker": "Weatherby",
+   "model": "Model 307",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-HOWA",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "weatherbymodel307",
+   "guideSha256": "43f3cd9c3b4eec661c2e7230e35a7c9e97c426314211929b1976eb68dcd5c3f9"
+  },
+  {
+   "id": "howa1500",
+   "maker": "Howa",
+   "model": "1500",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-HOWA",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "howa1500",
+   "guideSha256": "c0c54ccc4b1d45a369a372fb9dc19f9b1dd58fd81525f705b0e43de22e40818e"
+  },
+  {
    "id": "christensenarmsridgeline",
    "maker": "Christensen Arms",
    "model": "Ridgeline",
@@ -268,7 +1947,199 @@
    "chamberings": [],
    "guide": true,
    "guideId": "christensenarmsridgeline",
-   "guideSha256": "fb19b903d8445b0dde1981dd6060584ef874f20e129bb648d866e73a662d1355"
+   "guideSha256": "b9513c119f85b862b8f620899629faa30c9577acbfa96e1e8fca8948e3f67630"
+  },
+  {
+   "id": "winchesterxpr",
+   "maker": "Winchester",
+   "model": "XPR",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-XPR",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "winchesterxpr",
+   "guideSha256": "69dde9a092f60edd9de9f426d5f5de6f0ac9c7b60f3d49761e6d5c80fb2e968a"
+  },
+  {
+   "id": "browningsa22",
+   "maker": "Browning",
+   "model": "SA-22",
+   "chambering": ".22 LR",
+   "category": "Rimfire rifle",
+   "family": "SA22",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "browningsa22",
+   "guideSha256": "a87850ae6bd01d136ffcec4007493ed2ac7b040b856f3862864adfef4e319cd1"
+  },
+  {
+   "id": "browningbl22",
+   "maker": "Browning",
+   "model": "BL-22",
+   "chambering": ".22 LR",
+   "category": "Rimfire rifle",
+   "family": "LEVER-BL22",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "browningbl22",
+   "guideSha256": "e9cd0d6c4368d7dd0a01271ef3a8d93c163e484c3bb937a4603ed04b1fb13333"
+  },
+  {
+   "id": "winchesterwildcat",
+   "maker": "Winchester",
+   "model": "Wildcat",
+   "chambering": ".22 LR",
+   "category": "Rimfire rifle",
+   "family": "WILDCAT",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "winchesterwildcat",
+   "guideSha256": "6d79b5b9d6480d2197c4c0bc0b1b28bb1a8f3aa6ecd4a167e0293cbd0acc3c61"
+  },
+  {
+   "id": "savagea22",
+   "maker": "Savage",
+   "model": "A22R",
+   "chambering": ".22 LR",
+   "category": "Rimfire rifle",
+   "family": "SAVAGE-A22",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "savagea22",
+   "guideSha256": "93561e10e6597ccbda6cd061eb11d6d8aa8a21ab98d660512f4ddcb28f6b9ced"
+  },
+  {
+   "id": "marlin1894",
+   "maker": "Marlin",
+   "model": "1894",
+   "chambering": ".44 Mag/.357",
+   "category": "Lever-action rifle",
+   "family": "LEVER-MARLIN",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".44 Mag",
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "marlin1894",
+   "guideSha256": "2d3de31a119c4fa7072adee4df99bfce74ba5d2f0df843e1c526e8b1b5560a8c"
+  },
+  {
+   "id": "winchester1873",
+   "maker": "Winchester",
+   "model": "1873",
+   "chambering": ".357/.45LC",
+   "category": "Lever-action rifle",
+   "family": "LEVER-WIN73",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".357 Mag",
+    ".45 LC"
+   ],
+   "guide": true,
+   "guideId": "winchester1873",
+   "guideSha256": "a81e59952ebbf797993147b785dd7f5cf3bcfeddce7d9b2398e68dfb01275a5c"
+  },
+  {
+   "id": "browningbps",
+   "maker": "Browning",
+   "model": "BPS",
+   "chambering": "12 GA",
+   "category": "Pump shotgun",
+   "family": "PUMP-BPS",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "browningbps",
+   "guideSha256": "608cc7f2cdea1cc76de708db044434e45b74e7e2ec8afe914236ec1d073a25e1"
+  },
+  {
+   "id": "browninga5new",
+   "maker": "Browning",
+   "model": "A5 (new)",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-INERTIA",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "browninga5new",
+   "guideSha256": "02e22af1c927886d2d0d83db3b9af36febc9f3c5e14d52d230acdb96add9511a"
+  },
+  {
+   "id": "browningmaxusii",
+   "maker": "Browning",
+   "model": "Maxus II",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-GAS-BRN",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "browningmaxusii",
+   "guideSha256": "ea1dc53e177784aec20c626b335f3013f932c4f9a4aa607b2113165eaa7be2fc"
+  },
+  {
+   "id": "stoegerm3500",
+   "maker": "Stoeger",
+   "model": "M3500",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-INERTIA",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "stoegerm3500",
+   "guideSha256": "02126d4243de3dc709a763fdfb2ff47d6320c29af9317af1880ebe831f02edac"
+  },
+  {
+   "id": "tristarviperg2",
+   "maker": "TriStar",
+   "model": "Viper G2",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-GAS-TS",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "tristarviperg2",
+   "guideSha256": "451b28752ee35dd44c3ff1b5299d70c4d285088a34defa5de8cdc1fe7e33af4c"
   },
   {
    "id": "beretta686silverpigeoni",
@@ -287,6 +2158,198 @@
    "guideSha256": "843559886fc4c2b531817126ce659f2ce95f6e110778b18ab7997c04ce914890"
   },
   {
+   "id": "deadairnomadti",
+   "maker": "Dead Air",
+   "model": "Nomad-Ti",
+   "chambering": ".30 cal",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "deadairnomadti",
+   "guideSha256": "ca610823b87fe63d4d94a682eda3ef121e5e9dabc4253c0a9f44d6224266174e"
+  },
+  {
+   "id": "deadairwolfman",
+   "maker": "Dead Air",
+   "model": "Wolfman",
+   "chambering": "9mm",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "deadairwolfman",
+   "guideSha256": "24577694d4c477c5ecf1ec8ee76a5ae884af5e9a472829a0515c8aed9b3e2e7e"
+  },
+  {
+   "id": "banishsilencercentralbanis4",
+   "maker": "Banish (Silencer Central)",
+   "model": "Banish 30 Gold",
+   "chambering": ".30 cal",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "banishsilencercentralbanis4",
+   "guideSha256": "056a39c0999a141ecf91def522557a60eaa026eed29c00c49daff2873a0414f3"
+  },
+  {
+   "id": "banishsilencercentralbanis5",
+   "maker": "Banish (Silencer Central)",
+   "model": "Banish 223",
+   "chambering": "5.56",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": true,
+   "guideId": "banishsilencercentralbanis5",
+   "guideSha256": "4876adef152548c7b4e25bec25d2fc2d15c6081b3ea13f8ecf83eae7ea85c78c"
+  },
+  {
+   "id": "banishsilencercentralbanis6",
+   "maker": "Banish (Silencer Central)",
+   "model": "Banish 46",
+   "chambering": "multi",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56 to .460"
+   ],
+   "guide": true,
+   "guideId": "banishsilencercentralbanis6",
+   "guideSha256": "86cabdfd6715dd4b7d35b21675c892ffa768ea9ee6a61965f390eef9b6d0f0e5"
+  },
+  {
+   "id": "banishsilencercentralbanis7",
+   "maker": "Silencer Central",
+   "model": "BANISH Speed K",
+   "chambering": "5.56",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": true,
+   "guideId": "banishsilencercentralbanis7",
+   "guideSha256": "1290119ac780337c3b482fd41552af304677c3276fedd563c8ac63e469d0c546"
+  },
+  {
+   "id": "banishsilencercentralbanis8",
+   "maker": "Banish (Silencer Central)",
+   "model": "Banish Backcountry",
+   "chambering": ".30 cal",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "banishsilencercentralbanis8",
+   "guideSha256": "158bdffd3b5c83641030733690cd35ee01845dfb2b3afd5d7f3bf0490da8b332"
+  },
+  {
+   "id": "ruggedrazor762",
+   "maker": "Rugged",
+   "model": "Razor 762",
+   "chambering": ".30 cal",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "ruggedrazor762",
+   "guideSha256": "b8e25f8ee5e9da1dd05c26849bc6238ddd736eb0e6a836fbe7149b01f9f3c876"
+  },
+  {
+   "id": "qelcamino",
+   "maker": "Q",
+   "model": "El Camino",
+   "chambering": ".22 LR",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "qelcamino",
+   "guideSha256": "5666a045dd65ee74f24be77b7cc0c1de8c8c1302e1c955fb38a1b3572921cde3"
+  },
+  {
+   "id": "gemtechgm22",
+   "maker": "Gemtech",
+   "model": "GM-22",
+   "chambering": ".22 LR",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "gemtechgm22",
+   "guideSha256": "ca1d377ab3b599a124a1d7665d64435ab889f88d1248183acdb8a99cfa5c487c"
+  },
+  {
+   "id": "hecklerkochhk45",
+   "maker": "Heckler & Koch",
+   "model": "HK45",
+   "chambering": ".45 ACP",
+   "category": "Semi-auto pistol",
+   "family": "HK-USP",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [
+    ".45 ACP"
+   ],
+   "guide": true,
+   "guideId": "hecklerkochhk45",
+   "guideSha256": "d4953398a439efdceefaf913c3065efacfa717def3d971f5017998e69026dda6"
+  },
+  {
+   "id": "hecklerkochp2000",
+   "maker": "Heckler & Koch",
+   "model": "P2000",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "HK-P30",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "hecklerkochp2000",
+   "guideSha256": "6232679ce019c42cb3215ad8d22a03a17760d311bd7cd233d25231d2d6a0bc28"
+  },
+  {
    "id": "keltecp11",
    "maker": "Kel-Tec",
    "model": "P11",
@@ -300,7 +2363,39 @@
    ],
    "guide": true,
    "guideId": "keltecp11",
-   "guideSha256": "d5842246be57445d17d3eca68a6948758e9e4f8c72e7b327938a43040ab1d10a"
+   "guideSha256": "8d932a0c5d1c3222779b97a97a2cf9868d60519e12c0442b9372d191ed6f8b23"
+  },
+  {
+   "id": "savagestance",
+   "maker": "Savage",
+   "model": "Stance",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "STANCE",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "savagestance",
+   "guideSha256": "4425c0ccb3bf86325c5146eafeca84947a4ae14bdbbc6547ff658db6c08cee18"
+  },
+  {
+   "id": "coltsingleactionarmy",
+   "maker": "Colt",
+   "model": "Single Action Army",
+   "chambering": ".45 LC",
+   "category": "Revolver",
+   "family": "REV-SA",
+   "tier": 4,
+   "group": "Revolvers",
+   "chamberings": [
+    ".45 LC"
+   ],
+   "guide": true,
+   "guideId": "coltsingleactionarmy",
+   "guideSha256": "9d437cdf57285cf8ee239f9e63a4cdfb3fa88bd18a42e3a7f08b776e78ac04a0"
   },
   {
    "id": "chiapparhino200ds",
@@ -319,6 +2414,198 @@
    "guideSha256": "f565e22c013799d8a95ed6500e8dd76dc44ab44f582f38a78fd44237d5a7a98c"
   },
   {
+   "id": "danieldefensedd5",
+   "maker": "Daniel Defense",
+   "model": "DD5",
+   "chambering": ".308",
+   "category": "AR-pattern rifle",
+   "family": "AR10",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [
+    ".308 Win"
+   ],
+   "guide": true,
+   "guideId": "danieldefensedd5",
+   "guideSha256": "ef62a9dfc7c38fc86258a5509ab4eceed49dd39d061573ae275916c5c12a71d9"
+  },
+  {
+   "id": "sako90",
+   "maker": "Sako",
+   "model": "90",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-SAKO",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "sako90",
+   "guideSha256": "c6f8d10ee08f039c92e74033d04f136d68ff9b0adf4808c6f0b545f7c1907621"
+  },
+  {
+   "id": "winchester1892",
+   "maker": "Winchester",
+   "model": "1892",
+   "chambering": ".44 Mag",
+   "category": "Lever-action rifle",
+   "family": "LEVER-WIN92",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [
+    ".44 Mag"
+   ],
+   "guide": true,
+   "guideId": "winchester1892",
+   "guideSha256": "e8583348194f5e9ae86d7f99a62dbc588dc84cf1b076a66178b5b588b623acd8"
+  },
+  {
+   "id": "winchester101",
+   "maker": "Winchester",
+   "model": "101",
+   "chambering": "12 GA",
+   "category": "Break-action shotgun",
+   "family": "BREAK-OU",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "winchester101",
+   "guideSha256": "39556cc10cd8cd4d35e2affed80e850d5b04fa0a12d2bd95660de879b7692a4c"
+  },
+  {
+   "id": "czbobwhiteg2",
+   "maker": "CZ",
+   "model": "Bobwhite G2",
+   "chambering": "12/20 GA",
+   "category": "Break-action shotgun",
+   "family": "BREAK-SXS",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": true,
+   "guideId": "czbobwhiteg2",
+   "guideSha256": "cf8e2c97a36e3e0f65e1bc98abe36cc839e183a473d35a98c0d12b0d4ec931a1",
+   "bestPractices": true
+  },
+  {
+   "id": "deadairprimal",
+   "maker": "Dead Air",
+   "model": "Primal",
+   "chambering": ".46 multi",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 4,
+   "group": "Suppressors",
+   "chamberings": [
+    ".458 cal"
+   ],
+   "guide": true,
+   "guideId": "deadairprimal",
+   "guideSha256": "4474109226ebdae9d5b9986d9122c4322d7336d3e1a6b6879f05f8ea2ae27649"
+  },
+  {
+   "id": "ruggedalaskan360",
+   "maker": "Rugged",
+   "model": "Alaskan360",
+   "chambering": ".36 cal",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 4,
+   "group": "Suppressors",
+   "chamberings": [
+    ".36 cal"
+   ],
+   "guide": true,
+   "guideId": "ruggedalaskan360",
+   "guideSha256": "f849490e1c66274ec0115637a60f419296b794321f24307da513950ad061d005"
+  },
+  {
+   "id": "qerector",
+   "maker": "Q",
+   "model": "Erector",
+   "chambering": ".22 LR",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 4,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "qerector",
+   "guideSha256": "ce6e88bdde18d90677f6decd702c664d287bd661d0b14474213d1af775f75e00"
+  },
+  {
+   "id": "shadowsystemsdr920",
+   "maker": "Shadow Systems",
+   "model": "DR920",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "GLOCK",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "shadowsystemsdr920",
+   "guideSha256": "dc8e54438e5ad99024c64abb6cb06dee93da2c39d464d576e698c0af3d596edd"
+  },
+  {
+   "id": "shadowsystemsxr920",
+   "maker": "Shadow Systems",
+   "model": "XR920",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "GLOCK",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "shadowsystemsxr920",
+   "guideSha256": "2e57ba5813ff352852b520ec40a6ec93ae772ccd607a0cfd366b08dbe8d79710"
+  },
+  {
+   "id": "shadowsystemscr920",
+   "maker": "Shadow Systems",
+   "model": "CR920",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "GLOCK",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "shadowsystemscr920",
+   "guideSha256": "7712f34d79c0ebf6481b095c0549c47b99f09f9f38fcaf1364051aff7dee4abc"
+  },
+  {
+   "id": "autoordnance1911a1",
+   "maker": "Auto-Ordnance",
+   "model": "1911A1",
+   "chambering": ".45 ACP",
+   "category": "Semi-auto pistol",
+   "family": "1911",
+   "tier": 2,
+   "group": "Pistols",
+   "chamberings": [
+    ".45 ACP"
+   ],
+   "guide": true,
+   "guideId": "autoordnance1911a1",
+   "guideSha256": "9570f0632a90ab0b23b5329b588be82f5202a263b17059d763cb3b3dafab084a"
+  },
+  {
    "id": "springfieldarmoryrangeofficer",
    "maker": "Springfield Armory",
    "model": "Range Officer",
@@ -333,6 +2620,22 @@
    "guide": true,
    "guideId": "springfieldarmoryrangeofficer",
    "guideSha256": "8ac15395e6219884998725988d7c9cf87472cc12bbe1ea9976a620c5b28e9904"
+  },
+  {
+   "id": "knightsarmamentsr15",
+   "maker": "Knights Armament",
+   "model": "SR-15",
+   "chambering": "5.56",
+   "category": "AR-pattern rifle",
+   "family": "AR15",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223"
+   ],
+   "guide": true,
+   "guideId": "knightsarmamentsr15",
+   "guideSha256": "4868b82532986d78a8d6af8f1ff2e75e61de38ec5bdb424493c2966b9b117363"
   },
   {
    "id": "lmtdefender",
@@ -351,6 +2654,406 @@
    "guideSha256": "780ced0063f59119fa71f39603769bb60a9f50db799b53979fa6a035eabd4dc5"
   },
   {
+   "id": "diamondbackdb10",
+   "maker": "Diamondback",
+   "model": "DB10",
+   "chambering": ".308",
+   "category": "AR-pattern rifle",
+   "family": "AR10",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".308 Win"
+   ],
+   "guide": true,
+   "guideId": "diamondbackdb10",
+   "guideSha256": "2e8aba2d461480681c5f9b72b1f0719333f48e94352a352c922808f5a7a28127"
+  },
+  {
+   "id": "armalitear10",
+   "maker": "ArmaLite",
+   "model": "AR-10",
+   "chambering": ".308",
+   "category": "AR-pattern rifle",
+   "family": "AR10",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".308 Win"
+   ],
+   "guide": true,
+   "guideId": "armalitear10",
+   "guideSha256": "3a164c9b6e621e3dc7e8b0f89bb9e41057ad263d8e3db0fbf7d2c6e3844fa9c4"
+  },
+  {
+   "id": "knightsarmamentsr25",
+   "maker": "Knights Armament",
+   "model": "SR-25",
+   "chambering": ".308",
+   "category": "AR-pattern rifle",
+   "family": "AR10",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".308 Win"
+   ],
+   "guide": true,
+   "guideId": "knightsarmamentsr25",
+   "guideSha256": "07fb2a9fefa5a463d3e756ac8a2cc3239947b35a2c4d003383395e6f9a542063"
+  },
+  {
+   "id": "mossberg590s",
+   "maker": "Mossberg",
+   "model": "590S",
+   "chambering": "12 GA",
+   "category": "Pump shotgun",
+   "family": "PUMP-590",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossberg590s",
+   "guideSha256": "a33a303e9687cea4e70d95bd8b0c8cdee9f114b91c62629e3687c02511c790dd"
+  },
+  {
+   "id": "smithwesson686plus",
+   "maker": "Smith & Wesson",
+   "model": "686 Plus",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 2,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwesson686plus",
+   "guideSha256": "3b46dfc284cd34a84d3b606ee2a17485d4e0d397542b00b825337a3bce86e29b"
+  },
+  {
+   "id": "smithwessonmodel640",
+   "maker": "Smith & Wesson",
+   "model": "Model 640",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 2,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel640",
+   "guideSha256": "d3408e062f6acb3b773a41b0cd323726e5688131feb72d07ab731c57bd8481ef"
+  },
+  {
+   "id": "smithwessonmodel340pd",
+   "maker": "Smith & Wesson",
+   "model": "Model 340 PD",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 2,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel340pd",
+   "guideSha256": "a892b298d2c90b69890e95d293b646fbfae8b037bc3c3cb56798e7437134cd3f"
+  },
+  {
+   "id": "coltdetectivespecial",
+   "maker": "Colt",
+   "model": "Detective Special",
+   "chambering": ".38 Special",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 2,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": true,
+   "guideId": "coltdetectivespecial",
+   "guideSha256": "e7b44c6449c8ea1ab474cf7e5f0554bb2e197302e2d482495dfe086c76d01a2a"
+  },
+  {
+   "id": "heritageroscoe",
+   "maker": "Heritage",
+   "model": "Roscoe",
+   "chambering": ".38 Special",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 2,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": true,
+   "guideId": "heritageroscoe",
+   "guideSha256": "8afa4008569d0fe3177b8ff476b2fbc425362a5e7e5c48839857034899f485d3",
+   "bestPractices": true
+  },
+  {
+   "id": "charterarmspathfinder",
+   "maker": "Charter Arms",
+   "model": "Pathfinder",
+   "chambering": ".22 LR",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "smithwessonmodel69",
+   "maker": "Smith & Wesson",
+   "model": "Model 69",
+   "chambering": ".44 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".44 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel69",
+   "guideSha256": "77683a0ba22feb4eb8ad91aca87a4d06ba8cf99fb626cb44d79735456aa52349"
+  },
+  {
+   "id": "smithwessonmodel610",
+   "maker": "Smith & Wesson",
+   "model": "Model 610",
+   "chambering": "10mm",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    "10mm"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel610",
+   "guideSha256": "a4d2e3da46ed4c1ab7aedb4c299dcac7a58adcfcddbb3be3437470f75fb81c77"
+  },
+  {
+   "id": "smithwessonmodel27",
+   "maker": "Smith & Wesson",
+   "model": "Model 27",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel27",
+   "guideSha256": "09fa1940d8e11634544cae2d7c169b970f9d0b5e9880509d605e8aa6ce5c469c"
+  },
+  {
+   "id": "smithwessonmodel57",
+   "maker": "Smith & Wesson",
+   "model": "Model 57",
+   "chambering": ".41 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".41 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel57",
+   "guideSha256": "a548337ccda50736297d185e6a2d2643c5051f7fff2e52bb764602fe82789a64"
+  },
+  {
+   "id": "rugersecuritysix",
+   "maker": "Ruger",
+   "model": "Security-Six",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 4,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "rugersecuritysix",
+   "guideSha256": "7bc1bda4e09d5dc94dd45780abb495d5800dbf8164dfa9fd76cc8c3749c62879"
+  },
+  {
+   "id": "charterarmspitbull",
+   "maker": "Charter Arms",
+   "model": "Pitbull",
+   "chambering": "9mm",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "traditions1873frontier",
+   "maker": "Traditions",
+   "model": "1873 Frontier",
+   "chambering": ".45 Colt",
+   "category": "Revolver",
+   "family": "REV-SA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".45 LC"
+   ],
+   "guide": true,
+   "guideId": "traditions1873frontier",
+   "guideSha256": "e9ddf7f50412d2dba2f96ce6b7a167573a3d73b4b6be574f593135091a8e84c0",
+   "bestPractices": true
+  },
+  {
+   "id": "cimarronmodelp",
+   "maker": "Cimarron",
+   "model": "Model P",
+   "chambering": ".45 Colt",
+   "category": "Revolver",
+   "family": "REV-SA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".45 LC"
+   ],
+   "guide": true,
+   "guideId": "cimarronmodelp",
+   "guideSha256": "82dea7440f654781b682df3e19d206f7811be12c1387b2683ae7c4316614ab85"
+  },
+  {
+   "id": "taylorsco1873cattleman",
+   "maker": "Taylors & Co",
+   "model": "1873 Cattleman",
+   "chambering": ".45 Colt",
+   "category": "Revolver",
+   "family": "REV-SA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".45 LC"
+   ],
+   "guide": true,
+   "guideId": "taylorsco1873cattleman",
+   "guideSha256": "56c0832a55d0614231a6d0ffce92ff8cdf2fc24252c18fce81c8b73000bbb177"
+  },
+  {
+   "id": "northamericanarmsblackwidow",
+   "maker": "North American Arms",
+   "model": "Black Widow",
+   "chambering": ".22 WMR",
+   "category": "Revolver",
+   "family": "REV-SA",
+   "tier": 4,
+   "group": "Revolvers",
+   "chamberings": [
+    ".22 WMR"
+   ],
+   "guide": true,
+   "guideId": "northamericanarmsblackwidow",
+   "guideSha256": "0152135826b53528e1bf200ae5500d7658619a1228c17d3f7fc6b4b960ab3003"
+  },
+  {
+   "id": "ruggedmustang22",
+   "maker": "Rugged",
+   "model": "Mustang 22",
+   "chambering": ".22 LR",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 2,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "ruggedmustang22",
+   "guideSha256": "9637199f731cd7c0b55a32fbf35e7e6503f1b34aa73cbfd44641552669759d20"
+  },
+  {
+   "id": "ruggedradiant762",
+   "maker": "Rugged",
+   "model": "Radiant 762",
+   "chambering": ".30 cal",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 2,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "ruggedradiant762",
+   "guideSha256": "1f08fd2a34be5a37ce76aa168b46e4f4d2ec2ecb654524938a32d999fd6f27a5"
+  },
+  {
+   "id": "ruggedmicro30",
+   "maker": "Rugged",
+   "model": "Micro30",
+   "chambering": ".30 cal",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "ruggedmicro30",
+   "guideSha256": "c1499c3250ad7eae1ace276f43542c4319f3d791ef8d05c443ea28f2115b8ea4"
+  },
+  {
+   "id": "ruggedsurgex",
+   "maker": "Rugged",
+   "model": "SurgeX",
+   "chambering": ".30 cal",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "ruggedsurgex",
+   "guideSha256": "14128c73f36ebe7058ab3a0f7e265644b1a0deecaf4d10f6956768b710cd9797"
+  },
+  {
+   "id": "deadairghostm",
+   "maker": "Dead Air",
+   "model": "Ghost-M",
+   "chambering": "9mm",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "deadairghostm",
+   "guideSha256": "afa8f0b47ecf37de5da6a3cae5dc4a0e78a55a329f323957aa72e545ed9ca6a7"
+  },
+  {
    "id": "nighthawkcustom1911",
    "maker": "Nighthawk Custom",
    "model": "1911",
@@ -367,6 +3070,369 @@
    "guideSha256": "0664e20e14432c399cd21e6455e202d6ceeae63984bc7d880910b6150abc3c2a"
   },
   {
+   "id": "sct19",
+   "maker": "SCT",
+   "model": "19",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "GLOCK",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "sct19",
+   "guideSha256": "dc4deefe5b5e50f8c54489cb78ace9b807da7bc098036cfbe230590de7a678dc",
+   "bestPractices": true
+  },
+  {
+   "id": "coltcompetition1911",
+   "maker": "Colt",
+   "model": "Competition 1911",
+   "chambering": ".45 ACP",
+   "category": "Semi-auto pistol",
+   "family": "1911",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".45 ACP"
+   ],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "cmpm1911a1",
+   "maker": "CMP",
+   "model": "M1911A1",
+   "chambering": ".45 ACP",
+   "category": "Semi-auto pistol",
+   "family": "1911",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [
+    ".45 ACP"
+   ],
+   "guide": true,
+   "guideId": "cmpm1911a1",
+   "guideSha256": "6a3a743fb0072de060aaa7aa636d9217082ee340823fd9d0e61641d756fc2944",
+   "bestPractices": true
+  },
+  {
+   "id": "coltm45a1",
+   "maker": "Colt",
+   "model": "M45A1",
+   "chambering": ".45 ACP",
+   "category": "Semi-auto pistol",
+   "family": "1911",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [
+    ".45 ACP"
+   ],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "coltwileyclappgovernment",
+   "maker": "Colt",
+   "model": "Wiley Clapp Government",
+   "chambering": ".45 ACP",
+   "category": "Semi-auto pistol",
+   "family": "1911",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [
+    ".45 ACP"
+   ],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "pofrevolutiondi",
+   "maker": "POF",
+   "model": "Revolution DI",
+   "chambering": ".308",
+   "category": "AR-pattern rifle",
+   "family": "AR10",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [
+    ".308 Win"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "christensenarmsca10",
+   "maker": "Christensen Arms",
+   "model": "CA-10",
+   "chambering": ".308",
+   "category": "AR-pattern rifle",
+   "family": "AR10",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [
+    ".308 Win"
+   ],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "smithwessonmodel43c",
+   "maker": "Smith & Wesson",
+   "model": "Model 43 C",
+   "chambering": ".22 LR",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel43c",
+   "guideSha256": "9120bda037209ea91271c4c9aa003a5f9e95ea37e19ace87d85215fb0cf25f50"
+  },
+  {
+   "id": "smithwessonmodel351c",
+   "maker": "Smith & Wesson",
+   "model": "Model 351 C",
+   "chambering": ".22 WMR",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".22 WMR"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel351c",
+   "guideSha256": "b4b69f2c5c6e73e7c73e137199df5d1e7dba4eb504b9e431b0cb84e911c4377e"
+  },
+  {
+   "id": "smithwessonmodel360pd",
+   "maker": "Smith & Wesson",
+   "model": "Model 360 PD",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel360pd",
+   "guideSha256": "47ea4334d98ca48fb4fddb154e2a8dd7a6a60afde95179a162945f1733402e2c"
+  },
+  {
+   "id": "smithwessonmodel432",
+   "maker": "Smith & Wesson",
+   "model": "Model 432",
+   "chambering": ".32 H&R",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".32 H&R"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel432",
+   "guideSha256": "4dd3ee0ae34f4011172ec98836765d2e94088e49e748aa11151cf49708795765"
+  },
+  {
+   "id": "smithwessonmodel648",
+   "maker": "Smith & Wesson",
+   "model": "Model 648",
+   "chambering": ".22 WMR",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".22 WMR"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel648",
+   "guideSha256": "bf32125d65bfd660e3b3d89a9bb246e091ab2939c57784426fd716668fddff45"
+  },
+  {
+   "id": "smithwessonmodel25",
+   "maker": "Smith & Wesson",
+   "model": "Model 25",
+   "chambering": ".45 Colt",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 4,
+   "group": "Revolvers",
+   "chamberings": [
+    ".45 LC"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel25",
+   "guideSha256": "6a1535a07c536f335a6320b6549b13a0082027f0c69e49337395497335a92e08"
+  },
+  {
+   "id": "smithwessonmodel327",
+   "maker": "Smith & Wesson",
+   "model": "Model 327",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 4,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel327",
+   "guideSha256": "b68287e704f8562c1a4db41cf2dc116c131ccf0a374dd12fd78d04b2df0c3de4"
+  },
+  {
+   "id": "smithwessonmodel649",
+   "maker": "Smith & Wesson",
+   "model": "Model 649",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 4,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel649",
+   "guideSha256": "75320ef51d097d890332d082eefe05c88baa705af6d4d699c71643cd24f491fe"
+  },
+  {
+   "id": "smithwessonmodel986",
+   "maker": "Smith & Wesson",
+   "model": "Model 986",
+   "chambering": "9mm",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 4,
+   "group": "Revolvers",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel986",
+   "guideSha256": "d594ae295eaf3627210ddf3241881435e3493118209a7c4d1d0fc673d5bd3f54"
+  },
+  {
+   "id": "taurusjudgehomedefender",
+   "maker": "Taurus",
+   "model": "Judge Home Defender",
+   "chambering": ".410 / .45 LC",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 4,
+   "group": "Revolvers",
+   "chamberings": [
+    ".410 / .45 LC"
+   ],
+   "guide": false
+  },
+  {
+   "id": "coltgrizzly",
+   "maker": "Colt",
+   "model": "Grizzly",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "coltviper",
+   "maker": "Colt",
+   "model": "Viper",
+   "chambering": ".357 Mag",
+   "category": "Revolver",
+   "family": "REV-DA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag"
+   ],
+   "guide": true,
+   "guideId": "coltviper",
+   "guideSha256": "1fa69c151db677524cd3b9617ff698e053cf7721942ac43870e9f126d5a6c9ca",
+   "bestPractices": true
+  },
+  {
+   "id": "cimarronevilroy",
+   "maker": "Cimarron",
+   "model": "Evil Roy",
+   "chambering": ".45 Colt",
+   "category": "Revolver",
+   "family": "REV-SA",
+   "tier": 4,
+   "group": "Revolvers",
+   "chamberings": [
+    ".45 LC"
+   ],
+   "guide": true,
+   "guideId": "cimarronevilroy",
+   "guideSha256": "ce7d2b45b6dc56c958541adea303e9d4023de59c01d0f1d608a05d69d32488ef"
+  },
+  {
+   "id": "sigsauersrd22x",
+   "maker": "SIG Sauer",
+   "model": "SRD22X",
+   "chambering": ".22 LR",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "sigsauersrd22x",
+   "guideSha256": "efc5dd35043e6b14c58c3a323cfa30402d5fb4384c656a6b59f6d2e82a96a864"
+  },
+  {
+   "id": "gemtechlunar9",
+   "maker": "Gemtech",
+   "model": "Lunar 9",
+   "chambering": "9mm",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "gemtechlunar9",
+   "guideSha256": "d0aec8c37fb518c4927861ca13407718bae0f9fab83e6a7e4a92dc3cbc615242"
+  },
+  {
+   "id": "sigsauerslx",
+   "maker": "SIG Sauer",
+   "model": "SLX",
+   "chambering": ".30 cal",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "sigsauerslx",
+   "guideSha256": "912dece7d6259342719bcf770476f8ad796002ea5e05620dcbb74d35db13f679"
+  },
+  {
    "id": "aacranger7",
    "maker": "AAC",
    "model": "Ranger 7",
@@ -380,7 +3446,692 @@
    ],
    "guide": true,
    "guideId": "aacranger7",
-   "guideSha256": "08e6ef9ac9adfe78291d12e3384ef092de22b8de2e1ba9b7928b66759c32ea65"
+   "guideSha256": "5e80711b84d6be27f07ef370cde06c3b4d21ff9e204a271c0767b943c4209725"
+  },
+  {
+   "id": "silencercentralbanish556",
+   "maker": "Silencer Central",
+   "model": "Banish 556",
+   "chambering": "5.56",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": true,
+   "guideId": "silencercentralbanish556",
+   "guideSha256": "ebb6ea6ab6008383f03fe2923940d36f1a3f4c9d7caaf1f9f7955c7f72118379"
+  },
+  {
+   "id": "deadairnomadtiotb",
+   "maker": "Dead Air",
+   "model": "Nomad Ti OTB",
+   "chambering": ".30 cal",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 4,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "deadairnomadtiotb",
+   "guideSha256": "698303638fbb5d57958ddfb3fe51febe13b0013b342c54383355058a099fcd88"
+  },
+  {
+   "id": "mlcvaoptimaxp",
+   "maker": "CVA",
+   "model": "Optima XP",
+   "chambering": ".50 cal",
+   "category": "Inline break-action",
+   "family": "ML-CVA-QRBP",
+   "tier": null,
+   "group": "Muzzleloaders",
+   "chamberings": [
+    ".50 cal"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "mlcvacrossfire",
+   "maker": "CVA",
+   "model": "Crossfire",
+   "chambering": ".50 cal",
+   "category": "Inline break-action, FireStick",
+   "family": "ML-FIRESTICK",
+   "tier": null,
+   "group": "Muzzleloaders",
+   "chamberings": [
+    ".50 cal"
+   ],
+   "guide": true,
+   "guideId": "mlcvacrossfire",
+   "guideSha256": "2159f193bcabb4164d8b30780e3b8f109fd8f506050c0c27c7bf0f95ff78513a"
+  },
+  {
+   "id": "mltradvortek",
+   "maker": "Traditions",
+   "model": "Vortek StrikerFire",
+   "chambering": ".45 / .50 cal",
+   "category": "Inline break-action",
+   "family": "ML-TRAD-ACCEL",
+   "tier": null,
+   "group": "Muzzleloaders",
+   "chamberings": [
+    ".45 cal",
+    ".50 cal"
+   ],
+   "guide": true,
+   "guideId": "mltradvortek",
+   "guideSha256": "c150b41d1d53eb1ea9197b6d7d8fb73414f1e40dc57f75e41abd2e7a1d2cb9c9"
+  },
+  {
+   "id": "mltradvortekldr",
+   "maker": "Traditions",
+   "model": "Vortek StrikerFire LDR",
+   "chambering": ".50 cal",
+   "category": "Inline break-action",
+   "family": "ML-TRAD-ACCEL",
+   "tier": null,
+   "group": "Muzzleloaders",
+   "chamberings": [
+    ".50 cal"
+   ],
+   "guide": true,
+   "guideId": "mltradvortekldr",
+   "guideSha256": "fb553bc861e648e110d42decf0f787e067145ef910f932066da1bd5cce8c7a94"
+  },
+  {
+   "id": "mltradshedhorn",
+   "maker": "Traditions",
+   "model": "ShedHorn",
+   "chambering": ".50 cal",
+   "category": "Sidelock percussion",
+   "family": "ML-TRAD-ACCEL",
+   "tier": null,
+   "group": "Muzzleloaders",
+   "chamberings": [
+    ".50 cal"
+   ],
+   "guide": true,
+   "guideId": "mltradshedhorn",
+   "guideSha256": "36d8b1feba0dd2a218a1e133a45f540aed44b99d1d1b98376998ef4fdaca63c5"
+  },
+  {
+   "id": "mlknighttk2000",
+   "maker": "Knight",
+   "model": "TK2000",
+   "chambering": "12 ga",
+   "category": "Percussion shotgun, 209",
+   "family": "ML-KNIGHT-LEG",
+   "tier": null,
+   "group": "Muzzleloaders",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mlknighttk2000",
+   "guideSha256": "a1914694fcadb776d549f09912100886bd444350053f6ad87bb1365d28fba9b0"
+  },
+  {
+   "id": "mlpedsxsperc",
+   "maker": "Pedersoli",
+   "model": "Side-by-side percussion shotgun",
+   "chambering": "12 / 20 ga",
+   "category": "Percussion shotgun",
+   "family": "ML-PED-TRAD",
+   "tier": null,
+   "group": "Muzzleloaders",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": true,
+   "guideId": "mlpedsxsperc",
+   "guideSha256": "8829d4222b6816eb728e344add793429fc528bcc72a61528a83f0c577412e7b1"
+  },
+  {
+   "id": "mlpedsxsflint",
+   "maker": "Pedersoli",
+   "model": "Side-by-side flintlock shotgun",
+   "chambering": "12 ga",
+   "category": "Flintlock shotgun",
+   "family": "ML-PED-TRAD",
+   "tier": null,
+   "group": "Muzzleloaders",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mlpedsxsflint",
+   "guideSha256": "1fa35f04e72ec9d83d430d6eacc55702f0f1c94e6c03947403a660a3d8cf8ef3"
+  },
+  {
+   "id": "berettab22jaguar",
+   "maker": "Beretta",
+   "model": "B22 Jaguar",
+   "chambering": ".22 LR",
+   "category": "Semi-auto pistol",
+   "family": "BERETTA-B22",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "berettab22jaguar",
+   "guideSha256": "2fd5334e1124124f1cd8e0285c7a49b4ddd1173ea77f939c3bb0768ad3e4da2d"
+  },
+  {
+   "id": "canikmetemc9prime",
+   "maker": "Canik",
+   "model": "METE MC9 Prime",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "CANIK",
+   "tier": 2,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "canikmetemc9prime",
+   "guideSha256": "6d2821aae24d5c323682dcd60f6e8d81494da9904a94c3a6861ea4d2eaa14ef6"
+  },
+  {
+   "id": "lwrciic9",
+   "maker": "LWRCI",
+   "model": "IC9",
+   "chambering": "9mm",
+   "category": "Semi-auto carbine",
+   "family": "LWRC-IC9",
+   "tier": 2,
+   "group": "Rifles",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "lwrciic9",
+   "guideSha256": "92ab40f45cb57b5a381065fa8a91ffa202a7468672047e0b452054482a6eb9cc"
+  },
+  {
+   "id": "cz75tsczechmate",
+   "maker": "CZ",
+   "model": "75 TS Czechmate",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "CZ-75",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "czczechmateparrot",
+   "maker": "CZ",
+   "model": "Czechmate Parrot",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "CZ-75",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "caniksfxrival",
+   "maker": "Canik",
+   "model": "SFx Rival",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "CANIK",
+   "tier": 2,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "caniksfxrival",
+   "guideSha256": "569b84e7bf15604e82cf27d349fa15dbae67a41df020aa302fc067cc0d7f1b89"
+  },
+  {
+   "id": "caniktticombat",
+   "maker": "Canik",
+   "model": "TTI Combat",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "CANIK",
+   "tier": 2,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "caniktticombat",
+   "guideSha256": "7526903acf3843d5a37a4df16461ddfe52eebc411042a25765ed861ad53299d7"
+  },
+  {
+   "id": "sigsauerp211gto",
+   "maker": "SIG Sauer",
+   "model": "P211 GTO",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "sigsauerp211gto",
+   "guideSha256": "f4523d61e82c2b926eed28484387e1a87af408c3b0e36054e52e2964676a6f50"
+  },
+  {
+   "id": "tanfogliogoldcustomxtreme",
+   "maker": "Tanfoglio",
+   "model": "Gold Custom Xtreme",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "TANFOGLIO",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "tanfogliostockiiixtreme",
+   "maker": "Tanfoglio",
+   "model": "Stock III Xtreme",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "TANFOGLIO",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "volquartsenmambatf",
+   "maker": "Volquartsen",
+   "model": "Mamba-TF",
+   "chambering": ".22 LR",
+   "category": "Rimfire pistol",
+   "family": "VOLQ-PISTOL",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "volquartsenmambatf",
+   "guideSha256": "fb87d73437926c84225507a4d2a6b393afd5b9cfbe72dcfd24e712f7cdba3fd0",
+   "bestPractices": true
+  },
+  {
+   "id": "waltherpdpsteelframe",
+   "maker": "Walther",
+   "model": "PDP Steel Frame",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "WALTHER-PDP",
+   "tier": 2,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "waltherpdpsteelframe",
+   "guideSha256": "99a3463448c0f584b985de7fc6115db8ec29f87a040f9ce70e0b3825cdaa9bfd"
+  },
+  {
+   "id": "beretta688performancesporting",
+   "maker": "Beretta",
+   "model": "688 Performance Sporting",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-BERETTA-69X",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "beretta688performancesporting",
+   "guideSha256": "847e92f7c293e4b97d4252b2e794dfad839287a1222846e210e1000f60dcc2c2",
+   "bestPractices": true
+  },
+  {
+   "id": "beretta688performancetrapas",
+   "maker": "Beretta",
+   "model": "688 Performance Trap AS",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-BERETTA-69X",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "beretta688performancetrapas",
+   "guideSha256": "1fa05b48249043806d0925991bb3eea743bf8032f68a49ca22ba4e8e1f683e12",
+   "bestPractices": true
+  },
+  {
+   "id": "beretta694blackdlctrap",
+   "maker": "Beretta",
+   "model": "694 Black DLC Trap",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-BERETTA-69X",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "beretta694blackdlctrap",
+   "guideSha256": "78411a8c5beaebb3fc8432367914f96176b247263cfc5ede341f2d553affa955",
+   "bestPractices": true
+  },
+  {
+   "id": "beretta694sporting",
+   "maker": "Beretta",
+   "model": "694 Sporting",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-BERETTA-69X",
+   "tier": 2,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "beretta694sporting",
+   "guideSha256": "8cdcc7c03a263e3a24e71186d8fa346c44f9018db013d10ba9ea217d421d6f49",
+   "bestPractices": true
+  },
+  {
+   "id": "berettadt11sporting",
+   "maker": "Beretta",
+   "model": "DT11 Sporting",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-BERETTA-DT",
+   "tier": 2,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "berettadt11sporting",
+   "guideSha256": "baf647554a7249e62b9a5133d031d152db5895a3ef5858de004c7c48aa359967",
+   "bestPractices": true
+  },
+  {
+   "id": "berettadt11supersport",
+   "maker": "Beretta",
+   "model": "DT11 Supersport",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-BERETTA-DT",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "berettadt11supersport",
+   "guideSha256": "d7ac6f5d58df4bd928dea0783f937191b57412bc33c3bd9716bd198c455bdcf6",
+   "bestPractices": true
+  },
+  {
+   "id": "berettadt11trap",
+   "maker": "Beretta",
+   "model": "DT11 Trap",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-BERETTA-DT",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "berettadt11trap",
+   "guideSha256": "bf804c347796d4b3f7626db2bb538199b81a0d4f0094d855367c0fad92e44eda",
+   "bestPractices": true
+  },
+  {
+   "id": "perazzihightech2024",
+   "maker": "Perazzi",
+   "model": "High Tech 2024",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-PERAZZI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "perazzihightech2024",
+   "guideSha256": "b5a9756d0fb045d9134e7cc8dfe47f8cfac906dd0e0bd2fe0fe3d5a08ef6af2a",
+   "bestPractices": true
+  },
+  {
+   "id": "perazzihightechs",
+   "maker": "Perazzi",
+   "model": "High Tech S",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-PERAZZI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "perazzihightechs",
+   "guideSha256": "95a45a67fb1b20d5a2c47e977e4e26598dec7d6c6086941a74700475f4053b18",
+   "bestPractices": true
+  },
+  {
+   "id": "perazzimx10",
+   "maker": "Perazzi",
+   "model": "MX10",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-PERAZZI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "perazzimx10",
+   "guideSha256": "7b330617a80f8fba96a146c6a3f18ca5eab493b87d165b4ceffad05d4aa3f775",
+   "bestPractices": true
+  },
+  {
+   "id": "perazzimx15l",
+   "maker": "Perazzi",
+   "model": "MX15L",
+   "chambering": "12 GA",
+   "category": "Break-action single-barrel shotgun",
+   "family": "SB-PERAZZI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "perazzimx15l",
+   "guideSha256": "3380524b72c19e8397ce7d314c9adcd9d314688bf579ff138d6d9c402853402f",
+   "bestPractices": true
+  },
+  {
+   "id": "perazzimx20008",
+   "maker": "Perazzi",
+   "model": "MX2000/8",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-PERAZZI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "perazzimx20008",
+   "guideSha256": "84248f8b4902751e8a79e45594e4bf2bf98d8b7b2fb14449e95c95a0f0b8ce59",
+   "bestPractices": true
+  },
+  {
+   "id": "perazzimx2000s",
+   "maker": "Perazzi",
+   "model": "MX2000S",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-PERAZZI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "perazzimx2000s",
+   "guideSha256": "caa71b6428e736597889ef80b339c60cf20999f24b8ae7be8e4b699185065a99",
+   "bestPractices": true
+  },
+  {
+   "id": "perazzimx2005",
+   "maker": "Perazzi",
+   "model": "MX2005",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-PERAZZI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "perazzimx2005",
+   "guideSha256": "017775b386f1018575663b320b63e7097448eec874c52f3d5b9c272979141602",
+   "bestPractices": true
+  },
+  {
+   "id": "perazzimx8",
+   "maker": "Perazzi",
+   "model": "MX8",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-PERAZZI",
+   "tier": 2,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "perazzimx8",
+   "guideSha256": "bdc1887d664044875c565cd008ff23140ed422f4ca139b0a4b46389dd7d898d7",
+   "bestPractices": true
+  },
+  {
+   "id": "perazzimxssporting",
+   "maker": "Perazzi",
+   "model": "MXS Sporting",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-PERAZZI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "perazzimxssporting",
+   "guideSha256": "b46e1f329e1117a5afd9d836e2a64794e4bc29fda411ed8e39d566f9566d8373",
+   "bestPractices": true
+  },
+  {
+   "id": "perazzitm9x",
+   "maker": "Perazzi",
+   "model": "TM9X",
+   "chambering": "12 GA",
+   "category": "Break-action single-barrel shotgun",
+   "family": "SB-PERAZZI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "perazzitm9x",
+   "guideSha256": "a8ecb85243d6481d3206fbb917f15cc6146746287a5a1c158c58678e5f6bb7dc",
+   "bestPractices": true
+  },
+  {
+   "id": "stoegerm3k3gun",
+   "maker": "Stoeger",
+   "model": "M3K 3-Gun",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-INERTIA",
+   "tier": 2,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "stoegerm3k3gun",
+   "guideSha256": "036eefa48824fc8d55ad9c63508002ed6d5475470c4b5a295599776f058dddc7"
+  },
+  {
+   "id": "christensenarmsmesafft",
+   "maker": "Christensen Arms",
+   "model": "Mesa FFT",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-700",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "christensenarmsmesafft",
+   "guideSha256": "734009298832b24da076ab5ab71bdf0cf7e8bb811460ca6185ee8a024ad8c762"
+  },
+  {
+   "id": "kimber8400caprivi",
+   "maker": "Kimber",
+   "model": "8400 Caprivi",
+   "chambering": ".375 H&H",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-KIMBER",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [
+    ".375 H&H"
+   ],
+   "guide": true,
+   "guideId": "kimber8400caprivi",
+   "guideSha256": "719a7365f47ea0112f32c40a82569a151466d3258ac12e2069e73524f61f4e64"
   },
   {
    "id": "rugerhawkeyealaskan",
@@ -395,6 +4146,32 @@
    "guide": true,
    "guideId": "rugerhawkeyealaskan",
    "guideSha256": "960b7aa1e41455a632360f0b2f54dad3ab2f02386801526282e22c56e2766f0e"
+  },
+  {
+   "id": "howahcrchassisrifle",
+   "maker": "Howa",
+   "model": "HCR Chassis Rifle",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "BOLT-HOWA",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "masterpiecearmspmrcustommatchrifle",
+   "maker": "MasterPiece Arms",
+   "model": "PMR Custom Match Rifle",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "MPA-BA",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
   },
   {
    "id": "steyrarmsssg08",
@@ -414,6 +4191,185 @@
    "guide": true,
    "guideId": "steyrarmsssg08",
    "guideSha256": "5fc814dafdec25cff6d4bb2a7f0e8c17e3bffa3edfd59d612bdc21f2b0e3fbd1"
+  },
+  {
+   "id": "berettasl3",
+   "maker": "Beretta",
+   "model": "SL3",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-BERETTA-SIDELOCK",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "berettasl3",
+   "guideSha256": "7ac794f890e498bbc56ed477e089469460762228ad2853d4948b210351df5c75",
+   "bestPractices": true
+  },
+  {
+   "id": "berettaso10",
+   "maker": "Beretta",
+   "model": "SO10",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-BERETTA-SIDELOCK",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "berettaso10",
+   "guideSha256": "2664096e69b3aad07eb58e01b67cc8d0c358766de365198064a63cc0e6c3f34b",
+   "bestPractices": true
+  },
+  {
+   "id": "berettaso5sporting",
+   "maker": "Beretta",
+   "model": "SO5 Sporting",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-BERETTA-SIDELOCK",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "berettaso5sporting",
+   "guideSha256": "e979f37333d4b821d0695c4a02ab6419c307ce3cb1efd9cc584299467c2355a0",
+   "bestPractices": true
+  },
+  {
+   "id": "berettaultraleggero",
+   "maker": "Beretta",
+   "model": "Ultraleggero",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-BERETTA-69X",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "berettaultraleggero",
+   "guideSha256": "b523e79f5e04e2c95243dc0359e9d84a3d84a2c89d4d944d64e83ecddfcc9ba2",
+   "bestPractices": true
+  },
+  {
+   "id": "perazzimx12",
+   "maker": "Perazzi",
+   "model": "MX12",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-PERAZZI",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "perazzimx12",
+   "guideSha256": "f90383bc8e8dc17b8920f2ab0bf8b0118ab26a3fa8d3b4d381e021d9f758cfac",
+   "bestPractices": true
+  },
+  {
+   "id": "alchemycustomweaponryprime",
+   "maker": "Alchemy Custom Weaponry",
+   "model": "Prime",
+   "chambering": "9mm/.45",
+   "category": "Semi-auto pistol",
+   "family": "1911-CUSTOM",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm",
+    ".45 ACP"
+   ],
+   "guide": true,
+   "guideId": "alchemycustomweaponryprime",
+   "guideSha256": "e0a094381fdc3072548dfe7829b393c10f6610da1d6f4398a8414e196a999df7",
+   "bestPractices": true
+  },
+  {
+   "id": "btghm9gen2",
+   "maker": "B&T",
+   "model": "GHM9 Gen2",
+   "chambering": "9mm",
+   "category": "Semi-auto rifle",
+   "family": "BT-GHM9",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "bularmoryaxecleaver",
+   "maker": "Bul Armory",
+   "model": "Axe Cleaver",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "bularmoryaxecleaver",
+   "guideSha256": "5d1a35ba28e25af78d6921a20b3d33c6272650e649f4303d8d658d69e773bdca"
+  },
+  {
+   "id": "bularmoryfireball",
+   "maker": "Bul Armory",
+   "model": "Fireball",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "jacobgreyhexpro2011",
+   "maker": "Jacob Grey",
+   "model": "Hex Pro 2011",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "nighthawkcustomsandhawk",
+   "maker": "Nighthawk Custom",
+   "model": "Sandhawk",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "2011",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
   },
   {
    "id": "fabarmelosn2rssporting",
@@ -462,6 +4418,91 @@
    "guide": true,
    "guideId": "fabarml4ssporting",
    "guideSha256": "92dde93acd3ca96d48912634a6ea3b0f5675a8fe0349a71990c14aa45ef7f066"
+  },
+  {
+   "id": "kolaraaacompetition",
+   "maker": "Kolar",
+   "model": "AAA Competition",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-KOLAR",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "kolaraaacompetition",
+   "guideSha256": "8dd9d711bed4e5b448a151e307da6b915d7fa9a95866c2428cddccb98cfdcb51",
+   "bestPractices": true
+  },
+  {
+   "id": "kolarmaxclays",
+   "maker": "Kolar",
+   "model": "Max Clays",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-KOLAR",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "kolarmaxclays",
+   "guideSha256": "fd0e1d7bcab187ce9de56d88eb93270e83156d06f6f8d577e714b10d20be8738",
+   "bestPractices": true
+  },
+  {
+   "id": "kolarmaxlitesporting",
+   "maker": "Kolar",
+   "model": "Max Lite Sporting",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-KOLAR",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "kolarmaxlitesporting",
+   "guideSha256": "61539ff2d408869d773d00ce7bab546ff971552e5d6176060a7d2222dcfbc31a",
+   "bestPractices": true
+  },
+  {
+   "id": "kolarmaxskeet",
+   "maker": "Kolar",
+   "model": "Max Skeet",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-KOLAR",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "kolarmaxskeet",
+   "guideSha256": "2d91447f7817b796d50e8124388d92cff7c0dc19c02a064fe7388a9dbbe4afd3",
+   "bestPractices": true
+  },
+  {
+   "id": "kolarmaxtrap",
+   "maker": "Kolar",
+   "model": "Max Trap",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-KOLAR",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "kolarmaxtrap",
+   "guideSha256": "65ce29e2335bbdb1b82991dd0cefae7a9fcacd982bd151f4e89b60f191ae4569",
+   "bestPractices": true
   },
   {
    "id": "rizzinibr110sporterips",
@@ -528,6 +4569,191 @@
    "guideSha256": "89a65bd4fb5277aadd9fb9bb0e53bc2d13e1b5220acbe05ccb9e28660f36978b"
   },
   {
+   "id": "zolikronos",
+   "maker": "Zoli",
+   "model": "Kronos",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-ZOLI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "zolikronos",
+   "guideSha256": "79c5c16b86a5af3e3ba62a8b311feaf32fdfced18a13a094774e1148513ff71d",
+   "bestPractices": true
+  },
+  {
+   "id": "zolizbella",
+   "maker": "Zoli",
+   "model": "Z-Bella",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-ZOLI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "zolizbella",
+   "guideSha256": "da7fbc8f6425526e42d9e6fde8bb18ad454c5ef490f697531987007ae59ce417",
+   "bestPractices": true
+  },
+  {
+   "id": "zolizsport",
+   "maker": "Zoli",
+   "model": "Z-Sport",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-ZOLI",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "zolizsport",
+   "guideSha256": "953a8cf282a9c15bb5d31dd4291162c7519b2c4f04964889ceafe61034873553",
+   "bestPractices": true
+  },
+  {
+   "id": "zolizsportextra",
+   "maker": "Zoli",
+   "model": "Z-Sport Extra",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "OU-ZOLI",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "zolizsportextra",
+   "guideSha256": "99bca096817037dae2b06801b48564a7a826faac01ffebca1e19c25352e7610f",
+   "bestPractices": true
+  },
+  {
+   "id": "typhoondefencef12sport",
+   "maker": "Typhoon Defence",
+   "model": "F12 Sport",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-AK-SG",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "ashburysaberm700",
+   "maker": "Ashbury Precision Ordnance",
+   "model": "SABER-M700",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "ASHBURY-SABER",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "ashburysaberm700",
+   "guideSha256": "d8cf1c2711ef19dcdb49a9348dfb341656c84c996d8da8232645bebb5fd9239b",
+   "bestPractices": true
+  },
+  {
+   "id": "gunwerksnexus",
+   "maker": "Gunwerks",
+   "model": "Nexus",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "GUNWERKS-NEXUS",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "gunwerksnexus",
+   "guideSha256": "06eaa5e14ab5531d345430c6ecb6d1aced353daf0a2fe42fba6e4d84a6ba1292"
+  },
+  {
+   "id": "horizonfirearmsvandal",
+   "maker": "Horizon Firearms",
+   "model": "Vandal",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "HORIZON-VANDAL",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "langdontacticallttimpact",
+   "maker": "Langdon Tactical",
+   "model": "LTT Impact",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "LTT-IMPACT",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "langdontacticallttimpact",
+   "guideSha256": "e932ac3cce94e19f299ef30a9b47fc1b08c391fb87bb3d78665813cf5e773938",
+   "bestPractices": true
+  },
+  {
+   "id": "pwsmk118mod2",
+   "maker": "Primary Weapons Systems",
+   "model": "MK118 MOD 2",
+   "chambering": "5.56 / 6mm ARC",
+   "category": "AR-pattern rifle (piston)",
+   "family": "AR-PISTON",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223",
+    "6mm ARC"
+   ],
+   "guide": true,
+   "guideId": "pwsmk118mod2",
+   "guideSha256": "78351a3a4aec816c9f987adb23b03dfb37f49af67e2c66f6872cbc9046040bc3"
+  },
+  {
+   "id": "proofresearchconvictiontacii",
+   "maker": "Proof Research",
+   "model": "Conviction TAC II",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "PROOF-CONVICTION",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "tisaspx9tacticalcomp",
+   "maker": "Tisas",
+   "model": "PX-9 Tactical Comp",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "TISAS-PX9",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
    "id": "cmmgmkw15",
    "maker": "CMMG",
    "model": "MkW-15",
@@ -543,6 +4769,365 @@
    "guide": true,
    "guideId": "cmmgmkw15",
    "guideSha256": "c90b75df2a14ad3732455e83fbb293599d27d9f43a6903b06bc6c30c6a613f8e"
+  },
+  {
+   "id": "cmmgdefcan86",
+   "maker": "CMMG",
+   "model": "DEFCAN-86",
+   "chambering": ".338",
+   "category": "Suppressor — sealed",
+   "family": "SUP-DEFCAN",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".338"
+   ],
+   "guide": true,
+   "guideId": "cmmgdefcan86",
+   "guideSha256": "eaea1550255c9e64d279eccaa691e33e33877a3578abf98198000c8cc0cd875f"
+  },
+  {
+   "id": "cmmgdefcan556",
+   "maker": "CMMG",
+   "model": "DEFCAN-556 / DEFCAN-762",
+   "chambering": "5.56 / .308",
+   "category": "Suppressor — sealed",
+   "family": "SUP-DEFCAN",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56",
+    ".308"
+   ],
+   "guide": true,
+   "guideId": "cmmgdefcan556",
+   "guideSha256": "0780415796c820d3f330b0457549b7be950b827c32b3a8a60edc5940a156950b"
+  },
+  {
+   "id": "cmmgdefcan9",
+   "maker": "CMMG",
+   "model": "DEFCAN-9 / DEFCAN-45",
+   "chambering": "9mm/.45",
+   "category": "Suppressor — sealed",
+   "family": "SUP-DEFCAN",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "9mm",
+    ".45 cal"
+   ],
+   "guide": true,
+   "guideId": "cmmgdefcan9",
+   "guideSha256": "eff008906a442b63dc32205eec22b383ee974fe2ff5b244bd7eb38c29f62273e"
+  },
+  {
+   "id": "cmmgzeroed22",
+   "maker": "CMMG",
+   "model": "ZEROED 22 / 22K / 22 Plus",
+   "chambering": ".22 LR",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "cmmgzeroed22",
+   "guideSha256": "7f70e607ab18f0a4319679d8bf5a395e804e63378fd34b876dc3d77917d86d44"
+  },
+  {
+   "id": "cmmgzeroed556",
+   "maker": "CMMG",
+   "model": "ZEROED 556 / 30 / 36 / 46",
+   "chambering": "multi",
+   "category": "Suppressor — sealed",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "cmmgzeroed556",
+   "guideSha256": "27c1f30d05f72da52f7634632debb255eb40ced37ad83ffc085df0b84e63d61c"
+  },
+  {
+   "id": "faxonfirearmsfx7",
+   "maker": "Faxon Firearms",
+   "model": "FX7",
+   "chambering": "—",
+   "category": "Bolt-action rifle",
+   "family": "FAXON-FX7",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "faxonfirearmsfx7",
+   "guideSha256": "65050a96a6bf8f9bdb51537cde93e4d5c907fbb203b5403266afff263440e56f"
+  },
+  {
+   "id": "faxonfirearmsfx22",
+   "maker": "Faxon Firearms",
+   "model": "FX22",
+   "chambering": ".22 LR",
+   "category": "Semi-auto rimfire rifle",
+   "family": "FAXON-FX22",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "faxonfirearmsfx22",
+   "guideSha256": "7d39a8fcecb1fc660895f5066c3b941d42df64d9e8e252948bdf090f04c1612d"
+  },
+  {
+   "id": "bularmorycherokee",
+   "maker": "Bul Armory",
+   "model": "Cherokee",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "BUL-CHEROKEE",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "bularmorycherokee",
+   "guideSha256": "8da6a51aedcb07c850d057ee522e9825b13edc22516fbebb90e5e9fe01e5dc19",
+   "bestPractices": true
+  },
+  {
+   "id": "lonewolftimberwolf",
+   "maker": "Lone Wolf",
+   "model": "Timberwolf",
+   "chambering": "—",
+   "category": "Semi-auto pistol",
+   "family": "LW-STRIKER",
+   "tier": 4,
+   "group": "Pistols",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "lonewolftimberwolf",
+   "guideSha256": "1607860cd7813ef69767e2ca66782b0e8bba19e0c132ce5995707a3f83eb5618"
+  },
+  {
+   "id": "lonewolfelimin8r45",
+   "maker": "Lone Wolf",
+   "model": "ELIMIN8R .45",
+   "chambering": ".45 multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 4,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "lonewolfelimin8r45",
+   "guideSha256": "7d7ade6d61d6c8f42f14cdf9318ee3e04d62fcaf827b16f5b493bc0a4aac5938"
+  },
+  {
+   "id": "lonewolfeliminator22",
+   "maker": "Lone Wolf",
+   "model": "ELIMINATOR 22",
+   "chambering": ".22 LR",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 4,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "lonewolfeliminator22",
+   "guideSha256": "608e3e290a80b418dc68a8453a8d408372efd7d22076d0a1f537cf388cc0558b"
+  },
+  {
+   "id": "jkarmament155rpx",
+   "maker": "JK Armament",
+   "model": "155 RPX",
+   "chambering": ".30 cal / 9mm",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal / 9mm"
+   ],
+   "guide": true,
+   "guideId": "jkarmament155rpx",
+   "guideSha256": "e125600165233cddd584d360041f8374394d23a373a0a24dbf8ea79796e6ee13"
+  },
+  {
+   "id": "jkarmament155goathf",
+   "maker": "JK Armament",
+   "model": "155 G.O.A.T. HF",
+   "chambering": "5.56",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": true,
+   "guideId": "jkarmament155goathf",
+   "guideSha256": "21aca8b387cee83544b19065855da115508a4d74609520d3a43f848773fa17c8"
+  },
+  {
+   "id": "jkarmament155sbrx",
+   "maker": "JK Armament",
+   "model": "155 SBRX",
+   "chambering": ".30 cal",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "jkarmament155sbrx",
+   "guideSha256": "bfcc50fa7ed64f519b8ac621208cb2a4b704b4b8bce01086786e9bccb84c1a90"
+  },
+  {
+   "id": "jkarmament105rfx",
+   "maker": "JK Armament",
+   "model": "105 RFX",
+   "chambering": ".22 LR",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "jkarmament105rfx",
+   "guideSha256": "a81355c98af93c9b5daa0e091aad7b28a97df267aabeaaff3856b2af4fb89da4"
+  },
+  {
+   "id": "jkarmament105ccx",
+   "maker": "JK Armament",
+   "model": "105 CCX",
+   "chambering": "9mm",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "jkarmament105ccx",
+   "guideSha256": "57b465ddc6e1d2421bd4f62878a1e97b345e06e0af3ff3fd4e9c348898e95173"
+  },
+  {
+   "id": "jkarmament155versax",
+   "maker": "JK Armament",
+   "model": "155 VERSAX",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "jkarmament155versax",
+   "guideSha256": "a174b3af34801b73c8438f4424f5ba6fbb2eaa1e19f0951758f9776cd630f759"
+  },
+  {
+   "id": "jkarmament105versax22",
+   "maker": "JK Armament",
+   "model": "105 VERSAX .22",
+   "chambering": ".22 LR",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "jkarmament105versax22",
+   "guideSha256": "89b29380a5f7871b42fffab54ea9aae152b25dbc27e06220a12a45f60470b42f"
+  },
+  {
+   "id": "jkarmament195versax12",
+   "maker": "JK Armament",
+   "model": "195 VERSAX 12GA",
+   "chambering": "12 Gauge",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "jkarmament195versax12",
+   "guideSha256": "693f83a27108202bf24ec0788fd4adb53796c0099e1cfd33ecdac6c810d975e2"
+  },
+  {
+   "id": "jkarmament195sgx",
+   "maker": "JK Armament",
+   "model": "195 SGX",
+   "chambering": "12 / 20 ga",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "12 GA / 20 GA"
+   ],
+   "guide": true,
+   "guideId": "jkarmament195sgx",
+   "guideSha256": "e06e359666dfe216c664b06a41b408b9244ce99be125cd9497750fc65bd9a198"
+  },
+  {
+   "id": "jkarmament195sbsxbreacher",
+   "maker": "JK Armament",
+   "model": "195 SBSX Breacher",
+   "chambering": "12 Gauge",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "jkarmament195sbsxbreacher",
+   "guideSha256": "ea9ef678da0fa322bdb7160970e25c461b316976b1610c622da123952ef5c962"
+  },
+  {
+   "id": "jkarmament155vsx",
+   "maker": "JK Armament",
+   "model": "155 VSX",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "jkarmament155vsx",
+   "guideSha256": "4a14f3e8123a92860a743cd0efdd382fdc72cef245c4e2d46cc7fb3619d08d5f"
+  },
+  {
+   "id": "krissusavector22",
+   "maker": "KRISS USA",
+   "model": "Vector 22",
+   "chambering": ".22 LR",
+   "category": "Semi-auto rimfire rifle",
+   "family": "KRISS-VECTOR22",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "krissusavector22",
+   "guideSha256": "d14e73112bf327b78e1cc8ddc1360678e13c38e0fd14e4452fb28cd07cd52d0f"
   },
   {
    "id": "lwrciicmkii",
@@ -637,6 +5222,114 @@
    "guide": true,
    "guideId": "pwsuxr",
    "guideSha256": "5a77d807ed0eacb8be220a2011ca3c6dae18460dd65ecd78693e8fec7c055760"
+  },
+  {
+   "id": "pwsbde22ti",
+   "maker": "Primary Weapons Systems",
+   "model": "BDE22-Ti",
+   "chambering": ".22 cal",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 cal"
+   ],
+   "guide": true,
+   "guideId": "pwsbde22ti",
+   "guideSha256": "8f0eaabf51e34c29084eb269c1221f38b6307abfdf85abeb780c3175c34cda02"
+  },
+  {
+   "id": "pwsbde36ti",
+   "maker": "Primary Weapons Systems",
+   "model": "BDE36-Ti",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "pwsbde36ti",
+   "guideSha256": "6aca48565d624b20078120f54f5eba1788ebcf0286b84f6f135920070ad22aa1"
+  },
+  {
+   "id": "pwsbde45ti",
+   "maker": "Primary Weapons Systems",
+   "model": "BDE45-Ti",
+   "chambering": ".45 multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "pwsbde45ti",
+   "guideSha256": "d3cd44c0322c831d4b84ac7286729b10bfad3c98786304e21ebe268917e5a427"
+  },
+  {
+   "id": "pwsbde556ti",
+   "maker": "Primary Weapons Systems",
+   "model": "BDE556-Ti",
+   "chambering": "5.56",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": true,
+   "guideId": "pwsbde556ti",
+   "guideSha256": "7f0af11024feb6076cd3a49f97f546a46c51c2204ab163065ea4114eec5cc00e"
+  },
+  {
+   "id": "pwsbde762ti",
+   "maker": "Primary Weapons Systems",
+   "model": "BDE762-Ti",
+   "chambering": ".30 cal",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "pwsbde762ti",
+   "guideSha256": "6538588a0c5eb0692e382c64e8ee1cf2d000c52a6b40bc8c07f10eea63200db3"
+  },
+  {
+   "id": "pwsbde9ti",
+   "maker": "Primary Weapons Systems",
+   "model": "BDE9-Ti",
+   "chambering": "9mm",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "pwsbde9ti",
+   "guideSha256": "019aaf0d5e1a3af8b2ad55b13c56bfa9a43c55b35549400834e1e191edf67db9"
+  },
+  {
+   "id": "deadairwolverinepbs1",
+   "maker": "Dead Air",
+   "model": "Wolverine PBS-1",
+   "chambering": "7.62x39",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "7.62x39"
+   ],
+   "guide": true,
+   "guideId": "deadairwolverinepbs1",
+   "guideSha256": "89c2e57e910957e3b60e5b331498011da8f1483f3093a6872ba876c62ed02b68"
   },
   {
    "id": "wilsoncombatdivision77project1",
@@ -735,6 +5428,319 @@
    "guideSha256": "3ca66aadf31d5bfc2900ff798e9455e98ac2ae9acebffebdb33ecc0c73867148"
   },
   {
+   "id": "palmettostatearmoryhrt48",
+   "maker": "Palmetto State Armory",
+   "model": "H&R T48",
+   "chambering": "—",
+   "category": "Semi-auto rifle",
+   "family": "PSA-T48",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "palmettostatearmoryhrt48",
+   "guideSha256": "26fca28d736f78d30cf6a009904d157ce0d0f7dd5450c275c7663121d211af4e"
+  },
+  {
+   "id": "palmettostatearmoryhrar15",
+   "maker": "Palmetto State Armory",
+   "model": "H&R AR15",
+   "chambering": "—",
+   "category": "AR-pattern rifle",
+   "family": "PSA-HR-AR15",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "palmettostatearmoryhrar15",
+   "guideSha256": "5ece70027772e3166143f1f926a7f39dd2c3e966df544458c78f3a10bfb8f9c9"
+  },
+  {
+   "id": "weatherbymarkxxiiclip",
+   "maker": "Weatherby",
+   "model": "Mark XXII (clip)",
+   "chambering": ".22 LR",
+   "category": "Semi-auto rimfire rifle",
+   "family": "WBY-MKXXII-CLIP",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "weatherbymarkxxiiclip",
+   "guideSha256": "d0c9805458759bfc549a47ab893efa5d1983619346cd70b9bf906c92a24424e1"
+  },
+  {
+   "id": "weatherbymarkxxiitubular",
+   "maker": "Weatherby",
+   "model": "Mark XXII (tubular)",
+   "chambering": ".22 LR",
+   "category": "Semi-auto rimfire rifle",
+   "family": "WBY-MKXXII-TUBE",
+   "tier": 4,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "weatherbymarkxxiitubular",
+   "guideSha256": "6e1cba68a2ba45b7787b4fbdce539f370808187d1485554922a16b64c840487f"
+  },
+  {
+   "id": "weatherbymodel92",
+   "maker": "Weatherby",
+   "model": "Model 92",
+   "chambering": "12 GA",
+   "category": "Pump-action shotgun",
+   "family": "PUMP-WBY-92",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "weatherbymodel92",
+   "guideSha256": "324b5b8eb89ca5e245ce6c594ab4d86c8ca3aba33c4c5c6e7a9c287105d95dfd"
+  },
+  {
+   "id": "weatherbypatrician",
+   "maker": "Weatherby",
+   "model": "Patrician",
+   "chambering": "12 GA",
+   "category": "Pump-action shotgun",
+   "family": "PUMP-WBY-PATRICIAN",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "weatherbypatrician",
+   "guideSha256": "bf9904a29e56f408870442ad447bf8fad4457e929e4658ad7f55ebabc31b7d80"
+  },
+  {
+   "id": "weatherbyregency",
+   "maker": "Weatherby",
+   "model": "Regency",
+   "chambering": "12 GA",
+   "category": "Over-under shotgun",
+   "family": "BREAK-WBY-REGENCY",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "weatherbyregency",
+   "guideSha256": "7588c21ea7fcca505516c6b30ccab21ac971c047b1debb71d2de21a45350fe88"
+  },
+  {
+   "id": "weatherbyolympian",
+   "maker": "Weatherby",
+   "model": "Olympian",
+   "chambering": "12 GA / 20 GA",
+   "category": "Over-under shotgun",
+   "family": "BREAK-WBY-OLYMPIAN",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": true,
+   "guideId": "weatherbyolympian",
+   "guideSha256": "e60ac9c3608d13311a5fa33d599d16cdd4ab913e136a9fe69cbb453347519fc3"
+  },
+  {
+   "id": "mossberg5500mkii",
+   "maker": "Mossberg",
+   "model": "5500 MK II",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-MOSSBERG-5500",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossberg5500mkii",
+   "guideSha256": "d782b4898d960e66a61117ae875d162fe795d96e3580fc210f13574a64cdc6d8"
+  },
+  {
+   "id": "mossberg590da1",
+   "maker": "Mossberg",
+   "model": "590DA1",
+   "chambering": "12 GA",
+   "category": "Pump shotgun",
+   "family": "PUMP-MOSSBERG-590DA1",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossberg590da1",
+   "guideSha256": "dc407069ad1aa8a8c6069e43ffacec6311de436d3abb560138d3e1976f7bf6d0"
+  },
+  {
+   "id": "mossberg9200",
+   "maker": "Mossberg",
+   "model": "9200",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-MOSSBERG-9200",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossberg9200",
+   "guideSha256": "d8c8e91da53443493ac9fa3d4988334c6cf927a95ea2912b211339befc8d041c"
+  },
+  {
+   "id": "mossberg500bullpup",
+   "maker": "Mossberg",
+   "model": "500 Bullpup",
+   "chambering": "12 GA",
+   "category": "Pump shotgun",
+   "family": "PUMP-MOSSBERG-500BULLPUP",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossberg500bullpup",
+   "guideSha256": "8eae3a4e14e3905498d77c6ba0056508891412a94ad425be5d62cfc610972f35"
+  },
+  {
+   "id": "mossberginternational410",
+   "maker": "Mossberg",
+   "model": "International .410 autoloader",
+   "chambering": ".410",
+   "category": "Semi-auto shotgun",
+   "family": "SEMI-MOSSBERG-INTL410",
+   "tier": 4,
+   "group": "Shotguns",
+   "chamberings": [
+    ".410"
+   ],
+   "guide": true,
+   "guideId": "mossberginternational410",
+   "guideSha256": "11d8c3601c720fd6b0a8b054287092e49950f72eefe2903eca30b5a9c5ee1521"
+  },
+  {
+   "id": "eaabalikliblk",
+   "maker": "EAA",
+   "model": "Balikli BLK",
+   "chambering": "—",
+   "category": "Bolt-action rifle",
+   "family": "NEW-EAA-BALIKLIBLK",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "eaabalikliblk",
+   "guideSha256": "c21a135355a8e34a6ae26d05761b3b7c3e583e7b48a4ad00fa0d59f1c35c3722"
+  },
+  {
+   "id": "yhmvictra20modular",
+   "maker": "YHM",
+   "model": "VICTRA-20 Modular",
+   "chambering": "—",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "yhmvictra20modular",
+   "guideSha256": "dfaf80406ba899fd5f2bc413882dad1b78c34dd609779e9a4ed1aa0a6e114b61"
+  },
+  {
+   "id": "savagemodel334",
+   "maker": "Savage",
+   "model": "Model 334",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "NEW-SAVAGE-MODEL334",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "savagemodel334",
+   "guideSha256": "32c2d85b94b49978f99116549d665463648f837a5f9cd95a7b5610e2b9ec5c70"
+  },
+  {
+   "id": "korthsupersportgtx",
+   "maker": "Korth",
+   "model": "Super Sport GTX",
+   "chambering": ".44 Mag",
+   "category": "Revolver",
+   "family": "NEW-KORTH-SUPERSPORTGTX",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".44 Mag"
+   ],
+   "guide": false,
+   "verdict": "BLOCKED"
+  },
+  {
+   "id": "rockislandarmorybbr3109mm",
+   "maker": "Rock Island Armory",
+   "model": "BBR 3.10 9MM",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-ROCKISLAND-BBR3109MM",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "rockislandarmorybbr3109mm",
+   "guideSha256": "05d8f712536cb722b531e80286a491f10aa9dbc53a7c7c1304965fcac30df195"
+  },
+  {
+   "id": "sigsauermcxvirtus",
+   "maker": "SIG Sauer",
+   "model": "MCX VIRTUS",
+   "chambering": "5.56/.300BLK/7.62x39",
+   "category": "Semi-auto rifle",
+   "family": "MCX",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223",
+    ".300 BLK",
+    "7.62x39"
+   ],
+   "guide": true,
+   "guideId": "sigsauermcxvirtus",
+   "guideSha256": "a9ec16aeb310b0b78d6335f1b275cd4ecad22e7bd48e0a620ee4cab0b2873883"
+  },
+  {
+   "id": "sigsauermcxrattler",
+   "maker": "SIG Sauer",
+   "model": "MCX Rattler",
+   "chambering": "5.56/.300BLK",
+   "category": "Semi-auto rifle",
+   "family": "MCX",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223",
+    ".300 BLK"
+   ],
+   "guide": true,
+   "guideId": "sigsauermcxrattler",
+   "guideSha256": "8c0760959f1e8d6715ecd5bf3093255bb408ab1b2a6153a8bab292e6b77a9794"
+  },
+  {
    "id": "hipointhp15",
    "maker": "Hi-Point",
    "model": "HP-15",
@@ -799,7 +5805,839 @@
    "guide": true,
    "guideId": "taylorscotc73",
    "guideSha256": "50a21ce66f3fd441de6dfc3149903cbcadb7231ea3179bd3c1a907ca04e77f4a"
+  },
+  {
+   "id": "lantacmspec556s",
+   "maker": "Lantac",
+   "model": "M-SPEC556S",
+   "chambering": "5.56",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "centurionarmsmaximusl",
+   "maker": "Centurion Arms",
+   "model": "MAXIMUS-L",
+   "chambering": "5.56",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "centurionarmsmaximush",
+   "maker": "Centurion Arms",
+   "model": "MAXIMUS-H",
+   "chambering": "7.62",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "7.62"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "centurionarmsminimaximus",
+   "maker": "Centurion Arms",
+   "model": "Mini MAXIMUS",
+   "chambering": ".22 LR",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "centurionarmsharrismars",
+   "maker": "Centurion Arms",
+   "model": "Harris Mini Assault Rifle System",
+   "chambering": "—",
+   "category": "AR-pattern rifle",
+   "family": "NEW-CENTURION-HARRISMARS",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "rugerscoutrifle",
+   "maker": "Ruger",
+   "model": "Scout Rifle",
+   "chambering": ".308/.223",
+   "category": "Bolt-action rifle",
+   "family": "NEW-RUGER-SCOUTRIFLE",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".308 Win",
+    "5.56 / .223"
+   ],
+   "guide": true,
+   "guideId": "rugerscoutrifle",
+   "guideSha256": "d55199fbb2651b113945bf594aa23cd68824d1fc023de63f8e548d1165f088fe"
+  },
+  {
+   "id": "rugerredlabel",
+   "maker": "Ruger",
+   "model": "Red Label",
+   "chambering": "12 GA/20 GA/28 GA",
+   "category": "Over-under shotgun",
+   "family": "NEW-RUGER-REDLABEL",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA",
+    "28 GA"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "rugerredlabeliii",
+   "maker": "Ruger",
+   "model": "Red Label III",
+   "chambering": "20 GA",
+   "category": "Over-under shotgun",
+   "family": "NEW-RUGER-REDLABELIII",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "20 GA"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "rugermarkii",
+   "maker": "Ruger",
+   "model": "Mark II",
+   "chambering": ".22 LR",
+   "category": "Rimfire pistol",
+   "family": "NEW-RUGER-MARKII",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "rugerp89",
+   "maker": "Ruger",
+   "model": "P89",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-RUGER-P89",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "ruger7722",
+   "maker": "Ruger",
+   "model": "77/22",
+   "chambering": ".22 LR/.22 WMR/.22 Hornet",
+   "category": "Bolt-action rimfire rifle",
+   "family": "NEW-RUGER-7722",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR",
+    ".22 WMR"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "winchestermodel12",
+   "maker": "Winchester",
+   "model": "Model 12",
+   "chambering": "—",
+   "category": "Pump shotgun",
+   "family": "NEW-WINCHESTER-MODEL12",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "winchestermodel1897",
+   "maker": "Winchester",
+   "model": "Model 1897",
+   "chambering": "—",
+   "category": "Pump shotgun",
+   "family": "NEW-WINCHESTER-MODEL1897",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "winchestermodel1300",
+   "maker": "Winchester",
+   "model": "Model 1300",
+   "chambering": "12 GA/20 GA",
+   "category": "Pump shotgun",
+   "family": "NEW-WINCHESTER-MODEL1300",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "winchestermodel9422",
+   "maker": "Winchester",
+   "model": "Model 9422",
+   "chambering": ".22 LR/.22 WMR",
+   "category": "Rimfire rifle",
+   "family": "NEW-WINCHESTER-MODEL9422",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR",
+    ".22 WMR"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "remington7400",
+   "maker": "Remington",
+   "model": "Model 7400",
+   "chambering": "—",
+   "category": "Semi-auto rifle",
+   "family": "NEW-REMINGTON-MODEL7400",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "remington572",
+   "maker": "Remington",
+   "model": "Model 572",
+   "chambering": "—",
+   "category": "Rimfire rifle",
+   "family": "NEW-REMINGTON-MODEL572",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "remington597",
+   "maker": "Remington",
+   "model": "Model 597",
+   "chambering": "—",
+   "category": "Semi-auto rimfire rifle",
+   "family": "NEW-REMINGTON-MODEL597",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "remingtonnylon66",
+   "maker": "Remington",
+   "model": "Nylon 66",
+   "chambering": "—",
+   "category": "Semi-auto rimfire rifle",
+   "family": "NEW-REMINGTON-NYLON66",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "remington770",
+   "maker": "Remington",
+   "model": "Model 770",
+   "chambering": "—",
+   "category": "Bolt-action rifle",
+   "family": "NEW-REMINGTON-MODEL770",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "browningabolt",
+   "maker": "Browning",
+   "model": "A-Bolt",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "NEW-BROWNING-ABOLT",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "browningabolt",
+   "guideSha256": "ef266c5c5a5d29eee2fcae572c4860e438f9803a416084ddf818e4de40aaf500"
+  },
+  {
+   "id": "browningauto5magnum",
+   "maker": "Browning",
+   "model": "Auto-5 Magnum",
+   "chambering": "12 GA/20 GA",
+   "category": "Semi-auto shotgun",
+   "family": "NEW-BROWNING-AUTO5MAGNUM",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "browningauto5light",
+   "maker": "Browning",
+   "model": "Auto-5 Light",
+   "chambering": "12 GA/20 GA",
+   "category": "Semi-auto shotgun",
+   "family": "NEW-BROWNING-AUTO5LIGHT",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": false
+  },
+  {
+   "id": "browningblr",
+   "maker": "Browning",
+   "model": "BLR",
+   "chambering": "multi",
+   "category": "Lever-action rifle",
+   "family": "NEW-BROWNING-BLR",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "browningsuperposed",
+   "maker": "Browning",
+   "model": "Superposed",
+   "chambering": "12 GA/20 GA",
+   "category": "Over-under shotgun",
+   "family": "NEW-BROWNING-SUPERPOSED",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "browningtbolt",
+   "maker": "Browning",
+   "model": "T-Bolt",
+   "chambering": ".22 LR/.22 WMR/.17 HMR",
+   "category": "Straight-pull rimfire rifle",
+   "family": "NEW-BROWNING-TBOLT",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR",
+    ".22 WMR",
+    ".17 HMR"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "stoegercoachgun",
+   "maker": "Stoeger",
+   "model": "Coach Gun",
+   "chambering": "12 GA/20 GA/.410",
+   "category": "Side-by-side shotgun",
+   "family": "NEW-STOEGER-COACHGUN",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA",
+    ".410"
+   ],
+   "guide": true,
+   "guideId": "stoegercoachgun",
+   "guideSha256": "a3c5cfdbc498963da388ead2759bfd9987d710ed5911c483c3d22b101295d434"
+  },
+  {
+   "id": "stevensmodel311",
+   "maker": "Stevens",
+   "model": "Model 311",
+   "chambering": "—",
+   "category": "Side-by-side shotgun",
+   "family": "NEW-STEVENS-MODEL311",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "savagemodel24",
+   "maker": "Savage",
+   "model": "Model 24",
+   "chambering": "—",
+   "category": "Break-action rifle",
+   "family": "NEW-SAVAGE-MODEL24",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false
+  },
+  {
+   "id": "harringtonrichardsontopper",
+   "maker": "Harrington & Richardson",
+   "model": "Topper",
+   "chambering": "—",
+   "category": "Break-action single shot",
+   "family": "NEW-HARRINGTON-TOPPER",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "thompsoncenterencore",
+   "maker": "Thompson/Center",
+   "model": "Encore Rifle & Shotgun",
+   "chambering": "multi",
+   "category": "Break-action rifle",
+   "family": "NEW-THOMPSONCE-ENCORERIFLESHO",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "thompsoncenterg2contender",
+   "maker": "Thompson/Center",
+   "model": "G2 Contender",
+   "chambering": "multi",
+   "category": "Break-action single shot",
+   "family": "NEW-THOMPSONCE-G2CONTENDER",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "taurus92",
+   "maker": "Taurus",
+   "model": "92",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-TAURUS-92",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "taurus85",
+   "maker": "Taurus",
+   "model": "85",
+   "chambering": ".38 Spl",
+   "category": "Revolver",
+   "family": "NEW-TAURUS-85",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "taurustcp",
+   "maker": "Taurus",
+   "model": "TCP",
+   "chambering": "—",
+   "category": "Semi-auto pistol",
+   "family": "NEW-TAURUS-TCP",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [],
+   "guide": false,
+   "held": true,
+   "verdict": "MAKER-PUBLISHES-NOTHING"
+  },
+  {
+   "id": "rossituffy",
+   "maker": "Rossi",
+   "model": "Tuffy",
+   "chambering": ".410",
+   "category": "Break-action single shot",
+   "family": "NEW-ROSSI-TUFFY",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    ".410"
+   ],
+   "guide": false
+  },
+  {
+   "id": "rossiriobravo",
+   "maker": "Rossi",
+   "model": "Rio Bravo",
+   "chambering": ".22 LR",
+   "category": "Rimfire rifle",
+   "family": "NEW-ROSSI-RIOBRAVO",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "rossigallery",
+   "maker": "Rossi",
+   "model": "Gallery",
+   "chambering": ".22 LR",
+   "category": "Rimfire rifle",
+   "family": "NEW-ROSSI-GALLERY",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "kahrarmscm9",
+   "maker": "Kahr Arms",
+   "model": "CM9",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-KAHRARMS-CM9",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "kahrarmscm9",
+   "guideSha256": "fe431495f3be783b051e8982a41d6bedf1a57262c207ed03cd380a0f4c5a38b1"
+  },
+  {
+   "id": "smithwessonequalizer",
+   "maker": "Smith & Wesson",
+   "model": "Equalizer",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-SMITHANDWE-EQUALIZER",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "smithwessonmodel1854",
+   "maker": "Smith & Wesson",
+   "model": "Model 1854",
+   "chambering": "multi",
+   "category": "Lever-action rifle",
+   "family": "NEW-SMITHANDWE-MODEL1854",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "smithwessonmp22magnum",
+   "maker": "Smith & Wesson",
+   "model": "M&P22 Magnum",
+   "chambering": ".22 WMR",
+   "category": "Rimfire pistol",
+   "family": "NEW-SMITHANDWE-MP22MAGNUM",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".22 WMR"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmp22magnum",
+   "guideSha256": "1d0527b3bfe8dbece72029d1061e173c8de7c254920da98ff8a5e1ae0bc802ab"
+  },
+  {
+   "id": "smithwessonmodel41",
+   "maker": "Smith & Wesson",
+   "model": "Model 41",
+   "chambering": ".22 LR",
+   "category": "Rimfire pistol",
+   "family": "NEW-SMITHANDWE-MODEL41",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "henryussurvival",
+   "maker": "Henry",
+   "model": "U.S. Survival Rifle",
+   "chambering": ".22 LR",
+   "category": "Semi-auto rimfire rifle",
+   "family": "NEW-HENRY-USSURVIVALRIFL",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "henryleveractionsupreme",
+   "maker": "Henry",
+   "model": "Lever Action Supreme",
+   "chambering": ".223/5.56/.300 BLK/.450 Bushmaster",
+   "category": "Lever-action rifle",
+   "family": "NEW-HENRY-LEVERACTIONSUP",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223",
+    ".300 BLK"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "fnfns9",
+   "maker": "FN",
+   "model": "FNS-9",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-FN-FNS9",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "fnfns9",
+   "guideSha256": "3afa67788c4546d814ffc932b51e23ccee382c85a43bbada42e74271c331bf85"
+  },
+  {
+   "id": "fnps90",
+   "maker": "FN",
+   "model": "PS90",
+   "chambering": "—",
+   "category": "Semi-auto carbine",
+   "family": "NEW-FN-PS90",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "berettau22neos",
+   "maker": "Beretta",
+   "model": "U22 Neos",
+   "chambering": "—",
+   "category": "Rimfire pistol",
+   "family": "NEW-BERETTA-U22NEOS",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "waltherpd380",
+   "maker": "Walther",
+   "model": "PD380",
+   "chambering": ".380 ACP",
+   "category": "Semi-auto pistol",
+   "family": "NEW-WALTHER-PD380",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".380 ACP"
+   ],
+   "guide": false,
+   "verdict": "HAND-DOWNLOAD"
+  },
+  {
+   "id": "sigsauerp220",
+   "maker": "SIG Sauer",
+   "model": "P220",
+   "chambering": ".45 ACP/10mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-SIGSAUER-P220",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".45 ACP",
+    "10mm"
+   ],
+   "guide": false,
+   "verdict": "FETCHED"
+  },
+  {
+   "id": "huxwrxrad9",
+   "maker": "HUXWRX",
+   "model": "RAD 9 / RAD 45",
+   "chambering": "—",
+   "category": "Suppressor — user-serviceable",
+   "family": "SUP-SERVICEABLE",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "huxwrxrad9",
+   "guideSha256": "2e3e3c334b4bd6de264213f46ff5debd1f40b02c81e7a6c353a52b620fa95564"
   }
  ],
- "removed": []
+ "removed": [
+  "falkorpetra",
+  "atlasgunworkstitan",
+  "fightlitescr",
+  "accuracyinternationalas50",
+  "accuracyinternationalaw50",
+  "accuracyinternationalax50",
+  "silencercentralbanish22",
+  "silencercentralbanishspeedk",
+  "varioussurplusm1carbine",
+  "mosinnagant9130surplus",
+  "makarovpmsurplus",
+  "leeenfieldno4mkisurplus",
+  "savage99legacy",
+  "cz52surplus",
+  "tokarevtt33surplus",
+  "atlasgunworksartemis",
+  "atlasgunworkserebus",
+  "atlasgunworkshyperion",
+  "atlasgunworksnyx",
+  "wilsoncombatsfx9",
+  "barrettfieldcraft",
+  "accuracyinternationalaxmc",
+  "arexzero2tactical",
+  "infinityfirearmssvi2011open",
+  "infinityfirearmssvisighttracker",
+  "ashburysaberforsstmod1",
+  "cadexdefencecdxr7crbn",
+  "cadexdefencecdxr7fieldcomp",
+  "cadexdefencecdxr7lcp",
+  "franklinarmoryprevail",
+  "gaprecisiontemplar",
+  "caracalcmp9",
+  "matadorarmsespada",
+  "seekinssp10",
+  "twoaarmamentxlr20",
+  "pioneerarmssporter",
+  "benellimp90s",
+  "benellimp95e",
+  "deserttechhti",
+  "caniktp9sfelite",
+  "cmpspringfieldm1garand",
+  "silencercooctane920",
+  "girsanmcp35",
+  "waltherwmp",
+  "thompsoncentercompassii",
+  "mauser98surplussporter",
+  "girsanregardmc",
+  "polymer80pf940v2",
+  "polymer80pf940c",
+  "polymer80pf940sc",
+  "lonewolfltd19",
+  "zevoz9",
+  "girsanmc1911",
+  "eaabountyhunter",
+  "cmmgdissentbr47",
+  "anschutz1727apr",
+  "anschutz1907",
+  "anschutz1913",
+  "anschutz5430",
+  "grandpowerstribogsp9a3g",
+  "tanfogliodomina",
+  "tanfogliolimitedcustom",
+  "tanfogliostockii",
+  "wilsoncombatexperiordoublestack",
+  "zevtechnologiesoz9competition",
+  "zevtechnologiesoz9elitehypercomp",
+  "mauserm18",
+  "mauserm98magnum",
+  "noslermodel21",
+  "qthefix",
+  "qtheminifix",
+  "seekinsprecisionhavakelement",
+  "seekinsprecisionhavakprohunter2",
+  "accuracyinternationalatx",
+  "accuracyinternationalaxsr",
+  "anschutz1761",
+  "deserttechsrsa2",
+  "seekinsprecisionhavakbravo",
+  "seekinsprecisionhavakhit",
+  "bularmory1911sofpro",
+  "lesbaerultimatemastercombat",
+  "syrenjuliasporting",
+  "syrentempiosporting",
+  "molotvepr12",
+  "panzerarmsar12pro",
+  "krissusakymera"
+ ]
 }
