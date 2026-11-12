@@ -302,6 +302,19 @@ function build() {
   const prevIndex = readJsonIfPresent(path.join(OUT, 'index.json'));
   const prevLog = readJsonIfPresent(path.join(OUT, 'changelog.json'));
   const prevVersion = prevIndex && Number.isInteger(prevIndex.version) ? prevIndex.version : 0;
+  /* ⛔ A ROW'S CALIBER RECORD RIDES THE SHELF (app 14:15 order 2026-11-11, item 3a). The app can lay a delivered
+     record over its compiled row, so a list can be filled or corrected without an app release. THE ENCODER IS THE
+     APP'S OWN, read out of the app commit being published (tools/library/cal_record.js) — one encoder, never a copy
+     here. An app commit that does not carry it publishes rows exactly as before (no cal fields at all), so this is
+     inert until the app that reads it has landed. calV is the version a row's record last changed at: the phone
+     applies a record only when it is newer than the build it runs. */
+  if (app.exists('tools/library/cal_record.js')) {
+    const m = { exports: {} };
+    new Function('module', 'exports', 'require', app.show('tools/library/cal_record.js'))(m, m.exports, require);
+    const CR = m.exports, prevById = new Map((prevIndex ? prevIndex.rows || [] : []).map(r => [r.id, r]));
+    const catById = new Map(catalog.map(c => [c.i, c]));
+    rows.forEach(r => { Object.assign(r, CR.fields(catById.get(r.id))); CR.stamp(r, prevById.get(r.id), prevVersion + 1); });
+  }
   /* ⛔ KEYED BY THE GUIDE, NOT BY THE ROW. A family guide is reached by several
      rows and owns none of them, so keying this on `id` would find no previous
      entry for it, report it "added" on every run, and bump the version forever —
