@@ -128,7 +128,9 @@ function compare(shelfGuides, blockGuides, render) {
    from a download until the app changes. KNOWN_PASSAGE_GAP is every such step today; the gate holds it EXACTLY: a new
    one fails (the gap grew), and one that is gone — or an app whose passage path has learned `no` — fails too, so this
    list cannot outlive its reason. It only shrinks. */
-const KNOWN_PASSAGE_GAP = ['caniksfxrivals deep step 1', 'caniksfxrivals deep step 2', 'caniksfxrivals deep step 3'];
+/* EMPTIED 2026-11-14 (download fixes, Darren's word): the app's passage path copies the block now, so a downloaded
+   passage step draws it. The three Canik SFx Rival-S deeper steps that were listed here are drawn like any other. */
+const KNOWN_PASSAGE_GAP = [];
 /** does the app's shelf-step assembly copy `no` on its passage path? Read off the page at HEAD. */
 function appDrawsPassageNo(html) {
   const fn = liftFunction(html, 'libStepFrom');

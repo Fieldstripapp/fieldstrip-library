@@ -434,6 +434,26 @@ function main() {
     noRed = true;
     line(false, 'the Do-not comparison could not run — ' + (e && e.message ? e.message : e));
   }
+  /* ---- the form every guide file is written in (download fixes 2026-11-14) ----
+     The app holds a downloaded guide as a parsed record, not as the bytes it fetched. To tell an owner that the shelf
+     has a newer copy it re-serialises the held record the way this tool writes a file — one-space indent, one trailing
+     newline — and compares that digest with the index. So every published guide file must BE that form of itself, or
+     an up-to-date copy would read as out of date on every phone. Fixture first: a file written any other way is refused. */
+  console.log('\nHELD-COPY DIGEST (a held guide re-serialises to its own file)');
+  {
+    const canon = buf => JSON.stringify(JSON.parse(buf.toString('utf8')), null, 1) + '\n';
+    const off = payload.guides.filter(g => canon(g.bytes) !== g.bytes.toString('utf8')).map(g => g.row);
+    const g0 = payload.guides[0];
+    if (g0) {
+      const other = Buffer.from(JSON.stringify(JSON.parse(g0.bytes.toString('utf8')), null, 2) + '\n');
+      line(canon(other) !== other.toString('utf8'), 'REFUSES a guide file written with a different indent (' + g0.row + ')');
+      const noNl = Buffer.from(g0.bytes.toString('utf8').replace(/\n$/, ''));
+      line(canon(noNl) !== noNl.toString('utf8'), 'REFUSES a guide file with no trailing newline (' + g0.row + ')');
+    }
+    line(off.length === 0, off.length
+      ? off.length + ' guide file(s) are not the one-space-indent form of themselves — a phone holding one would be told it is out of date: ' + off.slice(0, 6).join(', ')
+      : 'all ' + payload.guides.length + ' guide files are the form the app re-serialises a held copy to');
+  }
   if (PROVE === 'nofield') {
     const only = noRed && failed === 1;
     console.log('\n' + (only ? 'CONTROL OK — with the field left out the Do-not gate is red, and nothing else is' : 'CONTROL BROKEN — ' + (noRed ? 'something else went red too (' + failed + ' failures)' : 'the Do-not gate stayed green with the field left out')));
