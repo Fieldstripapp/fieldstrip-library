@@ -48,7 +48,12 @@
    "quote": "NEVER ALLOW THE ACTION TO SLAM CLOSED BY PRESSING THE BOLT RELEASE BUTTON WITHOUT THE BARREL INSTALLED.",
    "cite": "MAXUS II SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — Assembly, step 1 (repeated at Disassembly and in both three-shot adaptor procedures)",
    "warn": "Barrel off = bolt moves forward only under a controlled hand.",
-   "warnSrc": "ours"
+   "warnSrc": "ours",
+   "no": {
+    "q": "NEVER ALLOW THE ACTION TO SLAM CLOSED BY PRESSING THE BOLT RELEASE BUTTON WITHOUT THE BARREL INSTALLED.",
+    "who": "Browning",
+    "src": "MAXUS II SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — Assembly, step 1 (repeated at Disassembly and in both three-shot adaptor procedures)"
+   }
   },
   {
    "phase": "Strip",
@@ -78,7 +83,12 @@
    "quote": "DO NOT ATTEMPT TO REMOVE THE SPRING INSIDE OF THE PISTON. NEVER USE A STEEL BRUSH ON ANY OF THE GAS SYSTEM COMPONENTS.",
    "cite": "MAXUS II SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — CLEANING THE GAS SYSTEM, step 2",
    "warn": "Nylon and Scotch-Brite only. The piston's internal spring stays in the piston.",
-   "warnSrc": "ours"
+   "warnSrc": "ours",
+   "no": {
+    "q": "DO NOT ATTEMPT TO REMOVE THE SPRING INSIDE OF THE PISTON. NEVER USE A STEEL BRUSH ON ANY OF THE GAS SYSTEM COMPONENTS.",
+    "who": "Browning",
+    "src": "MAXUS II SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — CLEANING THE GAS SYSTEM, step 2"
+   }
   },
   {
    "phase": "Clean",
@@ -109,7 +119,12 @@
    "quote": "Never use a barrel from any other Browning shotgun.",
    "cite": "MAXUS II SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — Extra Barrels (adaptor: Three-Shot Adapter (Plug))",
    "warn": "Wrong chamber, other maker, other Browning model: all barred.",
-   "warnSrc": "ours"
+   "warnSrc": "ours",
+   "no": {
+    "q": "Never use a barrel from any other Browning shotgun.",
+    "who": "Browning",
+    "src": "MAXUS II SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — Extra Barrels (adaptor: Three-Shot Adapter (Plug))"
+   }
   }
  ],
  "deepSteps": [

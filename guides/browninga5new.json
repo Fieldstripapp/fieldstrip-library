@@ -15,7 +15,12 @@
    "quote": "USE SHELLS OF THE CORRECT LENGTH. DO NOT USE 3\" OR 3½\" SHELLS IN A BARREL WITH A 2¾\" CHAMBER, OR 3½\" SHELLS IN A BARREL WITH A 3\" CHAMBER. DOING SO CAN RESULT IN A BUILDUP OF DANGEROUSLY HIGH PRESSURES.",
    "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — AMMUNITION",
    "warn": "Chamber length off the barrel inscription, and loads heavy enough to cycle the action.",
-   "warnSrc": "ours"
+   "warnSrc": "ours",
+   "no": {
+    "q": "USE SHELLS OF THE CORRECT LENGTH. DO NOT USE 3\" OR 3½\" SHELLS IN A BARREL WITH A 2¾\" CHAMBER, OR 3½\" SHELLS IN A BARREL WITH A 3\" CHAMBER. DOING SO CAN RESULT IN A BUILDUP OF DANGEROUSLY HIGH PRESSURES.",
+    "who": "Browning",
+    "src": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — AMMUNITION"
+   }
   },
   {
    "phase": "Clear",
@@ -48,7 +53,12 @@
    "quote": "NEVER ALLOW THE ACTION TO SLAM CLOSED BY PRESSING THE BOLT RELEASE BUTTON WITHOUT THE BARREL INSTALLED. IF THE SLIDE ASSEMBLY IS RELEASED FORWARD WITH THE BARREL REMOVED, THE BOLT HANDLE WILL STRIKE THE RECEIVER AND CAUSE DAMAGE.",
    "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — ASSEMBLY step 1 (repeated at DISASSEMBLY and in both three-shot adaptor procedures)",
    "warn": "Barrel off = bolt stays back, or moves forward only under a controlled hand.",
-   "warnSrc": "ours"
+   "warnSrc": "ours",
+   "no": {
+    "q": "NEVER ALLOW THE ACTION TO SLAM CLOSED BY PRESSING THE BOLT RELEASE BUTTON WITHOUT THE BARREL INSTALLED. IF THE SLIDE ASSEMBLY IS RELEASED FORWARD WITH THE BARREL REMOVED, THE BOLT HANDLE WILL STRIKE THE RECEIVER AND CAUSE DAMAGE.",
+    "who": "Browning",
+    "src": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — ASSEMBLY step 1 (repeated at DISASSEMBLY and in both three-shot adaptor procedures)"
+   }
   },
   {
    "phase": "Strip",
@@ -117,7 +127,12 @@
    "quote": "NOTE: 16 and 20 gauge models are shipped with a yellow bolt retainer located in the front of the receiver (Figure 7) that secures the bolt in place during shipping. Remove the bolt retainer prior to assembling the shotgun.",
    "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — ASSEMBLY, step 4 (barrel restrictions: EXTRA BARRELS)",
    "warn": "Never another maker's barrel, never another Browning model's barrel, never a mismatched chamber.",
-   "warnSrc": "ours"
+   "warnSrc": "ours",
+   "no": {
+    "q": "Never use a barrel with a 3½\" chamber on a shotgun designed for barrels with a 3\" chamber. Never use a barrel with a 3\" chamber on a shotgun designed for barrels with a 3½\" chamber. Never use any other barrel from any other manufacturer on your shotgun. Some other brands may seem similar, but the barrels are not interchangeable. Never use a barrel from any other Browning shotgun.",
+    "who": "Browning",
+    "src": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — EXTRA BARRELS"
+   }
   }
  ],
  "deepSteps": [
@@ -201,7 +216,12 @@
    "quote": "DO NOT ATTEMPT TO REMOVE THE ACTION SPRING FROM THE ACTION TUBE. THE ACTION TUBE IS EASILY DAMAGED AND THE ACTION SPRING IS UNDER SPRING TENSION. FAILURE TO FOLLOW THIS WARNING COULD RESULT IN SERIOUS INJURY OR DAMAGE YOUR SHOTGUN.",
    "cite": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — LUBRICATION THE ACTION TUBE AND SPRING, step 2",
    "warn": "The action tube is lubricated through its opening, never disassembled.",
-   "warnSrc": "ours"
+   "warnSrc": "ours",
+   "no": {
+    "q": "DO NOT ATTEMPT TO REMOVE THE ACTION SPRING FROM THE ACTION TUBE. THE ACTION TUBE IS EASILY DAMAGED AND THE ACTION SPRING IS UNDER SPRING TENSION. FAILURE TO FOLLOW THIS WARNING COULD RESULT IN SERIOUS INJURY OR DAMAGE YOUR SHOTGUN.",
+    "who": "Browning",
+    "src": "A5 SHOTGUN Owner's Manual — UNKNOWN — not printed in the document — LUBRICATION THE ACTION TUBE AND SPRING, step 2"
+   }
   }
  ],
  "cleaning": [
