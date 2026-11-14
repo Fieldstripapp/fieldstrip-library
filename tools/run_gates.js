@@ -31,6 +31,11 @@ const guards = require('./lib/guards');
 const parity = require('./lib/parity');
 const app = require('./lib/appsrc');
 const publish = require('./publish');
+const noblock = require('./lib/noblock');
+/* --prove-fail=nofield: the Do-not block left off the published records again, the way it was until 2026-11-14.
+   The RED DO-NOT BLOCKS line on the live payload must go red, and only it; then this exits 0. */
+const PROVE = (process.argv.find(a => /^--prove-fail=/.test(a)) || '').split('=')[1] || null;
+if (PROVE && PROVE !== 'nofield') { console.error('unknown --prove-fail mode: ' + PROVE); process.exit(2); }
 
 const B = s => Buffer.from(s, 'utf8');
 const cleanGuide = {
@@ -106,9 +111,24 @@ const CASES = {
           steps: [Object.assign({}, cleanGuide.steps[0], { prohibited: 'internal working note' })],
         })),
       ]],
+      ['a Do-not block carrying a field of its own', () => [
+        asFile('guides/leak4.json', Object.assign({}, cleanGuide, {
+          steps: [Object.assign({}, cleanGuide.steps[0], { no: { q: 'DO NOT DISASSEMBLE.', who: 'Fixture', src: 'Fixture Manual — SAFETY', file: 'scratchpad/manuals/x.pdf' } })],
+        })),
+      ]],
+      ['a Do-not block with no maker sentence in it', () => [
+        asFile('guides/leak5.json', Object.assign({}, cleanGuide, {
+          steps: [Object.assign({}, cleanGuide.steps[0], { no: { q: '', who: 'Fixture', src: 'Fixture Manual — SAFETY' } })],
+        })),
+      ]],
     ],
     mustPass: [
       ['a clean guide', () => [asFile('guides/fixturerow.json', cleanGuide)]],
+      ['a step carrying the maker\'s Do-not block', () => [
+        asFile('guides/fixturerow.json', Object.assign({}, cleanGuide, {
+          steps: [Object.assign({}, cleanGuide.steps[0], { no: { q: 'DO NOT DISASSEMBLE.', who: 'Fixture', src: 'Fixture Manual — 1st edition — SAFETY' } })],
+        })),
+      ]],
       /* The plate path is the one place a binary is allowed — narrowly. */
       ['a content-addressed plate PNG', () => [plateImg()]],
       /* ⛔ THE ONE THAT MATTERS. Four real guides cite the publisher's OWN
@@ -361,6 +381,63 @@ function main() {
       : 'no image outside plates/img/');
   } catch (e) {
     line(false, 'could not read the tracked tree — ' + e.message);
+  }
+
+  /* ---- the red "Do not" block, every guide, every step (Darren 2026-11-14 11:45) ----
+     Fixtures first, built in memory from the real payload: the field left out, one word of a maker's sentence changed,
+     one citation changed, a block moved to the wrong step — each must REFUSE; the payload as built must be ALLOWED.
+     Then the live payload itself. The app side is the app's own emitted block, evaluated; both sides are drawn by the
+     app's own fsNoHtml lifted from the page at HEAD (tools/lib/noblock.js). */
+  console.log('\nRED DO-NOT BLOCKS');
+  let noRed = false;
+  try {
+    const block = noblock.evalBlock(app.show('scratchpad/clean-rebuild/shelf_block.js'));
+    const render = noblock.noRenderer(app.show('www/index.html'));
+    const asMap = fn => new Map(payload.guides.map(g => { const o = JSON.parse(g.bytes.toString('utf8')); return [g.row, fn ? fn(o, g.row) : o]; }));
+    const eachStep = (o, f) => { ['steps', 'deepSteps'].forEach(k => (o[k] || []).forEach((st, i) => f(st, i, o[k]))); return o; };
+    const firstNo = (() => { for (const g of payload.guides) { const o = JSON.parse(g.bytes.toString('utf8')); let hit = null; eachStep(o, st => { if (!hit && st.no) hit = st; }); if (hit) return g.row; } return null; })();
+    const real = noblock.compare(asMap(), block, render);
+    if (!firstNo) line(PROVE === 'nofield', 'no published guide carries a Do-not block at all — the fixtures have nothing to break');
+    else {
+      const stripped = noblock.compare(asMap(o => eachStep(o, st => { delete st.no; })), block, render);
+      line(stripped.bad.length > 0 && stripped.shelfBlocks === 0, 'REFUSES the field left out of every published step (' + stripped.bad.length + ' step(s) named)');
+      const worded = noblock.compare(asMap((o, row) => row !== firstNo ? o : eachStep(o, st => { if (st.no) st.no = Object.assign({}, st.no, { q: st.no.q + ' Otherwise.' }); })), block, render);
+      line(worded.bad.length > 0 && worded.bad.every(b => /the sentence differs/.test(b)), 'REFUSES a changed maker\'s sentence (' + firstNo + ')');
+      const cited = noblock.compare(asMap((o, row) => row !== firstNo ? o : eachStep(o, st => { if (st.no) st.no = Object.assign({}, st.no, { src: st.no.src + ' (p.999)' }); })), block, render);
+      line(cited.bad.length > 0 && cited.bad.every(b => /the citation differs/.test(b)), 'REFUSES a changed citation under a maker\'s sentence (' + firstNo + ')');
+      const moved = noblock.compare(asMap((o, row) => row !== firstNo ? o : eachStep(o, (st, i, arr) => { if (st.no && !st._moved && arr.length > 1) { const j = (i + 1) % arr.length; if (!arr[j].no) { arr[j].no = st.no; arr[j]._moved = true; delete st.no; } } })), block, render);
+      line(moved.bad.length > 0, 'REFUSES a Do-not block carried on the wrong step (' + firstNo + ')');
+      line(real.bad.length === 0, 'ALLOWS  the payload as built (the control for the four refusals above)');
+    }
+    const judged = PROVE === 'nofield' ? noblock.compare(asMap(o => eachStep(o, st => { delete st.no; })), block, render) : real;
+    if (PROVE === 'nofield') console.log('   PROVE-FAIL: the Do-not block left off every published step');
+    noRed = judged.bad.length > 0;
+    line(judged.bad.length === 0, judged.bad.length
+      ? judged.bad.length + ' step(s) where the red Do-not block differs between the app and the shelf (app draws ' + judged.appBlocks + ', shelf carries ' + judged.shelfBlocks + '):\n       ' + judged.bad.slice(0, 6).join('\n       ')
+      : 'every red Do-not block matches the app\'s own, in count, sentence, citation and as drawn: ' + judged.appBlocks + ' block(s) across ' + judged.guides + ' guides');
+    /* the passage path: carried, and not drawn from a download until the app changes — held to the recorded list */
+    if (PROVE !== 'nofield') {
+      const appHas = noblock.appDrawsPassageNo(app.show('www/index.html'));
+      const now = real.passage.slice().sort(), known = noblock.KNOWN_PASSAGE_GAP.slice().sort();
+      if (appHas) line(known.length === 0, known.length
+        ? 'the app\'s passage path now copies the Do-not block: KNOWN_PASSAGE_GAP in tools/lib/noblock.js has outlived its reason — empty it'
+        : 'the app draws a Do-not block on a downloaded passage step too (' + now.length + ' such step(s))');
+      else {
+        const grew = now.filter(x => !known.includes(x)), gone = known.filter(x => !now.includes(x));
+        line(!grew.length && !gone.length, (grew.length || gone.length)
+          ? 'Do-not blocks on PASSAGE steps (not drawn from a download until the app changes) no longer match the recorded list' +
+            (grew.length ? ' — NEW: ' + grew.join(', ') : '') + (gone.length ? ' — GONE, remove from the list: ' + gone.join(', ') : '')
+          : 'Do-not blocks on PASSAGE steps are exactly the recorded ' + known.length + ' (' + known.join('; ') + ') — carried by the shelf, NOT drawn from a download until the app changes; routed to Darren 2026-11-14');
+      }
+    }
+  } catch (e) {
+    noRed = true;
+    line(false, 'the Do-not comparison could not run — ' + (e && e.message ? e.message : e));
+  }
+  if (PROVE === 'nofield') {
+    const only = noRed && failed === 1;
+    console.log('\n' + (only ? 'CONTROL OK — with the field left out the Do-not gate is red, and nothing else is' : 'CONTROL BROKEN — ' + (noRed ? 'something else went red too (' + failed + ' failures)' : 'the Do-not gate stayed green with the field left out')));
+    return only ? 0 : 1;
   }
 
   /* ---- and the claim the whole design rests on, measured ---- */

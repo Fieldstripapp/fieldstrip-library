@@ -573,6 +573,30 @@ function main() {
     payload.quarantined.forEach(q => log('     ' + q.row + '  — ' + q.leak));
     log('     Fix belongs in the spec, upstream. This publisher will not edit authored text.');
   }
+  /* ⛔ WHAT AN OWNER WOULD NOT SEE (Darren 2026-11-14 11:45). The list below it names spec fields this projection does
+     not know, which is a statement about the SPEC. This one is a statement about the SCREEN: every field the app's own
+     emitter writes onto a guide or a step that the published record does not carry with the same value, measured on
+     the app's emitted block for every guide (tools/lib/noblock.js). It is printed FIRST and on every run, whether or
+     not the field is on an "internal" list — the red Do-not block hid behind exactly such a list. */
+  try {
+    const nb = require('./lib/noblock');
+    const drops = nb.ownerVisibleDrops(new Map(payload.guides.map(g => [g.row, JSON.parse(g.bytes.toString('utf8'))])),
+                                       nb.evalBlock(app.show('scratchpad/clean-rebuild/shelf_block.js')));
+    log('');
+    if (drops.length) {
+      log('  ⛔ THE APP DRAWS THESE AND THE SHELF DOES NOT CARRY THEM — a downloaded guide will not show them:');
+      drops.forEach(d => log('     ' + d.field + ': ' + d.guides + ' guide(s), ' + d.places + ' place(s), e.g. ' + d.example));
+    } else {
+      log('  ✅ every field the app draws on a guide is carried by the shelf (measured on ' + payload.guides.length + ' guides)');
+    }
+    if (!nb.appDrawsPassageNo(app.show('www/index.html')) && nb.KNOWN_PASSAGE_GAP.length) {
+      log('  ⛔ CARRIED BUT NOT DRAWN FROM A DOWNLOAD until the app changes — a Do-not block on a passage step: ' + nb.KNOWN_PASSAGE_GAP.join('; '));
+    }
+  } catch (e) {
+    log('');
+    log('  ⛔ COULD NOT MEASURE what the shelf leaves out of the app\'s guides — ' + (e && e.message ? e.message : e));
+  }
+
   if (payload.unknownFields.length) {
     log('');
     log('  ⚠ SPEC FIELDS THE PROJECTION DOES NOT KNOW (excluded, not published):');

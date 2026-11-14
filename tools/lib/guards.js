@@ -122,6 +122,12 @@ const STEP_KEYS = new Set([
      and showing only our translation. That the guard refused it until this line
      was written is the allowlist doing its job. */
   'box',
+  /* ⛔ no — REVIEWED AND ADMITTED (Darren 2026-11-14 11:45). The maker's prohibition for a step the maker forbids:
+     exactly three strings — q, the maker's own sentence, verbatim; who, the maker's name; src, the citation the app
+     already prints under every quotation. It is owner-facing text the app draws as the red "Do not" block, and until
+     this line was written the shelf did not send it, so a downloaded guide drew a forbidden step as an ordinary one.
+     The shape is checked below: three strings and nothing else, so no working field can ride inside it. */
+  'no',
   /* ⛔ gloss — REVIEWED AND ADMITTED. Our own margin note on a manufacturer's
      passage, already owner-facing text in the app and already checked by the
      app's own owner-facing-text gate. It goes out only on a step whose form IS
@@ -188,6 +194,13 @@ function noSourceDocuments(files) {
         Object.keys(st).forEach(k => {
           if (!STEP_KEYS.has(k)) v.push(f.path + ': step ' + (i + 1) + ' carries unpublishable field "' + k + '"');
         });
+        /* a Do-not block is three non-empty strings and nothing else */
+        if ('no' in st) {
+          const n = st.no, ok = n && typeof n === 'object' && !Array.isArray(n) &&
+            Object.keys(n).sort().join() === 'q,src,who' &&
+            ['q', 'who', 'src'].every(k => typeof n[k] === 'string' && n[k].trim());
+          if (!ok) v.push(f.path + ': step ' + (i + 1) + ' carries a malformed Do-not block (it must be exactly q, who and src, each a non-empty string)');
+        }
       });
       /* ⛔ AND NO CACHE PATH MAY RIDE INSIDE A STRING. The schema check above
          catches a whole field; this catches a path smuggled into prose. */

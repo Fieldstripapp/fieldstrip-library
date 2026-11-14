@@ -87,10 +87,20 @@ const STEP_EMITTED = new Set([
      reading. The flag is decided upstream against the repository's own verbatim
      oracle, never here. */
   'warnSrc',
+  /* ⛔ THE MAKER'S PROHIBITION (Darren 2026-11-14 11:45). `prohibited` marks a step the maker forbids; the app draws it
+     as the red "Do not" block — the maker's own sentence in quotation marks with its citation (app ruling 2026-10-17)
+     — and reads that block off a downloaded step as `no`. Until today this list did not carry it: `prohibited` sat
+     with the internal fields below, so every downloaded guide drew a forbidden step as an ordinary card (165 guides,
+     297 steps; 13 download rows lost 19 red cards). The sentence is, by the app emitter's own rule (noFor in
+     splice_authored.js): the spec's `prohibited` when that is the sentence itself; `prohibitQuote` (cited to
+     `prohibitSection`) where the step's quote is a neighbouring sentence; otherwise the step's own quote. It is
+     published exactly as the spec holds it. tools/lib/noblock.js measures the result against the app's emitted block
+     for every guide, every run. */
+  'prohibited', 'prohibitQuote', 'prohibitSection',
 ]);
 
 const STEP_INTERNAL = new Set([
-  'prohibited', 'quoteGerman', 'asideLang', 'asideOriginal', 'warnLang',
+  'quoteGerman', 'asideLang', 'asideOriginal', 'warnLang',
   'warnOriginal', 'cautionLang', 'cautionOriginal',
   'cautionOriginalNotContiguousInExtraction', 'm',
   /* vC75: a clean step may NAME ITS PART (the group whose screen carries it) — routing
@@ -116,6 +126,17 @@ function citeFor(spec, st) {
   const man = st.doc === 2 ? spec.manual2 : spec.manual;
   const ed = st.doc === 2 ? spec.edition2 : spec.edition;
   return [man, plainEd(ed), st.section].filter(Boolean).join(' — ');
+}
+
+/* The maker's sentence and its citation for a prohibited step — the app emitter's rule, field for field. A prohibited
+   step with no maker sentence REFUSES here exactly as it refuses in the splice: a red card with nothing in it would
+   be our word passed off as the maker's. */
+function noFor(spec, st, where) {
+  if (!st.prohibited) return null;
+  const q = typeof st.prohibited === 'string' ? st.prohibited : (st.prohibitQuote || st.quote);
+  if (!q) throw new Error('⛔ REFUSING — a prohibited step with no maker sentence: ' + spec.row + ' ' + where + ' — ' + st.title);
+  const sec = st.prohibitQuote && typeof st.prohibited !== 'string' ? (st.prohibitSection || st.section) : st.section;
+  return { q, who: spec.make, src: citeFor(spec, Object.assign({}, st, { section: sec })) };
 }
 
 function projectStep(spec, st, unknown, where, box) {
@@ -162,6 +183,9 @@ function projectStep(spec, st, unknown, where, box) {
      still counts where it exists. Since 2026-09-22 the block is the SHELF block,
      so a shelf-only guide gets its derived flag by the same mechanism. */
   if ((box && box.branch) || st.branch) out.branch = true;
+  /* the red "Do not" block: {q, who, src}, the shape the app's libStepFrom reads and fsNoHtml draws */
+  const no = noFor(spec, st, where);
+  if (no) out.no = no;
   return out;
 }
 
