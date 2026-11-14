@@ -1,0 +1,230 @@
+{
+ "row": "noslermodel48mountaincarbon",
+ "make": "Nosler",
+ "model": "Model 48 Mountain Carbon",
+ "sourcedFrom": "Nosler rifle HANDBOOK — Rev. 3/16/2018 (2018)",
+ "sourceSha256": "ac2fbbd5570f89aa17bc85b946f7df8c080c5106e9570ed3bb5ced9f9614af8b",
+ "cleanIntro": "This guide follows Nosler's handbook for the Nosler rifle family; check your variant against it. The Model 48 is a turn-bolt repeater with a side-mounted safety lever. Nosler's strip is short: bolt out past the bolt stop release, bolt shroud off the bolt body, and the barreled action out of the stock on two Torx screws. The trigger stays in the receiver, and the book goes no further than that.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Safety to the rear: Safe",
+   "action": "This guide follows Nosler's handbook for the Nosler rifle family; check your variant against it. Point the muzzle in a safe direction and pull the safety lever fully rearward. Forward is Fire, rear is Safe. If your rifle has Nosler's optional three-position safety, the middle position keeps the rifle on safe but lets the bolt lift, which is the one to use for unloading.",
+   "box": "none",
+   "prose": "The Model 48 Mountain Carbon is not named in the book, which says it applies to all Nosler rifle variants. Nosler warns that on the three-position safety the bolt handle must not be forced open with the lever in the rear position, or the safety and trigger mechanism can be damaged. A safety is a mechanical device and can fail: the rifle is only safe with the chamber empty and the action open.",
+   "quote": "The rear position is the standard “Safe” position.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — The Nosler Rifle Safety, p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Open the bolt and clear the chamber",
+   "action": "Safety on, raise the bolt handle. Cup one hand over the ejection port and pull the bolt handle back with the other, so a chambered cartridge comes out into your hand rather than onto the floor.",
+   "box": "none",
+   "prose": "Do this before anything else touches the rifle. If a cartridge ever fails to fire, Nosler says to keep the muzzle in a safe direction, put the safety on and wait 30 seconds before opening the bolt, then open it with extreme care.",
+   "quote": "pull the bolt handle back with the other hand to remove the cartridge from the chamber.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Unloading the Rifle, p.12"
+  },
+  {
+   "phase": "Clear",
+   "title": "Empty the magazine",
+   "action": "With a hinged floorplate, open the floorplate and the cartridges fall free. With a blind-bottom magazine, there is no floorplate: safety on and muzzle safe, push the bolt forward to chamber the top round, close it just far enough for the extractor to catch the rim, then open and pull back to eject it. Repeat until the magazine is empty.",
+   "box": "none",
+   "prose": "The two magazine types empty differently, so look at the bottom of your rifle before you start. On a blind bottom, never close the bolt fully while you are cycling rounds out.",
+   "quote": "To empty the magazine, the magazine floor-plate will swing open allowing the cartridge to fall free.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Unloading the Rifle, p.12"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber and magazine",
+   "action": "With the action open and the bolt fully to the rear, look directly into the chamber and into the magazine and confirm both are empty. Only then start taking the rifle apart.",
+   "box": "none",
+   "prose": "Nosler repeats this check at the head of every cleaning and disassembly procedure in the book: muzzle safe, safety on, chamber and magazine checked empty.",
+   "quote": "check that all cartridges have been removed from the chamber and magazine.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Rifle Cleaning — To Clean the Barrel, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Remove the bolt",
+   "action": "Raise the bolt handle and pull the bolt all the way back. Push the bolt stop release on the left side of the receiver (the right side on a left-handed rifle) and draw the bolt assembly out of the rifle.",
+   "box": "none",
+   "prose": "The bolt stops at the end of its travel until the release is held in; it is not stuck. Keep the release pressed while the bolt comes clear.",
+   "quote": "Push the bolt stop release on the left hand side of the receiver",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Disassembling the Rifle — Removing the Bolt Assembly, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Separate the bolt shroud from the bolt body",
+   "action": "Hold the bolt shroud in your right hand and the bolt body in your left. Rotate the shroud clockwise until it releases from the bolt body (counter clockwise on a left-handed rifle), and draw the firing pin and shroud assembly out.",
+   "box": "none",
+   "prose": "This is as far as the bolt comes apart. Nosler says it is neither necessary nor recommended to disassemble the firing pin assembly any further.",
+   "quote": "Rotate the bolt shroud clockwise until it releases from the bolt body.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Disassembling the Rifle — Removing the Bolt Assembly, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Take the barreled action out of the stock",
+   "action": "Bolt out, lay the rifle upside down and horizontal on a padded surface. With a T27 Torx bit, remove the rear guard screw from behind the trigger guard and the front action screw (the front guard screw on a rifle with a floorplate).",
+   "box": "none",
+   "prose": "Use a bit that fits the screw heads exactly so they are not damaged. Keep track of which screw came from the front and which from the rear: they are tightened to different torques on reassembly.",
+   "quote": "remove the rear guard screw from behind the trigger guard",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Disassembling the Rifle — Removing the Stock, p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Lift the barreled action free of the stock. You now have the barreled action with its trigger in place, the stock, the bolt body, and the bolt shroud with the firing pin assembly.",
+   "box": "none",
+   "prose": "That is the whole strip Nosler publishes. The trigger assembly is not removed: Nosler says to clean it with the receiver as a unit, and only a qualified gunsmith should remove or adjust it.",
+   "quote": "The barreled action will now pull free from the stock.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Disassembling the Rifle — Removing the Stock, p.9",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean the bore from the chamber end",
+   "action": "With the bolt out and the barrel lying horizontal, put the correct-caliber brush on the rod, wet it with solvent, and push it through from the chamber end to the muzzle several times. Nosler's own break-in notes add a one-piece rod and a bore guide.",
+   "box": "none",
+   "prose": "Working from the chamber protects the crown, where accuracy lives. Nosler says not to use a stainless steel bore brush.",
+   "quote": "ALWAYS CLEAN THE BARREL FROM THE CHAMBER END TO THE MUZZLE.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Rifle Cleaning — To Clean the Barrel, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Patch until clean, then oil",
+   "action": "Swap the brush for a tip and patch and push it through. Repeat with a fresh patch each time until one comes out clean, then push a patch soaked in gun oil through, and finish with dry patches through the chamber and bore.",
+   "box": "none",
+   "prose": "Nosler asks for a clean after roughly every 20 to 40 rounds once the barrel is broken in, and warns that corrosion can begin within 24 hours if the rifle is not cleaned after firing.",
+   "quote": "Repeat several times, using a new cleaning patch each time, until the patch comes out clean.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Rifle Cleaning — To Clean the Barrel, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry the bore before you shoot",
+   "action": "Before the rifle is fired again, run a dry patch to take the excess oil out of the bore and chamber.",
+   "box": "limit",
+   "prose": "Nosler's reason: oil left in the bore raises chamber pressure. The same page notes that a bore shot completely dry promotes copper fouling, which is why it is oiled first and then dried.",
+   "quote": "Firing the rifle with excess oil left in the bore can cause higher chamber pressures and is not recommended.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Additional Information — cleaning instructions, p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ The trigger stays in the receiver",
+   "action": "Clean and lubricate the receiver and trigger assembly together, as one unit, with the trigger left in place. Do not take the trigger out of the receiver.",
+   "box": "limit",
+   "prose": "The trigger is adjusted at the factory. Nosler reserves its removal and any adjustment to a qualified gunsmith, and says alterations not made by Nosler gunsmiths void the warranty.",
+   "quote": "DO NOT REMOVE THE TRIGGER ASSEMBLY FROM THE RECEIVER.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Rifle Cleaning — To Clean the Receiver and Trigger Assembly, p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scrub the chamber and receiver",
+   "action": "Scrub every area of the chamber and receiver with solvent to lift the residue, then wipe all the parts with a clean rag to take off the solvent and what it loosened.",
+   "box": "none",
+   "prose": "Solvent left behind keeps working on finishes; the wipe-down is part of the job, not a tidy-up.",
+   "quote": "Scrub all areas of the chamber and receiver with solvent to remove any residue.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Rifle Cleaning — To Clean the Receiver and Trigger Assembly, p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "A drop of oil on the lugs and the cocking ramp",
+   "action": "Wipe the bolt body clean, then put one light drop of good gun oil on the rear of each locking lug and one on the camming ramp for the firing pin.",
+   "box": "none",
+   "prose": "Those are the surfaces that slide under load every time the bolt is opened and closed. A light drop is the instruction; more only gathers dirt.",
+   "quote": "Place a light drop of high quality oil on the rear of each locking lug and on the camming ramp for the firing pin.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Lubrication points, p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "Keep solvent off the stock",
+   "action": "Wipe the stock down, and keep cleaning solvents away from it. Once a year, check that every screw on the rifle is tight, the stock and receiver screws included.",
+   "box": "limit",
+   "prose": "Nosler warns that solvents can remove the stock's finish. A loose action screw changes how the barreled action sits in its bedding, which shows up as wandering groups.",
+   "quote": "do not allow solvents to contact stock as it can remove the finish.",
+   "cite": "Nosler rifle HANDBOOK — Rev. 3/16/2018 — Additional Information — cleaning instructions, p.16"
+  }
+ ],
+ "deepAbsentReason": "Nosler's rifle handbook ends at the field strip: its disassembly is removing the bolt assembly, separating the bolt shroud from the bolt body — past which it says it is not necessary or recommended to disassemble the firing pin assembly — and lifting the barreled action out of the stock (p.9). It tells the owner not to remove the trigger assembly from the receiver (p.8) and reserves trigger removal and adjustment to a qualified gunsmith (p.10). There is no further disassembly procedure in the book.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Barrel horizontal, cleaned from the chamber end to the muzzle only",
+    "Correct-caliber brush with solvent, then patches until one comes out clean",
+    "Patch soaked in gun oil, then dry patches through the chamber and bore",
+    "Do not use a stainless steel bore brush",
+    "Do not leave strong ammonia cleaners in the bore for extended periods",
+    "Clean after roughly every 20 to 40 rounds once the barrel is broken in",
+    "⚠ Corrosion can start within 24 hours if the rifle is not cleaned after firing",
+    "⚠ Dry the bore before firing — excess oil raises chamber pressure"
+   ]
+  },
+  {
+   "name": "RECEIVER & TRIGGER",
+   "tasks": [
+    "⛔ Never remove the trigger assembly from the receiver — clean and lubricate them as a unit",
+    "Chamber and receiver scrubbed with solvent",
+    "All parts wiped with a clean rag to remove solvent and residue",
+    "Trigger removal or adjustment only by a qualified gunsmith"
+   ]
+  },
+  {
+   "name": "BOLT",
+   "tasks": [
+    "Bolt body and shroud wiped clean",
+    "Light drop of high quality oil on the rear of each locking lug",
+    "Light drop of oil on the firing pin camming ramp",
+    "Do not disassemble the firing pin assembly any further"
+   ]
+  },
+  {
+   "name": "STOCK & SCREWS",
+   "tasks": [
+    "Do not let solvents touch the stock — they can remove the finish",
+    "Screwdriver or bit sized to the screw heads so they are not damaged",
+    "At least once a year, check every screw for tightness, stock and receiver screws included"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     11,
+     12
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     13
+    ]
+   },
+   {
+    "g": 3,
+    "steps": [
+     14
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "Magazine box: hold the barreled action upside down and set the magazine box in the recess under the feed rails.",
+  "Hinged floorplate: place the stock over the action and magazine box, then fit the bottom metal into the stock so the magazine box seats properly in it. Blind bottom: hold the stock right side up, put the follower and spring assembly in the slot at the bottom of the magazine well, then lower the action and magazine box over it.",
+  "Action screws: start the front and rear screws by hand and snug them until no clearance remains, checking the magazine box does not bind between the action and the bottom metal.",
+  "Torque: with a T27 Torx bit and an inch-pound torque wrench, lightly snug both screws, then tighten the front screw to 40–45 inch-pounds and the rear screw to 35–40 inch-pounds.",
+  "Hinged floorplate: fit the magazine spring and follower into the floorplate slot, turn the rifle over and check the follower travels freely without binding.",
+  "Bolt: shroud in the right hand, bolt body in the left. Push the firing pin and shroud assembly into the bolt body, turning the shroud counter clockwise as you push, until it snaps into place.",
+  "With the bolt handle up, push the bolt into the receiver.",
+  "Before firing: a dry patch through the bore to remove the excess oil."
+ ],
+ "fncheck": "Rifle unloaded, chamber and magazine empty. The bolt slides in with the handle up and closes and opens smoothly. Safety forward is Fire, rear is Safe; on a three-position safety, the middle position lets the bolt lift while the rifle stays on safe, and in the rear position the bolt must not be forced. On a floorplate rifle the follower travels freely without binding. If the trigger behaves differently, the rifle misfires, or the safety does not work, Nosler says to stop shooting and contact them."
+}

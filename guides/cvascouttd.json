@@ -1,0 +1,200 @@
+{
+ "row": "cvascouttd",
+ "make": "CVA",
+ "model": "Scout TD",
+ "sourcedFrom": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 (not printed (the edition code reads Rev. 07/26))",
+ "sourceSha256": "8219c4a4fb9bd9243eeee500feee07d8c47dea5ec90c633f93fd7af3a1306bb4",
+ "cleanIntro": "CVA's own procedure for the Scout TD, from the one book CVA prints for every Scout. The Scout TD is a single-shot break-action with a quick take-down system: the breeching lever opens it, the forend comes off by its latch, and the barrel pivots off the frame by hand with no punch and no pin to drive. With the barrel off, the bore is cleaned from the breech end. Servicing the firing pin is an occasional job the book saves for a wet or misbehaving gun, so it is in the Deep Clean.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Breeching lever back, barrel forward, look through it",
+   "action": "Muzzle in a safe direction, pull the breeching lever at the rear of the trigger guard to the rear and let the barrel pivot forward. Look into the chamber and through the bore and confirm both are empty and unobstructed before anything else happens.",
+   "box": "none",
+   "prose": "On the Scout TD the breeching lever sits at the rear of the trigger guard, and you pull it back, usually with your trigger finger. With the barrel pivoted forward you can see straight down the bore from the breech, and that look is the only check that proves the gun is empty. The book makes it the first step of the take-down, before the forend is touched.",
+   "quote": "The breech is opened by pulling the breeching lever, located at the rear of the trigger guard on the Scout and Scout TD.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — LOADING AND FIRING THE CVA Scout, step 1, PDF p.7 (the book prints no folios)",
+   "warn": "Always wear eye protection. Flying debris from the breech area and muzzle are common with any firearm.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "The extractor lifts the case; your fingers take it out",
+   "action": "If a case or cartridge is in the chamber, pivot the barrel forward until it stops. The extractor lifts the rim clear of the chamber, and you take the case out by its rear with your fingers.",
+   "box": "none",
+   "prose": "The Scout TD does not throw the case. The extractor only partly withdraws it, so check the chamber by eye, pull the case out by hand and set it away from the bench before you go on.",
+   "quote": "Note that the extractor only partially pulls the case from the chamber, it does not eject it.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — LOADING AND FIRING THE CVA Scout, step 6, PDF p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Close the action again",
+   "action": "With the gun confirmed empty, swing the barrel back up to the closed position.",
+   "box": "limit",
+   "prose": "The forend comes off with the action closed, so the empty check is done open and the take-down itself starts closed. Do not skip ahead to pivoting the barrel off: the forend has to come off first.",
+   "quote": "Return the barrel to the closed position.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — DISSASSEMBLING THE CVA Scout TD, step 2, PDF p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Pull the forend latch out and take the forend off",
+   "action": "Pull the forend latch outward and lift the forend away from the barrel.",
+   "box": "none",
+   "prose": "The TD's forend is held by a latch, not by screws, so there is nothing to unscrew. Pull the latch out and the forend comes free. The screws you may see on the forend and its lug are factory-set adjustment screws, not fasteners for taking it off; leave them alone.",
+   "quote": "Forend Latch: Pull Latch OUT to take out Forend.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — DISSASSEMBLING THE CVA Scout TD, figure caption, PDF p.9"
+  },
+  {
+   "phase": "Strip",
+   "title": "Open the action and pivot the barrel off the frame",
+   "action": "Pull the breeching lever to the rear again and pivot the barrel forward and off the frame, carefully, supporting it as it comes free.",
+   "box": "none",
+   "prose": "This is the take-down. With the forend gone, the barrel lifts off the frame at the hinge by hand. There is no pivot pin to drive out on the TD, and the Scout's punch-out procedure does not apply to it. With the barrel and the frame apart, the routine strip is complete.",
+   "quote": "Pull the breeching lever to the rear and carefully pivot the barrel off of the frame.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — DISSASSEMBLING THE CVA Scout TD, step 4, PDF p.9",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean from the breech end",
+   "action": "Use a good cleaning rod and jag and work from the breech end of the barrel.",
+   "box": "none",
+   "prose": "With the barrel off the frame the breech end is fully open to the rod. The breech-end rule protects the muzzle crown: a rod that rubs the crown can damage the last edge the bullet touches, and accuracy suffers.",
+   "quote": "CVA recommends that you clean from the breech end of the barrel to protect the muzzle crown.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — CLEANING THE CVA Scout, step 2, PDF p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wet bore brush, full-length strokes, let it soak",
+   "action": "Wet a properly fitting bore brush with solvent and brush the barrel with several full-length strokes. Leave the solvent in the bore for a few minutes, following the solvent maker's directions.",
+   "box": "none",
+   "prose": "A full-length stroke means the brush travels the whole bore each time. The soak is part of the step: the solvent does the work while the bore sits.",
+   "quote": "Using a properly fitting bore brush that is wet with solvent, brush the barrel with several full-length strokes.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — CLEANING THE CVA Scout, step 4, PDF p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dry patches until they come out clean",
+   "action": "Push clean, dry patches through the barrel to lift out the fouling and solvent. Repeat the solvent and the patches until a dry patch comes out clean.",
+   "box": "none",
+   "prose": "The clean dry patch is the finish line the book sets. Stopping before it leaves solvent and loosened fouling in the bore.",
+   "quote": "Push clean, dry patches through the barrel to remove fouling and solvent. Repeat the solvent and patching process until the dry patches come out clean.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — CLEANING THE CVA Scout, step 4, PDF p.9",
+   "warn": "Always use proper cleaning procedures. Firing of an improperly maintained or corroded firearm may lead to unsafe pressure conditions and/or cause the barrel to rupture resulting in severe injury or death.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Oil the bore, the pivot pin and the outside",
+   "action": "Finish with a light coat of oil in the bore, on the pivot pin and over the exterior of the gun.",
+   "box": "none",
+   "prose": "On the TD the pivot pin is exposed on the frame once the barrel is off, so it is easy to reach. It is the hinge the barrel turns on and seats against, and the oil is there to keep corrosion off it.",
+   "quote": "Oil the bore, pivot pin and exterior of the gun to prevent corrosion",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — CLEANING THE CVA Scout, step 6, PDF p.9"
+  },
+  {
+   "phase": "Inspect",
+   "title": "⛔ CVA's serial-number recall, printed in this book",
+   "action": "This book carries CVA's 1997 voluntary recall. It covers CVA in-line muzzleloading models whose serial numbers end in -95 or -96, not the Scout TD, which is a cartridge break-action. If you own any CVA in-line muzzleloader, read its serial number and check it now.",
+   "box": "limit",
+   "prose": "⛔ By CVA's own words a recalled gun must not be used or lent to anyone, and CVA asks owners to call them for a replacement. It is repeated here because the notice is printed in the Scout TD's book, and the Scout TD may not be the only CVA in the safe.",
+   "aside": "Example of a recalled serial number: 61-13-xxxxxx-95",
+   "quote": "If you, or someone you know, have a CVA in-line firearm with such a serial number, do not use or allow anyone else to use to gun under any circumstances.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — VOLUNTARY RECALL INFORMATION, PDF p.11"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Firing pin: only when it needs it",
+   "action": "Service the firing pin only occasionally, or when the mechanism is malfunctioning or has been soaked with water. A firing pin that will not retract in the function check is the sign that it needs this.",
+   "box": "none",
+   "prose": "The firing pin is the one internal part the book takes you into. It stops at the firing pin and its spring, and so does this guide.",
+   "quote": "This step is needed only occasionally or if the mechanism is malfunctioning or soaked with water.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — CLEANING THE CVA Scout, step 5, PDF p.9"
+  },
+  {
+   "phase": "Deep",
+   "title": "Cock the hammer to expose the firing pin",
+   "action": "Confirm again that the gun is unloaded, then cock the hammer. Cocking it exposes the rear of the firing pin and the screw above it.",
+   "box": "none",
+   "prose": "The book repeats the unloaded check at the start of this job, so repeat it.",
+   "quote": "Cock the hammer to expose the rear of the firing pin",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — CLEANING THE CVA Scout, step 5, PDF p.9"
+  },
+  {
+   "phase": "Deep",
+   "title": "Remove the screw above the firing pin",
+   "action": "Take out the screw above the firing pin. The firing pin and its spring come out after it. Clean and lightly oil them, then put them back in reverse order.",
+   "box": "none",
+   "prose": "Have a tray ready: the book says the pin and spring come out with the screw, and both are small. The book ends this procedure at the pin and spring, and nothing deeper is published.",
+   "quote": "The firing pin and spring will follow. Reassemble in reverse order.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — CLEANING THE CVA Scout, step 5, PDF p.9"
+  },
+  {
+   "phase": "Deep",
+   "title": "Firing pin retract test, after servicing",
+   "action": "With the barrel back on and pivoted open, pull the trigger to the rear and push the hammer forward with your thumb. The firing pin should stand out from the face of the receiver. Let go of the hammer and the trigger, and the pin should pull back into the receiver by itself.",
+   "box": "none",
+   "prose": "A firing pin that stays proud of the receiver face is the fault this test exists to find. Service it and test again. If it still will not retract, the book sends you to CVA rather than further into the gun.",
+   "quote": "If the firing pin fails to retract it should be serviced and cleaned as described in the cleaning section. Repeat this test after servicing. If the firing pin still does not retract automatically contact CVA Customer Service.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — LOADING AND FIRING THE CVA Scout, step 2, PDF p.8"
+  },
+  {
+   "phase": "Deep",
+   "title": "Forend fit: factory-set, leave the screws alone",
+   "action": "Do not turn the adjustment screws on the forend or the forend lug as part of cleaning. They are set at the factory, and the book reserves adjusting them for a forend mechanism that has become loose or worn.",
+   "box": "limit",
+   "prose": "If the forend has looseness or play, or will not lock into place, the book prints a screw-by-screw adjustment for it on the take-down page; work from that page of the book, or contact CVA Customer Service. A forend that fits and locks needs nothing here.",
+   "quote": "NOTE: The forend and forend lug have adjustment screws that are pre-set at the factory and these should not be tampered with unless the forend mechanism has become lose or worn.",
+   "cite": "CVA Scout Owner's Manual — No. 32380 • Rev. 07/26 — DISSASSEMBLING THE CVA Scout TD, note, PDF p.9"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Clean from the breech end with the barrel off the frame",
+    "Wet, properly fitting bore brush, several full-length strokes; let the solvent soak a few minutes",
+    "Dry patches until they come out clean"
+   ]
+  },
+  {
+   "name": "ACTION & EXTERIOR",
+   "tasks": [
+    "Oil the pivot pin",
+    "Light oil over the exterior to prevent corrosion",
+    "Do not turn the factory-set forend adjustment screws"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     8
+    ]
+   },
+   {
+    "s": 9
+   }
+  ]
+ },
+ "reassembly": [
+  "If the firing pin was out, put the firing pin and spring back and refit the screw above it, in reverse order of removal.",
+  "Put the barrel back on the frame at the pivot pin and rotate it up into the closed position, the reverse of taking it off.",
+  "Align the forend to the front of the pivot pin and rotate it into position, then press it gently against the bottom of the barrel until it locks in place.",
+  "Open the action and run the firing pin check before the gun goes away."
+ ],
+ "fncheck": "With the gun unloaded and the barrel pivoted forward, pull the trigger to the rear and push the hammer forward with your thumb: the firing pin should stand out from the face of the receiver. Let go of the hammer and the trigger, and it should pull back in by itself. If it does not, service the firing pin (Deep Clean) and test again; if it still does not retract, contact CVA. Check too that the forend is locked in place with no play.",
+ "breakOpen": "pull the breeching lever to the rear and let the barrel pivot forward."
+}

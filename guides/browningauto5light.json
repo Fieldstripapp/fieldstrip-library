@@ -1,0 +1,131 @@
+{
+ "bpLabel": "Fieldstrip Best Practices guide. No manufacturer manual exists for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
+ "bpClass": "FA-SAS",
+ "bpTemplateVersion": 1,
+ "row": "browningauto5light",
+ "make": "Browning",
+ "model": "Auto-5 Light",
+ "cleanIntro": "No manual from Browning exists for this model. Semi-auto shotguns come apart in different ways depending on how they work, so this guide does not take yours apart: it clears it, cleans the bore and everything you can reach with the bolt locked back, and looks it over.\n\nListed in Fieldstrip as 12 GA, 20 GA. The gauge and chamber length marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Ammunition out of the room, muzzle somewhere safe",
+   "action": "Before you start, put every loose shell, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "box": "none",
+   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out, bolt back and locked",
+   "action": "If the shotgun takes a detachable box magazine, take it out first. Pull the operating handle fully back and lock the bolt open if your gun holds open; if it does not, hold it. Look into the loading port under the action: you want to see the magazine follower with no shell in front of it.",
+   "box": "none",
+   "prose": "⛔ If shells remain in the magazine tube and you do not know your gun's control for releasing them, stop. Never pry a shell out with a tool, and never put a finger into the action to press the carrier."
+  },
+  {
+   "phase": "Clear",
+   "title": "Look, then feel — and do it twice",
+   "action": "With the action open, look into the chamber and the loading port, then put a fingertip into the chamber: a shell that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "box": "none",
+   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Browning with the gun pointed somewhere safe."
+  },
+  {
+   "phase": "Strip",
+   "title": "No takedown — and that is deliberate",
+   "action": "Leave the gun in one piece. How the barrel comes off, and the bolt group behind it, differs between inertia- and gas-operated guns, and on some the recoil spring sits in the stock; a guide that cannot see your gun cannot say how. Everything here is done with the bolt locked back.",
+   "box": "none",
+   "prose": "⛔ No magazine cap is unscrewed and no pin is pushed. Anything beyond the outside and the open breech is work for Browning."
+  },
+  {
+   "phase": "Clean",
+   "title": "The bore, from the muzzle or by pull-through",
+   "action": "Work from the muzzle with a rod and a rod guide, or feed a pull-through cord in at the open chamber and draw it out of the muzzle. Brush wet with bore solvent, a few passes, then dry patches until clean — plastic from the wads builds up in a shotgun bore and comes out with the brush. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "box": "none",
+   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+  },
+  {
+   "phase": "Clean",
+   "title": "The breech you can reach through the open action",
+   "action": "With the bolt locked back, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach through the ejection port with a cloth and very little solvent. Do not pour or spray solvent into the action: what runs inside cannot be wiped back out, and no oil goes in from the outside either.",
+   "box": "none"
+  },
+  {
+   "phase": "Clean",
+   "title": "The outside, and how it is stored",
+   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
+   "box": "none"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Look for the things that mean stop",
+   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Browning.",
+   "box": "none",
+   "prose": "Any one of these means the gun is not fired until Browning has seen it."
+  }
+ ],
+ "deepAbsentReason": "There is no deep clean for the Browning Auto-5 Light, and this guide will not invent one. No manual from Browning exists for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Browning, not onto the bench.",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "From the muzzle with a rod guide, or a pull-through from the open chamber",
+    "Brush wet with bore solvent, then dry patches until clean",
+    "A lightly oiled patch for storage; a dry patch before the next shot"
+   ]
+  },
+  {
+   "name": "THE OPEN BREECH",
+   "tasks": [
+    "Bolt face and chamber mouth wiped through the ejection port",
+    "⛔ No solvent or oil poured or sprayed into the action"
+   ]
+  },
+  {
+   "name": "EXTERIOR",
+   "tasks": [
+    "Wiped with a lightly oiled cloth",
+    "No solvent on wood, finishes or optics"
+   ]
+  },
+  {
+   "name": "STORAGE",
+   "tasks": [
+    "Stored dry — never shut in a closed case while damp",
+    "Looked over for rust at every clean"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     4
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     5
+    ]
+   },
+   {
+    "g": 2,
+    "steps": []
+   },
+   {
+    "g": 3,
+    "steps": [
+     6
+    ]
+   },
+   {
+    "s": 7
+   }
+  ]
+ },
+ "reassembly": [
+  "Nothing was taken apart, so nothing goes back together.",
+  "Let the bolt close under control, with your hand out of its path."
+ ],
+ "fncheck": "Magazine out and the chamber empty. Work the action: it runs fully back and returns fully forward, and it locks open where your gun holds open. A safety, if fitted, moves through its positions. This check never asks you to pull the trigger."
+}

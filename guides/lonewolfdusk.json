@@ -1,0 +1,235 @@
+{
+ "row": "lonewolfdusk",
+ "make": "Lone Wolf",
+ "model": "Dusk",
+ "sourcedFrom": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) (2024 (the date in the file name; the book prints no year))",
+ "sourceSha256": "ad8df432553b363cdb194b6f69b19b29906de6bf2db2bd582969794a05eb7aab",
+ "cleanIntro": "The Lone Wolf DUSK is a striker-fired pistol with no conventional manual safety: a trigger safety in the trigger blade, a firing pin safety and a drop safety on the trigger bar are what keep it from firing, and it will fire if the trigger is pulled with a round in the chamber. The slide comes off forward once the slide lock lever is pulled down on both sides, after the trigger has been pressed on an empty chamber.\n\nLone Wolf publishes one procedure for cleaning, its field strip, and this guide follows it in Lone Wolf's order: magazine out, the chamber checked empty by sight and by feel, the slide off forward, then the guide rod assembly and the barrel out of the slide. Lone Wolf stops at four pieces and says no further disassembly is needed for basic cleaning and maintenance.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Ammunition out of the area",
+   "action": "Before you touch the pistol, take every loose round off the bench and out of the room you are working in.",
+   "box": "none",
+   "prose": "Lone Wolf starts the strip here, before the magazine comes out. A round that is not within reach cannot end up in the chamber while you work. Wear safety glasses as well: Lone Wolf asks for them whenever the pistol is stripped or cleaned, against aerosols and parts that come loose.",
+   "quote": "Remove all ammunition from immediate area.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Field Stripping — Magazine Removal, step 1, p.14"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Point the pistol in a safe direction, press the magazine catch and take the magazine out. If it is loaded, unload it and move those rounds out of the area too.",
+   "box": "none",
+   "prose": "The magazine comes out before the slide is worked, so racking next cannot feed a fresh round. It does not make the pistol safe on its own: Lone Wolf warns the DUSK will fire with no magazine in it.",
+   "quote": "While pointing the pistol in a safe direction, depress the magazine catch and remove the magazine.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Field Stripping — Magazine Removal, step 2, p.14",
+   "warn": "PISTOL IS CAPABLE OF FIRING WITHOUT A MAGAZINE.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Rack three times, lock the slide open",
+   "action": "Pull the slide back and release it three times, then pull it back once more and lock it open on the slide stop lever.",
+   "box": "none",
+   "prose": "Each rack gives the extractor a chance to pull a chambered round out and throw it clear. Locking the slide open puts the chamber in view for the next two checks.",
+   "quote": "Pull back the slide to rack it three times and then lock the slide in the open position.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Verification of Empty Pistol, step 1, p.15"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber and magazine well",
+   "action": "Look into the chamber through the open slide, and into the magazine well from below, and confirm both are empty.",
+   "box": "none",
+   "prose": "The extractor doubles as a loaded chamber indicator — flush with the slide on an empty chamber, standing out when a round is chambered — but Lone Wolf asks you to look, not to rely on the indicator.",
+   "quote": "Visually inspect the chamber and magazine well.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Verification of Empty Pistol, step 2, p.15"
+  },
+  {
+   "phase": "Clear",
+   "title": "Feel the chamber with your little finger",
+   "action": "With the slide locked open, put your little finger into the chamber and feel that it is clear. Keep your hand off the slide stop lever while you do.",
+   "box": "none",
+   "prose": "Lone Wolf asks for both checks, sight and feel. Jarring the slide stop lever can let the slide close on your finger, so make sure it is locked open before your finger goes in.",
+   "quote": "Using your little finger, physically verify that the chamber is clear.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Verification of Empty Pistol, step 3, p.15",
+   "warn": "WHEN USING YOUR LITTLE FINGER TO CHECK THE CHAMBER, BE CERTAIN THAT THE SLIDE IS LOCKED IN THE OPEN POSITION.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Release the slide",
+   "action": "Keeping the chamber empty and the muzzle in a safe direction, release the slide and let it close.",
+   "box": "none",
+   "prose": "The slide comes off from closed, not from locked open. Watch that nothing goes into the chamber as it closes.",
+   "quote": "While ensuring the chamber remains empty and the firearm is pointed in a safe direction, release the slide.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Release the Slide, p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Press the trigger",
+   "action": "With the slide closed and the muzzle in a safe direction, press the trigger. You will hear the firing pin move forward.",
+   "box": "none",
+   "prose": "Pressing the trigger releases the firing pin. That sound is the confirmation; the slide cannot be taken off until the trigger has been pressed.",
+   "quote": "Now that the slide is closed, point the pistol in a safe direction and depress the trigger.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Remove the Slide, p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide back 1/8 to 1/4 inch — no further",
+   "action": "Right-handed: hold the muzzle with your left hand and turn the pistol so the barrel points at the floor. Wrap your right palm and four fingers over the top of the slide, put your right thumb on the backstrap, and press down with the thumb to move the slide back about 1/8 to 1/4 inch.",
+   "box": "none",
+   "prose": "The slide only needs to come back a little. Move it more than 1/4 inch and the trigger resets, and you have to start the slide removal again from pressing the trigger.",
+   "quote": "Apply downward pressure with right thumb, moving the slide approximately 1/8” to 1/4”.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Remove the Slide, p.17",
+   "warn": "IF THE SLIDE IS MOVED REARWARD MORE THAN 1/4” YOU WILL HEAR THE TRIGGER RESET AND YOU MUST START THE SLIDE REMOVAL PROCESS AGAIN.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide lock lever down on both sides",
+   "action": "Holding the slide where it is, palm the trigger guard with your left hand and pull down both sides of the slide lock lever at once, with your left thumb and middle finger.",
+   "box": "none",
+   "prose": "This is the slide lock lever, not the slide stop lever — the book names both. Both sides have to come down together.",
+   "quote": "Palming the trigger guard with the left hand, simultaneously pull down both sides of the slide lock lever with your left thumb and middle finger.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Remove the Slide, p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide forward off the frame",
+   "action": "Keep the slide lock lever pulled down and push the slide forward until it comes completely off the frame.",
+   "box": "none",
+   "prose": "If you let go of the lever, the slide stops on the frame. Keep the pressure on until the slide is clear.",
+   "quote": "Maintain downward pressure of the slide lock lever and push the slide forward until it is fully separated from the receiver.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Remove the Slide, p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Guide rod assembly out",
+   "action": "Hold the slide upside down with the muzzle in your palm. With your index finger or thumb, push the guide rod assembly forward and to the side, and lift it out of the slide.",
+   "box": "none",
+   "prose": "Lone Wolf asks for caution here. Keep control of the guide rod assembly with your finger as it comes free.",
+   "quote": "using your index finger or thumb, push the guide rod assembly forward and to the side, removing it from the assembly.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Barrel Removal, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel out of the slide",
+   "action": "Take hold of the barrel by its lug, lift it up and forward, and take it out of the slide.",
+   "box": "none",
+   "prose": "The lug is the handle. Lift, then move the barrel forward; it does not come straight out.",
+   "quote": "Grasp the barrel by the lug, lift it up and forward then out from the slide.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Barrel Removal, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — Lone Wolf's limit",
+   "action": "You now have four pieces: the frame, the barrel, the guide rod assembly and the slide. This is as far as Lone Wolf's book goes for cleaning.",
+   "box": "none",
+   "prose": "Lone Wolf says no further disassembly is needed for basic cleaning and maintenance. The book prints no procedure for taking the slide, the trigger housing or the frame any further for cleaning.",
+   "quote": "You should now have four pieces, including the frame, barrel, guide rod assembly and slide.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Barrel Removal, p.18",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Chamber cleaned",
+   "action": "Clean the barrel's chamber with the barrel out of the slide.",
+   "box": "none",
+   "prose": "Lone Wolf names a dirty chamber in its troubleshooting for failures to feed, to extract and to fire; cleaning it is the first answer to each.",
+   "quote": "Field strip and clean chamber of firearm",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Troubleshooting — Failure to Feed, p.25"
+  },
+  {
+   "phase": "Clean",
+   "title": "Extractor claw cleaned",
+   "action": "Clean the extractor in the slide, paying attention to its claw.",
+   "box": "limit",
+   "prose": "Lone Wolf names the extractor in its troubleshooting for failures to feed and to extract. A worn or damaged extractor is replaced, not cleaned.",
+   "quote": "Clean extractor paying attention to extraction claw, replace extractor if needed",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Troubleshooting — Failure to Extract, p.26"
+  },
+  {
+   "phase": "Clean",
+   "title": "Slide lubricated where it meets metal",
+   "action": "Lubricate the slide where it interacts with other metal parts.",
+   "box": "none",
+   "prose": "Lone Wolf asks for lubrication about every 2,000 rounds; the book marks the places on a picture of the slide rather than naming them.",
+   "quote": "Lubricate the removed slide in the areas indicated below where the slide interacts with other metal parts to maintain a smoothly operating DUSK pistol.",
+   "cite": "DUSK Product Manual — DUSK Product Manual (file Dusk-02-6-2024-Print.pdf; back cover code 1.28) — Lubrication, p.19"
+  }
+ ],
+ "deepAbsentReason": "The book publishes one disassembly procedure for cleaning, its field strip (pp.14–18), which ends at four pieces — frame, barrel, guide rod assembly and slide — and says no further disassembly is required for basic cleaning and maintenance (p.18). Every step of it is in this guide's strip. The book's other procedures — optic installation, backstrap, trigger housing ejector, Gen3/Gen4 adapter and magazine catch (pp.20–24) — change the pistol's configuration and are not cleaning procedures, and the book prints no procedure for removing the trigger housing that the ejector procedure starts from. Nothing deeper is published for cleaning, so there is no deeper lane.",
+ "cleaning": [
+  {
+   "name": "BARREL & CHAMBER",
+   "tasks": [
+    "Chamber cleaned, with the barrel out of the slide",
+    "A dirty chamber is the book's first answer to failures to feed, to extract and to fire"
+   ]
+  },
+  {
+   "name": "SLIDE",
+   "tasks": [
+    "Extractor cleaned, paying attention to the extraction claw; a worn extractor is replaced",
+    "Firing pin cleaned; replaced if needed",
+    "Lubricated where the slide meets other metal parts, about every 2,000 rounds"
+   ]
+  },
+  {
+   "name": "GUIDE ROD ASSEMBLY",
+   "tasks": [
+    "Guide rod inspected; replaced if needed"
+   ]
+  },
+  {
+   "name": "FRAME",
+   "tasks": [
+    "Trigger mechanism housing and ejector inspected; replaced if needed"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Magazine inspected and cleaned; replaced if needed",
+    "A tired magazine spring is replaced"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     13
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     14,
+     15
+    ]
+   },
+   {
+    "g": 2,
+    "steps": []
+   },
+   {
+    "g": 3,
+    "steps": []
+   },
+   {
+    "g": 4,
+    "steps": []
+   }
+  ]
+ },
+ "reassembly": [
+  "The book prints no reassembly sequence; put the pistol back together in the reverse order of the strip.",
+  "Barrel back into the slide, held by its lug — the reverse of lifting it up and forward out.",
+  "Guide rod assembly back into the slide, against the barrel, the reverse of how it came out.",
+  "Slide back onto the frame from the front and run fully home.",
+  "Check the chamber is still empty before the magazine goes back in."
+ ],
+ "fncheck": "The book prints no function check. With the magazine out and the chamber verified empty by Lone Wolf's own check — rack three times, lock open, look, and feel with your little finger — let the slide close and check it runs fully home. Lone Wolf states the trigger will not move rearward unless the trigger safety in the trigger blade is pressed too. If any of the DUSK's safeties prove ineffective, Lone Wolf says to unload the pistol and not use it again until a Lone Wolf - Certified Armorer has examined it."
+}

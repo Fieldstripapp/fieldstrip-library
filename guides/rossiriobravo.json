@@ -1,0 +1,99 @@
+{
+ "row": "rossiriobravo",
+ "make": "Rossi",
+ "model": "Rio Bravo",
+ "sourcedFrom": "OWNER’S MANUAL\nRossi® Rio Bravo — 020.0168 Rev. A",
+ "sourceSha256": "13e2035bf54f8984355104251e411fb5cfdcebb65cee599551c1f2aae038e852",
+ "cleanIntro": "Rossi publishes no takedown for the Rio Bravo. What the book gives you is a way to lever the rifle empty, a check with the action open before cleaning, and a clean done through the open action and down the bore from the muzzle — so that is what this guide walks, and nothing is invented past it.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Manual safety on — red band hidden",
+   "action": "Push the manual safety button at the rear of the receiver from left to right until the red band can no longer be seen. Red band hidden is safe; red band showing means the rifle is ready to fire.",
+   "box": "none",
+   "prose": "The Rio Bravo has two separate safety arrangements: the cross-button manual safety and a three-position hammer (all the way down, half-cock, full cock). The button is the one to use while you unload, and the red band is the test that matters — look at it rather than trusting which way you think you pushed. Keep your finger off the trigger while you set it; Rossi tells you not to touch the trigger while the safety button is being engaged or disengaged.",
+   "caution": "The cleaning page of the same book tells you to push the button from right to left before cleaning, which takes the safety off. Go by the red band: hidden is safe, whatever the text on that page says.",
+   "quote": "To engage the manual safety, push the manual safety button from left to right so the RED band is not visible.",
+   "cite": "OWNER’S MANUAL\nRossi® Rio Bravo — 020.0168 Rev. A — Manual Safety, p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Lever it empty — safety on, finger off the trigger",
+   "action": "Muzzle in a safe direction, safety on, swing the finger lever forward and back, again and again, without pulling the trigger. Each stroke throws out a cartridge. Keep going until a full stroke of the lever brings nothing out.",
+   "box": "none",
+   "prose": "Each stroke ejects whatever is in the chamber and lifts the next round out of the magazine tube, so the rifle always holds one more than you have seen come out. Do not count to the fifteen-round capacity; the stop is a stroke that produces nothing. Rossi prints WITHOUT PULLING THE TRIGGER in capitals on this page because your fingers wrap the lever right beside the trigger, and every stroke cocks the hammer.",
+   "quote": "Keep doing this until the firearm is empty (no cartridges come out after swinging the finger lever).",
+   "cite": "OWNER’S MANUAL\nRossi® Rio Bravo — 020.0168 Rev. A — Unloading Your Firearm, p.13",
+   "warn": "Always make sure the breech bolt will open in a safe direction and that the unfired cartridges will fall on a safe place. Cartridges ejecting from the chamber can cause injury.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "The other route: the inner magazine tube",
+   "action": "Rossi also names twisting the inner magazine tube by disengaging the magazine button as a way to empty the tube — the same tube you twist and pull out to load. If you go this way, the chamber is still not emptied: finish by swinging the lever open and looking.",
+   "box": "none",
+   "prose": "The Rio Bravo feeds from a tube under the barrel with a removable inner tube that carries the spring and the green-colored follower. The book's unloading paragraph breaks off after naming this route, so the lever route above is the one it prints in full; whichever you use, emptying the tube does nothing about a round already in the chamber. Keep the muzzle and the tube pointed somewhere safe while the inner tube is out.",
+   "quote": "Or you can twist the inner magazine tube by disengaging the magazine",
+   "cite": "OWNER’S MANUAL\nRossi® Rio Bravo — 020.0168 Rev. A — Unloading Your Firearm, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Action open, chamber and bore checked — this is the working state",
+   "action": "Muzzle safe, finger off the trigger, finger lever swung forward so the action stands open. Look into the chamber through the ejection port side and down the barrel and bore, and confirm all of it is clear before a rod or a cloth goes near the rifle.",
+   "box": "none",
+   "prose": "The open action is all the access a Rio Bravo gives you, and it is enough for the clean Rossi publishes: you can see the chamber, the bolt face and the breech, and reach the bore from the muzzle. Rossi is specific that the look is taken from the ejection port side, and that merely glancing into the chamber is not enough when you suspect something is stuck in the barrel.",
+   "quote": "swing the finger lever forward (see page 5 and 16), visually inspect the chamber, barrel and bore to ensure firearm is clear and safe to perform cleaning.",
+   "cite": "OWNER’S MANUAL\nRossi® Rio Bravo — 020.0168 Rev. A — Care and Maintenance, p.13",
+   "warn": "ALWAYS INSPECT THE BARREL AND BORE FROM THE EJECTION PORT SIDE TO MAKE SURE THAT THE CHAMBER IS EMPTY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — the Rio Bravo does not come apart here",
+   "action": "That is as far as this rifle goes. Rossi publishes no takedown for the Rio Bravo — no barrel removal, no bolt removal, no trigger group — and its cleaning instruction is simply to unload and open the action. Clean it as it stands, with the action open.",
+   "box": "none",
+   "prose": "The exploded view at the back of the book lists sixty-three parts, including twin extractors, a locking bolt and a carrier, and it carries no instructions for taking any of them out. Rossi warns that improper fitting of parts can cause a dangerous malfunction and asks for a qualified gunsmith's check every year. If the rifle needs more than a clean and a light oil, it goes to a gunsmith.",
+   "quote": "Make sure that the rifle is unloaded, and open the action.",
+   "cite": "OWNER’S MANUAL\nRossi® Rio Bravo — 020.0168 Rev. A — Care and Maintenance, p.14",
+   "branch": true
+  }
+ ],
+ "deepAbsentReason": "Rossi's Rio Bravo book stops at a clean through the open action: a cleaning rod with a lightly oiled patch run from the muzzle end toward the breech, a swab for the chamber, bolt face and breech, and a lightly oiled cloth over the rifle (Care and Maintenance, pp.13–14). The only disassembly it prints is the front sight of the polymer-stock model, for sight work (p.11). Its exploded view and parts list (pp.15–16) carry no takedown instructions, and it sends any mechanical malfunction to a qualified gunsmith (p.14). There is no deeper procedure in the book to walk.",
+ "cleaning": [
+  {
+   "name": "BORE & CHAMBER",
+   "tasks": [
+    "Clean the rifle after firing — that is Rossi's instruction, not just after a long session",
+    "With the action open, run a cleaning rod with a lightly oiled patch from the muzzle end down toward the breech, cleaning the chamber as it goes — the Rio Bravo does not come apart, so the muzzle is the way in",
+    "Swab all debris out of the chamber and off the face of the bolt and the breech — Rossi calls a clean chamber and bolt face important",
+    "Leave the bore clean and free of debris",
+    "Never try to shoot out or blow out an obstruction with another cartridge or a blank — stop, and take the rifle to a qualified gunsmith"
+   ]
+  },
+  {
+   "name": "RECEIVER, FORE END & TUBE",
+   "tasks": [
+    "Rub the outside of the rifle with a lightly oiled cloth, leaving a light film of good quality gun oil against corrosion",
+    "Brush dust out of every crevice with a small clean plastic brush — the ejection port and the loading port in the outer magazine tube are where it collects",
+    "Remove excess oil; oil left standing in the action collects the dust you have just brushed out",
+    "Wipe the barrel and the other metal parts with light oil after handling — Rossi warns that hand prints leave moisture that rusts the metal",
+    "Check the rifle periodically for any sign of rust and remove it before it does permanent damage"
+   ]
+  },
+  {
+   "name": "CHECKS WHILE IT IS OPEN",
+   "tasks": [
+    "Rossi asks for a qualified gunsmith's check every year even when the rifle seems to work well, because wear and corrosion inside may not show from outside",
+    "If the rifle has been dropped or struck, it goes to a qualified armorer or gunsmith for a complete function check before it is used again",
+    "⚠ If you notice any mechanical malfunction, stop using the rifle, unload it and take it to a qualified gunsmith"
+   ]
+  }
+ ],
+ "reassembly": [
+  "Nothing was taken apart. If you twisted the inner magazine tube out, push it back down into position and lock it — slowly, because Rossi warns it is under spring tension, and with the muzzle and the tube pointed in a safe direction.",
+  "Close the action by swinging the finger lever back up. Working the lever cocks the hammer, so check the manual safety is on (red band hidden) the moment the action closes.",
+  "Rossi's storage instruction is magazine and chamber empty, bolt closed and hammer down, to take the pressure off the springs. Only with the rifle confirmed empty, lower the hammer the way the book teaches — muzzle safe, hold the hammer back firmly with your thumb, press the trigger just enough to release it, take your finger off the trigger and ease the hammer down under your thumb. Never let it drop.",
+  "Store the rifle unloaded, with the ammunition kept somewhere else."
+ ],
+ "fncheck": "Chamber and tube confirmed empty and muzzle safe: the finger lever should swing fully forward and back without binding, opening and closing the action; the manual safety button should push from left to right so the red band disappears and back from right to left so it shows again; and with the hammer set in the safety (half-cocked) position, a press of the trigger should not let the hammer fall. Rossi asks for this kind of re-check after any cleaning, before live ammunition goes back in. Do it with an empty rifle and your thumb controlling the hammer. If anything is vague, notchy or will not repeat, the rifle goes to a qualified gunsmith rather than back in the safe."
+}

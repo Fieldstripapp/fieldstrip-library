@@ -1,0 +1,213 @@
+{
+ "row": "wilsoncombatbulwark",
+ "make": "Wilson Combat",
+ "model": "BULWARK",
+ "sourcedFrom": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) (2026)",
+ "sourceSha256": "2b9e16b360cfdcbe947fd270762fdb0774e2a992d33871282d4e64d1c770a08b",
+ "cleanIntro": "A 9mm internal-hammer-fired service pistol with a machined aluminum grip module, a stainless-steel fire control unit and a recoil spring held in the slide by a reverse plug. The routine strip is short and needs no trigger press: the hammer is cocked by cycling the slide, then the slide stop comes out at the disassembly notch. ⛔ Magazine out and the chamber checked by eye and by finger before anything else, and the function test after every reassembly.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Magazine out, slide locked open",
+   "action": "Muzzle in a safe direction, finger outside the trigger guard. Press the magazine release and take the magazine out of the grip, then pull the slide fully back and lock it open. Put the magazine and any ammunition well away from the bench.",
+   "box": "none",
+   "prose": "Magazine first, every time: working the slide with a magazine seated chambers a fresh round. Wilson Combat also asks that no loaded ammunition be in the work area at all while you strip and clean.",
+   "quote": "Before field stripping, cleaning, lubricating, or maintaining the handgun, remove the magazine, lock the slide open, and visually and physically verify that the chamber is unloaded.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Field Strip, Cleaning, and Maintenance, WARNING, p.18",
+   "warn": "Ensure there is no loaded ammunition in the work area.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look and feel: chamber empty, magazine out",
+   "action": "With the slide locked back, look into the chamber and the magazine well, then put a fingertip into the chamber. The loaded-chamber window at the rear of the barrel hood is a help, never a substitute for the look and the touch.",
+   "box": "none",
+   "prose": "Both checks, every time — a cartridge that hides from the eye in a dark chamber cannot hide from a finger. Only then is the pistol unloaded.",
+   "quote": "Confirm the magazine is removed, then visually and physically check the chamber to verify the firearm is unloaded.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Field Strip for Routine Cleaning, step 1, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cycle the slide to cock the hammer",
+   "action": "Let the slide go forward and cycle it once so the internal hammer is cocked. The cocked-hammer window at the rear of the frame shows it: red visible means cocked.",
+   "box": "none",
+   "prose": "The BULWARK comes apart with the hammer cocked, so there is no trigger press anywhere in this strip. If you see no red in the rear window, cycle the slide again.",
+   "quote": "Cock the hammer by cycling the slide.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Field Strip for Routine Cleaning, step 2, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Line up the notch, push the slide stop out from the right",
+   "action": "Hold the slide back and line up the disassembly notch on the slide with the slide stop. Then push on the right side of the slide stop and take it out of the grip module from the left.",
+   "box": "none",
+   "prose": "Notch first, then push. A slide stop forced out against a misaligned slide binds and scars the module beside its hole.",
+   "quote": "While holding the slide to the rear, line up the disassembly notch on the slide with the slide stop, then push the right side of the slide stop to remove it from the module.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Field Strip for Routine Cleaning, step 3, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Ease the slide forward off the rails",
+   "action": "Keep a hand on the slide and let it ride forward off the module rails under control, then lift the slide and barrel assembly away from the grip module.",
+   "box": "none",
+   "prose": "The recoil spring is still pushing when the slide stop comes out. Support the slide all the way off or it runs forward on its own.",
+   "quote": "Support the slide and ease it forward off the module rails under spring tension, then remove the slide and barrel assembly.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Field Strip for Routine Cleaning, step 4, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — barrel, locking block, spring and plug out",
+   "action": "From the slide, take out the barrel, the locking block, the recoil spring and the reverse plug. That is the strip as Wilson Combat writes it for routine cleaning: grip module, slide, barrel, locking block, recoil spring, reverse plug and slide stop.",
+   "box": "none",
+   "prose": "Note how the locking block sits against the barrel lug as it comes out — on reassembly it is captured against that lug. The extractor is a deep-cleaning job and lives in Deep Clean; full slide, frame and fire control unit disassembly is not for routine cleaning.",
+   "quote": "From the slide, remove the barrel, locking block, recoil spring, and reverse plug.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Field Strip for Routine Cleaning, step 5, p.19",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Every part: solvent and a clean cloth or brush",
+   "action": "Clean the barrel, locking block, recoil spring, reverse plug, slide and grip module with a firearm solvent, using a clean cloth or a brush. Work the bore and chamber, the slide's breech face and rails, and the module rails.",
+   "box": "none",
+   "prose": "Use a solvent made for firearms and a clean cloth; a dirty rag only moves the fouling around.",
+   "quote": "Clean all components with appropriate firearm solvent and a clean cloth or brush.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Field Strip for Routine Cleaning, step 6, p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "A light film of oil on the wear surfaces",
+   "action": "Put a light film of good gun oil on the wear surfaces: the slide rails, the module rails, the barrel's outside, and its locking surfaces. Then wipe off whatever is extra.",
+   "box": "none",
+   "prose": "Light is the word. Excess oil holds grit and carbon and does the parts no good.",
+   "aside": "Remove excess lubricant.",
+   "quote": "Apply a light film of quality gun oil to normal wear surfaces, including slide rails, module rails, barrel exterior and locking surfaces.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Field Strip for Routine Cleaning, step 7, p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "Barrel, chamber and magazines inspected",
+   "action": "Look through the barrel and into the chamber for obstructions, heavy fouling or damage. Then look over each magazine for dents, damage, dirt, and a follower or spring that does not move freely.",
+   "box": "limit",
+   "prose": "A magazine fault looks like a pistol fault at the range. Wilson Combat puts the magazines on the same routine check as the barrel.",
+   "aside": "Inspect magazines for dents, damage, contamination, or follower/spring issues.",
+   "quote": "Inspect the barrel and chamber for obstructions, excessive fouling, or damage.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Routine Maintenance Checks, p.19"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Cover plate off with a T10 Torx driver",
+   "action": "With the slide off the pistol, take out the cover plate screws on top of the slide with a T10 Torx driver and lift the cover plate off.",
+   "box": "none",
+   "prose": "Wilson Combat keeps extractor removal for deep cleaning or a heavily fouled pistol; it is not part of the routine strip. The cover plate screws go back with blue threadlocker at about 15 in-lb.",
+   "quote": "Remove the cover plate using a T10 Torx driver.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Extractor Removal for Deep Cleaning, step 1, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "The two optic pins out",
+   "action": "Take out the two optic pins from the top of the slide and keep them with the cover plate.",
+   "box": "none",
+   "prose": "The pins are small and the slide is upside down a lot in the next steps. Put them in a tray, not on the bench.",
+   "quote": "Remove the two optic pins.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Extractor Removal for Deep Cleaning, step 2, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor pin out through the bottom of the slide",
+   "action": "Push the extractor pin out through the hole in the bottom of the slide.",
+   "box": "none",
+   "prose": "The extractor is sprung; keep a thumb over it as the pin clears so it does not leave its pocket on its own.",
+   "quote": "Push the extractor pin out through the hole in the bottom of the slide.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Extractor Removal for Deep Cleaning, step 3, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor, spring and rubber buffer out — keep the buffer",
+   "action": "Lift out the extractor, its spring, and the small black rubber buffer that sits inside the spring.",
+   "box": "none",
+   "prose": "⚠ The buffer is the part that gets lost. It sits inside the extractor spring and is easy to miss when the spring comes out.",
+   "quote": "Remove the extractor, extractor spring, and black rubber buffer.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Extractor Removal for Deep Cleaning, step 4, p.19",
+   "warn": "Do not lose the small rubber buffer; it sits inside the extractor spring.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Extractor and its pocket cleaned, then back in reverse order",
+   "action": "Clean the carbon off the extractor and out of the extractor pocket in the slide with solvent and a brush, and wipe the spring and buffer. Then put it back in reverse order: the extractor spring with its buffer, then the extractor, then the extractor pin, the optic pins and the cover plate.",
+   "box": "none",
+   "prose": "This is the job the extractor comes out for: fouling packed in the pocket stops the extractor closing on the case rim.",
+   "quote": "Extractor removal is for deep cleaning or heavily fouled conditions.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Extractor Removal for Deep Cleaning, NOTE, p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stop here — the rest is for qualified personnel",
+   "action": "That is as deep as an owner goes. Wilson Combat's advanced service section — breech block, firing pin, frame and fire control unit — is written for qualified personnel, not for routine cleaning.",
+   "box": "limit",
+   "prose": "If you are unsure, stop and contact Wilson Combat or a qualified gunsmith.",
+   "aside": "These procedures are intended for qualified personnel. If you are unsure, stop and contact Wilson Combat or a qualified gunsmith.",
+   "quote": "Full slide, frame, and fire control unit disassembly is not recommended for routine cleaning.",
+   "cite": "Operation & Safety Manual for Wilson Combat BULWARK Handgun — Revision 1.0 | May 2026 (printed on the title page, printed p.2) — Advanced Service Reference, WARNING, p.22"
+  }
+ ],
+ "cleaning": [
+  {
+   "name": "SOLVENT CLEAN",
+   "tasks": [
+    "Bore and chamber cleaned with firearm solvent",
+    "Slide breech face and slide rails cleaned",
+    "Module rails, locking block, recoil spring and reverse plug cleaned",
+    "Clean cloth or brush — nothing that scratches the finish"
+   ]
+  },
+  {
+   "name": "LUBRICATION",
+   "tasks": [
+    "Light film of gun oil on the slide rails and module rails",
+    "Light film on the barrel exterior and locking surfaces",
+    "Excess oil wiped off"
+   ]
+  },
+  {
+   "name": "INSPECTION",
+   "tasks": [
+    "Barrel and chamber free of obstructions, heavy fouling and damage",
+    "Magazines checked for dents, dirt, and a free follower and spring",
+    "Slide stop, pins, cover plate screws and optic screws secure",
+    "Trigger safety, grip safety and cocked-hammer indicator working"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     6
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     7
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     8
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "If the extractor came out in Deep Clean: extractor spring with its rubber buffer inside, then the extractor and the extractor pin, then the two optic pins and the cover plate, its screws at about 15 in-lb with blue threadlocker.",
+  "Reverse plug back into the slide, then the barrel, the locking block and the recoil spring — the locking block captured against the barrel lug.",
+  "Slide onto the module rails from the front.",
+  "Slide drawn back until the disassembly notch lines up, and the slide stop inserted at the notch and seated fully.",
+  "Pistol proved clear, then the function test. The cocked hammer should show red through the rear indicator window."
+ ],
+ "fncheck": "Unloaded and proven, magazine out, muzzle in a safe direction — Wilson Combat asks for this test after every disassembly and reassembly, and before or after carrying or firing. The trigger safety moves freely and is clear of debris. The grip safety has its full range of motion. The slide locks to the rear. Rack the slide: the hammer is cocked, with red visible through the rear viewing window. The cover plate screws are torqued and seated, and the pins are in place. If the pistol fails any step, do not use it and contact Wilson Combat."
+}

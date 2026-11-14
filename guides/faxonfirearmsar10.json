@@ -1,0 +1,307 @@
+{
+ "row": "faxonfirearmsar10",
+ "make": "Faxon Firearms",
+ "model": "AR-10",
+ "sourcedFrom": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) (2022 (copyright line on the cover))",
+ "sourceSha256": "05ffee917fbf6e656912b9c3fb617710d48e610a1689e807dcf6a43254ff4146",
+ "cleanIntro": "Faxon's AR-10 is a large-frame AR-pattern rifle, here in 8.6 Blackout. It runs a gas tube into the bolt carrier's carrier key, and its buffer and buffer spring are the large-frame ones: Faxon notes they differ from a standard AR-15's even though the rifle takes the same AR-15 carbine stocks.\n\nFaxon publishes one procedure, its field strip, and this guide follows it in Faxon's order: upper and lower apart, bolt carrier and charging handle out, the bolt taken out of the carrier, the buffer and spring out of the receiver extension, and the extractor off the bolt. Faxon stops there and says not to strip the rifle further; past that point Faxon or a competent gunsmith does the work.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Selector on SAFE",
+   "action": "Point the muzzle in a safe direction and keep it there. Rotate the selector lever on the left of the lower receiver to SAFE.",
+   "box": "none",
+   "prose": "On SAFE a cam bears on the rear of the trigger and blocks it, so the hammer cannot be released while your hands are on the rifle. Faxon's unloading starts here, before the magazine comes out.",
+   "quote": "Set selector to “SAFE” position.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Unloading the Rifle, step 1, p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Magazine out",
+   "action": "Press the magazine catch button and take the magazine out of the magazine well.",
+   "box": "none",
+   "prose": "The magazine comes out before the action is worked, so pulling the charging handle next cannot feed a fresh round into the chamber. Faxon warns this rifle will fire a chambered round with the magazine removed, so taking the magazine out does not make it safe on its own.",
+   "quote": "Press magazine catch button and remove magazine.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Unloading the Rifle, step 2, p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Charging handle back, bolt locked open",
+   "action": "Pull the charging handle to the rear and push in the lower portion of the bolt catch to hold the bolt carrier open. Watch the ejection port: a round in the chamber is thrown out as the carrier comes back.",
+   "box": "none",
+   "prose": "Pressing the lower part of the bolt catch, not the top, is what locks the carrier back; the top of the catch releases it. With the carrier held open the chamber is in view for the next step.",
+   "quote": "Pull charging handle to rear and push in lower portion of the bolt catch.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Unloading the Rifle, step 3, p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look into the chamber",
+   "action": "Look into the chamber through the ejection port and confirm with your own eyes that it is empty, and that the magazine well is empty too.",
+   "box": "none",
+   "prose": "Only an empty chamber, seen, ends the clearing. Faxon asks that the rifle be unloaded with no ammunition in the chamber before field stripping begins.",
+   "quote": "Make sure to visually check to make sure that the chamber is empty.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Unloading the Rifle, step 3, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier forward",
+   "action": "With the rifle cleared, let the bolt carrier go forward so it is closed, and the charging handle home.",
+   "box": "none",
+   "prose": "Faxon starts the field strip with the carrier closed, not locked back: the receivers hinge apart cleanly with the carrier home in the upper.",
+   "quote": "Bolt carrier assembly should be closed in the forward position.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 1, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear takedown pin out to its stop",
+   "action": "Press the rear takedown pin in from the left side of the lower receiver, then pull it out from the right until it comes to a positive stop.",
+   "box": "none",
+   "prose": "A detent holds the pin captive at its stop, so it does not come all the way out; do not try to pull it past the stop. Faxon notes the fit between the receivers may be very tight, and a punch may be needed to start the pin.",
+   "quote": "Press the rear take down pin in from left of lower receiver (it may be necessary to use a punch as the fit between upper and lower receivers may be very tight.)",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 2, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Upper pivoted down and away",
+   "action": "Pivot the upper receiver and barrel down and away from the lower receiver, hinging on the front pivot pin.",
+   "box": "none",
+   "prose": "The two halves now hang together on the front pin alone. Support the barrel as it swings so the rifle does not drop on its muzzle.",
+   "quote": "Pivot the upper receiver and barrel assembly down and away from the lower receiver.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 3, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front pivot pin out, receivers apart",
+   "action": "Press the front pivot pin in from the left side of the lower receiver and pull it out from the right until it stops. Then separate the upper and lower receivers.",
+   "box": "none",
+   "prose": "Like the rear pin, the front pin is held captive by a detent at its stop and stays in the lower. Once it stops, the upper lifts off.",
+   "quote": "Press the front pivot pin in from the left side of lower receiver and pull out right side until it comes to a positive stop.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, steps 4–5, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier assembly out",
+   "action": "Pull the charging handle to the rear and slide the bolt and carrier assembly out of the back of the upper receiver.",
+   "box": "none",
+   "prose": "The charging handle draws the carrier back far enough to get a grip on it. Draw the carrier straight out so the carrier key does not catch on the gas tube.",
+   "quote": "Pull charging handle to rear and remove bolt and carrier assembly.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 6, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle out — gently",
+   "action": "Pull the charging handle gently backwards until you feel a slight resistance. At that point it falls free from the upper receiver.",
+   "box": "none",
+   "prose": "The handle comes out at one point in its travel and nowhere else; the slight resistance tells you that you are there. Faxon warns not to force it: the charging handle wings are damaged if you do.",
+   "quote": "Remove charging handle by gently pulling it backwards until you feel a slight resistance.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 7, p.5",
+   "warn": "Do not force the charging handle, damage to the charging handle wings will occur.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retainer out",
+   "action": "Push the firing pin retainer pin through the bolt carrier from right to left, then pull it all the way out of the carrier.",
+   "box": "none",
+   "prose": "The firing pin cannot come out until this pin is gone. It is small: put it straight in a tray.",
+   "quote": "Push the firing pin retainer from right to left.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 8, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin out the back",
+   "action": "Tilt the carrier so the bolt face points up, and let the firing pin slide out of the back of the carrier.",
+   "box": "none",
+   "prose": "With the bolt face up, the firing pin drops back out of its recess under its own weight. Faxon's troubleshooting names a wrongly assembled firing pin, and too much oil or carbon on it, among the causes of a rifle that will not fire.",
+   "quote": "Tilt bolt face up and remove firing pin.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 9, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt pushed in until it rotates",
+   "action": "Push the bolt back into the carrier until it rotates and comes to a stop.",
+   "box": "none",
+   "prose": "This is the bolt's locked position. Turning the bolt this way takes the load off the cam pin, which is what lets the cam pin lift out next.",
+   "quote": "Push bolt in towards the carrier until it rotates and comes to a stop.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 10, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin lifted out",
+   "action": "Lift the cam pin out of the bolt and carrier.",
+   "box": "none",
+   "prose": "Keep the cam pin with the bolt. Faxon lists leaving it out as a dangerous procedure: the rifle can still fire without it, and a catastrophic malfunction can follow.",
+   "quote": "Remove cam pin by lifting it out away from bolt and carrier.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 11, p.5",
+   "warn": "Be sure the cam pin is installed in the bolt group. If it isn’t, your rifle can still fire but it could cause a catastrophic malfunction, causing you personal injury or harm.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt forward out of the carrier",
+   "action": "Pull the bolt forward and out of the front of the carrier.",
+   "box": "none",
+   "prose": "With the cam pin gone the bolt is free. If you clean more than one rifle at a time, keep each bolt with its own carrier and rifle: Faxon says never to swap bolt assemblies between rifles.",
+   "quote": "Pull bolt forward out of carrier.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 12, p.5",
+   "warn": "DO NOT exchange or switch bolt assemblies from one rifle to another.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and spring out of the receiver extension",
+   "action": "On the lower, press the buffer in and keep pressure on it. Then press the buffer retainer and let the buffer and spring come forward under your hand, and take both out of the receiver extension.",
+   "box": "none",
+   "prose": "The buffer is under spring tension and will fly out if the retainer is pressed with nothing holding it. Keep the buffer and spring for this rifle: Faxon notes the large-frame buffer and spring are not the standard AR-15 ones.",
+   "quote": "Depress buffer, maintaining pressure as buffer is under spring tension, to prevent it from being ejected when buffer retainer is depressed.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 13, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor pin punched out",
+   "action": "With a punch, push the extractor pin out of the bolt.",
+   "box": "none",
+   "prose": "The extractor pin holds the extractor to the bolt against its spring. Push it out over a tray so it is not lost.",
+   "quote": "With a punch, remove the extractor pin from the bolt assembly.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 14, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor and spring off — spring stays in the extractor",
+   "action": "Take the extractor and its spring off the bolt together. Leave the spring in the extractor.",
+   "box": "none",
+   "prose": "The spring comes off with the extractor and stays in it; Faxon says not to separate them. Faxon also notes there is no rubber tip inside the extractor spring, so none is missing.",
+   "quote": "Remove the extractor and spring.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 15, p.6",
+   "warn": "DO NOT remove the spring from extractor!",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor spring checked",
+   "action": "Press the top of the extractor spring and feel that it pushes back.",
+   "box": "none",
+   "prose": "A broken extractor spring is one of Faxon's named causes of a rifle that will not extract; a spring that does not push back is the part to replace.",
+   "quote": "Press top of extractor spring for spring function.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, step 16, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete — Faxon's limit",
+   "action": "You now have the upper receiver with its barrel, the lower receiver, the charging handle, the bolt carrier, bolt, cam pin, firing pin and its retainer, the extractor with its spring and pin, and the buffer and buffer spring. This is as far as Faxon's book goes.",
+   "box": "none",
+   "prose": "Faxon draws the line in its own words: do not strip the rifle further than this, and if more maintenance is needed, take it to Faxon or a competent gunsmith.",
+   "quote": "Your rifle is now field stripped for cleaning.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Field Stripping Disassembly, p.6",
+   "warn": "Do not strip your firearm further than previously described.",
+   "warnSrc": "maker",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore brush one way through the bore",
+   "action": "Clean the bore and chamber with a bore cleaner and a bore brush. Push the brush all the way through before drawing it back; never reverse it while it is inside the bore.",
+   "box": "none",
+   "prose": "A bronze brush reversed mid-bore bends its bristles against the rifling and binds. Faxon names RBC (rifle bore cleaner) for the upper receiver.",
+   "quote": "DON’T REVERSE DIRECTION WHILE IN BORE!",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Cleaning — Upper Receiver, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Outside of the gas tube with a worn brush",
+   "action": "With a worn bore brush, clean the outside of the gas tube where it protrudes into the upper receiver, reaching its sides and bottom from the bottom of the receiver.",
+   "box": "none",
+   "prose": "The gas tube runs into the carrier key. Faxon's troubleshooting names carbon or dirt on the outside of the gas tube or in the carrier key as a cause of short recoil.",
+   "quote": "Use a worn bore brush to get outside surface of protruding gas tube",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Cleaning — Upper Receiver, inlet note, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lower cleaned — no wire brush on aluminum",
+   "action": "Clean powder fouling and dirt from the lower receiver, wipe the trigger mechanism, and clean the buffer and the inside of the receiver extension.",
+   "box": "limit",
+   "prose": "The receivers are aluminum. A wire brush or abrasive cuts the finish and the metal under it, which is why Faxon rules them out here.",
+   "quote": "Do not use wire brush or any type of abrasive material to clean aluminum surfaces.",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Cleaning — Lower Receiver, caution, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Firing pin hole with a pipe cleaner",
+   "action": "Clean the bolt carrier inside and out, the carrier key, the firing pin and its recess, and the firing pin hole with a pipe cleaner. Get the carbon off the locking lugs, behind the bolt rings and under the lip of the extractor.",
+   "box": "none",
+   "prose": "Carbon on the firing pin and oil in its recess are among Faxon's causes of a failure to fire, and fouling in the extractor recess or lip of a failure to extract.",
+   "quote": "Firing pin hole (Use pipe cleaner)",
+   "cite": "AR-10 Owner's Manual — AR-10 Owner's Manual (copyright 2022 Faxon Firearms LLC; file AR10-Manual.pdf) — Cleaning — Bolt Carrier Group, p.6"
+  }
+ ],
+ "deepAbsentReason": "The book publishes one disassembly procedure, its field strip (pp.5–6, steps 1–16, ending with the extractor off the bolt), and every step of it is in this guide's strip. It then forbids going further — \"Do not strip your firearm further than previously described.\" (p.6) — and sends any additional maintenance to Faxon or a competent gunsmith. Nothing past the field strip is published, so there is no deeper lane.",
+ "cleaning": [
+  {
+   "name": "UPPER RECEIVER",
+   "tasks": [
+    "Clean with a rifle bore cleaner (Faxon names RBC)",
+    "Powder fouling, corrosion, dirt and rust removed",
+    "Bore and chamber",
+    "Locking lugs",
+    "Gas tube: outside surface with a worn bore brush, sides and bottom reached from the bottom of the receiver",
+    "Do not reverse the bore brush while it is in the bore"
+   ]
+  },
+  {
+   "name": "LOWER RECEIVER",
+   "tasks": [
+    "Powder fouling, corrosion and dirt cleaned",
+    "Dirt wiped from the trigger mechanism",
+    "Buffer and the inside of the receiver extension cleaned",
+    "⛔ No wire brush or abrasive material on aluminum surfaces"
+   ]
+  },
+  {
+   "name": "BOLT CARRIER GROUP",
+   "tasks": [
+    "Outer and inner surfaces of the bolt carrier",
+    "Carrier key",
+    "Firing pin recess and firing pin",
+    "Firing pin hole, with a pipe cleaner",
+    "Carbon and dirt off the locking lugs",
+    "Behind the bolt rings and under the lip of the extractor",
+    "There is no rubber tip inside the extractor spring; none is missing"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     20,
+     21
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     22
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     23
+    ]
+   }
+  ]
+ },
+ "reassembly": [
+  "Faxon's reassembly is the field strip in reverse order.",
+  "Extractor, with its spring still in it, onto the bolt; extractor pin pushed back in.",
+  "Buffer spring and buffer back into the receiver extension, buffer pressed past the buffer retainer so the retainer holds it. Use this rifle's own large-frame buffer and spring, not standard AR-15 parts.",
+  "Bolt into the front of the carrier, with the gaps in the bolt rings staggered — Faxon names unstaggered ring gaps as a cause of short recoil.",
+  "Cam pin back in the bolt and carrier. Never leave it out: Faxon warns the rifle can still fire without it and a catastrophic malfunction can follow.",
+  "Bolt drawn forward to its unlocked position; firing pin back into the carrier; firing pin retainer pushed back through the carrier.",
+  "Charging handle back into the upper receiver at the point where it came out, without forcing it.",
+  "Bolt carrier assembly into the upper behind the charging handle. Make sure the gas tube enters the carrier key and the carrier moves freely.",
+  "Upper onto the lower at the front pivot pin and the pin pushed home; upper pivoted closed and the rear takedown pin pushed home."
+ ],
+ "fncheck": "Faxon's own function check, with the magazine out, the rifle unloaded, no ammunition in the chamber, and the muzzle in a safe direction. SAFE: pull the charging handle to the rear and release it, put the selector on SAFE, and pull the trigger — the hammer should not fall. FIRE: put the selector on FIRE, pull the trigger and hold it to the rear — the hammer should fall. Pull the charging handle to the rear and release it, then release the trigger and pull it again — the hammer should fall."
+}
