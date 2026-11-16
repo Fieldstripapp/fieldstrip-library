@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 16 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 16,
- "to": 35,
+ "to": 36,
  "rows": [
   {
    "id": "radianmodel1",
@@ -17545,8 +17545,9 @@
    "chamberings": [
     "9mm"
    ],
-   "guide": false,
-   "verdict": "FETCHED",
+   "guide": true,
+   "guideId": "waltherpdpsteelframe",
+   "guideSha256": "99a3463448c0f584b985de7fc6115db8ec29f87a040f9ce70e0b3825cdaa9bfd",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 34
