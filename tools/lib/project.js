@@ -41,6 +41,11 @@ const SPEC_EMITTED = new Set([
   'bpLabel', 'bpClass', 'bpTemplateVersion',
   'cleanIntro', 'steps', 'deep', 'deepAbsentReason',
   'cleaning', 'reassembly', 'fncheck',
+  /* ⛔ THE ROUTINE-LANE LISTS (app clean-door order, Darren 2026-11-16: "so a downloaded guide matches the built-in
+     one"). The app's splice has emitted both since its 2026-10-15 audit; the shelf dropped them, so a downloaded copy
+     of a guide that carries them showed the full rebuild list and the full function check where the compiled-in copy
+     shows the routine ones. Both are owner-facing guide text of the same kind as `reassembly` and `fncheck`. */
+  'reassemblyRoutine', 'fncheckRoutine',
 ]);
 
 /* Fields that are internal working matter by design. Named so the report can
@@ -241,6 +246,10 @@ function projectGuide(spec, boxes) {
   if (wf.ok) g.cleanMap = { screens: wf.screens };
   if (spec.reassembly && spec.reassembly.length) g.reassembly = spec.reassembly;
   if (spec.fncheck) g.fncheck = spec.fncheck;
+  /* the routine-lane lists (app clean-door order 2026-11-16), each only beside the full one it stands in for — the
+     same condition the app's splice holds them to, so a fetched guide and a compiled-in one end the same way */
+  if (spec.reassemblyRoutine && spec.reassemblyRoutine.length && g.reassembly) g.reassemblyRoutine = spec.reassemblyRoutine;
+  if (spec.fncheckRoutine && g.fncheck) g.fncheckRoutine = spec.fncheckRoutine;
   /* the break-action safety check's line 2 where the maker's release is not a top lever (app morning order
      2026-10-07 Part 1): read from the app's break_open.json AT ITS COMMITTED HEAD, the record the app's splice
      reads, so a fetched guide and a compiled-in one print the same release */

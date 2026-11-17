@@ -85,6 +85,11 @@ const GUIDE_KEYS = new Set([
      `file`, and the projection excludes it. */
   'sourceSha256_2',
   'steps', 'deepSteps', 'deepAbsentReason', 'cleaning', 'reassembly', 'fncheck',
+  /* ⛔ reassemblyRoutine / fncheckRoutine — REVIEWED AND ADMITTED (app clean-door order, Darren 2026-11-16). The
+     reassembly list and the function check for an owner who did not walk Deep Clean: the same kind of owner-facing
+     guide text as `reassembly` and `fncheck`, authored per guide in the app's spec and emitted by its splice since
+     2026-10-15. No path, no person, no document name. */
+  'reassemblyRoutine', 'fncheckRoutine',
   /* ⛔ breakOpen — REVIEWED AND ADMITTED (app morning order 2026-10-07, Part 1): one sentence, the maker's
      own release for a break-action whose book opens it by something other than a top lever ("pull the
      breeching lever to the rear…"), from the app's break_open.json at its committed HEAD. Owner-facing
