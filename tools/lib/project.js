@@ -46,6 +46,9 @@ const SPEC_EMITTED = new Set([
      of a guide that carries them showed the full rebuild list and the full function check where the compiled-in copy
      shows the routine ones. Both are owner-facing guide text of the same kind as `reassembly` and `fncheck`. */
   'reassemblyRoutine', 'fncheckRoutine',
+  /* deepAfterClean (app walk-fixes order, Darren 2026-11-17): set on the app's spec and emitted by its splice, so a
+     downloaded guide walks to Deep Clean the way the compiled-in one does */
+  'deepAfterClean',
 ]);
 
 /* Fields that are internal working matter by design. Named so the report can
@@ -250,6 +253,8 @@ function projectGuide(spec, boxes) {
      same condition the app's splice holds them to, so a fetched guide and a compiled-in one end the same way */
   if (spec.reassemblyRoutine && spec.reassemblyRoutine.length && g.reassembly) g.reassemblyRoutine = spec.reassemblyRoutine;
   if (spec.fncheckRoutine && g.fncheck) g.fncheckRoutine = spec.fncheckRoutine;
+  /* the walk-fixes flag (2026-11-17): only true, and only on a guide that has deep steps -- the app splice's own rule */
+  if (spec.deepAfterClean === true && g.deepSteps && g.deepSteps.length) g.deepAfterClean = true;
   /* the break-action safety check's line 2 where the maker's release is not a top lever (app morning order
      2026-10-07 Part 1): read from the app's break_open.json AT ITS COMMITTED HEAD, the record the app's splice
      reads, so a fetched guide and a compiled-in one print the same release */

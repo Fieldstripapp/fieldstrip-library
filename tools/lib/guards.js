@@ -90,6 +90,10 @@ const GUIDE_KEYS = new Set([
      guide text as `reassembly` and `fncheck`, authored per guide in the app's spec and emitted by its splice since
      2026-10-15. No path, no person, no document name. */
   'reassemblyRoutine', 'fncheckRoutine',
+  /* deepAfterClean -- REVIEWED AND ADMITTED (app walk-fixes order, Darren 2026-11-17). A yes on a guide whose Deep
+     Clean steps do not stand without the regular cleaning before them; the app then walks the cleaning screens before
+     Deep Clean on that guide. A flag, only ever true. No text, no path, no person, no document name. */
+  'deepAfterClean',
   /* ⛔ breakOpen — REVIEWED AND ADMITTED (app morning order 2026-10-07, Part 1): one sentence, the maker's
      own release for a break-action whose book opens it by something other than a top lever ("pull the
      breeching lever to the rear…"), from the app's break_open.json at its committed HEAD. Owner-facing
