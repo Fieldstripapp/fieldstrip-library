@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 19 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 19,
- "to": 36,
+ "to": 37,
  "rows": [
   {
    "id": "radianmodel1",
@@ -400,7 +400,7 @@
    ],
    "guide": true,
    "guideId": "feinwerkbauaw93",
-   "guideSha256": "eaae92adf9e51b33d411c939a8f426231c2a271f64c3331307e125c3dbe0d796",
+   "guideSha256": "07a5401aec9fa7d7efb614677e54a206d682ace07ef100e588dcc988bedd9b18",
    "cal": "{\"chs\":[\".22 LR\"]}",
    "calSha256": "72425d29707bc933fb12fd1cdf3788137f7a3bb6b41a0e6d049cc6414e4659cb",
    "calV": 34
@@ -419,7 +419,7 @@
    ],
    "guide": true,
    "guideId": "feinwerkbaup8x",
-   "guideSha256": "e125f131e509a3fe05d44ff997dab95d45ddf7e2b7a3cbfacc4047fd8f606032",
+   "guideSha256": "c78147b4b35929ca2de6e0d48f9a9f9db5bc31688efe308479115d4dc4996034",
    "cal": "{\"chs\":[\".177 / 4.5mm air\"]}",
    "calSha256": "c87ac7721719db6cc61021785de9b7dd11d9ac5c0f6e8ae6f4af89be61decce3",
    "calV": 34
@@ -1939,7 +1939,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "aactirant45m",
-   "guideSha256": "d7c75db620c94030c6f64e48ec149450fb98ebcb029a5a7796b7f911422a54e0",
+   "guideSha256": "eead70589e86395080afb5efeaff6f1982c716c9374df0b95d3792c02fb53503",
    "cal": "{\"rl\":[\".45 ACP\",\"9mm\",\".300 BLK\",\".357 Mag\",\".40 S&W\",\".44 Mag\",\".22 LR\"]}",
    "calSha256": "c917db8a62fd88fd19325dda8759becc9b77ccd3f93385190b51e18021d894f7",
    "calV": 34
@@ -2016,7 +2016,7 @@
    ],
    "guide": true,
    "guideId": "danieldefenseddm4isr",
-   "guideSha256": "c4f07c904babe2b7c34df099a32984dafb48f2e2f691084da84b38ac0e6e7087",
+   "guideSha256": "b8ef2ba1e786c68fcaae0c67ec5a9970ffef1542fac4ea6a8dd6cc123b6e9f4a",
    "cal": "{\"chs\":[\".300 BLK\"]}",
    "calSha256": "2872bd451bc258d11fcb3597d1f884308d80d5d65d04405a85be534805f7c6a7",
    "calV": 34
@@ -2128,7 +2128,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "deadairghost45",
-   "guideSha256": "2e3c3d5e5bd724f01adf673c7829a81a7a7988d88ca09b0926d6c11a0685965b",
+   "guideSha256": "4138e3c2ad1aacf4138f8991c267005d85c5b50c775b044b43d6e9f4bcccaf82",
    "cal": "{\"rl\":[\".45 ACP\",\".357 Mag\",\"9mm\",\".30 Carbine\",\".300 BLK\"],\"rc\":{\".300 BLK\":\"Subsonic\"}}",
    "calSha256": "330775d1ae2881386a7fa4ebd10db885ada2eae59b0ebe0723b0d3992670e78b",
    "calV": 34
@@ -2219,7 +2219,7 @@
    ],
    "guide": true,
    "guideId": "deadairsandmanl",
-   "guideSha256": "9aca36bb5437e8ebdc1375c08383aa4289bb89a87b3f9f62c446bf06dedaca43",
+   "guideSha256": "42ce4450adb97629ffec8b4a9dff32186c2e1228ea3fc550432e0fd603ccb218",
    "cal": "{\"chs\":[\".223 Rem to .300 Win Mag\"]}",
    "calSha256": "717f9a726ee67f3477bb6bb7ad50e6374bb325b606e2ce4370a333ea9271efe1",
    "calV": 34
@@ -2448,7 +2448,7 @@
    ],
    "guide": true,
    "guideId": "gemtechintegra1522",
-   "guideSha256": "67b8fff04a35f12e2bde50e3879ae951f08c39cb5b9e2ddf094b87ef1dab71de",
+   "guideSha256": "0364bee0d317afb16cffa6a97caa19d5a726b552432a7ebf6f7ac75c7b101094",
    "cal": "{\"chs\":[\".22 LR\"]}",
    "calSha256": "72425d29707bc933fb12fd1cdf3788137f7a3bb6b41a0e6d049cc6414e4659cb",
    "calV": 34
@@ -2465,7 +2465,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "gemtechnebula57",
-   "guideSha256": "cc9dc88474a9280eacfc544eb7df482c130d9b5f699c9a321dc53e17a6440cc3",
+   "guideSha256": "cb1f794b03f5b23c6efa34df91fdbcee3451d17f617c0372d94140d521522a00",
    "cal": "{\"rl\":[\"5.7x28\",\".22 LR\",\".17 HMR\",\".22 WMR\"]}",
    "calSha256": "4043a0961de34e533527edab0aac11ca406acf25d805e95fc94dfb13164e328b",
    "calV": 34
@@ -2484,7 +2484,7 @@
    ],
    "guide": true,
    "guideId": "gemtechneutrino",
-   "guideSha256": "1318f96a52fbcd52b5819fbcf255bcf40b6c083ec2c048b00f7e447a13759f6f",
+   "guideSha256": "bd1e837976b01301794eac9fbbb6a01cd899428b88ce79d8bd171a86ac733753",
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"Caliber rating: .30CAL - .300PRC\",\"rt\":\".300 PRC\"}",
    "calSha256": "31343ee37fdb8e1c08f304003557b028b4fbf4f853bc7071d8daa19d2a5249de",
    "calV": 34
@@ -2984,7 +2984,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "qjumboshrimp",
-   "guideSha256": "e6688074b45b8419ddef91976fce60b46e242984ffeb0d77323321b40f7f649b",
+   "guideSha256": "b9835cec30851b193a6b35a07fb3a46dfd79ad07bb894b0278c0970f3c8a45d4",
    "cal": "{\"rl\":[\"6.5 Creedmoor\",\"6.5 Grendel\",\".260 Rem\",\".243 Win\",\"5.56 / .223\"]}",
    "calSha256": "ba1e335270088eb82fe3948cd26ff4a4964e54d30307897f191657a1600b1c16",
    "calV": 34
@@ -3003,7 +3003,7 @@
    ],
    "guide": true,
    "guideId": "qporqchop",
-   "guideSha256": "8a1cebea89f8fac75488f70387e503d952cba1d6420c4b61c9abeaff8c7397b6",
+   "guideSha256": "3c8b7e4161b9337a57b608a0f033c913f79b5ca5f804c67a6d1ee354ba19a4c5",
    "cal": "{\"chs\":[\".338\"],\"rt\":\"8.6 BLK\"}",
    "calSha256": "5b0031d55830cc117c9bb3a5b78456036ea74165b199e44e1b5c57af69824d0e",
    "calV": 34
@@ -3022,7 +3022,7 @@
    ],
    "guide": true,
    "guideId": "qshortchop",
-   "guideSha256": "9f30778a410f2709753f8d1aee545fe30dc8b4526fe3dbbf6c65868c4a8b8380",
+   "guideSha256": "f84e3746632f2927c680d774b004b7d598518b391f82525de45686ca868a0ef7",
    "cal": "{\"chs\":[\".338\"],\"rt\":\"8.6 BLK\"}",
    "calSha256": "5b0031d55830cc117c9bb3a5b78456036ea74165b199e44e1b5c57af69824d0e",
    "calV": 34
@@ -3661,7 +3661,7 @@
    ],
    "guide": true,
    "guideId": "banishsilencercentralbanis",
-   "guideSha256": "bac8af1ff5a7e742953d167ffea1c5db39f80dfba05eeaa02ca59f901f0fab75",
+   "guideSha256": "1a7d563d1321654857d5aeac512325b73b8cb5e05b2d75ef37d3cb3a881c896b",
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"rated all the way up to .300 Wby. Mag.\",\"rt\":\".300 Wby Mag\"}",
    "calSha256": "9ac7dd8f8dcedaecad16b935f9fcf13f813d778056bf976af26ab4fd08a3c817",
    "calV": 34
@@ -4440,7 +4440,7 @@
    ],
    "guide": true,
    "guideId": "rockislandarmory1911gistan",
-   "guideSha256": "54fcd059752a5c7d1758dd441d3e1a1c89dd6f3c84e5d8122fe0385beaf4e1ec",
+   "guideSha256": "50ebc2dd5154a6694ace53b4913e4f761f9dd2a5e827829af8f47829a33b9e6d",
    "cal": "{\"chs\":[\".45 ACP\"]}",
    "calSha256": "effdc7f0f05c128ab4808095f2d27f957f4d35d6e79c90e415c96d45f958fae6",
    "calV": 34
@@ -5849,7 +5849,7 @@
    ],
    "guide": true,
    "guideId": "berettaa300ultima",
-   "guideSha256": "c8a48a1442096226d3f8f1c90ec7ce3460ab1e46832181d11be4dd5749f1ccbd",
+   "guideSha256": "bafc3df279c168830be91bf0d56d99f45720099f257efa2d56c26a89a04ce50f",
    "cal": "{\"chs\":[\"12 GA\"]}",
    "calSha256": "3b3f3bc4692b2825de5aba972af10e9d5fbe667bde053b7b67ebf2747fd901c2",
    "calV": 34
@@ -5868,7 +5868,7 @@
    ],
    "guide": true,
    "guideId": "beretta1301tactical",
-   "guideSha256": "4227baab5e2c849cdbd0941bf152679da956071da71c511426a36b1647104eff",
+   "guideSha256": "676e99cb7750bafde4799678277d10c564a343dac930f51d49398f6b93120461",
    "cal": "{\"chs\":[\"12 GA\"]}",
    "calSha256": "3b3f3bc4692b2825de5aba972af10e9d5fbe667bde053b7b67ebf2747fd901c2",
    "calV": 34
@@ -5878,7 +5878,7 @@
    "maker": "Mossberg",
    "model": "590M",
    "chambering": "12 GA",
-   "category": "Pump-action shotgun",
+   "category": "Pump-action shotgun, detachable magazine",
    "family": "PUMP-590",
    "tier": 3,
    "group": "Shotguns",
@@ -5897,7 +5897,7 @@
    "maker": "Mossberg",
    "model": "590RM",
    "chambering": "12 GA",
-   "category": "Pump-action shotgun",
+   "category": "Pump-action shotgun, detachable magazine",
    "family": "PUMP-590",
    "tier": 3,
    "group": "Shotguns",
@@ -6050,7 +6050,7 @@
    "maker": "Mossberg",
    "model": "695",
    "chambering": "12 GA",
-   "category": "Bolt-action shotgun",
+   "category": "Bolt-action shotgun, detachable magazine",
    "family": "BOLT-695",
    "tier": 4,
    "group": "Shotguns",
@@ -6179,7 +6179,7 @@
    ],
    "guide": true,
    "guideId": "browningcitori",
-   "guideSha256": "355921676eaf01f9b229c536faeaabff1cc49eb7ea91416a32bc421cd2fd8c6c",
+   "guideSha256": "8a2bd9185c870de8af62b009a3275eed27955531396f09aa733a3c39bbdc9f2f",
    "cal": "{\"chs\":[\"12 GA\"]}",
    "calSha256": "3b3f3bc4692b2825de5aba972af10e9d5fbe667bde053b7b67ebf2747fd901c2",
    "calV": 34
@@ -6322,7 +6322,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "banishsilencercentralbanis2",
-   "guideSha256": "1e92ffb17774bcdc859b48b6786994e5885fd2641188b9c0e03274359cf78d5b",
+   "guideSha256": "dfba3a21650eeebe36a3cac7aa3bc474ae75a3edf24e8d13bba4e15ced19d3b7",
    "cal": "{\"rl\":[\".45 ACP\",\".357 Mag\",\".38 Spl\",\"9mm\",\".40 S&W\",\"10mm\"]}",
    "calSha256": "fe7394ff14f473d7da5d20fcb12dfd371f7cd526731e017237da687ce72763b8",
    "calV": 34
@@ -6339,7 +6339,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "banishsilencercentralbanis3",
-   "guideSha256": "7b8d784d0ba12c496957b09d9e901d95ce358b07cf9bf380452e868fb7b4de3b",
+   "guideSha256": "fd9f84ae57691d9d8cb40dfaa21403a379e9559ee2cf9a82a208fc30754145cc",
    "cal": "{\"rl\":[\".22 LR\",\".22 Hornet\",\".17 HMR\",\"5.7x28\"]}",
    "calSha256": "3fbbaa00297bff79f2a393206c6d70dd0686a3142f79865860c635a21c255e6b",
    "calV": 34
@@ -7094,7 +7094,7 @@
    ],
    "guide": true,
    "guideId": "hecklerkochusp9",
-   "guideSha256": "2cbd117b48b93c7b3f1da995989a74281ce19eae8a47e3b0a77e6cfec019e257",
+   "guideSha256": "1a3cbbf4311927cd55c97c885d6696a6b3ab473c213dd1f80dbf80ef0777c3b5",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 34
@@ -7113,7 +7113,7 @@
    ],
    "guide": true,
    "guideId": "hecklerkochusp45",
-   "guideSha256": "dd312aa943321b45eea11f137718b38bb2bca1308b7b89cee194226f44b38f73",
+   "guideSha256": "c2f5f7ef9a7fc74b4d264b095f9d26192d162647cd482104a9877def137b82aa",
    "cal": "{\"chs\":[\".45 ACP\"]}",
    "calSha256": "effdc7f0f05c128ab4808095f2d27f957f4d35d6e79c90e415c96d45f958fae6",
    "calV": 34
@@ -7132,7 +7132,7 @@
    ],
    "guide": true,
    "guideId": "hecklerkochp30",
-   "guideSha256": "b2ce155326994d5d5e10bf7048fdb5f4500997b801741e68529505b58d2ffede",
+   "guideSha256": "bf1c3f1f782a585acd8730cb8b60046adf37aed841da5597314dacaaa8bbcd9d",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 34
@@ -7189,7 +7189,7 @@
    ],
    "guide": true,
    "guideId": "fnfiveseven",
-   "guideSha256": "16652e01d260e6bba6c40682aff4b0693a380f65945bf4e41b27f7c2e5f82305",
+   "guideSha256": "a769703157804103323b28f994be800aea917fb3c621fd117680e25a8aa64da8",
    "cal": "{\"chs\":[\"5.7x28\"]}",
    "calSha256": "ec46abf905a5cf81ccd8fc7d95ca775d773603b3a27e6bb8b83ba424f1e6b1bb",
    "calV": 34
@@ -7379,7 +7379,7 @@
    ],
    "guide": true,
    "guideId": "rockislandarmoryrockultra",
-   "guideSha256": "3aa0c355a3d70a3552fde9205517c447300409a54e036071d2a3497c402f17e7",
+   "guideSha256": "88cec2c205be56e1e8a805cfb6b7a4331098b2b824100b81a4b2b1a191ca588e",
    "cal": "{\"chs\":[\".45 ACP\"]}",
    "calSha256": "effdc7f0f05c128ab4808095f2d27f957f4d35d6e79c90e415c96d45f958fae6",
    "calV": 34
@@ -8769,7 +8769,7 @@
    ],
    "guide": true,
    "guideId": "fnscar16s",
-   "guideSha256": "aba4bf383aa7beb4be553b9b3cb47dd076e67df9f2f6af5b9b5264ecaa2bd3a2",
+   "guideSha256": "493bfde12c098db31395006c22eedf0bf7a79e11ab10cc9a4d76508374cc29e3",
    "cal": "{\"chs\":[\"5.56 / .223\"]}",
    "calSha256": "0a14a58185a59bf7b8cbb05dfcb3652cbd2be162d67efade3ed87034c295930d",
    "calV": 34
@@ -8788,7 +8788,7 @@
    ],
    "guide": true,
    "guideId": "fnscar17s",
-   "guideSha256": "438f5838c28e7828852658cd5718c965ff859493653498b563ce2d03c8615464",
+   "guideSha256": "630f1e1453e295a9a0a58014fabc2a7c32933dc286fa8e983e24b5570b459bac",
    "cal": "{\"chs\":[\".308 Win\"]}",
    "calSha256": "0241f85b56730199e92cf7a836098bd9e2edec831193bc588700d9ee8e32d2d1",
    "calV": 34
@@ -8864,7 +8864,7 @@
    ],
    "guide": true,
    "guideId": "hecklerkochsp5",
-   "guideSha256": "68d1a8974e6240eb5c6a2c38a6be9d7aeab1f761da8225233955650a9b5aec86",
+   "guideSha256": "0bbff7fd4262bea5e36cc216f22eff1897dd4af71159e9a63cc66cba4f2b0936",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 34
@@ -9516,7 +9516,7 @@
    ],
    "guide": true,
    "guideId": "winchesterxpr",
-   "guideSha256": "3eff52eb64d7c28c37fd0cf8594c1062bb6e694b6aa0eae073f9d46af95b3ce8",
+   "guideSha256": "057642ebca9fdc9c77e446e415ab090e53d12384061bc08eb5a554c12901f97f",
    "cal": "{\"chs\":[\"5.56 / .223\",\".243 Win\",\"6.5 Creedmoor\",\"7mm-08\",\".308 Win\",\".350 Legend\",\"6.5 PRC\",\".270 WSM\",\".300 WSM\",\".270 Win\",\".30-06\",\"7mm Rem Mag\",\".300 Win Mag\",\".338 Win Mag\",\".400 Legend\",\".450 Bushmaster\",\"6.8 Western\",\".325 WSM\"]}",
    "calSha256": "e998d2245845e3e1438fe273a3078e5cff5317f541c1b6e7dc044323b407da5b",
    "calV": 34
@@ -9815,7 +9815,7 @@
    ],
    "guide": true,
    "guideId": "winchester1873",
-   "guideSha256": "a89c5f7ecba7acd6345ae34c55e29ced05745d1a4ddf94957622248777b5a55a",
+   "guideSha256": "e5510debaafb31732f6bdb3744ba488c493f5d5619c9df3ba431053b846cc767",
    "cal": "{\"chs\":[\".357 Mag\",\".45 LC\"]}",
    "calSha256": "59cf17a7a211d9261a0a7ad88236b3659f6a4871d52a46e4664dd5b86dc9bfdd",
    "calV": 34
@@ -10475,7 +10475,7 @@
    ],
    "guide": true,
    "guideId": "deadairnomadti",
-   "guideSha256": "ca610823b87fe63d4d94a682eda3ef121e5e9dabc4253c0a9f44d6224266174e",
+   "guideSha256": "b3a6cb709184c24f99c7e36939e0b4707e0afe23aa057427719dbaf09dcd8930",
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"Up to .300 Norma Mag\",\"rt\":\".300 Norma\"}",
    "calSha256": "30c978bd2dfbd5465567fae1cce5a6fd6bf13d9ded676fd7914fb3e0393d09bc",
    "calV": 34
@@ -10526,7 +10526,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "deadairsierra5",
-   "guideSha256": "66d32f904c29f86502751465c0271acd97729f6a0799474cb82de2bd719309a3",
+   "guideSha256": "324fa3e8b9b5f3cbbef822a60228d2dea1d509e9c3d23cd10f9deae09b3f09ba",
    "cal": "{\"rl\":[\"5.56 / .223\",\".224 Valkyrie\"]}",
    "calSha256": "4090f755f80ab0fbc429cc33d3042a8030cd86098002a2528cd3550abdeafd99",
    "calV": 34
@@ -10545,7 +10545,7 @@
    ],
    "guide": true,
    "guideId": "banishsilencercentralbanis4",
-   "guideSha256": "056a39c0999a141ecf91def522557a60eaa026eed29c00c49daff2873a0414f3",
+   "guideSha256": "2f95a7f271b8dccb229399fb75418400bc2298a7096a2ddf9c681b29a0b8afa5",
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"rated for calibers from rimfire up to 300 RUM\",\"rt\":\".300 RUM\"}",
    "calSha256": "f86712c804c3e3004843ce7ff70de2280712061cca7b29a09548266a5fe0ae66",
    "calV": 34
@@ -10562,7 +10562,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "banishsilencercentralbanis5",
-   "guideSha256": "605a6d2d09accc56eb9d3eadcd7c127ca63f47ef6d0fe92e25fe56ae6f91198e",
+   "guideSha256": "76f30ab45e8f6bab0c29c81108af97e2537ad2779abc5e4b1fc587ec735933bd",
    "cal": "{\"rl\":[\"5.56 / .223\",\".17 HMR\",\".22 Creedmoor\"]}",
    "calSha256": "13a72295ca65de4c36c4d75dda785e969f2108a6e2117d4038d72876a9fc40f9",
    "calV": 34
@@ -10581,7 +10581,7 @@
    ],
    "guide": true,
    "guideId": "banishsilencercentralbanis6",
-   "guideSha256": "f5a674168a450a0a0549f6c267642f07c679afaf2d445827fa99a245673b91a1",
+   "guideSha256": "aeeecf721cbd46e55bcfb196c6be42cc8c1b09c90703fde6140f46a654e82476",
    "cal": "{\"chs\":[\"5.56 to .460\"]}",
    "calSha256": "c3d4bd58c8c25c4ea3bd4e962ebe7891b7da8f90546a93277d2fb11520e9ab18",
    "calV": 34
@@ -10600,7 +10600,7 @@
    ],
    "guide": true,
    "guideId": "banishsilencercentralbanis7",
-   "guideSha256": "b16aefd5b8b2efe933546bce9015499003918abbbd15cfb60817793f895b0f12",
+   "guideSha256": "0445ebbbf268625eb9490ffe4658aeb0dd086018eca908a48e8e0f8d57b09e40",
    "cal": "{\"chs\":[\"5.56\"]}",
    "calSha256": "c692a4d8a26905e48beafdb746cfef27349347401977b47ddcf28bcc54d24a1d",
    "calV": 34
@@ -10619,7 +10619,7 @@
    ],
    "guide": true,
    "guideId": "banishsilencercentralbanis8",
-   "guideSha256": "61da082d1d8885da0453804e9815573427a05f5210ca7e4a6b6969f9c501c669",
+   "guideSha256": "2d79b17c96f18128fde613e6ec161e510781ada48807ae26d97db0a5583e80f6",
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"Rated for calibers up to the .300 Remington Ultra Magnum (RUM)\",\"rt\":\".300 RUM\"}",
    "calSha256": "d73f20c55f5eeed4101616eee4997a4d66ae871e2cbd3a71d8f93e9f66eab12d",
    "calV": 34
@@ -10732,7 +10732,7 @@
    ],
    "guide": true,
    "guideId": "yhmresonatorr2",
-   "guideSha256": "7180a8a02271e29ec98e17c22e6b3a056f994aa61afde34ac1da6daec4f318b6",
+   "guideSha256": "fbf8f781235585dffceb8f60b7677940bc9dc3a6c916ca0618df89407309bf77",
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"Caliber: .30 ... rifle calibers ranging from .17 HMR through 300 RUM\",\"rt\":\".300 RUM\"}",
    "calSha256": "7ca7398ef389a6527329e3e0d53d76c23c0f41c74833c923beed90d69692630f",
    "calV": 34
@@ -10751,7 +10751,7 @@
    ],
    "guide": true,
    "guideId": "yhmturbok",
-   "guideSha256": "a4aa4a50fd6c8505717b8c0bffce5e499afd4f9ea3459c26ecf971acca636dd2",
+   "guideSha256": "8c62d18881c9e31fb9b18ed7a1f4ddddef6bc40917c347f1700dbb65a0295d1b",
    "cal": "{\"chs\":[\"5.56\"]}",
    "calSha256": "c692a4d8a26905e48beafdb746cfef27349347401977b47ddcf28bcc54d24a1d",
    "calV": 34
@@ -10768,7 +10768,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "yhmr9",
-   "guideSha256": "a8ec81c6e6ef903680753bec5c9cd23e7c06440bc8e912c9eebe537b9429a40f",
+   "guideSha256": "0ec02147300d44c9ca6b23e8343c3749cd62aba39ff3d5fcc40830eab17cbcce",
    "cal": "{\"rl\":[\"9mm\",\".300 BLK\",\".308 Win\",\".350 Legend\",\"6.5 Grendel\",\"5.56 / .223\"]}",
    "calSha256": "f23f55befb5f277e3441e33c3f00e85d34085c0c128e104937c5ab2866f815ea",
    "calV": 34
@@ -10804,7 +10804,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "qelcamino",
-   "guideSha256": "4b22d968975758dab723220dd776d541e31568e101a288026d209831737b7e48",
+   "guideSha256": "29c30a1780412f0ae59a5080191dbb670a1d2f6c4f123f11c218d55635acdcf3",
    "cal": "{\"rl\":[\".22 LR\",\".17 HMR\",\"5.7x28\",\".22 WMR\"]}",
    "calSha256": "10bda96a59794c8647c81d24ccf19d04f8694c20689feb4d5e72292e0ed02846",
    "calV": 34
@@ -11087,7 +11087,7 @@
    ],
    "guide": true,
    "guideId": "hecklerkochhk45",
-   "guideSha256": "bd8b8b22409e88ace652fbdcb79bc78bd8210a735851cfd182d4f8ce60024a07",
+   "guideSha256": "4eba193fcf285629911c2285326e53060307024198ff5920943859c3e3b3f28f",
    "cal": "{\"chs\":[\".45 ACP\"]}",
    "calSha256": "effdc7f0f05c128ab4808095f2d27f957f4d35d6e79c90e415c96d45f958fae6",
    "calV": 34
@@ -11106,7 +11106,7 @@
    ],
    "guide": true,
    "guideId": "hecklerkochp2000",
-   "guideSha256": "e7fa9a62a649037c0c86dc3b0309c779215fb722ba71790530d0ed13d9e0df3e",
+   "guideSha256": "9cab15407f9eb4bb54daa71192835bda0f1e9c404c0fe492952706595a97e902",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 34
@@ -11586,7 +11586,7 @@
    ],
    "guide": true,
    "guideId": "sako90",
-   "guideSha256": "ae07949a261d8b0d121c22e5bfe45df64c2e6de22046839f3a0137a3bf5e1eb7",
+   "guideSha256": "61b024d134260b9d8c64297e67d2c092fddcaf3b6ebcd2a8c480a8fda46c458c",
    "cal": "{\"chs\":[\".222 Rem\",\"5.56 / .223\",\".22-250\",\".243 Win\",\"6.5 Creedmoor\",\"7mm-08\",\".308 Win\",\"6.5x55 SE\",\".270 Win\",\".30-06\",\"8mm Mauser\",\"9.3x62\",\".270 WSM\",\".300 WSM\",\"7mm Rem Mag\",\".300 Win Mag\",\".375 H&H\",\"7mm PRC\"]}",
    "calSha256": "f3d808874a0dee39bacd1d1216e836ab1287986db766e995c24d9c15e71089e8",
    "calV": 34
@@ -11643,7 +11643,7 @@
    ],
    "guide": true,
    "guideId": "winchester1892",
-   "guideSha256": "92f13efd0fc3dce0457b25e109925e9ff59b4179e589f7a5ab9a414ef03e8e77",
+   "guideSha256": "bd4f1ab51225fa734504f30fc359b9d8769dad5ae66cb74727a628ba6bc374aa",
    "cal": "{\"chs\":[\".44 Mag\"]}",
    "calSha256": "4eb04a6e3af1305b86be4e1feec0ef0dc57b991c62ade4d61ff7acf58fae4872",
    "calV": 34
@@ -11857,7 +11857,7 @@
    ],
    "guide": true,
    "guideId": "qerector",
-   "guideSha256": "ca2c687c86b02e2386f1656d4e0ed9e4e3f07328a3929bab27edfc0e53f0a78e",
+   "guideSha256": "be3d0929c09eae4b5a85ea82341f9f827d3a35a0e565dc8aeef6637b4e9eee05",
    "cal": "{\"chs\":[\".22 LR\"]}",
    "calSha256": "72425d29707bc933fb12fd1cdf3788137f7a3bb6b41a0e6d049cc6414e4659cb",
    "calV": 34
@@ -12313,7 +12313,7 @@
    ],
    "guide": true,
    "guideId": "rockislandarmory1911tacticaliifs",
-   "guideSha256": "a4e84d03ca5947a414b603a260de2289e9f06b410fe2b04c4161dcf2d24d0839",
+   "guideSha256": "9cce42d77de2d9bd9b68fb8750b0906601c4136bb3c8e338a3402d2ba6d07b28",
    "cal": "{\"chs\":[\".45 ACP\"]}",
    "calSha256": "effdc7f0f05c128ab4808095f2d27f957f4d35d6e79c90e415c96d45f958fae6",
    "calV": 34
@@ -13037,7 +13037,7 @@
    ],
    "guide": true,
    "guideId": "rugersecuritysix",
-   "guideSha256": "385853d3dac52d3e4491db8b85230099214460ccc42579d579579960d9687986",
+   "guideSha256": "2aeffe98714b233e92101c60b32210d333a9bbe2994c4f3ed2dc2bc95328e804",
    "cal": "{\"chs\":[\".357 Mag\"]}",
    "calSha256": "c7899084dfb9999a77c8a79f47c2294d479b52eeb3532811b0a0fb87098392aa",
    "calV": 34
@@ -13397,7 +13397,7 @@
    ],
    "guide": true,
    "guideId": "deadairsandmanx",
-   "guideSha256": "236426b880efe6e97957edaf18236debc914abce5628413e271a2de9da35504a",
+   "guideSha256": "28d6fd0d39a8d526eb2cd92475822df69163faf8afe718bfce4ebd31964c48ed",
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"Up to .300 RUM ... .30 caliber\",\"rt\":\".300 RUM\"}",
    "calSha256": "30067886ff7d2036772fbd3e23dc1326c87fca3683d27bc7c7d04ee3c963b1ed",
    "calV": 34
@@ -14789,7 +14789,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "tacticalsolutionsaxiom",
-   "guideSha256": "47b9a0ee737f525cdfb0fc697ecf1fd4e634ceb752578501be37ccce92106a96",
+   "guideSha256": "e937ea5e91c268a425f243251a406a31770947978b127df42dcff89f7d7f3897",
    "cal": "{\"rl\":[\".22 LR\",\".17 HM2\",\".22 WMR\",\".17 HMR\",\".17 WSM\",\".22 Hornet\",\"5.7x28\"]}",
    "calSha256": "9804605c559f3451fdb416c3a7825a0e819cdcc16f7a7739b6f708157625cff4",
    "calV": 34
@@ -14886,7 +14886,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "deadairlazarus6",
-   "guideSha256": "14b274d45468e6d16eebb339cba5700cba1510f69bd2d22fb39ede161ee121bf",
+   "guideSha256": "e082c61bfa15cff5d99ff70e4fcdf55b2b581f842ff8b1cdd94fe73fde5bfb3c",
    "cal": "{\"rl\":[\"5.56 / .223\",\"6mm ARC\"]}",
    "calSha256": "0311299b409ec87ce9dad898dcf045abbf12b0ef72c445e6ace22fbde022f5fd",
    "calV": 34
@@ -14978,7 +14978,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "yhmnitron20",
-   "guideSha256": "b663a65aefda1e9997ec79929ea6312016f0efd4cdadac13d892ec21f3b036d0",
+   "guideSha256": "17fb36c7e8e366a98b58b37da8dea511825021ed7c2005539267437e9e6a2b3c",
    "cal": "{\"rl\":[\".17 HMR\",\"9mm\",\".308 Win\",\".350 Legend\",\"5.56 / .223\",\".300 BLK\"]}",
    "calSha256": "9b66150ddc75c5683e6910482d357271e50423600acfadd2f4017651a3bfe5bc",
    "calV": 34
@@ -15227,7 +15227,7 @@
    ],
    "guide": true,
    "guideId": "mltradnitrofire",
-   "guideSha256": "ed1032d2fe6d1418f3ddecafdc826e896de095209397e472df2f347e4cec1559",
+   "guideSha256": "fbe87bcba69c7568964e7a740f838230b72a4d31cab16a89ab2518123d9327ec",
    "cal": "{\"chs\":[\".50 cal\"]}",
    "calSha256": "0138300feae19d34a209131a0c3ac845d60091565656d2e66035144bf2bd913b",
    "calV": 34
@@ -15514,7 +15514,7 @@
    ],
    "guide": true,
    "guideId": "mlknightperegrine",
-   "guideSha256": "bba8c7edd50c2bc0f0f13344c13794febb0c0c40c1454b83984c174adf0f62ae",
+   "guideSha256": "da80a3055fbbe2a7b55dfab161da1b11f3a8378d61f485ebfb50f2cc4978d4c0",
    "cal": "{\"chs\":[\".50 cal\"]}",
    "calSha256": "0138300feae19d34a209131a0c3ac845d60091565656d2e66035144bf2bd913b",
    "calV": 34
@@ -15708,7 +15708,7 @@
    ],
    "guide": true,
    "guideId": "mltradkentucky",
-   "guideSha256": "b11b7554870ae6a99e077b7d079de4dda8098d19882ab41ace9932389fa36d9f",
+   "guideSha256": "0b273f2e3ed840ef3f340688859ee37eed79d2c5b484357aa828c649771f4f7f",
    "cal": "{\"chs\":[\".50 cal\"]}",
    "calSha256": "0138300feae19d34a209131a0c3ac845d60091565656d2e66035144bf2bd913b",
    "calV": 34
@@ -15727,7 +15727,7 @@
    ],
    "guide": true,
    "guideId": "mltradpennsylvania",
-   "guideSha256": "cf1c2fe5b17b1436a69c3ba3e25344cb246d8ca113f8dda4940df43dba955620",
+   "guideSha256": "7435556afef495121774f7703667787484625ef1b2e67c5032effa5631310779",
    "cal": "{\"chs\":[\".50 cal\"]}",
    "calSha256": "0138300feae19d34a209131a0c3ac845d60091565656d2e66035144bf2bd913b",
    "calV": 34
@@ -15765,7 +15765,7 @@
    ],
    "guide": true,
    "guideId": "mltraddeerhunterfl",
-   "guideSha256": "019d9d9ba84a144efe3481e80bd92654808ed137023d27a691b828711ec2e66e",
+   "guideSha256": "34c2d74e08d921697f6411c3c56374418e30c1a5ce57fb7c424243e0c6619897",
    "cal": "{\"chs\":[\".50 cal\"]}",
    "calSha256": "0138300feae19d34a209131a0c3ac845d60091565656d2e66035144bf2bd913b",
    "calV": 34
@@ -15824,7 +15824,7 @@
    ],
    "guide": true,
    "guideId": "mltchawken",
-   "guideSha256": "ef16ced1d2a0868622f30bd8f1d909de47cc7e27546aeb0f1aefcbf734bc541e",
+   "guideSha256": "ea4862821b74498f2ab372ac3e8a2cc3f6e800f5640bae17c1ea323e9ea279a5",
    "cal": "{\"chs\":[\".45 cal\",\".50 cal\",\".54 cal\"]}",
    "calSha256": "26a46eef49ddca1caa96f5f618ce50ec5d5ba37b0c1d3e7dee86aace08a87354",
    "calV": 34
@@ -16148,7 +16148,7 @@
    ],
    "guide": true,
    "guideId": "berettaa300patrol",
-   "guideSha256": "627bf5df24dc34f4c04936c0565f2764177175f68430b778bc3a2fa2f64cafb9",
+   "guideSha256": "4d696b159683597bf532066389d3a002a9457eb3d88d0332667fe4022112bbf5",
    "cal": "{\"chs\":[\"12 GA\"]}",
    "calSha256": "3b3f3bc4692b2825de5aba972af10e9d5fbe667bde053b7b67ebf2747fd901c2",
    "calV": 34
@@ -16820,7 +16820,7 @@
    ],
    "guide": true,
    "guideId": "canikmetemc9prime",
-   "guideSha256": "49618dd38d36c2142cf3d2d6b9ec01dfc5bbe3c51279964479e893812745361b",
+   "guideSha256": "c4fbdb8c47243708d28b988e1dff4dfe7ee5776d5761c64e51bd6e2206f06722",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 34
@@ -16858,7 +16858,7 @@
    ],
    "guide": true,
    "guideId": "hecklerkochcc9",
-   "guideSha256": "621b85e5627d392941841f2c51b6763cd9e85c0059516ac78077d4ab2418f296",
+   "guideSha256": "24174cb7048d0487cdf42f2da0bff5d116ab2682dcf45be2190e90c7da04a30a",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 34
@@ -17031,7 +17031,7 @@
    ],
    "guide": true,
    "guideId": "caniksfxrival",
-   "guideSha256": "ca30538dff76f5dc4c82ad86f9adf97b4efeabb248edb4df8d32f95a34515383",
+   "guideSha256": "1832211a450bf3937a2ac00cd60f609b57bdc0f4bbe5c5b115eb85451530a59d",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 34
@@ -17069,7 +17069,7 @@
    ],
    "guide": true,
    "guideId": "caniktticombat",
-   "guideSha256": "e7e040be02b56520e89bfef408e338fcb20348812eeaf6cc9242f6cd26bc40f7",
+   "guideSha256": "fa2d3afd4ece07c3837a58ca1d569cebba5ad4e0c8bc915b10ac9b59a9b3af7a",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 34
@@ -19608,7 +19608,7 @@
    "maker": "Ruger",
    "model": "Hawkeye Long Range Target",
    "chambering": "multi",
-   "category": "Bolt-action rifle",
+   "category": "Bolt-action rifle, detachable magazine",
    "family": "BOLT-RUGER-M77",
    "tier": 3,
    "group": "Rifles",
@@ -20974,7 +20974,7 @@
    ],
    "guide": true,
    "guideId": "hecklerkochsl8",
-   "guideSha256": "15e1fa0af7e2f83cb053d36f82d25959339e37e69624290074f51de1751745e7",
+   "guideSha256": "d9852514bdae5cac5ff611fc66bc73a8f837e4a1769b52254d0aa3f0e00eceb1",
    "cal": "{\"chs\":[\"5.56 / .223\"]}",
    "calSha256": "0a14a58185a59bf7b8cbb05dfcb3652cbd2be162d67efade3ed87034c295930d",
    "calV": 34
@@ -21282,7 +21282,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "cmmgzeroed22",
-   "guideSha256": "7f70e607ab18f0a4319679d8bf5a395e804e63378fd34b876dc3d77917d86d44",
+   "guideSha256": "bfbf138db870c02c91bbfc0de7a1f570f39b81e4eb5cd23214de80ace2e6dac5",
    "cal": "{\"rl\":[\".22 LR\",\".17 HMR\",\".22 WMR\"]}",
    "calSha256": "d6eb720e1387daa69d4773d1a2d8d98cfcc4c36e47981846065a94fcdbcb9682",
    "calV": 34
@@ -21440,7 +21440,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "lonewolfelimin8r45",
-   "guideSha256": "7d7ade6d61d6c8f42f14cdf9318ee3e04d62fcaf827b16f5b493bc0a4aac5938",
+   "guideSha256": "9d889fec4ab36d1d975100925bb9ebd35f115004bfff4502c24faeb6c7c15b99",
    "cal": "{\"rl\":[\".45 ACP\",\".40 S&W\",\"9mm\",\"10mm\",\".300 BLK\",\".357 SIG\",\".380 ACP\"]}",
    "calSha256": "8a44bdf03cc15e2da4d11ef7bf85d42899ce068caf99eab8f07296010533de13",
    "calV": 34
@@ -21457,7 +21457,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "lonewolfeliminator22",
-   "guideSha256": "608e3e290a80b418dc68a8453a8d408372efd7d22076d0a1f537cf388cc0558b",
+   "guideSha256": "2e58910e04c62b22760ecf8cdf76f13d5dc5cb5143277432ee1f63973ab84913",
    "cal": "{\"rl\":[\".22 LR\",\"5.7x28\"]}",
    "calSha256": "7734dc1e5d79b60599596c0e119c2ac2237c20f9baf120f1dfc72839b17f177b",
    "calV": 34
@@ -21945,7 +21945,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "pwsbde22ti",
-   "guideSha256": "8f0eaabf51e34c29084eb269c1221f38b6307abfdf85abeb780c3175c34cda02",
+   "guideSha256": "78a05376747c93ab117f07de93226636a6d73835ffa3164d34616ea276d963c1",
    "cal": "{\"rl\":[\".22 LR\",\"5.7x28\",\".17 WSM\",\".17 HMR\",\".22 WMR\"]}",
    "calSha256": "5813f8f54dbdd9edfe1dca8e9f1c6c81fcfd3fbe2b95885934340e0b996d61ce",
    "calV": 34
@@ -21964,7 +21964,7 @@
    ],
    "guide": true,
    "guideId": "pwsbde36ti",
-   "guideSha256": "6aca48565d624b20078120f54f5eba1788ebcf0286b84f6f135920070ad22aa1",
+   "guideSha256": "69eea7ccc73075fcab9e8dfddd9f8557ff4009b0be00a0b7417505c0c719d37b",
    "cal": "{\"chs\":[\".36 cal\"]}",
    "calSha256": "62af637c20499786ad15e735b90185356de65ca781cff58dbfcfddd89ffe079a",
    "calV": 34
@@ -21983,7 +21983,7 @@
    ],
    "guide": true,
    "guideId": "pwsbde45ti",
-   "guideSha256": "d3cd44c0322c831d4b84ac7286729b10bfad3c98786304e21ebe268917e5a427",
+   "guideSha256": "4b434b86165b304ceb15ab2fc057a95b795d960fedc5f6e3ddbbe58ea0c12fd5",
    "cal": "{\"chs\":[\".45 cal\"]}",
    "calSha256": "45e7632e96229ec36f43625f3d005933040ae7ec1cda0c87b18cd82d89ee65e1",
    "calV": 34
@@ -22002,7 +22002,7 @@
    ],
    "guide": true,
    "guideId": "pwsbde556ti",
-   "guideSha256": "7f0af11024feb6076cd3a49f97f546a46c51c2204ab163065ea4114eec5cc00e",
+   "guideSha256": "6373ef9ae597f2c899a9573117eec17da08491afc388d9ec96d4a1b610f5a098",
    "cal": "{\"chs\":[\"5.56\"],\"rs\":\"maximum .224 caliber\"}",
    "calSha256": "2d42b0f105d018664abc9cbbc4b9459044bc3f945b2fb01952fe41914a91c0ec",
    "calV": 34
@@ -23218,7 +23218,7 @@
    ],
    "guide": true,
    "guideId": "sigsauermcxrattler",
-   "guideSha256": "8c0760959f1e8d6715ecd5bf3093255bb408ab1b2a6153a8bab292e6b77a9794",
+   "guideSha256": "7f9f5122264692057953e697fe2e56cde9211ec31db0d4aef845a03ba1a09fa6",
    "cal": "{\"chs\":[\"5.56 / .223\",\".300 BLK\"]}",
    "calSha256": "40d5a3a84166c748ab1bc99e4bc76a5cbcea71592c40b041c026cb6b400925bc",
    "calV": 34
@@ -24467,7 +24467,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "huxwrxrad9",
-   "guideSha256": "97943a81ab4aeb58f68c1f3d76de638e10a174d58153843be8bb165cdef99587",
+   "guideSha256": "117f863f9e1bf65312659d00bf15fccfd473a7d61a7c253a2ce253238fb43f78",
    "cal": "{\"rv\":[{\"v\":\"RAD 9\",\"rl\":[\"9mm\",\".22 LR\",\".17 HMR\",\"5.7x28\",\".300 BLK\",\".350 Legend\"]},{\"v\":\"RAD 45\",\"rl\":[\"9mm\",\"10mm\",\".45-70\",\".22 LR\",\".17 HMR\",\"5.7x28\",\".357 Mag\",\".44 Mag\",\".300 BLK\",\".350 Legend\"]}]}",
    "calSha256": "fff5f192acaa9f94ac14ce2e4cf7d1c1b178870221808592aeff89d8d720a9aa",
    "calV": 34
