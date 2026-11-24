@@ -1,133 +1,259 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAR-AR",
- "bpTemplateVersion": 1,
  "row": "aacmpw",
  "make": "AAC",
  "model": "MPW",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model, so this guide works from the pattern the AAC MPW is built on — the AR — which field strips the same way on every rifle of the kind. It clears the rifle, asks you to confirm by sight that yours is built that way, then takes it down as far as the bolt. If what you see does not match, the strip stops and the rifle is cleaned with the action locked open.\n\nListed in Fieldstrip as several chamberings. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed (UNDATED (no date is printed in the book))",
+ "sourceSha256": "2451c8e012f459398962a8a9a7ad5a59dfd1d8171cdd2b1d944288f47f060a61",
+ "cleanIntro": "AAC’s own strip for the MPW, its gas-operated AR-15: rear takedown pin across, upper hinged open, bolt carrier and charging handle out the back, and the bolt out of the carrier. No tools are named for any of it. Two jobs go further, and they are the deep clean: the extractor off the bolt, and the buffer and its spring out of the tube.\n\nThe MPW is sold in .300 Blackout and 5.56. One strip serves both, but the ammunition does not swap: go by the caliber marked on your barrel.\n\nAAC’s book prints no cleaning interval, no assembly section and no function check. Going back together here is its own disassembly run in reverse. It does ask for one clean before the first use, to take the excess factory oil off.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Muzzle safe, selector to SAFE",
+   "action": "Point the muzzle where a shot would hurt nobody, keep your finger off the trigger and outside the guard, and turn the selector on the left side of the receiver to SAFE.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "The selector turns to SAFE only with the hammer cocked. If it will not turn, do not force it: go on with the magazine, then set it once the bolt has been drawn back.",
+   "quote": "Place the safety selector on SAFE",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Unloading The Firearm, step 1, printed p.18"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, bolt back and locked",
-   "action": "Press the magazine release and take the magazine out first. Pull the charging handle fully back, press the bottom of the bolt catch on the left of the receiver to lock the bolt open, and push the charging handle back home. If the bolt will not lock back, hold it back by the handle. Keep your hand and thumb out of the bolt's path.",
+   "title": "Magazine out before the bolt moves",
+   "action": "Hold the rifle by the grip, press the magazine release button and pull the magazine down out of the well.",
    "box": "none",
-   "prose": "A selector, if your rifle has one, goes to safe if it will — but it is never a substitute for an empty chamber."
+   "prose": "Running the charging handle with a loaded magazine still in the well only feeds the next round into the chamber.",
+   "quote": "Press the magazine release button and pull the magazine down to remove.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Unloading The Firearm, step 2, printed p.18"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and up into the empty magazine well, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Bolt locked open on the catch",
+   "action": "Unlatch the charging handle and pull it all the way back, watching the port for a round or a case. Press in on the lower part of the bolt catch on the left of the receiver, then let the handle go. The bolt stays back.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact AAC with the gun pointed somewhere safe."
+   "prose": "Lower part locks, upper part releases. Keep your thumb on the lower part until you can see the bolt is held.",
+   "quote": "Release the charging handle. This locks the bolt in the open position.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Unloading The Firearm, step 3, printed p.19"
   },
   {
-   "phase": "Strip",
-   "title": "Confirm it is built the AR way",
-   "action": "With the rifle empty and the bolt locked back, look for three things: two pins running across the lower receiver — one at the front, just ahead of the magazine well, and one at the rear, above the pistol grip; a T-shaped charging handle at the back of the upper receiver; and the upper and lower receivers meeting along a seam you can see. If all three are there, carry on.",
+   "phase": "Clear",
+   "title": "Chamber, by eye and by finger",
+   "action": "Look through the ejection port into the chamber and make sure there is no cartridge or case in it, then look down the empty magazine well. If a cartridge will not come out, stop there: AAC has you store the rifle safely and take it to a gunsmith.",
    "box": "none",
-   "prose": "⛔ If any of them is missing, or you are not sure, this is where your strip ends: go straight to the cleaning steps and clean the bore from the muzzle with the action locked open."
+   "prose": "AAC asks for the look; a fingertip in the chamber settles what a dark receiver hides. Never pry at a stuck round.",
+   "quote": "verify that there are no cartridges in the chamber",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Unloading The Firearm, step 4, printed p.19; Troubleshooting, printed p.30",
+   "warn": "If a cartridge cannot be removed, safely store the firearm and take it to a qualified gunsmith for inspection.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Rear pin across, upper hinged open",
-   "action": "Press the top of the bolt catch and let the bolt go forward. Push the rear takedown pin from the left side to the right until it stops — it is held captive and does not come all the way out, so never force it further. Then swing the upper receiver forward and up on the front pin, like a hinge.",
+   "title": "Bolt forward on the empty chamber",
+   "action": "Eye protection on. With the magazine out and the chamber proved empty, press in on the upper part of the bolt catch and let the bolt run forward.",
    "box": "none",
-   "prose": "If the rear pin will not move with firm thumb pressure, a nylon or brass punch is the right tool — never a steel one on the receiver."
+   "prose": "A bolt locked back holds the tail of the carrier in the buffer tube, and the upper will not swing open against it. Keep your fingers out of the port as it closes.",
+   "quote": "will release the bolt and allow it to travel forward under its own spring pressure.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — General Operation, step 3B, printed p.23; Disassembly warning, printed p.25",
+   "warn": "Always wear eye protection every time before handling your firearm for cleaning and maintenance.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Bolt carrier group and charging handle out the back",
-   "action": "With the upper hinged open, draw the charging handle back a few centimetres; the bolt carrier group comes back with it and can be drawn straight out of the rear of the upper. Then draw the charging handle further back and drop it down out of its track. Lay both on a clean cloth.",
-   "box": "none"
-  },
-  {
-   "phase": "Strip",
-   "title": "The bolt out of the carrier",
-   "action": "Push the bolt fully back into the carrier. Pull the firing pin retaining pin out of the left side of the carrier, tip the carrier back, and let the firing pin slide out of the rear. Turn the cam pin a quarter turn and lift it out of the top, then draw the bolt out of the front of the carrier.",
+   "title": "Rear takedown pin, left to right, until it stops",
+   "action": "Push in the takedown pin from the left side of the receiver, just above and behind the selector. Then pull it from the right side until it stops.",
    "box": "none",
-   "prose": "Note which way the bolt faced before you take it out — it goes back the same way. Keep the three small parts together: a carrier group missing its cam pin, its firing pin or its retaining pin must never go back into the rifle."
+   "prose": "It is captive. The stop you feel is the end of its travel, so do not go on pulling for a loose pin.",
+   "quote": "Push in the takedown pin, located above and to the rear of the safety lever on the left hand side of the receiver [figure 15]. Step 2A: You may then pull the pin from the right side of the receiver until it stops (it will not pull out)",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Disassembly, steps 2 and 2A, printed p.25"
   },
   {
    "phase": "Strip",
-   "title": "That is the whole strip",
-   "action": "Nothing else comes apart. The extractor and its pin, the gas rings, the gas key and its screws, the buffer and spring in the stock, the trigger group and the barrel stay exactly as they are — those are work for AAC. The front pin stays in, holding the two receivers together.",
-   "box": "none"
+   "title": "Upper swung open on the front pin",
+   "action": "Take hold of the rear of the upper receiver and pull up, so it hinges on the front pin. The hammer and trigger are now in view in the lower.",
+   "box": "none",
+   "prose": "The front pin stays in; it is the hinge, and nothing in AAC’s strip takes it out. Leave the trigger alone while the rifle is open: with no bolt over it the hammer has nothing to land on but the receiver.",
+   "quote": "Grasp the rear of the upper receiver and pull up, allowing it to pivot on the front pin.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Disassembly, step 3, printed p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt carrier straight back, charging handle back and down",
+   "action": "Pull the bolt carrier straight back until it is clear of the charging handle and the upper. Then pull the charging handle back until it stops, let it drop down out of its track, and draw it out the rear.",
+   "box": "none",
+   "prose": "The handle only drops at that one stop, where its lugs meet the cut in the track. Short of it the handle feels stuck; pull back, not down, until it stops.",
+   "quote": "Pull the bolt carrier straight back until it is free of the charging handle and upper. Pull the charging handle back until it stops, then allow it to drop down to clear the upper receiver and remove it from the rear.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Disassembly, step 4, printed p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin out the back of the carrier",
+   "action": "Push the bolt into the carrier until it stops. Take out the firing pin retaining pin, then slide the firing pin out through the rear of the carrier.",
+   "box": "none",
+   "prose": "Once its retaining pin is gone the firing pin is loose, so work over a cloth. The retaining pin is the smallest part you will handle here, and the easiest to lose.",
+   "quote": "Remove firing pin retaining pin (E) and slide firing pin (F) to the rear of the carrier until it is free.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Bolt Carrier Group Disassembly, step 1, printed p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Cam pin a quarter turn, then straight out",
+   "action": "Turn the cam pin a quarter turn so its head clears the gas key on top of the carrier, and pull it straight out. The bolt now comes out of the front of the carrier.",
+   "box": "none",
+   "prose": "Before it leaves, note which way round the bolt sits in the carrier; it goes back the same way. If the cam pin will not lift, it is not turned far enough yet.",
+   "quote": "turn to allow the head of the pin to clear the gas key, and pull straight out.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Bolt Carrier Group Disassembly, step 2, printed p.27; General Tips and Warnings, printed p.7",
+   "warn": "Be sure the cam pin is installed in the bolt group. If it is not installed, your firearm can still fire and may explode causing injury or death.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench you have the bolt, the carrier, the cam pin, the firing pin and its retaining pin, and the charging handle, with the upper still hinged to the lower. That is what AAC’s cleaning section needs apart.",
+   "box": "none",
+   "prose": "The book goes two jobs further, the extractor and the buffer. They are the deep clean here. It stops there: the ejector, the gas key, the trigger group and the barrel are not taken out by any step in it.",
+   "quote": "The bolt assembly may now be removed from the carrier assembly.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Bolt Carrier Group Disassembly, step 2, printed p.27",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the chamber end",
-   "action": "With the upper hinged open and the carrier out, the bore is open from the rear. Push a brush wet with bore solvent from the chamber end through to the muzzle, a few passes, then dry patches until they come out clean. A rod guide in the rear of the upper keeps the rod centred. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
-   "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "title": "Chamber scrubbed, patched, left dry",
+   "action": "Wet a chamber brush with bore solvent or CLP and run it through the chamber several times. Wipe with clean patches until one stays clean, then finish with a dry patch.",
+   "box": "limit",
+   "prose": "The dry patch is the step that gets skipped. Oil left in the chamber keeps the fired case from gripping its walls, and the bolt takes the load instead.",
+   "quote": "After cleaning, run a dry patch through the chamber. Do not oil the chamber.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Maintenance, Cleaning the Chamber, printed p.29"
   },
   {
    "phase": "Clean",
-   "title": "The chamber and the locking lugs",
-   "action": "Use a chamber brush, or a patch on a small brush, to clean the chamber and the ring of locking lugs just behind it, where carbon collects. Wipe out the inside of the upper receiver, then wipe the inside of the lower dry around the hammer — solvent stays out of the trigger group.",
-   "box": "none"
+   "title": "Bore from the chamber end",
+   "action": "Push a patch soaked in bore cleaner through several times from the chamber end, then a brush with more cleaner to lift copper and powder. Follow with another patch. If it is not clean, brush again until one comes out clean.",
+   "box": "none",
+   "prose": "With the carrier out the bore is open straight from the rear. Keep the rod centered: a rod flexing against the rifling is the scratch AAC warns about.",
+   "quote": "Using a cleaning rod, pass a patch soaked in bore cleaner through the barrel several times starting from the chamber end.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Maintenance, Cleaning the Barrel, printed p.29",
+   "warn": "Do not allow cleaning rods to scratch the inside of the barrel or chamber.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
-   "title": "Bolt, carrier and firing pin",
-   "action": "Scrape the carbon off the tail of the bolt and out of the inside of the carrier with a nylon brush and a little solvent, and wipe the bolt face. Wipe the firing pin clean and dry — it goes back with no oil on it. Then put a light film of oil on the outside of the bolt body, the cam pin, and the outside of the carrier where it rides in the receiver.",
+   "title": "One oiled patch through the bore, and the outside wiped",
+   "action": "Once the bore is clean, pass one patch coated in gun oil through it. Clean the outside of the barrel with a nylon brush and cleaner-lubricant, then wipe it off.",
    "box": "none",
-   "prose": "A dry, carboned bolt is the most common reason a rifle of this pattern stops running; an oily firing pin collects grit where it matters most."
+   "prose": "A film is all it wants. Run a dry patch through before you next fire, and keep the oil out of the chamber you have just dried.",
+   "quote": "Once the barrel is clean, pass a patch coated in gun oil through it once more to help preserve the barrel bore and rifling.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Maintenance, Cleaning the Barrel, printed p.29; Maintenance warning, printed p.8",
+   "warn": "Excess lubricants or grease can dangerously increase pressure and may cause barrel to burst when firing.",
+   "warnSrc": "maker"
   },
   {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the bolt's lugs, the receivers and the stock for cracks, chips on the lugs, wear at the cam pin hole, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for AAC.",
+   "phase": "Clean",
+   "title": "Bolt and carrier cleaned, oil on the outside only",
+   "action": "Clean the bolt, cam pin, firing pin and carrier with CLP or a suitable solvent. Wipe the excess oil off the bolt before it goes back. Put lubricant on the outside of the carrier and none inside it.",
+   "box": "limit",
+   "prose": "The inside of the carrier is where the gas goes, and oil in there bakes into the carbon. The outside is what rides in the upper, and that is the part that wants it.",
+   "quote": "Be sure to remove excess oil from the bolt assembly before reassembly, do not lubricate the inside of the carrier. Lubricate the exterior of the carrier only.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Maintenance, Cleaning the Bolt Carrier Group, printed p.30"
+  },
+  {
+   "phase": "Clean",
+   "title": "Metal wiped clean, then lightly oiled",
+   "action": "Wipe all the metal with a clean cloth, then go over it with a lightly oiled one.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until AAC has seen it."
+   "prose": "Use a solution made for firearms. AAC warns that some cleaners and solvents can damage the rifle.",
+   "quote": "Wipe all metal with a clean cloth and then follow up with a lightly oiled cloth.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Maintenance, Cleaning the Exterior, printed p.30; Maintenance notice, printed p.29"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the AAC MPW, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to AAC, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Extractor off the bolt, its spring and spacer checked",
+   "action": "With the bolt out of the carrier, push the extractor pin out and lift the extractor off. Look at how the spring and the spacer sit on it and what shape they are in. Replace either one if it is missing or worn.",
+   "box": "none",
+   "prose": "Note which way round they sit before anything shifts, because that is how they go back. Hold the extractor down as the pin leaves: the spring is pushing it up.",
+   "quote": "Push extractor pin out to remove extractor. Note position and condition of spring and spacer on the extractor. If items are missing or worn, replace.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Bolt Disassembly, printed p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "That is as far as the bolt goes",
+   "action": "Stop here with the bolt. The ejector and the gas rings stay on it.",
+   "box": "limit",
+   "prose": "AAC labels both in the picture and gives no step for taking out either one.",
+   "quote": "No Further disassembly is required for routine maintenance.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Bolt Disassembly, printed p.27"
+  },
+  {
+   "phase": "Clean",
+   "title": "Extractor and its cut in the bolt cleaned",
+   "action": "Clean the extractor, its pin and the cut it sits in with CLP or a suitable solvent, working the carbon out from under the hook. Wipe off the excess oil before it goes back together.",
+   "box": "none",
+   "prose": "Packed carbon under the extractor keeps it from closing on the rim, and it can only be reached with the extractor off.",
+   "quote": "Disassemble the bolt carrier assembly. Clean with CLP or a suitable solvent.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Maintenance, Cleaning the Bolt Carrier Group, printed p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer retainer down, buffer eased forward",
+   "action": "Eye protection on. Look into the rear of the lower: the face of the buffer is in the tube with the retainer pin standing in front of it. Hold the buffer back, push the retainer pin down, and let the buffer come forward slowly once it is past the pin.",
+   "box": "none",
+   "prose": "The spring is loaded the whole time. Keep the buffer under your thumb until you feel the push run out, with your face out of line with the tube.",
+   "quote": "while holding the buffer back. Allow buffer to travel forward slowly after clearing the retaining pin.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Buffer Tube Disassembly, steps 1–2, printed p.28",
+   "warn": "Action spring is under compression. Please wear eye protection when removing the buffer and buffer spring.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and spring out of the tube",
+   "action": "When the spring is no longer compressed, draw the buffer and the buffer spring out of the tube.",
+   "box": "none",
+   "prose": "With the buffer gone, little holds the retainer pin down on its own small spring. Keep an eye on it so it does not jump out and roll away.",
+   "quote": "Once the spring is no longer compressed, remove the buffer and buffer spring from the buffer tube.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Buffer Tube Disassembly, step 2, printed p.28"
+  },
+  {
+   "phase": "Clean",
+   "title": "Inside of the buffer tube wiped with a CLP patch",
+   "action": "Clean the inside of the buffer tube with a cotton patch and CLP.",
+   "box": "none",
+   "prose": "Wipe the buffer and spring down while they are out. If the tube or spring shows rust, clean it off now; nothing in the regular clean reaches here.",
+   "quote": "You may now clean the inside of the buffer tube with a cotton patch and CLP.",
+   "cite": "AAC MPW USERS MANUAL — AAC MPW Users Manual, 36 pp.; no part, form or revision code printed — Buffer Tube Disassembly, step 3, printed p.28"
+  }
+ ],
  "cleaning": [
   {
-   "name": "BORE & CHAMBER",
+   "name": "CHAMBER",
    "tasks": [
-    "Brush wet with bore solvent from the chamber end, then dry patches until clean",
-    "Chamber and locking lugs with a chamber brush",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Chamber brush wet with bore solvent or CLP, several passes",
+    "Clean patches until one stays clean",
+    "One dry patch to finish",
+    "⛔ Do not oil the chamber"
+   ]
+  },
+  {
+   "name": "BARREL",
+   "tasks": [
+    "Soaked patch several times, from the chamber end",
+    "Brush with more bore cleaner, then patches until one is clean",
+    "One patch coated in gun oil through the bore",
+    "Outside: nylon brush and cleaner-lubricant, then wiped",
+    "⛔ Do not let the rod scratch the bore or the chamber"
    ]
   },
   {
    "name": "BOLT CARRIER GROUP",
    "tasks": [
-    "Carbon off the bolt tail and out of the carrier",
-    "Bolt face wiped",
-    "Firing pin wiped clean and DRY",
-    "A light film of oil on the bolt body, the cam pin and the carrier's outside"
-   ]
-  },
-  {
-   "name": "RECEIVERS",
-   "tasks": [
-    "Inside of the upper wiped",
-    "Inside of the lower wiped dry",
-    "⛔ No solvent into the trigger group"
+    "Bolt, cam pin, firing pin and carrier: CLP or a suitable solvent",
+    "Excess oil wiped off the bolt",
+    "Lube: the outside of the carrier only",
+    "⛔ Do not lubricate the inside of the carrier"
    ]
   },
   {
    "name": "EXTERIOR",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "All metal wiped with a clean cloth",
+    "Then a lightly oiled cloth"
    ]
   }
  ],
@@ -136,39 +262,49 @@
    {
     "g": 0,
     "steps": [
-     8,
-     9
+     11
     ]
    },
    {
     "g": 1,
     "steps": [
-     10
+     12,
+     13
     ]
    },
    {
-    "s": 11
-   },
-   {
     "g": 2,
-    "steps": []
+    "steps": [
+     14
+    ]
    },
    {
     "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
+    "steps": [
+     15
+    ]
    }
   ]
  },
  "reassembly": [
-  "The bolt into the front of the carrier, facing the way it came out, and pushed fully back.",
-  "The cam pin dropped into the top and turned a quarter turn back; the firing pin slid into the rear; the retaining pin pushed back in from the left.",
-  "⛔ Check the group before it goes in: tip it rear-end down — the firing pin must not fall out — and draw the bolt forward — it must stop, held by the cam pin. A group that fails either check does not go into the rifle.",
-  "The charging handle lifted into its track and pushed in part way; the carrier group slid in behind it; both pushed fully home together.",
-  "The upper swung closed on the front pin, and the rear pin pushed back from the right until it seats."
+  "AAC prints no assembly section; this is its disassembly run backward. Extractor onto the bolt with its spring and spacer as they were, pressed down until the holes line up, and its pin back in.",
+  "Buffer spring and buffer into the tube. Hold the buffer back past the retainer, let the retainer rise in front of it, then ease the buffer forward onto the pin. Eye protection on: this loads the spring again.",
+  "Bolt into the front of the carrier the way round it came out, and pushed all the way in.",
+  "⛔ Cam pin in, and turned a quarter turn back under the gas key. AAC warns that a rifle without its cam pin can still fire and may explode.",
+  "Firing pin in from the rear of the carrier, then its retaining pin. Tip the carrier rear end down: the firing pin must stay in.",
+  "⛔ Draw the bolt forward in the carrier before it goes in. It must stop, held by the cam pin. If it comes out, the pin is missing.",
+  "Charging handle up into its track at the stop and part way forward. Carrier in behind it, with the bolt drawn forward, then both pushed fully home together.",
+  "Upper swung closed on the front pin, and the takedown pin pushed back through from the right until it is fully home.",
+  "Function check before any live ammunition."
  ],
- "fncheck": "Magazine out and the chamber empty. Pull the charging handle back and let it go: the bolt runs fully back and closes fully forward, and it locks open on an empty magazine. The selector, if your rifle has one, moves through each of its positions with the hammer back. This check never asks you to pull the trigger."
+ "fncheck": "AAC’s book prints no function check. This one uses only the controls it describes, with the magazine out, the chamber proved empty again, the muzzle in a safe direction and your finger off the trigger. Pull the charging handle fully back and let it go several times: the bolt should run back and close fully without dragging. Pull it back once more and press the lower part of the bolt catch: the bolt should stay open. Press the upper part: it should close. With the hammer cocked, the selector should turn to SAFE and to FIRE and stay where you put it; leave it on SAFE. See that both receiver pins are flush. If anything binds or will not close, do not load it: AAC leaves repair to a qualified gunsmith.",
+ "reassemblyRoutine": [
+  "AAC prints no assembly section; this is its disassembly run backward. Bolt into the front of the carrier the way round it came out, and pushed all the way in.",
+  "⛔ Cam pin in, and turned a quarter turn back under the gas key. AAC warns that a rifle without its cam pin can still fire and may explode.",
+  "Firing pin in from the rear of the carrier, then its retaining pin. Tip the carrier rear end down: the firing pin must stay in.",
+  "⛔ Draw the bolt forward in the carrier before it goes in. It must stop, held by the cam pin. If it comes out, the pin is missing.",
+  "Charging handle up into its track at the stop and part way forward. Carrier in behind it, with the bolt drawn forward, then both pushed fully home together.",
+  "Upper swung closed on the front pin, and the takedown pin pushed back through from the right until it is fully home.",
+  "Function check before any live ammunition."
+ ]
 }
