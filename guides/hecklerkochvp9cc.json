@@ -1,142 +1,263 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAP",
- "bpTemplateVersion": 1,
  "row": "hecklerkochvp9cc",
  "make": "Heckler & Koch",
  "model": "VP9CC",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model, so this guide works from what is true of every pistol of its kind and asks you to look before it asks you to do anything. It clears the pistol, then strips it only if yours shows one of three takedown controls that come apart the same way on every pistol that has them. If yours shows none of them, the slide stays on and the pistol is cleaned locked open — that is a complete clean, not a lesser one.\n\nListed in Fieldstrip as 9mm. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 (2026)",
+ "sourceSha256": "0e7cc5f0ceea438d5832c5ceeb460a7f126d1faa4d7f470770eb2985adcffe2b",
+ "cleanIntro": "HK's own strip for the VP9CC, the compact striker-fired 9 mm, in HK's order and no further: frame, slide, recoil spring assembly, barrel and magazine. No tools are needed, and neither is a trigger pull. Turning the disassembly lever down decocks the firing pin, and that lever will not turn until the magazine is out and the slide is locked back.\n\nHK sets two intervals. Normal cleaning is after each firing or every 12 months, whichever comes first. Major cleaning, the deep clean here, is after 600 cartridges, or whenever the pistol has met sand, dust, water (saltwater especially) or other contamination you can see.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Muzzle safe, finger off the trigger",
+   "action": "Point the muzzle where nobody could be hurt by an unintended shot, with your finger off the trigger and outside the guard. Put safety glasses on and turn the ejection port away from you.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "The VP9CC has a trigger safety and internal safeties but no safety lever to set. Removing the magazine does not stop it firing a round that is in the chamber, so the clearing order is what makes it safe to handle.",
+   "quote": "Your VP9CC pistol does not have a conventional manual safety and it will fire if the trigger is pulled when there is a round in the chamber, even if the magazine is removed.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 4, Firing, printed p.18; clearing step 1, printed p.20",
+   "warn": "To unload and clear your pistol, you MUST proceed in this order.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out first, then the slide",
-   "action": "Press the magazine release and take the magazine out of the grip before you touch the slide. Then pull the slide fully back and lock it open on the slide stop if your pistol has one; if it will not lock, hold it back. The order is the whole point: working the slide with a magazine still in puts a fresh round in the chamber, and that is the classic way an empty pistol stops being empty.",
+   "title": "Magazine out before the slide moves",
+   "action": "Hold a hand under the magazine, press the magazine catch on either side of the frame, and take the magazine out.",
    "box": "none",
-   "prose": "If the magazine will not come out, stop and contact Heckler & Koch, with the pistol pointed somewhere safe."
+   "prose": "With the magazine gone, working the slide cannot feed another round. Racking first with the magazine still in does exactly that.",
+   "quote": "Hold your hand under the magazine. 2. Press magazine catch",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 4, Clearing and Safety Check Procedure, step 2, printed p.20"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and down into the empty magazine well, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Slide racked and locked back",
+   "action": "Grip the rear serrations and rack the slide back, watching the port for a round or an empty case. Push up and hold the slide release on either side, then let the slide come forward until the release catches it.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Heckler & Koch with the gun pointed somewhere safe."
+   "prose": "Confirm it is held on the release before you let go. The slide must also be locked here for the strip, so this step does two jobs.",
+   "quote": "lock the slide to the rear by allowing the slide to move forward until it engages the slide release.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 4, Clearing and Safety Check Procedure, step 3, printed p.20"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber and feed ramp, by eye and by finger",
+   "action": "Look into the chamber through the open port, then sweep the chamber and feed ramp with a finger. Take out any round or case you find. If a round stays in the chamber, go through the clearing procedure again; if it will not extract, HK sends you to a gunsmith.",
+   "box": "none",
+   "prose": "The red mark on the extractor is a loaded chamber indicator, not a check: HK says never to rely on a mechanical device or on memory. Do not pry at a live round with a metal tool.",
+   "quote": "Physically inserting a finger through the ejection port and sweeping the chamber and feed ramp area.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 4, Clearing and Safety Check Procedure, step 4, printed p.21",
+   "warn": "Do not use a metal tool to attempt to remove an unfired cartridge because it could ignite the primer and cause the cartridge to rupture",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Which takedown does yours have? Look before you touch",
-   "action": "With the pistol empty and the slide locked open, look at the frame just above the trigger. One of three things decides your next step: two small serrated tabs, one on each side of the frame just above the front of the trigger guard; a single lever on the left side of the frame, made to rotate; or a trigger guard whose front end is made to pull down away from the frame. Follow only the step written for what you see, and skip the other two.",
+   "title": "Disassembly lever down to six o’clock",
+   "action": "Leave the slide locked back and the magazine out. Turn the disassembly lever, on the left side of the frame, down to about six o’clock.",
    "box": "none",
-   "prose": "⛔ If you see none of these, more than one, or you are not sure, this is where your strip ends: leave the slide on and go straight to the cleaning steps, which work with the pistol locked open. Never press a trigger, push on a pin or press a button to find out how a pistol comes apart."
+   "prose": "If the lever will not move, do not force it: a magazine in the well or a slide that is not locked back blocks it. With the lever down the firing pin is decocked, which is why this pistol never asks for a trigger pull to come apart.",
+   "quote": "This prevents the need to pull the trigger in order to release the slide from the receiver.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 5, Disassembly, step 2, printed p.22; disassembly safety, printed p.11",
+   "warn": "To ensure that your pistol is unloaded, disassembly MUST be performed in this order.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Two tabs: release the striker, then slide forward off the frame",
-   "action": "Only if your pistol has the two takedown tabs. Let the slide run forward, point the muzzle at a safe backstop, and press the trigger once — on pistols built this way the striker has to be released before the slide will come off, and you will hear it click. Then grip the pistol so your fingers draw the slide back a few millimetres, pull both tabs down with your other hand and hold them there, and let the slide run forward off the front of the frame.",
+   "title": "Slide released and run forward off the frame",
+   "action": "Hold the slide, press the slide release down, and guide the slide forward off the front of the frame.",
    "box": "none",
-   "prose": "⛔ Only after the chamber has been proven empty twice. If yours is a rimfire (.22) pistol, do not press the trigger: stop here and clean it with the slide on. If the slide will not move forward with both tabs held down, let go and stop — never force it."
+   "prose": "It leaves toward the muzzle. Keep hold of it the whole way: it starts forward from the locked-back position with the recoil spring behind it, and the barrel and spring come off with it.",
+   "quote": "Depress the slide release and push the slide forward, removing the slide from the top of the frame assembly",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 5, Disassembly, step 3, printed p.23"
   },
   {
    "phase": "Strip",
-   "title": "A takedown lever: turn it down, then ease the slide off",
-   "action": "Only if your pistol has a takedown lever. Rotate the lever down until it stops, usually about a quarter turn. Some pistols let it turn with the slide locked open and others only with the slide forward, and some also have a small button on the right side of the frame that has to be held in while the lever turns. Once it has turned, hold the slide, let it run forward under control, and ease it off the front of the frame.",
+   "title": "Recoil spring assembly forward, then up",
+   "action": "Turn the slide upside down. Push the recoil spring assembly forward and lift it up, away from the barrel and slide.",
    "box": "none",
-   "prose": "⛔ If the lever will not turn by hand either way, stop here and clean the pistol with the slide on. Never use a tool on the lever, and never press the trigger to make it move."
+   "prose": "Forward comes first, because the rear of the assembly is braced against the barrel. Before it comes out, note which end faces the muzzle and how its rear end sits centered on the barrel; HK shows an off-center spring as the wrong way to put it back.",
+   "quote": "carefully push the recoil spring assembly forward and upward, separating the recoil spring assembly from the barrel and slide",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 5, Disassembly, step 4, printed p.23",
+   "warn": "Components, such as springs, are under pressure and could cause serious injury.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "A pull-down trigger guard: slide back, up and off",
-   "action": "Only if the front of your trigger guard pulls down. Pull the front of the trigger guard down; on most pistols built this way it then tips a little to one side and rests against the frame, holding itself open. Draw the slide all the way back, lift its rear end up off the frame, and ease it forward off the barrel. The barrel stays fixed to the frame and the recoil spring stays on the barrel — on this pattern neither is taken out.",
+   "title": "Barrel forward a little, then pressed out through the port",
+   "action": "Tip the barrel slightly forward and press up on its locking block through the ejection port until the barrel comes free of the slide.",
    "box": "none",
-   "prose": "Push the trigger guard back into place once the slide is off, so it cannot catch on anything while you clean."
+   "prose": "The block is seated in the ejection port, which is what holds the barrel in. Pressing on the block frees it; pulling on the muzzle does not.",
+   "quote": "Pivot the barrel slightly forward and press upward on the barrel locking block through the ejection port, separating the barrel from the slide.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 5, Disassembly, step 5, printed p.23"
   },
   {
    "phase": "Strip",
-   "title": "Tabs or lever: spring and barrel out of the slide",
-   "action": "Turn the slide upside down. The recoil spring and its guide rod sit under the barrel and are still under some pressure: push the guide rod gently forward, lift its rear end clear of the barrel, and let it out slowly under your thumb. Note which way round it sat — which end faced the barrel — because it goes back the same way. Then lift the barrel out by its chamber end.",
+   "title": "Field strip complete",
+   "action": "You have the slide, the barrel, the recoil spring assembly, the frame and the magazine: the five parts HK shows as the VP9CC taken down. The slide and frame come no further apart in this book. The magazine does, and it is the deep clean.",
    "box": "none",
-   "prose": "A pull-down trigger guard pistol skips this step: its barrel stays where it is."
-  },
-  {
-   "phase": "Strip",
-   "title": "That is the whole strip",
-   "action": "Nothing else comes apart. The firing pin or striker, the extractor, the sights and everything inside the frame stay exactly as they are — on a pistol with no published procedure, those are work for Heckler & Koch. Lay the parts out in the order they came off, on a clean cloth, away from the edge of the bench.",
-   "box": "none",
-   "prose": "If any part came loose that this guide did not ask for, stop and contact Heckler & Koch before you put the pistol back together."
+   "prose": "HK wants this much apart every time the pistol is cleaned. A rod run in from the muzzle with the slide only locked back leaves dirt and oil building up inside.",
+   "quote": "As with any semi-automatic pistol, your VP9CC should be disassembled into its major components every time it is cleaned.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 6, Cleaning, printed p.30",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the chamber end whenever you can",
-   "action": "With the barrel out, push a brush wet with bore solvent through from the chamber end, a few passes, then dry patches until they come out clean. If your barrel stayed in, lock the slide open and feed a pull-through cord in at the chamber through the ejection port, or work from the muzzle with a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Bore brushed from the chamber end",
+   "action": "Wet a 9 mm bronze bore brush with cleaning solution and scrub from the chamber toward the muzzle, six passes or more. Patch the loosened fouling out. Scrub the outside of the barrel and the locking block with the wet nylon toothbrush and wipe both down.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "Bronze is the brush HK lists for this polygonal bore. A steel one costs accuracy, and the damage does not come out.",
+   "quote": "scrub the bore from the chamber to the muzzle with at least six (6) passes.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 6, Normal Cleaning, Barrel, printed p.31",
+   "warn": "Do not use a steel bore brush which can scratch the polygonal bore and reduce accuracy.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
-   "title": "Breech face, rails and the feed ramp",
-   "action": "Wipe the breech face — the flat at the back of the slide where the cartridge sits — and the slide's rails and the frame's rails with a cloth and a little solvent, using a small nylon brush on the carbon. Wipe the feed ramp at the bottom of the chamber mouth until it is smooth and bright. Use solvent sparingly and keep it out of the frame's internals and the firing-pin hole: what runs in there cannot be wiped back out.",
-   "box": "none"
+   "title": "Barrel and chamber: oiled after firing, dry before it",
+   "action": "After cleaning, oil the barrel and chamber with a quality gun lubricant. Before the pistol is next fired, take that oil back out of both with the cleaning kit.",
+   "box": "none",
+   "prose": "HK’s maintenance plan lists the oil and the de-oil as two separate jobs. The oil protects the bore in storage; left there at the next shot, the excess counts as an obstruction.",
+   "quote": "If any obstruction is found, remove it – including any excess lubricants – before firing so that your pistol will function safely and correctly.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 6, Cleaning, printed p.30; maintenance plan items 2–3, printed p.33"
   },
   {
    "phase": "Clean",
-   "title": "Oil lightly where metal slides on metal",
-   "action": "A thin film of gun oil goes on the slide rails, the frame rails, the outside of the barrel where it rubs the slide, and the barrel's locking surfaces. A drop is enough on each; wipe off anything that runs. No oil goes into the firing-pin hole or into the frame from the outside.",
+   "title": "Slide scrubbed inside, wiped, oiled",
+   "action": "Scrub the inside of the slide with the nylon toothbrush wet with cleaning solution, then lift the loose fouling with a rag and cotton swabs. Wipe the sights clean with a rag. Oil the slide, and oil its guideways before firing.",
    "box": "none",
-   "prose": "Too much oil collects grit and, in the cold, slows the parts it was meant to help."
+   "prose": "Work gently, with the barrel and spring out, so the breech face and the whole length of the guideways can be reached.",
+   "quote": "Gently scrub all internal surfaces of the slide using the nylon toothbrush moistened with cleaning solution.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 6, Normal Cleaning, Slide, printed p.31; maintenance plan items 4–8, printed p.33"
+  },
+  {
+   "phase": "Clean",
+   "title": "Recoil spring cleaned as one assembly",
+   "action": "Clean off the fouling you can see with cleaning solution and a nylon toothbrush, or a rag and cotton swabs, then oil it.",
+   "box": "none",
+   "prose": "HK cleans it whole and gives no procedure for taking it apart. Before firing, HK’s plan has you check both its function and its condition.",
+   "quote": "Remove all visible fouling using cleaning solution, a nylon toothbrush or a rag and cotton swabs.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 6, Normal Cleaning, Recoil spring assembly, printed p.31; maintenance plan item 9, printed p.33"
+  },
+  {
+   "phase": "Clean",
+   "title": "Frame: where the slide rides and where the barrel unlocks",
+   "action": "Scrub the carbon off the frame gently with the wet nylon toothbrush, then lift it with a rag and cotton swabs. Oil the guide rails and the trigger mechanism after firing.",
+   "box": "none",
+   "prose": "Two places get the attention: the area the slide covers, and the block the barrel works against as it unlocks.",
+   "quote": "Concentrate on the area normally covered by the slide and the unlock block area that interfaces with the barrel.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 6, Normal Cleaning, Frame Assembly, printed p.31; maintenance plan items 10–12, printed p.33"
+  },
+  {
+   "phase": "Clean",
+   "title": "Top of the magazine",
+   "action": "With the magazine empty, scrub the follower and the feed lips gently with the wet nylon toothbrush, then wipe the whole magazine with a rag and cotton swabs.",
+   "box": "none",
+   "prose": "The routine clean leaves it assembled. HK’s lubrication plan gives the magazine no oil.",
+   "quote": "Gently scrub the top of the magazine, concentrating on the follower and feed lips",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 6, Normal Cleaning, Magazine, printed p.31; maintenance plan items 17–18, printed p.34"
   },
   {
    "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the slide, the frame and the barrel for cracks, the recoil spring for kinks or a broken coil, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Heckler & Koch.",
+   "title": "Look it over while it is apart",
+   "action": "Check for damaged or missing parts, cracks, burrs, dents, corrosion, parts that should move or spring and do not, looseness that was not there before, and too little lubricant.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until Heckler & Koch has seen it."
+   "prose": "Looseness is the one that needs a memory: it only means something against how the part felt when it was right.",
+   "quote": "During and after cleaning, visually inspect the pistol and its components for any irregularities that may cause problems or stoppages during operation.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 6, Inspection, printed p.32"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Heckler & Koch VP9CC, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Heckler & Koch, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Clean",
+   "title": "After 600 cartridges, or after grit or water",
+   "action": "Major cleaning is normal cleaning plus two things: the magazine comes apart, and every part is rinsed or soaked in solution and scrubbed. Do the normal clean first. HK calls for this after 600 cartridges, and after sand, dust, water or any other dirt you can see.",
+   "box": "none",
+   "prose": "Water counts even when the pistol looks clean, and HK singles out saltwater.",
+   "quote": "Performed after the firing of 600 cartridges or when the pistol is exposed to, or contaminated with:",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 6, Cleaning Intervals and Major Cleaning, printed p.31"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine empty, floor plate slid forward",
+   "action": "Glasses on, live ammunition off the bench, and every round out of the magazine. Push the locking plate in through the hole in the floor plate with a 6 mm (.25 in.) pin punch and slide the floor plate slightly forward.",
+   "box": "none",
+   "prose": "The locking plate is what stops the floor plate sliding, so push it in fully before you slide. Point the base of the magazine away from your own face and everyone else’s from here on.",
+   "quote": "Using pin punch, push in magazine locking plate (A) and slide magazine floor plate forwards slightly (B)",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 5, Magazine Disassembly, step 1, printed p.28",
+   "warn": "Be aware of the force exerted by the magazine spring while removing and installing the magazine floorplate.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Floor plate off; locking plate, spring and follower out",
+   "action": "Keep a thumb over the opening as you pull the floor plate off, let the spring up slowly, then take out the locking plate, the spring and the follower.",
+   "box": "none",
+   "prose": "Note which way the follower sits on the spring and the spring on the locking plate; HK’s assembly steps send you back to those positions. If you have 10- and 12-round magazines, do them one at a time so their parts cannot be swapped.",
+   "quote": "Remove magazine locking plate, magazine spring and follower.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 5, Magazine Disassembly, steps 2–3, printed p.28",
+   "warn": "Magazine springs and followers are optimized for their specific capacity. Ensure magazines are reassembled with the correct capacity-specific components.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Everything rinsed or soaked, and scrubbed",
+   "action": "Rinse the parts with cleaning solution or immerse them in it, and scrub each one thoroughly with a nylon brush. Use a bottle brush inside the magazine housing and a rag on the outside, the follower and the spring.",
+   "box": "none",
+   "prose": "HK does not normally recommend an ultrasonic cleaner: it can strip the colored reference marks off the frame and the extractor, and the extractor’s red mark is the loaded chamber indicator.",
+   "quote": "All parts should be rinsed with or immersed in cleaning solution and thoroughly scrubbed with a nylon brush.",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 6, Major Cleaning, printed p.31; maintenance plan items 17–18, printed p.34",
+   "warn": "Use of ultrasonic cleaning machines can result in the unwanted removal of colored reference markings of the frame assembly, extractor and control lever (where applicable).",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dried right through, then oiled again",
+   "action": "Dry every part with compressed air, or with a rag and cotton swabs, with glasses on. Then oil the pistol again: the slide and its guideways, the recoil spring, the frame’s guide rails, the trigger mechanism and the barrel. The magazine goes back dry.",
+   "box": "none",
+   "prose": "The soak took off the oil the routine clean put on, so oiling is done again here. Dry comes first: solution trapped in the slide or frame thins whatever oil goes over it.",
+   "quote": "All components should be thoroughly dried after being coated in cleaning solutions of any kind before reassembly",
+   "cite": "VP9CC SERIES — OPERATOR'S MANUAL — May 2026, HKUSA 51001819 - 052026 — Section 6, Cleaning, printed p.30; Major Cleaning, printed p.31; maintenance plan, printed pp.33–34",
+   "warn": "Exercise caution if using compressed air.",
+   "warnSrc": "maker"
+  }
+ ],
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BARREL",
    "tasks": [
-    "Brush wet with bore solvent, from the chamber end whenever the barrel is out",
-    "Dry patches until clean, then a lightly oiled patch for storage",
-    "A dry patch through before the next shot"
+    "Bore: wet 9 mm bronze brush, chamber to muzzle, six passes or more",
+    "Patches until the loose fouling is out",
+    "Outside and locking block: wet nylon toothbrush, then rag and swabs",
+    "Barrel and chamber oiled after cleaning; oil removed again before firing",
+    "⛔ No steel bore brush"
    ]
   },
   {
-   "name": "BREECH, RAILS & FEED RAMP",
+   "name": "SLIDE",
    "tasks": [
-    "Breech face wiped, carbon off with a nylon brush",
-    "Slide rails and frame rails wiped",
-    "Feed ramp wiped smooth and bright",
-    "⛔ No solvent or oil into the firing-pin hole or the frame's internals"
+    "Inside surfaces: wet nylon toothbrush",
+    "Loose fouling off with rag and cotton swabs",
+    "Sights wiped with a rag",
+    "Lube: the slide after cleaning, its guideways before firing"
    ]
   },
   {
-   "name": "LUBRICATION",
+   "name": "RECOIL SPRING ASSEMBLY",
    "tasks": [
-    "A thin film on the slide rails and the frame rails",
-    "A drop on the barrel where it rubs the slide, and on its locking surfaces",
-    "Excess wiped off"
+    "Visible fouling off with solution and toothbrush, or rag and swabs",
+    "Lube: light oil after cleaning",
+    "Function and condition checked before firing"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "FRAME",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
+    "Carbon off: the area under the slide and the unlock block",
+    "Loose fouling off with rag and cotton swabs",
+    "Lube: guide rails and trigger mechanism"
    ]
   },
   {
-   "name": "STORAGE",
+   "name": "MAGAZINE",
    "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Empty: follower and feed lips with the wet toothbrush",
+    "Whole magazine wiped with rag and swabs"
    ]
   }
  ],
@@ -145,40 +266,57 @@
    {
     "g": 0,
     "steps": [
-     9
+     9,
+     10
     ]
    },
    {
     "g": 1,
     "steps": [
-     10
+     11
     ]
    },
    {
     "g": 2,
     "steps": [
-     11
+     12
     ]
    },
    {
-    "s": 12
-   },
-   {
     "g": 3,
-    "steps": []
+    "steps": [
+     13
+    ]
    },
    {
     "g": 4,
-    "steps": []
+    "steps": [
+     14
+    ]
+   },
+   {
+    "s": 15
    }
   ]
  },
  "reassembly": [
-  "Tabs or lever: the barrel back into the slide, then the recoil spring and guide rod back under it, the same way round as they came out.",
-  "Tabs or lever: the slide back onto the frame rails from the front and drawn fully back — it should glide without catching. On a lever pistol, turn the lever back up until it stops.",
-  "Pull-down trigger guard: trigger guard down, the slide fitted over the barrel from the front, drawn fully back, its rear lowered onto the frame and let run forward; then the trigger guard pushed back into place.",
-  "Work the slide several times by hand with an empty magazine in: it should run smoothly, and lock open on the empty magazine if your pistol has a slide stop.",
-  "Take the magazine out again before the function check."
+  "Glasses on and the base of the magazine pointed away from faces. Follower onto the magazine spring, and the spring onto the locking plate, both in the positions they came out in.",
+  "⛔ Only this magazine’s own spring and follower: HK warns against a 10-round spring or follower in a larger magazine, because wrong parts may cause malfunctions.",
+  "Follower, spring and locking plate pressed into the housing. Hold the locking plate in and slide the floor plate on from the front until the plate catches in it; listen for the click.",
+  "Check the magazine: the follower slides up and down freely under spring force and rises nearly flush with the bottom of the feed lips. If not, take it apart and do it again.",
+  "Barrel into the slide, then pushed to the rear until it locks with the slide.",
+  "⛔ Recoil spring assembly into the slide the way round it came out, its rear end braced on the control surfaces on the barrel and the whole assembly centered. HK’s figure marks a spring sitting off to either side as wrong.",
+  "With no magazine in the well and the disassembly lever still down, set the slide assembly on the frame and pull it all the way back until the slide release can be pushed up to hold it there.",
+  "Turn the disassembly lever to the rear and let the slide go forward.",
+  "Function check before any live ammunition."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the slide: it runs fully back and returns fully forward, and it locks open on an empty magazine if your pistol has a slide stop. Any safety or decocker you can see moves through each of its positions on the empty pistol. This check never asks you to press the trigger — whether a pistol of unknown design tolerates dry firing is a question for Heckler & Koch."
+ "fncheck": "HK calls this check essential after every reassembly. Clear the pistol again first, with the full clearing procedure. Rack the slide three or four times quickly, finger off the trigger and outside the guard: it should move freely under the recoil spring without binding or locking up. Let the slide forward. With the pistol EMPTY and pointed in a safe direction, pull the trigger and listen for a click. Keep the trigger held back, rack the slide and let it return to battery, then release the trigger and listen for the click of the reset. Insert an EMPTY magazine and rack the slide: it should lock back. Take the empty magazine out and make sure the pistol is clear. If any part of this gives trouble, HK asks you to call its Customer Service.",
+ "reassemblyRoutine": [
+  "Barrel into the slide, then pushed to the rear until it locks with the slide.",
+  "⛔ Recoil spring assembly into the slide the way round it came out, its rear end braced on the control surfaces on the barrel and the whole assembly centered. HK’s figure marks a spring sitting off to either side as wrong.",
+  "With no magazine in the well and the disassembly lever still down, set the slide assembly on the frame and pull it all the way back until the slide release can be pushed up to hold it there.",
+  "Turn the disassembly lever to the rear and let the slide go forward.",
+  "Function check before any live ammunition."
+ ],
+ "deepAfterClean": true
 }

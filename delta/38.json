@@ -1,8 +1,28 @@
 {
  "_doc": "Everything a client holding version 38 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 38,
- "to": 43,
+ "to": 44,
  "rows": [
+  {
+   "id": "browningsuperposed",
+   "maker": "Browning",
+   "model": "Superposed",
+   "chambering": "12 GA/20 GA",
+   "category": "Over-under shotgun",
+   "family": "NEW-BROWNING-SUPERPOSED",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": true,
+   "guideId": "browningsuperposed",
+   "guideSha256": "967edbc09a306d6a93ae0588b8606317d2f17376b8be43c49211c0b9bb75489f",
+   "cal": "{\"chs\":[\"12 GA\",\"20 GA\"]}",
+   "calSha256": "06d8b1023793ced7d2e40dadbb66a3ff8cdd71acc184c7e7245a5acff5226894",
+   "calV": 34
+  },
   {
    "id": "centuryarmscenturion11",
    "maker": "Century Arms",
@@ -56,6 +76,25 @@
    "guide": true,
    "guideId": "taurusrpc",
    "guideSha256": "9daac578e2e2d5305bae2cd96e1bc71bb5d69b5b3ab82c9af1650aac93861502",
+   "cal": "{\"chs\":[\"9mm\"]}",
+   "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
+   "calV": 38
+  },
+  {
+   "id": "hecklerkochvp9cc",
+   "maker": "Heckler & Koch",
+   "model": "VP9CC",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-HECKLERKOC-VP9CC",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "hecklerkochvp9cc",
+   "guideSha256": "7122f903b372ea0f12daef94d78e5f35c058bd63b82b413611ab68bb4a5ddc70",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 38
