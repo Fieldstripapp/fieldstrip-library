@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 15 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 15,
- "to": 38,
+ "to": 39,
  "rows": [
   {
    "id": "radianmodel1",
@@ -25562,6 +25562,208 @@
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"5.56x45 / .223 (10\\\" and longer), 6.8 SPC, 7.62x51, .308 (12\\\"), 300 Win (18\\\"); not full-auto rated\",\"rt\":\".300 Win Mag\"}",
    "calSha256": "5226dff7121511834f115678f761b6633b160b546bb9f48d755282836badc98b",
    "calV": 38
+  },
+  {
+   "id": "sigsauerp385",
+   "maker": "SIG Sauer",
+   "model": "P385",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-SIGSAUER-P385",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "sigsauerp385",
+   "guideSha256": "decf40cab4e1e1104be4de6bb5458275f5c722abcaa22dbcda762a8c988cdab6",
+   "bestPractices": true,
+   "cal": "{\"chs\":[\"9mm\"]}",
+   "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
+   "calV": 39
+  },
+  {
+   "id": "czduty40",
+   "maker": "CZ",
+   "model": "DUTY 4.0",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-CZ-DUTY40",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "czduty40",
+   "guideSha256": "039fec10e008bf0e27808e76434fd42ca305978f8972e8ff47eb61457361248d",
+   "bestPractices": true,
+   "cal": "{\"chs\":[\"9mm\"]}",
+   "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
+   "calV": 39
+  },
+  {
+   "id": "czduty40ms",
+   "maker": "CZ",
+   "model": "DUTY 4.0 MS",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-CZ-DUTY40MS",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "czduty40ms",
+   "guideSha256": "b55f3fc6fd875f3d5a1fb31cf467193f75a55a2c25cec11bd92812a92bfc7b98",
+   "bestPractices": true,
+   "cal": "{\"chs\":[\"9mm\"]}",
+   "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
+   "calV": 39
+  },
+  {
+   "id": "sigsauer516g3",
+   "maker": "SIG Sauer",
+   "model": "516G3",
+   "chambering": "—",
+   "category": "AR-pattern rifle (piston)",
+   "family": "NEW-SIGSAUER-516G3",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "sigsauer516g3",
+   "guideSha256": "5155341de876af90899a5e70907222d3b597ea6a456b4e622b9148cb37ddcb0f",
+   "bestPractices": true
+  },
+  {
+   "id": "seekinsprecisionsic",
+   "maker": "Seekins Precision",
+   "model": "SIC",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "NEW-SEEKINSPRE-SIC",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".300 Norma",
+    ".338 Norma Mag",
+    ".338 Lapua"
+   ],
+   "guide": true,
+   "guideId": "seekinsprecisionsic",
+   "guideSha256": "f82037f90531585545a202061aff7134500ffe6473158522728b39443301ab4c",
+   "bestPractices": true,
+   "cal": "{\"chs\":[\".300 Norma\",\".338 Norma Mag\",\".338 Lapua\"]}",
+   "calSha256": "ca5670244ba0b2bb1967dd7567efbaaeb5fd1a1d4a392314747fa76a06b02efb",
+   "calV": 39
+  },
+  {
+   "id": "mossbergmavericksa",
+   "maker": "Mossberg",
+   "model": "Maverick SA",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "NEW-MOSSBERG-MAVERICKSA",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossbergmavericksa",
+   "guideSha256": "6612dd8b38038ef159026be6e6b0cfad230d3a31b5e0168dc6090c364010ea1a",
+   "bestPractices": true,
+   "cal": "{\"chs\":[\"12 GA\"]}",
+   "calSha256": "3b3f3bc4692b2825de5aba972af10e9d5fbe667bde053b7b67ebf2747fd901c2",
+   "calV": 39
+  },
+  {
+   "id": "tristarviperg3",
+   "maker": "TriStar",
+   "model": "Viper G3",
+   "chambering": "multi",
+   "category": "Semi-auto shotgun",
+   "family": "NEW-TRISTAR-VIPERG3",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA",
+    "28 GA",
+    ".410"
+   ],
+   "guide": true,
+   "guideId": "tristarviperg3",
+   "guideSha256": "b2b04a4adf73f303e01c3ab46435df9a1e8972dc86ac5ab68da49a421c67f433",
+   "bestPractices": true,
+   "cal": "{\"chs\":[\"12 GA\",\"20 GA\",\"28 GA\",\".410\"]}",
+   "calSha256": "a44e9ae04da87074f5a24a92e14ea2c10bd2a7778aa8854eb4f086064f3269b7",
+   "calV": 39
+  },
+  {
+   "id": "retayace",
+   "maker": "Retay",
+   "model": "ACE",
+   "chambering": "multi",
+   "category": "Semi-auto shotgun",
+   "family": "NEW-RETAY-ACE",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA",
+    "28 GA"
+   ],
+   "guide": true,
+   "guideId": "retayace",
+   "guideSha256": "eb5530812a3f126dc6b6e581b7420bae46ab63c76f2de03bb42024df7f19385a",
+   "bestPractices": true,
+   "cal": "{\"chs\":[\"12 GA\",\"20 GA\",\"28 GA\"]}",
+   "calSha256": "23295db2cc1a61925b8ab066032243399c6e13e91a418392454800aa36f38fd4",
+   "calV": 39
+  },
+  {
+   "id": "sigsauerhexium762",
+   "maker": "SIG Sauer",
+   "model": "HEXIUM 7.62",
+   "chambering": ".30 cal",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "sigsauerhexium762",
+   "guideSha256": "067e062194004603e74f2ede68ffd86d6437ba3e590fe2748419bed7799eb4e3",
+   "bestPractices": true,
+   "cal": "{\"chs\":[\".30 cal\"]}",
+   "calSha256": "3a2b0fdd1a4e113aabe828c1fe71a577d39ad905e962ff3da626f82a84a9a764",
+   "calV": 39
+  },
+  {
+   "id": "sigsauertincan",
+   "maker": "SIG Sauer",
+   "model": "TiN CAN",
+   "chambering": ".30 cal",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "sigsauertincan",
+   "guideSha256": "b941bd973f0e6a508d55bd2336329e02da0d5d02135ced786810ea675898627c",
+   "bestPractices": true,
+   "cal": "{\"chs\":[\".30 cal\"]}",
+   "calSha256": "3a2b0fdd1a4e113aabe828c1fe71a577d39ad905e962ff3da626f82a84a9a764",
+   "calV": 39
   }
  ],
  "removed": [
