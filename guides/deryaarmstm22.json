@@ -1,97 +1,267 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAR",
- "bpTemplateVersion": 1,
  "row": "deryaarmstm22",
  "make": "Derya Arms",
  "model": "TM22",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model. Semi-auto rifles of this kind come apart in too many different ways for a general guide to say how yours does, so this one does not take it apart at all: it clears it, cleans the bore and everything you can reach with the action locked open, and looks it over. Done properly, that is a full routine clean.\n\nListed in Fieldstrip as .22 LR. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "TM22 User Manual — 11/2025 (UNKNOWN — no copyright line printed; the back cover reads 11/2025)",
+ "sourceSha256": "206ab92f2488951037f7c7fc87a64118a6a9ffddbaf9ab5ac1be954c3581bb85",
+ "cleanIntro": "Derya prints three strip chapters in its TM22 book, for three rifles that are built differently. Every strip step here names the version it belongs to. Find yours first, then skip the steps marked for the other two.\n\nTM22 Standard: a one-piece rifle stock that runs forward under the barrel, with a screw in its underside. TM22: a pistol grip and a slotted tube forend around the barrel, with a rail over the receiver. TM22 Feather: a pistol grip, a carry handle over the receiver and a tall front sight clamped to the barrel.\n\nThe book does not name the Timekeeper, or give a chapter to the Flash, Metal, Lever, Pump, Bolt or Pull. If your rifle does not match one of the three descriptions, clean it without taking it apart and ask Derya.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Safe direction, finger off the trigger, safety on",
+   "action": "Point the rifle in a safe direction and keep your finger off the trigger. Put the safety on. On the TM22 and the Feather, move the safety lever to the white position. On the Standard, the safety is the button just behind the trigger; set it as photo 1 of the book's safety guide shows (printed p.17).",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "The safety buys you a moment and nothing more. Treat the rifle as loaded until you have looked into the chamber yourself.",
+   "quote": "When stored or not in use, rifles should always be unloaded and move the safety lever to the WHITE position to block the trigger of your rifle.",
+   "cite": "TM22 User Manual — 11/2025 — Important Warning, item 3, printed p.4"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, action back and locked",
-   "action": "If the rifle takes a detachable magazine, take it out before you touch anything else. Pull the charging handle all the way back and lock the action open if your rifle holds open; if it does not, hold it back. Keep your hand and thumb out of the bolt's path the whole time — on some rifles the action can run forward on its own when the magazine follower is pressed.",
+   "title": "Magazine out, then treat it as still loaded",
+   "action": "Take the magazine out and set it well away. On the TM22 and the Feather the catch is the button on the side of the receiver above the magazine. On the Standard it is the release lever at the magazine. Then check whether the rifle is loaded: a round can still be in the chamber.",
    "box": "none",
-   "prose": "If the magazine is fixed, work the action until nothing more comes out, then go on to the next step."
+   "prose": "The order matters. Opening the bolt with the magazine still in can feed the next round straight into the chamber.",
+   "quote": "Remove the magazine. Check to see if the gun is loaded.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22, step 1, printed p.7"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Bolt back, look through the port into the chamber",
+   "action": "Draw the charging handle all the way back and hold it. Let anything in the chamber come out in a safe direction. Look through the ejection port into the chamber, then into the empty magazine opening. Let the bolt forward under control, draw it back and look a second time. Move all ammunition off the bench.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Derya Arms with the gun pointed somewhere safe."
+   "prose": "Use the light, not the sound. A .22 case can stay in the chamber after the handle has been worked, and only your eyes will find it. This page of Derya's book borrows some shotgun wording; the checks are the same.",
+   "quote": "CHECK EJECTION PORT, LOADING PORT AND CHAMBER VISUALLY.",
+   "cite": "TM22 User Manual — 11/2025 — Safety Precautions, printed p.6",
+   "warn": "DO ALL PROCEDURES (DISASSEMBLY, CLEANING AND OTHER MAINTENANCE) ONLY WHEN THE FIREARM IS UNLOADED.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "No takedown — and that is deliberate",
-   "action": "Leave the rifle in one piece. Top covers, takedown pins, recoil springs, bolt carriers and gas systems all differ across rifles of this kind, and a guide that cannot see your rifle cannot honestly tell you which control does what. Everything in this clean is done with the action locked open.",
+   "title": "Standard: the screw under the handguard, stock off",
+   "action": "TM22 Standard only. Turn the rifle upside down. With a 5mm Allen key, take out the screw in the underside of the stock ahead of the trigger. Ease the stock, which Derya calls the lower receiver, away from the upper receiver and barrel.",
+   "box": "limit",
+   "prose": "It should lift away with light hand pressure once the screw is out. If it hangs up, check that the screw is fully out and the safety and magazine are clear; levering it can crack the polymer.",
+   "quote": "Using a 5mm Allen key, remove the screw located under the handguard.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Standard, step 2, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Standard: two 3mm screws, trigger group up and out",
+   "action": "TM22 Standard only. With the upper receiver still upside down, take out the front screw and then the rear screw with a 3mm Allen key. Lift the trigger group straight up off the receiver and set it aside in one piece.",
+   "box": "limit",
+   "prose": "The barrel stays where it is. The line printed beside photo 6 says to pull the barrel, but the photo shows the trigger group lifting out, and the assembly page puts the trigger group back at that point. Follow the photo. Do not work the hammer or trigger while the group is off the rifle.",
+   "quote": "Using a 3mm Allen key, remove the rear screw located under the upper receiver.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Standard, step 5, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Standard: charging handle screw, then the handle",
+   "action": "TM22 Standard only. Take out the charging handle screw with the 3mm Allen key, then pull the charging handle out of its slot.",
    "box": "none",
-   "prose": "⛔ No pin is pushed, no cover lifted and no screw turned. Anything beyond the outside and the open breech is work for Derya Arms."
+   "prose": "Note which side the handle was on. It can be fitted to either side, so an empty slot will not remind you. The handle has to come out before the bolt can.",
+   "quote": "Pull the Charging handle out from its slot.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Standard, step 8, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Standard: rear pin tapped out, cap and spring eased out",
+   "action": "TM22 Standard only. Wear eye protection. Hold the cap at the rear of the upper receiver with your thumb, and tap the rear pin out gently with a rubber mallet and a thin metal rod. Then let the cap come back slowly and draw out the recoil spring behind it.",
+   "box": "none",
+   "prose": "The pin is what holds the recoil spring in. Take your thumb off and the cap can jump across the room, so let the spring push against you until it stops pushing.",
+   "quote": "Slowly remove the cap from the upper receiver, allowing the spring to come out.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Standard, step 10, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Standard: lift the bolt out",
+   "action": "TM22 Standard only. With the receiver upside down, lift the bolt out of it. Leave the bolt in one piece.",
+   "box": "none",
+   "prose": "It comes up freely when the handle and spring are out. If it binds, one of those is still in place. This is the end of the Standard's disassembly in the book.",
+   "quote": "Remove the bolt from the upper receiver.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Standard, step 11, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "TM22: forend screws out, forend forward",
+   "action": "TM22 only. With an Allen wrench, take out the forend screws where the forend meets the receiver: the photo marks one above and one below. Pull the forend forward off the barrel.",
+   "box": "none",
+   "prose": "Both screws have to be out before it will slide. If it stops, look for the second one on the opposite side instead of twisting the tube.",
+   "quote": "Unscrew the forend and receiver screws by using an allen wrench.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22, step 2, printed p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "TM22: barrel nut off with the choke tube wrench",
+   "action": "TM22 only. Unscrew the barrel nut with the choke tube wrench. Slide the nut forward off the barrel, then pull the barrel forward out of the receiver.",
+   "box": "none",
+   "prose": "Look at the barrel as it comes out: a small pin near its rear end sets which way round it goes back. Keep it out of the solvent tray, because it is easy to lose.",
+   "quote": "Unscrew the barrel nut with a choke tube wrench.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22, step 4, printed p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "TM22: charging handle screw out",
+   "action": "TM22 only. Unscrew the charging handle screw with an Allen wrench and take the handle off.",
+   "box": "none",
+   "prose": "Look at the handle and its channel before it leaves your hand. Derya tells you to mind those channels when it goes back.",
+   "quote": "Unscrew the charging handle screw with an allen wrench.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22, step 7, printed p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "TM22: two cover screws, upper off the lower",
+   "action": "TM22 only. Loosen the front and rear screws in the top rail with an Allen wrench, then lift the upper straight off the lower.",
+   "box": "none",
+   "prose": "Keep your face to one side. The recoil spring and the rod it runs on lie in the top of the bolt, and they are exposed once the cover is off.",
+   "quote": "Untighten the screws with an allen wrench.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22, step 8, printed p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "TM22: main stick and spring up, then the bolt",
+   "action": "TM22 only. Wear eye protection. Hold the main stick and the main spring together, lift them up and out, and let the spring relax under control. Then lift the bolt up out of the lower. Leave the bolt in one piece.",
+   "box": "none",
+   "prose": "The spring is under load until it clears the receiver. Lift the stick and spring as one, or the spring leaves on its own.",
+   "quote": "Remove the main stick and the main spring by pulling upward.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22, step 10, printed p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "TM22: stock support, only if it has to come off",
+   "action": "TM22 only, and not needed for cleaning. The book ends by loosening the nut at the rear of the receiver and unscrewing the stock support in the direction its photo arrows show.",
+   "box": "none",
+   "prose": "Nothing that needs cleaning is behind it. Leave it on unless you are replacing the stock, and the rifle goes back together with one fewer part to tighten.",
+   "quote": "Unscrew the stock support by turning in arrow direction.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22, step 13, printed p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Feather: front sight screws, sight off the front",
+   "action": "TM22 Feather only. Unscrew the two front sight screws under the barrel with an Allen wrench and slide the front sight forward off the barrel.",
+   "box": "none",
+   "prose": "Mark where the sight sat before you loosen it. Where it goes back decides your zero, so check your zero again before you rely on it.",
+   "quote": "Unscrew the front sight screws by using an allen wrench.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Feather, step 2, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Feather: forend nut, sling swivel and drop-in forward",
+   "action": "TM22 Feather only. Unscrew the forend nut in the direction of the photo arrow, then pull the sling swivel and the forend drop-in forward off the barrel.",
+   "box": "none",
+   "prose": "Lay the parts down in the order they came off. They go back in the reverse order, and the forend is held by them.",
+   "quote": "Unscrew the forend nut by turning in arrow direction.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Feather, step 4, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Feather: carry handle screw, forend and handle off",
+   "action": "TM22 Feather only. Unscrew the carry handle screw. Pull the forend forward off the barrel, then pull the carry handle backward off the rail.",
+   "box": "none",
+   "prose": "The two parts leave in opposite directions: the forend to the front, the handle to the rear. Forcing the handle forward works against the rail that holds it.",
+   "quote": "Pull the carry handle to backward.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Feather, step 8, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Feather: barrel nut off, barrel forward",
+   "action": "TM22 Feather only. Unscrew the barrel nut with the choke tube wrench and slide it forward off the barrel. Pull the barrel forward out of the receiver.",
+   "box": "none",
+   "prose": "Watch for the barrel pin near the rear end. It has its own seat in the receiver and decides how the barrel goes back.",
+   "quote": "Unscrew the barrel nut with a choke tube wrench. Remove the barrel nut by pulling in arrow direction.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Feather, step 9, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Feather: charging handle, cover screws, upper off",
+   "action": "TM22 Feather only. Unscrew the charging handle screw with an Allen wrench and take the handle off. Loosen the front and rear screws in the top rail, then lift the upper off the lower.",
+   "box": "none",
+   "prose": "The handle has to be out first, because it runs through the side of the receiver into the bolt. Keep your face to one side as the cover lifts: the spring lies under it.",
+   "quote": "Detach upper from lower.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Feather, step 13, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Feather: main stick and spring up, then the bolt",
+   "action": "TM22 Feather only. Wear eye protection. Hold the main stick and main spring together, lift them out and let the spring relax under control. Then lift the bolt up out of the lower. Leave the bolt in one piece.",
+   "box": "none",
+   "prose": "The spring is under load until it clears the receiver, so the stick and the spring come up as one.",
+   "quote": "Remove the main stick and the main spring by pulling upward.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Feather, step 14, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete: the bolt is out",
+   "action": "Whichever version you have, the bolt, the recoil spring and the charging handle are now on the bench. The TM22 and the Feather have the barrel off as well; the Standard keeps its barrel in the upper receiver and has its trigger group off in one piece.",
+   "box": "none",
+   "prose": "Stop here. Derya draws the extractors, firing pin and trigger parts but prints no way to take them out, and sends repairs to its distributor or to Derya.",
+   "quote": "If you need magazines, spare parts or repair, contact our authorized distributor in your country or Derya Arms ONLY.",
+   "cite": "TM22 User Manual — 11/2025 — Important Warning, item 9, printed p.5",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the muzzle or by pull-through",
-   "action": "Work from the muzzle with a cleaning rod and a rod guide so the rod never rubs the crown, or feed a pull-through cord in at the open chamber and draw it out of the muzzle. Brush wet with bore solvent, a few passes, then dry patches until they come out clean. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
-   "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "title": "Barrel and chamber left clean and dry",
+   "action": "Clean the bore and the chamber, working from the chamber end: the bare barrel on a TM22 or a Feather, the barrel in its receiver on a Standard. Finish with dry patches and look through the bore against the light.",
+   "box": "limit",
+   "prose": "Derya prints no rod, brush or solvent routine. What it does print is the result: no solvent, no oil and nothing else left in the barrel. A wet bore is a mistake here, not extra care.",
+   "quote": "The barrel should not have any residue from bore cleaning solvent or oil, or any other foreign material inside the bore, chamber or choke.",
+   "cite": "TM22 User Manual — 11/2025 — Important Warning, item 10, printed p.5",
+   "warn": "NEVER try to clear an obstruction in your barrel by firing another ammunition!",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
-   "title": "The breech you can reach through the open action",
-   "action": "With the action locked open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach through the ejection port, using a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action: what runs inside cannot be wiped back out, and no oil goes in from the outside either.",
-   "box": "none"
+   "title": "Standard: bolt and the receiver it runs in",
+   "action": "On the Standard, wipe the bolt clean all over, and wipe out the inside of the upper receiver where the bolt runs. Then lubricate both: the photo's arrows point at the bolt and at the receiver it sits in.",
+   "box": "none",
+   "prose": "The book names no oil and no amount, so use a thin film of a light gun oil. Oil standing in a .22 receiver collects the powder and wax that the next clean has to remove.",
+   "quote": "Proceed to clean and lubricate the parts as shown in the image.",
+   "cite": "TM22 User Manual — 11/2025 — Disassembly of the TM22 Standard, step 12, printed p.15"
   },
   {
    "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
+   "title": "TM22 and Feather: bolt, spring and receiver",
+   "action": "On the TM22 and the Feather, wipe the bolt, the main stick, the main spring and the inside of the lower where the bolt runs. Leave a thin film of oil on the metal that slides.",
+   "box": "none",
+   "prose": "These two chapters print no cleaning step of their own. Derya asks for regular care and cleaning in general terms, and the parts in your hands are the ones its disassembly reaches.",
+   "quote": "Regular care and cleaning of your rifle is key to its proper functionality and reliability.",
+   "cite": "TM22 User Manual — 11/2025 — Maintenance Instructions, item 2, printed p.3"
   },
   {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Derya Arms.",
+   "phase": "Clean",
+   "title": "Long storage: oiled, then wiped dry before use",
+   "action": "For a long storage, oil the rifle heavily with an acid-free lubricant and coat the outside with an anti-rust oil or grease. Keep it in a dry room and out of leather or anything else that holds moisture. Before you shoot it again, clean it and wipe it dry.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until Derya Arms has seen it."
+   "prose": "The second half is the part people forget. The heavy oil that protects the rifle in storage is exactly what must not be in the barrel when you fire it.",
+   "quote": "WHEN STORING THE GUN FOR A PROLONGED PERIOD OF TIME, IT IS NECESSARY TO OIL IT HEAVILY WITH AN ACID-FREE LUBRICANT.",
+   "cite": "TM22 User Manual — 11/2025 — Safety Precautions, printed p.6"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Derya Arms TM22, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Derya Arms, not onto the bench.",
+ "deepAbsentReason": "There is no separate deep clean in the TM22 book. Each version has one disassembly, and it ends with the bolt lifted out (printed p.7 for the TM22, which then removes only the stock support; p.11 for the Feather; p.15 for the Standard). The bolt's extractors and firing pin, the ejector, the hammer and the trigger parts appear only in the parts lists and drawings (printed pp.9-10, 13-14 and 18-19), with no procedure for taking them apart. Derya sends repairs to its distributor or to Derya Arms only (printed p.5).",
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BARREL",
    "tasks": [
-    "From the muzzle with a rod guide, or a pull-through from the open chamber",
-    "Brush wet with bore solvent, then dry patches until clean",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Bore and chamber cleaned from the chamber end",
+    "Dry patches last, then a look through the bore",
+    "⛔ Never leave solvent, oil or a patch in the bore or chamber",
+    "⛔ Never fire another cartridge to clear a blocked barrel"
    ]
   },
   {
-   "name": "THE OPEN BREECH",
+   "name": "BOLT & RECEIVER",
    "tasks": [
-    "Bolt face and chamber mouth wiped through the ejection port",
-    "Receiver wiped where a cloth reaches",
-    "⛔ No solvent or oil poured or sprayed into the action"
-   ]
-  },
-  {
-   "name": "EXTERIOR",
-   "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
+    "Bolt wiped clean, left in one piece",
+    "Receiver wiped out where the bolt runs",
+    "Thin film of oil on the bolt and the surfaces it runs on"
    ]
   },
   {
    "name": "STORAGE",
    "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Long storage: heavy acid-free oil, anti-rust oil or grease on the outside",
+    "Stored dry, never in leather or anything that holds moisture",
+    "Cleaned and wiped dry before the next shot"
    ]
   }
  ],
@@ -100,33 +270,38 @@
    {
     "g": 0,
     "steps": [
-     4
+     21
     ]
    },
    {
     "g": 1,
     "steps": [
-     5
+     22,
+     23
     ]
    },
    {
     "g": 2,
-    "steps": []
-   },
-   {
-    "g": 3,
     "steps": [
-     6
+     24
     ]
-   },
-   {
-    "s": 7
    }
   ]
  },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Close the action under control, with your hand and thumb out of the bolt's path."
+  "Standard: set the bolt into the upper receiver. Put the spring and then its cap into the rear of the receiver, hold the cap in, and tap the rear pin back into place gently with the rubber mallet.",
+  "Standard: put the charging handle into its slot, on the side you took it from, and tighten its screw with the 3mm Allen key.",
+  "Standard: lower the trigger group into position. Tighten the rear screw under the upper receiver first, then the front screw, both with the 3mm Allen key.",
+  "Standard: fit the stock back onto the upper receiver and tighten the screw under the handguard with the 5mm Allen key.",
+  "TM22: if you removed the stock support, screw it back in, then screw up the pivot nut and tighten it with the choke tube wrench.",
+  "TM22 and Feather: set the bolt on the lower. Push the main stick and main spring forward while pressing them down into place.",
+  "TM22 and Feather: put the upper on the lower and tighten its screws with the Allen wrench.",
+  "TM22 and Feather: put the charging handle back, lining it up with its channels, and tighten its screw.",
+  "TM22 and Feather: push the barrel back into the receiver so the barrel pin and the extension sit in their housing. Screw on the barrel nut and tighten it with the choke tube wrench.",
+  "TM22: pull the forend back into place and screw in the forend screws.",
+  "Feather: slide the carry handle forward onto the rail, pull the forend back into place, and screw in the carry handle screw.",
+  "Feather: pull the sling swivel and forend drop-in back, screw on the forend nut, slide the front sight back to its mark and tighten its screws.",
+  "Derya prints no torque figures. Check again that the rifle is not loaded before a magazine goes near it."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the action: it runs fully back and returns fully forward, and it locks open on an empty magazine if the rifle holds open. Any safety or selector you can see moves through each of its positions. This check never asks you to pull the trigger."
+ "fncheck": "Magazine out and the chamber seen empty. Draw the charging handle fully back and let it forward several times: the bolt should run the whole way and close by itself without catching. Move the safety through both of its positions. See that every screw you took out is back and the barrel does not turn or rock. Derya prints no function check, and this one does not ask you to pull the trigger. If anything binds or is loose, stop and contact Derya Arms."
 }

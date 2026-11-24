@@ -1,8 +1,27 @@
 {
  "_doc": "Everything a client holding version 40 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 40,
- "to": 42,
+ "to": 43,
  "rows": [
+  {
+   "id": "deryaarmstm22",
+   "maker": "Derya Arms",
+   "model": "TM22",
+   "chambering": ".22 LR",
+   "category": "Semi-auto rimfire rifle",
+   "family": "NEW-DERYAARMS-TM22",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR"
+   ],
+   "guide": true,
+   "guideId": "deryaarmstm22",
+   "guideSha256": "ce9ca018e487eab7a9dd1a5510872a92aa93cf0beb54804cf76d6f68fb57ed43",
+   "cal": "{\"chs\":[\".22 LR\"]}",
+   "calSha256": "72425d29707bc933fb12fd1cdf3788137f7a3bb6b41a0e6d049cc6414e4659cb",
+   "calV": 38
+  },
   {
    "id": "sigsauer516g3",
    "maker": "SIG Sauer",
