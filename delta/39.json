@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 39 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 39,
- "to": 40,
+ "to": 41,
  "rows": [
   {
    "id": "centuryarmscenturion11",
@@ -88,6 +88,25 @@
    "cal": "{\"chs\":[\".243 Win\",\".270 Win\",\".30-06\",\".300 Win Mag\",\".308 Win\",\"6.5 Creedmoor\",\"6.5 PRC\",\"6.8 Western\",\"7mm Rem Mag\"]}",
    "calSha256": "e6b21606e7ce5caf420a3029e17a35e0c0d43ed670a18a025c9f6e17ff74e4e0",
    "calV": 38
+  },
+  {
+   "id": "mossbergmavericksa",
+   "maker": "Mossberg",
+   "model": "Maverick SA",
+   "chambering": "12 GA",
+   "category": "Semi-auto shotgun",
+   "family": "NEW-MOSSBERG-MAVERICKSA",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA"
+   ],
+   "guide": true,
+   "guideId": "mossbergmavericksa",
+   "guideSha256": "62c118003d500c2a821584c80c9080b47db71d99899f69cbe2540ae934e25adb",
+   "cal": "{\"chs\":[\"12 GA\"]}",
+   "calSha256": "3b3f3bc4692b2825de5aba972af10e9d5fbe667bde053b7b67ebf2747fd901c2",
+   "calV": 39
   }
  ],
  "removed": []

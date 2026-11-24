@@ -1,96 +1,310 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAS",
- "bpTemplateVersion": 1,
  "row": "mossbergmavericksa",
  "make": "Mossberg",
  "model": "Maverick SA",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model. Semi-auto shotguns come apart in different ways depending on how they work, so this guide does not take yours apart: it clears it, cleans the bore and everything you can reach with the bolt locked back, and looks it over.\n\nListed in Fieldstrip as 12 GA. The gauge and chamber length marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A (not printed (its warranty is effective January 1, 2026))",
+ "sourceSha256": "9c738fd980eefdaeb3e2a889e95de7d00ad488ab9ad4d8b80f720c595a1d3f50",
+ "cleanIntro": "The Maverick SA is a 12 gauge gas-operated autoloader. The front half comes off in two moves, forearm then barrel, with the gas piston riding out inside the barrel's gas cylinder. Behind that, the operating handle pulls out at one point in the bolt's travel, the action and its spring come off the magazine tube, and the trigger housing drops out on one pin.\n\nMossberg recommends a thorough cleaning after every 500 rounds, sooner in dust, dirt or harsh weather or with ammunition that leaves heavy residue, and cleaning and oiling as soon as possible after use. A gun stored for a long time is cleaned and lubricated every six months.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose shell, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Safety pushed fully to the right",
+   "action": "Keep the muzzle pointed in a safe direction and your finger off the trigger. Push the safety button, at the top rear of the trigger guard, from the left until it sticks out on the right and will not move further. Look at the left end: no red strip should show.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "A button left part way across can read as safe and still fire. Push it until it stops, then check it by eye and by feel.",
+   "quote": "To put the safety in “ON” (SAFE) position; button must be pushed from left side of the trigger guard, so it moves all the way to the right until it moves no further (protruding from the right side of trigger guard).",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — MECHANICAL SAFETY, printed p.12",
+   "warn": "During unloading, never allow your fingers or any other object to contact the trigger.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, bolt back and locked",
-   "action": "If the shotgun takes a detachable box magazine, take it out first. Pull the operating handle fully back and lock the bolt open if your gun holds open; if it does not, hold it. Look into the loading port under the action: you want to see the magazine follower with no shell in front of it.",
+   "title": "Work the handle, one shell at a time",
+   "action": "Pull the operating handle fully rearward and let it move forward slowly to close the action. Repeat until no more shells come out.",
    "box": "none",
-   "prose": "⛔ If shells remain in the magazine tube and you do not know your gun's control for releasing them, stop. Never pry a shell out with a tool, and never put a finger into the action to press the carrier."
+   "prose": "Every stroke throws one shell and feeds the next one from the tube into the chamber, so the gun is loaded again each time the action closes until the tube is empty.",
+   "quote": "Pull the Operating Handle fully rearward, then allow it to move forward slowly to close the Action. This procedure will remove and eject the Shotshell in the Chamber, but will load a new one to the Chamber from the Magazine Tube.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — UNLOADING THE FIREARM, printed p.20"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and the loading port, then put a fingertip into the chamber: a shell that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "The action stays open on an empty tube",
+   "action": "Once the tube is empty, pull the operating handle rearward and the action stays back in the open position. Leave it open.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Mossberg with the gun pointed somewhere safe."
+   "prose": "An open bolt is a step, not a proof. The book says never to use the bolt locking back as a guide to whether the gun is empty.",
+   "quote": "Once the Magazine Tube is empty, Action will stay back in the “OPEN” position when you pull the Operating Handle rearward.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — UNLOADING THE FIREARM, printed p.20"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber, elevator, magazine tube: look and feel",
+   "action": "With the action open, look into and feel all three places a shell can be: the chamber, the elevator under it, and the magazine tube. Then move every shell out of the room you will clean in.",
+   "box": "none",
+   "prose": "Keep your fingers clear of the bolt release while you check. With the bolt held back it is under strong spring pressure, and pressing the release drives it forward hard.",
+   "quote": "After unloading always visually and physically inspect the chamber, elevator, and magazine tube to be certain all of the shotshells have been removed, and the firearm is completely unloaded.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — UNLOADING THE FIREARM, printed p.20",
+   "warn": "Do not have fingers or other objects in the ejection port or near the operating handle.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "No takedown — and that is deliberate",
-   "action": "Leave the gun in one piece. How the barrel comes off, and the bolt group behind it, differs between inertia- and gas-operated guns, and on some the recoil spring sits in the stock; a guide that cannot see your gun cannot say how. Everything here is done with the bolt locked back.",
+   "title": "Eye protection on",
+   "action": "Put eye protection on before the magazine cap turns, and keep it on through the cleaning and the reassembly.",
    "box": "none",
-   "prose": "⛔ No magazine cap is unscrewed and no pin is pushed. Anything beyond the outside and the open breech is work for Mossberg."
+   "prose": "The action spring sits on the magazine tube and the bolt is always under spring pressure, and oil spatters when parts let go.",
+   "quote": "Wear eye protection during disassembly and cleaning to protect your eyes from oil spatter or spring loaded components.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — DISASSEMBLY & MAINTENANCE, printed p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine cap off, counter-clockwise",
+   "action": "Turn the magazine cap counter-clockwise until it is clear of the threads, then slide it off the magazine tube.",
+   "box": "none",
+   "prose": "It goes on finger tight, so it should come off by hand.",
+   "quote": "Unscrew the Magazine Cap by turning it counter-clockwise. When it’s clear off the threads, slide it off the Magazine Tube.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Forearm, printed p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Forearm forward off the tube",
+   "action": "Slide the forearm forward, toward the muzzle, until it comes off the magazine tube.",
+   "box": "none",
+   "prose": "With the forearm off you can see the barrel's gas cylinder sitting around the magazine tube. That is what slides off next.",
+   "quote": "Slide the Forearm forward to remove it from the Magazine Tube.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Forearm, printed p.20"
+  },
+  {
+   "phase": "Strip",
+   "title": "Action open once more, then closed",
+   "action": "Pull the operating handle fully rearward so the action stays open. Take one more look at the chamber, keep your fingers out of the ejection port and away from the handle, and press the bolt release button to close the action.",
+   "box": "none",
+   "prose": "This is done with the barrel still on. The bolt goes forward with considerable force, so nothing should be in the port when you press the button.",
+   "quote": "After removing the Forearm, pull the Operating Handle fully rearward. Action will stay back in “OPEN” position. Then, close the Action by pressing the Bolt Release Button.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Barrel Assembly, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Thumb on the bolt, barrel forward and off",
+   "action": "Push the bolt assembly forward with your thumb, toward the barrel, and pull the barrel out of the receiver at the same time. Then slide the barrel all the way off the magazine tube.",
+   "box": "none",
+   "prose": "The thumb on the bolt is what lets the barrel go: the bolt has to move forward with it while the barrel extension clears the receiver. Pulling on the barrel alone is the mistake.",
+   "quote": "While pushing the Bolt Assembly forward (towards the Barrel Assembly) with your thumb, pull the Barrel Assembly out of the Receiver, then slide the Barrel Assembly all the way off the Magazine Tube to remove it completely.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Barrel Assembly, printed p.21",
+   "warn": "Never close the action or pull the trigger while the barrel is removed as damage could result to the firearm.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Find the gas piston",
+   "action": "Look for the gas piston in the barrel's gas cylinder. If it stayed on the magazine tube, slide it forward off the tube and put it in the barrel's gas cylinder so it is not left out later.",
+   "box": "none",
+   "prose": "The gun must never go back together without it. Note which piston you have: the regular one is silver, and the fast or heavy one, for loads of 1500 fps or more or 1 3/4 oz or more, is blue.",
+   "quote": "If the Gas Piston remains on the Magazine Tube after the Barrel is removed, slide the Gas Piston forward to remove it from the Magazine Tube and place it into the Barrel Gas Cylinder.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Barrel Assembly, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Action back slightly, notch to the handle",
+   "action": "Slowly push the action, the bolt and the action arm together, back slightly into the receiver and hold it there against its spring. Then move the bolt until the notch in it lines up with the raised protrusion on the operating handle.",
+   "box": "none",
+   "prose": "The handle leaves at that one point only. If it will not pull, move the bolt a little; do not lever on the handle.",
+   "quote": "Hold the Action in this position and move the Bolt Assembly to align the notch in the Bolt with the raised protrusion on the Operating Handle.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Action, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Operating handle straight out",
+   "action": "With the notch and the protrusion lined up, pull the operating handle straight out of the side of the bolt. Keep hold of the action with your other hand.",
+   "box": "none",
+   "prose": "When the handle is out, the action spring is pushing on what your other hand is holding.",
+   "quote": "With the Bolt Notch and the Operating Handle correctly aligned, pull the Operating Handle straight out.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Action, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Action forward slowly, out through the barrel hole",
+   "action": "Let the action travel fully forward under your hand, slowly. Then take the bolt assembly and the action arm assembly out through the barrel hole in the front of the receiver.",
+   "box": "none",
+   "prose": "Do not let it run. The spring behind the action is what closes the gun when it fires.",
+   "quote": "Slowly allow the Action to travel fully forward. Remove the Bolt Assembly and Action Arm Assembly through the barrel hole in the Receiver.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Action, printed p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt up off the arm, arm off its ring",
+   "action": "Lift the bolt assembly off the action arm. Then separate the action arm from the action arm ring.",
+   "box": "none",
+   "prose": "Note which way round the bolt sits on the arm before you lift it. The reassembly asks you to make sure its orientation is correct.",
+   "quote": "Once the Action is out of the Receiver, lift up the Bolt Assembly to remove it from the Action Arm Assembly. Then separate the Action Arm from the Action Arm Ring.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Action, printed p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Action spring forward off the tube",
+   "action": "Slide the action spring forward off the magazine tube.",
+   "box": "none",
+   "prose": "With the spring off, the whole outside of the magazine tube is open for cleaning, and it is part of the gas system.",
+   "quote": "Slide the action spring forward off the magazine tube.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Action, printed p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger housing pin, either direction",
+   "action": "Push the trigger housing retaining pin out with a punch no larger than 3/32 inch (2.5 mm). It can go out from either side.",
+   "box": "limit",
+   "prose": "A bigger punch is the mistake here. Keep it on the pin and off the receiver around it.",
+   "quote": "After removing the Action, push out the Trigger Housing Retaining Pin using a punch no larger than 3/32” (2.5mm). The Pin can be pushed out from either direction.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Trigger Housing, printed p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger housing forward and down, in one piece",
+   "action": "Press the bolt release button and slide the trigger housing assembly forward and down out of the receiver. Leave the trigger alone while it is out.",
+   "box": "none",
+   "prose": "The button has to be held in the whole way. The housing is cleaned as it comes out: the book gives its disassembly to the Product Service Center or a qualified gunsmith.",
+   "quote": "Remove the Trigger Housing Assembly from the Receiver by sliding it forward and down, while pressing the Bolt Release Button.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — Removing the Trigger Housing, printed p.22",
+   "warn": "The Trigger Housing Assembly is a complex assembly and must not be disassembled.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench: barrel, gas piston, bolt assembly, operating handle, action arm, action arm ring, action spring, magazine cap, forearm, trigger housing and its pin, and the receiver with its stock and magazine tube. The book stops here.",
+   "box": "none",
+   "prose": "Anything further is work for a qualified gunsmith or the Product Service Center, in the book's own words.",
+   "quote": "Field disassembly is now complete.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — DISASSEMBLY, printed p.23",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the muzzle or by pull-through",
-   "action": "Work from the muzzle with a rod and a rod guide, or feed a pull-through cord in at the open chamber and draw it out of the muzzle. Brush wet with bore solvent, a few passes, then dry patches until clean — plastic from the wads builds up in a shotgun bore and comes out with the brush. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Choke tube in, then the bore and chamber",
+   "action": "Keep a choke tube installed. Scrub the bore and chamber with solvent, then run patches until the barrel is clean. A stiff brass bristle brush takes off stubborn deposits. Finish with one lightly oiled patch.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "With the tube in, residue does not build up on the threads. Look through the barrel when you finish: no patch, no excess oil and no grease may stay in the bore.",
+   "quote": "Scrub the bore and chamber with solvent and follow with cleaning patches until the barrel is clean. A final pass with a lightly oiled patch will provide a protective coating.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — BARREL CLEANING, printed p.24"
   },
   {
    "phase": "Clean",
-   "title": "The breech you can reach through the open action",
-   "action": "With the bolt locked back, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach through the ejection port with a cloth and very little solvent. Do not pour or spray solvent into the action: what runs inside cannot be wiped back out, and no oil goes in from the outside either.",
-   "box": "none"
+   "title": "Gas piston, inside and outside",
+   "action": "Use a stiff brass bristle brush and solvent to take the deposits off the inside and the outside of the gas piston. If yours has an outer piston ring, leave it on, and when the piston is clean check that the ring turns freely.",
+   "box": "none",
+   "prose": "The book calls this part critical: a fouled piston is a gun that does not cycle properly.",
+   "quote": "Using a stiff brass bristle brush and solvent, remove deposits from the inside and outside of the Gas Piston. It is critical that this component is free of deposits to ensure proper function of your firearm.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — GAS SYSTEM COMPONENT CLEANING, printed p.25",
+   "warn": "This outer ring should not be removed during disassembly or cleaning.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
+   "title": "The barrel's gas cylinder",
+   "action": "Use a stiff brass bristle brush and solvent on the inside of the barrel's gas cylinder until every deposit is gone.",
+   "box": "none",
+   "prose": "The test is the piston: it has to move freely through its full range inside the cylinder.",
+   "quote": "thoroughly clean the inside of the Barrel Gas Cylinder, making sure to remove all deposits to ensure that the Gas Piston can move freely through its full range of motion.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — GAS SYSTEM COMPONENT CLEANING, printed p.25"
   },
   {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Mossberg.",
+   "phase": "Clean",
+   "title": "Magazine tube and action spring",
+   "action": "Wipe the deposits off the magazine tube and the action spring with a rag and solvent. A stiff brass bristle brush helps on stubborn deposits on the tube.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until Mossberg has seen it."
+   "prose": "The piston and the action both ride on the tube, so a crusted tube slows everything on it.",
+   "quote": "Using a rag and solvent, remove deposits from the Magazine Tube, and Action Spring.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — GAS SYSTEM COMPONENT CLEANING, printed p.25"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt, action arm and ring in solvent",
+   "action": "Clean all the action parts with solvent: the bolt assembly, the action arm and the action arm ring. Use oil sparingly afterward.",
+   "box": "none",
+   "prose": "Sparing is the instruction. Action parts that are run wet collect residue.",
+   "quote": "Using a solvent, clean all components of the Action, including the Bolt Assembly and Action Arm Assembly (Action Arm and Action Arm Ring) to remove accumulated residue.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — ACTION CLEANING, printed p.25"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver tracks, then a few drops of oil",
+   "action": "Clean the inside of the receiver with a rag or a soft bristle brush, above all the tracks that guide the bolt and the action arm. When they are clean, put a few drops of light oil in the tracks.",
+   "box": "limit",
+   "prose": "Soft bristles only. A metal-bristle brush can take the protective coating off the receiver.",
+   "quote": "Clean the inside of the Receiver with a rag or soft bristle brush, giving special attention to the tracks which guide the Bolt Assembly and Action Arm Assembly. Place a few drops of light oil in these tracks when clean.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — RECEIVER CLEANING, printed p.25",
+   "warn": "Never use a brush with metal bristles, as this could remove the protective coating on the Receiver.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Trigger housing brushed, trigger untouched",
+   "action": "Brush the loose residue off the trigger housing assembly with a soft bristle brush. Do not pull the trigger while it is out of the receiver.",
+   "box": "none",
+   "prose": "Brush it and put it down. Pulling the trigger out of the gun can hurt you or damage the housing.",
+   "quote": "Brush loose residue from the Trigger Housing Assembly with a soft bristle brush.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — TRIGGER HOUSING ASSEMBLY CLEANING, printed p.25",
+   "warn": "Never pull the trigger while the trigger housing is removed from the receiver, as personal injury or damage to the trigger housing may result.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "A light coat of oil, wiped back",
+   "action": "Give all the metal parts a light coat of gun oil, then wipe them thoroughly with a dry cloth. Keep strong solvents off a camouflage finish.",
+   "box": "none",
+   "prose": "Wipe it back because excess oil speeds up the carbon build-up in the gas system and can hurt how the gun runs.",
+   "quote": "Apply a light coat of gun oil to all metal parts and then wipe thoroughly with a dry cloth.",
+   "cite": "SA 12GA AUTOLOADING SHOTGUN — Mossberg International owner's manual (Maverick SA) — Part No. 107336 Rev. A — GAS SYSTEM COMPONENT CLEANING, printed p.25"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Mossberg Maverick SA, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Mossberg, not onto the bench.",
+ "deepAbsentReason": "There is no deep clean in the Maverick SA book. It publishes one disassembly, and after the trigger housing comes out it says field disassembly is now complete and that further disassembly belongs to a qualified gunsmith or the Product Service Center (printed p.23). It also says the trigger housing assembly must not be disassembled (printed p.22) and that a gas piston's outer ring should not be removed (printed p.25). Everything it does publish, down to the action arm ring and the trigger housing, is in the field strip. What follows in the book is stock spacers, gas piston choice, choke tubes and sight mounting, not a deeper strip.",
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BARREL",
    "tasks": [
-    "From the muzzle with a rod guide, or a pull-through from the open chamber",
-    "Brush wet with bore solvent, then dry patches until clean",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Choke tube installed while the bore is cleaned",
+    "Bore and chamber scrubbed with solvent, then patches until clean",
+    "A stiff brass bristle brush on stubborn deposits",
+    "A final lightly oiled patch",
+    "Choke tube threads kept clean and lightly oiled; tube snug and undamaged",
+    "⛔ No patch, excess oil or grease left in the bore",
+    "Never fire the shotgun without a choke tube properly installed"
    ]
   },
   {
-   "name": "THE OPEN BREECH",
+   "name": "GAS SYSTEM",
    "tasks": [
-    "Bolt face and chamber mouth wiped through the ejection port",
-    "⛔ No solvent or oil poured or sprayed into the action"
+    "Gas piston brushed inside and out with a stiff brass brush and solvent",
+    "Outer piston ring, if fitted, left on and turning freely",
+    "Inside of the barrel's gas cylinder brushed until every deposit is gone",
+    "Magazine tube and action spring wiped with a rag and solvent"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "BOLT & ACTION",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
+    "Bolt assembly, action arm and action arm ring cleaned with solvent",
+    "Oil used sparingly: the action stays cleaner longer"
    ]
   },
   {
-   "name": "STORAGE",
+   "name": "RECEIVER & TRIGGER HOUSING",
    "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Inside of the receiver with a rag or soft bristle brush, the tracks especially",
+    "A few drops of light oil in the tracks once clean",
+    "Loose residue brushed off the trigger housing with a soft bristle brush",
+    "⛔ No metal-bristle brush on the receiver or the trigger housing",
+    "Do not pull the trigger with the trigger housing out of the receiver",
+    "Do not disassemble the trigger housing assembly"
+   ]
+  },
+  {
+   "name": "OIL & STORAGE",
+   "tasks": [
+    "A light coat of gun oil on all metal parts, wiped thoroughly with a dry cloth",
+    "Only lubricants made for firearms; no abrasives",
+    "Over-lubrication avoided below freezing",
+    "Long storage: cleaned and oiled thoroughly, then again every six months",
+    "Do not plug the barrel or store it in a fabric-lined case"
    ]
   }
  ],
@@ -99,33 +313,52 @@
    {
     "g": 0,
     "steps": [
-     4
+     18
     ]
    },
    {
     "g": 1,
     "steps": [
-     5
+     19,
+     20,
+     21
     ]
    },
    {
     "g": 2,
-    "steps": []
+    "steps": [
+     22
+    ]
    },
    {
     "g": 3,
     "steps": [
-     6
+     23,
+     24
     ]
    },
    {
-    "s": 7
+    "g": 4,
+    "steps": [
+     25
+    ]
    }
   ]
  },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Let the bolt close under control, with your hand out of its path."
+  "Eye protection on, no ammunition near the bench, and every part dry or lightly oiled.",
+  "Trigger housing: hold the bolt release button in and slide the housing up and backward into the receiver until its hole lines up with the receiver's.",
+  "Push the retaining pin in until it is flush with both sides of the receiver.",
+  "Slide the action spring onto the magazine tube.",
+  "Set the bolt assembly in its place on top of the action arm, the right way round. Fit the front edge of the action arm into its seat on the action arm ring and press the two firmly together.",
+  "Slowly slide the action over the magazine tube, the tube passing through the action arm ring, and push the bolt back into the receiver just far enough for the operating handle slot to show fully in the ejection port.",
+  "Look through the ejection port, line up the notch in the action arm with the notch in the bolt, and push the operating handle through both, with the dome of its protrusion facing up.",
+  "The action must be closed, the bolt fully forward, before the barrel goes on.",
+  "⛔ Fully seat the gas piston in the barrel's gas cylinder. Without it the gun can malfunction dangerously when fired.",
+  "Line the barrel up with the receiver and slide its gas cylinder over the magazine tube. When the barrel extension reaches the gap between the receiver and the bolt, push the bolt forward with your thumb while you pull the barrel rearward, until the extension is fully seated in the receiver.",
+  "Slide the forearm over the magazine tube until it sits flush against the receiver.",
+  "Magazine cap on, clockwise, finger tight. Never with pliers or a wrench.",
+  "Function check before any live ammunition."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the action: it runs fully back and returns fully forward, and it locks open where your gun holds open. A safety, if fitted, moves through its positions. This check never asks you to pull the trigger."
+ "fncheck": "Safety on, muzzle in a safe direction, and the chamber, elevator and magazine tube proven empty by eye and by finger. Keep the muzzle safe throughout. Pull the bolt fully rearward: it should lock open. With fingers clear of the ejection port, press the bolt release: the bolt should run forward and lock fully closed. Repeat several times and feel for free movement. With the action closed and the safety on, pull the trigger fully: the hammer should not fall. Take your finger off the trigger and push the safety off: the hammer should not fall. Pull the trigger: the hammer should fall. Open the action and put the safety back on. If any step does not go as described, the book says to contact the Product Service Center immediately and not to load or use the gun."
 }
