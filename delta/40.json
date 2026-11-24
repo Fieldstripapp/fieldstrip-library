@@ -1,8 +1,22 @@
 {
  "_doc": "Everything a client holding version 40 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 40,
- "to": 41,
+ "to": 42,
  "rows": [
+  {
+   "id": "sigsauer516g3",
+   "maker": "SIG Sauer",
+   "model": "516G3",
+   "chambering": "—",
+   "category": "AR-pattern rifle (piston)",
+   "family": "NEW-SIGSAUER-516G3",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "sigsauer516g3",
+   "guideSha256": "185299f68f6f12bde90db55a0dfbe0ce714aee786827a310f2bc2d049b57d6c5"
+  },
   {
    "id": "mossbergmavericksa",
    "maker": "Mossberg",

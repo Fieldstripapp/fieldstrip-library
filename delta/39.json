@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 39 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 39,
- "to": 41,
+ "to": 42,
  "rows": [
   {
    "id": "centuryarmscenturion11",
@@ -88,6 +88,20 @@
    "cal": "{\"chs\":[\".243 Win\",\".270 Win\",\".30-06\",\".300 Win Mag\",\".308 Win\",\"6.5 Creedmoor\",\"6.5 PRC\",\"6.8 Western\",\"7mm Rem Mag\"]}",
    "calSha256": "e6b21606e7ce5caf420a3029e17a35e0c0d43ed670a18a025c9f6e17ff74e4e0",
    "calV": 38
+  },
+  {
+   "id": "sigsauer516g3",
+   "maker": "SIG Sauer",
+   "model": "516G3",
+   "chambering": "—",
+   "category": "AR-pattern rifle (piston)",
+   "family": "NEW-SIGSAUER-516G3",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "sigsauer516g3",
+   "guideSha256": "185299f68f6f12bde90db55a0dfbe0ce714aee786827a310f2bc2d049b57d6c5"
   },
   {
    "id": "mossbergmavericksa",

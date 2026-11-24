@@ -1,97 +1,370 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAR",
- "bpTemplateVersion": 1,
  "row": "sigsauer516g3",
  "make": "SIG Sauer",
  "model": "516G3",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model. Semi-auto rifles of this kind come apart in too many different ways for a general guide to say how yours does, so this one does not take it apart at all: it clears it, cleans the bore and everything you can reach with the action locked open, and looks it over. Done properly, that is a full routine clean.\n\nListed in Fieldstrip as —. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 (2026)",
+ "sourceSha256": "b46a1928c51417db2d9ef81f3547cb2b10440fe1d4a2b0191f7075fa7ab03016",
+ "cleanIntro": "SIG's own user-level strip for the SIG 516G3, in SIG's order and no further. This is the short-stroke piston rifle with two charging handles, one at the rear and one on the side, and the two move independently of each other. The side handle and its cover come out of the upper in the field strip and must be back in before the bolt goes in.\n\nSIG recommends cleaning and lubricating the rifle after each range session, and more often in dust, sand, rain or snow. The buffer, the extractor, the gas valve and the magazine are the deep clean.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Muzzle safe, selector to SAFE if it will turn",
+   "action": "Point the muzzle in a safe direction and keep it there through every clearing step. Try to turn the safety selector to SAFE.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "The selector only turns to SAFE with the hammer cocked. If it will not move, do not force it: go on, and set it once the action has been worked.",
+   "quote": "Attempt to rotate the safety selector lever to SAFE. Safety lever will not move if the hammer is not cocked.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 9.3 Unload and Clear the Rifle, steps 1–2, printed p.39"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, action back and locked",
-   "action": "If the rifle takes a detachable magazine, take it out before you touch anything else. Pull the charging handle all the way back and lock the action open if your rifle holds open; if it does not, hold it back. Keep your hand and thumb out of the bolt's path the whole time — on some rifles the action can run forward on its own when the magazine follower is pressed.",
+   "title": "Magazine out first",
+   "action": "Press the magazine catch, on either side of the rifle, and take the magazine out.",
    "box": "none",
-   "prose": "If the magazine is fixed, work the action until nothing more comes out, then go on to the next step."
+   "prose": "The magazine comes out before the action is touched, so working a charging handle next cannot feed another round. A rifle with its magazine out can still hold a live round in the chamber.",
+   "quote": "Press the magazine catch on either side to remove the magazine from the rifle.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 9.3 Unload and Clear the Rifle, step 3, printed p.39",
+   "warn": "REMOVING THE MAGAZINE FROM THE FIREARM DOES NOT PREVENT A CHAMBERED ROUND FROM BEING FIRED.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Either charging handle fully back, watching the port",
+   "action": "Pull either charging handle all the way back and watch the ejection port on the right side for a case or a live round coming out.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact SIG Sauer with the gun pointed somewhere safe."
+   "prose": "Pull it the full distance. A short pull may not throw the round clear, and it will not give the bolt catch room to take hold in the next step.",
+   "quote": "Fully retract either charging handle and watch the ejection port on the right side for the ejection of a cartridge case or a live cartridge.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 9.3 Unload and Clear the Rifle, step 4, printed p.40"
+  },
+  {
+   "phase": "Clear",
+   "title": "Operating group locked back, handle returned, on SAFE",
+   "action": "Hold the operating group back and set the bolt catch: press and hold the lower part of the lever on the left side, or press up on the one on the right. Check that the group stays locked back, push the charging handle forward until it locks, and turn the selector to SAFE if it is not there already.",
+   "box": "none",
+   "prose": "The bolt catch alone holds the group back against its spring. Keep hands and sleeves off the catch from here until you have finished looking.",
+   "quote": "Ensure the operating group remains locked to the rear and return the charging handle to its forward and locked position.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 9.3 Unload and Clear the Rifle, steps 5–6, printed pp.40–41"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look and feel: chamber, bolt face, magazine well",
+   "action": "Look into the chamber, at the bolt face and into the magazine well, and feel each one, for a live round, a spent case or debris. If the rifle may be hot, check the chamber with a pen or similar object instead of a finger.",
+   "box": "none",
+   "prose": "All three places, by eye and by touch. If you hand the rifle to someone, hand it over bolt locked back and on SAFE, and let them check the chamber first.",
+   "quote": "Visually and physically inspect the chamber, bolt face, and magazine well to ensure that the rifle is clear of live rounds, spent cartridges, and debris.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 9.3 Unload and Clear the Rifle, step 7, printed p.41",
+   "warn": "THE OPERATING GROUP IS UNDER SPRING TENSION AND WILL SPRING FORWARD IF THE BOLT CATCH IS PRESSED.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "No takedown — and that is deliberate",
-   "action": "Leave the rifle in one piece. Top covers, takedown pins, recoil springs, bolt carriers and gas systems all differ across rifles of this kind, and a guide that cannot see your rifle cannot honestly tell you which control does what. Everything in this clean is done with the action locked open.",
+   "title": "Bolt forward, takedown pin pushed left to right",
+   "action": "Put safety glasses on. With the rifle proven empty, press the bolt catch to let the operating group go forward, then push the takedown pin across from left to right. The takedown pin is the rear one.",
    "box": "none",
-   "prose": "⛔ No pin is pushed, no cover lifted and no screw turned. Anything beyond the outside and the open breech is work for SIG Sauer."
+   "prose": "Keep fingers out of the ejection port as the group runs forward; it goes home under full spring force.",
+   "quote": "Press the bolt catch to release the operating group forward.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 10.1 Field Strip the SIG 516G3, steps 2–3, printed p.52"
+  },
+  {
+   "phase": "Strip",
+   "title": "Receivers pivoted apart, operating group out",
+   "action": "Pivot the receivers apart on the front pin. Pull the rear charging handle part of the way back to start the operating group out, then take the group out of the back of the upper.",
+   "box": "none",
+   "prose": "It is the rear handle that does this, not the side one: the two work independently, and the side handle stays where it is for now.",
+   "quote": "Partially retract the rear charging handle and remove the operating group.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 10.1 Field Strip the SIG 516G3, steps 4–5, printed p.53"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear charging handle out",
+   "action": "With the operating group out, take the rear charging handle out of the upper receiver.",
+   "box": "none",
+   "prose": "SIG gives this as a single line. If the handle does not come free, do not pry on it; move it along its track until it does.",
+   "quote": "Remove the rear charging handle.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 10.1 Field Strip the SIG 516G3, step 6, printed p.53"
+  },
+  {
+   "phase": "Strip",
+   "title": "Receivers closed, pivot pin left to right, receivers apart",
+   "action": "Close the receivers together again, push the front pivot pin across from left to right, and separate the upper from the lower.",
+   "box": "none",
+   "prose": "SIG closes the receivers before the pivot pin is pushed, rather than pushing it with the upper hanging open.",
+   "quote": "Close the receivers and push the pivot pin from left to right.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 10.1 Field Strip the SIG 516G3, steps 7–8, printed p.54"
+  },
+  {
+   "phase": "Strip",
+   "title": "Side charging handle back until its rear lug shows, then away",
+   "action": "Pull the side charging handle all the way to the rear. Its rear lug should stick out past the back of the upper receiver. Then pull the handle sideways, away from the upper, to take it off.",
+   "box": "none",
+   "prose": "The lug past the end of the receiver is the sign that the handle has reached the place where it comes out. If the lug is not showing, it is not back far enough; do not pull outward yet.",
+   "quote": "Pull the side charging handle fully to the rear. The rear lug on the charging handle should extend past the upper receiver.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 10.1 Field Strip the SIG 516G3, steps 9–10, printed p.55"
+  },
+  {
+   "phase": "Strip",
+   "title": "Side charge cover out the back",
+   "action": "Slide the side charge cover out of the rear of the upper receiver.",
+   "box": "none",
+   "prose": "Note which way round it sits. On the way back in, the hole in this cover has to line up with the wide opening of the side charge channel.",
+   "quote": "Slide the side charge cover out from the rear of the receiver.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 10.1 Field Strip the SIG 516G3, step 11, printed p.55"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin pulled out",
+   "action": "On the operating group, pull out the firing pin retaining pin. SIG suggests a small tool, such as a pin punch.",
+   "box": "none",
+   "prose": "It goes back in from the left side of the carrier, so note where it sat. It is pulled out to free the firing pin in the next step.",
+   "quote": "Pull out the firing pin retaining pin (3).",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 10.1 Field Strip the SIG 516G3, step 15, printed p.57"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin lock pressed outward, firing pin out the back",
+   "action": "Press the firing pin lock outward and hold it there, and take the firing pin out of the rear of the bolt carrier.",
+   "box": "none",
+   "prose": "This rifle has a lock on the firing pin as well as the retaining pin. The pin will not come out until the lock is pressed, so do not pull harder: press the lock.",
+   "quote": "Press the firing pin lock (5) outward and remove the firing pin (4) from the rear of the bolt carrier (6).",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 10.1 Field Strip the SIG 516G3, step 16, printed p.57"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt pushed in, cam pin out, bolt out of the carrier",
+   "action": "Push the bolt inward into the carrier and take the cam pin out of the carrier. Then take the bolt out.",
+   "box": "none",
+   "prose": "The order matters: bolt in, cam pin, then bolt. Note how the cam pin sat, because SIG warns that a cam pin put back wrongly can cause injury or death.",
+   "quote": "Push the bolt (1) inward and remove the cam pin (2) from the bolt carrier.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 10.1 Field Strip the SIG 516G3, steps 17–18, printed p.57"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You now have the upper receiver with its barrel and handguard, the lower receiver, the two charging handles and the side charge cover, and the bolt carrier, bolt, cam pin and firing pin. The buffer and action spring, the extractor, the gas valve and the magazine are in the same book and are the deep clean.",
+   "box": "none",
+   "prose": "Anything past the user level in this book goes to a SIG armorer trained on this rifle.",
+   "quote": "Any maintenance beyond the user level described in this manual is to be performed by a certified SIG SAUER Armorer specifically trained on the maintenance of the SIG 516G3.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 9.1 Preparation Before Using the Firearm, printed p.37",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the muzzle or by pull-through",
-   "action": "Work from the muzzle with a cleaning rod and a rod guide so the rod never rubs the crown, or feed a pull-through cord in at the open chamber and draw it out of the muzzle. Brush wet with bore solvent, a few passes, then dry patches until they come out clean. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Bore toward the muzzle",
+   "action": "Fit a jag and a clean patch to the cleaning rod, moisten the patch with CLP, and push it slowly through the bore toward the muzzle. Leave the CLP several minutes, then push another CLP patch through. If fouling is heavy, scrub with a bore brush and patch out what it loosened. Finish with fresh patches until they come out clean.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "The wait does the work: the CLP needs those minutes to loosen fouling before anything is scrubbed.",
+   "quote": "Allow the CLP to stay in the barrel for several minutes to loosen any fouling.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 11.1.1 Chamber and Bore of Barrel, steps 1–9, printed pp.60–61"
   },
   {
    "phase": "Clean",
-   "title": "The breech you can reach through the open action",
-   "action": "With the action locked open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach through the ejection port, using a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action: what runs inside cannot be wiped back out, and no oil goes in from the outside either.",
-   "box": "none"
+   "title": "Chamber and locking lug area, muzzle raised",
+   "action": "Coat the chamber brush with CLP and keep the muzzle elevated. Make several plunging strokes in the chamber, then several full turns in the barrel extension.",
+   "box": "none",
+   "prose": "The full turns are what clean the locking lug area. The raised muzzle keeps dirty CLP from running into the bore you have just cleaned.",
+   "quote": "Keep the muzzle elevated so the CLP does not run into the freshly cleaned bore.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 11.1.1 Chamber and Bore of Barrel, steps 10–12, printed p.61"
   },
   {
    "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
+   "title": "Receivers, with no wire brush, and the side charger channel",
+   "action": "Wipe all residue from the upper and lower receivers with a CLP-moistened rag, with cotton swabs where the rag does not reach. Clean any buildup or debris out of the side charger channel.",
+   "box": "none",
+   "prose": "The receivers are aluminum, and a wire brush may damage the finish. The channel is the track the side handle's lugs ride in.",
+   "quote": "Clean any buildup or debris from the side charger channel.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 11.1.2 Upper / Lower Receivers, printed p.62",
+   "warn": "Do not use wire brushes on aluminum surfaces such as the upper and lower receivers.",
+   "warnSrc": "maker"
   },
   {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for SIG Sauer.",
+   "phase": "Clean",
+   "title": "Receivers and controls lubricated",
+   "action": "Lightly lubricate the rear charging handle. Put CLP on the ejection port cover spring and latch, in the detent slots of the takedown and pivot pins, on the hammer and trigger springs with a cotton swab, and on the selector.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until SIG Sauer has seen it."
+   "prose": "Where SIG says CLP, any lubricant designed for firearms can be used. Below freezing that changes: SIG says CLP may freeze and stop the rifle firing, and wants all of the old lubricant off and a cold-weather one on.",
+   "quote": "Apply CLP to the detent slots in the takedown and pivot pins.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 11.2.1 Upper / Lower Receivers, printed p.64"
+  },
+  {
+   "phase": "Clean",
+   "title": "Carbon scraped off the operating group",
+   "action": "Wipe all residue from the operating group parts with a CLP-moistened rag. Scrape the carbon off the bolt carrier, and clean all the carbon buildup off the back of the bolt and the hook end of the extractor.",
+   "box": "none",
+   "prose": "SIG is plain that brushing alone does not do it.",
+   "quote": "Carbon residue must be scraped from the bolt carrier. Just using a brush will not remove carbon buildup.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 11.1.3 Operating Group, printed p.63"
+  },
+  {
+   "phase": "Clean",
+   "title": "Operating group lubricated; firing pin left dry",
+   "action": "Put CLP on the back of the bolt lugs. Lightly lubricate the contact surfaces of the bolt body and the cam pin, and lubricate the contact surfaces of the bolt carrier.",
+   "box": "none",
+   "prose": "The firing pin, its channel in the bolt and the extractor slot stay dry. SIG lists too much lubricant in the firing pin recess among the causes of a rifle that fails to fire.",
+   "quote": "Apply CLP to the back of the bolt lugs.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 11.2.2 Operating Group, printed p.65",
+   "warn": "DO NOT APPLY LUBRICANT TO THE FIRING PIN OR IN THE FIRING PIN CHANNEL OF THE BOLT. DO NOT APPLY LUBRICANT TO THE EXTRACTOR SLOT.",
+   "warnSrc": "maker"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the SIG Sauer 516G3, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to SIG Sauer, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Buffer held, retainer pressed down",
+   "action": "Wear eye protection. On the lower receiver, hold the buffer in place with one hand and press the buffer retainer down with the other.",
+   "box": "none",
+   "prose": "The action spring is pushing on the buffer the whole time. The hand on the buffer is what keeps it from leaving on its own once the retainer goes down.",
+   "quote": "While holding the buffer in place, press the buffer retainer down.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 10.1 Field Strip the SIG 516G3, step 12, printed p.56",
+   "warn": "WEAR EYE PROTECTION AND MAINTAIN CONTROL DURING MAINTENANCE.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and action spring eased out, spring twisted off",
+   "action": "Ease the pressure off the front of the buffer and let the action spring push it out of the receiver extension. Twist the spring clockwise to take it off the buffer. Leave the buffer retainer and its spring in the lower.",
+   "box": "none",
+   "prose": "Let it out under control rather than letting go. The clockwise twist is the same way you turn it to put it back.",
+   "quote": "Ease pressure on the front of the buffer and allow the action spring to push the buffer out of the receiver extension.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 10.1 Field Strip the SIG 516G3, steps 13–14, printed p.56",
+   "warn": "Do not remove the buffer retainer and its spring.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Buffer and action spring wiped, spring lightly oiled",
+   "action": "Wipe all residue from the buffer and the action spring with a rag moistened with CLP, then give the action spring a light coat of CLP.",
+   "box": "none",
+   "prose": "SIG names a weak action spring as a cause of rounds that fail to chamber; it is replaced, not adjusted.",
+   "quote": "Clean all residue from buffer and action spring with a rag moistened with CLP.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 11.1.2 Upper / Lower Receivers, printed p.62; 11.2.1, printed p.64"
+  },
+  {
+   "phase": "Strip",
+   "title": "Extractor pin out, extractor off, spring and O-ring left",
+   "action": "With the bolt out of the carrier, push the extractor pin out of the bolt; it goes from either side, and a pin punch helps. Take the extractor off. Leave the extractor spring and its O-ring where they are.",
+   "box": "none",
+   "prose": "This is as far as SIG lets the owner go into the bolt. The one exception in its book is the cold: it has the O-ring taken off the extractor when operating below -20°F (-29°C).",
+   "quote": "Remove the extractor (1).",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — Bolt disassembly, steps 1–2, printed p.58",
+   "warn": "NO FURTHER DISASSEMBLY OF THE BOLT OR EXTRACTOR COMPONENTS IS AUTHORIZED. DO NOT REMOVE THE EXTRACTOR SPRING OR O-RING.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Extractor hook and slot cleaned, slot left dry",
+   "action": "Clean all the carbon off the hook end of the extractor, then clean the extractor slot in the bolt. Put no lubricant in the slot.",
+   "box": "none",
+   "prose": "With the extractor off, the whole slot can be reached. Lubricant in it can cause a stoppage.",
+   "quote": "Clean all carbon buildup from the hook end of the extractor.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 11.1.3 Operating Group, printed p.63",
+   "warn": "DO NOT APPLY LUBRICANT TO THE EXTRACTOR SLOT.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Handguard screw and nut out",
+   "action": "With a T30IP drive bit, turn the handguard clamp screw counterclockwise, and take out the screw and the handguard nut.",
+   "box": "none",
+   "prose": "SIG names the bit; another size can spoil the screw head. The screw goes back to a stated torque, so have a torque driver to hand before you start.",
+   "quote": "Using a T30IP® drive bit, turn the handguard clamp screw counterclockwise and remove the screw and handguard nut.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 15.1 Handguard Removal, step 1, printed p.81"
+  },
+  {
+   "phase": "Strip",
+   "title": "Handguard and its insert off the barrel",
+   "action": "Slide the handguard forward off the barrel. Then slide the handguard insert toward the muzzle and pull it up and off the barrel assembly.",
+   "box": "none",
+   "prose": "The insert has an index tab that has to find a notch in the receiver on the way back, so look at how it sits before it moves.",
+   "quote": "Slide the handguard insert toward the muzzle and pull the insert up and off the barrel assembly.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 15.1 Handguard Removal, steps 2–3, printed pp.82–83"
+  },
+  {
+   "phase": "Strip",
+   "title": "Stop pin held in, gas valve turned half way round",
+   "action": "With the gas valve at its NORMAL setting, press and hold the gas valve stop pin and turn the valve 180 degrees.",
+   "box": "none",
+   "prose": "The half turn is counted from NORMAL. If the valve is at another setting, put it back to NORMAL first.",
+   "quote": "Press and hold the gas valve stop pin and rotate the gas valve 180 degrees from the NORMAL setting.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 16.1 Gas Valve Removal, step 2, printed p.87"
+  },
+  {
+   "phase": "Strip",
+   "title": "Gas valve and piston/op rod out the front",
+   "action": "Take the gas valve and the piston/op rod assembly out through the front of the gas block.",
+   "box": "none",
+   "prose": "They come out together, toward the muzzle. Note that the valve has a flange: it faces up when it goes back.",
+   "quote": "Remove the gas valve and the piston/op rod assembly from the front of the gas block.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 16.1 Gas Valve Removal, step 3, printed p.87"
+  },
+  {
+   "phase": "Clean",
+   "title": "Carbon off the gas valve and op rod",
+   "action": "Clean all the carbon buildup off the gas valve and the op rod.",
+   "box": "none",
+   "prose": "This is the whole of SIG's gas system cleaning. It gives no lubrication for these parts.",
+   "quote": "Remove any carbon buildup from the gas valve and op rod.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 16.2 Cleaning, printed p.88"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine baseplate off",
+   "action": "Wear eye protection. Push in the magazine insert through the opening in the baseplate and slide the baseplate off the magazine tube.",
+   "box": "none",
+   "prose": "The spring is loaded behind that insert. Keep it under control as the baseplate clears.",
+   "quote": "Push in the magazine insert through the opening in the baseplate and slide the baseplate off of the magazine tube.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 14.1 Disassemble Magazine, step 1, printed p.78"
+  },
+  {
+   "phase": "Strip",
+   "title": "Insert, spring and follower out together",
+   "action": "Take the insert, the magazine spring and the follower out of the tube as one piece. Leave the insert and follower on the spring.",
+   "box": "none",
+   "prose": "The spring is attached at both ends and SIG wants it left that way.",
+   "quote": "Remove the insert, magazine spring, and follower from the magazine tube.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 14.1 Disassemble Magazine, step 2, printed p.79",
+   "warn": "Do NOT remove these components from the spring during operator level maintenance.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Magazine parts wiped with CLP, then dry",
+   "action": "Wipe every magazine part with a cloth moistened with CLP to take off buildup and debris, then wipe them dry.",
+   "box": "none",
+   "prose": "Dry is the finish here, not oiled. SIG puts most stoppages down to the magazine, so it is worth doing each time the rifle gets this far.",
+   "quote": "Wipe all parts with a cloth moistened with CLP to remove any buildup or debris, then wipe dry.",
+   "cite": "SIG 516 G3 RIFLE — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 1703942-01 REV 02 — 14.2 Cleaning, printed p.79"
+  }
+ ],
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BORE AND CHAMBER",
    "tasks": [
-    "From the muzzle with a rod guide, or a pull-through from the open chamber",
-    "Brush wet with bore solvent, then dry patches until clean",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "CLP-moistened patch pushed slowly through the bore toward the muzzle, then left several minutes",
+    "A second CLP patch; a bore brush if fouling is heavy, then a CLP patch to lift what it loosened",
+    "Fresh patches until they come out clean",
+    "Chamber brush coated with CLP, muzzle elevated: plunging strokes, then full turns in the barrel extension"
    ]
   },
   {
-   "name": "THE OPEN BREECH",
+   "name": "RECEIVERS AND CONTROLS",
    "tasks": [
-    "Bolt face and chamber mouth wiped through the ejection port",
-    "Receiver wiped where a cloth reaches",
-    "⛔ No solvent or oil poured or sprayed into the action"
+    "Residue off both receivers with a CLP rag; cotton swabs for hard-to-reach areas",
+    "Side charger channel cleared of buildup and debris",
+    "⛔ No wire brush on the aluminum receivers",
+    "Lube: rear charging handle (lightly), ejection port cover spring and latch",
+    "Lube: detent slots in the takedown and pivot pins, and the selector",
+    "Lube: hammer and trigger springs with a cotton swab",
+    "⚠ Below freezing: old lubricant off and a cold-weather one on. CLP may freeze"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "OPERATING GROUP",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Residue off every part with a CLP rag",
+    "Carbon scraped, not only brushed, off the bolt carrier",
+    "Carbon off the back of the bolt and the extractor's hook end",
+    "Lube: back of the bolt lugs",
+    "Lube: bolt body contact surfaces and cam pin (lightly), and the carrier's contact surfaces",
+    "⛔ No lubricant on the firing pin, in its channel in the bolt, or in the extractor slot"
    ]
   }
  ],
@@ -100,33 +373,58 @@
    {
     "g": 0,
     "steps": [
-     4
+     15,
+     16
     ]
    },
    {
     "g": 1,
     "steps": [
-     5
+     17,
+     18
     ]
    },
    {
     "g": 2,
-    "steps": []
-   },
-   {
-    "g": 3,
     "steps": [
-     6
+     19,
+     20
     ]
-   },
-   {
-    "s": 7
    }
   ]
  },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Close the action under control, with your hand and thumb out of the bolt's path."
+  "Magazine: follower, spring and insert into the tube, the insert pushed in to compress the spring, and the baseplate slid on until the insert snaps into place. Eye protection on.",
+  "Gas valve onto the piston/op rod assembly, and both in through the gas block with the valve's flange facing up. Press and hold the stop pin, turn the valve 180 degrees, let the pin go, and make sure it retains the valve.",
+  "Handguard insert over the barrel and op rod and into the upper receiver, its index tab lined up with the notch in the receiver.",
+  "Handguard over the barrel, the index tab on its top lined up with the receiver's notch. Handguard nut into the opening at the rear left. Hold the nut and torque the screw to 100 in-lbf with a T30IP bit. ⛔ The flash hider, brake or suppressor must be exposed at the end of the handguard.",
+  "Extractor onto the bolt and held there; extractor pin through the bolt head and the extractor.",
+  "Bolt into the bolt carrier with the extractor facing the right side of the carrier.",
+  "⛔ Cam pin hole in the bolt lined up with the cam path in the carrier; cam pin through the carrier and into the bolt, with its firing pin hole lined up with the firing pin bore. SIG warns that a cam pin or firing pin put in wrongly can cause injury or death and catastrophic damage to the rifle.",
+  "Bolt pulled out to its unlocked position and the retaining pin completely pulled out. Press the firing pin lock outward, put the firing pin in through the rear of the carrier and seat it fully forward against the bolt. Let go of the lock and make sure it captures the head of the firing pin.",
+  "Holding pressure on the firing pin, press the retaining pin in from the LEFT side of the carrier, between the firing pin's head and its large flange. Turn the operating group over: the firing pin should not fall out.",
+  "Action spring over the buffer and twisted clockwise while it is pressed forward, until it snaps into place.",
+  "Hammer cocked and rifle on SAFE. Action spring into the receiver extension, past the buffer retainer, then the buffer pushed in until it snaps into place behind the retainer.",
+  "⛔ The side charge cover and side charging handle go in BEFORE the bolt. Slide the cover into the upper until its hole lines up with the wide opening of the side charge channel.",
+  "Side charging handle in through the cover: its sliding block passes through both the upper and the hole in the cover, and both the front and rear lugs are inside the channel. Slide it fully forward and make sure it is locked in place.",
+  "⛔ Only this rifle's own bolt goes back: SIG warns never to interchange bolts between rifles.",
+  "Rear charging handle partly into the upper. Bolt still pulled forward to its unlocked position, operating group into the upper.",
+  "Operating group and charging handle pushed completely forward until the bolt locks into the barrel extension; charging handle locked in place.",
+  "Pivot and takedown pins pulled out. Upper lined up with the lower, pivot pin pushed in from right to left, then the takedown pin from right to left.",
+  "Function check before any live ammunition."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the action: it runs fully back and returns fully forward, and it locks open on an empty magazine if the rifle holds open. Any safety or selector you can see moves through each of its positions. This check never asks you to pull the trigger."
+ "fncheck": "Rifle unloaded and proven clear, muzzle in a safe direction throughout. Selector on SAFE. Insert an unloaded magazine and pull the rear charging handle back until the bolt locks open; lock the handle forward. Press the magazine catch: the magazine should fall free. Pull the charging handle back and release it: the bolt catch must drop and let the bolt go forward. Press the trigger: nothing should happen. Turn the selector to SEMI (the book also calls this position FIRE) and pull and hold the trigger: the hammer should fall with a loud click. Fully retract the side charging handle to cock the rifle and return it forward. Release the trigger slowly: it should reset with a light click. Pull it again: the hammer should fall with a loud click. Cock the rifle, turn the selector back to SAFE and pull the trigger: nothing should happen. Retract the charging handle, press up on the bolt catch to lock the bolt back, and lock the handle forward. If the rifle fails any part of this, SIG says not to use it and to contact Customer Service.",
+ "reassemblyRoutine": [
+  "Bolt into the bolt carrier with the extractor facing the right side of the carrier.",
+  "⛔ Cam pin hole in the bolt lined up with the cam path in the carrier; cam pin through the carrier and into the bolt, with its firing pin hole lined up with the firing pin bore. SIG warns that a cam pin or firing pin put in wrongly can cause injury or death and catastrophic damage to the rifle.",
+  "Bolt pulled out to its unlocked position and the retaining pin completely pulled out. Press the firing pin lock outward, put the firing pin in through the rear of the carrier and seat it fully forward against the bolt. Let go of the lock and make sure it captures the head of the firing pin.",
+  "Holding pressure on the firing pin, press the retaining pin in from the LEFT side of the carrier, between the firing pin's head and its large flange. Turn the operating group over: the firing pin should not fall out.",
+  "⛔ The side charge cover and side charging handle go in BEFORE the bolt. Slide the cover into the upper until its hole lines up with the wide opening of the side charge channel.",
+  "Side charging handle in through the cover: its sliding block passes through both the upper and the hole in the cover, and both the front and rear lugs are inside the channel. Slide it fully forward and make sure it is locked in place.",
+  "⛔ Only this rifle's own bolt goes back: SIG warns never to interchange bolts between rifles.",
+  "Rear charging handle partly into the upper. Bolt still pulled forward to its unlocked position, operating group into the upper.",
+  "Operating group and charging handle pushed completely forward until the bolt locks into the barrel extension; charging handle locked in place.",
+  "Pivot and takedown pins pulled out. Upper lined up with the lower, pivot pin pushed in from right to left, then the takedown pin from right to left.",
+  "Function check before any live ammunition."
+ ]
 }
