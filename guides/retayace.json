@@ -1,96 +1,277 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAS",
- "bpTemplateVersion": 1,
  "row": "retayace",
  "make": "Retay",
  "model": "ACE",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model. Semi-auto shotguns come apart in different ways depending on how they work, so this guide does not take yours apart: it clears it, cleans the bore and everything you can reach with the bolt locked back, and looks it over.\n\nListed in Fieldstrip as several chamberings. The gauge and chamber length marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) (UNKNOWN — not printed in the document)",
+ "sourceSha256": "bf88225b16e5606587299fc74969df714ebf9691374ed1cfa555b59ab661c31a",
+ "cleanIntro": "ACE is short for Air Control Extreme, and Retay's one book for it covers the 12, 20 and 28 gauge. It is an inertia gun: recoil works the action, and there is no gas system to clean. The routine strip takes off the barrel with the fore-end and draws the bolt out of the receiver. The deep clean goes to the end of Retay's own strip, with the bolt apart and the trigger group out.\n\nRetay wants the barrel cleaned after every use and again before shooting, and the bolt and firing mechanism cleaned periodically, with no round count given. Clean it as well after rain, mud, snow or salt water, or long storage.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose shell, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Safety on, muzzle safe, ammunition away",
+   "action": "Point the muzzle in a safe direction and keep your finger off the trigger. Press the safety button on the trigger guard until its red ring disappears. Move all ammunition off the bench and put on eye protection.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "Red ring showing means it can fire. The safety is only a backup while you unload; the empty chamber is what makes the gun safe to work on.",
+   "quote": "until its red ring, indicating firing position, is no longer visible",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Gun safety catch, p.10; Unloading, p.14",
+   "warn": "You should also wear eye protection when disassembling and cleaning your firearm to ensure that cleaning solvents and parts under tension do not come into contact with your eyes.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, bolt back and locked",
-   "action": "If the shotgun takes a detachable box magazine, take it out first. Pull the operating handle fully back and lock the bolt open if your gun holds open; if it does not, hold it. Look into the loading port under the action: you want to see the magazine follower with no shell in front of it.",
+   "title": "Bolt open, chambered shell out, bolt closed gently",
+   "action": "Pull the cocking lever back to open the bolt. A shell in the chamber comes out through the ejection port. Then let the cocking lever forward gently until the bolt is closed.",
    "box": "none",
-   "prose": "⛔ If shells remain in the magazine tube and you do not know your gun's control for releasing them, stop. Never pry a shell out with a tool, and never put a finger into the action to press the carrier."
+   "prose": "The bolt is closed again here because the magazine is emptied from underneath, in the next step. Do not let it slam.",
+   "quote": "2) Close the bolt: gently releasing the cocking lever (fig. 27).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Unloading, steps 1-2, p.14"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and the loading port, then put a fingertip into the chamber: a shell that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Empty the magazine tube, one press per shell",
+   "action": "Turn the gun over. Push the carrier inward and press the front of the carrier latch with your index finger; one shell comes out. Press it again for each shell until the tube is empty.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Retay with the gun pointed somewhere safe."
+   "prose": "One press lets go of one shell, so a tube that gave up one shell may still hold more. Keep pressing until nothing comes out.",
+   "quote": "the first cartridge will come out (fig. 29).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Unloading, step 3, p.14"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look in three places: chamber, carrier, magazine",
+   "action": "Open the bolt again. Look into the chamber and feel it with a fingertip, look at the carrier, and look up the magazine tube for the follower. All three must be empty before anything comes off.",
+   "box": "none",
+   "prose": "The carrier is the one people miss. A shell sitting on it is in neither the chamber nor the tube, and closing the bolt can feed it.",
+   "quote": "Before starting any operation on your shotgun, make sure that the chamber, carrier and the magazine are unloaded!",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, p.17"
   },
   {
    "phase": "Strip",
-   "title": "No takedown — and that is deliberate",
-   "action": "Leave the gun in one piece. How the barrel comes off, and the bolt group behind it, differs between inertia- and gas-operated guns, and on some the recoil spring sits in the stock; a guide that cannot see your gun cannot say how. Everything here is done with the bolt locked back.",
+   "title": "Fore-end cap off",
+   "action": "Unscrew the fore-end cap from the end of the magazine tube and set it aside. Leave the fore-end where it is; it comes off with the barrel.",
    "box": "none",
-   "prose": "⛔ No magazine cap is unscrewed and no pin is pushed. Anything beyond the outside and the open breech is work for Retay."
+   "prose": "The cap is what keeps the barrel firm against the receiver, which is why Retay has you check it is tight after the first rounds.",
+   "quote": "1) Unscrew the fore-end cap (figs. 3-4).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, step 1, p.17; figs. 3-4, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lock the bolt open",
+   "action": "Hold the gun in one hand and pull the bolt back with the other until it stays open. If it runs forward again, move the cartridge drop lever, the small lever at the top front inside the trigger guard, the way Retay's figure shows and pull the bolt back once more.",
+   "box": "none",
+   "prose": "The barrel comes off with the bolt held back. A bolt that will not stay back usually only needs the drop lever; do not force it.",
+   "quote": "should the bolt fail to engage, move the cartridge drop lever as arrowed and repeat the operation (fig. 31).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, step 2, p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel, breech and fore-end forward as one piece",
+   "action": "Rest the shotgun on your hip and hold it with one hand. With the other, pull the barrel and fore-end together straight forward out of the receiver. Lay them on something soft.",
+   "box": "none",
+   "prose": "The top of the receiver leaves with the barrel, so the bolt is now in the open, locked back. Keep your fingers out of its path until the next step is done.",
+   "quote": "with the other hand pull the breech-barrel- fore-end assembly out of the receiver (fig. 33).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, step 3, p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Hold the bolt, press the carrier button, ease it forward",
+   "action": "Hold the bolt firmly with one hand. Press the carrier button, on the side of the receiver near the front, and let the bolt come forward under control until you no longer feel the spring push it.",
+   "box": "none",
+   "prose": "The recoil spring in the stock is compressed behind the bolt. Your hand is the only thing holding it, so take the load before you press the button.",
+   "quote": "bolt forward until the recoil spring no longer pushes it forward (fig. 35).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, step 4, p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt assembly out along its guides",
+   "action": "Slide the bolt forward along its guides and lift it clear of the receiver. Its long tail, the link, comes out with it.",
+   "box": "none",
+   "prose": "If it binds, straighten it and try again. It slides out; nothing here needs prying.",
+   "quote": "5) Pull the bolt assembly out of the receiver, sliding it along its guides (fig. 36).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, step 5, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench: the barrel and fore-end, the fore-end cap, the bolt assembly, and the stock and receiver with the trigger group still in. That is enough to clean after a day's shooting. The bolt and the trigger group come apart in the deep clean.",
+   "box": "none",
+   "prose": "Retay asks for a clean after every use, and for the bolt to be taken apart only periodically.",
+   "quote": "Make it a practice to clean your firearm after every use.",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Firearm safety rules, rule 9, p.4",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the muzzle or by pull-through",
-   "action": "Work from the muzzle with a rod and a rod guide, or feed a pull-through cord in at the open chamber and draw it out of the muzzle. Brush wet with bore solvent, a few passes, then dry patches until clean — plastic from the wads builds up in a shotgun bore and comes out with the brush. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Bore, from the chamber end to the muzzle",
+   "action": "Clean the barrel from the chamber end toward the muzzle. Finish with a dry patch and look through it: nothing in the bore, not even a puddle of oil. The choke tube stays in while you clean the bore.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "Leaving the tube in keeps residue out of its threads. The bore is chromium plated inside on every ACE. Retay also wants this clean repeated just before you shoot.",
+   "quote": "you should clean the barrel from the chamber end to muzzle prior to usage.",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Firearm safety rules, rule 9, p.4; Maintenance, p.16",
+   "warn": "NOTE: whilst cleaning the gun the internal choke tubes are not to be stripped out.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
-   "title": "The breech you can reach through the open action",
-   "action": "With the bolt locked back, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach through the ejection port with a cloth and very little solvent. Do not pour or spray solvent into the action: what runs inside cannot be wiped back out, and no oil goes in from the outside either.",
-   "box": "none"
+   "title": "Choke out on its own, after the bore is done",
+   "action": "With the bore clean, unscrew the choke with the Retay wrench and take it all the way out. Clean the tube, and the threads in the barrel if they are dirty.",
+   "box": "none",
+   "prose": "Retay recommends this before the gun is put away. Keep it apart from the bore cleaning, so nothing from the bore lands in the open threads.",
+   "quote": "1) Unscrew the internal choke using the special choke wrench supplied with the shotgun and extract it completely from the barrel seat (fig. 56).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Internal choke, steps 1-2, p.23"
   },
   {
    "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
+   "title": "Choke back in, plain end first",
+   "action": "Put the tube in with its unthreaded end first, screw it into the barrel thread, and tighten it firmly with the wrench. It must not stick out past the muzzle. Take the wrench out of the barrel.",
+   "box": "limit",
+   "prose": "Retay crosses out the backwards way in its figure. Never shoot the gun without a choke fitted, and use only Retay chokes of the right length for the barrel.",
+   "quote": "NOTE: when choke is correctly mounted, it must not protrude from the barrel’s muzzle.",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Internal choke, steps 3-4, p.23",
+   "warn": "NOTE: before re-using the shotgun, make sure that the choke wrench has been removed from the barrel’s muzzle.",
+   "warnSrc": "maker"
   },
   {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Retay.",
+   "phase": "Clean",
+   "title": "Wipe the metal, then a little oil",
+   "action": "Wipe the powder residue off the outside of the bolt, its guides and the inside of the receiver you can reach. Put a light film of oil on the metal the weather gets to.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until Retay has seen it."
+   "prose": "A light film is the whole job. Leave the bolt in one piece here; taking it apart is the deep clean.",
+   "quote": "4) To keep the gun in good order, oiling of the parts subject to atmospheric corrosion is recommended.",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Maintenance, control 4, p.16",
+   "warn": "Do not overlubricate your firearm.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Stock and fore-end: no solvents",
+   "action": "Wipe the stock and the fore-end with a product made for that surface, whether it is wood, polymer, camouflage or paint. Keep bore solvent and solvent-bearing oils off them.",
+   "box": "limit",
+   "prose": "The cleaner that is right for the bore can spoil the finish on the stock.",
+   "quote": "Avoid that parts get in contact with oils containing solvents or chemical substances in general, which could alter or damage their surfaces.",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Maintenance, p.16"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Retay ACE, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Retay, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin out, firing pin held",
+   "action": "With the bolt assembly out of the gun, hold the rear end of the firing pin in so it and its spring cannot jump. Draw the retaining pin out of the side of the bolt at the rear.",
+   "box": "none",
+   "prose": "The firing pin spring is behind that small pin. Work over a tray, glasses on, and let the firing pin come back slowly.",
+   "quote": "6) Remove the firing pin retaining pin from the bolt assembly, while holding the firing pin and firing pin spring in place (fig. 37).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, step 6, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin and spring out the back",
+   "action": "Let the firing pin come out of the rear of the bolt with its spring. Keep the two together.",
+   "box": "none",
+   "prose": "The spring is easy to leave out later, and Retay has a note about that on the way back in.",
+   "quote": "7) Remove the firing pin and firing pin spring from the bolt (fig. 38).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, step 7, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Locking head pin up and out",
+   "action": "Lift the locking head rotating pin straight up out of the top of the bolt. Look for the reference line on its top first, so you know how it goes back.",
+   "box": "none",
+   "prose": "The firing pin has to be out before this one. This pin is what makes the locking head turn, and the head stays in until it is gone.",
+   "quote": "8) Remove the locking head rotating pin from its seat (fig. 39).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, step 8, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Locking head and the spring behind it",
+   "action": "Draw the locking head out of the front of the bolt, then take out the short, heavy spring from inside the bolt.",
+   "box": "none",
+   "prose": "Retay calls this one the recoil spring here and the inertia spring in its parts list. It is not the long recoil spring in the stock. Do not lose it: the gun must never go back together without it.",
+   "quote": "9) Remove the bolt locking head from the bolt (fig. 40).",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, steps 9-10, p.18"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger guard lock pin pressed in",
+   "action": "Hold the receiver and, with one hand, press the trigger guard lock pin: the small catch inside the guard, just above the trigger. Press the catch, not the trigger.",
+   "box": "none",
+   "prose": "The round button behind it is the safety, not the lock. Keep it pressed while your other hand goes to the carrier button for the next step. Keep the hammer as it is; the group goes back in with the hammer cocked.",
+   "quote": "11) Hold the shotgun as shown position and press the trigger guard lock pin with one hand (fig.42)",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, step 11, p.19"
+  },
+  {
+   "phase": "Strip",
+   "title": "Trigger group out, rear end down first",
+   "action": "Press the carrier button and swing the rear of the trigger guard assembly down and out of the receiver, the way the arrow in Retay's figure shows. Keep your fingers clear of the hammer and off the trigger.",
+   "box": "none",
+   "prose": "This is the end of Retay's strip. The trigger group comes out whole and stays whole; the book takes nothing in it apart.",
+   "quote": "The shotgun is now completely stripped.",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Shotgun stripping, step 12, p.19"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt parts cleaned and lubricated",
+   "action": "Clean the powder residue off the bolt body, the locking head, the rotating pin, the firing pin and both springs. Clean out the firing pin hole and the seat of the heavy spring. Wipe everything dry, then lubricate it lightly.",
+   "box": "none",
+   "prose": "Nothing left loose or sticky inside: the locking head has to turn freely in the bolt.",
+   "quote": "3) The bolt assembly may also become clogged with the same residuals over mentioned and therefore must be periodically dismantled, cleaned and lubricated;",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Maintenance, control 3, p.16",
+   "warn": "Do not overlubricate your firearm.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Trigger group cleaned whole",
+   "action": "Clean the powder residue and any grit off the hammer, the trigger and the rest of the group without taking it apart, then lubricate it lightly. Keep it dry of solvent before it goes back in.",
+   "box": "none",
+   "prose": "If the gun ever fails to fire, a dirty firing mechanism is one of the three things Retay has you check.",
+   "quote": "2) The firing mechanism, consisting of hammer, trigger, etc., may become clogged with any powder residuals (or foreign matters). Remove them by periodical cleaning or lubrication;",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Maintenance, control 2, p.16; Troubleshooting, p.15"
+  },
+  {
+   "phase": "Clean",
+   "title": "The spring in the stock: wanted, but not shown",
+   "action": "Retay wants the recoil buffer spring in the buttstock pulled, cleaned and oiled periodically, but no page of its book shows how to take it out. This guide does not invent it. Have it done by Retay or one of its authorized repair centers.",
+   "box": "none",
+   "prose": "The book does take the stock off, for the drop and cast shims, but that procedure stops at the stock. It does not open the spring tube.",
+   "quote": "5) Periodically pull, clean and oil the recoil buffer spring located in the buttstock",
+   "cite": "Retay AIR CONTROL EXTREME Line — Use • Maintenance • Spare Parts — Code 0203202501 (printed on the back page) — Maintenance, control 5, p.16; stock removal, p.22",
+   "warn": "Contact Retay to arrange for servicing of your firearm by Retay or one of its authorized repair centers.",
+   "warnSrc": "maker"
+  }
+ ],
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BARREL",
    "tasks": [
-    "From the muzzle with a rod guide, or a pull-through from the open chamber",
-    "Brush wet with bore solvent, then dry patches until clean",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Bore cleaned from the chamber end to the muzzle, after every use",
+    "Last patch dry, then look through: no obstruction, no oil pooled",
+    "Cleaned again just before shooting",
+    "⛔ Choke tube stays in while the bore is cleaned"
    ]
   },
   {
-   "name": "THE OPEN BREECH",
+   "name": "CHOKE TUBE & THREADS",
    "tasks": [
-    "Bolt face and chamber mouth wiped through the ejection port",
-    "⛔ No solvent or oil poured or sprayed into the action"
+    "After the bore: choke out with the Retay wrench",
+    "Tube cleaned, and the barrel threads if dirty",
+    "Unthreaded end in first, screwed firmly home with the wrench",
+    "Not standing out past the muzzle, wrench taken out",
+    "⛔ Never shoot without a choke fitted"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "METAL & OIL",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
+    "Residue wiped off the outside of the bolt and its guides",
+    "Inside of the receiver wiped where you can reach",
+    "Light film of oil on metal exposed to weather",
+    "⛔ Do not overlubricate"
    ]
   },
   {
-   "name": "STORAGE",
+   "name": "STOCK & FORE-END",
    "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Wiped with a product made for that surface",
+    "⛔ No solvents or solvent-bearing oils"
    ]
   }
  ],
@@ -99,33 +280,50 @@
    {
     "g": 0,
     "steps": [
-     4
+     10
     ]
    },
    {
     "g": 1,
     "steps": [
-     5
+     11,
+     12
     ]
    },
    {
     "g": 2,
-    "steps": []
+    "steps": [
+     13
+    ]
    },
    {
     "g": 3,
     "steps": [
-     6
+     14
     ]
-   },
-   {
-    "s": 7
    }
   ]
  },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Let the bolt close under control, with your hand out of its path."
+  "Trigger group first: press the carrier button and put the complete trigger guard assembly, hammer cocked, into the receiver, front end first, then swing the rear up until you hear it click.",
+  "⛔ Heavy spring into its seat in the bolt. It must be between the locking head and the bolt: Retay's reason is to avoid a shot being fired while the action closes.",
+  "Slide the locking head into the bolt so the hole in its stem lines up with the slot in the bolt. ⛔ The slanted surfaces on the stem must not be visible once it is in.",
+  "Drop the locking head pin through the slot into its hole. The line on top of the pin must be visible and run along the length of the bolt.",
+  "Firing pin and its spring into the hole in the bolt. Check the spring is really there, then push the retaining pin in so it blocks the firing pin.",
+  "Hold the stock and receiver almost level and slide the bolt assembly into its guides. The link must pass over the trigger guard assembly and sit on the recoil spring guide pin inside the receiver.",
+  "Push the bolt back by the front of the locking head until it stays open. If it will not stay, move the cartridge drop lever and try again.",
+  "Slide the breech end of the barrel into the receiver with the barrel ring on the magazine tube. The breech extension goes between the cover and the locking head; it must not hit the locking head.",
+  "Push the barrel and fore-end all the way in until they click and sit firmly. A synthetic fore-end slides along the magazine tube to its place.",
+  "Screw the fore-end cap on and tighten it firmly until barrel and fore-end are locked to the receiver.",
+  "Close the bolt with the carrier button, fingers clear of the port."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the action: it runs fully back and returns fully forward, and it locks open where your gun holds open. A safety, if fitted, moves through its positions. This check never asks you to pull the trigger."
+ "fncheck": "Chamber, carrier and magazine empty, muzzle in a safe direction, finger off the trigger. Open the bolt with the cocking lever: it should run fully back and stay open; if it does not, move the cartridge drop lever and try once more. Press the carrier button and the bolt should close fully. Work the safety button both ways: red ring showing is fire, red ring gone is safe; leave it on safe. Check the fore-end cap is tight, and check it again after the first rounds, because it is what keeps the barrel against the receiver. Check the choke is fitted, does not stick out, and the wrench is out of the muzzle. This check never asks you to pull the trigger. Before loading, read the chamber length on the barrel: never a shell longer than the chamber.",
+ "reassemblyRoutine": [
+  "Hold the stock and receiver almost level and slide the bolt assembly into its guides. The link must pass over the trigger guard assembly and sit on the recoil spring guide pin inside the receiver.",
+  "Push the bolt back by the front of the locking head until it stays open. If it will not stay, move the cartridge drop lever and try again.",
+  "Slide the breech end of the barrel into the receiver with the barrel ring on the magazine tube. The breech extension goes between the cover and the locking head; it must not hit the locking head.",
+  "Push the barrel and fore-end all the way in until they click and sit firmly. A synthetic fore-end slides along the magazine tube to its place.",
+  "Screw the fore-end cap on and tighten it firmly until barrel and fore-end are locked to the receiver.",
+  "Close the bolt with the carrier button, fingers clear of the port."
+ ]
 }
