@@ -1,98 +1,297 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-BOLT",
- "bpTemplateVersion": 1,
  "row": "browningxbolt2",
  "make": "Browning",
  "model": "X-Bolt 2",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model. Rifles of this kind are opened and closed by hand, which makes them simple to clear and clean — but the way the bolt comes out differs from rifle to rifle, so this guide leaves it in. Everything here is done with the action open: the bore by pull-through or from the muzzle, the parts you can reach, and the outside.\n\nListed in Fieldstrip as several chamberings. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "cbf6cdf87d58cd4018f8e4838c64247952afa54c5d75bc2822502352cd842987",
+ "cleanIntro": "The X-Bolt 2 is a three-lug bolt-action rifle with a short 60-degree bolt lift, a top-tang safety and a bolt unlock button on the bolt handle. The take-apart Browning prints for cleaning is the bolt out of the receiver and, where one is fitted, the Recoil Hawg muzzle brake off the barrel. The bolt and the magazine stay whole. Depending on the configuration your rifle has one of three magazines: the flush rotary magazine, the longer Plus magazine, or the MDT AICS magazine on Target rifles. Work out which one you have before you start, because the release is in a different place and the cleaning rules differ.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Safety on safe: read the S, not the red",
+   "action": "Point the muzzle in a safe direction, keep your fingers off the trigger, and clear all loose ammunition out of the cleaning area. Draw the top-tang safety to the rear. The S shows on the tang in front of it; that blocks the trigger and locks the bolt closed. If the safety will not go back, lift the bolt handle to cock the firing pin, then put it on safe at once.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "Forward covers the S and shows the red dot: ready to fire. Go by the S and by where the safety sits, because cleaning agents and weather wear the red away.",
+   "quote": "When the “safety” is drawn to the rear, the firearm is in the on safe position",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Operation of the \"Safety\"",
+   "warn": "DO NOT DEPEND ON THE RED COLOR ALONE TO INDICATE YOUR FIREARM’S SAFETY STATUS.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, action open",
-   "action": "If the rifle takes a detachable magazine, take it out first. Then open the action fully: lift the bolt handle and draw it all the way back; on a straight-pull, draw it straight back; on a lever action, swing the lever fully down and forward. Work it closed and open again until nothing more comes out, and leave it open.",
+   "title": "Bolt unlock button down, bolt open, look in the chamber",
+   "action": "Press the bolt unlock button on the upper part of the bolt handle and rotate the handle up, then draw the bolt all the way back so it ejects anything in the chamber. The safety stays on safe the whole time; that is what the button is for. Leave the bolt back and the action open, and look into the chamber to see that it is empty.",
    "box": "none",
-   "prose": "Keep your hand and thumb out of the bolt's path whenever you close it."
+   "prose": "Browning says not to assume the rifle is unloaded because the bolt is open: look at the chamber, the barrel, the feed mechanism and the magazine.",
+   "quote": "Open the bolt and eject any cartridge in the chamber. Leave the bolt in the rearward position with the action open.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Unloading > UNLOADING THE RIFLE, steps 2-3"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Magazine out: three magazines, two releases",
+   "action": "On the flush rotary magazine, pull the release on the forward edge of the magazine rearward with your index finger and let it drop into your hand. On the Plus magazine and the MDT AICS magazine, push the release button just in front of the trigger guard on the right side of the rifle, with your free hand under the magazine so it does not fall. Set it aside.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Browning with the gun pointed somewhere safe."
+   "prose": "Taking the magazine out does nothing to a round in the chamber, so look into the chamber again now.",
+   "quote": "Push the magazine release button rearward and remove the magazine.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Unloading > UNLOADING THE RIFLE, step 4; the releases are described under LOADING THE MAGAZINE",
+   "warn": "REMOVING THE MAGAZINE FROM THE RIFLE DOES NOT PREVENT THE RIFLE FROM BEING FIRED.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Empty the magazine and every spare",
+   "action": "Push forward on the rim of the top cartridge and slide it out from under the feed lips, one at a time, until the magazine is empty. Do the same with any spare magazines, and take the cartridges away from the cleaning area.",
+   "box": "none",
+   "prose": "A rotary magazine holds four standard cartridges or three magnum or WSM; a Plus holds six or five; the AICS on Target rifles is a ten-round magazine. Count what comes out.",
+   "quote": "Strip the cartridges from the magazine by pushing forward on the rim of the top cartridge and sliding each cartridge out, one at a time.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Unloading > UNLOADING THE MAGAZINE, steps 3-4"
   },
   {
    "phase": "Strip",
-   "title": "The bolt stays in — and that is deliberate",
-   "action": "Leave the bolt in the rifle. How a bolt comes out differs from rifle to rifle — a lever beside the action, a button inside the trigger guard, or a release that needs the trigger held — and a guide that cannot see your rifle cannot say which. Everything that follows is done with the action open.",
+   "title": "Bolt out: press in the rear of the bolt stop",
+   "action": "With the safety on safe and the chamber seen empty, press the bolt unlock button and rotate the bolt handle up. Find the bolt stop, the horizontal bar on the left side of the receiver. Press in on its rear end and draw the bolt straight back and out of the receiver. Wear eye protection from here on.",
    "box": "none",
-   "prose": "⛔ If you do not know where your rifle's bolt release is, never pull the trigger to find out. No screw, stock bolt, trigger or scope mount is touched in this guide."
+   "prose": "As it clears, carry the bolt away from the stock: the serrated cocking indicator below the bolt shroud is what marks the comb.",
+   "quote": "Press inward on the rear end of the bolt stop and carefully draw the bolt to the rear and out of the receiver",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Inserting and Removing the Bolt > Removing the Bolt, steps 1-3",
+   "warn": "WHEN REMOVING THE BOLT FROM THE RECEIVER, TAKE CARE TO PREVENT THE COCKING INDICATOR FROM STRIKING AND DAMAGING THE COMB OF THE STOCK.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Recoil Hawg or Sporter Recoil Hawg off, if your rifle has one",
+   "action": "Skip this if there is no brake. Let the brake cool. Rest the rifle in a gun vise or on a padded table with the top of the receiver up. Put the tool that came with the rifle through two holes in the lock nut and turn it counterclockwise until the lock nut is free of the barrel, then take off the lock nut and the brake.",
+   "box": "none",
+   "prose": "The magazine stays out, the action open and the safety on safe for this, exactly as you have it now.",
+   "quote": "Insert the included tool through two holes in the lock nut (Figure 41) and turn the installation tool counterclockwise until the lock nut is free from the barrel",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Muzzle Brakes and Suppressors > RECOIL HAWG AND SPORTER RECOIL HAWG > REMOVAL, steps 1-3"
+  },
+  {
+   "phase": "Strip",
+   "title": "Xeno Recoil Hawg off, if that is your brake: keep the shims in order",
+   "action": "The Xeno brake is not held by a lock nut. Secure the barrel in a gun vise with the top of the receiver up and the finish padded. Turn the brake counterclockwise with a 13/16\" crowfoot wrench until it is free of the barrel. Take off any shims and write down which ones they were and their order.",
+   "box": "none",
+   "prose": "The shims are what bring the logo back to the top when the brake goes on again.",
+   "quote": "Using a 13/16\" crowfoot wrench, turn the Recoil Hawg counterclockwise until it is free from the barrel. Remove any shims if applicable, making note of the shims used to make timing the brake during re-installation easier.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Muzzle Brakes and Suppressors > XENO RECOIL HAWG > REMOVAL, steps 1-2"
+  },
+  {
+   "phase": "Strip",
+   "title": "This is where the take-apart stops",
+   "action": "The bolt is not taken apart, and nothing inside the receiver comes out. Browning calls the rifle a specialized, finely fitted mechanism that can be permanently damaged by trying to take the inner assemblies apart. If it needs more than this, take it to a qualified gunsmith or contact Browning’s Arnold, Missouri service facility.",
+   "box": "none",
+   "quote": "NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions, closing notice",
+   "no": {
+    "q": "NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL.",
+    "who": "Browning",
+    "src": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions, closing notice"
+   }
   },
   {
    "phase": "Clean",
-   "title": "The bore, by pull-through or from the muzzle",
-   "action": "With the action open, drop a pull-through cord in at the chamber and draw it out of the muzzle — a brush wet with bore solvent first, then dry patches until they come out clean. If the open bolt does not leave the chamber clear for a cord, work from the muzzle with a rod and a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Bore from the breech, rod clear of the crown",
+   "action": "Look at the chamber and bore for powder fouling; some is normal. Fit a rod with a tip and patch of the right caliber for a snug fit, wet the patch with nitro solvent, put it in at the breech and run it back and forth several times. Keep the rod off the crown of the muzzle, because damage there affects accuracy.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "caution": "Never let the cleaning rod strike the crown of the muzzle.",
+   "quote": "Insert the rod and patch into the barrel at the breech end and run it back and forth several times.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, step 2"
   },
   {
    "phase": "Clean",
-   "title": "The open action",
-   "action": "With the action open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach with a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action or the trigger: what runs in there cannot be wiped back out. A thin film of oil on the outside of the bolt where it slides is enough.",
-   "box": "none"
+   "title": "Brass brush only when the fouling is heavy",
+   "action": "When patches are not enough, dip or spray a brass bore brush with nitro solvent and scrub the chamber and bore until the fouling is gone. Push the brush all the way through the barrel before you pull it back, so the bristles do not break off.",
+   "box": "none",
+   "quote": "To prevent brass bristles from breaking off, the brush should be pushed completely through the barrel before being withdrawn.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, step 2"
   },
   {
    "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
+   "title": "Copper solvent for the jacket fouling, more often on a magnum",
+   "action": "Swab the bore with a good copper solvent, following the procedure from the solvent's maker. Jacket copper sticks to the barrel and needs more frequent cleaning. Inspect and clean a magnum caliber more often.",
+   "box": "none",
+   "quote": "Residues from copper bullet jackets stick to the barrel and require more frequent cleaning. Magnum calibers will require more frequent inspection and cleaning.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, step 2"
   },
   {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Browning.",
+   "phase": "Clean",
+   "title": "Dry it, one lightly oiled patch, and no patch left behind",
+   "action": "Wipe the chamber and bore dry once the fouling is out, then pass one slightly oiled patch through with a fine, light gun oil. Look through the barrel and into the chamber for a patch left inside and take out any you find.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until Browning has seen it."
+   "quote": "Inspect the barrel and chamber to be certain no patches have inadvertently been left in them.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, steps 3-4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Brush out the receiver, a very light film on moving parts",
+   "action": "Use a small brush or a rag to get dirt out of the inside of the receiver and the rest of the action, the bolt included. Then put a very light film of good light gun oil on the moving parts.",
+   "box": "none",
+   "quote": "Lightly lubricate all moving parts with a high-quality, light gun oil. Use oil sparingly, a very light film is sufficient.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, step 5",
+   "warn": "DO NOT POUR LARGE QUANTITIES OF OIL INTO THE RECEIVER OR OTHER PARTS.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "The magazine is not taken apart, and the rear screw is left alone",
+   "action": "Clean the magazine whole. Browning does not recommend taking it apart, and on the Plus magazine says not to attempt it. The assembly screw on the rear of the rotary magazine is not a takedown screw: tampering with it makes the magazine inoperative.",
+   "box": "none",
+   "quote": "It is not recommended that the X-Bolt 2 magazine be disassembled.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING THE MAGAZINE; the Plus notice is under Magazine > BROWNING PLUS MAGAZINE",
+   "warn": "DO NOT TAMPER WITH THE ASSEMBLY SCREW ON THE REAR OF THE MAGAZINE. DOING SO WILL RENDER THE MAGAZINE INOPERATIVE.",
+   "warnSrc": "maker",
+   "no": {
+    "q": "It is not recommended that the X-Bolt 2 magazine be disassembled.",
+    "who": "Browning",
+    "src": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING THE MAGAZINE; the Plus notice is under Magazine > BROWNING PLUS MAGAZINE"
+   }
+  },
+  {
+   "phase": "Clean",
+   "title": "Spray, shake, dry: normally every 500 to 1,000 cartridges",
+   "action": "Inspect magazines often, because lubricant and dirt slowly collect in the mechanism. Spray the magazine inside and out with a gun cleaning solvent that is safe for its polymer and will not corrode the metal. Put a finger over the loading port, hold the port away from you and shake it hard. Dry it with compressed air or let it air dry.",
+   "box": "none",
+   "quote": "Place your finger over the loading port and shake it vigorously (with the loading port away from you) to remove solvent and residue from the magazine.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING THE MAGAZINE, steps 1-3"
+  },
+  {
+   "phase": "Clean",
+   "title": "MDT AICS magazine on a Target rifle: follow its own maker",
+   "action": "If your rifle came with the MDT Polymer AICS 10-round magazine, Browning tells you to follow all the instructions from that magazine's manufacturer when you service it.",
+   "box": "none",
+   "quote": "WHEN SERVICING THE MAGAZINE, PLEASE FOLLOW ALL INSTRUCTIONS FROM THE MANUFACTURER.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Magazine > XTRA CAPACITY MAGAZINE SYSTEM"
+  },
+  {
+   "phase": "Clean",
+   "title": "Muzzle threads: solvent, then a light oil",
+   "action": "With the brake off, clean the threads at the muzzle with a gun cleaning solvent and oil them lightly. For a Xeno brake clean the muzzle face and the barrel shoulder too, because the brake and its shims seat there.",
+   "box": "none",
+   "caution": "A suppressor can leave more debris in the rifle. Browning says an accelerated cleaning schedule may be necessary when you shoot with one.",
+   "quote": "Clean the threads at the muzzle with a gun cleaning solvent and lightly oil the threads.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Muzzle Brakes and Suppressors > RECOIL HAWG AND SPORTER RECOIL HAWG > INSTALLATION, step 3; XENO RECOIL HAWG > INSTALLATION, step 3"
+  },
+  {
+   "phase": "Clean",
+   "title": "Oiled cloth on the metal, oil or wax on wood",
+   "action": "Wipe all the exposed metal with a lightly oiled cloth and take off every finger mark, because moisture collects in them. Give the metal a light film of oil whenever the rifle has been out in weather or handled. Wood can be wiped with a light gun oil or polished with furniture wax, but not both. Keep strong solvents, insect repellent and sunscreen off the finishes.",
+   "box": "none",
+   "quote": "Wipe all exposed metal surfaces with a lightly oiled cloth making certain that all finger marks are removed.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Cleaning and Maintenance Suggestions > CLEANING PROCEDURES, steps 6-7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Oil-finish wood: alcohol, then a linseed-based finish",
+   "action": "Where an oil-finished stock has gone spotted or dull, treat the spot with rubbing alcohol on a soft lint-free cloth and let it dry. Then put on a small amount of a linseed-oil-based finish with a soft cloth, as its maker directs. In the checkering, spread a little evenly with a toothbrush or other soft brush.",
+   "box": "none",
+   "quote": "When the surfaces become spotted or dull, the affected area(s) can be treated using rubbing alcohol on a soft, lint free cloth and allowed to dry.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Maintenance of Oil Finish Stocks"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bottom metal and trigger: only if you had a reason to go there",
+   "action": "Cleaning does not need the bottom metal off. Browning takes it off with a 5/32\" (4mm) hex wrench to reach the trigger screw. The DLX trigger leaves the factory at about 3.5 lb with a range of about 3 to 4 lb; the DLX Target trigger at about 2.5 lb with a range of about 2 to 3.3 lb. If the bottom metal has been off, its screws go back to 35 in. lb.",
+   "box": "limit",
+   "prose": "On Target (AICS) models the rear screw goes in first, snug; then the front to 35 in. lb, then the rear to 35 in. lb.",
+   "quote": "When finished making the adjustment, replace the bottom metal back in the stock and torque the trigger guard screws to 35 in. lb.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Trigger Adjustment > ROTARY MAGAZINE MODELS and PLUS MAGAZINE MODELS, step 6; TARGET (AICS MAGAZINE) MODELS, steps 6-9"
+  },
+  {
+   "phase": "Clean",
+   "title": "Scope bases: four screws each, and look inside the receiver",
+   "action": "On hunting and long range X-Bolt 2 rifles each scope base is held by four screws, not two. With the bolt out, look inside the receiver and check that no base screw is too long and reaches into the bolt's way. Use only the correct bases and screw lengths; Browning tightens the base screws evenly to 18 in. lb.",
+   "box": "none",
+   "quote": "Once the bases are installed, check inside the receiver to verify that the base mounting screws are not too long and interfering with the operation of the bolt.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Mounting a Scope > HUNTING AND LONG RANGE MODELS",
+   "warn": "ALWAYS USE THE CORRECT BASES FOR THIS RIFLE AND THE APPROPRIATE LENGTH SCREWS.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "X-Bolt 2 Target: check the optics rail now and then",
+   "action": "X-Bolt 2 Target models come with the optics rail fitted at the factory, and Browning wants its hardware checked occasionally. With the rings and scope off the rail, torque the screws to 25 in. lb with a T15 Torx bit. If they are loose, take them out, add a drop of removable threadlocker and torque them. Refit the scope and sight the rifle in to confirm zero.",
+   "box": "none",
+   "quote": "To maintain accuracy, we recommend occasionally inspecting the rail to ensure that the mounting hardware is tight.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Mounting a Scope > X-BOLT 2 TARGET MODELS"
+  },
+  {
+   "phase": "Clean",
+   "title": "Adjustable comb: bolt out first, level and secure",
+   "action": "Know which stock you have: Vari-Tech, MAX, or the carbon fiber stock on Pro and Mountain Pro rifles. Take the bolt out before moving any of these combs so the comb is not damaged. On the Vari-Tech and the carbon fiber stock the comb is never raised more than 1\", because past that it cannot be properly secured. Check that the comb is level and secure, and do not overtighten what holds it.",
+   "box": "limit",
+   "quote": "RAISING THE COMB MORE THAN 1\" WILL PREVENT THE COMB FROM BEING PROPERLY SECURED TO THE STOCK AND COULD RESULT IN INJURY OR DAMAGE TO THE RIFLE WHEN FIRING.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Composite Stock Adjustment > COMB HEIGHT ADJUSTMENT; Pro Stock Adjustment > COMB HEIGHT ADJUSTMENT"
+  },
+  {
+   "phase": "Clean",
+   "title": "Length of pull: spacers only, and a MAX stock is never shortened",
+   "action": "A Vari-Tech stock takes no more than four of its 1/4\" spacers, and is not shortened beyond taking spacers out. A MAX stock is adjusted with spacers too, and cannot be cut shorter. The MAX steps for the X-Bolt 2 differ slightly from those for earlier MAX stocks, so do not follow an older rifle's instructions. Check that the recoil pad screws are tight but not overtightened.",
+   "box": "limit",
+   "quote": "Browning MAX composite stocks on X-Bolt 2 rifles cannot be shortened.",
+   "cite": "Browning X-Bolt 2 Owner's Manual — UNKNOWN — not printed in the document — Max Stock Adjustment > Length of Pull Adjustment; the Vari-Tech limits are under Composite Stock Adjustment > Length of Pull Adjustment",
+   "warn": "TO PREVENT DAMAGE TO YOUR RIFLE WHEN ADJUSTING LENGTH OF PULL, PLEASE FOLLOW THE DIRECTIONS OUTLINED IN THIS OWNER'S MANUAL.",
+   "warnSrc": "maker"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Browning X-Bolt 2, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Browning, not onto the bench.",
+ "deepAbsentReason": "Browning’s X-Bolt 2 book ends at the bolt out of the receiver and the muzzle brake off the barrel. It prints no bolt disassembly and no trigger disassembly; the bottom metal comes off only to reach the trigger screw, and the barreled action comes out of the stock only to drill the fore-end for an accessory rail, so neither is a cleaning step. Under Cleaning and Maintenance Suggestions it says \"NEVER ATTEMPT TO TAKE YOUR FIREARM APART FURTHER THAN EXPLAINED IN THIS OWNER’S MANUAL.\" and sends further disassembly for service or cleaning to a qualified gunsmith or its Arnold, Missouri service facility. It also says the magazine should not be disassembled. There is no deeper procedure to follow.",
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BORE & CHAMBER",
    "tasks": [
-    "Pull-through from the open chamber, or from the muzzle with a rod guide",
-    "Brush wet with bore solvent, then dry patches until clean",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Rod in at the breech, correct-caliber tip and patch",
+    "⛔ Never let the rod strike the crown of the muzzle",
+    "Nitro solvent on a patch; brass brush only for heavy fouling",
+    "Brush pushed fully through before it comes back",
+    "Copper solvent as its maker directs; more often on magnums",
+    "Dry, then one slightly oiled patch",
+    "Check no patch is left in the barrel or chamber"
    ]
   },
   {
-   "name": "THE OPEN ACTION",
+   "name": "RECEIVER & BOLT",
    "tasks": [
-    "Bolt face and chamber mouth wiped",
-    "Receiver wiped where a cloth reaches",
-    "A thin film of oil on the bolt where it slides",
-    "⛔ No solvent poured or sprayed into the action or the trigger"
+    "Small brush or rag through the receiver and action",
+    "Bolt cleaned whole",
+    "Very light film of light gun oil on moving parts",
+    "⛔ Never pour oil into the receiver; it drains into the wood and loosens the stock"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "MAGAZINE",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
+    "⛔ Do not take the magazine apart",
+    "⛔ Do not touch the assembly screw at the rear",
+    "Normally cleaned after 500 to 1,000 cartridges",
+    "Polymer-safe solvent inside and out, shake, dry",
+    "MDT AICS magazine: follow its manufacturer’s instructions"
    ]
   },
   {
-   "name": "STORAGE",
+   "name": "MUZZLE BRAKE & THREADS",
    "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Only if your rifle has a brake and it is off",
+    "Muzzle threads cleaned with solvent and lightly oiled",
+    "Xeno: muzzle face and barrel shoulder cleaned, shims kept in order"
+   ]
+  },
+  {
+   "name": "EXTERIOR & WOOD",
+   "tasks": [
+    "Metal wiped with a lightly oiled cloth, finger marks off",
+    "Wood oiled or waxed, not both",
+    "Oil-finish spots: rubbing alcohol, dry, then a linseed-oil-based finish",
+    "Strong solvents and repellents kept off the finishes"
+   ]
+  },
+  {
+   "name": "STOCK, TRIGGER & SCOPE HARDWARE",
+   "tasks": [
+    "Bottom metal screws at 35 in. lb if they were off",
+    "No scope base screw reaching into the bolt’s way",
+    "Target models: optics rail screws at 25 in. lb",
+    "Comb level and secure",
+    "⛔ Never raise a Vari-Tech or carbon fiber comb more than 1\"",
+    "⛔ Never shorten a MAX stock"
    ]
   }
  ],
@@ -101,33 +300,59 @@
    {
     "g": 0,
     "steps": [
-     4
+     8,
+     9,
+     10,
+     11
     ]
    },
    {
     "g": 1,
     "steps": [
-     5
+     12
     ]
    },
    {
     "g": 2,
-    "steps": []
+    "steps": [
+     13,
+     14,
+     15
+    ]
    },
    {
     "g": 3,
     "steps": [
-     6
+     16
     ]
    },
    {
-    "s": 7
+    "g": 4,
+    "steps": [
+     17,
+     18
+    ]
+   },
+   {
+    "g": 5,
+    "steps": [
+     19,
+     20,
+     21,
+     22,
+     23
+    ]
    }
   ]
  },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Close the action under control, with your hand and thumb out of its path."
+  "Make sure the chamber and the bore are empty, with no patch left in the barrel.",
+  "Recoil Hawg or Sporter Recoil Hawg: put the lock nut into the brake with its holes toward the front of the rifle, place both over the muzzle threads with the logo up, and turn the lock nut clockwise onto the barrel.",
+  "Tighten that lock nut with the tool through two of its holes, half the tool showing on each side, turning clockwise with only your hands so it is not overtightened.",
+  "Xeno Recoil Hawg: put the shims back as they came off and thread the brake clockwise until it seats against the barrel shoulder. With the logo at 12 o’clock, torque it to 25-35 ft. lb. If the logo is not at the top, change the shims, thicker ones against the shoulder, until it is. On M13x.75 and M13x1.25 threads the shims go in the brake’s counterbore first.",
+  "Put the safety in the ON SAFE position before the bolt goes in. On the X-Bolt 2 the bolt goes in with the safety on safe.",
+  "Line up the front of the bolt with the rear opening of the receiver, push it all the way forward and rotate the handle down to lock it. You do not have to press the bolt stop, but doing so makes it easier.",
+  "Put the empty magazine into the magazine well until the magazine catch holds it."
  ],
- "fncheck": "Magazine out and the chamber empty. The action opens and closes fully and smoothly: a bolt handle turns fully down, a lever closes flush. Any safety you can see moves through each of its positions. This check never asks you to pull the trigger — on a rimfire, dry firing can damage the chamber edge, and on any rifle whether it tolerates it is a question for Browning."
+ "fncheck": "No live ammunition: Browning says never to test the mechanical function of the rifle with live ammunition. With the chamber and magazine empty and the safety on safe, the S shows in front of the safety and the bolt handle stays locked down. Press the bolt unlock button: the handle lifts and the bolt draws back, with the safety still on safe. Close it again; it locks down without touching a base screw. With the rifle cocked you can feel and see the cocking indicator below the bolt shroud. If a brake was off, check that it is tight and firmly seated with its logo up; your point of impact may have changed. If something does not work right after a thorough cleaning, Browning sends you to a Browning Recommended Service Center, its Arnold, Missouri facility or a qualified gunsmith."
 }

@@ -2,6 +2,32 @@
  "_doc": "One entry per published index version, newest first. `added` is the row ids whose guide first appeared at that version, so a client holding version N can ask for everything since N without a redesign.",
  "versions": [
   {
+   "version": 40,
+   "publishedAt": "2026-11-24",
+   "appCommit": "3dee2c7860645a1f7d853df2838015ea5fe021f9",
+   "counts": {
+    "catalogRows": 1297,
+    "guides": 1264,
+    "plates": 0
+   },
+   "added": [],
+   "changed": [
+    "browningxbolt2",
+    "centuryarmscenturion11",
+    "diamondbacksdr",
+    "taurusrpc"
+   ],
+   "removed": [],
+   "platesAdded": [],
+   "rowsChanged": [
+    "centuryarmscenturion11",
+    "taurusrpc",
+    "diamondbacksdr",
+    "browningxbolt2"
+   ],
+   "rowsRemoved": []
+  },
+  {
    "version": 39,
    "publishedAt": "2026-11-24",
    "appCommit": "defc3eb13d8f8ce2e034f7f34e7f1fb014080ada",

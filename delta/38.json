@@ -1,8 +1,94 @@
 {
  "_doc": "Everything a client holding version 38 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 38,
- "to": 39,
+ "to": 40,
  "rows": [
+  {
+   "id": "centuryarmscenturion11",
+   "maker": "Century Arms",
+   "model": "Centurion 11",
+   "chambering": ".45 ACP",
+   "category": "Semi-auto pistol",
+   "family": "NEW-CENTURYARM-CENTURION11",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".45 ACP"
+   ],
+   "guide": true,
+   "guideId": "centuryarmscenturion11",
+   "guideSha256": "086c87547b20074819810ed54a23c29b0bef7d266666436bf160f3634ea6428d",
+   "cal": "{\"chs\":[\".45 ACP\"]}",
+   "calSha256": "effdc7f0f05c128ab4808095f2d27f957f4d35d6e79c90e415c96d45f958fae6",
+   "calV": 38
+  },
+  {
+   "id": "taurusrpc",
+   "maker": "Taurus",
+   "model": "RPC",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-TAURUS-RPC",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "taurusrpc",
+   "guideSha256": "9daac578e2e2d5305bae2cd96e1bc71bb5d69b5b3ab82c9af1650aac93861502",
+   "cal": "{\"chs\":[\"9mm\"]}",
+   "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
+   "calV": 38
+  },
+  {
+   "id": "diamondbacksdr",
+   "maker": "Diamondback",
+   "model": "SDR",
+   "chambering": "multi",
+   "category": "Revolver",
+   "family": "NEW-DIAMONDBAC-SDR",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".357 Mag",
+    ".38 Spl",
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "diamondbacksdr",
+   "guideSha256": "0ac176bf7ef0dcef4bb4fa4a84e374fcc0eb7f7b8ef33fa0b314b592658da21d",
+   "cal": "{\"chs\":[\".357 Mag\",\".38 Spl\",\"9mm\"]}",
+   "calSha256": "2f8c65f6bd81f99bb53425496c17018f0585a3ed568270d9692b28e75767ad99",
+   "calV": 38
+  },
+  {
+   "id": "browningxbolt2",
+   "maker": "Browning",
+   "model": "X-Bolt 2",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "NEW-BROWNING-XBOLT2",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".243 Win",
+    ".270 Win",
+    ".30-06",
+    ".300 Win Mag",
+    ".308 Win",
+    "6.5 Creedmoor",
+    "6.5 PRC",
+    "6.8 Western",
+    "7mm Rem Mag"
+   ],
+   "guide": true,
+   "guideId": "browningxbolt2",
+   "guideSha256": "33d880747cbaf25e61019269b5f28d1f823ad05219212f11e6330372fe35c226",
+   "cal": "{\"chs\":[\".243 Win\",\".270 Win\",\".30-06\",\".300 Win Mag\",\".308 Win\",\"6.5 Creedmoor\",\"6.5 PRC\",\"6.8 Western\",\"7mm Rem Mag\"]}",
+   "calSha256": "e6b21606e7ce5caf420a3029e17a35e0c0d43ed670a18a025c9f6e17ff74e4e0",
+   "calV": 38
+  },
   {
    "id": "sigsauerp385",
    "maker": "SIG Sauer",

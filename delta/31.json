@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 31 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 31,
- "to": 39,
+ "to": 40,
  "rows": [
   {
    "id": "radianmodel1",
@@ -24486,8 +24486,7 @@
    ],
    "guide": true,
    "guideId": "centuryarmscenturion11",
-   "guideSha256": "f09e80f039392820ffbad2a721fb833c46c1651710fa17e70e939868a5b109aa",
-   "bestPractices": true,
+   "guideSha256": "086c87547b20074819810ed54a23c29b0bef7d266666436bf160f3634ea6428d",
    "cal": "{\"chs\":[\".45 ACP\"]}",
    "calSha256": "effdc7f0f05c128ab4808095f2d27f957f4d35d6e79c90e415c96d45f958fae6",
    "calV": 38
@@ -24586,8 +24585,7 @@
    ],
    "guide": true,
    "guideId": "taurusrpc",
-   "guideSha256": "cbcdee72adb10602e14161f34e85b553ef323ad98fd6867811f1a8e71af6059b",
-   "bestPractices": true,
+   "guideSha256": "9daac578e2e2d5305bae2cd96e1bc71bb5d69b5b3ab82c9af1650aac93861502",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 38
@@ -24648,8 +24646,7 @@
    ],
    "guide": true,
    "guideId": "diamondbacksdr",
-   "guideSha256": "f69e6c7b7110cda383399cec2c701c4bd7cf6b3f3edd76a239d6438999c5a1dd",
-   "bestPractices": true,
+   "guideSha256": "0ac176bf7ef0dcef4bb4fa4a84e374fcc0eb7f7b8ef33fa0b314b592658da21d",
    "cal": "{\"chs\":[\".357 Mag\",\".38 Spl\",\"9mm\"]}",
    "calSha256": "2f8c65f6bd81f99bb53425496c17018f0585a3ed568270d9692b28e75767ad99",
    "calV": 38
@@ -24893,8 +24890,7 @@
    ],
    "guide": true,
    "guideId": "browningxbolt2",
-   "guideSha256": "36750abe2056d588f51ed459b4cbfe394493c6e46db9764d92a408b5c81de5f6",
-   "bestPractices": true,
+   "guideSha256": "33d880747cbaf25e61019269b5f28d1f823ad05219212f11e6330372fe35c226",
    "cal": "{\"chs\":[\".243 Win\",\".270 Win\",\".30-06\",\".300 Win Mag\",\".308 Win\",\"6.5 Creedmoor\",\"6.5 PRC\",\"6.8 Western\",\"7mm Rem Mag\"]}",
    "calSha256": "e6b21606e7ce5caf420a3029e17a35e0c0d43ed670a18a025c9f6e17ff74e4e0",
    "calV": 38

@@ -1,184 +1,210 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAP",
- "bpTemplateVersion": 1,
  "row": "taurusrpc",
  "make": "Taurus",
  "model": "RPC",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model, so this guide works from what is true of every pistol of its kind and asks you to look before it asks you to do anything. It clears the pistol, then strips it only if yours shows one of three takedown controls that come apart the same way on every pistol that has them. If yours shows none of them, the slide stays on and the pistol is cleaned locked open — that is a complete clean, not a lesser one.\n\nListed in Fieldstrip as 9mm. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 (UNKNOWN — not printed in the document)",
+ "sourceSha256": "af738816f43d66d5486dafdaf35c75c9c03ace427e9737b51cbfc57a89200f7c",
+ "cleanIntro": "The Taurus RPC is a 9mm Luger roller-delayed blowback pistol built like a small rifle: an upper receiver that hinges off a polymer lower on two takedown pins, a bolt carrier assembly with a rotating bolt head and a separate locking tip, a reversible charging handle, an external manual safety, and a threaded barrel held in the upper by a barrel lock button. Taurus lists two builds, an 8-inch and a 4.5-inch barrel.\n\nThe field strip is short: magazine out, bolt locked open twice, rear takedown pin out, upper rotated open, recoil spring support out, bolt carrier assembly out. DEEP CLEAN carries what Taurus publishes beyond that: the bolt carrier assembly apart, the barrel sub-assembly out of the upper, and the magazine apart. Taurus recommends cleaning and lubricating at least every 200 rounds, and after each use.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Safety on, finger off, magazine out",
+   "action": "Point the muzzle in a safe direction and push the manual safety all the way up to SAFE. Keep your finger off the trigger and on the indexing pad. Press the magazine release button and take the magazine out of the well.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "Taurus asks for the safety to be fully up, not halfway. The magazine comes out first so that working the charging handle next cannot feed a fresh round.",
+   "quote": "1. Point your firearm in a safe direction and engage the manual safety. 2. Keep your finger off the trigger. 3. Press the magazine release button. 4. Remove the magazine.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — First-Step Disassembly, printed p.28"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out first, then the slide",
-   "action": "Press the magazine release and take the magazine out of the grip before you touch the slide. Then pull the slide fully back and lock it open on the slide stop if your pistol has one; if it will not lock, hold it back. The order is the whole point: working the slide with a magazine still in puts a fresh round in the chamber, and that is the classic way an empty pistol stops being empty.",
+   "title": "Two strokes of the charging handle, then lock it open",
+   "action": "Pull the charging handle fully back at least twice, then engage the bolt catch on the last stroke so the bolt stays open.",
    "box": "none",
-   "prose": "If the magazine will not come out, stop and contact Taurus, with the pistol pointed somewhere safe."
+   "prose": "Two full strokes give a stuck case two chances to be extracted and thrown clear. Watch the ejection port as you do it: a round that comes out is the reason for the step.",
+   "quote": "Pull the charging handle, performing at least two safety strokes, and engage the bolt catch so that it remains in the open position.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — First-Step Disassembly, printed p.28"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and down into the empty magazine well, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Look and feel — chamber and magazine well",
+   "action": "With the bolt locked open, look into the chamber and the magazine well, and feel both with a fingertip. Only when both are empty, close the bolt — either with the bolt catch, or by pulling the charging handle fully back and letting it go.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Taurus with the gun pointed somewhere safe."
+   "prose": "Seeing is not enough on its own; Taurus asks for both a visual and a physical check.",
+   "quote": "With the bolt open, visually and physically ensure the chamber and magazine well are empty.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — First-Step Disassembly, printed p.28",
+   "warn": "NEVER ATTEMPT TO DISASSEMBLE OR CLEAN A LOADED FIREARM. DOING SO CAN RESULT IN SERIOUS BODILY INJURY OR DEATH.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Which takedown does yours have? Look before you touch",
-   "action": "With the pistol empty and the slide locked open, look at the frame just above the trigger. One of three things decides your next step: two small serrated tabs, one on each side of the frame just above the front of the trigger guard; a single lever on the left side of the frame, made to rotate; or a trigger guard whose front end is made to pull down away from the frame. Follow only the step written for what you see, and skip the other two.",
+   "title": "Rear takedown pin out",
+   "action": "With your thumb, push the rear takedown pin until it clicks; a pin punch can help start it. Then pull it from the other side until it stops at its full travel.",
    "box": "none",
-   "prose": "⛔ If you see none of these, more than one, or you are not sure, this is where your strip ends: leave the slide on and go straight to the cleaning steps, which work with the pistol locked open. Never press a trigger, push on a pin or press a button to find out how a pistol comes apart."
+   "prose": "The pin stays in the lower at the end of its travel. With it out, the rear of the upper is free.",
+   "quote": "7. Using your thumb, push the rear takedown pin until you hear a click. A pin punch may be used to assist with this operation. Then, pull the pin from the other side until it reaches its full travel.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — First-Step Disassembly, printed p.28"
   },
   {
    "phase": "Strip",
-   "title": "Two tabs: release the striker, then slide forward off the frame",
-   "action": "Only if your pistol has the two takedown tabs. Let the slide run forward, point the muzzle at a safe backstop, and press the trigger once — on pistols built this way the striker has to be released before the slide will come off, and you will hear it click. Then grip the pistol so your fingers draw the slide back a few millimetres, pull both tabs down with your other hand and hold them there, and let the slide run forward off the front of the frame.",
+   "title": "Rotate the upper open",
+   "action": "Rotate the upper receiver up and away from the lower to open the gun.",
    "box": "none",
-   "prose": "⛔ Only after the chamber has been proven empty twice. If yours is a rimfire (.22) pistol, do not press the trigger: stop here and clean it with the slide on. If the slide will not move forward with both tabs held down, let go and stop — never force it."
+   "prose": "This exposes the mechanism housing, the bolt assembly and the bolt carrier.",
+   "quote": "Rotate the upper receiver as shown in Figure 4 to access the\nmechanism housing, bolt assembly, and bolt carrier.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — First-Step Disassembly, printed p.28"
   },
   {
    "phase": "Strip",
-   "title": "A takedown lever: turn it down, then ease the slide off",
-   "action": "Only if your pistol has a takedown lever. Rotate the lever down until it stops, usually about a quarter turn. Some pistols let it turn with the slide locked open and others only with the slide forward, and some also have a small button on the right side of the frame that has to be held in while the lever turns. Once it has turned, hold the slide, let it run forward under control, and ease it off the front of the frame.",
+   "title": "Recoil spring support out",
+   "action": "Gently press the lower part of the recoil spring support to free it from the receiver latch, and at the same time pull it out of the gun.",
    "box": "none",
-   "prose": "⛔ If the lever will not turn by hand either way, stop here and clean the pistol with the slide on. Never use a tool on the lever, and never press the trigger to make it move."
+   "prose": "The support sits at the rear of the recoil spring assembly and locks into the receiver. Press and pull together; pulling alone will not free it.",
+   "quote": "9. Gently press the lower part of the support so that it is released from the receiver latch, while simultaneously pulling it out of the weapon.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — First-Step Disassembly, printed p.28"
   },
   {
    "phase": "Strip",
-   "title": "A pull-down trigger guard: slide back, up and off",
-   "action": "Only if the front of your trigger guard pulls down. Pull the front of the trigger guard down; on most pistols built this way it then tips a little to one side and rests against the frame, holding itself open. Draw the slide all the way back, lift its rear end up off the frame, and ease it forward off the barrel. The barrel stays fixed to the frame and the recoil spring stays on the barrel — on this pattern neither is taken out.",
+   "title": "Bolt carrier assembly out",
+   "action": "Tilt the gun level to get at the receiver, and push the bolt carrier assembly out.",
    "box": "none",
-   "prose": "Push the trigger guard back into place once the slide is off, so it cannot catch on anything while you clean."
+   "prose": "The bolt carrier assembly carries the bolt head, the locking tip and the firing pin; it comes out in one piece here.",
+   "quote": "10. Tilt the weapon horizontally to access the lower receiver. Push the bolt carrier assembly out of the receiver.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — First-Step Disassembly, printed p.28"
   },
   {
    "phase": "Strip",
-   "title": "Tabs or lever: spring and barrel out of the slide",
-   "action": "Turn the slide upside down. The recoil spring and its guide rod sit under the barrel and are still under some pressure: push the guide rod gently forward, lift its rear end clear of the barrel, and let it out slowly under your thumb. Note which way round it sat — which end faced the barrel — because it goes back the same way. Then lift the barrel out by its chamber end.",
+   "title": "Field strip complete",
+   "action": "On the bench: the lower with the upper rotated open, the recoil spring assembly, the bolt carrier assembly and the magazine. This is Taurus's first-level disassembly. DEEP CLEAN carries what the book publishes beyond it: the bolt carrier assembly apart, the barrel out of the upper, and the magazine apart.",
    "box": "none",
-   "prose": "A pull-down trigger guard pistol skips this step: its barrel stays where it is."
-  },
-  {
-   "phase": "Strip",
-   "title": "That is the whole strip",
-   "action": "Nothing else comes apart. The firing pin or striker, the extractor, the sights and everything inside the frame stay exactly as they are — on a pistol with no published procedure, those are work for Taurus. Lay the parts out in the order they came off, on a clean cloth, away from the edge of the bench.",
-   "box": "none",
-   "prose": "If any part came loose that this guide did not ask for, stop and contact Taurus before you put the pistol back together."
-  },
-  {
-   "phase": "Clean",
-   "title": "The bore, from the chamber end whenever you can",
-   "action": "With the barrel out, push a brush wet with bore solvent through from the chamber end, a few passes, then dry patches until they come out clean. If your barrel stayed in, lock the slide open and feed a pull-through cord in at the chamber through the ejection port, or work from the muzzle with a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
-   "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
-  },
-  {
-   "phase": "Clean",
-   "title": "Breech face, rails and the feed ramp",
-   "action": "Wipe the breech face — the flat at the back of the slide where the cartridge sits — and the slide's rails and the frame's rails with a cloth and a little solvent, using a small nylon brush on the carbon. Wipe the feed ramp at the bottom of the chamber mouth until it is smooth and bright. Use solvent sparingly and keep it out of the frame's internals and the firing-pin hole: what runs in there cannot be wiped back out.",
-   "box": "none"
-  },
-  {
-   "phase": "Clean",
-   "title": "Oil lightly where metal slides on metal",
-   "action": "A thin film of gun oil goes on the slide rails, the frame rails, the outside of the barrel where it rubs the slide, and the barrel's locking surfaces. A drop is enough on each; wipe off anything that runs. No oil goes into the firing-pin hole or into the frame from the outside.",
-   "box": "none",
-   "prose": "Too much oil collects grit and, in the cold, slows the parts it was meant to help."
-  },
-  {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the slide, the frame and the barrel for cracks, the recoil spring for kinks or a broken coil, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Taurus.",
-   "box": "none",
-   "prose": "Any one of these means the gun is not fired until Taurus has seen it."
+   "prose": "Taurus calls this the disassembly needed for routine maintenance.",
+   "quote": "For the maintenance of your Taurus firearm, it is necessary to perform a first-level disassembly.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — First-Step Disassembly, printed p.28",
+   "branch": true
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Taurus RPC, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Taurus, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Bolt head off the carrier",
+   "action": "Push the bolt head back against the bolt carrier, rotate it 90 degrees counterclockwise to release it, then pull it forward off the assembly.",
+   "box": "none",
+   "prose": "Push, turn, pull — in that order. It will not turn until it is pushed home against the carrier.",
+   "quote": "With the bolt assembly removed from the upper receiver, push the bolt head against the bolt carrier, rotate the head 90 degrees counterclockwise to release it from the bolt carrier. Then pull the bolt head forward to detach it from the assembly.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — Disassembly of the Bolt Carrier Assembly, printed p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Locking tip, firing pin and spring out",
+   "action": "Take the locking tip out of the carrier with the firing pin and spring still in it, then take the firing pin and spring out of the locking tip.",
+   "box": "none",
+   "prose": "The RPC ships with a 110-degree locking tip for standard ammunition and an 85-degree tip in the box for subsonic or suppressed use. Note which one is in your gun so the same one goes back.",
+   "caution": "Use of the correct locking tip is critical to ensure proper function and safe operation of the firearm.",
+   "quote": "2. Remove the locking tip together with the firing pin and spring. 3. Remove the firing pin and spring from inside the locking tip.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — Disassembly of the Bolt Carrier Assembly, printed p.30"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front takedown pin out, handguard off",
+   "action": "To take the barrel out, Taurus sends you back to the handguard steps. With your thumb, push the front takedown pin from the left side until it clicks (a pin punch can help), then pull it from the right side to its full travel. Pull the handguard firmly forward out of its housing in the receiver.",
+   "box": "none",
+   "prose": "The book's barrel procedure opens by repeating these steps from its charging-handle section.",
+   "quote": "Repeat the disassembly steps, as previously described on page 20.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — Disassembly of the Barrel Sub-Assembly, printed p.22"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel lock button to unlocked",
+   "action": "Press the barrel lock button at the front until its tip lifts above the housing. Holding it down, put a 5 mm hex key in it and turn it 180 degrees clockwise, until the button points to unlocked and rests in the opposite slot.",
+   "box": "limit",
+   "prose": "Half a turn, clockwise. The button must sit fully in the unlocked slot before the barrel will pull free.",
+   "quote": "Press the barrel lock button in the front area until the tip lifts above the housing. While holding the lock button down (Figure 4), insert a 5mm hex key, turn it 180 degrees clockwise until the button points to the \"unlocked\" position (Figure 6), and rests in the opposite slot (unlocked).",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — Disassembly of the Barrel Sub-Assembly, printed p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel sub-assembly out",
+   "action": "Hold the receiver firmly and pull the barrel sub-assembly hard out of its housing until it is completely free.",
+   "box": "none",
+   "prose": "It takes a firm pull. Clean the barrel and the inside of the upper before it goes back.",
+   "quote": "4. While firmly holding the receiver, pull the Barrel Sub-Assembly strongly out of its housing until it is completely free.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — Disassembly of the Barrel Sub-Assembly, printed p.23"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine apart",
+   "action": "Press the base plate lock on the magazine and, keeping it pressed, slide the base plate off. Then take out the magazine spring, the follower and the spring base.",
+   "box": "none",
+   "prose": "Keep a thumb over the bottom of the magazine as the plate comes off. Note which way the follower faces so it goes back the same way.",
+   "quote": "1. Press the magazine base plate lock. While keeping it pressed, slide the base plate in the direction shown until it is completely removed. 2. Remove the magazine spring, follower, and spring base.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — Disassembly of the Magazine, printed p.30",
+   "warn": "When removing the base plate, be careful with the internal parts that are under spring tension, as they may eject suddenly and forcefully from the magazine.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "No further disassembly",
+   "action": "Stop here. The trigger group, the hammer, the extractor, the locking rollers and everything else in the exploded view stay as they are.",
+   "box": "limit",
+   "prose": "This is where Taurus's published disassembly ends.",
+   "quote": "Disassembly of the firearm beyond these steps is not recommended unless performed by a qualified gunsmith.",
+   "cite": "TAURUS\nRPC\nINSTRUCTION MANUAL — Rev. 1 — Assembly, printed p.32"
+  }
+ ],
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BORE & CHAMBER",
    "tasks": [
-    "Brush wet with bore solvent, from the chamber end whenever the barrel is out",
-    "Dry patches until clean, then a lightly oiled patch for storage",
-    "A dry patch through before the next shot"
+    "Brush the bore and chamber with a properly fitted brass brush dipped in gun cleaning solvent to take off the firing residue",
+    "Run a dry cotton patch through the bore to take out the remaining residue and solvent",
+    "Dry the inside of the barrel and chamber after cleaning",
+    "Deep clean: with the barrel out, clean the barrel and the inside of the upper receiver free of debris and put a light amount of oil around the barrel before it goes back"
    ]
   },
   {
-   "name": "BREECH, RAILS & FEED RAMP",
+   "name": "BOLT",
    "tasks": [
-    "Breech face wiped, carbon off with a nylon brush",
-    "Slide rails and frame rails wiped",
-    "Feed ramp wiped smooth and bright",
-    "⛔ No solvent or oil into the firing-pin hole or the frame's internals"
+    "Brush the bolt free of debris",
+    "Brush the bolt face and the area under the extractor claw until they are completely clean",
+    "A small drop of good gun oil on each side surface of the bolt and on the rails"
    ]
   },
   {
-   "name": "LUBRICATION",
+   "name": "FRAME",
    "tasks": [
-    "A thin film on the slide rails and the frame rails",
-    "A drop on the barrel where it rubs the slide, and on its locking surfaces",
-    "Excess wiped off"
+    "Wipe the outside of the frame with a soft cloth",
+    "Clean the internal parts with a soft brush; firearm solvent may be used, then removed completely so the frame is dry and clean",
+    "Lubricate the frame rails and the barrel lockup points",
+    "Check for loose screws or pins; tighten the screws and press the pins back in as needed"
+   ]
+  },
+  {
+   "name": "MAGAZINE",
+   "tasks": [
+    "Clean the magazine with a soft brush when it needs it",
+    "Wipe the spring and the follower with a clean cloth",
+    "Do not use solvents on polymer magazines",
+    "Any solvent used on the metal parts comes off completely before reassembly, so it cannot contaminate the ammunition"
    ]
   },
   {
    "name": "EXTERIOR",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Wipe the outside with a non-abrasive cloth and brush dust and residue out of the small crevices",
+    "After cleaning, rub the gun over with a lightly oiled cloth",
+    "Never clean a gun with a laser fitted in a machine that submerges it"
    ]
   }
  ],
- "cleanMap": {
-  "screens": [
-   {
-    "g": 0,
-    "steps": [
-     9
-    ]
-   },
-   {
-    "g": 1,
-    "steps": [
-     10
-    ]
-   },
-   {
-    "g": 2,
-    "steps": [
-     11
-    ]
-   },
-   {
-    "s": 12
-   },
-   {
-    "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
-   }
-  ]
- },
  "reassembly": [
-  "Tabs or lever: the barrel back into the slide, then the recoil spring and guide rod back under it, the same way round as they came out.",
-  "Tabs or lever: the slide back onto the frame rails from the front and drawn fully back — it should glide without catching. On a lever pistol, turn the lever back up until it stops.",
-  "Pull-down trigger guard: trigger guard down, the slide fitted over the barrel from the front, drawn fully back, its rear lowered onto the frame and let run forward; then the trigger guard pushed back into place.",
-  "Work the slide several times by hand with an empty magazine in: it should run smoothly, and lock open on the empty magazine if your pistol has a slide stop.",
-  "Take the magazine out again before the function check."
+  "Deep clean only: magazine spring base, spring and follower back into the body, and the base plate slid back on until its lock catches.",
+  "Deep clean only: barrel sub-assembly back in, the reverse of how it came out. Make sure the barrel is seated all the way back so the barrel lock button can rotate freely under it and lock it; then the handguard back on and the front takedown pin pushed home.",
+  "Deep clean only: spring into the firing pin, and both into the locking tip.",
+  "Deep clean only: locking tip, with its firing pin and spring, into the bolt carrier, lined up with the shape of the slot.",
+  "Deep clean only: bolt head onto the locking tip, pushed to the end of its travel, then turned 90 degrees clockwise until the bolt carrier assembly is fully joined.",
+  "Bolt carrier assembly into the receiver housing, pushed fully into position.",
+  "Recoil spring assembly into the hole in the bolt carrier, pushed until the recoil spring support at the rear locks into the receiver.",
+  "Upper rotated back down into the lower, and the rear takedown pin pushed in until it locks.",
+  "Cycle the bolt carrier assembly two or three times to check it went together correctly."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the slide: it runs fully back and returns fully forward, and it locks open on an empty magazine if your pistol has a slide stop. Any safety or decocker you can see moves through each of its positions on the empty pistol. This check never asks you to press the trigger — whether a pistol of unknown design tolerates dry firing is a question for Taurus."
+ "fncheck": "With no magazine and the chamber empty, cycle the bolt carrier assembly two or three times with the charging handle: it should run fully back and return fully forward under its spring every time. Push the manual safety all the way up to SAFE and back down to FIRE, and check it stops fully in each position. If you changed the locking tip, make sure the one installed matches the ammunition you will shoot — 110 degree for standard ammunition, 85 degree for subsonic or suppressed. Then take the gun back to the clear check before loading."
 }

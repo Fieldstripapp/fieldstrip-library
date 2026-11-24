@@ -1,142 +1,195 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAP",
- "bpTemplateVersion": 1,
  "row": "centuryarmscenturion11",
  "make": "Century Arms",
  "model": "Centurion 11",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model, so this guide works from what is true of every pistol of its kind and asks you to look before it asks you to do anything. It clears the pistol, then strips it only if yours shows one of three takedown controls that come apart the same way on every pistol that has them. If yours shows none of them, the slide stays on and the pistol is cleaned locked open — that is a complete clean, not a lesser one.\n\nListed in Fieldstrip as .45 ACP. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed (UNKNOWN — not printed in the document)",
+ "sourceSha256": "8eaad6aa564ddd9413873e853cabadcf0cc05680f6a38072a37a6796fa172ee9",
+ "cleanIntro": "The Centurion 11 is a 1911-pattern .45 ACP pistol: single action, a 5-inch barrel held by a swinging link, a barrel bushing at the muzzle, and a thumb safety and a grip safety. The strip starts at the muzzle. The recoil spring plug is pressed in and the bushing turned off it, then the slide stop comes out and the slide runs forward off the frame. The spring behind the plug is compressed, and Century Arms repeats the same eye-protection warning through the strip and again at assembly, so put glasses on before you start.\n\nCentury Arms asks for a clean after every day of shooting. This is the Centurion 11 book; it does not mention the Centurion 11 TAC's rail or optic cut.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Magazine out",
+   "action": "Point the pistol in a safe direction with your finger off the trigger. Press the magazine release, on the left side of the frame behind the trigger guard, and take the magazine out of the grip.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "The magazine comes out before the slide moves. Work the slide with a loaded magazine still in and it feeds the next round into the chamber you are about to check.",
+   "quote": "With the firearm pointed in a safe direction and finger off the trigger, press the magazine release and remove the magazine.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Removing the Magazine, printed p.19"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out first, then the slide",
-   "action": "Press the magazine release and take the magazine out of the grip before you touch the slide. Then pull the slide fully back and lock it open on the slide stop if your pistol has one; if it will not lock, hold it back. The order is the whole point: working the slide with a magazine still in puts a fresh round in the chamber, and that is the classic way an empty pistol stops being empty.",
+   "title": "Slide back and locked open",
+   "action": "Still pointed safely, finger still off the trigger, put the thumb safety down, pull the slide all the way to the rear, and push up on the slide stop so the slide stays open.",
    "box": "none",
-   "prose": "If the magazine will not come out, stop and contact Century Arms, with the pistol pointed somewhere safe."
+   "prose": "The safety has to be down for this: in the safe position it sits up in a recess in the slide. The slide is held when it stays back with your hand off it. If it creeps forward, the slide stop did not reach its notch; pull back fully and push up again.",
+   "quote": "While maintaining a safe direction with your finger off the trigger, pull the slide to the rear and lock back by using upward pressure on the slide stop.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Removing the Magazine, printed p.19"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and down into the empty magazine well, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Look into the chamber and feel it",
+   "action": "With the slide locked open, look into the chamber and put a fingertip in it. Look down the empty magazine well as well. Do not go on until you have done both.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Century Arms with the gun pointed somewhere safe."
+   "prose": "Century Arms asks for a visual and a physical check because a glance into a dark chamber can miss a case.",
+   "quote": "Visually and physically inspect the chamber to ensure the pistol is free of ammunition",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Removing the Magazine, printed p.19",
+   "warn": "Never assume a gun is unloaded - even if you were the last person to use it.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Which takedown does yours have? Look before you touch",
-   "action": "With the pistol empty and the slide locked open, look at the frame just above the trigger. One of three things decides your next step: two small serrated tabs, one on each side of the frame just above the front of the trigger guard; a single lever on the left side of the frame, made to rotate; or a trigger guard whose front end is made to pull down away from the frame. Follow only the step written for what you see, and skip the other two.",
+   "title": "Plug pressed in, bushing a quarter turn clockwise",
+   "action": "Let the slide forward on the empty chamber. Press the recoil spring plug in, under the barrel at the muzzle, and turn the barrel bushing 90 degrees clockwise to uncover the plug. Keep your thumb over the plug as the bushing clears it.",
    "box": "none",
-   "prose": "⛔ If you see none of these, more than one, or you are not sure, this is where your strip ends: leave the slide on and go straight to the cleaning steps, which work with the pistol locked open. Never press a trigger, push on a pin or press a button to find out how a pistol comes apart."
+   "prose": "The bushing is the only thing holding the plug in, and the recoil spring is compressed behind it. Let the plug come out under your thumb, never on its own, and keep it pointed away from your face.",
+   "quote": "Push the recoil spring plug in and rotate the barrel bushing 90 ° clockwise.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Disassembly, printed p.20",
+   "warn": "Wear eye protection to avoid injury from flying springs or recoil spring plug.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Two tabs: release the striker, then slide forward off the frame",
-   "action": "Only if your pistol has the two takedown tabs. Let the slide run forward, point the muzzle at a safe backstop, and press the trigger once — on pistols built this way the striker has to be released before the slide will come off, and you will hear it click. Then grip the pistol so your fingers draw the slide back a few millimetres, pull both tabs down with your other hand and hold them there, and let the slide run forward off the front of the frame.",
+   "title": "Plug out, and the spring if it comes easily",
+   "action": "Take the recoil spring plug out. If the recoil spring comes out easily, take it now. If it does not, leave it where it is.",
    "box": "none",
-   "prose": "⛔ Only after the chamber has been proven empty twice. If yours is a rimfire (.22) pistol, do not press the trigger: stop here and clean it with the slide on. If the slide will not move forward with both tabs held down, let go and stop — never force it."
+   "prose": "Do not fight the spring here. Left in, it comes out with the guide rod once the slide is off.",
+   "quote": "Remove the recoil spring plug. If the recoil spring is easly removed, do so at this time. If not, leave installed.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Disassembly, printed p.20"
   },
   {
    "phase": "Strip",
-   "title": "A takedown lever: turn it down, then ease the slide off",
-   "action": "Only if your pistol has a takedown lever. Rotate the lever down until it stops, usually about a quarter turn. Some pistols let it turn with the slide locked open and others only with the slide forward, and some also have a small button on the right side of the frame that has to be held in while the lever turns. Once it has turned, hold the slide, let it run forward under control, and ease it off the front of the frame.",
+   "title": "Bushing back, then on past, and out",
+   "action": "Turn the barrel bushing counterclockwise 90 degrees, back to where it started, and then about 45 degrees further, until it can be pulled out of the slide.",
    "box": "none",
-   "prose": "⛔ If the lever will not turn by hand either way, stop here and clean the pistol with the slide on. Never use a tool on the lever, and never press the trigger to make it move."
+   "prose": "The extra 45 degrees is what frees it. Stop at the starting position and the bushing will feel stuck; it is still locked in the slide.",
+   "quote": "Rotate the barrel bushing back counter clockwise 90° and then 45° further until it can be removed.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Disassembly, printed p.21"
   },
   {
    "phase": "Strip",
-   "title": "A pull-down trigger guard: slide back, up and off",
-   "action": "Only if the front of your trigger guard pulls down. Pull the front of the trigger guard down; on most pistols built this way it then tips a little to one side and rests against the frame, holding itself open. Draw the slide all the way back, lift its rear end up off the frame, and ease it forward off the barrel. The barrel stays fixed to the frame and the recoil spring stays on the barrel — on this pattern neither is taken out.",
+   "title": "Half-moon notch lined up, slide stop out",
+   "action": "Push the slide slowly rearward until the half-moon notch in its lower edge lines up with the rear of the slide stop. Press the stop from the right side of the frame and pull it out from the left.",
    "box": "none",
-   "prose": "Push the trigger guard back into place once the slide is off, so it cannot catch on anything while you clean."
+   "prose": "The stop leaves only at that notch. If pressing from the right moves nothing, the notch is not lined up; move the slide a little rather than pushing harder.",
+   "quote": "Remove the slide stop by slowly pushing the slide rearward until the half moon detent notch lines up with the rear of the stop and then press the stop from the right side and pull out from the left.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Disassembly, printed p.21"
   },
   {
    "phase": "Strip",
-   "title": "Tabs or lever: spring and barrel out of the slide",
-   "action": "Turn the slide upside down. The recoil spring and its guide rod sit under the barrel and are still under some pressure: push the guide rod gently forward, lift its rear end clear of the barrel, and let it out slowly under your thumb. Note which way round it sat — which end faced the barrel — because it goes back the same way. Then lift the barrel out by its chamber end.",
+   "title": "Slide forward off the frame",
+   "action": "Push or pull the slide slowly forward until it comes off the front of the frame.",
    "box": "none",
-   "prose": "A pull-down trigger guard pistol skips this step: its barrel stays where it is."
+   "prose": "With the slide stop out, nothing else keeps the slide on its rails, so hold it all the way and keep the muzzle end level.",
+   "quote": "Remove the slide by slowly pushing/pulling it forward off the frame.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Disassembly, printed p.21"
   },
   {
    "phase": "Strip",
-   "title": "That is the whole strip",
-   "action": "Nothing else comes apart. The firing pin or striker, the extractor, the sights and everything inside the frame stay exactly as they are — on a pistol with no published procedure, those are work for Century Arms. Lay the parts out in the order they came off, on a clean cloth, away from the edge of the bench.",
+   "title": "Guide rod and spring out",
+   "action": "Take the recoil spring guide rod out of the slide, and the recoil spring with it if you left it in.",
    "box": "none",
-   "prose": "If any part came loose that this guide did not ask for, stop and contact Century Arms before you put the pistol back together."
+   "prose": "Note which way the guide rod faces before it comes out, so it goes back the same way.",
+   "quote": "Remove the recoil spring guide rod, and recoil spring if it is still installed.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Disassembly, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel unlocked and out",
+   "action": "Lift the barrel to unlock it from the slide, then take it out of the slide.",
+   "box": "none",
+   "prose": "It will not slide out until it is lifted: the lugs on top of the barrel have to leave the slide first.",
+   "quote": "Lift to unlock and then remove the barrel from the slide.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Disassembly, printed p.21"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench: the receiver, the slide, the barrel, the barrel bushing, the guide rod, the recoil spring plug, the recoil spring, the slide stop and the magazine. That is every part Century Arms takes off for cleaning.",
+   "box": "none",
+   "prose": "Count nine before you open the solvent. The firing pin, the extractor, the grip safety and everything inside the frame stay where they are.",
+   "quote": "1-RECEIVER ASSEMBLY 2-SLIDE ASSEMBLY 3-BARREL 4-BARREL BUSHING 5-GUIDE ROD 6-RECOIL SPRING PLUG 7-RECOIL SPRING 8-SLIDE STOP 9-MAGAZINE ASSEMBLY",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Parts to Disassemble for Cleaning, printed p.22",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the chamber end whenever you can",
-   "action": "With the barrel out, push a brush wet with bore solvent through from the chamber end, a few passes, then dry patches until they come out clean. If your barrel stayed in, lock the slide open and feed a pull-through cord in at the chamber through the ejection port, or work from the muzzle with a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Bore from the breech end",
+   "action": "Use a pistol cleaning rod with a tip and a patch of the right caliber that fits the bore snugly. Put the rod and patch in at the breech end of the barrel and run it back and forth several times.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "With the barrel out of the slide there is no reason to work from the muzzle: the breech end is open and the crown stays untouched.",
+   "quote": "Insert the rod and patch into the barrel at the breech end and run it back and forth several times.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Cleaning and Maintenance, printed p.23"
   },
   {
    "phase": "Clean",
-   "title": "Breech face, rails and the feed ramp",
-   "action": "Wipe the breech face — the flat at the back of the slide where the cartridge sits — and the slide's rails and the frame's rails with a cloth and a little solvent, using a small nylon brush on the carbon. Wipe the feed ramp at the bottom of the chamber mouth until it is smooth and bright. Use solvent sparingly and keep it out of the frame's internals and the firing-pin hole: what runs in there cannot be wiped back out.",
-   "box": "none"
+   "title": "Bore dry, then a lightly oiled patch",
+   "action": "When the fouling is gone, wipe the chamber and bore dry. Then run a slightly oiled patch through the bore to preserve it, with a fine, light gun oil. Look through the barrel and chamber to be sure no patch is left inside.",
+   "box": "none",
+   "prose": "A patch left in the barrel is an obstruction. So is too much oil: the book warns that even excess lubricating oil in the bore can raise pressure, so the patch is slightly oiled and no more.",
+   "quote": "When the bore is dry, pass a slightly oiled patch through it for preservation. A fine, light gun oil is recommended.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Cleaning and Maintenance, printed p.24"
   },
   {
    "phase": "Clean",
-   "title": "Oil lightly where metal slides on metal",
-   "action": "A thin film of gun oil goes on the slide rails, the frame rails, the outside of the barrel where it rubs the slide, and the barrel's locking surfaces. A drop is enough on each; wipe off anything that runs. No oil goes into the firing-pin hole or into the frame from the outside.",
+   "title": "Slide and action brushed, moving parts oiled",
+   "action": "Use a small brush or a rag to take dirt and other foreign matter off the slide and the other parts of the action. Then lightly lubricate all the moving parts with a high-quality, light gun oil.",
    "box": "none",
-   "prose": "Too much oil collects grit and, in the cold, slows the parts it was meant to help."
+   "prose": "Lightly is the instruction. On the parts in front of you, the moving surfaces are the slide and frame rails, the barrel and its link, the bushing, and the recoil spring and its guide.",
+   "quote": "Use a small brush or rag to remove dirt or other foreign matter from the slide and other parts of the action. Lightly lubricate all moving parts with a high-quality, light gun oil.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Cleaning and Maintenance, printed p.24"
   },
   {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the slide, the frame and the barrel for cracks, the recoil spring for kinks or a broken coil, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Century Arms.",
+   "phase": "Clean",
+   "title": "Outside metal wiped, finger marks off",
+   "action": "Wipe all the exposed metal with a lightly oiled cloth until every finger mark is gone. Do it again any time the pistol has been out in the weather or handled.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until Century Arms has seen it."
+   "prose": "Finger marks are the point of this step: the book says they give moisture somewhere to collect.",
+   "quote": "Finger marks provide a place where moisture can accumulate.",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Cleaning and Maintenance, printed p.24"
+  },
+  {
+   "phase": "Clean",
+   "title": "Plastic grips: oil or wax, not both",
+   "action": "Wipe the plastic grips with a quality, lightweight gun oil, or polish them with a quality furniture wax. Use one or the other.",
+   "box": "none",
+   "prose": "The book's bracket is the instruction: but not both.",
+   "quote": "The plastic grips can also be wiped with a quality, lightweight gun oil or polished with any quality furniture wax (but not both).",
+   "cite": "OWNER'S MANUAL — CENTURION 11 — undated — no edition, revision code or print date is printed — Cleaning and Maintenance, printed p.24"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Century Arms Centurion 11, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Century Arms, not onto the bench.",
+ "deepAbsentReason": "There is no deep clean in the Centurion 11 book. It publishes one disassembly (printed pp.20-21) and shows the nine assemblies that leaves you with as the parts to disassemble for cleaning (printed p.22). The firing pin, extractor, mainspring housing, sear and grip safety appear only in the part list (printed p.28 on) and the exploded view, with no procedure, and the magazine is kept whole. Its alterations warning says to have a qualified gunsmith work on the gun, or at least check any work a gunsmith did not do.",
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BORE & CHAMBER",
    "tasks": [
-    "Brush wet with bore solvent, from the chamber end whenever the barrel is out",
-    "Dry patches until clean, then a lightly oiled patch for storage",
-    "A dry patch through before the next shot"
+    "Snug patch on a pistol rod, in at the breech end, back and forth several times",
+    "Chamber and bore wiped dry once all the fouling is out",
+    "One slightly oiled patch through the dry bore, with a fine, light gun oil",
+    "Look through the barrel and chamber: no patch left inside",
+    "⛔ No oil standing in the bore when the pistol is fired"
    ]
   },
   {
-   "name": "BREECH, RAILS & FEED RAMP",
+   "name": "SLIDE & ACTION",
    "tasks": [
-    "Breech face wiped, carbon off with a nylon brush",
-    "Slide rails and frame rails wiped",
-    "Feed ramp wiped smooth and bright",
-    "⛔ No solvent or oil into the firing-pin hole or the frame's internals"
+    "Dirt and foreign matter off the slide and the other action parts with a small brush or rag",
+    "All moving parts lightly lubricated with a high-quality, light gun oil",
+    "⛔ Never spray or put lubricant on ammunition"
    ]
   },
   {
-   "name": "LUBRICATION",
+   "name": "EXTERIOR & GRIPS",
    "tasks": [
-    "A thin film on the slide rails and the frame rails",
-    "A drop on the barrel where it rubs the slide, and on its locking surfaces",
-    "Excess wiped off"
-   ]
-  },
-  {
-   "name": "EXTERIOR",
-   "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
+    "All exposed metal wiped with a lightly oiled cloth, every finger mark off",
+    "A light film of oil on the metal after weather or handling",
+    "Plastic grips: lightweight gun oil or furniture wax, not both"
    ]
   },
   {
    "name": "STORAGE",
    "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Cleaned and lightly lubricated before it goes away, with a light coat of good gun oil on exposed surfaces and the excess removed",
+    "Checked unloaded before storing, and before any locking device goes on",
+    "Coming out of storage: rod and patch through the bore, dry and free of obstructions, before firing"
    ]
   }
  ],
@@ -145,40 +198,39 @@
    {
     "g": 0,
     "steps": [
-     9
+     11,
+     12
     ]
    },
    {
     "g": 1,
     "steps": [
-     10
+     13
     ]
    },
    {
     "g": 2,
     "steps": [
-     11
+     14,
+     15
     ]
    },
    {
-    "s": 12
-   },
-   {
     "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
     "steps": []
    }
   ]
  },
  "reassembly": [
-  "Tabs or lever: the barrel back into the slide, then the recoil spring and guide rod back under it, the same way round as they came out.",
-  "Tabs or lever: the slide back onto the frame rails from the front and drawn fully back — it should glide without catching. On a lever pistol, turn the lever back up until it stops.",
-  "Pull-down trigger guard: trigger guard down, the slide fitted over the barrel from the front, drawn fully back, its rear lowered onto the frame and let run forward; then the trigger guard pushed back into place.",
-  "Work the slide several times by hand with an empty magazine in: it should run smoothly, and lock open on the empty magazine if your pistol has a slide stop.",
-  "Take the magazine out again before the function check."
+  "Eye protection stays on: the spring and plug go back under pressure.",
+  "Barrel back into the slide.",
+  "Slide onto the frame. Hold it there: nothing else keeps it on until the slide stop is in.",
+  "Guide rod back in under the barrel, the same way it came out.",
+  "Barrel bushing in at the muzzle, turned clockwise all the way.",
+  "Recoil spring in at the front of the slide, under the barrel.",
+  "With the pistol pointed in a safe direction, push the recoil spring plug in.",
+  "Turn the barrel bushing counterclockwise to lock it over the plug.",
+  "Pull the slide back a little, put the slide stop through the frame and the hole in the barrel link, and snap it into place."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the slide: it runs fully back and returns fully forward, and it locks open on an empty magazine if your pistol has a slide stop. Any safety or decocker you can see moves through each of its positions on the empty pistol. This check never asks you to press the trigger — whether a pistol of unknown design tolerates dry firing is a question for Century Arms."
+ "fncheck": "Magazine out and the chamber proven empty, muzzle safe, finger off the trigger throughout. Pull the slide fully back and let it go forward: it should run smoothly and close completely. Pull it back again and push up on the slide stop: it should stay locked open with your hand off it. Close it. With the hammer cocked, push the thumb safety up into its recess in the slide and back down; it should stop in both positions. Century Arms notes that the safety cannot go up with the hammer down. Check that the bushing holds the plug and that the slide stop is fully seated. If anything binds or does not work, stop and take the pistol to a qualified gunsmith or Century Arms."
 }
