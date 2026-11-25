@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 41 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 41,
- "to": 49,
+ "to": 50,
  "rows": [
   {
    "id": "browningsuperposed",
@@ -79,6 +79,25 @@
    "guideSha256": "79c07e379b09ad5727ecdac86082f69a17c4c010c7c6aef9f10b65ac632b494f",
    "cal": "{\"chs\":[\".300 BLK\",\"5.56 / .223\"]}",
    "calSha256": "049f7f0de5f3271b0526272a906c5c33942dd60e03b7f91679bff2ddb1d054ba",
+   "calV": 38
+  },
+  {
+   "id": "banishcomp65",
+   "maker": "Banish (Silencer Central)",
+   "model": "Banish COMP 6.5",
+   "chambering": "6.5mm",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "6.5mm"
+   ],
+   "guide": true,
+   "guideId": "banishcomp65",
+   "guideSha256": "da7f3edbe3a68ae1cf443a39ba6462f9e37711a76d9721d4e0ed64c6c83f09b4",
+   "cal": "{\"chs\":[\"6.5mm\"],\"rs\":\"rated for cartridges from .22 Creedmoor through 6.5 PRC\",\"rt\":\"6.5 PRC\"}",
+   "calSha256": "ff2d466541b254790a167c21669276265c80e119aa13aff7a2c90521edad140d",
    "calV": 38
   },
   {

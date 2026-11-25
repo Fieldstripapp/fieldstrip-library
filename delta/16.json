@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 16 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 16,
- "to": 49,
+ "to": 50,
  "rows": [
   {
    "id": "radianmodel1",
@@ -24999,8 +24999,7 @@
    ],
    "guide": true,
    "guideId": "banishcomp65",
-   "guideSha256": "e674781dbe263dd759b17c0f0c142d6a33ade3f23eda6684480f0447e646ff9e",
-   "bestPractices": true,
+   "guideSha256": "da7f3edbe3a68ae1cf443a39ba6462f9e37711a76d9721d4e0ed64c6c83f09b4",
    "cal": "{\"chs\":[\"6.5mm\"],\"rs\":\"rated for cartridges from .22 Creedmoor through 6.5 PRC\",\"rt\":\"6.5 PRC\"}",
    "calSha256": "ff2d466541b254790a167c21669276265c80e119aa13aff7a2c90521edad140d",
    "calV": 38

@@ -1,178 +1,210 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of suppressor. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never disassemble a suppressor unless its maker documents it.",
- "bpClass": "BP-SUP-SC",
- "bpTemplateVersion": 1,
  "row": "banishcomp65",
  "make": "Banish (Silencer Central)",
  "model": "Banish COMP 6.5",
- "cleanIntro": "No maker procedure exists for the Banish (Silencer Central) Banish COMP 6.5, so this guide treats it as a sealed can: nothing on it is opened, unscrewed or taken apart, whatever it looks like. Everything an owner can do safely is on the outside — take it off the host correctly, keep the mount and threads free of carbon, check that it is tight, look for the signs of trouble, store it dry, and know when it has to go back to Banish (Silencer Central).\n\nListed in Fieldstrip as 6.5mm. The caliber rating marked on the can itself is the limit — not this guide, and not the listing.",
+ "sourcedFrom": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). (ABSENT — no copyright line printed.)  +  BANISH COMP 6.5 TI PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/).",
+ "sourceSha256": "a6403e8f768edc6d799ac822f9effb88be80964b03bb3c3b087cc83537e19c67",
+ "sourceSha256_2": "d480d9f3fd62202b15442c9125cb56048a6283fd34e81a323ddce398c688d4ae",
+ "cleanIntro": "The BANISH COMP 6.5 is a welded, tubeless precision-rifle suppressor sold in stainless (SS) and titanium (TI). BANISH prints a book for each, and the cleaning, disassembly and end cap pages are the same but for the name. It carries either a two-port brake or a flat end cap at the muzzle. The tube is welded and the baffles do not come out: only the mount interface, the brake and the flat end cap can be removed. The service is those parts off, a 24-hour soak, a brass brush in the blast chamber and a thorough clean of every thread, every 50 to 100 rounds. Everything about unloading your rifle comes from that rifle's own manual.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Host unloaded and the action open before the can moves",
-   "action": "Unload the host firearm, open the action and look: chamber empty, magazine out or empty. Keep the muzzle pointed somewhere safe the whole time the can is coming off — your hand is about to be in front of it.",
+   "title": "Rifle unloaded, action open and visibly clear",
+   "action": "Before the can comes off, unload the rifle and open the action so you can see there is no ammunition in it. BANISH does not print a clearing procedure for your rifle. It sends you to that gun's own manual, a licensed dealer or the gun's maker if you are not sure how.",
    "box": "none",
-   "prose": "This guide is for the suppressor, not the firearm. Clear the host the way the host's own manual describes."
+   "prose": "Both hands are about to be near the muzzle. An open action you have looked into is what makes that safe.",
+   "quote": "Before removing the suppressor from the host firearm, be sure that the firearm is unloaded, and the action is opened so that it is visibly clear of any ammunition.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — WARNING, p.2",
+   "warn": "If you are at all unsure as to the proper procedures to ensure that your firearm is unloaded, please consult your firearm user’s manual/instructions and/or contact a properly licensed dealer or the manufacturer of your firearm.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Let it cool before a bare hand goes near it",
-   "action": "A suppressor stays hot long after the barrel feels warm, hot enough to burn through an ordinary glove. Wait until it is cool to the touch, or handle it only in heat-resistant gloves, and set it down on something that cannot burn or melt.",
-   "box": "none",
-   "prose": "⛔ Never cool a hot can with water, solvent or compressed air."
+   "title": "What it is rated for: .22 Creedmoor through 6.5 PRC",
+   "action": "Check what the can has been fed. BANISH rates it for centerfire cartridges from .22 Creedmoor through 6.5 PRC, and recommends against solid lead or plated lead bullets.",
+   "box": "limit",
+   "prose": "Threads that fit do not make a cartridge suitable. If it has been fired with something outside that range, call BANISH before you fire it again.",
+   "aside": "Compatible with centerfire cartridges up to 6.5 PRC",
+   "quote": "The use of solid lead or plated lead bullets is not recommended.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — CLEANING & DISASSEMBLY, p.7"
+  },
+  {
+   "phase": "Clear",
+   "title": "Let it cool before you touch it",
+   "action": "The can may still be hot after firing. Wait for it to cool, or use a suppressor cover or gloves, before you take hold of it.",
+   "box": "limit",
+   "prose": "Grabbing a hot can and twisting is how people get burned, and how a joint gets rushed.",
+   "quote": "When removing the suppressor, use extreme caution as it may be hot to the touch after firing. Use a suppressor cover (sold separately) or gloves to avoid burns or other injuries.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — WARNING, p.2",
+   "warn": "Hot after firing. Cover or gloves.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
-   "title": "Off the host — and that is the whole strip",
-   "action": "Take it off the way it went on. On ordinary right-hand threads a can screwed straight onto the barrel turns counter-clockwise, seen from behind the gun, to come off. A quick-detach can releases its latch or collar first, then comes off the muzzle device. If carbon has it stuck, use steady hand pressure or a strap wrench on the tube — never pliers, a pipe wrench or a vice, which can crush the tube.",
+   "title": "Take the suppressor off the rifle",
+   "action": "With the rifle clear and the can cool, take the suppressor off. With the direct-thread mount it unscrews from the barrel threads; it was only hand tightened, so it should come loose by hand. On a quick-detach mount, follow the instructions of whoever made that mount.",
    "box": "none",
-   "prose": "⛔ Nothing else comes off. The mount, the end caps and whatever is inside stay exactly as they are: this guide carries no procedure from Banish (Silencer Central) for this can, and a suppressor is never opened without its maker's. If it will not come off the host, stop and contact Banish (Silencer Central)."
+   "prose": "BANISH prints how the can goes on and does not print a separate removal sequence. If it will not come off by hand, stop and call BANISH rather than put a tool on the tube.",
+   "aside": "Hand tighten suppressor only. Once snug, it is ready for use.",
+   "quote": "Before cleaning, ensure the firearm is unloaded and remove the suppressor.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — CLEANING & DISASSEMBLY, p.7"
   },
   {
-   "phase": "Inspect",
-   "title": "Carbon on the threads and the mount",
-   "action": "With the can off, look at the host's muzzle threads and shoulder, and at the threads or taper and the seating face of the can's mount. Hard carbon there is what stops a can seating square, and what makes one seize on or work loose. It comes off before the can goes back on — the cleaning list covers how.",
+   "phase": "Strip",
+   "title": "⛔ Mount, brake and end cap only — the baffles stay in",
+   "action": "The mount interface, the suppressor brake and the flat end cap are the only parts of the COMP 6.5 that can be removed for cleaning. The tube is welded, it is not designed to be fully disassembled, and the baffles cannot come out. There is nothing past those parts for you to open.",
    "box": "none",
-   "prose": "The mount is the part of a suppressor that fails dangerously, so it gets the most attention."
+   "prose": "The titanium book says the same of the COMP 6.5 TI. Anyone telling you to open either one further is describing a different can.",
+   "quote": "The welded-tubeless BANISH COMP 6.5 SS is not designed to be fully disassembled and its baffles cannot be removed. Only the mount interface, suppressor brake, and flat end cap can be removed for cleaning.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — CLEANING & DISASSEMBLY, p.7",
+   "no": {
+    "q": "The welded-tubeless BANISH COMP 6.5 SS is not designed to be fully disassembled and its baffles cannot be removed. Only the mount interface, suppressor brake, and flat end cap can be removed for cleaning.",
+    "who": "Banish (Silencer Central)",
+    "src": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — CLEANING & DISASSEMBLY, p.7"
+   }
   },
   {
-   "phase": "Inspect",
-   "title": "Look straight through it",
-   "action": "Hold the can up to a light and look through the bore from each end. You should see one clean, round circle of light, centred. Anything in the way — debris, water, a lip of metal, a torn or off-centre hole — means it does not go back on the gun.",
+   "phase": "Strip",
+   "title": "If the flat end cap is fitted: take it off",
+   "action": "Put the tool key supplied with the can on a T-45 Torx wrench, fit the key to the flat end cap and unscrew the cap from the muzzle end of the suppressor. If yours wears the brake instead, go to the next step.",
    "box": "none",
-   "prose": "Firing into an obstruction can wreck the can and injure the shooter."
+   "prose": "BANISH suggests joining the key and the Torx wrench to each other for good with JB Weld or a similar product. That is the two tools only: nothing is ever bonded to the can.",
+   "quote": "If the flat end cap is installed, use the provided tool key and T-45 Torx wrench, remove the end cap of the suppressor.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — CLEANING & DISASSEMBLY, p.7"
   },
   {
-   "phase": "Inspect",
-   "title": "The outside of the tube",
-   "action": "Turn it in your hands and look for dents, bulges, cracks, a bent end cap or any burn-through. A dent can push the inside of the can into the bullet's path.",
+   "phase": "Strip",
+   "title": "If the brake is fitted: collar loose, then the brake off",
+   "action": "Loosen the brake's locking collar with the supplied suppressor brake wrench. Then use the tool key and the T-45 Torx wrench to unscrew the brake from the suppressor.",
    "box": "none",
-   "prose": "Damage you can see is a reason to stop and contact Banish (Silencer Central), not to keep shooting it and see."
+   "prose": "Collar first: the collar is what locks the brake in position, so the brake will fight you until it is loose. The brake's timing is lost when it comes off, and is set again when it goes back on.",
+   "quote": "If the suppressor brake is installed, use the provided suppressor brake wrench to loosen the locking collar. Use the tool key and T-45 Torx wrench to remove the suppressor brake.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — CLEANING & DISASSEMBLY, p.7"
   },
   {
-   "phase": "Inspect",
-   "title": "Know the signs of a baffle strike",
-   "action": "A baffle strike is a bullet touching the inside of the can. The signs: the exit hole is torn, enlarged or off-centre; there are metal shavings or a bright fresh mark at the front; it suddenly sounds different; bullets start keyholing on the target. Any one of them puts the can out of service.",
+   "phase": "Strip",
+   "title": "Breach cap off with a 1-inch wrench",
+   "action": "Put a 1-inch wrench, or an adjustable wrench set snug, on the wrench flats and remove the breach cap.",
    "box": "none",
-   "prose": "The usual causes are a can that was not seated square, a damaged or misaligned mount, or the wrong caliber through it."
+   "prose": "Breach cap is BANISH's own name and the book does not picture or define it. Turn only a part that has wrench flats. If what your wrench is on does not have them, or will not start, stop and call BANISH.",
+   "quote": "Using the wrench flats and a 1-inch or adjustable wrench, remove the breach cap.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — CLEANING & DISASSEMBLY, p.7"
   },
   {
-   "phase": "Inspect",
-   "title": "Listen for a new rattle",
-   "action": "Shake it gently by your ear. A new rattle, or anything you can feel shifting inside that did not before, means something has come loose. Do not fire it.",
+   "phase": "Clean",
+   "title": "Twenty-four hour soak",
+   "action": "Put the whole can and the parts you removed under cleaning solution, or seal the muzzle end and fill the inside, and leave it for 24 hours either way. Mild firearm solvent, sonic wash solution or even dish soap all work. What does not is anything that strips the Cerakote.",
    "box": "none",
-   "prose": "A faint sound from carbon flakes is common. Anything you can feel moving is a job for Banish (Silencer Central)."
+   "prose": "The interval is every 50 to 100 rounds. Because the baffles never come out, the soak is what reaches them, so do not cut it short.",
+   "aside": "It is recommended that the suppressor be cleaned every 50-100 rounds fired.",
+   "quote": "To clean, submerge the entire suppressor and disassembled suppressor parts in cleaning solution. Or, seal the muzzle end of the suppressor and fill its interior with cleaning solution.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — CLEANING & DISASSEMBLY, p.7",
+   "warn": "Be sure not to use solutions that will strip the Cerakote finish.",
+   "warnSrc": "maker"
   },
   {
-   "phase": "Inspect",
-   "title": "When it goes back to Banish (Silencer Central)",
-   "action": "Send it to Banish (Silencer Central) for inspection if: it shows any sign of a strike; it was fired with an obstruction in it or after a squib load; the tube is dented or cracked; it rattles; it will not come off the host or will not seat square, or the circle of light through it has visibly narrowed. Contact Banish (Silencer Central) before you ship it — they will tell you how to send a registered suppressor back legally.",
+   "phase": "Clean",
+   "title": "Brass brush the blast chamber",
+   "action": "After the soak, clean the blast chamber, the first chamber inside the mount end of the can, with a brass brush.",
    "box": "none",
-   "prose": "For a can whose construction is unknown, the maker is the only way inside it."
+   "prose": "Brass is what BANISH names. The blast chamber is the only inside surface it has you brush, so leave the brush out of the baffles.",
+   "quote": "In both cases, let the suppressor soak for 24 hours. Once soaked, use a brass brush to clean the blast chamber.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — CLEANING & DISASSEMBLY, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Mounting adapter out, and every thread cleaned",
+   "action": "Take the mounting adapter out and clean all of the threads: the suppressor's own, and the mount's inside and outside threads. Clear out any debris or buildup.",
+   "box": "none",
+   "prose": "Carbon left in a thread is what stops the mount or the end cap going fully home, and a mount that is not seated points the bore off line.",
+   "quote": "Remove the mounting adapter and thoroughly clean the threads, removing any debris or buildup. This includes the suppressor’s threads, as well as all internal and external mounting threads.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — CLEANING & DISASSEMBLY, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Solvent out, then let it dry",
+   "action": "Check that every part is clean and that no excess solvent is left in it. Then let the suppressor dry before anything goes back on.",
+   "box": "none",
+   "prose": "At the next range session, 10 to 15 clearing rounds blow out whatever the soak loosened.",
+   "aside": "During the next range session, fire 10-15 “clearing” rounds through the suppressor.",
+   "quote": "Make sure all parts are clean and excess solvent has been removed.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — CLEANING & DISASSEMBLY, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Protect the muzzle while the can is off",
+   "action": "Whenever the can is off the rifle for storage or transport, protect the barrel's threads and crown with a thread protector or other muzzle device.",
+   "box": "none",
+   "prose": "A nicked muzzle thread is what starts a can crooked the next time it goes on.",
+   "quote": "Once the suppressor is removed from the host firearm, BANISH recommends using a thread protector or other muzzle device to protect the muzzle threads and crown during storage or transport.",
+   "cite": "BANISH COMP 6.5 SS PRODUCT MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document (the maker's file name ends \"-Final-9-26\"; its upload path is /2026/09/). — WARNING, p.2"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Banish (Silencer Central) Banish COMP 6.5, and this guide will not invent one. Fieldstrip does not yet have a guide built from a manual by Banish (Silencer Central) for this model, so nothing about how it is built inside is known to this guide — and a can whose construction is unknown is treated as sealed. Fouling inside it, a rattle, a strike, or a can that will not come off goes to Banish (Silencer Central), not onto the bench.",
+ "deepAbsentReason": "The books end at the mount interface, the brake and the flat end cap. On the CLEANING & DISASSEMBLY page (p.7) BANISH states: 'The welded-tubeless BANISH COMP 6.5 SS is not designed to be fully disassembled and its baffles cannot be removed. Only the mount interface, suppressor brake, and flat end cap can be removed for cleaning.' The titanium book says the same of the TI on its p.7. Each book prints one cleaning procedure, and all of it (end cap or brake, breach cap, soak, brass brush, threads) is in the routine lane above. This listing therefore has no deep clean.",
  "cleaning": [
   {
-   "name": "MUZZLE THREADS & SHOULDER",
+   "name": "INTERIOR",
    "tasks": [
-    "Nylon or brass brush to break the carbon off the threads and the shoulder",
-    "Wipe with a cloth lightly dampened with gun solvent, then a dry cloth",
-    "Threads left clean and DRY — no oil, grease, anti-seize or thread-locker: whether this can wants any of them is a question for its maker, not something to guess"
+    "Interval: every 50-100 rounds fired",
+    "Whole can and removed parts submerged, or muzzle end sealed and the inside filled, for 24 hours",
+    "Mild firearm solvent, sonic wash solution or dish soap",
+    "Blast chamber brushed with a brass brush after the soak",
+    "⛔ Never a solution that strips the Cerakote finish",
+    "⛔ Do not try to remove the baffles: they do not come out"
    ]
   },
   {
-   "name": "THE CAN'S MOUNT — FROM THE OUTSIDE",
+   "name": "MOUNT & THREADS",
    "tasks": [
-    "Brush loose carbon off the mount's threads or taper and its seating face",
-    "A dry cloth over the mount face — nothing pushed into the can",
-    "⛔ The mount stays in the can: it does not come out"
+    "Mounting adapter out",
+    "Suppressor's own threads cleaned",
+    "Mount's inside and outside threads cleaned"
    ]
   },
   {
-   "name": "QUICK-DETACH SEAT (if yours is QD)",
+   "name": "AFTER CLEANING",
    "tasks": [
-    "Brush the taper or seat on the muzzle device — carbon on it stops the can locking up square",
-    "The latch or collar moves freely by hand; if it binds, stop and contact the maker"
-   ]
-  },
-  {
-   "name": "OUTSIDE OF THE TUBE",
-   "tasks": [
-    "Wiped down with a dry cloth",
-    "A can that got wet dries completely, standing on end, before it is stored or fired"
-   ]
-  },
-  {
-   "name": "THE BORE — NOTHING THROUGH IT",
-   "tasks": [
-    "⛔ No patch, rod or bore brush through the can — a patch can lodge inside it",
-    "⛔ No soaking, no solvent fill, no ultrasonic bath: what this can is made of and how it is sealed is unknown, and either can damage it"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored off the host, clean and dry",
-    "Never shut in a case or bag while still damp",
-    "A thread protector back on the host's muzzle",
-    "Round count kept — the maker will ask for it if the can ever goes back"
+    "All parts clean, excess solvent out, suppressor dry",
+    "10-15 clearing rounds at the next range session",
+    "Thread protector or other muzzle device on the barrel while the can is off"
    ]
   }
  ],
  "cleanMap": {
   "screens": [
    {
-    "s": 3
-   },
-   {
-    "s": 4
-   },
-   {
-    "s": 5
-   },
-   {
-    "s": 6
-   },
-   {
-    "s": 7
-   },
-   {
-    "s": 8
-   },
-   {
     "g": 0,
-    "steps": []
+    "steps": [
+     8,
+     9
+    ]
    },
    {
     "g": 1,
-    "steps": []
+    "steps": [
+     10
+    ]
    },
    {
     "g": 2,
-    "steps": []
-   },
-   {
-    "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
-   },
-   {
-    "g": 5,
-    "steps": []
+    "steps": [
+     11,
+     12
+    ]
    }
   ]
  },
  "reassembly": [
-  "Threads on the host and in the can clean and dry before it goes back on.",
-  "Start it by hand, square to the bore — it should spin on freely. If it binds or goes on crooked, back it off and start again; never force a cross-thread.",
-  "Run it down until it seats firmly against the shoulder or the muzzle device, with no gap you can see or catch a fingernail in. ⛔ A gap means it is not seated — do not fire.",
-  "Snug it firmly by hand, or with the wrench supplied with the can if it came with one. No cheater bar, and no tool on the tube that can crush it.",
-  "Quick-detach: latch or collar fully engaged, then pull and twist the can — it must not move.",
-  "Look through it once more before the first shot."
+  "All parts clean, free of excess solvent and dry.",
+  "Breach cap back on with a 1-inch or adjustable wrench.",
+  "Flat end cap, if you run it: start it carefully and do not cross-thread it. If you feel resistance, take it back off and check the threads of both the suppressor and the cap for debris.",
+  "Finish the flat end cap with the supplied tool key to 20-25 inch-pounds, or hand tight. Only the 45-degree bevel should show, about 1/32 inch.",
+  "Rifle safe and unloaded before the can goes on. Barrel and suppressor threads clean and undamaged.",
+  "Direct thread: line the suppressor up with the barrel threads and screw it on until it seats firmly against the shoulder. Do not cross-thread it. Hand tighten only. Any other mount goes on by its own maker's instructions.",
+  "Brake, if you run it, goes on after the suppressor is securely on the rifle: loosen its locking collar to the top of the threads, then screw the brake into the suppressor until hand tight.",
+  "Set the brake's top and bottom: the top has the larger openings after the first port, and the triangular slot in the front always points to the top.",
+  "Tighten the locking collar by hand, then finish with the supplied suppressor brake wrench (the stainless book says until snug).",
+  "Refine the brake's alignment and retighten as needed. A bubble level on the flat section of the brake confirms it."
  ],
- "fncheck": "Host still unloaded: the can is on, seated with no gap, and does not turn when you try it by hand. Check it again at the start of every session and after the first string of fire — a can that heats and cools can work loose. One that has loosened comes off, gets inspected and goes back on clean; one that keeps loosening goes to Banish (Silencer Central)."
+ "fncheck": "With the rifle still unloaded: no visible gap between the barrel shoulder and the face of the suppressor mount, and nothing blocking the can. ⛔ If there is any gap, do not fire with the suppressor attached. Flat end cap: only the 45-degree bevel shows, about 1/32 inch. Brake: top side up, triangular slot toward the top, collar tight. Check that the can is still tight after the first 5 shots and every 30 after that, once it has cooled or with a cover, and fire 10-15 clearing rounds at the next range session. Damaged or defective: contact BANISH Customer Service before you ship it."
 }

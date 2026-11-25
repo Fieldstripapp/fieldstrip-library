@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 38 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 38,
- "to": 49,
+ "to": 50,
  "rows": [
   {
    "id": "browningsuperposed",
@@ -165,6 +165,25 @@
    "guideSha256": "33d880747cbaf25e61019269b5f28d1f823ad05219212f11e6330372fe35c226",
    "cal": "{\"chs\":[\".243 Win\",\".270 Win\",\".30-06\",\".300 Win Mag\",\".308 Win\",\"6.5 Creedmoor\",\"6.5 PRC\",\"6.8 Western\",\"7mm Rem Mag\"]}",
    "calSha256": "e6b21606e7ce5caf420a3029e17a35e0c0d43ed670a18a025c9f6e17ff74e4e0",
+   "calV": 38
+  },
+  {
+   "id": "banishcomp65",
+   "maker": "Banish (Silencer Central)",
+   "model": "Banish COMP 6.5",
+   "chambering": "6.5mm",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "6.5mm"
+   ],
+   "guide": true,
+   "guideId": "banishcomp65",
+   "guideSha256": "da7f3edbe3a68ae1cf443a39ba6462f9e37711a76d9721d4e0ed64c6c83f09b4",
+   "cal": "{\"chs\":[\"6.5mm\"],\"rs\":\"rated for cartridges from .22 Creedmoor through 6.5 PRC\",\"rt\":\"6.5 PRC\"}",
+   "calSha256": "ff2d466541b254790a167c21669276265c80e119aa13aff7a2c90521edad140d",
    "calV": 38
   },
   {
