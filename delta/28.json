@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 28 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 28,
- "to": 52,
+ "to": 53,
  "rows": [
   {
    "id": "radianmodel1",
@@ -25785,8 +25785,7 @@
    ],
    "guide": true,
    "guideId": "browningsuperposedb125",
-   "guideSha256": "52ad678fbd6d389b0f84ac57469b1bcac91fc09f62f88a6aff5eca45088eca56",
-   "bestPractices": true,
+   "guideSha256": "563c7b54ab09174dd123ea54de9c36805797cf4d10523813e9d22917d4710dfd",
    "cal": "{\"chs\":[\"12 GA\",\"20 GA\"]}",
    "calSha256": "06d8b1023793ced7d2e40dadbb66a3ff8cdd71acc184c7e7245a5acff5226894",
    "calV": 48

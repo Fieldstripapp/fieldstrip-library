@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 51 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 51,
- "to": 52,
+ "to": 53,
  "rows": [
   {
    "id": "banishhd762inc",
@@ -21,6 +21,26 @@
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"caliber range: 5.56 NATO to .300 RUM\",\"rt\":\".300 RUM\"}",
    "calSha256": "46afce17aa2fa5f5600e606c837413c6ba1c8438165a1850d4b23a97635f5dcc",
    "calV": 38
+  },
+  {
+   "id": "browningsuperposedb125",
+   "maker": "Browning",
+   "model": "Superposed B-125",
+   "chambering": "12 GA/20 GA",
+   "category": "Over-under shotgun",
+   "family": "NEW-BROWNING-SUPERPOSEDB125",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": true,
+   "guideId": "browningsuperposedb125",
+   "guideSha256": "563c7b54ab09174dd123ea54de9c36805797cf4d10523813e9d22917d4710dfd",
+   "cal": "{\"chs\":[\"12 GA\",\"20 GA\"]}",
+   "calSha256": "06d8b1023793ced7d2e40dadbb66a3ff8cdd71acc184c7e7245a5acff5226894",
+   "calV": 48
   }
  ],
  "removed": []

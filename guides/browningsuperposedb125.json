@@ -1,117 +1,302 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-BRK",
- "bpTemplateVersion": 1,
  "row": "browningsuperposedb125",
  "make": "Browning",
  "model": "Superposed B-125",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model. A break-action gun is built to come apart into three pieces — stock and action, barrels, forend — and that take-down is the same on every gun of the kind. This guide clears the gun, takes it down that far and no further, and cleans it with the barrels off.\n\nListed in Fieldstrip as 12 GA, 20 GA. The gauge and chamber length marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "dab0ad7693f4c6b767ded807ce3b48568683aa88f1a93b15fa8ec0dc04d1db7e",
+ "cleanIntro": "The Superposed was John M. Browning's last invention, and this guide is for the B-125. It comes apart into two pieces: the barrels, with the forearm still on them, and the action with the stock. The forearm is not a separate piece here; it slides forward about half an inch on the barrels to free them. Browning wants the gun cleaned after every day of shooting. A light cleaning can be done with the barrels on; a full cleaning means barrels off, which is what this guide does. The book goes no further than that, except for the Invector choke tubes, which are in the clean. Browning says never to fire a B-125 without a tube installed, so any tube you take out goes back in before the gun is shot.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose shell, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Selector back to the S, ammunition out of the room",
+   "action": "Point the muzzle in a safe direction and keep your fingers off the trigger. Draw the selector on the tang rearward until the S shows in front of it; that puts both barrels on safe. Take all ammunition away from where you are going to clean.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "The safety on this gun works by hand only. Opening the action does not put it on for you, so do it now and look for the S.",
+   "quote": "The complete action (both barrels) is put \"on safe\" by drawing the selector rearward.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Operation of the Safety",
+   "warn": "NEVER RELY TOTALLY ON YOUR SHOTGUN'S \"SAFETY\" DEVICE.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Open the action and let the barrels drop",
-   "action": "Push the top lever across and let the barrels drop open on the hinge. Lift out any shells the extractors raise, or catch any the ejectors throw. Open, the gun shows its own state plainly — which is why it stays open until this guide tells you to close it.",
-   "box": "none"
+   "title": "Top lever right, barrels down, shells out",
+   "action": "Push the top lever to the right and let the barrels drop all the way open. Fired shells are thrown clear, so keep your face and anyone beside you out of their way. An unfired shell is only raised above the chamber: lift it out by hand.",
+   "box": "none",
+   "prose": "A shell that rises but does not fly is a live one. Take it out and put it with the rest of the ammunition.",
+   "quote": "They throw fired shells completely out of the gun upon opening the action.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Instructions for Operation > AUTOMATIC EJECTORS"
   },
   {
    "phase": "Clear",
-   "title": "Look through every barrel, feel every chamber",
-   "action": "Look through each barrel from the breech end against the light, then run a fingertip into every chamber the gun has. Do it twice. A shell left in a chamber is the one thing this whole guide exists to catch.",
+   "title": "Both chambers, both bores",
+   "action": "With the action open, look into both chambers and feel each one with a fingertip. Then look through both barrels from the breech and check that nothing is in them. Do not go on until you have seen both chambers empty.",
    "box": "none",
-   "prose": "⛔ If a shell will not come out of a chamber, stop: never pry it out with a tool — contact Browning."
+   "prose": "An over-and-under holds two shells. Finding one is not a reason to stop looking.",
+   "quote": "After assuring yourself that the firearm is completely unloaded, again, open the breech or action, and look through the barrels to be sure they are clear of any obstruction.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Firearm Safety, item 6",
+   "warn": "BE CERTAIN YOUR GUN'S CHAMBERS ARE UNLOADED.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Read the barrel: gauge and shell length",
+   "action": "Read the gauge and the longest shell allowed off the right side of the upper barrel. Only that gauge goes in this gun, and nothing longer than that length. Check it against the shells you shoot in it.",
+   "box": "none",
+   "prose": "Magnum shells are fine as long as they are no longer than the length on the barrel. A 3\" shell does not belong in a 2 3/4\" chamber.",
+   "quote": "The gauge and maximum acceptable shell length are inscribed on the right side of the upper barrel.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Ammunition",
+   "warn": "NEVER USE A LOAD THAT EXCEEDS THESE SPECIFICATIONS",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Forend off by its latch",
-   "action": "With the gun open, look under the forend for its release: a lever on its underside, a button at its front tip, or nothing at all on a forend that snaps on. Work the lever or press the button and lift the forend away from the barrels; a snap-on forend comes away with a firm pull at its front end. Put it aside on a soft cloth.",
+   "title": "Close the empty gun, release the takedown lever",
+   "action": "Put on safety glasses. Close the empty gun gently and rest the butt against your upper leg. The takedown lever lies in the underside of the forearm. With your thumb or forefinger pull its latch to the rear, then swing the lever up out of its recess.",
    "box": "none",
-   "prose": "⛔ If a screw holds the forend on, or it will not release by hand, stop here: clean the gun with the forend on and the action open."
+   "prose": "Browning's book says to take the barrels off \"as explained previously\", but the only explanation it prints is the assembly. The strip here is that assembly taken backwards, one move at a time.",
+   "quote": "pull the takedown lever latch to the rear and release it from its recess",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Assembly, step 1",
+   "warn": "ALWAYS WEAR PROTECTIVE SAFETY GLASSES DURING ALL ASSEMBLY, DISASSEMBLY AND CLEANING PROCEDURES.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Barrels off the hinge",
-   "action": "With the forend off and the action still open, lift the barrels upward and forward off the hinge pin; they come free once their hooks clear it. Lay them down on a soft cloth — never stand a pair of barrels on their muzzles.",
-   "box": "none"
+   "title": "Forearm forward about half an inch, and no more",
+   "action": "Slide the forearm forward along the barrels until it stops solidly, about 1/2\". As it moves, the cocking lever lifter drops down beside the takedown lever latch. Leave the forearm there: it stays on the barrels.",
+   "box": "none",
+   "prose": "The solid stop is the end of its travel. Do not try to pull the forearm past it.",
+   "quote": "Slide the forearm forward about 1/2\" until it stops solidly. This movement will cause the cocking lever lifter to drop downward next to the takedown lever latch",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Assembly, step 2"
   },
   {
    "phase": "Strip",
-   "title": "That is the whole take-down",
-   "action": "Nothing else comes apart. The stock, the trigger group — even on a gun made for it to drop out — the ejectors and extractors, the choke tubes and anything held by a screw all stay exactly as they are: those are work for Browning.",
+   "title": "Open the action and unhook the barrels",
+   "action": "Hold the barrels and forearm in one hand and the stock in the other. Push the top lever to the right and swing the action open on its hinge pin. Then unhook the semi-circular recess, the one just below the serial number, from the hinge pin at the front of the action. Lay the barrels down on something soft.",
    "box": "none",
-   "prose": "Choke tubes do need taking out now and then so they cannot seize, but how, and with which wrench, is a question for Browning."
+   "prose": "These surfaces are hand fitted. If something binds, check that the forearm is all the way forward; do not force it.",
+   "quote": "Remove the barrel / forearm section from the receiver as explained previously.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Cleaning Suggestions > CLEANING PROCEDURES, step 1; the movement is Assembly, step 4, taken backwards"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench: the barrels with the forearm on them, and the action with the stock. That is the whole take-down, and it is what Browning asks for before a full cleaning. The choke tubes come out later, in the clean.",
+   "box": "none",
+   "prose": "Between full cleanings, the light one is a wipe down and oil with the barrels still on.",
+   "quote": "A full cleaning requires that you remove the barrels and forearm.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Cleaning Suggestions",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "Each bore and each chamber, from the breech",
-   "action": "Brush each bore wet with bore solvent from the breech end, a few passes, then dry patches until they come out clean. Clean each chamber with a chamber brush — plastic and carbon build a ring at the chamber mouth that makes shells stick. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Both bores, rod in at the breech",
+   "action": "Use a shotgun rod with a tip and a lightly oiled patch big enough to fit the bore snugly. Put it in at the breech end and run it back and forth several times, in one barrel and then the other.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "quote": "insert the rod in the breech end of the barrels and run back and forth several times in each barrel.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Cleaning Suggestions > CLEANING PROCEDURES, step 2"
   },
   {
    "phase": "Clean",
-   "title": "Breech face, extractors and the hinge",
-   "action": "Wipe the standing breech — the flat face of the action with the firing-pin holes in it — with a cloth and a little solvent, and keep oil out of those holes. Wipe the extractors or ejectors in place at the barrels' breech end; they stay where they are. Then a thin film of gun grease or oil on the hinge pin, the barrel hooks and the forend iron's bearing face, where metal turns on metal.",
-   "box": "none"
+   "title": "Look for lead and plastic, brush only if it is heavy",
+   "action": "Look through each bore from both ends. Lead and plastic show as long streaks, mostly near the muzzle and just ahead of the chamber. Some is normal. If there is a lot, wet a brass brush or the bore with powder solvent and scrub until it is clean.",
+   "box": "none",
+   "prose": "Push the brush right out the far end before you pull it back, so the bristles do not break off.",
+   "quote": "Inspect the bores from both ends for leading and plastic residue.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Cleaning Suggestions > CLEANING PROCEDURES, step 3"
   },
   {
    "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
+   "title": "Chambers the same day, and no empties left in them",
+   "action": "Clean both chambers thoroughly, and do it soon after shooting plastic shells. The plastic can sweat moisture onto the chamber wall and start corrosion and rust. Never leave empty shells sitting in the gun.",
+   "box": "none",
+   "quote": "It is very important that the chambers of your shotgun be cleaned thoroughly and promptly after shooting plastic shotshells.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Cleaning Suggestions > OTHER CLEANING SUGGESTIONS",
+   "warn": "DO NOT LEAVE DISCHARGED (EMPTY) SHELLS IN THE CHAMBERS FOR ANY LENGTH OF TIME.",
+   "warnSrc": "maker"
   },
   {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the barrels, the action and the stock for cracks, dents in the barrels, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Browning.",
+   "phase": "Clean",
+   "title": "Dry patch, oiled patch, nothing left behind",
+   "action": "When the lead is out, run a clean dry patch through each bore, then a lightly oiled one. Look through both barrels and into both chambers once more and take out any patch that stayed in.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until Browning has seen it."
+   "quote": "Follow this with a final lightly oiled patch.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Cleaning Suggestions > CLEANING PROCEDURES, steps 4 and 7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Look for the word INVECTOR",
+   "action": "Look at the rear end of each barrel, on the left side of the polished breech. If it says INVECTOR, the barrel is threaded and takes a choke tube. If it does not say INVECTOR, do not try to unscrew anything; skip the choke tubes.",
+   "box": "none",
+   "prose": "Browning says all current 12 and 20 gauge B-125 barrels are threaded. The amount of choke is written on the side of each tube and shown by notches on its rim.",
+   "quote": "The word INVECTOR denotes that the barrel is threaded.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Invector Interchangeable Choke System for Superposed B-125 Shotguns"
+  },
+  {
+   "phase": "Clean",
+   "title": "Tube out: wrench to loosen, fingers to finish",
+   "action": "Check both chambers again before you touch a tube. Browning does this with the safety on safe and the action open; with the barrels off, the chambers are in plain sight. Turn the tube counterclockwise with the Invector wrench to loosen it, then twist it out the rest of the way with your fingers. Keep track of which tube came from which barrel.",
+   "box": "none",
+   "quote": "Use the Invector wrench to loosen the tube, turning it counterclockwise. Finger-twist the tube the rest of the way out of the barrel.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Invector Interchangeable Choke System > TUBE REMOVAL, step 3",
+   "warn": "NEVER ATTEMPT TO REMOVE OR INSTALL A SHOTGUN CHOKING DEVICE ON A LOADED FIREARM!",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Threads clean, light oil, tube back in",
+   "action": "Check that the threads in the muzzle and on the tube are clean, and oil them lightly. Screw the tube in with your fingers, tapered end first and notched end out, until it is finger-tight. Then seat it firmly with the Invector wrench.",
+   "box": "none",
+   "prose": "Firing without a tube can permanently damage the threads in the barrel. Check the tubes from time to time to be sure they are tight and firmly seated.",
+   "quote": "Lightly oil the threads with an oil like Browning Oil.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Invector Interchangeable Choke System > TUBE INSTALLATION, steps 3-4",
+   "warn": "DO NOT FIRE A SUPERPOSED B-125 SHOTGUN WITHOUT HAVING AN INVECTOR CHOKE TUBE INSTALLED.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Do not mix Invector Plus and Standard Invector",
+   "action": "A B-125 has one system or the other. Invector Plus tubes are for Browning's back-bored barrels only. Do not put a tube from one system in a barrel threaded for the other, do not put Browning tubes in another maker's barrel, and do not use any other choke device in a Browning barrel.",
+   "box": "none",
+   "prose": "Use only tubes of your gauge marked INVECTOR or INVECTOR PLUS, whichever your barrels take. The wrong tube can damage the gun and hurt you or somebody near you.",
+   "quote": "DO NOT USE INVECTOR PLUS TUBES IN BARRELS THREADED FOR STANDARD INVECTOR TUBES. DO NOT USE STANDARD INVECTOR TUBES IN BARRELS THREADED FOR INVECTOR PLUS TUBES.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Invector Interchangeable Choke System for Superposed B-125 Shotguns",
+   "no": {
+    "q": "DO NOT USE INVECTOR PLUS TUBES IN BARRELS THREADED FOR STANDARD INVECTOR TUBES. DO NOT USE STANDARD INVECTOR TUBES IN BARRELS THREADED FOR INVECTOR PLUS TUBES.",
+    "who": "Browning",
+    "src": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Invector Interchangeable Choke System for Superposed B-125 Shotguns"
+   }
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe the metal, then a thin film where metal bears on metal",
+   "action": "Wipe the receiver, the forearm metal and the barrels with a clean rag. Then put a thin film of good gun oil on the barrel lugs, the hinge pin and the forearm bracket, the broad polished surfaces that carry the gun. They must never be dry.",
+   "box": "none",
+   "prose": "Browning asks for one or two drops at each of the points lettered A to H in its figures. Regular light oiling is what keeps this gun tight.",
+   "quote": "must always have a thin film of oil. Use a quality oil like Browning Oil for this purpose.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Cleaning Suggestions > CLEANING PROCEDURES, steps 5-6; the lettered points are under Assembly",
+   "warn": "Never pour large quantities of oil into the receiver or other parts.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Breech faces clean and lightly oiled",
+   "action": "Wipe the polished faces of the breech, on the action and on the barrels, and leave a trace of oil on them. Dirt here is what keeps the gun from closing all the way.",
+   "box": "none",
+   "quote": "Keep the polished breech surfaces clean and lightly oiled.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Instructions for Operation > TOP LEVER"
+  },
+  {
+   "phase": "Clean",
+   "title": "The take-apart stops here",
+   "action": "The action, the trigger, the ejectors and the stock stay together. Browning says you may permanently mar the gun by taking its inner mechanism apart. If it needs more than this, take it to a Browning Recommended Service Center or a competent gunsmith, or send it to Browning's Arnold, Missouri service facility.",
+   "box": "none",
+   "quote": "NEVER ATTEMPT TO TAKE YOUR SUPERPOSED APART FURTHER THAN EXPLAINED IN THIS MANUAL.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Cleaning Suggestions > OTHER CLEANING SUGGESTIONS",
+   "warn": "DO NOT, UNDER ANY CIRCUMSTANCES, ALTER THE TRIGGER, SAFETY OR PARTS OF THE FIRING MECHANISM OF THIS OR ANY OTHER FIREARM.",
+   "warnSrc": "maker",
+   "no": {
+    "q": "NEVER ATTEMPT TO TAKE YOUR SUPERPOSED APART FURTHER THAN EXPLAINED IN THIS MANUAL.",
+    "who": "Browning",
+    "src": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Cleaning Suggestions > OTHER CLEANING SUGGESTIONS"
+   }
+  },
+  {
+   "phase": "Clean",
+   "title": "Wood: oil or polish, not both",
+   "action": "Wipe the stock and the forearm wood with Browning Oil or a good furniture polish. Pick one; do not use both.",
+   "box": "none",
+   "quote": "Wipe all wood surfaces with Browning Oil or a quality furniture polish, but not both.",
+   "cite": "Browning Superposed Owner's Manual — UNKNOWN — not printed in the document — Cleaning Suggestions > CLEANING PROCEDURES, step 8"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Browning Superposed B-125, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Browning, not onto the bench.",
+ "deepAbsentReason": "Browning's Superposed book ends at the barrels and forearm off the action. It calls that the full cleaning, and it prints no forearm, ejector, trigger or action disassembly. Under Other Cleaning Suggestions it says \"NEVER ATTEMPT TO TAKE YOUR SUPERPOSED APART FURTHER THAN EXPLAINED IN THIS MANUAL.\" and sends any further disassembly for service or cleaning to a Browning Recommended Service Center, a competent gunsmith or its Arnold, Missouri service facility. The Invector choke tubes are the only other part it takes out of a B-125, and they are in the regular clean. There is no deeper procedure to follow.",
  "cleaning": [
   {
    "name": "BORES & CHAMBERS",
    "tasks": [
-    "Each bore brushed wet from the breech end, then dry patches until clean",
-    "Each chamber with a chamber brush — the plastic ring at the mouth",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Rod in at the breech, snug lightly oiled patch, both barrels",
+    "Look from both ends for lead and plastic streaks",
+    "Brass brush with powder solvent only if there is a lot",
+    "Brush pushed all the way through before it comes back",
+    "Chambers cleaned thoroughly, soon after plastic shells",
+    "⛔ Never leave empty shells in the chambers",
+    "Clean dry patch, then a lightly oiled one",
+    "Check no patch is left in either barrel"
    ]
   },
   {
-   "name": "ACTION & HINGE",
+   "name": "CHOKE TUBES",
    "tasks": [
-    "Standing breech wiped",
-    "⛔ No oil into the firing-pin holes",
-    "Extractors or ejectors wiped in place",
-    "A thin film of grease or oil on the hinge pin, the barrel hooks and the forend iron"
+    "Only if the barrel is marked INVECTOR",
+    "Tube loosened with the Invector wrench, counterclockwise",
+    "Muzzle and tube threads clean and lightly oiled",
+    "Tapered end in first, finger-tight, then seated firmly with the wrench",
+    "⛔ Never mix Invector Plus and Standard Invector tubes",
+    "⛔ Never fire a B-125 without a tube installed"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "OIL POINTS & ACTION",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
+    "Receiver, forearm metal and barrels wiped with a clean rag",
+    "Thin film of oil on the barrel lugs, hinge pin and forearm bracket",
+    "Breech faces clean and lightly oiled",
+    "⛔ Never pour oil into the receiver; it drains into the wood and loosens the stock",
+    "⛔ Never take the gun apart further than barrels off"
    ]
   },
   {
-   "name": "STORAGE",
+   "name": "WOOD",
    "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Browning Oil or furniture polish, not both"
    ]
   }
  ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "g": 3,
+    "steps": [
+     19
+    ]
+   }
+  ]
+ },
  "reassembly": [
-  "Action open: the barrels lowered onto the hinge pin with their hooks engaged, then swung closed — the top lever returns to the centre.",
-  "The forend back on: hooked at its rear, then pressed up until its latch clicks or the snap-on forend seats.",
-  "Open and close the gun once: it should open smoothly and close with the lever returning to the centre."
+  "Make sure both chambers are empty, no patch is in either bore, and the hinge pin, lugs and forearm bracket have their film of oil. In barrels marked INVECTOR, check that a choke tube is seated firmly in each one.",
+  "Check the forearm is still forward against its stop, about 1/2\", with the takedown lever out of its recess and the cocking lever lifter hanging down beside it.",
+  "Slide both ejectors forward in their rails until they sit against the breech, not sticking out from it.",
+  "Hook the hinge pin at the front of the action into the semi-circular recess just below the serial number.",
+  "Keep pressure against the hinge pin and slowly swing the action and stock up on it, pushing the top lever to the right with your thumb, until the action is completely closed. Let the top lever snap back by itself.",
+  "Do not force it. If the action and barrels are not lined up, force only grinds them together and scores the fitted surfaces. Open it and start again at the hinge pin.",
+  "Rest the butt against your upper leg. Swing the cocking lever lifter down so it slides into its recess in the action, and draw the forearm back as far as it will go, until its half-round cut-out meets the half-round part of the action.",
+  "Pivot the takedown lever forward and down into its recess in the forearm and snap the latch in. If it does not click, press firmly on its grooved tab until the whole assembly seats."
  ],
- "fncheck": "Every chamber empty. The gun opens fully, closes, and locks with the top lever back at the centre. A safety, if fitted, moves through its positions. This check never asks you to pull a trigger; whether a gun of this kind may be dry-fired, with snap caps or without, is a question for Browning."
+ "fncheck": "Both chambers empty and no live ammunition near the gun; Browning says never to test a gun's function with live ammunition. Open the action with the top lever: it should open fully and smoothly. Close it and let the top lever snap back; on a newer, stiff gun it need not come all the way to the center. Push the lever lightly to the left to be sure nothing is keeping the breech from closing. Check that the forearm is all the way back and the takedown lever latch has clicked in. Draw the selector rearward and see the S, then push it forward to the right for U, the under barrel, and forward to the left for O, the over barrel, and draw it back to the S. Do not snap the firing pins on empty chambers."
 }
