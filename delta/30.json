@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 30 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 30,
- "to": 54,
+ "to": 55,
  "rows": [
   {
    "id": "radianmodel1",
@@ -25723,8 +25723,7 @@
    ],
    "guide": true,
    "guideId": "sigsauerhexium762",
-   "guideSha256": "067e062194004603e74f2ede68ffd86d6437ba3e590fe2748419bed7799eb4e3",
-   "bestPractices": true,
+   "guideSha256": "cc7a0a70352a063c92f0ff4603ad5645de2caf648b9754c75242ebb62f58e9f4",
    "cal": "{\"chs\":[\".30 cal\"]}",
    "calSha256": "3a2b0fdd1a4e113aabe828c1fe71a577d39ad905e962ff3da626f82a84a9a764",
    "calV": 39

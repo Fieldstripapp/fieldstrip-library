@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 46 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 46,
- "to": 54,
+ "to": 55,
  "rows": [
   {
    "id": "banishhd762inc",
@@ -92,6 +92,25 @@
    "guideSha256": "73dd684f94fe6625deae294567e56b2ac33ad2bf8cd986cfe7c04507ac143f94",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
+   "calV": 39
+  },
+  {
+   "id": "sigsauerhexium762",
+   "maker": "SIG Sauer",
+   "model": "HEXIUM 7.62",
+   "chambering": ".30 cal",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "sigsauerhexium762",
+   "guideSha256": "cc7a0a70352a063c92f0ff4603ad5645de2caf648b9754c75242ebb62f58e9f4",
+   "cal": "{\"chs\":[\".30 cal\"]}",
+   "calSha256": "3a2b0fdd1a4e113aabe828c1fe71a577d39ad905e962ff3da626f82a84a9a764",
    "calV": 39
   },
   {
