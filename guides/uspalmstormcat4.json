@@ -1,133 +1,261 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAR-AR",
- "bpTemplateVersion": 1,
  "row": "uspalmstormcat4",
  "make": "US Palm",
  "model": "Storm CAT4",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model, so this guide works from the pattern the US Palm Storm CAT4 is built on — the AR — which field strips the same way on every rifle of the kind. It clears the rifle, asks you to confirm by sight that yours is built that way, then takes it down as far as the bolt. If what you see does not match, the strip stops and the rifle is cleaned with the action locked open.\n\nListed in Fieldstrip as 5.56 / .223. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document (UNKNOWN — not printed in the document)",
+ "sourceSha256": "64ec08c8fc4a0302c1dd2fdeb226e349aedd48dcf70d1d3f60e7396add109f29",
+ "cleanIntro": "US Palm's own field strip for the Storm CAT4, rifle and pistol alike, in US Palm's order and no further. Every control is on both sides of the gun; the two receiver pins are drawn from the right.\n\nUS Palm gives no round count or schedule for cleaning. Its field strip goes all the way to the buffer and buffer spring; here those two are the deep clean.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Magazine out first",
+   "action": "Point the muzzle in a safe direction, finger off the trigger, and keep it there. Press the magazine release on either side and pull the magazine out of the well.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "Keep a hand under it: an unsupported magazine may drop free. With it out, working the charging handle cannot feed another round. A round already in the chamber is still there.",
+   "quote": "Remove the magazine from the firearm by pressing either of the ambidextrous magazine release buttons and pull the magazine to remove it from the lower receiver magwell.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Unloading & Clearing, printed p.19",
+   "warn": "THIS FIREARM WILL FIRE WITH THE MAGAZINE REMOVED IF THERE IS A CARTRIDGE IN THE CHAMBER AND THE TRIGGER IS PULLED.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, bolt back and locked",
-   "action": "Press the magazine release and take the magazine out first. Pull the charging handle fully back, press the bottom of the bolt catch on the left of the receiver to lock the bolt open, and push the charging handle back home. If the bolt will not lock back, hold it back by the handle. Keep your hand and thumb out of the bolt's path.",
+   "title": "Charging handle all the way back, carrier locked there",
+   "action": "Pull the charging handle fully rearward and keep tension on it. While you hold it, set the bolt catch: lift the one on the right side, or press the lower paddle of the one on the left.",
    "box": "none",
-   "prose": "A selector, if your rifle has one, goes to safe if it will — but it is never a substitute for an empty chamber."
+   "prose": "Watch the ejection port as the carrier comes back. Do not let go until you have felt the catch take the carrier; a half-set catch lets it slam shut.",
+   "quote": "Retract the charging handle fully to the rear and keep tension to hold the bolt carrier group to the rear.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Unloading & Clearing, steps 1–2, printed p.20"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and up into the empty magazine well, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Handle returned forward, selector on SAFE",
+   "action": "Push the charging handle forward until it latches on the upper receiver, then turn the selector to SAFE.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact US Palm with the gun pointed somewhere safe."
+   "prose": "The selector comes this late for a reason: on this gun it turns to SAFE only with the hammer cocked, and pulling the carrier back has just cocked it.",
+   "quote": "Rotate the fire control selector to the “SAFE” position.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Unloading & Clearing, steps 3–4, printed p.20; Fire Control Selector, printed p.14"
   },
   {
-   "phase": "Strip",
-   "title": "Confirm it is built the AR way",
-   "action": "With the rifle empty and the bolt locked back, look for three things: two pins running across the lower receiver — one at the front, just ahead of the magazine well, and one at the rear, above the pistol grip; a T-shaped charging handle at the back of the upper receiver; and the upper and lower receivers meeting along a seam you can see. If all three are there, carry on.",
+   "phase": "Clear",
+   "title": "Look: magazine well, bolt face, chamber",
+   "action": "With the ejection port cover open, the magazine out and the carrier locked back, look through the port into the chamber, then at the bolt face and into the magazine well. There must be no live round and no case in any of them.",
    "box": "none",
-   "prose": "⛔ If any of them is missing, or you are not sure, this is where your strip ends: go straight to the cleaning steps and clean the bore from the muzzle with the action locked open."
+   "prose": "The catch alone is holding the carrier against the buffer spring while you look. Keep hands and sleeves off it. If a case or round is stuck and will not come out, stop: US Palm says to store the gun away from its magazine with the safety on, and see a qualified gunsmith.",
+   "quote": "Carefully inspect the magazine well, bolt face and chamber to make sure there are no live rounds or cartridge cases present.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Unloading & Clearing, printed p.21; Stoppages & Malfunctions, printed p.22",
+   "warn": "DEPRESSING THE BOLT RELEASE ON LEFT OR RIGHT SIDE OF THE FIREARM WILL ALLOW THE BOLT CARRIER GROUP TO SPRING FORWARD AND COULD CAUSE INJURY.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Rear pin across, upper hinged open",
-   "action": "Press the top of the bolt catch and let the bolt go forward. Push the rear takedown pin from the left side to the right until it stops — it is held captive and does not come all the way out, so never force it further. Then swing the upper receiver forward and up on the front pin, like a hinge.",
+   "title": "Safety glasses on, carrier forward on the empty chamber",
+   "action": "Put safety glasses on. With the gun proven empty, let the carrier go forward with the charging handle or with either bolt release.",
    "box": "none",
-   "prose": "If the rear pin will not move with firm thumb pressure, a nylon or brass punch is the right tool — never a steel one on the receiver."
+   "prose": "Keep fingers out of the port; the carrier goes home under full spring force. It has to be forward before the receivers are opened.",
+   "quote": "Once firearm is unloaded and cleared utilize the charging handle or one of the ambidextrous bolt release levers to release the bolt carrier group forward into battery on the empty chamber.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Field Stripping, step 2, printed p.24",
+   "warn": "WEAR SAFETY GLASSES EVERY TIME YOU ASSEMBLE OR DISASSEMBLE YOUR FIREARM TO PROTECT YOUR EYES FROM SPRINGS OR OTHER PARTS.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Bolt carrier group and charging handle out the back",
-   "action": "With the upper hinged open, draw the charging handle back a few centimetres; the bolt carrier group comes back with it and can be drawn straight out of the rear of the upper. Then draw the charging handle further back and drop it down out of its track. Lay both on a clean cloth.",
-   "box": "none"
-  },
-  {
-   "phase": "Strip",
-   "title": "The bolt out of the carrier",
-   "action": "Push the bolt fully back into the carrier. Pull the firing pin retaining pin out of the left side of the carrier, tip the carrier back, and let the firing pin slide out of the rear. Turn the cam pin a quarter turn and lift it out of the top, then draw the bolt out of the front of the carrier.",
+   "title": "Takedown pin drawn out on the right until the detent holds it",
+   "action": "The takedown pin is the rear one. Draw it out on the right side of the gun until its detent catches it. It stays with the lower.",
    "box": "none",
-   "prose": "Note which way the bolt faced before you take it out — it goes back the same way. Keep the three small parts together: a carrier group missing its cam pin, its firing pin or its retaining pin must never go back into the rifle."
+   "prose": "A tight pin is not a fault here: the anti-wobble tensioner in the lower loads it. US Palm allows a chamber flag, a wooden dowel that fits or a brass punch to start it. A steel punch may mar the finish.",
+   "quote": "Fully retract the takedown pin on the right side of the firearm until the detent engages the pin.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Field Stripping, step 3, printed p.24; Anti-Wobble Tensioning, printed p.36"
   },
   {
    "phase": "Strip",
-   "title": "That is the whole strip",
-   "action": "Nothing else comes apart. The extractor and its pin, the gas rings, the gas key and its screws, the buffer and spring in the stock, the trigger group and the barrel stay exactly as they are — those are work for US Palm. The front pin stays in, holding the two receivers together.",
-   "box": "none"
+   "title": "Upper swung open, carrier drawn back and out",
+   "action": "Swing the upper open on the pivot pin, which is the front one. Pull the charging handle back, which brings the bolt carrier group with it, and lift the group out of the rear of the upper.",
+   "box": "none",
+   "prose": "Support the carrier as it clears the receiver so it does not drop. The handle stays in the upper for now.",
+   "quote": "Retract the charging handle which will move the bolt carrier group along with it to the rear.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Field Stripping, steps 4–6, printed p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Charging handle out where its tabs meet the slots",
+   "action": "Move the charging handle along the upper until the tabs on its body sit at the slots in the receiver, and take it out there.",
+   "box": "none",
+   "prose": "There is only one place along the track where it comes out. If it will not lift, the tabs are not at the slots; move it, do not pry.",
+   "quote": "Line up the tabs on the charging handle body with the slots in the upper receiver to remove the charging handle from the upper receiver.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Field Stripping, step 7, printed p.25"
+  },
+  {
+   "phase": "Strip",
+   "title": "Upper closed again, pivot pin drawn, receivers apart",
+   "action": "Swing the upper closed onto the lower. Draw the pivot pin out on the right side until its detent catches it, then separate the upper from the lower.",
+   "box": "none",
+   "prose": "US Palm closes the receivers before the pivot pin is drawn. Keep hold of both halves: nothing joins them once this pin is out.",
+   "quote": "Fully retract the pivot pin on the right side of the firearm until the detent engages the pin.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Field Stripping, steps 8–10, printed p.26"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin retaining pin out, then the firing pin",
+   "action": "On the bolt carrier group, take out the firing pin retaining pin. Then take the firing pin out of the carrier.",
+   "box": "none",
+   "prose": "The retaining pin is the only thing named as holding the firing pin, so it comes first. Put both somewhere they cannot roll.",
+   "quote": "Once the firing pin retaining pin is removed the firing pin can be removed from the bolt carrier.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Field Stripping, steps 11–12, printed p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt pushed in, cam pin a quarter turn and up",
+   "action": "Push the bolt face all the way into the carrier so the cam pin runs to the back of its path. Turn the cam pin 90 degrees, either way, and pull it up and out.",
+   "box": "none",
+   "prose": "The quarter turn is what gets it past the gas key. If it will not lift, it is not turned far enough, or the bolt is not fully in.",
+   "quote": "Rotate the cam pin 90 degrees in either direction so that it can clear the gas key and pull up to remove it from the bolt carrier.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Field Stripping, step 13, printed p.27"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt out of the carrier",
+   "action": "With the cam pin gone, draw the bolt out of the carrier.",
+   "box": "none",
+   "prose": "Leave the bolt as it is. The book lists the extractor as a part and gives no procedure for taking it off.",
+   "quote": "Once the cam pin is removed the bolt can be removed from the carrier.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Field Stripping, step 14, printed p.27; parts list, printed p.39"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "You have the upper receiver with its barrel and handguard, the lower receiver, the charging handle, and the bolt carrier, bolt, cam pin, firing pin and retaining pin. The buffer and buffer spring are still in the lower; they are the deep clean.",
+   "box": "limit",
+   "prose": "Past what this book shows, US Palm recommends a gunsmith. Its warranty does not cover disassembly beyond these field stripping instructions.",
+   "quote": "It is recommended that any maintenance beyond what is contained in this manual be performed by a qualified gunsmith.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Safety, Rule #7, printed p.6; Limited Lifetime Warranty, printed p.41",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the chamber end",
-   "action": "With the upper hinged open and the carrier out, the bore is open from the rear. Push a brush wet with bore solvent from the chamber end through to the muzzle, a few passes, then dry patches until they come out clean. A rod guide in the rear of the upper keeps the rod centred. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Chamber and bore with bore solvent, then dry",
+   "action": "Clean the chamber and the bore with a bore solvent and a rifle cleaning kit, following the kit maker’s own instructions. Patch the bore dry, and look through it before the gun is next fired.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "US Palm wants solvent out of the barrel before firing, and puts the how of it in your kit’s instructions, not in this book. Work where there is air moving: some solvents give off hazardous vapor.",
+   "quote": "Clean the barrel chamber and bore with a quality bore solvent.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Cleaning and Maintenance, printed pp.29–30",
+   "warn": "Wipe the inside of the barrel dry before firing and ensure that it is free of obstructions.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
-   "title": "The chamber and the locking lugs",
-   "action": "Use a chamber brush, or a patch on a small brush, to clean the chamber and the ring of locking lugs just behind it, where carbon collects. Wipe out the inside of the upper receiver, then wipe the inside of the lower dry around the hammer — solvent stays out of the trigger group.",
-   "box": "none"
+   "title": "Carrier way in the upper, with no wire brush",
+   "action": "Clean the residue and carbon out of the carrier way, the track inside the upper that the bolt carrier runs in, with a solvent such as CLP. Wipe it, dry it and look it over, then put a thin film of lubricant on the surfaces the carrier bears on.",
+   "box": "none",
+   "prose": "The upper is aluminum and its finish is anodized. A wire brush scratches through it, and that does not come back.",
+   "quote": "Bolt carrier interface (carrier way) in the upper receiver",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Cleaning and Maintenance, item 1, printed p.30; Lubrication, item 1, printed p.31",
+   "warn": "USE OF WIRE BRUSHES ON ALUMINUM SURFACES CAN PERMANENTALLY SCRATCH OR MAR THE ANODIZED FINISH.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
-   "title": "Bolt, carrier and firing pin",
-   "action": "Scrape the carbon off the tail of the bolt and out of the inside of the carrier with a nylon brush and a little solvent, and wipe the bolt face. Wipe the firing pin clean and dry — it goes back with no oil on it. Then put a light film of oil on the outside of the bolt body, the cam pin, and the outside of the carrier where it rides in the receiver.",
+   "title": "Charging handle cleaned, film on its bearing surfaces",
+   "action": "Clean the charging handle with solvent, wipe it dry and look it over. Leave a thin film of lubricant where it bears on the upper receiver.",
    "box": "none",
-   "prose": "A dry, carboned bolt is the most common reason a rifle of this pattern stops running; an oily firing pin collects grit where it matters most."
+   "prose": "Only where it bears. Oil anywhere else on the handle just holds dirt.",
+   "quote": "Charging handle (apply a thin layer to the bearing surfaces of the upper receiver)",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Cleaning and Maintenance, item 9, printed p.30; Lubrication, item 7, printed p.31"
+  },
+  {
+   "phase": "Clean",
+   "title": "Carrier, bolt, cam pin, firing pin and retaining pin cleaned",
+   "action": "Clean the residue and carbon off all five parts with a solvent such as CLP. Wipe each one, dry it and look it over before any lubricant goes on.",
+   "box": "none",
+   "prose": "Dry and inspected first, lubricated second. Wear gloves: there may be sharp edges on these parts.",
+   "quote": "Clean parts listed with a quality solvent such as CLP then wipe, dry, and inspect prior to lubrication and re-assembly.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Cleaning and Maintenance, items 2–6, printed pp.29–30"
+  },
+  {
+   "phase": "Clean",
+   "title": "Carrier, bolt and cam pin lubricated; bolt face left dry",
+   "action": "Thin film on the carrier’s bearing surfaces. Thin film on the bolt’s bearing surfaces and the back of its lugs, none on the face. One or two drops on the cam pin.",
+   "box": "limit",
+   "prose": "The firing pin and its retaining pin are on US Palm’s cleaning list and not on its lubrication list. Leave them dry. Too much solvent or lubricant can upset how the gun runs.",
+   "quote": "Bolt (apply a thin layer to the bearing surfaces and rear of the lugs, do not lubricate the bolt face where the cartridge seats)",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Lubrication, items 2–4, printed p.31; Cleaning and Maintenance, printed p.29"
   },
   {
    "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the bolt's lugs, the receivers and the stock for cracks, chips on the lugs, wear at the cam pin hole, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for US Palm.",
-   "box": "none",
-   "prose": "Any one of these means the gun is not fired until US Palm has seen it."
+   "title": "Look it over while it is apart",
+   "action": "Look at every part for wear and damage before it goes back. Anything doubtful goes to a gunsmith before the gun is fired.",
+   "box": "limit",
+   "prose": "US Palm wants a competent gunsmith to check the gun now and then even when nothing looks wrong. It sets no interval for it.",
+   "quote": "This firearm should be checked periodically for worn or damaged parts by a competent gunsmith.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Cleaning and Maintenance, printed p.29"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the US Palm Storm CAT4, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to US Palm, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Buffer held, detent pressed, buffer let out slowly",
+   "action": "Safety glasses on, upper off the lower. Keep a thumb on the face of the buffer, press the buffer detent down, and let the buffer and its spring come out of the tube under your thumb.",
+   "box": "none",
+   "prose": "The spring is pushing on the buffer the whole time and the detent is what stops it. Point the tube’s open end away from your face, and do not let go as it clears.",
+   "quote": "Depress the buffer detent to allow the buffer and buffer spring to come out of the buffer tube.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Field Stripping, step 15, printed p.28",
+   "warn": "WEAR SAFETY GLASSES EVERY TIME YOU ASSEMBLE OR DISASSEMBLE YOUR FIREARM TO PROTECT YOUR EYES FROM SPRINGS OR OTHER PARTS.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Buffer and spring separated",
+   "action": "Take the buffer off the buffer spring. US Palm’s strip ends here.",
+   "box": "none",
+   "prose": "The detent and the spring under it stay in the lower. The book gives no step for taking those out.",
+   "quote": "This completes field stripping of the firearm.",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Field Stripping, steps 16–17, printed p.28"
+  },
+  {
+   "phase": "Clean",
+   "title": "Buffer and buffer spring cleaned and dried",
+   "action": "Clean the residue off the buffer and the spring with a solvent such as CLP. Wipe both, dry them, and look them over.",
+   "box": "none",
+   "prose": "These are the last two parts on US Palm’s cleaning list that the routine clean leaves in the gun.",
+   "quote": "Clean the following items of any residue and/or carbon build up:",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Cleaning and Maintenance, items 7–8, printed p.30"
+  },
+  {
+   "phase": "Clean",
+   "title": "Thin film on the buffer, light oil on the spring",
+   "action": "Put a thin film of lubricant on the buffer’s bearing surfaces and lightly lubricate the spring.",
+   "box": "none",
+   "prose": "Light is the maker’s word for every part on its list. Use a product made for firearms and nothing else.",
+   "quote": "Buffer (apply a thin layer to the bearing surfaces)",
+   "cite": "US PALM STORM SERIES — OPERATION & SAFETY MANUAL — UNKNOWN — not printed in the document — Lubrication, items 5–6, printed p.31"
+  }
+ ],
  "cleaning": [
   {
-   "name": "BORE & CHAMBER",
+   "name": "BORE AND UPPER RECEIVER",
    "tasks": [
-    "Brush wet with bore solvent from the chamber end, then dry patches until clean",
-    "Chamber and locking lugs with a chamber brush",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Chamber and bore: bore solvent, by your cleaning kit’s instructions",
+    "Bore wiped dry and clear of obstructions before firing",
+    "Carrier way in the upper: solvent, wiped, dried, inspected",
+    "Lube: thin film in the carrier way where the carrier bears",
+    "⛔ No wire brush on aluminum surfaces"
+   ]
+  },
+  {
+   "name": "CHARGING HANDLE",
+   "tasks": [
+    "Solvent, then wiped, dried and inspected",
+    "Lube: thin film where it bears on the upper"
    ]
   },
   {
    "name": "BOLT CARRIER GROUP",
    "tasks": [
-    "Carbon off the bolt tail and out of the carrier",
-    "Bolt face wiped",
-    "Firing pin wiped clean and DRY",
-    "A light film of oil on the bolt body, the cam pin and the carrier's outside"
-   ]
-  },
-  {
-   "name": "RECEIVERS",
-   "tasks": [
-    "Inside of the upper wiped",
-    "Inside of the lower wiped dry",
-    "⛔ No solvent into the trigger group"
-   ]
-  },
-  {
-   "name": "EXTERIOR",
-   "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Carrier, bolt, cam pin, firing pin, retaining pin: solvent, wiped, dried, inspected",
+    "Lube: thin film on the carrier’s bearing surfaces",
+    "Lube: thin film on the bolt’s bearing surfaces and the back of its lugs",
+    "Lube: one or two drops on the cam pin",
+    "⛔ No lubricant on the bolt face where the cartridge seats",
+    "⛔ No lubricant sprayed or wiped on ammunition"
    ]
   }
  ],
@@ -136,39 +264,49 @@
    {
     "g": 0,
     "steps": [
-     8,
-     9
+     13,
+     14
     ]
    },
    {
     "g": 1,
     "steps": [
-     10
+     15
     ]
    },
    {
-    "s": 11
-   },
-   {
     "g": 2,
-    "steps": []
+    "steps": [
+     16,
+     17
+    ]
    },
    {
-    "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
+    "s": 18
    }
   ]
  },
  "reassembly": [
-  "The bolt into the front of the carrier, facing the way it came out, and pushed fully back.",
-  "The cam pin dropped into the top and turned a quarter turn back; the firing pin slid into the rear; the retaining pin pushed back in from the left.",
-  "⛔ Check the group before it goes in: tip it rear-end down — the firing pin must not fall out — and draw the bolt forward — it must stop, held by the cam pin. A group that fails either check does not go into the rifle.",
-  "The charging handle lifted into its track and pushed in part way; the carrier group slid in behind it; both pushed fully home together.",
-  "The upper swung closed on the front pin, and the rear pin pushed back from the right until it seats."
+  "Safety glasses on. Buffer back onto the buffer spring, and both into the buffer tube.",
+  "⛔ Buffer pushed fully into the tube, past the buffer detent, so the detent captures it. Check that it stays captured when you let go.",
+  "Bolt into the bolt carrier.",
+  "⛔ Cam pin into the carrier and turned 90 degrees, with the bolt pushed in. Do not forget it: US Palm warns that the gun will still fire a round without its cam pin, and that firing it that way could end in catastrophic failure, serious injury or death.",
+  "Firing pin into the carrier, then the firing pin retaining pin.",
+  "Upper set on the lower, and the pivot pin pushed home.",
+  "Upper swung open on the pivot pin. Charging handle in, its tabs through the slots in the upper.",
+  "Bolt carrier group into the upper, and the group and charging handle pushed forward together.",
+  "Upper swung closed and the takedown pin pushed home. A dowel or brass punch helps if the tensioner makes it tight; a steel punch may mar the finish.",
+  "Function check before any live ammunition."
  ],
- "fncheck": "Magazine out and the chamber empty. Pull the charging handle back and let it go: the bolt runs fully back and closes fully forward, and it locks open on an empty magazine. The selector, if your rifle has one, moves through each of its positions with the hammer back. This check never asks you to pull the trigger."
+ "fncheck": "Gun unloaded and proven clear first, muzzle in a safe direction throughout. Insert an EMPTY magazine until its catch holds it. Pull the charging handle fully back: the empty magazine should lift the bolt catch and lock the carrier back. Push the handle forward until it latches, and turn the selector to SAFE. Take the magazine out. Let the carrier forward with the right bolt release or the top paddle of the left one. Press the trigger: the hammer should NOT fall. Turn the selector to SEMI, then press the trigger and hold it back: the hammer should fall. Still holding the trigger back, pull the charging handle fully rearward to reset the hammer. Let the trigger go: you should hear it click as it resets. Turn the selector to SAFE. If the gun fails any part of this, do not load it; take it to a qualified gunsmith.",
+ "reassemblyRoutine": [
+  "Safety glasses on. Bolt into the bolt carrier.",
+  "⛔ Cam pin into the carrier and turned 90 degrees, with the bolt pushed in. Do not forget it: US Palm warns that the gun will still fire a round without its cam pin, and that firing it that way could end in catastrophic failure, serious injury or death.",
+  "Firing pin into the carrier, then the firing pin retaining pin.",
+  "Upper set on the lower, and the pivot pin pushed home.",
+  "Upper swung open on the pivot pin. Charging handle in, its tabs through the slots in the upper.",
+  "Bolt carrier group into the upper, and the group and charging handle pushed forward together.",
+  "Upper swung closed and the takedown pin pushed home. A dowel or brass punch helps if the tensioner makes it tight; a steel punch may mar the finish.",
+  "Function check before any live ammunition."
+ ]
 }

@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 40 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 40,
- "to": 56,
+ "to": 57,
  "rows": [
   {
    "id": "browningsuperposed",
@@ -98,6 +98,25 @@
    "guideSha256": "79c07e379b09ad5727ecdac86082f69a17c4c010c7c6aef9f10b65ac632b494f",
    "cal": "{\"chs\":[\".300 BLK\",\"5.56 / .223\"]}",
    "calSha256": "049f7f0de5f3271b0526272a906c5c33942dd60e03b7f91679bff2ddb1d054ba",
+   "calV": 38
+  },
+  {
+   "id": "uspalmstormcat4",
+   "maker": "US Palm",
+   "model": "Storm CAT4",
+   "chambering": "5.56 / .223",
+   "category": "AR-pattern rifle",
+   "family": "NEW-USPALM-STORMCAT4",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.56 / .223"
+   ],
+   "guide": true,
+   "guideId": "uspalmstormcat4",
+   "guideSha256": "4a5dd41d52c09750e7f72f6555b53fc2e441b98b453fe9133e57d3a7c9d6fce9",
+   "cal": "{\"chs\":[\"5.56 / .223\"]}",
+   "calSha256": "0a14a58185a59bf7b8cbb05dfcb3652cbd2be162d67efade3ed87034c295930d",
    "calV": 38
   },
   {

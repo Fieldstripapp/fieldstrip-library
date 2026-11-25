@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 33 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 33,
- "to": 56,
+ "to": 57,
  "rows": [
   {
    "id": "radianmodel1",
@@ -24780,8 +24780,7 @@
    ],
    "guide": true,
    "guideId": "uspalmstormcat4",
-   "guideSha256": "b50520a65423ea1fd19dc6dbf3ab23103cdde1041391c974b727b545aae0bbc2",
-   "bestPractices": true,
+   "guideSha256": "4a5dd41d52c09750e7f72f6555b53fc2e441b98b453fe9133e57d3a7c9d6fce9",
    "cal": "{\"chs\":[\"5.56 / .223\"]}",
    "calSha256": "0a14a58185a59bf7b8cbb05dfcb3652cbd2be162d67efade3ed87034c295930d",
    "calV": 38
