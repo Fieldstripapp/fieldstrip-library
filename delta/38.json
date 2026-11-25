@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 38 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 38,
- "to": 53,
+ "to": 54,
  "rows": [
   {
    "id": "browningsuperposed",
@@ -220,6 +220,23 @@
    "guideSha256": "a1f9793f16c10e645d49f1f07f0e55f20ed2957b5de808e463975d011ee9a067",
    "cal": "{\"rl\":[\".410\"]}",
    "calSha256": "249edbc80a77e5aaa1b62a93e667eb0a1c763ecaae70c1e3fcbb322d12247869",
+   "calV": 38
+  },
+  {
+   "id": "canikvoid762",
+   "maker": "Canik",
+   "model": "VOID-762",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "canikvoid762",
+   "guideSha256": "aa74f1cd68cec0ca0ef76a34dd57678ad8c3d77c48792a5a897afc8094a1757c",
+   "cal": "{\"rl\":[\".300 BLK\",\"5.56 / .223\",\"7.62x39\",\"6mm ARC\",\"6.5 Grendel\",\".308 Win\",\"6.5 Creedmoor\",\".300 Win Mag\"]}",
+   "calSha256": "3049387982c9f1ad4f64b2c3872db54924512247cb92755e1580dbab19d5d2b6",
    "calV": 38
   },
   {

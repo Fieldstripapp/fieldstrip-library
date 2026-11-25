@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 16 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 16,
- "to": 53,
+ "to": 54,
  "rows": [
   {
    "id": "radianmodel1",
@@ -25050,8 +25050,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "canikvoid762",
-   "guideSha256": "f0016161d86bb89202e65dcaa689c2ca45fcda2585bff718bed985d27a37673d",
-   "bestPractices": true,
+   "guideSha256": "aa74f1cd68cec0ca0ef76a34dd57678ad8c3d77c48792a5a897afc8094a1757c",
    "cal": "{\"rl\":[\".300 BLK\",\"5.56 / .223\",\"7.62x39\",\"6mm ARC\",\"6.5 Grendel\",\".308 Win\",\"6.5 Creedmoor\",\".300 Win Mag\"]}",
    "calSha256": "3049387982c9f1ad4f64b2c3872db54924512247cb92755e1580dbab19d5d2b6",
    "calV": 38

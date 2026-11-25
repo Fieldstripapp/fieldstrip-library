@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 51 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 51,
- "to": 53,
+ "to": 54,
  "rows": [
   {
    "id": "banishhd762inc",
@@ -20,6 +20,23 @@
    "guideSha256": "5c2ad348a362d5c4f05f8cb31869f8c9ba4e763ae7113f06337eecfccbaafd47",
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"caliber range: 5.56 NATO to .300 RUM\",\"rt\":\".300 RUM\"}",
    "calSha256": "46afce17aa2fa5f5600e606c837413c6ba1c8438165a1850d4b23a97635f5dcc",
+   "calV": 38
+  },
+  {
+   "id": "canikvoid762",
+   "maker": "Canik",
+   "model": "VOID-762",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "canikvoid762",
+   "guideSha256": "aa74f1cd68cec0ca0ef76a34dd57678ad8c3d77c48792a5a897afc8094a1757c",
+   "cal": "{\"rl\":[\".300 BLK\",\"5.56 / .223\",\"7.62x39\",\"6mm ARC\",\"6.5 Grendel\",\".308 Win\",\"6.5 Creedmoor\",\".300 Win Mag\"]}",
+   "calSha256": "3049387982c9f1ad4f64b2c3872db54924512247cb92755e1580dbab19d5d2b6",
    "calV": 38
   },
   {

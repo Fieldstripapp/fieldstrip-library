@@ -1,178 +1,251 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of suppressor. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never disassemble a suppressor unless its maker documents it.",
- "bpClass": "BP-SUP-SC",
- "bpTemplateVersion": 1,
  "row": "canikvoid762",
  "make": "Canik",
  "model": "VOID-762",
- "cleanIntro": "No maker procedure exists for the Canik VOID-762, so this guide treats it as a sealed can: nothing on it is opened, unscrewed or taken apart, whatever it looks like. Everything an owner can do safely is on the outside — take it off the host correctly, keep the mount and threads free of carbon, check that it is tight, look for the signs of trouble, store it dry, and know when it has to go back to Canik.\n\nListed in Fieldstrip as multi-caliber. The caliber rating marked on the can itself is the limit — not this guide, and not the listing.",
+ "sourcedFrom": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. (2026 (copyright footer))",
+ "sourceSha256": "82def1675b0ff4dfcd27fe1b0ccaa3949a67b90a1b707a9c80c2d3f6b9a90abd",
+ "cleanIntro": "The VOID-762 is a 17-4 stainless .30-caliber rifle suppressor. Two parts come off its body: the front cap, and the mount in the HUB threads at the rear. Canik prints nothing past those two. The regular service is the outside, the threads and a look and a shake; the Deep Clean takes the front cap off and cleans the threads it and the mount sit in. Nothing goes through the bore. Everything about your rifle comes from that rifle's own manual.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Host unloaded and the action open before the can moves",
-   "action": "Unload the host firearm, open the action and look: chamber empty, magazine out or empty. Keep the muzzle pointed somewhere safe the whole time the can is coming off — your hand is about to be in front of it.",
+   "title": "Rifle unloaded, action locked back, chamber looked at and felt",
+   "action": "Point the muzzle somewhere safe, take the magazine out and lock the action to the rear. Look into the chamber and feel it with a finger to be sure it is empty. If your rifle does not work that way, clear it the way its own manual says.",
    "box": "none",
-   "prose": "This guide is for the suppressor, not the firearm. Clear the host the way the host's own manual describes."
+   "prose": "Both hands are about to be at the muzzle. Looking and feeling catches the round that one of them alone can miss.",
+   "quote": "Point the muzzle in a safe direction, remove the magazine and carefully lock the action to the rear. Visually and physically inspect the chamber to ensure it is clear.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Removal, printed p.15"
   },
   {
    "phase": "Clear",
-   "title": "Let it cool before a bare hand goes near it",
-   "action": "A suppressor stays hot long after the barrel feels warm, hot enough to burn through an ordinary glove. Wait until it is cool to the touch, or handle it only in heat-resistant gloves, and set it down on something that cannot burn or melt.",
-   "box": "none",
-   "prose": "⛔ Never cool a hot can with water, solvent or compressed air."
+   "title": "Let it cool first",
+   "action": "Wait until the can is cool before you take hold of it. If it has to come off hot, wear proper heat protection, and put it down on something it cannot burn or melt.",
+   "box": "limit",
+   "prose": "A steel can holds its heat well after the last shot, and the body is the part you have to grip to turn it.",
+   "quote": "Do not attempt to remove the suppressor if it is hot. Allow ample time for the suppressor to cool before attempting removal.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Removal, printed p.15",
+   "warn": "Touching a hot suppressor with bare skin may result in injury.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "What it is rated for, and on how much barrel",
+   "action": "Check what it has been fed. Canik's shortest barrels for the VOID-762 are 6.5 inches for 300 BLK, 7.5 for 5.56x45 and 7.62x39, 10.5 for 6mm ARC, 6.5 Grendel and similar, 12.5 for .308 Win and 6.5 Creedmoor, and 16 for .300 Win Mag. Factory jacketed ammunition only, and no string longer than 200 rounds without letting it cool.",
+   "box": "limit",
+   "prose": "The VOID-556 and 556K share this book and have a different table, so read the VOID-762 half of it. Lead, frangible or pre-fragmented bullets also void the warranty.",
+   "aside": "DO NOT exceed 200 round string without cooldown.",
+   "quote": "DO NOT fire lead bullets, frangible or pre-fragmented ammunition through any VOID Suppressor.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Ammunition Guidelines, printed p.9; Minimum Barrel Restrictions, printed p.17"
   },
   {
    "phase": "Strip",
-   "title": "Off the host — and that is the whole strip",
-   "action": "Take it off the way it went on. On ordinary right-hand threads a can screwed straight onto the barrel turns counter-clockwise, seen from behind the gun, to come off. A quick-detach can releases its latch or collar first, then comes off the muzzle device. If carbon has it stuck, use steady hand pressure or a strap wrench on the tube — never pliers, a pipe wrench or a vice, which can crush the tube.",
+   "title": "Unscrew it from the rifle",
+   "action": "Unscrew the can from the barrel by hand, counterclockwise. If hand strength will not start it, Canik allows an adjustable wrench on the wrench flats, still counterclockwise, until it is clear of the threads. If it is on another maker's HUB mount, follow that maker's instructions.",
    "box": "none",
-   "prose": "⛔ Nothing else comes off. The mount, the end caps and whatever is inside stay exactly as they are: this guide carries no procedure from Canik for this can, and a suppressor is never opened without its maker's. If it will not come off the host, stop and contact Canik."
+   "prose": "The flats are the only place a wrench goes. Pliers or a vice on the tube can crush it.",
+   "quote": "If the suppressor will not come off with just hand strength, an adjustable wrench can be used on the wrench flats, rotating counterclockwise until fully removed from the threads.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Removal, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete: the can is off",
+   "action": "For the regular service that is the whole strip. The front cap and the mount stay on the can. Taking the front cap off belongs to Deep Clean, and past the cap and the mount Canik prints nothing to open.",
+   "box": "limit",
+   "prose": "Every part stays as Canik built it. Adding or swapping parts can make the can unsafe, and it can be illegal.",
+   "quote": "Do not add, alter, or substitute any parts of the suppressor.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — WARNING! Alterations, printed p.6",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Carbon off the threads, can and barrel",
+   "action": "Clean the carbon and residue off the can's threads and the barrel's. Do the barrel's muzzle threads with a nylon brush and a dry cleaning solvent. Work where there is moving air, and wash your hands when you are done.",
+   "box": "none",
+   "prose": "Carbon in the threads is what stops a can seating square, and what makes it stick next time. The residue carries lead.",
+   "aside": "Clean off carbon build up or residue on the threads of the suppressor and/or firearm.",
+   "quote": "Make sure to clean the firearms’s muzzle threads with a nylon brush and a dry cleaning solvent.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Cleaning, printed p.18",
+   "warn": "Always have adequate ventilation when shooting and cleaning firearms or suppressors. Wear proper protective equipment and wash hands thoroughly after exposure.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe the body with CLP, then dry",
+   "action": "Wipe the body down with a rag and CLP to lift the residue and carbon, then wipe it dry.",
+   "box": "none",
+   "prose": "The finish is Cerakote, and Canik warns that the wrong solvent can damage it. CLP on a rag is what the book names for the body.",
+   "quote": "Wipe the suppressor body down with a rag and CLP to remove residue and carbon, ensure you wipe the body dry afterwards.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Cleaning, printed p.18",
+   "warn": "DO NOT use a steel wire brush or an ultra sonic cleaner with your suppressor, as they may damage the finish.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "⛔ No patches through the can, and nothing poured in",
+   "action": "Leave the inside of the can alone. No patch goes through its bore, and no water, oil, grease or gel goes in it.",
+   "box": "none",
+   "prose": "Canik prints no way to clean the baffles, with the can whole or with the front cap off.",
+   "aside": "Do not add any substances such as water, oil, grease, or gels into the suppressor.",
+   "quote": "DO NOT use cleaning patches to clean the inside bore of your suppressor.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Cleaning, printed p.18",
+   "no": {
+    "q": "DO NOT use cleaning patches to clean the inside bore of your suppressor.",
+    "who": "Canik",
+    "src": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Cleaning, printed p.18"
+   }
   },
   {
    "phase": "Inspect",
-   "title": "Carbon on the threads and the mount",
-   "action": "With the can off, look at the host's muzzle threads and shoulder, and at the threads or taper and the seating face of the can's mount. Hard carbon there is what stops a can seating square, and what makes one seize on or work loose. It comes off before the can goes back on — the cleaning list covers how.",
-   "box": "none",
-   "prose": "The mount is the part of a suppressor that fails dangerously, so it gets the most attention."
+   "title": "Look through it, shake it, look it over",
+   "action": "Look through the bore for anything in the way. Shake the can and listen for a broken or loose part inside. Then look over the whole outside for damage.",
+   "box": "limit",
+   "prose": "Canik asks for these checks before use as well as at cleaning.",
+   "quote": "Visually inspect the bore of the suppressor for any obstructions or foreign objects. Shake the suppressor and listen to check for any broken or detached internal parts. Inspect the exterior for any signs of external damage.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — General Maintenance, printed p.18",
+   "warn": "If any concerns are found, DO NOT use your suppressor and contact customer service.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Inspect",
-   "title": "Look straight through it",
-   "action": "Hold the can up to a light and look through the bore from each end. You should see one clean, round circle of light, centred. Anything in the way — debris, water, a lip of metal, a torn or off-centre hole — means it does not go back on the gun.",
+   "title": "Signs of a baffle or front-cap strike",
+   "action": "Think back to the last session. If accuracy fell off suddenly, or a bullet hit the target sideways, suspect a strike: look closely at the front cap and the body, and check whether the can was tight on the barrel. If you find damage, or still suspect it, the can does not go back on. Contact Canik.",
    "box": "none",
-   "prose": "Firing into an obstruction can wreck the can and injure the shooter."
+   "prose": "A can that worked loose is a common way this starts, which is why tightness is the first thing to ask about.",
+   "quote": "A sudden loss of accuracy or a “tumbled-bullet” impact on target may indicate a baffle or front-cap strike.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — WARNING! Baffle Strike, printed p.10",
+   "warn": "If damage is found or suspected, do not continue firing — contact CANiK Customer Service.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Inspect",
-   "title": "The outside of the tube",
-   "action": "Turn it in your hands and look for dents, bulges, cracks, a bent end cap or any burn-through. A dent can push the inside of the can into the bullet's path.",
+   "title": "If it went under water, drain it completely",
+   "action": "A can that has been in water drains all the way before it is fired. Give it time, then look through the bore again.",
    "box": "none",
-   "prose": "Damage you can see is a reason to stop and contact Canik, not to keep shooting it and see."
-  },
-  {
-   "phase": "Inspect",
-   "title": "Know the signs of a baffle strike",
-   "action": "A baffle strike is a bullet touching the inside of the can. The signs: the exit hole is torn, enlarged or off-centre; there are metal shavings or a bright fresh mark at the front; it suddenly sounds different; bullets start keyholing on the target. Any one of them puts the can out of service.",
-   "box": "none",
-   "prose": "The usual causes are a can that was not seated square, a damaged or misaligned mount, or the wrong caliber through it."
-  },
-  {
-   "phase": "Inspect",
-   "title": "Listen for a new rattle",
-   "action": "Shake it gently by your ear. A new rattle, or anything you can feel shifting inside that did not before, means something has come loose. Do not fire it.",
-   "box": "none",
-   "prose": "A faint sound from carbon flakes is common. Anything you can feel moving is a job for Canik."
-  },
-  {
-   "phase": "Inspect",
-   "title": "When it goes back to Canik",
-   "action": "Send it to Canik for inspection if: it shows any sign of a strike; it was fired with an obstruction in it or after a squib load; the tube is dented or cracked; it rattles; it will not come off the host or will not seat square, or the circle of light through it has visibly narrowed. Contact Canik before you ship it — they will tell you how to send a registered suppressor back legally.",
-   "box": "none",
-   "prose": "For a can whose construction is unknown, the maker is the only way inside it."
+   "prose": "Water trapped in the baffles is an obstruction you may not be able to see.",
+   "quote": "If submerged in water, the user must allow sufficient time to drain the suppressor completely.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — WARNING! Water Exposure, printed p.7",
+   "warn": "Using a suppressor containing water or other fluids will destroy the suppressor and firearm and cause injury or death to the user and bystanders.",
+   "warnSrc": "maker"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Canik VOID-762, and this guide will not invent one. Fieldstrip does not yet have a guide built from a manual by Canik for this model, so nothing about how it is built inside is known to this guide — and a can whose construction is unknown is treated as sealed. Fouling inside it, a rattle, a strike, or a can that will not come off goes to Canik, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Deep",
+   "title": "Rifle unloaded, can off and cool",
+   "action": "The rifle is unloaded with its action open and clear, and the can is off it and cool, before any part of the can is turned.",
+   "box": "none",
+   "prose": "Work on the cap with the can in your hands, not on the gun.",
+   "quote": "When changing out your suppressor’s front cap, ensure firearm is unloaded and the action is open and clear before removing your suppressor or any of its parts.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Front Cap Installation and Removal, printed p.16"
+  },
+  {
+   "phase": "Deep",
+   "title": "Front cap off: wrench on its flats, counterclockwise",
+   "action": "Put a wrench on the front cap's own wrench flats and turn it counterclockwise until it comes all the way out. Note which cap it is: Canik shows a low back pressure cap and a solid one, and the one you take out is the one that goes back.",
+   "box": "none",
+   "prose": "Canik prints no heat and no extra leverage for a cap that will not turn. If it will not move, stop and contact Canik rather than grip the tube harder.",
+   "aside": "Place a wrench onto the front cap’s wrench flats.",
+   "quote": "Rotate the front cap counterclockwise until it is fully removed.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Front Cap Removal, printed p.16"
+  },
+  {
+   "phase": "Deep",
+   "title": "Front cap threads clean, inside and out",
+   "action": "Clean the front cap's threads with a nylon brush and a dry cleaning solvent, the way Canik has you do the muzzle threads. Then check that both the cap's threads and the can's internal threads are free of debris.",
+   "box": "none",
+   "prose": "The cap holds the exit hole on line with the bore. Grit in its threads can tilt it.",
+   "aside": "You may similarly clean the threads on your suppressor end cap and HUB mount.",
+   "quote": "Verify the front cap threads and the suppressor’s internal threads are free of debris.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Front Cap Removal, printed p.16; Cleaning, printed p.18"
+  },
+  {
+   "phase": "Deep",
+   "title": "The HUB mount: anti-seize if it comes out",
+   "action": "Clean the mount's threads the same way: nylon brush, dry cleaning solvent. Canik prints no steps for taking the mount out, so leave it in unless you have its maker's instructions. If it does come out, the threads get a thin coat of anti-seize before it goes back in. For another maker's HUB adapter, follow that maker's instructions.",
+   "box": "none",
+   "prose": "Anti-seize goes on the mount's threads and nowhere else. Canik's specification table lists 30 ft/lb in the HUB column for this model.",
+   "aside": "If you intend to use a Hub adapter, please install using the instructions provided from the Hub manufacturer.",
+   "quote": "If HUB mount is removed, apply a thin coat of anti-seize to the threads before reinstalling.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Cleaning, printed p.18; Product Specifications, printed p.11"
+  },
+  {
+   "phase": "Deep",
+   "title": "That is as far as Canik goes",
+   "action": "The front cap and the mount are the only parts Canik describes coming off. There is no baffle removal and no inside cleaning in the book, so there is none here. A can that needs more than this goes to Canik, and Canik wants authorization before you ship it.",
+   "box": "limit",
+   "prose": "The open front of the can is not an invitation to brush or soak the baffles.",
+   "quote": "DO NOT ship your suppressor for service without prior authorization.",
+   "cite": "RIFLE SUPPRESSOR OWNER’S MANUAL — ABSENT — no revision, date code or edition statement printed anywhere in the document. — Warranty Request Contact Information, printed p.20"
+  }
+ ],
  "cleaning": [
   {
-   "name": "MUZZLE THREADS & SHOULDER",
+   "name": "THREADS",
    "tasks": [
-    "Nylon or brass brush to break the carbon off the threads and the shoulder",
-    "Wipe with a cloth lightly dampened with gun solvent, then a dry cloth",
-    "Threads left clean and DRY — no oil, grease, anti-seize or thread-locker: whether this can wants any of them is a question for its maker, not something to guess"
+    "Carbon and residue off the can's threads",
+    "Barrel's muzzle threads: nylon brush and a dry cleaning solvent",
+    "Moving air while you work; hands washed afterwards"
    ]
   },
   {
-   "name": "THE CAN'S MOUNT — FROM THE OUTSIDE",
+   "name": "OUTSIDE OF THE CAN",
    "tasks": [
-    "Brush loose carbon off the mount's threads or taper and its seating face",
-    "A dry cloth over the mount face — nothing pushed into the can",
-    "⛔ The mount stays in the can: it does not come out"
+    "Body wiped with a rag and CLP",
+    "Body wiped dry",
+    "⛔ No steel wire brush, no ultrasonic cleaner"
    ]
   },
   {
-   "name": "QUICK-DETACH SEAT (if yours is QD)",
+   "name": "THE BORE: NOTHING GOES THROUGH IT",
    "tasks": [
-    "Brush the taper or seat on the muzzle device — carbon on it stops the can locking up square",
-    "The latch or collar moves freely by hand; if it binds, stop and contact the maker"
-   ]
-  },
-  {
-   "name": "OUTSIDE OF THE TUBE",
-   "tasks": [
-    "Wiped down with a dry cloth",
-    "A can that got wet dries completely, standing on end, before it is stored or fired"
-   ]
-  },
-  {
-   "name": "THE BORE — NOTHING THROUGH IT",
-   "tasks": [
-    "⛔ No patch, rod or bore brush through the can — a patch can lodge inside it",
-    "⛔ No soaking, no solvent fill, no ultrasonic bath: what this can is made of and how it is sealed is unknown, and either can damage it"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored off the host, clean and dry",
-    "Never shut in a case or bag while still damp",
-    "A thread protector back on the host's muzzle",
-    "Round count kept — the maker will ask for it if the can ever goes back"
+    "⛔ No cleaning patches through the bore",
+    "⛔ No water, oil, grease or gel in the can"
    ]
   }
  ],
  "cleanMap": {
   "screens": [
    {
-    "s": 3
+    "g": 0,
+    "steps": [
+     5
+    ]
    },
    {
-    "s": 4
+    "g": 1,
+    "steps": [
+     6
+    ]
    },
    {
-    "s": 5
-   },
-   {
-    "s": 6
-   },
-   {
-    "s": 7
+    "g": 2,
+    "steps": [
+     7
+    ]
    },
    {
     "s": 8
    },
    {
-    "g": 0,
-    "steps": []
+    "s": 9
    },
    {
-    "g": 1,
-    "steps": []
-   },
-   {
-    "g": 2,
-    "steps": []
-   },
-   {
-    "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
-   },
-   {
-    "g": 5,
-    "steps": []
+    "s": 10
    }
   ]
  },
  "reassembly": [
-  "Threads on the host and in the can clean and dry before it goes back on.",
-  "Start it by hand, square to the bore — it should spin on freely. If it binds or goes on crooked, back it off and start again; never force a cross-thread.",
-  "Run it down until it seats firmly against the shoulder or the muzzle device, with no gap you can see or catch a fingernail in. ⛔ A gap means it is not seated — do not fire.",
-  "Snug it firmly by hand, or with the wrench supplied with the can if it came with one. No cheater bar, and no tool on the tube that can crush it.",
-  "Quick-detach: latch or collar fully engaged, then pull and twist the can — it must not move.",
-  "Look through it once more before the first shot."
+  "Front cap and can threads clean. Line the cap up with the can and thread it in by hand, without cross-threading, then tighten it securely with a wrench on its flats. Do not overtighten it.",
+  "If the mount came out: a thin coat of anti-seize on its threads, then back in without cross-threading. Canik's specification table lists 30 ft/lb in the HUB column; another maker's adapter goes in by that maker's instructions. Check that the can and the mount are tight together.",
+  "Rifle still unloaded, with any muzzle device, thread protector or crush washer off the barrel. The barrel has to be the right caliber for the can and have a 90-degree shoulder; a tapered shoulder needs the adapter that squares it.",
+  "Line the threads up and screw the can on until it is fully threaded and hand tight. It should go on easily. If it does not, stop and contact Canik. Do not overtighten it.",
+  "Check the can is in line with the bore using an alignment rod of your caliber. Canik wants that every time the can is mounted or tightened."
  ],
- "fncheck": "Host still unloaded: the can is on, seated with no gap, and does not turn when you try it by hand. Check it again at the start of every session and after the first string of fire — a can that heats and cools can work loose. One that has loosened comes off, gets inspected and goes back on clean; one that keeps loosening goes to Canik."
+ "fncheck": "Rifle still unloaded: the front cap is tight, the mount is tight in the can, the can is hand tight on the barrel, nothing rattles and nothing is in the bore. The alignment rod shows the can in line with the bore. ⛔ If any part looks out of line, do not fire it. Cans loosen with use: check it often while you shoot, once it has cooled to the touch, and check alignment again each time you tighten it.",
+ "reassemblyRoutine": [
+  "Check that the can and its direct thread mount are tight together.",
+  "Rifle still unloaded, with any muzzle device, thread protector or crush washer off the barrel. The barrel has to be the right caliber for the can and have a 90-degree shoulder; a tapered shoulder needs the adapter that squares it.",
+  "Line the threads up and screw the can on until it is fully threaded and hand tight, without cross-threading. It should go on easily. If it does not, stop and contact Canik. Do not overtighten it.",
+  "Check the can is in line with the bore using an alignment rod of your caliber. Canik wants that every time the can is mounted or tightened."
+ ],
+ "fncheckRoutine": "Rifle still unloaded: the can is hand tight on the barrel, nothing rattles and nothing is in the bore. The alignment rod shows the can in line with the bore. ⛔ If any part looks out of line, do not fire it. Cans loosen with use: check it often while you shoot, once it has cooled to the touch, and check alignment again each time you tighten it."
 }
