@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 20 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 20,
- "to": 51,
+ "to": 52,
  "rows": [
   {
    "id": "radianmodel1",
@@ -24523,8 +24523,7 @@
    ],
    "guide": true,
    "guideId": "banishhd762inc",
-   "guideSha256": "d8e89e6a470b022904e5cf08601f77fd4c6b11a17232f3ad62220012d5ab0028",
-   "bestPractices": true,
+   "guideSha256": "5c2ad348a362d5c4f05f8cb31869f8c9ba4e763ae7113f06337eecfccbaafd47",
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"caliber range: 5.56 NATO to .300 RUM\",\"rt\":\".300 RUM\"}",
    "calSha256": "46afce17aa2fa5f5600e606c837413c6ba1c8438165a1850d4b23a97635f5dcc",
    "calV": 38
