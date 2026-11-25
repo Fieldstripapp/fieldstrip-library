@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 41 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 41,
- "to": 46,
+ "to": 47,
  "rows": [
   {
    "id": "browningsuperposed",
@@ -79,6 +79,23 @@
    "guideSha256": "79c07e379b09ad5727ecdac86082f69a17c4c010c7c6aef9f10b65ac632b494f",
    "cal": "{\"chs\":[\".300 BLK\",\"5.56 / .223\"]}",
    "calSha256": "049f7f0de5f3271b0526272a906c5c33942dd60e03b7f91679bff2ddb1d054ba",
+   "calV": 38
+  },
+  {
+   "id": "banish410",
+   "maker": "Banish (Silencer Central)",
+   "model": "Banish 410",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "banish410",
+   "guideSha256": "a1f9793f16c10e645d49f1f07f0e55f20ed2957b5de808e463975d011ee9a067",
+   "cal": "{\"rl\":[\".410\"]}",
+   "calSha256": "249edbc80a77e5aaa1b62a93e667eb0a1c763ecaae70c1e3fcbb322d12247869",
    "calV": 38
   },
   {
