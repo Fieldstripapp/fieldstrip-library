@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 51 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 51,
- "to": 55,
+ "to": 56,
  "rows": [
   {
    "id": "banishhd762inc",
@@ -20,6 +20,23 @@
    "guideSha256": "5c2ad348a362d5c4f05f8cb31869f8c9ba4e763ae7113f06337eecfccbaafd47",
    "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"caliber range: 5.56 NATO to .300 RUM\",\"rt\":\".300 RUM\"}",
    "calSha256": "46afce17aa2fa5f5600e606c837413c6ba1c8438165a1850d4b23a97635f5dcc",
+   "calV": 38
+  },
+  {
+   "id": "taurusttx22",
+   "maker": "Taurus",
+   "model": "TTX22",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "taurusttx22",
+   "guideSha256": "31018cb197dbff37783d875b25bc02dbe4e5656412520e940497b1004844a51e",
+   "cal": "{\"rl\":[\".22 LR\",\".22 WMR\",\".17 HMR\",\"5.7x28\"]}",
+   "calSha256": "fe4e4e3202ced9f5301e2c1350b62cb84d802745b46c73f57241b40b1d3562ea",
    "calV": 38
   },
   {

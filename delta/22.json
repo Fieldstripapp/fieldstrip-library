@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 22 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 22,
- "to": 55,
+ "to": 56,
  "rows": [
   {
    "id": "radianmodel1",
@@ -24958,8 +24958,7 @@
    "chamberings": [],
    "guide": true,
    "guideId": "taurusttx22",
-   "guideSha256": "c9c282fd205a1f0e088c03fa93234b74b53d22b66c950290a3b7e831f7455fb8",
-   "bestPractices": true,
+   "guideSha256": "31018cb197dbff37783d875b25bc02dbe4e5656412520e940497b1004844a51e",
    "cal": "{\"rl\":[\".22 LR\",\".22 WMR\",\".17 HMR\",\"5.7x28\"]}",
    "calSha256": "fe4e4e3202ced9f5301e2c1350b62cb84d802745b46c73f57241b40b1d3562ea",
    "calV": 38

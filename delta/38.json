@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 38 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 38,
- "to": 55,
+ "to": 56,
  "rows": [
   {
    "id": "browningsuperposed",
@@ -184,6 +184,23 @@
    "guideSha256": "33d880747cbaf25e61019269b5f28d1f823ad05219212f11e6330372fe35c226",
    "cal": "{\"chs\":[\".243 Win\",\".270 Win\",\".30-06\",\".300 Win Mag\",\".308 Win\",\"6.5 Creedmoor\",\"6.5 PRC\",\"6.8 Western\",\"7mm Rem Mag\"]}",
    "calSha256": "e6b21606e7ce5caf420a3029e17a35e0c0d43ed670a18a025c9f6e17ff74e4e0",
+   "calV": 38
+  },
+  {
+   "id": "taurusttx22",
+   "maker": "Taurus",
+   "model": "TTX22",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "taurusttx22",
+   "guideSha256": "31018cb197dbff37783d875b25bc02dbe4e5656412520e940497b1004844a51e",
+   "cal": "{\"rl\":[\".22 LR\",\".22 WMR\",\".17 HMR\",\"5.7x28\"]}",
+   "calSha256": "fe4e4e3202ced9f5301e2c1350b62cb84d802745b46c73f57241b40b1d3562ea",
    "calV": 38
   },
   {

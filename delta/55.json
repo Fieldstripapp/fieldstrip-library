@@ -1,7 +1,25 @@
 {
  "_doc": "Everything a client holding version 55 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 55,
- "to": 55,
- "rows": [],
+ "to": 56,
+ "rows": [
+  {
+   "id": "taurusttx22",
+   "maker": "Taurus",
+   "model": "TTX22",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "taurusttx22",
+   "guideSha256": "31018cb197dbff37783d875b25bc02dbe4e5656412520e940497b1004844a51e",
+   "cal": "{\"rl\":[\".22 LR\",\".22 WMR\",\".17 HMR\",\"5.7x28\"]}",
+   "calSha256": "fe4e4e3202ced9f5301e2c1350b62cb84d802745b46c73f57241b40b1d3562ea",
+   "calV": 38
+  }
+ ],
  "removed": []
 }
