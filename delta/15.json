@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 15 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 15,
- "to": 47,
+ "to": 48,
  "rows": [
   {
    "id": "radianmodel1",
@@ -25752,6 +25752,48 @@
    "cal": "{\"chs\":[\".30 cal\"]}",
    "calSha256": "3a2b0fdd1a4e113aabe828c1fe71a577d39ad905e962ff3da626f82a84a9a764",
    "calV": 39
+  },
+  {
+   "id": "browningsuperposedb25",
+   "maker": "Browning",
+   "model": "Superposed B-25",
+   "chambering": "12 GA/20 GA",
+   "category": "Over-under shotgun",
+   "family": "NEW-BROWNING-SUPERPOSEDB25",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": true,
+   "guideId": "browningsuperposedb25",
+   "guideSha256": "b23364ccf6d3746e9a76bed0836d1eb0047e8f3152684f7e776311537a706551",
+   "bestPractices": true,
+   "cal": "{\"chs\":[\"12 GA\",\"20 GA\"]}",
+   "calSha256": "06d8b1023793ced7d2e40dadbb66a3ff8cdd71acc184c7e7245a5acff5226894",
+   "calV": 48
+  },
+  {
+   "id": "browningsuperposedb125",
+   "maker": "Browning",
+   "model": "Superposed B-125",
+   "chambering": "12 GA/20 GA",
+   "category": "Over-under shotgun",
+   "family": "NEW-BROWNING-SUPERPOSEDB125",
+   "tier": 3,
+   "group": "Shotguns",
+   "chamberings": [
+    "12 GA",
+    "20 GA"
+   ],
+   "guide": true,
+   "guideId": "browningsuperposedb125",
+   "guideSha256": "52ad678fbd6d389b0f84ac57469b1bcac91fc09f62f88a6aff5eca45088eca56",
+   "bestPractices": true,
+   "cal": "{\"chs\":[\"12 GA\",\"20 GA\"]}",
+   "calSha256": "06d8b1023793ced7d2e40dadbb66a3ff8cdd71acc184c7e7245a5acff5226894",
+   "calV": 48
   }
  ],
  "removed": [
