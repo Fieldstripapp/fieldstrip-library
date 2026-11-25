@@ -1,142 +1,290 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAP",
- "bpTemplateVersion": 1,
  "row": "sigsauerp385",
  "make": "SIG Sauer",
  "model": "P385",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model, so this guide works from what is true of every pistol of its kind and asks you to look before it asks you to do anything. It clears the pistol, then strips it only if yours shows one of three takedown controls that come apart the same way on every pistol that has them. If yours shows none of them, the slide stays on and the pistol is cleaned locked open — that is a complete clean, not a lesser one.\n\nListed in Fieldstrip as 9mm. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 (2026)",
+ "sourceSha256": "dde1c90c077132382fec37660eea57fbebf399f17c8b6ed3d7a06758f711b602",
+ "cleanIntro": "The SIG P385 is a striker-fired 9mm pistol built around a fire control unit that sits in an interchangeable grip module. It comes with or without a manual safety, some carry a loaded chamber indicator or a magazine disconnect, and some slides have a compensator built in.\n\nThe field strip is a takedown lever with the slide locked back: no trigger press, and the lever will not turn with a magazine in the gun. It leaves the slide, the barrel, the recoil spring guide assembly and the frame. DEEP CLEAN carries what SIG publishes beyond that: the magazine apart, and the fire control unit out of the grip module. SIG says to clean and lubricate before or after the pistol is fired, or every 500 rounds, in normal conditions.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Know which P385 you have",
+   "action": "Look for three things. A manual safety lever, on both sides of the frame. A loaded chamber indicator at the top of the slide. And whether the trigger is dead with the magazine out, which is how a magazine disconnect behaves. Do not touch the trigger to find out — that check belongs in the function check, on a proven-empty pistol.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "SIG sells this pistol with and without each of them. None of the three replaces looking into the chamber.",
+   "quote": "Some models feature a magazine disconnect mechanism which mechanically blocks the movement of the trigger bar, preventing the trigger from being pressed to the rear unless a magazine is inserted.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 8.3 Principal Safety Features, printed p.24"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out first, then the slide",
-   "action": "Press the magazine release and take the magazine out of the grip before you touch the slide. Then pull the slide fully back and lock it open on the slide stop if your pistol has one; if it will not lock, hold it back. The order is the whole point: working the slide with a magazine still in puts a fresh round in the chamber, and that is the classic way an empty pistol stops being empty.",
+   "title": "Safety on, muzzle safe, magazine out",
+   "action": "If your P385 has a manual safety, rotate the lever up. Point the muzzle in a safe direction, keep your finger off the trigger, and press the magazine catch to take the magazine out. Put it and any ammunition out of reach.",
    "box": "none",
-   "prose": "If the magazine will not come out, stop and contact SIG Sauer, with the pistol pointed somewhere safe."
+   "prose": "The slide still works with the manual safety on, so it can stay on through the clearing.",
+   "quote": "1. If equipped, engage the manual safety. 2. Point the muzzle in a safe direction. 3. Release the magazine.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 9.2 Unloading and Clearing the Pistol, printed p.36",
+   "warn": "REMOVING THE MAGAZINE FROM THE FIREARM DOES NOT PREVENT A CHAMBERED ROUND FROM BEING FIRED UNLESS THE FIREARM IS EQUIPPED WITH A MAGAZINE DISCONNECT MECHANISM.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and down into the empty magazine well, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Slide locked back, then check three places twice",
+   "action": "Pull the slide all the way back, watching for a round to come out, and push the slide catch lever up to hold it open. Look at and feel the chamber, the breech face and the magazine well. Then check all three again.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact SIG Sauer with the gun pointed somewhere safe."
+   "prose": "SIG names the breech face as well as the chamber: a round or a case can hang on the extractor there with the chamber itself empty.",
+   "quote": "6. Visually and physically check the firearm is clear of all ammunition twice by inspecting the\nchamber (1), breech face (2), and magazine well (3).",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 9.2 Unloading and Clearing the Pistol, printed p.36"
   },
   {
    "phase": "Strip",
-   "title": "Which takedown does yours have? Look before you touch",
-   "action": "With the pistol empty and the slide locked open, look at the frame just above the trigger. One of three things decides your next step: two small serrated tabs, one on each side of the frame just above the front of the trigger guard; a single lever on the left side of the frame, made to rotate; or a trigger guard whose front end is made to pull down away from the frame. Follow only the step written for what you see, and skip the other two.",
+   "title": "Slide locked to the rear, no magazine in the gun",
+   "action": "With the pistol cleared, make sure the slide is still locked back on the slide catch lever. If it has gone forward, pull it back and push the slide catch lever up until it holds.",
    "box": "none",
-   "prose": "⛔ If you see none of these, more than one, or you are not sure, this is where your strip ends: leave the slide on and go straight to the cleaning steps, which work with the pistol locked open. Never press a trigger, push on a pin or press a button to find out how a pistol comes apart."
+   "prose": "The takedown lever turns only from here: slide locked back and the magazine out. That is the design keeping you from taking the pistol apart loaded.",
+   "quote": "Lock the slide to rear by pulling the slide rearward and pushing up on the slide catch lever.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.1 Pistol Disassembly, step 2, printed p.57"
   },
   {
    "phase": "Strip",
-   "title": "Two tabs: release the striker, then slide forward off the frame",
-   "action": "Only if your pistol has the two takedown tabs. Let the slide run forward, point the muzzle at a safe backstop, and press the trigger once — on pistols built this way the striker has to be released before the slide will come off, and you will hear it click. Then grip the pistol so your fingers draw the slide back a few millimetres, pull both tabs down with your other hand and hold them there, and let the slide run forward off the front of the frame.",
+   "title": "Takedown lever clockwise to its stop",
+   "action": "Turn the takedown lever on the left side of the frame clockwise until it stops, perpendicular to the slide. Use your fingers.",
    "box": "none",
-   "prose": "⛔ Only after the chamber has been proven empty twice. If yours is a rimfire (.22) pistol, do not press the trigger: stop here and clean it with the slide on. If the slide will not move forward with both tabs held down, let go and stop — never force it."
+   "prose": "If it will not turn, the slide is not locked fully back or a magazine is in the well. Turning it lowers the sear, so the trigger is not pressed at any point in this strip.",
+   "quote": "3. Rotate the takedown lever clockwise until it stops.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.1 Pistol Disassembly, step 3, printed p.58"
   },
   {
    "phase": "Strip",
-   "title": "A takedown lever: turn it down, then ease the slide off",
-   "action": "Only if your pistol has a takedown lever. Rotate the lever down until it stops, usually about a quarter turn. Some pistols let it turn with the slide locked open and others only with the slide forward, and some also have a small button on the right side of the frame that has to be held in while the lever turns. Once it has turned, hold the slide, let it run forward under control, and ease it off the front of the frame.",
+   "title": "Catch released with a hand on the slide",
+   "action": "Put on eye protection. Take a firm grip on the slide, pull it to the rear so the slide catch lever drops, and keep hold of it as it comes forward.",
    "box": "none",
-   "prose": "⛔ If the lever will not turn by hand either way, stop here and clean the pistol with the slide on. Never use a tool on the lever, and never press the trigger to make it move."
+   "prose": "With the lever down, your hand is the only thing holding the slide against the recoil spring.",
+   "quote": "Pull the slide to the rear to disengage the slide catch lever while maintaining control of the slide\nassembly.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.1 Pistol Disassembly, step 4, printed p.59",
+   "warn": "FIREARMS CONTAIN SEVERAL SPRING LOADED PARTS. WEAR EYE PROTECTION AND MAINTAIN CONTROL DURING MAINTENANCE. FAILURE TO COMPLY MAY RESULT IN INJURY.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "A pull-down trigger guard: slide back, up and off",
-   "action": "Only if the front of your trigger guard pulls down. Pull the front of the trigger guard down; on most pistols built this way it then tips a little to one side and rests against the frame, holding itself open. Draw the slide all the way back, lift its rear end up off the frame, and ease it forward off the barrel. The barrel stays fixed to the frame and the recoil spring stays on the barrel — on this pattern neither is taken out.",
+   "title": "Slide assembly forward off the frame",
+   "action": "Guide the whole slide assembly straight forward and off the frame. The barrel and the recoil spring come with it.",
    "box": "none",
-   "prose": "Push the trigger guard back into place once the slide is off, so it cannot catch on anything while you clean."
+   "prose": "Keep it level; tipping the slide as it leaves binds it on the rails.",
+   "quote": "Guide the complete slide assembly (slide, barrel, recoil spring, and guide) forward and off of the frame.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.1 Pistol Disassembly, step 5, printed pp.60-61"
   },
   {
    "phase": "Strip",
-   "title": "Tabs or lever: spring and barrel out of the slide",
-   "action": "Turn the slide upside down. The recoil spring and its guide rod sit under the barrel and are still under some pressure: push the guide rod gently forward, lift its rear end clear of the barrel, and let it out slowly under your thumb. Note which way round it sat — which end faced the barrel — because it goes back the same way. Then lift the barrel out by its chamber end.",
+   "title": "Recoil spring guide assembly out",
+   "action": "Turn the slide upside down. Push the recoil spring guide forward a little, lift it from the rear, and take the assembly out in one piece.",
    "box": "none",
-   "prose": "A pull-down trigger guard pistol skips this step: its barrel stays where it is."
+   "prose": "Forward first, then up. SIG services and replaces this assembly as a single unit, so it stays together.",
+   "quote": "Push the recoil spring guide forward slightly and lift it from the rear to remove the recoil spring guide assembly from the slide.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.1 Pistol Disassembly, step 6, printed pp.60-61"
   },
   {
    "phase": "Strip",
-   "title": "That is the whole strip",
-   "action": "Nothing else comes apart. The firing pin or striker, the extractor, the sights and everything inside the frame stay exactly as they are — on a pistol with no published procedure, those are work for SIG Sauer. Lay the parts out in the order they came off, on a clean cloth, away from the edge of the bench.",
+   "title": "Barrel up slightly and back",
+   "action": "Lift the barrel a little and draw it to the rear, out of the slide.",
    "box": "none",
-   "prose": "If any part came loose that this guide did not ask for, stop and contact SIG Sauer before you put the pistol back together."
+   "prose": "It needs no force. If it will not move, the recoil spring guide is still in the way.",
+   "quote": "7. Remove the barrel from the slide by pulling it upward slightly and to the rear.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.1 Pistol Disassembly, step 7, printed pp.60-61"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "On the bench: the slide, the barrel, the recoil spring guide assembly, and the frame in its grip module. A compensator, if yours has one, stays where it is. DEEP CLEAN carries the two jobs SIG publishes beyond this: the magazine apart, and the fire control unit out of the grip module.",
+   "box": "none",
+   "prose": "The striker, the extractor and everything inside the slide stay put.",
+   "quote": "NOTE: This level of disassembly is sufficient for thorough cleaning after firing.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.1 Pistol Disassembly, note, printed p.61",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the chamber end whenever you can",
-   "action": "With the barrel out, push a brush wet with bore solvent through from the chamber end, a few passes, then dry patches until they come out clean. If your barrel stayed in, lock the slide open and feed a pull-through cord in at the chamber through the ejection port, or work from the muzzle with a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "CLP patch from the chamber end, then let it soak",
+   "action": "Run a wet CLP patch down the barrel, in at the chamber and clear of the muzzle. Leave the CLP several minutes to loosen the residue and soften the carbon. If a compensator is installed, push the barrel forward in the slide first, to make room for the rod and patches.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "The direction matters every time: chamber to muzzle. Work in moving air with eye protection on, and keep strong solvents off the outside of the pistol; they can harm the finish.",
+   "caution": "NEVER CLEAN THE BARREL FROM THE MUZZLE END. DO NOT USE A STEEL WIRE BRUSH AS IT CAN DAMAGE THE SMOOTH SURFACE OF THE BARREL.",
+   "quote": "Soak a patch with CLP and push it through the bore from the chamber end and out past the muzzle.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.2 Cleaning and Lubricating, Barrel, printed p.65"
   },
   {
    "phase": "Clean",
-   "title": "Breech face, rails and the feed ramp",
-   "action": "Wipe the breech face — the flat at the back of the slide where the cartridge sits — and the slide's rails and the frame's rails with a cloth and a little solvent, using a small nylon brush on the carbon. Wipe the feed ramp at the bottom of the chamber mouth until it is smooth and bright. Use solvent sparingly and keep it out of the frame's internals and the firing-pin hole: what runs in there cannot be wiped back out.",
-   "box": "none"
+   "title": "Brush, wet patch, dry patches",
+   "action": "Wipe the outside of the barrel with a cloth soaked in CLP. Run a second wet patch, scrub the heavy deposits with a bronze bore brush of the correct caliber on a rod, run another wet patch, then push dry patches through until they come out clean.",
+   "box": "none",
+   "prose": "Light oil goes in the bore and chamber only if the pistol is going into storage, and it comes out again before the pistol is fired.",
+   "quote": "9. Lightly oil bore and chamber if the pistol is to be stored for a period of time. 10. Always remove any lubricant from the bore prior to firing the pistol.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.2 Cleaning and Lubricating, Barrel, printed p.65"
   },
   {
    "phase": "Clean",
-   "title": "Oil lightly where metal slides on metal",
-   "action": "A thin film of gun oil goes on the slide rails, the frame rails, the outside of the barrel where it rubs the slide, and the barrel's locking surfaces. A drop is enough on each; wipe off anything that runs. No oil goes into the firing-pin hole or into the frame from the outside.",
+   "title": "Extractor, rail slots and breech face",
+   "action": "Take off all the old lubricant first. Clean the slide with a cloth, then a soft brush and CLP where dirt and carbon have built up. Finish with a light coat of CLP in the slide's frame rail slots and a light film on the outside.",
    "box": "none",
-   "prose": "Too much oil collects grit and, in the cold, slows the parts it was meant to help."
+   "prose": "Keep oil out of the striker channel: SIG ties a wet channel to a light strike and a failure to fire.",
+   "quote": "Ensure the extractor, rail slots, and breech face are free of dirt and residue.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.2 Cleaning and Lubricating, Slide Assembly, printed p.64",
+   "warn": "DO NOT LUBRICATE THE STRIKER OR ALLOW LUBRICANT TO FLOW INTO THE STRIKER CHANNEL OF THE SLIDE. THIS MAY CAUSE A LIGHT STRIKE TO THE CARTRIDGE RESULTING IN A FAILURE TO FIRE.",
+   "warnSrc": "maker"
   },
   {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the slide, the frame and the barrel for cracks, the recoil spring for kinks or a broken coil, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for SIG Sauer.",
+   "phase": "Clean",
+   "title": "Integrated compensator: nylon brush",
+   "action": "Only if your slide has a compensator built in: brush all the residue out of the compensator and off the front of the slide with a nylon brush. Leave the compensator where it is.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until SIG Sauer has seen it."
+   "prose": "SIG says a compensator does not come off for routine maintenance and cleaning.",
+   "quote": "If the slide has an integrated compensator, use a nylon brush to remove all residue buildup from the compensator and the front of the slide.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.2 Cleaning and Lubricating, Slide Assembly, printed p.64"
+  },
+  {
+   "phase": "Clean",
+   "title": "Recoil spring guide assembly, in one piece",
+   "action": "Clean the assembly with CLP and a soft brush, then put a light coat of CLP back on it.",
+   "box": "limit",
+   "prose": "If it is worn or damaged, the whole unit is replaced.",
+   "quote": "The P385 recoil spring and guide assembly should not be disassembled. It is serviced and replaced as a single unit.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.2 Cleaning and Lubricating, Recoil Spring and Guide Assembly, printed p.66"
+  },
+  {
+   "phase": "Clean",
+   "title": "Rails, takedown lever, slide catch lever",
+   "action": "Wipe the frame and grip module with a soft cloth and get into the corners with cotton swabs. Put a light coat of CLP on the frame rails and on the working parts you can reach, and wipe the magazine well out with a soft cloth.",
+   "box": "limit",
+   "prose": "The rails, the takedown lever and the slide catch lever are the places SIG singles out.",
+   "quote": "Use cotton swabs to clean hard to reach areas. Pay special attention to the frame rails,\ntakedown lever, and slide catch lever.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.2 Cleaning and Lubricating, Frame Assembly and Grip Module, printed p.66"
+  },
+  {
+   "phase": "Clean",
+   "title": "The gap between the trigger and the trigger block",
+   "action": "Clean the trigger and look at the small block set into its face. Work out any grit or lint caught between the two.",
+   "box": "none",
+   "prose": "The block has to move freely: the trigger is meant to stay locked unless the block is pressed with it, and debris in the gap gets in the way of that.",
+   "quote": "Clean the trigger assembly and ensure any debris is removed between the trigger and trigger\nblock.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 11.2 Cleaning and Lubricating, Frame Assembly and Grip Module, printed p.66"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the SIG Sauer P385, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to SIG Sauer, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Magazine floorplate off",
+   "action": "With the magazine empty, use a punch or a similar tool to push the tab of the magazine insert forward and then down, and take the floorplate off. Keep a thumb over the insert as the plate clears it.",
+   "box": "none",
+   "prose": "The spring runs the whole length of the tube and is pushing on that insert. Eye protection on.",
+   "quote": "Using a punch or similar tool, push the tab of the magazine insert forward then down to release\nand remove the floorplate.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 12.1 Magazine Disassembly, step 1, printed p.72",
+   "warn": "FIREARMS CONTAIN SEVERAL SPRING LOADED PARTS. WEAR EYE PROTECTION AND MAINTAIN CONTROL DURING MAINTENANCE. FAILURE TO COMPLY MAY RESULT IN INJURY.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Spring and follower out of the tube",
+   "action": "Let the spring out under control and take the follower and the spring out of the bottom of the tube. Note which way the follower faces.",
+   "box": "none",
+   "prose": "The follower goes back on the spring the same way round.",
+   "quote": "2. Remove the magazine follower and magazine spring from the magazine tube.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 12.1 Magazine Disassembly, step 2, printed p.73"
+  },
+  {
+   "phase": "Clean",
+   "title": "Tube and follower",
+   "action": "Wipe the tube and the follower with a cloth, then go over both with a soft brush and CLP. Clean the spring, the floorplate and the insert with a cloth.",
+   "box": "none",
+   "prose": "SIG puts most stoppages down to the magazine, so this is worth doing as carefully as the pistol.",
+   "quote": "Wipe the magazine tube and follower with a cloth. Clean the magazine tube and follower with a soft brush and CLP.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 12.2 Cleaning, step 1, printed p.73"
+  },
+  {
+   "phase": "Clean",
+   "title": "Light CLP on the spring and the outside of the tube",
+   "action": "Put a light coat of CLP on the magazine spring and on the outside of the tube.",
+   "box": "none",
+   "prose": "Oil inside the tube ends up on the cartridges, and SIG says not to use cartridges that are dirty or wet.",
+   "quote": "3. Apply a light coat of CLP to the spring and outside of the magazine tube.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 12.2 Cleaning, step 3, printed p.73"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine back together",
+   "action": "Set the follower on the spring and feed both into the bottom of the tube. Compress the spring until the insert is flush with the bottom of the tube, hold the insert there, and slide the floorplate onto the tube lips until the insert locks it.",
+   "box": "none",
+   "prose": "The floorplate has to be locked by the insert. Try to slide it back off by hand; it should not move.",
+   "quote": "Holding the magazine insert in place, slide the magazine floorplate onto the magazine tube lips until the floorplate is locked in place by the insert.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 12.3 Magazine Assembly, step 3, printed pp.74-75"
+  },
+  {
+   "phase": "Strip",
+   "title": "Fire control unit: slide off, lever up, pin out",
+   "action": "With the pistol cleared and the slide assembly off the frame, make sure the takedown lever is rotated up, then use a punch or a similar tool to push the FCU pin out of the grip module.",
+   "box": "none",
+   "prose": "The barrel and the recoil spring guide do not have to come out of the slide for this. The pin goes back from right to left, so look at how it sits before you push it.",
+   "quote": "2. Ensure the takedown lever is rotated up. 3. Use a punch or similar tool to remove the FCU pin.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 18.1 FCU Removal, steps 2-3, printed pp.98-99"
+  },
+  {
+   "phase": "Strip",
+   "title": "Lift and rotate the fire control unit out",
+   "action": "Pull up on the frame rails and rotate the fire control unit up and out of the grip module. With it out, wipe the inside of the grip module with a soft cloth.",
+   "box": "none",
+   "prose": "It comes out in one piece. Look at the locking tab on the unit and the slot it sits in at the top of the trigger well; that tab goes into that slot when the unit goes back.",
+   "quote": "4. Pull up on the frame rails, and rotate the FCU up and out from the grip module.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 18.1 FCU Removal, step 4, printed pp.100-101"
+  },
+  {
+   "phase": "Strip",
+   "title": "The fire control unit stays whole",
+   "action": "Stop here. Nothing comes off the fire control unit itself, and nothing comes out of the slide: no striker, no extractor.",
+   "box": "limit",
+   "prose": "Work past what this book explains goes to a certified SIG SAUER armorer.",
+   "quote": "NO FURTHER DISASSEMBLY OF THE FIRE CONTROL UNIT (FCU) IS AUTHORIZED.",
+   "cite": "SIG P385® PISTOLS — OPERATOR’S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 5400232-01 REV 02 — 18.2 FCU Installation, caution, printed pp.100-101",
+   "warn": "Disassembly beyond the instructions in the Operator’s Manual is restricted to a certified SIG SAUER Armorer.",
+   "warnSrc": "maker"
+  }
+ ],
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BARREL",
    "tasks": [
-    "Brush wet with bore solvent, from the chamber end whenever the barrel is out",
-    "Dry patches until clean, then a lightly oiled patch for storage",
-    "A dry patch through before the next shot"
+    "Wet CLP patch from the chamber end out past the muzzle, then several minutes to soak",
+    "Outside of the barrel wiped with a CLP cloth, then a second wet patch",
+    "Bronze brush of the correct caliber on the heavy deposits, another wet patch, dry patches until clean",
+    "Compensator installed: barrel pushed forward in the slide to make room for the rod",
+    "Stored pistol: light oil in the bore and chamber",
+    "⛔ Never clean from the muzzle end and never use a steel wire brush",
+    "⛔ Never fire it with lubricant in the bore"
    ]
   },
   {
-   "name": "BREECH, RAILS & FEED RAMP",
+   "name": "SLIDE ASSEMBLY",
    "tasks": [
-    "Breech face wiped, carbon off with a nylon brush",
-    "Slide rails and frame rails wiped",
-    "Feed ramp wiped smooth and bright",
-    "⛔ No solvent or oil into the firing-pin hole or the frame's internals"
+    "All the old lubricant off before any new goes on",
+    "Cloth, then a soft brush and CLP on dirt and carbon",
+    "Extractor, rail slots and breech face free of residue",
+    "Integrated compensator, if fitted: nylon brush, compensator left in place",
+    "Light CLP in the frame rail slots; a light film on the outside",
+    "⛔ Never oil the striker or let oil run into the striker channel"
    ]
   },
   {
-   "name": "LUBRICATION",
+   "name": "RECOIL SPRING GUIDE ASSEMBLY",
    "tasks": [
-    "A thin film on the slide rails and the frame rails",
-    "A drop on the barrel where it rubs the slide, and on its locking surfaces",
-    "Excess wiped off"
+    "CLP and a soft brush, then a light coat of CLP",
+    "⛔ Never take it apart; it is replaced as a single unit"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "FRAME AND GRIP MODULE",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Soft cloth over the frame and grip module",
+    "Cotton swabs at the frame rails, takedown lever and slide catch lever",
+    "Light CLP on the frame rails and the working parts you can reach",
+    "Magazine well wiped free of dirt and dust",
+    "Debris out from between the trigger and the trigger block"
    ]
   }
  ],
@@ -145,40 +293,40 @@
    {
     "g": 0,
     "steps": [
-     9
+     10,
+     11
     ]
    },
    {
     "g": 1,
     "steps": [
-     10
+     12,
+     13
     ]
    },
    {
     "g": 2,
     "steps": [
-     11
+     14
     ]
    },
    {
-    "s": 12
-   },
-   {
     "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
+    "steps": [
+     15,
+     16
+    ]
    }
   ]
  },
  "reassembly": [
-  "Tabs or lever: the barrel back into the slide, then the recoil spring and guide rod back under it, the same way round as they came out.",
-  "Tabs or lever: the slide back onto the frame rails from the front and drawn fully back — it should glide without catching. On a lever pistol, turn the lever back up until it stops.",
-  "Pull-down trigger guard: trigger guard down, the slide fitted over the barrel from the front, drawn fully back, its rear lowered onto the frame and let run forward; then the trigger guard pushed back into place.",
-  "Work the slide several times by hand with an empty magazine in: it should run smoothly, and lock open on the empty magazine if your pistol has a slide stop.",
-  "Take the magazine out again before the function check."
+  "Deep clean only: fire control unit into the grip module, its locking tab fitted into the mating slot on the top of the trigger well.",
+  "Deep clean only: FCU pin pushed in from right to left, flush on both sides. The direction matters — pushing it from the other side can damage a spring in the frame.",
+  "Look through the barrel and make sure it is clear. Turn the slide upside down and put the barrel in.",
+  "Recoil spring guide assembly into the slide, with eye protection on.",
+  "Make sure the takedown lever is turned clockwise to its stop, then guide the slide onto the frame rails from the front.",
+  "Pull the slide fully back and lock it open with the slide catch lever. Turn the takedown lever counterclockwise until it stops.",
+  "Press the slide catch lever, or pull the slide back and let it go. Do not ride the slide forward."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the slide: it runs fully back and returns fully forward, and it locks open on an empty magazine if your pistol has a slide stop. Any safety or decocker you can see moves through each of its positions on the empty pistol. This check never asks you to press the trigger — whether a pistol of unknown design tolerates dry firing is a question for SIG Sauer."
+ "fncheck": "Clear the pistol first and keep all ammunition away; the muzzle stays in a safe direction throughout. Insert an empty magazine: an audible click, and the catch holds it. Pull the slide fully back; the follower should lock it open. Press the magazine catch: the magazine must fall free under its own weight. Press the slide catch lever to close the slide.\n\nMagazine disconnect, if fitted: pull the trigger with no magazine in — nothing should happen. Release it, insert an empty magazine and pull again — the striker should release with an audible click. Pull the slide fully back, then press the slide catch lever to let it forward.\n\nManual safety, if fitted: push it up and pull the trigger — the striker should NOT release. Release the trigger and push the safety down.\n\nPull the trigger to the rear and hold it: the striker should release with a click. Still holding it, pull the slide fully back and let it go, then release the trigger — a light click as it resets. Now pull at the edge of the trigger, without engaging the trigger block: the trigger should not go fully to the rear and the striker should NOT release. Pull with the block engaged: the striker should release with a click. Pull the slide fully back and let it go. Last, draw the slide back about 0.4 inch (10mm), or until the barrel hood drops out of the slide, and press the trigger: the striker should NOT release.\n\nNever use a pistol or magazine that is damaged or fails any of this; SIG asks for it to be returned for evaluation."
 }
