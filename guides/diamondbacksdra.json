@@ -1,0 +1,186 @@
+{
+ "row": "diamondbacksdra",
+ "make": "Diamondback",
+ "model": "SDR-A",
+ "sourcedFrom": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 (UNKNOWN — no copyright line printed; the revision page reads 10/25/2024)",
+ "sourceSha256": "b1d5b56e1969e9b8286a3307af7406124a56225838fbea753eb31056b553db54",
+ "cleanIntro": "This guide follows Diamondback’s book for the SDR: Diamondback lists the SDR-A in its SDR line, but the book never prints the name SDR-A, so check your revolver against the book before you start.\n\nThe SDR-A is a small revolver whose cylinder swings out to the left, listed by Diamondback in .38 Special +P. Nothing comes off it for cleaning: Diamondback’s routine is six steps done with the cylinder swung out, and the side plate stays on. If your hammer is bobbed, with no spur for your thumb, it is double action only and is never cocked by hand.",
+ "steps": [
+  {
+   "phase": "Clear",
+   "title": "Hammer forward before the cylinder opens",
+   "action": "Point the revolver in a safe direction with your finger outside the trigger guard, and look at the hammer. If it is forward, go on. If it is cocked, lower it first: both hands dry and bare, your support hand holding the weight of the gun clear of the muzzle and the cylinder gap, your shooting thumb holding the hammer spur back very slightly under control. Press the trigger just enough to free the hammer, let go of the trigger at once, and lower the hammer slowly until it is fully forward.",
+   "box": "none",
+   "prose": "Letting go of the trigger the moment the hammer is free is the part that protects you: the safety mechanism can help only once the trigger is released, if your thumb slips. Diamondback asks you to practice this on an unloaded revolver until the touch is sure.",
+   "quote": "At the instant the hammer is clear of the trigger and still able to rotate forward, IMMEDIATELY RELEASE THE TRIGGER and continue lowering the hammer in a slow and controlled manner until it comes to rest at the fully forward position.",
+   "cite": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 — Uncock (Decock) Procedure, step 6, printed p.11",
+   "warn": "NEVER attempt to cock the DAO hammer manually.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "Thumb release in, cylinder out to the left",
+   "action": "Hold the revolver in your right hand. Push in the cylinder thumb release with your right thumb, and at the same time press your right index finger against the cylinder to swing it out to the left.",
+   "box": "none",
+   "prose": "The two movements go together: thumb in and finger across. If the cylinder does not move, check that the hammer is fully forward before you press any harder.",
+   "quote": "Hold revolver in right hand with right thumb, push in the cylinder thumb release. At the same time, swing out the cylinder to the left by pressing right index finger against it.",
+   "cite": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 — Loading and Firing, step 2, printed p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Ejector rod to the rear, every case out",
+   "action": "With the cylinder open, press the ejector rod toward the rear so all the cartridges or cases lift out together. Let the rod return on its own.",
+   "box": "none",
+   "prose": "Use one full stroke. A short one can leave a case half out, and it slides back into its chamber when the rod returns.",
+   "quote": "Once the cylinder is open, depress the ejector rod toward the rear.",
+   "cite": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 — Loading and Firing, step 7, printed p.8"
+  },
+  {
+   "phase": "Clear",
+   "title": "Six chambers, by eye and by finger",
+   "action": "Look into all six chambers, then run a fingertip across the rear of the cylinder to feel each one. Look through the barrel too. Do not go on until all six are empty and the ammunition is out of reach.",
+   "box": "none",
+   "prose": "Count to six as you go. A case sitting deep in one chamber is easy to miss when the other five are plainly empty.",
+   "quote": "Swing out the cylinder, ensure that the firearm is unloaded and clear of any ammunition.",
+   "cite": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 — Maintenance/Lubrication, step 1, printed p.16",
+   "warn": "ALWAYS TREAT EVERY FIREARM AS IF IT WERE LOADED AND WILL FIRE.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete: the open cylinder is all of it",
+   "action": "Leave the cylinder swung out. Nothing is removed. The side plate, the crane link, the grip and the lockwork stay where they are.",
+   "box": "limit",
+   "prose": "Diamondback prints a parts list and a diagram, but no procedure for taking any of it apart. Work the book does not describe belongs to a qualified gunsmith or to Diamondback, and doing it yourself voids the warranty.",
+   "quote": "Always have any work other than what is described in this manual performed by a qualified gunsmith or by Diamondback Firearms; doing otherwise will void your product’s warranty.",
+   "cite": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 — Alterations & Modifications, printed p.20",
+   "branch": true
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore brushed from the muzzle, full length",
+   "action": "Wet a bronze bristle brush of the right caliber with bore solvent. From the muzzle end, push it all the way through the barrel, letting it twist with the rifling, then pull it all the way back. Do that several times over the full length.",
+   "box": "none",
+   "prose": "Let the brush turn. Held from turning, it skids across the grooves instead of following them. Keep the rod off the edge of the muzzle as it goes in, because the frame leaves you no way in from the rear.",
+   "quote": "From the muzzle end, push the brush all the way through the barrel bore, then pull the brush back through the opposite way. The brush should be pushed the full length of the barrel several times.",
+   "cite": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 — Maintenance/Lubrication, step 2, printed p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bore swabbed with solvent until clean",
+   "action": "Change the brush for a solvent-coated swab on the cleaning rod and swab the full length of the barrel several times, or until it comes out clean.",
+   "box": "none",
+   "prose": "The brush loosens the fouling and the swab carries it out. Stop when a fresh swab comes out clean, not at a set number of strokes.",
+   "quote": "After brushing, attach a solvent coated swab to a cleaning rod and swab the full length of the barrel several times or until clean.",
+   "cite": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 — Maintenance/Lubrication, step 3, printed p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "Each of the six chambers, the same way",
+   "action": "Clean each chamber in the cylinder as you cleaned the barrel: the bronze brush and solvent several times through, then a solvent swab until it comes out clean.",
+   "box": "none",
+   "prose": "Give every chamber the same strokes as the bore. A chamber left fouled makes the next cartridge hard to seat and the case hard to eject.",
+   "quote": "For cleaning of the cylinder’s six individual chambers, the same procedure as used in cleaning of the barrel bore should be used.",
+   "cite": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 — Maintenance/Lubrication, step 4, printed p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "Lightly oiled swab through bore and chambers",
+   "action": "Run a lightly oiled swab through the barrel, then through each of the six chambers. Look through all seven afterward to be sure nothing was left behind.",
+   "box": "none",
+   "prose": "Lightly is the instruction. A thin film protects the steel; standing oil or a lost patch in the bore is an obstruction.",
+   "quote": "Using your preferred gun oil, run a lightly oiled swab through the barrel bore and each of the six chambers.",
+   "cite": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 — Maintenance/Lubrication, step 5, printed p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "A few drops at the hammer pivot, then work the trigger",
+   "action": "Look at all six chambers again: you are about to pull the trigger. With the muzzle in a safe direction, draw the hammer back and put a few drops of gun oil inside the action near the point the hammer pivots on. Lower the hammer under thumb control as in the first step, then work the trigger double action a few times to spread the oil.",
+   "box": "none",
+   "prose": "On a bobbed-hammer SDR the hammer is not drawn back, and the book gives no separate oiling step for it. If the hammer or trigger resists, stop and find out why; the book does not say whether the cylinder is open or closed here, and nothing is forced.",
+   "quote": "A few drops of your preferred gun oil should be applied to the action internally near the pivot point of the hammer. Retract the hammer first, then work the trigger double action a few times to distribute the oil.",
+   "cite": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 — Maintenance/Lubrication, step 6, printed p.16",
+   "warn": "NEVER attempt to cock the DAO hammer manually.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Oil the cylinder, crane link, ejector and latch slot",
+   "action": "Put a few drops of oil on the cylinder, the crane link it swings on, the ejector, and the ejector latch slot in the housing attached to the barrel. Work each part so the oil spreads, then wipe off what is left over.",
+   "box": "none",
+   "prose": "The latch slot is the one people miss. It is under the barrel, in the housing the ejector rod closes into.",
+   "quote": "The same procedure applies to the cylinder, crane link, ejector and the ejector latch slot in the housing affixed to the barrel.",
+   "cite": "Operating and Safety Instruction Manual — Rev 2. 10/25/2024 — Maintenance/Lubrication, step 6, printed p.16"
+  }
+ ],
+ "deepAbsentReason": "There is no deep clean in the SDR book this guide follows. Its maintenance section is six steps on one page (printed p.16), all done with the cylinder swung out, and no page gives a way to take any part off. The side plate, crane link, ejector and lockwork appear only in the parts list and diagram (printed pp.6-7), with no procedure. Work beyond what the book describes goes to a qualified gunsmith or to Diamondback, and doing otherwise voids the warranty (printed p.20).",
+ "cleaning": [
+  {
+   "name": "BORE",
+   "tasks": [
+    "Bronze brush of the right caliber, wet with solvent, from the muzzle end all the way through and back, several times",
+    "Solvent-coated swab the full length, several times or until clean",
+    "⛔ Never try to remove a bullet lodged in the barrel: stop using the revolver and contact Diamondback"
+   ]
+  },
+  {
+   "name": "CHAMBERS",
+   "tasks": [
+    "All six chambers brushed and swabbed the same way as the barrel",
+    "Lightly oiled swab through the barrel and all six chambers",
+    "Look through the barrel and every chamber: nothing left inside"
+   ]
+  },
+  {
+   "name": "ACTION & CYLINDER",
+   "tasks": [
+    "A few drops of oil inside near the hammer pivot, trigger worked double action a few times with the revolver empty",
+    "Oil on the cylinder, crane link, ejector and the ejector latch slot under the barrel",
+    "⛔ Never cock a bobbed hammer by hand"
+   ]
+  },
+  {
+   "name": "CONDITIONS & STORAGE",
+   "tasks": [
+    "Hot climates: clean and inspect more often, wipe dry after handling, then oil",
+    "Extreme cold: cleaned, oiled and free of moisture, controls worked through their full range at intervals",
+    "Dusty or sandy places: keep dust and sand out of the mechanism",
+    "Stored unloaded, with the cable lock looped through the cylinder opening and back through the trigger guard, behind the trigger"
+   ]
+  }
+ ],
+ "cleanMap": {
+  "screens": [
+   {
+    "g": 0,
+    "steps": [
+     5,
+     6
+    ]
+   },
+   {
+    "g": 1,
+    "steps": [
+     7,
+     8
+    ]
+   },
+   {
+    "g": 2,
+    "steps": [
+     9,
+     10
+    ]
+   },
+   {
+    "g": 3,
+    "steps": []
+   }
+  ]
+ },
+ "reassembly": [
+  "Nothing came off, so nothing goes back on. Look through the barrel and all six chambers once more.",
+  "Let the ejector rod return fully, then press the cylinder back into the frame with your thumb until it latches. Press it closed; do not flick it shut."
+ ],
+ "fncheck": "Every chamber seen empty, muzzle in a safe direction. Open the cylinder with the thumb release and press it closed: it should swing freely, latch, and stay latched. Push the ejector rod with the cylinder open: it should run its full stroke and return by itself. Then, with the cylinder closed on six empty chambers, work the trigger double action slowly: the cylinder should turn and the trigger should come all the way forward by itself when you let it. Diamondback prints no separate function check. If anything binds, stays back or does not latch, stop and contact Diamondback Firearms."
+}

@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 3 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 3,
- "to": 58,
+ "to": 59,
  "rows": [
   {
    "id": "radianmodel1",
@@ -25772,6 +25772,79 @@
    "cal": "{\"chs\":[\"12 GA\",\"20 GA\"]}",
    "calSha256": "06d8b1023793ced7d2e40dadbb66a3ff8cdd71acc184c7e7245a5acff5226894",
    "calV": 48
+  },
+  {
+   "id": "diamondbacksdra",
+   "maker": "Diamondback",
+   "model": "SDR-A",
+   "chambering": ".38 Spl",
+   "category": "Revolver",
+   "family": "NEW-DIAMONDBAC-SDRA",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".38 Spl"
+   ],
+   "guide": true,
+   "guideId": "diamondbacksdra",
+   "guideSha256": "3387de79cce1d3ceded23d5622e2e5f2016737f373d663eb78974ac1918005f8",
+   "cal": "{\"chs\":[\".38 Spl\"]}",
+   "calSha256": "7131f5f9a4174935754e4d7b41025fd5873320440a51751fa5c6f93b129dd8f0",
+   "calV": 59
+  },
+  {
+   "id": "silentsteelusastreamer",
+   "maker": "Silent Steel USA",
+   "model": "Streamer",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "silentsteelusastreamer",
+   "guideSha256": "7ee4d48650f153c4969dbc311586ecacb28ca4eb5ea8205cfd5f676f5406b6b0",
+   "bestPractices": true,
+   "cal": "{\"rl\":[\"9mm\",\".45 ACP\",\"6.5 Creedmoor\",\"5.56 / .223\",\".308 Win\"],\"rc\":{\"9mm\":\"Not Pistol Rated\",\".45 ACP\":\"Not Pistol Rated\"}}",
+   "calSha256": "f83f4ca52749fc10e85e1475c65fed2e385bf0c3b6bcca4515031d913176df62",
+   "calV": 59
+  },
+  {
+   "id": "silentsteelusacompactstreamer",
+   "maker": "Silent Steel USA",
+   "model": "Compact Streamer",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "silentsteelusacompactstreamer",
+   "guideSha256": "9f3ccd890044b88e7c454220c4629f135243e220a432d9e4bd4a0460e681cf62",
+   "bestPractices": true,
+   "cal": "{\"rl\":[\"9mm\",\".45 ACP\",\"6.5 Creedmoor\",\"5.56 / .223\",\".308 Win\"],\"rc\":{\"9mm\":\"Not Pistol Rated\",\".45 ACP\":\"Not Pistol Rated\"}}",
+   "calSha256": "f83f4ca52749fc10e85e1475c65fed2e385bf0c3b6bcca4515031d913176df62",
+   "calV": 59
+  },
+  {
+   "id": "silentsteelusamicrostreamer",
+   "maker": "Silent Steel USA",
+   "model": "Micro Streamer",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "silentsteelusamicrostreamer",
+   "guideSha256": "1320a4203db7e4cc3fc709ded2b40e2af447320600e595f2bcaccac99356aadb",
+   "bestPractices": true,
+   "cal": "{\"rl\":[\"9mm\",\".45 ACP\",\"5.56 / .223\",\".308 Win\"],\"rc\":{\"9mm\":\"Not Pistol Rated\",\".45 ACP\":\"Not Pistol Rated\"}}",
+   "calSha256": "0c9fbb38423f1f668a8d8aa8dadc9f8cb3a11e82bae30b9658133cf9566a0316",
+   "calV": 59
   }
  ],
  "removed": [
