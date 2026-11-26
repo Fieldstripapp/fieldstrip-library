@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 57 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 57,
- "to": 59,
+ "to": 60,
  "rows": [
   {
    "id": "remington7400",
@@ -236,6 +236,25 @@
    "cal": "{\"chs\":[\"6.5mm\"],\"rs\":\"6.5mm and under; rated for .300 RUM with no barrel-length restrictions\",\"rt\":\".300 RUM\"}",
    "calSha256": "9e1178594c7d7cf7f7ab9b10f2196c2407a25e4e199bdaeac5fe8ff62a8d82b7",
    "calV": 38
+  },
+  {
+   "id": "czduty40",
+   "maker": "CZ",
+   "model": "DUTY 4.0",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-CZ-DUTY40",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "czduty40",
+   "guideSha256": "15ec8471bbf3736584e279f732b37b283638497c4433d1c1497f4b06713ec89e",
+   "cal": "{\"chs\":[\"9mm\"]}",
+   "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
+   "calV": 39
   },
   {
    "id": "sigsauertincan",

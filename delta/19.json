@@ -1,7 +1,7 @@
 {
  "_doc": "Everything a client holding version 19 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 19,
- "to": 59,
+ "to": 60,
  "rows": [
   {
    "id": "radianmodel1",
@@ -25570,8 +25570,7 @@
    ],
    "guide": true,
    "guideId": "czduty40",
-   "guideSha256": "039fec10e008bf0e27808e76434fd42ca305978f8972e8ff47eb61457361248d",
-   "bestPractices": true,
+   "guideSha256": "15ec8471bbf3736584e279f732b37b283638497c4433d1c1497f4b06713ec89e",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 39

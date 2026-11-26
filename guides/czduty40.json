@@ -1,142 +1,221 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAP",
- "bpTemplateVersion": 1,
  "row": "czduty40",
  "make": "CZ",
  "model": "DUTY 4.0",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model, so this guide works from what is true of every pistol of its kind and asks you to look before it asks you to do anything. It clears the pistol, then strips it only if yours shows one of three takedown controls that come apart the same way on every pistol that has them. If yours shows none of them, the slide stays on and the pistol is cleaned locked open — that is a complete clean, not a lesser one.\n\nListed in Fieldstrip as 9mm. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) (UNKNOWN — not printed in the document)",
+ "sourceSha256": "f883c8cdbc52e9cace797447341d6bf38e8d7b7f1b3f0f89fbd73e73fbed2c02",
+ "cleanIntro": "This guide follows CZ's CZ DUTY instruction manual, which does not print \"4.0\", so check your pistol against it. The DUTY strips without a trigger press: magazine out, slide locked open on the slide stop, the disassembling lever turned down to its end stop, the slide released forward and run off the grip. CZ's book also gives the owner the firing pin and the magazine to take apart after a higher number of rounds, and stops there.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Know what you are holding",
+   "action": "This guide follows CZ's CZ DUTY instruction manual, which does not print \"4.0\", so check your pistol against it. Note whether yours is a standard, Optics Ready, Suppressor Ready or Optics & Suppressor Ready DUTY, and whether it carries a manual safety.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "CZ prints one book for the whole DUTY line and describes its versions in it. The strip below is the same for all of them. The book's manual safety section applies only to pistols fitted with one, and this row is the DUTY 4.0 without the MS designation.",
+   "quote": "Some versions of the pistol can be fitted with a manual safety.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Description and Terminology, printed p.3"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out first, then the slide",
-   "action": "Press the magazine release and take the magazine out of the grip before you touch the slide. Then pull the slide fully back and lock it open on the slide stop if your pistol has one; if it will not lock, hold it back. The order is the whole point: working the slide with a magazine still in puts a fresh round in the chamber, and that is the classic way an empty pistol stops being empty.",
-   "box": "none",
-   "prose": "If the magazine will not come out, stop and contact CZ, with the pistol pointed somewhere safe."
+   "title": "Magazine out before anything else",
+   "action": "Point the pistol in a safe direction. Press the ambidextrous magazine catch and let the magazine fall out of the grip.",
+   "box": "limit",
+   "prose": "CZ makes this the first step of the strip and says plainly that the pistol must not be taken apart with a magazine in it. The magazine drops free when the catch is pressed, so keep a hand under the grip.",
+   "quote": "1. Remove the magazine. The pistol must not be disassembled with the magazine inserted",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Stripping for Cleaning, step 1, printed p.11"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and down into the empty magazine well, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Clear the chamber and look",
+   "action": "Draw the slide back and check that the cartridge in the chamber has been extracted and thrown clear. Look into the chamber before you go on.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact CZ with the gun pointed somewhere safe."
+   "prose": "CZ's unloading sequence is magazine out, slide back to extract and eject, slide forward, then an aimed safety shot into a safe area. The strip itself does not need that trigger press: CZ built the DUTY to come apart without operating the trigger.",
+   "quote": "Draw back the slide and verify the last cartridge has been extracted from the chamber and ejected",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Operating Instructions — Unloading the Pistol, printed p.8"
   },
   {
    "phase": "Strip",
-   "title": "Which takedown does yours have? Look before you touch",
-   "action": "With the pistol empty and the slide locked open, look at the frame just above the trigger. One of three things decides your next step: two small serrated tabs, one on each side of the frame just above the front of the trigger guard; a single lever on the left side of the frame, made to rotate; or a trigger guard whose front end is made to pull down away from the frame. Follow only the step written for what you see, and skip the other two.",
+   "title": "Lock the slide open on the slide stop",
+   "action": "Hold the pistol by the grip and push the slide stop fingergrip up with your thumb. With the other hand pull the slide fully back by its checkered part and release it carefully, so the slide stop holds it open.",
    "box": "none",
-   "prose": "⛔ If you see none of these, more than one, or you are not sure, this is where your strip ends: leave the slide on and go straight to the cleaning steps, which work with the pistol locked open. Never press a trigger, push on a pin or press a button to find out how a pistol comes apart."
+   "prose": "The open slide is the starting position for the disassembling lever. With the magazine already out, use the thumb on the slide stop rather than an empty magazine to hold it back.",
+   "quote": "2. Set the slide into the locked open position (on the slide stop) as it is described in the previous part of the manual.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Stripping for Cleaning, step 2, printed p.11"
   },
   {
    "phase": "Strip",
-   "title": "Two tabs: release the striker, then slide forward off the frame",
-   "action": "Only if your pistol has the two takedown tabs. Let the slide run forward, point the muzzle at a safe backstop, and press the trigger once — on pistols built this way the striker has to be released before the slide will come off, and you will hear it click. Then grip the pistol so your fingers draw the slide back a few millimetres, pull both tabs down with your other hand and hold them there, and let the slide run forward off the front of the frame.",
+   "title": "Turn the disassembling lever down to its stop",
+   "action": "Turn the disassembling lever downwards until it reaches its end stop, about 100 degrees.",
    "box": "none",
-   "prose": "⛔ Only after the chamber has been proven empty twice. If yours is a rimfire (.22) pistol, do not press the trigger: stop here and clean it with the slide on. If the slide will not move forward with both tabs held down, let go and stop — never force it."
+   "prose": "The lever only turns this far with the slide locked open. CZ notes that if the sequence is not done correctly the disassembling mechanism blocks, so a lever that will not move is a sign to go back a step, not to push harder.",
+   "quote": "3. Turn the disassembling lever downwards up to the end stop",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Stripping for Cleaning, step 3, printed p.11"
   },
   {
    "phase": "Strip",
-   "title": "A takedown lever: turn it down, then ease the slide off",
-   "action": "Only if your pistol has a takedown lever. Rotate the lever down until it stops, usually about a quarter turn. Some pistols let it turn with the slide locked open and others only with the slide forward, and some also have a small button on the right side of the frame that has to be held in while the lever turns. Once it has turned, hold the slide, let it run forward under control, and ease it off the front of the frame.",
+   "title": "Release the slide forward",
+   "action": "Hold the slide by its checkered part in one hand and the grip in the other. Push the slide stop fingergrip down and let the slide run to its front position under control.",
    "box": "none",
-   "prose": "⛔ If the lever will not turn by hand either way, stop here and clean the pistol with the slide on. Never use a tool on the lever, and never press the trigger to make it move."
+   "prose": "Keep hold of the slide as it goes forward; it is still on the grip at this point and comes off in the next step.",
+   "quote": "4. Grasp the slide by the checkered part with one hand. Use your other and to grasp the grip and push the slide stop fingergrip downwards, releasing the slide to its front position.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Stripping for Cleaning, step 4, printed p.11"
   },
   {
    "phase": "Strip",
-   "title": "A pull-down trigger guard: slide back, up and off",
-   "action": "Only if the front of your trigger guard pulls down. Pull the front of the trigger guard down; on most pistols built this way it then tips a little to one side and rests against the frame, holding itself open. Draw the slide all the way back, lift its rear end up off the frame, and ease it forward off the barrel. The barrel stays fixed to the frame and the recoil spring stays on the barrel — on this pattern neither is taken out.",
-   "box": "none",
-   "prose": "Push the trigger guard back into place once the slide is off, so it cannot catch on anything while you clean."
+   "title": "Slide off the front of the grip",
+   "action": "Shift the slide forward off the grip.",
+   "box": "quote",
+   "prose": "No trigger press is involved at any point. CZ lists safe disassembly without pulling the trigger among the DUTY's safety features.",
+   "quote": "5. Remove the slide from the grip by shifting it forward.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Stripping for Cleaning, step 5, printed p.11"
   },
   {
    "phase": "Strip",
-   "title": "Tabs or lever: spring and barrel out of the slide",
-   "action": "Turn the slide upside down. The recoil spring and its guide rod sit under the barrel and are still under some pressure: push the guide rod gently forward, lift its rear end clear of the barrel, and let it out slowly under your thumb. Note which way round it sat — which end faced the barrel — because it goes back the same way. Then lift the barrel out by its chamber end.",
+   "title": "Recoil springs out, then the barrel",
+   "action": "Turn the slide over. Lift out the set of recoil springs first, then the barrel.",
    "box": "none",
-   "prose": "A pull-down trigger guard pistol skips this step: its barrel stays where it is."
+   "prose": "The order is CZ's: the springs come out before the barrel. The recoil spring set is one assembly with a guide, an outer and an inner spring.",
+   "quote": "6. Remove the set of recoil springs and, finally, the barrel from the slide",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Stripping for Cleaning, step 6, printed p.11"
   },
   {
    "phase": "Strip",
-   "title": "That is the whole strip",
-   "action": "Nothing else comes apart. The firing pin or striker, the extractor, the sights and everything inside the frame stay exactly as they are — on a pistol with no published procedure, those are work for CZ. Lay the parts out in the order they came off, on a clean cloth, away from the edge of the bench.",
+   "title": "Field strip complete",
+   "action": "Grip, slide, barrel and recoil spring set, with the magazine set aside. That is CZ's strip for cleaning, done without touching the trigger.",
    "box": "none",
-   "prose": "If any part came loose that this guide did not ask for, stop and contact CZ before you put the pistol back together."
+   "prose": "These parts give access to the bore and chamber, the slide and the grip for cleaning. CZ's deeper owner work, the firing pin and the magazine, is in Deep Clean.",
+   "quote": "When disassembling the firearm, it is not necessary to operate the trigger.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Safety Features — Safe disassembling without pulling the trigger, printed p.6",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the chamber end whenever you can",
-   "action": "With the barrel out, push a brush wet with bore solvent through from the chamber end, a few passes, then dry patches until they come out clean. If your barrel stayed in, lock the slide open and feed a pull-through cord in at the chamber through the ejection port, or work from the muzzle with a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Bore and chamber with patches",
+   "action": "If the pistol has been fired little or not at all, run clean patches on a cleaning rod through the bore and chamber, changing patches, until the last one comes out clean.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "For a very dirty bore, brush in a gun cleaning solution, let it act about ten minutes, scrub the bore, then dry the bore and chamber with a clean patch and check the fouling is gone.",
+   "quote": "Repeat the cleaning, changing patches, until the last patch comes out clean.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Cleaning the Barrel Bore and the Cartridge Chamber, printed p.12"
   },
   {
    "phase": "Clean",
-   "title": "Breech face, rails and the feed ramp",
-   "action": "Wipe the breech face — the flat at the back of the slide where the cartridge sits — and the slide's rails and the frame's rails with a cloth and a little solvent, using a small nylon brush on the carbon. Wipe the feed ramp at the bottom of the chamber mouth until it is smooth and bright. Use solvent sparingly and keep it out of the frame's internals and the firing-pin hole: what runs in there cannot be wiped back out.",
-   "box": "none"
+   "title": "Rod and brush in from the chamber",
+   "action": "Put the rod and brush into the barrel from the chamber end. Push the brush all the way through before drawing it back.",
+   "box": "limit",
+   "prose": "CZ gives two reasons: entering from the chamber protects the muzzle, and a brush reversed inside the bore can stick.",
+   "quote": "The cleaning rod and the brush must be inserted into the barrel bore from the chamber, to prevent wear or damage to the muzzle.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Cleaning the Barrel Bore and the Cartridge Chamber, printed p.12"
   },
   {
    "phase": "Clean",
-   "title": "Oil lightly where metal slides on metal",
-   "action": "A thin film of gun oil goes on the slide rails, the frame rails, the outside of the barrel where it rubs the slide, and the barrel's locking surfaces. A drop is enough on each; wipe off anything that runs. No oil goes into the firing-pin hole or into the frame from the outside.",
+   "title": "Other parts dry, never with bore cleaner",
+   "action": "Clean the slide, grip and the outside of the barrel with a dry cloth, an old toothbrush, a brass bristle brush or a wooden scraper. Preserving oil or paraffin oil can be used.",
+   "box": "limit",
+   "prose": "Keep the bore cleaning agent off these parts; CZ warns it can stay in the joints and cause corrosion later. Check that no cloth fibres or bristles are left behind.",
+   "quote": "Never use the agent designed for barrel bore cleaning!",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Cleaning of Other Pistol Parts, printed p.13"
+  },
+  {
+   "phase": "Clean",
+   "title": "Oil, then take the excess off",
+   "action": "With the bore, chamber and all accessible parts clean and dry, wipe them with a cloth soaked in gun oil or spray the oil on, then remove all excess oil.",
    "box": "none",
-   "prose": "Too much oil collects grit and, in the cold, slows the parts it was meant to help."
+   "prose": "Wipe the bore dry before shooting. In very low temperatures take the oil off the accessible parts or use a lubricant made for those conditions.",
+   "quote": "wipe these parts with a cloth soaked in gun oil or apply the oil in a spray. Remove all excess oil",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Preserving, printed p.13"
+  }
+ ],
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Firing pin out of the slide",
+   "action": "With the slide off the pistol, tilt the automatic firing pin safety away with your finger to its end position and push the firing pin forward.",
+   "box": "none",
+   "prose": "CZ advises cleaning the firing pin and its hole in the slide after a higher number of rounds, and gives the owner the procedure. Work over a bench; the parts are small.",
+   "quote": "Use your finger to tilt away the automatic firing pin safety to its end position and push the firing pin forward.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Firing Pin Disassembly, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide the container forward out of the slide cover",
+   "action": "Put a narrow tool into the hole in the firing pin container and shift the container forward until it slides out of the slide cover.",
+   "box": "none",
+   "prose": "Use a narrow tool that fits the hole without forcing it.",
+   "quote": "Insert a narrow tool into the hole in the firing pin container and shift it forward, until it slides out of the slide cover (Fig. 8).",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Firing Pin Disassembly, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Slide cover off, firing pin assembly out to the rear",
+   "action": "Shift the slide cover out of the slide, then take the firing pin assembly out rearwards.",
+   "box": "none",
+   "prose": "The firing pin assembly is the firing pin, its container, its spring and the two spring holders, per CZ's parts list.",
+   "quote": "the slide cover out of the slide (Fig. 9), remove the firing pin assembly rearwards.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Firing Pin Disassembly, printed p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean the firing pin parts and keep them dry",
+   "action": "Clean the firing pin assembly, the firing pin hole in the slide and the related parts, or blow them clean with compressed air. Do not oil them.",
+   "box": "limit",
+   "prose": "For use at very low temperatures CZ allows a very light coat of a low-temperature lubricant on the firing pin; otherwise these parts stay dry.",
+   "quote": "Keep these parts dry, do not use common lubricants.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Firing Pin Disassembly, printed p.11"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Firing pin assembly back in reverse order",
+   "action": "Refit the firing pin assembly in the reverse order. If the automatic safety pin moved out while you worked, push it back in with a narrow tool.",
+   "box": "none",
+   "prose": "Check that the automatic safety pin is home before the slide goes back on the pistol.",
+   "quote": "Reassemble the firing pin assembly in the reverse order.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Firing Pin Disassembly, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine base off, spring held",
+   "action": "If the magazine base has a hole, push the base lock through it and slide the base slightly forward; if it has a sliding base lock at the rear, move it to the disassembly position and slide the base slightly forward. Cover the base with your thumb to hold the spring and slide the base out of its rails with the other hand.",
+   "box": "none",
+   "prose": "CZ warns the spring can fly out and cause an injury, so keep the magazine pointed away from your face and let the spring up slowly.",
+   "quote": "There is a difference depending on the magazine design.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — Magazine Disassembly, printed p.12"
   },
   {
    "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the slide, the frame and the barrel for cracks, the recoil spring for kinks or a broken coil, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for CZ.",
-   "box": "none",
-   "prose": "Any one of these means the gun is not fired until CZ has seen it."
+   "title": "Stop there",
+   "action": "Reassemble the magazine and go no further into the pistol. Anything that needs adjustment or repair goes to a competent gunsmith.",
+   "box": "limit",
+   "prose": "This is where CZ's owner procedure ends.",
+   "quote": "No further disassembly of your pistol is recommended.",
+   "cite": "CZ DUTY — INSTRUCTION MANUAL — UNKNOWN — not printed in the document (CZ's file name carries 07_2025) — Maintenance Instructions — CAUTION, printed p.12"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the CZ DUTY 4.0, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to CZ, not onto the bench.",
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BORE & CHAMBER",
    "tasks": [
-    "Brush wet with bore solvent, from the chamber end whenever the barrel is out",
-    "Dry patches until clean, then a lightly oiled patch for storage",
-    "A dry patch through before the next shot"
+    "Patches on a rod through the bore and chamber until the last one comes out clean",
+    "Very dirty bore: brush in a gun cleaning solution, let it act about 10 minutes, scrub, then dry with a clean patch",
+    "Rod and brush go in from the chamber end, and the brush goes all the way through before it comes back",
+    "Never reverse the brush inside the bore"
    ]
   },
   {
-   "name": "BREECH, RAILS & FEED RAMP",
+   "name": "SLIDE, BARREL & GRIP",
    "tasks": [
-    "Breech face wiped, carbon off with a nylon brush",
-    "Slide rails and frame rails wiped",
-    "Feed ramp wiped smooth and bright",
-    "⛔ No solvent or oil into the firing-pin hole or the frame's internals"
+    "Dry cloth, old toothbrush, brass bristle brush or wooden scraper on the slide, the grip and the outside of the barrel",
+    "Preserving oil or paraffin oil can be used for this cleaning",
+    "Never use the bore cleaning agent on these parts",
+    "Check that no cloth fibres or brush bristles are left in the pistol"
    ]
   },
   {
-   "name": "LUBRICATION",
+   "name": "OIL & WIPE DOWN",
    "tasks": [
-    "A thin film on the slide rails and the frame rails",
-    "A drop on the barrel where it rubs the slide, and on its locking surfaces",
-    "Excess wiped off"
-   ]
-  },
-  {
-   "name": "EXTERIOR",
-   "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Wipe the clean, dry bore, chamber and accessible parts with gun oil, or spray it on",
+    "Remove all excess oil",
+    "In very low temperatures remove the oil or use a lubricant made for the cold",
+    "Wipe the bore dry before shooting"
    ]
   }
  ],
@@ -145,40 +224,30 @@
    {
     "g": 0,
     "steps": [
-     9
+     9,
+     10
     ]
    },
    {
     "g": 1,
     "steps": [
-     10
+     11
     ]
    },
    {
     "g": 2,
     "steps": [
-     11
+     12
     ]
-   },
-   {
-    "s": 12
-   },
-   {
-    "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
    }
   ]
  },
  "reassembly": [
-  "Tabs or lever: the barrel back into the slide, then the recoil spring and guide rod back under it, the same way round as they came out.",
-  "Tabs or lever: the slide back onto the frame rails from the front and drawn fully back — it should glide without catching. On a lever pistol, turn the lever back up until it stops.",
-  "Pull-down trigger guard: trigger guard down, the slide fitted over the barrel from the front, drawn fully back, its rear lowered onto the frame and let run forward; then the trigger guard pushed back into place.",
-  "Work the slide several times by hand with an empty magazine in: it should run smoothly, and lock open on the empty magazine if your pistol has a slide stop.",
-  "Take the magazine out again before the function check."
+  "Barrel into the slide, then the set of recoil springs.",
+  "Check that the disassembling lever is still turned down to its disassembly position, about 100 degrees.",
+  "Run the slide onto the grip from the front, take it to its rearmost position and set it on the slide stop.",
+  "Only then turn the disassembling lever back to horizontal.",
+  "If the lever was turned to horizontal before the slide was on the slide stop, push the lever out from the right side, take the slide off and do the sequence again."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the slide: it runs fully back and returns fully forward, and it locks open on an empty magazine if your pistol has a slide stop. Any safety or decocker you can see moves through each of its positions on the empty pistol. This check never asks you to press the trigger — whether a pistol of unknown design tolerates dry firing is a question for CZ."
+ "fncheck": "Magazine out and the chamber empty. With an empty magazine inserted, pull the slide fully back: the follower should push the slide stop up and hold the slide open. Push the slide stop down and the slide should run fully forward. The disassembling lever should sit horizontal. If your DUTY is Suppressor Ready and no suppressor is fitted, cover the thread and muzzle with the muzzle cap, as CZ asks."
 }
