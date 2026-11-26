@@ -1,142 +1,306 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAP",
- "bpTemplateVersion": 1,
  "row": "fn309mrd",
  "make": "FN",
  "model": "309 MRD",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model, so this guide works from what is true of every pistol of its kind and asks you to look before it asks you to do anything. It clears the pistol, then strips it only if yours shows one of three takedown controls that come apart the same way on every pistol that has them. If yours shows none of them, the slide stays on and the pistol is cleaned locked open — that is a complete clean, not a lesser one.\n\nListed in Fieldstrip as 9mm. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? (2026)",
+ "sourceSha256": "ef9fd663b6cec0b28df04cc98a78ab9965a2d72cc9c6e3da09c169739127833b",
+ "cleanIntro": "A 9mm pistol with an internal hammer, and that decides how it comes apart: the hammer stays cocked and the trigger is not pulled. Slide locked back, takedown lever fully round, slide eased forward and off, then the recoil spring assembly and barrel lift out. FN's book stops there and reserves the rest to its Service Center or a departmental armorer. Deep Clean adds what the book takes further: the magazine and the optic mount.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
-   "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "title": "Confirm the name reads FN 309",
+   "action": "Read the marking on your pistol before anything else. This guide follows FN's book for the FN 309 series. If yours does not carry FN 309 in its name, or does not look like the pistol FN draws, stop and get the book for the pistol you have. Keep all ammunition away from the cleaning area.",
+   "box": "limit",
+   "prose": "FN's pistols look alike on a bench and do not come apart alike. FN's own words are that instructions differ by type of pistol. While you are looking, check the caliber on the part of the barrel you can see through the ejection port: FN's specifications for the 309 MRD list 9mm only.",
+   "quote": "IF YOUR FN PISTOL DOES NOT HAVE ‘FN 309’ IN ITS NAMING CONVENTION OR IF THE APPEARANCE OF THE PISOL DOES NOT CORRESPOND TO THE ILLUSTRATIONS IN THIS OWNER’S MANUAL, CONTACT YOUR DEALER, DEPARTMENT ARMORER OR FN DIRECTLY TO OBTAIN THE OWNER’S MANUAL THAT HAS BEEN WRITTEN SPECIFICALLY FOR YOUR PISTOL.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — Foreword block, PDF p.2; §3 Ammunition, p.11",
+   "warn": "DO NOT USE +P+ AMMUNITION IN THE FN 309 AS IT COULD RESULT IN SERIOUS INJURY OR DEATH.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out first, then the slide",
-   "action": "Press the magazine release and take the magazine out of the grip before you touch the slide. Then pull the slide fully back and lock it open on the slide stop if your pistol has one; if it will not lock, hold it back. The order is the whole point: working the slide with a magazine still in puts a fresh round in the chamber, and that is the classic way an empty pistol stops being empty.",
+   "title": "Muzzle safe, manual safety on if yours has one",
+   "action": "Point the muzzle in a safe direction and keep your fingers off the trigger. Look near the rear of the frame: if there are safety levers, move them up to the engaged position. If there are none, your FN 309 has no manual safety and there is nothing to set.",
    "box": "none",
-   "prose": "If the magazine will not come out, stop and contact FN, with the pistol pointed somewhere safe."
+   "prose": "FN builds the 309 with and without the levers and one book covers both. Do not judge the safety by the red dot alone: FN warns it can be obscured or damaged. The levers cannot be engaged when the trigger is in its fired, rearward position, so do not force one that will not go up.",
+   "quote": "When the safety levers are moved to the up position, the safety is engaged and blocks the movement of the actuator and trigger assembly",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §9.2 Manual safety, p.28; §6.3 Unloading, p.20",
+   "warn": "NOTICE! THE SAFETY OF THE FN 309 CANNOT BE ENGAGED WHEN THE TRIGGER IS IN THE FIRED (REARWARD) POSITION.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and down into the empty magazine well, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Magazine out, and pull it if it sticks",
+   "action": "Press the magazine release and take the magazine out. If it does not drop free, keep the release pressed and pull on the magazine base plate.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact FN with the gun pointed somewhere safe."
+   "prose": "The magazine comes out before the slide moves. With it still seated, closing the slide chambers a cartridge. FN calls taking it out vital for exactly that reason. Put it down away from the bench.",
+   "quote": "1. Press the magazine release and remove the magazine. If the magazine does not drop out of the pistol, pull on the magazine base plate while pressing the magazine release (Figure 11).",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §6.3 Unloading, step 1, p.20"
+  },
+  {
+   "phase": "Clear",
+   "title": "Rack the chamber and lock the slide open",
+   "action": "Pull the slide all the way back so any cartridge in the chamber is ejected. Press the slide stop up and let the slide rest against it so it stays open.",
+   "box": "none",
+   "prose": "Make it one full stroke. The slide resting on the stop is what keeps the chamber in view for the next check, so see that it is really held before you let go.",
+   "quote": "2. If the slide is closed, pull the slide back and eject the cartridge from the chamber. Lock the slide to the rear by pressing the slide stop up, allowing the slide to rest against the slide stop, retaining it to the rear (Figure 12).",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §6.3 Unloading, step 2, p.21"
+  },
+  {
+   "phase": "Clear",
+   "title": "Chamber and magazine well, by eye and by finger",
+   "action": "With the slide locked open, look into the chamber and down into the magazine well, then feel the chamber with a fingertip. Both must be empty. Make sure the magazine is empty too.",
+   "box": "none",
+   "prose": "The 309 has a viewport in the barrel hood that shows the rear of a chambered case, and California-compliant models add a loaded chamber indicator. FN warns against relying solely on the indicator. California-compliant models also have a magazine disconnect; FN says never to rely on that either, because a round may still be in the chamber with the magazine out.",
+   "quote": "3. Inspect the chamber and magazine well to ensure no cartridge is present. Remember, merely removing the magazine does not mean the chamber is unloaded (Figure 13).",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §6.3 Unloading, step 3, p.21; §§9.5–9.7, pp.30–31",
+   "warn": "A ROUND MAY STILL BE IN THE CHAMBER EVEN WHEN THE MAGAZINE IS REMOVED.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Which takedown does yours have? Look before you touch",
-   "action": "With the pistol empty and the slide locked open, look at the frame just above the trigger. One of three things decides your next step: two small serrated tabs, one on each side of the frame just above the front of the trigger guard; a single lever on the left side of the frame, made to rotate; or a trigger guard whose front end is made to pull down away from the frame. Follow only the step written for what you see, and skip the other two.",
+   "title": "Safety down for the takedown, slide still locked back",
+   "action": "If your pistol has the manual safety, move the levers down now that the chamber is proven empty. Check that the slide is still locked fully to the rear on the slide stop. Put eye protection on.",
    "box": "none",
-   "prose": "⛔ If you see none of these, more than one, or you are not sure, this is where your strip ends: leave the slide on and go straight to the cleaning steps, which work with the pistol locked open. Never press a trigger, push on a pin or press a button to find out how a pistol comes apart."
+   "prose": "Disassembly is one of the two times FN says to disengage the safety; the other is when you are ready to fire. The slide has to be held back before the takedown lever is turned, so if it has crept off the stop, run it back again.",
+   "quote": "2. Retract the slide and lock it in its rearward position using the slide stop (Figure 36).",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.1 Fieldstrip, step 2, p.33; §9.2 Manual safety, p.28",
+   "warn": "WEAR EYE PROTECTION WHEN DISASSEMBLING, ASSEMBLING AND CLEANING YOUR PISTOL AND MAGAZINE TO PREVENT SPRING-LOADED PARTS, SOLVENTS OR OTHER AGENTS FROM CONTACTING YOUR EYES, RESULTING IN INJURY.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Two tabs: release the striker, then slide forward off the frame",
-   "action": "Only if your pistol has the two takedown tabs. Let the slide run forward, point the muzzle at a safe backstop, and press the trigger once — on pistols built this way the striker has to be released before the slide will come off, and you will hear it click. Then grip the pistol so your fingers draw the slide back a few millimetres, pull both tabs down with your other hand and hold them there, and let the slide run forward off the front of the frame.",
-   "box": "none",
-   "prose": "⛔ Only after the chamber has been proven empty twice. If yours is a rimfire (.22) pistol, do not press the trigger: stop here and clean it with the slide on. If the slide will not move forward with both tabs held down, let go and stop — never force it."
+   "title": "Leave the hammer cocked: no trigger press",
+   "action": "Do not pull the trigger at any point in this strip. If it has already been pulled, work the slide to recock the hammer, then lock the slide back again before you go on.",
+   "box": "limit",
+   "prose": "The hammer is inside the frame, so there is nothing to look at. The tell is a slide that will not come off the frame: that means the hammer is down, and it needs recocking, not a harder pull.",
+   "quote": "If the trigger has been pulled, the slide assembly cannot be removed from the frame assembly. The hammer will need to be recocked in order to facilitate teardown.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.1 Fieldstrip, note, p.34"
   },
   {
    "phase": "Strip",
-   "title": "A takedown lever: turn it down, then ease the slide off",
-   "action": "Only if your pistol has a takedown lever. Rotate the lever down until it stops, usually about a quarter turn. Some pistols let it turn with the slide locked open and others only with the slide forward, and some also have a small button on the right side of the frame that has to be held in while the lever turns. Once it has turned, hold the slide, let it run forward under control, and ease it off the front of the frame.",
+   "title": "Takedown lever all the way round, clockwise",
+   "action": "With the slide locked back, turn the takedown lever on the left side of the frame clockwise until it will not go any further.",
    "box": "none",
-   "prose": "⛔ If the lever will not turn by hand either way, stop here and clean the pistol with the slide on. Never use a tool on the lever, and never press the trigger to make it move."
+   "prose": "FN's word is fully. Part way is the mistake to avoid: let it stop on its own before you release the slide. If it resists, see that the slide is locked all the way back before you put more force on it.",
+   "quote": "3. Fully rotate the takedown lever clockwise (Figure 37).",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.1 Fieldstrip, step 3, p.33"
   },
   {
    "phase": "Strip",
-   "title": "A pull-down trigger guard: slide back, up and off",
-   "action": "Only if the front of your trigger guard pulls down. Pull the front of the trigger guard down; on most pistols built this way it then tips a little to one side and rests against the frame, holding itself open. Draw the slide all the way back, lift its rear end up off the frame, and ease it forward off the barrel. The barrel stays fixed to the frame and the recoil spring stays on the barrel — on this pattern neither is taken out.",
+   "title": "Ease the slide forward under your hand",
+   "action": "Hold the slide with one hand, release it from the slide stop and let it come forward slowly, under control.",
    "box": "none",
-   "prose": "Push the trigger guard back into place once the slide is off, so it cannot catch on anything while you clean."
+   "prose": "The recoil spring is driving the slide, so your grip does the braking. Keep your fingers clear of the ejection port and the muzzle while it moves.",
+   "quote": "4. While holding the slide with one hand, release the slide from the slide stop and ease it forward (Figure 38).",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.1 Fieldstrip, step 4, p.33"
   },
   {
    "phase": "Strip",
-   "title": "Tabs or lever: spring and barrel out of the slide",
-   "action": "Turn the slide upside down. The recoil spring and its guide rod sit under the barrel and are still under some pressure: push the guide rod gently forward, lift its rear end clear of the barrel, and let it out slowly under your thumb. Note which way round it sat — which end faced the barrel — because it goes back the same way. Then lift the barrel out by its chamber end.",
+   "title": "Slide forward and off the frame",
+   "action": "Pull the slide forward and away from the frame. The barrel and recoil spring assembly come with it.",
    "box": "none",
-   "prose": "A pull-down trigger guard pistol skips this step: its barrel stays where it is."
+   "prose": "If it stops and will not clear the frame, do not lever it. Recock the hammer by working the slide, go back to the takedown lever, and try again.",
+   "quote": "5. Remove the slide by pulling it forward and away from the frame (Figure 39).",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.1 Fieldstrip, step 5, p.33"
   },
   {
    "phase": "Strip",
-   "title": "That is the whole strip",
-   "action": "Nothing else comes apart. The firing pin or striker, the extractor, the sights and everything inside the frame stay exactly as they are — on a pistol with no published procedure, those are work for FN. Lay the parts out in the order they came off, on a clean cloth, away from the edge of the bench.",
+   "title": "Recoil spring assembly up and out",
+   "action": "Turn the slide upside down, take hold of the recoil spring assembly and lift it up and out of the slide.",
    "box": "none",
-   "prose": "If any part came loose that this guide did not ask for, stop and contact FN before you put the pistol back together."
+   "prose": "Look at its ends before you put it down. The small, rounded end sits in the front of the slide and the large, flat end sits against the barrel lug, and it goes back the same way.",
+   "quote": "6. Hold the slide upside down, grasp the recoil spring assembly and lift it up and out of the slide (Figure 40).",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.1 Fieldstrip, step 6, p.34"
+  },
+  {
+   "phase": "Strip",
+   "title": "Barrel up, around the extractor, then back",
+   "action": "Take the barrel by its lug. Lift it up and around the extractor, then slide it rearward out of the slide.",
+   "box": "none",
+   "prose": "It is lift first, then back. Pulling it straight to the rear runs it into the extractor, which is why FN tells you to go around.",
+   "quote": "7. Grasp the barrel by its lug, lift up and around the extractor and slide the barrel rearward out of the slide (Figure 41).",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.1 Fieldstrip, step 7, p.34"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Four pieces on the bench: frame, slide, barrel and recoil spring assembly. FN says this is enough for a thorough cleaning. Deep Clean covers the magazine and the optic mount.",
+   "box": "none",
+   "prose": "Anything past this point and past the magazine belongs to FN's Service Center or a departmental armorer. Leave the parts inside the slide and frame where they are.",
+   "quote": "NOTE: This level of disassembly is sufficient to perform a thorough cleaning of the pistol.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.1 Fieldstrip, closing note, p.34",
+   "warn": "Disassembly beyond the instructions provided in this manual should only be carried out by the FN Service Center or a departmental armorer.",
+   "warnSrc": "maker",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the chamber end whenever you can",
-   "action": "With the barrel out, push a brush wet with bore solvent through from the chamber end, a few passes, then dry patches until they come out clean. If your barrel stayed in, lock the slide open and feed a pull-through cord in at the chamber through the ejection port, or work from the muzzle with a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
-   "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "title": "Bore: solvent, then patches from the chamber end",
+   "action": "Brush or spray solvent inside the barrel and give it a few minutes to work. Then run a correctly sized rod, brush, jag and patches until the patches come out clean. Finish with a patch moistened with preservative oil.",
+   "box": "limit",
+   "prose": "Clean from the chamber end only, so nothing rubs the muzzle. If the solvent's own instructions differ, FN says to follow those. The oil film is for storage: wipe it out of the bore before you shoot.",
+   "quote": "NOTE: Be careful not to scratch or damage the muzzle as this can affect accuracy. It is recommended to only clean the barrel from the chamber end.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §12.2, steps 3–5, pp.45–46; §3 Ammunition, p.12",
+   "warn": "LEAD BULLETS HAVE A TENDENCY TO CAUSE BORE LEADING, WHICH MAY DRAMATICALLY INCREASE PRESSURE WHEN A MORE RIGID BULLET DESIGN IS FIRED IN THE LEADED BORE. BE SURE TO REMOVE ALL CHAMBER AND BORE LEAD ACCUMULATION AFTER EACH USE.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
-   "title": "Breech face, rails and the feed ramp",
-   "action": "Wipe the breech face — the flat at the back of the slide where the cartridge sits — and the slide's rails and the frame's rails with a cloth and a little solvent, using a small nylon brush on the carbon. Wipe the feed ramp at the bottom of the chamber mouth until it is smooth and bright. Use solvent sparingly and keep it out of the frame's internals and the firing-pin hole: what runs in there cannot be wiped back out.",
-   "box": "none"
+   "title": "Carbon off the slide, barrel and extractor",
+   "action": "With a brush and solvent, or a multipurpose gun-cleaning lubricant, take the carbon off the slide, the barrel, the extractor and anywhere else residue gathers. Keep solvent off the polymer.",
+   "box": "none",
+   "prose": "Use the brush, not a bath. FN says never to soak the pistol in solvent or lubricant, because it can damage it or make it malfunction.",
+   "quote": "6. Use a brush and solvent or multipurpose gun-cleaning lubricant to remove carbon deposits and other fouling from the slide, barrel, extractor and other areas that accumulate residue from firing.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §12.2, step 6, p.46; §12, p.43; §12.2, step 3 note, p.45",
+   "warn": "NOTE: Never soak your firearm in solvents or lubricants. This could cause damage to the pistol or cause the pistol to malfunction.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clean",
-   "title": "Oil lightly where metal slides on metal",
-   "action": "A thin film of gun oil goes on the slide rails, the frame rails, the outside of the barrel where it rubs the slide, and the barrel's locking surfaces. A drop is enough on each; wipe off anything that runs. No oil goes into the firing-pin hole or into the frame from the outside.",
+   "title": "Magazine well and the rest of the frame",
+   "action": "Wipe debris out of the magazine well with a soft cloth or rag, with a little multipurpose lubricant if it needs it. Clean every other part you can reach with a cloth dampened with lightweight gun oil, and a nylon brush where the fouling holds on.",
    "box": "none",
-   "prose": "Too much oil collects grit and, in the cold, slows the parts it was meant to help."
+   "prose": "Reach is the limit here. What the cloth and brush cannot get to with the pistol field stripped is not yours to open. If it was exposed to bad conditions and needs more than this, FN's answer is its Service Center or a departmental armorer.",
+   "quote": "7. Use a soft cloth or a rag, and multipurpose lubricant, if necessary, to remove debris from the magazine well of the frame.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §12.2, steps 7–8 and closing note, p.46"
+  },
+  {
+   "phase": "Clean",
+   "title": "A drop at each of FN's points",
+   "action": "Wipe a light film of gun oil over the outside metal with a soft cloth. Then one drop at each point in FN's lubrication figure: the slide's rail cuts on both sides, the cartridge guide, the top inside of the slide and the inside of its muzzle hole; the frame's slide rails on both sides front and rear, the unlock block, and the trigger pin and spring; the barrel a quarter inch (6mm) back from the muzzle, and its unlock surface.",
+   "box": "limit",
+   "prose": "The preferred oil FN names for this pistol is CLP MILPRF-63460F. A drop means a drop: too much interferes with how the pistol runs. The book's text calls the figure number 63, but the lubrication drawing is printed as Figure 60.",
+   "quote": "NOTE: Do not use too much lubricant as it can interfere with the function of the pistol.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §12, p.43; §12.2, steps 10–11, p.46; Figure 60, p.45"
   },
   {
    "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the slide, the frame and the barrel for cracks, the recoil spring for kinks or a broken coil, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for FN.",
-   "box": "none",
-   "prose": "Any one of these means the gun is not fired until FN has seen it."
+   "title": "Look the parts over before they go back",
+   "action": "Check every part you took off for wear or damage, and look through the barrel to see that nothing is left in it. If you doubt a part, ask FN's Service Center or a departmental armorer before the pistol is fired.",
+   "box": "limit",
+   "prose": "A patch or a bit of brush left in the bore is an obstruction. FN warns that it only takes a small one to raise pressure to a dangerous level.",
+   "quote": "9. Check the disassembled parts of the pistol for signs of wear and/or damage. In case of doubt about the condition of a part, consult the FN Service Center or your departmental armorer.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §12.2, step 9, p.46; §2 rule 12, p.9"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the FN 309 MRD, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to FN, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Deep Clean",
+   "title": "Empty the magazine",
+   "action": "Start with the pistol unloaded and the magazine out of it. Push each top cartridge forward by its rim and slide it out from under the feed lips until the magazine is empty. Put the cartridges away from the bench.",
+   "box": "none",
+   "prose": "The holes in the magazine body show how many rounds are left, but the follower at the top with nothing on it is what tells you it is empty. Do every magazine you mean to clean before you take the first one apart.",
+   "quote": "3. Strip the top cartridge from the magazine by pushing forward on the rim of the cartridge and sliding the cartridge out from under the feed lips.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §6.4 Unloading the magazine, step 3, p.22"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Magazine floorplate off, spring under control",
+   "action": "Put eye protection on and point the bottom of the magazine in a safe direction. Depress the floorplate and, while you hold it down, slide it rearward off the magazine body.",
+   "box": "none",
+   "prose": "The spring is pushing on that plate. Keep a hand over it as it comes off and let the spring out slowly.",
+   "quote": "2. While depressing the floorplate, slide it rearward to remove it from the magazine body (Figure 48).",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.3 Magazine disassembly, steps 1–2, pp.36–37",
+   "warn": "CAUTION: THE MAGAZINE SPRING IS UNDER TENSION. WEAR EYE PROTECTION AND KEEP THE BOTTOM OF THE MAGAZINE POINTED IN A SAFE DIRECTION WHEN DISASSEMBLING IT.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Spring and follower out, and stop there",
+   "action": "Take the magazine spring and the follower out of the body. Note which way the follower sits on the spring. That is as far as the magazine comes apart.",
+   "box": "none",
+   "prose": "FN prints the same limit here as for the pistol: this is enough for a thorough cleaning, and anything further is for its Service Center or a departmental armorer.",
+   "quote": "3. Remove the magazine spring and follower from the magazine body (Figure 49).",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.3 Magazine disassembly, step 3 and note, p.37"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Clean the magazine parts",
+   "action": "Wipe the body, spring, follower and floorplate with a soft cloth or rag dampened with lightweight gun oil or multipurpose lubricant. Use a nylon brush where the fouling holds on, then wipe off what is left.",
+   "box": "none",
+   "prose": "The same standing note covers the magazine: never soak it, and do not leave more lubricant than it needs.",
+   "quote": "8. Clean all of the parts of the pistol and magazine that are accessible using a soft cloth or rag dampened with a lightweight gun oil or multipurpose lubricant and nylon brush, if needed, to remove the fouling and debris accumulated during firing",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §12.2, step 8, p.46"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Magazine back together",
+   "action": "Put the follower on the spring. Slide both into the body with the follower's angle matched to the top of the magazine. Use the floorplate to press the spring into the body, slide the plate on until it is fully seated, let the pressure off, then tap the back of the plate against your palm.",
+   "box": "none",
+   "prose": "A follower turned the wrong way is the mistake here: match its angle to the feed lips before you press anything. The tap is FN's check that the plate is all the way home.",
+   "quote": "Tap back of the magazine floor plate against the palm of your hand to ensure it is fully seated onto the magazine body.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.4 Magazine reassembly, steps 1–5, pp.37–38"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "The magazine release stays in",
+   "action": "Leave the magazine release and its spring in the frame. Press the release and see that it moves freely; that is all the cleaning asks of it.",
+   "box": "none",
+   "prose": "FN prints how to take the release out, but only to swap it from one side to the other, and warns that pulling the spring out of the frame makes reassembly more difficult.",
+   "quote": "NOTE: the magazine release does not need to be removed for normal cleaning and maintenance.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.5 Removing the magazine release, pp.38–39"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "Under the slide cap or optic",
+   "action": "If you take the slide cap or optic off, have the pistol unloaded. Back the two screws out counterclockwise with the T10 Torx wrench, lift it off, and inspect and clean the mounting surface on top of the slide. Before it goes back, remove all lubricant from the screws and their holes. Start both screws, then tighten them clockwise; FN's torque figure is 8 to 10 inch-pounds.",
+   "box": "none",
+   "prose": "Leave it alone if it does not need to come off: FN's cleaning section does not ask for it. Use only the FN-supplied screws, which must not stand more than 0.100 inch (2.5mm) below the optic's mating surface. FN allows thread locker but says it can make the cap hard to remove. Confirm the zero every time an optic has been off.",
+   "quote": "5. Remove all lubrication from the mounting screws and the optic mounting screw holes.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §11.7 Optics mounting system, steps 1–7 and notes, pp.40–41; §9.9, p.32",
+   "warn": "NOTE: It is imperative to use the correct FN-supplied screws and only the correct FN-supplied screws.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Deep Clean",
+   "title": "No further: the rest is FN's",
+   "action": "Take nothing else apart. Do not alter the trigger, the safety or any part of the firing mechanism. If the pistol needs more cleaning than this after bad conditions, send it to the FN Service Center or take it to a departmental armorer.",
+   "box": "none",
+   "prose": "The slide's and frame's inner parts appear only as drawings in FN's parts list, with no procedure for taking them out.",
+   "quote": "NOTE: If the pistol requires additional cleaning due to exposure to adverse conditions, it should be serviced by the FN Service Center or your departmental armorer.",
+   "cite": "FN 309™ AUTOLOADING PISTOL OWNER'S MANUAL — 2025_12 FN 309 MRD OM 66-101??? — §12.2 closing note, p.46; §2 rule 9, p.7",
+   "warn": "DO NOT, UNDER ANY CIRCUMSTANCES, ALTER THE TRIGGER, SAFETY OR OTHER PARTS OF THE FIRING MECHANISM OF THIS OR ANY OTHER FIREARM.",
+   "warnSrc": "maker"
+  }
+ ],
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BARREL & BORE",
    "tasks": [
-    "Brush wet with bore solvent, from the chamber end whenever the barrel is out",
-    "Dry patches until clean, then a lightly oiled patch for storage",
-    "A dry patch through before the next shot"
+    "Solvent into the bore by brush or spray, a few minutes to work",
+    "Rod, brush, jag and patches until they come out clean, from the chamber end only",
+    "All lead out of the chamber and bore after each use",
+    "A patch moistened with preservative oil for storage",
+    "Wipe the bore dry before the next time you shoot"
    ]
   },
   {
-   "name": "BREECH, RAILS & FEED RAMP",
+   "name": "SLIDE, EXTRACTOR & FRAME",
    "tasks": [
-    "Breech face wiped, carbon off with a nylon brush",
-    "Slide rails and frame rails wiped",
-    "Feed ramp wiped smooth and bright",
-    "⛔ No solvent or oil into the firing-pin hole or the frame's internals"
+    "Carbon off the slide, the outside of the barrel and the extractor with brush and solvent",
+    "Debris out of the magazine well with a soft cloth or rag",
+    "Every other part you can reach, with a cloth dampened with lightweight gun oil",
+    "⛔ Never soak the pistol, and keep solvent off the polymer"
    ]
   },
   {
    "name": "LUBRICATION",
    "tasks": [
-    "A thin film on the slide rails and the frame rails",
-    "A drop on the barrel where it rubs the slide, and on its locking surfaces",
-    "Excess wiped off"
+    "Light film of gun oil on the outside metal surfaces",
+    "One drop on the slide's rail cuts, cartridge guide, top inside and muzzle hole",
+    "One drop on the frame's slide rails front and rear, the unlock block, and the trigger pin and spring",
+    "One drop on the barrel a quarter inch (6mm) from the muzzle and on its unlock surface",
+    "Outside wiped clean of dirt, fingerprints and excess lubricant once it is back together"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "HOW OFTEN",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Clean and lubricate after every use, or every 500 rounds in intensive shooting",
+    "Sooner after dirt, moisture, salt, sand or excessively dirty ammunition",
+    "Before first use, to take the factory preservative off",
+    "After prolonged storage, before shooting"
    ]
   }
  ],
@@ -145,40 +309,38 @@
    {
     "g": 0,
     "steps": [
-     9
+     13
     ]
    },
    {
     "g": 1,
     "steps": [
-     10
+     14,
+     15
     ]
    },
    {
     "g": 2,
     "steps": [
-     11
+     16
     ]
    },
    {
-    "s": 12
+    "s": 17
    },
    {
     "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
     "steps": []
    }
   ]
  },
  "reassembly": [
-  "Tabs or lever: the barrel back into the slide, then the recoil spring and guide rod back under it, the same way round as they came out.",
-  "Tabs or lever: the slide back onto the frame rails from the front and drawn fully back — it should glide without catching. On a lever pistol, turn the lever back up until it stops.",
-  "Pull-down trigger guard: trigger guard down, the slide fitted over the barrel from the front, drawn fully back, its rear lowered onto the frame and let run forward; then the trigger guard pushed back into place.",
-  "Work the slide several times by hand with an empty magazine in: it should run smoothly, and lock open on the empty magazine if your pistol has a slide stop.",
-  "Take the magazine out again before the function check."
+  "Barrel into the slide: hold it by the lug, put the muzzle through the barrel hole from the inside, let the barrel drop down, and slide it back to the breech face until it drops into the locked position.",
+  "Recoil spring assembly: small, rounded end against the recess in the front of the slide, compress it, and slide the large, flat end onto the recess on the front face of the barrel lug.",
+  "Guide the slide and barrel assembly onto the frame, pull the slide all the way back and lock it on the slide stop.",
+  "Turn the takedown lever up, counterclockwise, to lock the frame and slide together.",
+  "Release the slide and let it travel forward.",
+  "If an optic came off, confirm its zero before you rely on it."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the slide: it runs fully back and returns fully forward, and it locks open on an empty magazine if your pistol has a slide stop. Any safety or decocker you can see moves through each of its positions on the empty pistol. This check never asks you to press the trigger — whether a pistol of unknown design tolerates dry firing is a question for FN."
+ "fncheck": "With the pistol unloaded and no ammunition anywhere near the bench — FN says never to test the mechanical function with live ammunition — check what FN lists: the slide stop, the trigger, the magazine release and, if fitted, the manual safety. The slide should lock back on the slide stop and run forward when it is released. An empty magazine should seat, and come out when the release is pressed. The safety levers should snap into each position; they will not engage while the trigger is in its fired, rearward position. FN accepts occasional dry firing, so a single trigger press on the proven-empty pistol, muzzle in a safe direction, is within its book; regular dry firing can damage the firing pin. On a California-compliant model the magazine disconnect keeps the pistol from firing with the magazine out."
 }

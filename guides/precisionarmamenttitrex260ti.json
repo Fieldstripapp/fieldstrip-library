@@ -1,178 +1,268 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of suppressor. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never disassemble a suppressor unless its maker documents it.",
- "bpClass": "BP-SUP-SC",
- "bpTemplateVersion": 1,
  "row": "precisionarmamenttitrex260ti",
  "make": "Precision Armament",
  "model": "TiTrex 260Ti",
- "cleanIntro": "No maker procedure exists for the Precision Armament TiTrex 260Ti, so this guide treats it as a sealed can: nothing on it is opened, unscrewed or taken apart, whatever it looks like. Everything an owner can do safely is on the outside — take it off the host correctly, keep the mount and threads free of carbon, check that it is tight, look for the signs of trouble, store it dry, and know when it has to go back to Precision Armament.\n\nListed in Fieldstrip as 6.5mm. The caliber rating marked on the can itself is the limit — not this guide, and not the listing.",
+ "sourcedFrom": "TiTrex User Installation & Maintenance Manual (2026 (copyright line, printed p.14))",
+ "sourceSha256": "8ea3211e90c19a6694a92d1f0af596cf2cd3993aa4337b543f0ad21474a89d73",
+ "cleanIntro": "The TiTrex 260Ti is the 6.5 mm titanium-core TiTrex, and Precision Armament's own TiTrex installation and maintenance manual covers it. The can is three pieces an owner handles: the 3D-printed core inside its serialized XBand housing, the mount threaded onto the rear, and the Universal Front Cap or K-Brake threaded onto the front, with two Universal Wrenches in the box for assembly and disassembly. Precision Armament calls the core largely self-cleaning on centerfire and asks mainly that the thread interfaces be kept clean. The core itself is never opened: when it is worn or damaged it goes back to the factory and is exchanged whole. The book's rating sentence describes the TiTrex line as a whole; the 260Ti is the 6.5 mm bore, and the caliber marked on your can is the limit.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Host unloaded and the action open before the can moves",
-   "action": "Unload the host firearm, open the action and look: chamber empty, magazine out or empty. Keep the muzzle pointed somewhere safe the whole time the can is coming off — your hand is about to be in front of it.",
+   "title": "Unloaded, action open, before the can is touched",
+   "action": "Unload the host, open the action, look in the chamber and take out any magazine before the suppressor is attached or removed. Precision Armament puts this first in its book and repeats it at the head of both the mounting and the removal pages. If you are unsure how to clear the host, its own maker's manual is the authority.",
    "box": "none",
-   "prose": "This guide is for the suppressor, not the firearm. Clear the host the way the host's own manual describes."
+   "prose": "Every removal on this can is wrench work right in front of the muzzle.",
+   "quote": "Verify the firearm is unloaded and the action is open before attaching or removing the suppressor.",
+   "cite": "TiTrex User Installation & Maintenance Manual — WARNING & SAFETY INFORMATION, p.2",
+   "warn": "Chamber checked by eye, magazine out, action open.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
-   "title": "Let it cool before a bare hand goes near it",
-   "action": "A suppressor stays hot long after the barrel feels warm, hot enough to burn through an ordinary glove. Wait until it is cool to the touch, or handle it only in heat-resistant gloves, and set it down on something that cannot burn or melt.",
+   "title": "Let it cool, or wear heat-resistant gloves",
+   "action": "The TiTrex soaks up a lot of heat while firing and stays hot well after. Give it time to cool, or handle it only in heat-resistant gloves, and set it down on something that cannot burn or melt.",
    "box": "none",
-   "prose": "⛔ Never cool a hot can with water, solvent or compressed air."
+   "prose": "The book repeats this on the removal page.",
+   "quote": "Allow adequate time for cooling, or wear heat-resistant gloves to avoid burns.",
+   "cite": "TiTrex User Installation & Maintenance Manual — ASSEMBLY INSTRUCTIONS, removing the suppressor, p.8",
+   "warn": "Hot cans burn. Wait, or wear heat-resistant gloves.",
+   "warnSrc": "ours"
+  },
+  {
+   "phase": "Clear",
+   "title": "No exposed-lead ammunition through it",
+   "action": "Precision Armament bars unjacketed and exposed-lead bullets from this can: lead deposits cannot be cleaned out of it and may permanently affect its performance. Know what has been fired through it before you clean, and keep lead bullets out of it from here on.",
+   "box": "limit",
+   "prose": "No cleaning method in the book removes lead, so the only cure is never to fire it.",
+   "quote": "Do not use ammunition with unjacketed or exposed lead bullets.",
+   "cite": "TiTrex User Installation & Maintenance Manual — AMMUNITION GUIDELINES, p.3",
+   "warn": "Jacketed bullets only.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
-   "title": "Off the host — and that is the whole strip",
-   "action": "Take it off the way it went on. On ordinary right-hand threads a can screwed straight onto the barrel turns counter-clockwise, seen from behind the gun, to come off. A quick-detach can releases its latch or collar first, then comes off the muzzle device. If carbon has it stuck, use steady hand pressure or a strap wrench on the tube — never pliers, a pipe wrench or a vice, which can crush the tube.",
+   "title": "Support the rifle",
+   "action": "Put the rifle in a stable rest or brace it so it cannot shift while you work. Breaking the can free takes a wrench and real force, and a rifle that moves under it drags the muzzle somewhere you did not mean.",
+   "box": "limit",
+   "prose": "This is the book's first removal step.",
+   "quote": "Place the rifle in a stable rest or brace it securely so it cannot shift while you remove the suppressor.",
+   "cite": "TiTrex User Installation & Maintenance Manual — ASSEMBLY INSTRUCTIONS, removing the suppressor, item 1, p.8"
+  },
+  {
+   "phase": "Strip",
+   "title": "Break it free with the wrench on the mount slots",
+   "action": "Put one of the Universal Wrenches on the wrench slots of the mount and break the suppressor free from the barrel. The wrench goes on the mount, not on the suppressor body: Precision Armament warns that a wrench on the body can unscrew the core from the mount and leave the mount stuck on the barrel.",
    "box": "none",
-   "prose": "⛔ Nothing else comes off. The mount, the end caps and whatever is inside stay exactly as they are: this guide carries no procedure from Precision Armament for this can, and a suppressor is never opened without its maker's. If it will not come off the host, stop and contact Precision Armament."
+   "prose": "Feel for the joint at the barrel letting go, not the core turning on the mount.",
+   "quote": "Place the wrench on the mount wrench slots to break the suppressor free from the barrel.",
+   "cite": "TiTrex User Installation & Maintenance Manual — ASSEMBLY INSTRUCTIONS, removing the suppressor, item 2, p.8",
+   "warn": "Wrench on the mount slots, never on the body.",
+   "warnSrc": "ours"
+  },
+  {
+   "phase": "Strip",
+   "title": "Unscrew it by hand",
+   "action": "Once the mount is loose, unscrew the whole suppressor assembly from the barrel by hand, carefully, keeping it square so the threads are not dragged. The mount and the front cap or brake stay on the core for the routine clean.",
+   "box": "none",
+   "prose": "If the mount stayed on the barrel, the wrench was on the body: the mount comes off the barrel with the wrench on its slots.",
+   "quote": "Once the mount is loose, carefully unscrew the suppressor assembly by hand.",
+   "cite": "TiTrex User Installation & Maintenance Manual — ASSEMBLY INSTRUCTIONS, removing the suppressor, item 3, p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "Threads and mounting surfaces, solvent and a soft brush",
+   "action": "Clean the mount's threads and seating face and the host's muzzle threads and shoulder with a standard firearm solvent and a soft nylon or brass brush. Precision Armament asks for the thread interfaces to be kept clean regularly: carbon there is what stops the can seating tight against the shoulder.",
+   "box": "none",
+   "prose": "A soft brush, as the book says: no steel on titanium threads.",
+   "quote": "Clean mounting surfaces and threads with a standard firearm solvent and a soft nylon or brass brush.",
+   "cite": "TiTrex User Installation & Maintenance Manual — MAINTENANCE INSTRUCTIONS, item 1, p.9"
+  },
+  {
+   "phase": "Clean",
+   "title": "A brush through the bore if it needs it — never a patch",
+   "action": "Look into the can for carbon and fouling. If it needs it, pass a cleaning brush through the bore to knock the fouling loose. Never push a patch through: Precision Armament warns a patch can lodge inside and cause a catastrophic failure on the next shot.",
+   "box": "none",
+   "prose": "The book calls the core largely self-cleaning on centerfire, so often nothing is needed here.",
+   "quote": "If necessary, pass a cleaning brush (no patches) through the bore to dislodge fouling.",
+   "cite": "TiTrex User Installation & Maintenance Manual — MAINTENANCE INSTRUCTIONS, item 1, p.9",
+   "warn": "No patches through the bore.",
+   "warnSrc": "ours"
+  },
+  {
+   "phase": "Clean",
+   "title": "Wipe the outside and oil it lightly",
+   "action": "Wipe down the outside with a firearm-specific cleaner, then put on a light layer of the firearm lubricant you use. Most rust-preventive oils are safe, though Precision Armament notes they may darken or change the finish. Keep chlorinated solvents, ammonia and acids off it: they can damage titanium.",
+   "box": "none",
+   "prose": "Standard firearm cleaners and lubricants only, as the book asks.",
+   "quote": "Wipe down the exterior with a firearm-specific cleaner, and reapply a light layer of your choice of firearm lubricant.",
+   "cite": "TiTrex User Installation & Maintenance Manual — MAINTENANCE INSTRUCTIONS, item 2, p.9"
   },
   {
    "phase": "Inspect",
-   "title": "Carbon on the threads and the mount",
-   "action": "With the can off, look at the host's muzzle threads and shoulder, and at the threads or taper and the seating face of the can's mount. Hard carbon there is what stops a can seating square, and what makes one seize on or work loose. It comes off before the can goes back on — the cleaning list covers how.",
+   "title": "Nothing in the bore before it goes back on",
+   "action": "Look through the can from both ends before it goes back on the gun. Heavy fouling, a cleaning patch or anything else in the bore means it does not get fired: Precision Armament warns a blocked suppressor can be extremely dangerous.",
    "box": "none",
-   "prose": "The mount is the part of a suppressor that fails dangerously, so it gets the most attention."
+   "prose": "One clean, round circle of light, centred, is what you want to see.",
+   "quote": "Inspect the suppressor for internal obstructions such as excessive fouling, cleaning patches, or any foreign objects before firing.",
+   "cite": "TiTrex User Installation & Maintenance Manual — WARNING & SAFETY INFORMATION, p.2",
+   "warn": "Anything in the bore: do not fire it.",
+   "warnSrc": "ours"
   },
   {
-   "phase": "Inspect",
-   "title": "Look straight through it",
-   "action": "Hold the can up to a light and look through the bore from each end. You should see one clean, round circle of light, centred. Anything in the way — debris, water, a lip of metal, a torn or off-centre hole — means it does not go back on the gun.",
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The can is off the host, its thread interfaces and outside are clean, and the bore is clear. The mount and the front cap or K-Brake stayed on the core. Taking those two off to clean every TiTrex thread is the Deep Clean.",
    "box": "none",
-   "prose": "Firing into an obstruction can wreck the can and injure the shooter."
-  },
-  {
-   "phase": "Inspect",
-   "title": "The outside of the tube",
-   "action": "Turn it in your hands and look for dents, bulges, cracks, a bent end cap or any burn-through. A dent can push the inside of the can into the bullet's path.",
-   "box": "none",
-   "prose": "Damage you can see is a reason to stop and contact Precision Armament, not to keep shooting it and see."
-  },
-  {
-   "phase": "Inspect",
-   "title": "Know the signs of a baffle strike",
-   "action": "A baffle strike is a bullet touching the inside of the can. The signs: the exit hole is torn, enlarged or off-centre; there are metal shavings or a bright fresh mark at the front; it suddenly sounds different; bullets start keyholing on the target. Any one of them puts the can out of service.",
-   "box": "none",
-   "prose": "The usual causes are a can that was not seated square, a damaged or misaligned mount, or the wrong caliber through it."
-  },
-  {
-   "phase": "Inspect",
-   "title": "Listen for a new rattle",
-   "action": "Shake it gently by your ear. A new rattle, or anything you can feel shifting inside that did not before, means something has come loose. Do not fire it.",
-   "box": "none",
-   "prose": "A faint sound from carbon flakes is common. Anything you can feel moving is a job for Precision Armament."
-  },
-  {
-   "phase": "Inspect",
-   "title": "When it goes back to Precision Armament",
-   "action": "Send it to Precision Armament for inspection if: it shows any sign of a strike; it was fired with an obstruction in it or after a squib load; the tube is dented or cracked; it rattles; it will not come off the host or will not seat square, or the circle of light through it has visibly narrowed. Contact Precision Armament before you ship it — they will tell you how to send a registered suppressor back legally.",
-   "box": "none",
-   "prose": "For a can whose construction is unknown, the maker is the only way inside it."
+   "prose": "Reassembly for this path is the can back on the barrel and checked.",
+   "quote": "Care should be taken to regularly keep the suppressor thread interfaces clean.",
+   "cite": "TiTrex User Installation & Maintenance Manual — MAINTENANCE INSTRUCTIONS, p.9",
+   "branch": true
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Precision Armament TiTrex 260Ti, and this guide will not invent one. Fieldstrip does not yet have a guide built from a manual by Precision Armament for this model, so nothing about how it is built inside is known to this guide — and a can whose construction is unknown is treated as sealed. Fouling inside it, a rattle, a strike, or a can that will not come off goes to Precision Armament, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Mount and front cap off the core, with the two wrenches",
+   "action": "With the can off the host, put one Universal Wrench on the mount and the other on the front cap or K-Brake and unscrew each from the core. Every TiTrex thread is a standard right-hand thread, so each turns counter-clockwise, seen from its own end, to come off. Keep the wrenches close together so one hand can clamp them, as the book shows for tightening.",
+   "box": "none",
+   "prose": "The two wrenches in the box are supplied for exactly this.",
+   "quote": "Universal Wrenches (x2) — for proper assembly and disassembly.",
+   "cite": "TiTrex User Installation & Maintenance Manual — PRODUCT OVERVIEW, item 6, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "The core stays whole",
+   "action": "That is as far as the TiTrex comes apart. The core and its serialized XBand housing are never taken apart or altered by the owner; Precision Armament says doing so voids the warranty and service eligibility. A core that is worn or damaged goes back to Precision Armament for a whole-core exchange.",
+   "box": "limit",
+   "prose": "The core exchange is the maker's service, not a bench job.",
+   "quote": "Never attempt to remove or modify the serialized component, as this will void your warranty and service eligibility.",
+   "cite": "TiTrex User Installation & Maintenance Manual — CORE EXCHANGES AND UPGRADES, item 2, p.10",
+   "warn": "The serialized XBand stays on the core.",
+   "warnSrc": "ours"
+  },
+  {
+   "phase": "Clean",
+   "title": "Every TiTrex thread clean and free of debris",
+   "action": "Clean the threads on the core at both ends and the threads of the mount and the front cap or brake with a standard firearm solvent and a soft nylon or brass brush, until they are free of carbon and debris. The book asks for clean threads before each part goes back on.",
+   "box": "none",
+   "prose": "Clean threads are what let each joint reach its torque without galling.",
+   "quote": "Ensure threads are clean and free of debris.",
+   "cite": "TiTrex User Installation & Maintenance Manual — ASSEMBLY INSTRUCTIONS, item 1, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "The right chemistry, and good air",
+   "action": "Use standard firearm cleaners only. Precision Armament warns that chlorinated solvents, ammonia and acids can damage titanium, and that many solvents are toxic and flammable: work where the air moves, wear gloves and eye protection, and keep solvent away from heat and flame.",
+   "box": "limit",
+   "prose": "The warnings are on the book's maintenance page.",
+   "quote": "Avoid cleaners containing chlorinated solvents, ammonia, or acids, which may damage titanium.",
+   "cite": "TiTrex User Installation & Maintenance Manual — MAINTENANCE INSTRUCTIONS, p.9",
+   "warn": "No chlorinated solvents, ammonia or acids.",
+   "warnSrc": "ours"
+  },
+  {
+   "phase": "Strip",
+   "title": "Mount back on by hand",
+   "action": "Thread the mount onto the core by hand, square, taking care not to cross-thread it. Precision Armament recommends a small amount of anti-seize compound on all TiTrex threads before assembly.",
+   "box": "none",
+   "prose": "Hand tight first; the wrenches come last.",
+   "quote": "Thread the mount onto the suppressor by hand.",
+   "cite": "TiTrex User Installation & Maintenance Manual — ASSEMBLY INSTRUCTIONS, item 1, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front cap or K-Brake back on by hand",
+   "action": "Thread the Universal Front Cap or the K-Brake onto the front of the core by hand, again with clean threads and no cross-threading.",
+   "box": "none",
+   "prose": "Whichever front piece you run goes on the same way.",
+   "quote": "Thread the Universal Front Cap or K-Brake Ultracompact Suppressor Brake onto the suppressor by hand.",
+   "cite": "TiTrex User Installation & Maintenance Manual — ASSEMBLY INSTRUCTIONS, item 2, p.6"
+  },
+  {
+   "phase": "Strip",
+   "title": "Both tightened with the wrenches",
+   "action": "Once both are hand tight, use the two wrenches to bring the mount and the front cap into their final position. Precision Armament gives 25 ft-lb, plus or minus 5, for the HUB mount, so that nothing loosens in use.",
+   "box": "limit",
+   "prose": "Keep the wrenches close together so one hand can clamp them for leverage.",
+   "quote": "Apply sufficient torque (25 ±5 ft-lbs for HUB Mount) to avoid loosening during use.",
+   "cite": "TiTrex User Installation & Maintenance Manual — ASSEMBLY INSTRUCTIONS, item 3, p.6"
+  }
+ ],
  "cleaning": [
   {
-   "name": "MUZZLE THREADS & SHOULDER",
+   "name": "THREADS & MOUNTING SURFACES",
    "tasks": [
-    "Nylon or brass brush to break the carbon off the threads and the shoulder",
-    "Wipe with a cloth lightly dampened with gun solvent, then a dry cloth",
-    "Threads left clean and DRY — no oil, grease, anti-seize or thread-locker: whether this can wants any of them is a question for its maker, not something to guess"
+    "Mount threads and seating face cleaned with a standard firearm solvent and a soft nylon or brass brush",
+    "The host's muzzle threads and shoulder cleaned the same way",
+    "Thread interfaces kept clean every time: carbon there stops the can seating against the shoulder"
    ]
   },
   {
-   "name": "THE CAN'S MOUNT — FROM THE OUTSIDE",
+   "name": "BORE",
    "tasks": [
-    "Brush loose carbon off the mount's threads or taper and its seating face",
-    "A dry cloth over the mount face — nothing pushed into the can",
-    "⛔ The mount stays in the can: it does not come out"
+    "Inspected for carbon buildup and fouling",
+    "If necessary, a cleaning brush through the bore to dislodge fouling",
+    "⛔ No cleaning patches through the bore: a lodged patch can cause a catastrophic failure"
    ]
   },
   {
-   "name": "QUICK-DETACH SEAT (if yours is QD)",
+   "name": "EXTERIOR & FINISH",
    "tasks": [
-    "Brush the taper or seat on the muzzle device — carbon on it stops the can locking up square",
-    "The latch or collar moves freely by hand; if it binds, stop and contact the maker"
+    "Exterior wiped down with a firearm-specific cleaner",
+    "A light layer of firearm lubricant reapplied; rust-preventive oils may darken the finish",
+    "⛔ No cleaners containing chlorinated solvents, ammonia or acids: they may damage titanium"
    ]
   },
   {
-   "name": "OUTSIDE OF THE TUBE",
+   "name": "WHILE YOU CLEAN",
    "tasks": [
-    "Wiped down with a dry cloth",
-    "A can that got wet dries completely, standing on end, before it is stored or fired"
-   ]
-  },
-  {
-   "name": "THE BORE — NOTHING THROUGH IT",
-   "tasks": [
-    "⛔ No patch, rod or bore brush through the can — a patch can lodge inside it",
-    "⛔ No soaking, no solvent fill, no ultrasonic bath: what this can is made of and how it is sealed is unknown, and either can damage it"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored off the host, clean and dry",
-    "Never shut in a case or bag while still damp",
-    "A thread protector back on the host's muzzle",
-    "Round count kept — the maker will ask for it if the can ever goes back"
+    "A well-ventilated area: many solvents are toxic and flammable",
+    "Gloves and eye protection",
+    "Solvents kept away from heat and flames"
    ]
   }
  ],
  "cleanMap": {
   "screens": [
    {
-    "s": 3
-   },
-   {
-    "s": 4
-   },
-   {
-    "s": 5
-   },
-   {
-    "s": 6
-   },
-   {
-    "s": 7
-   },
-   {
-    "s": 8
-   },
-   {
     "g": 0,
-    "steps": []
+    "steps": [
+     6
+    ]
    },
    {
     "g": 1,
-    "steps": []
+    "steps": [
+     7
+    ]
    },
    {
     "g": 2,
-    "steps": []
+    "steps": [
+     8
+    ]
+   },
+   {
+    "s": 9
    },
    {
     "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
-   },
-   {
-    "g": 5,
     "steps": []
    }
   ]
  },
  "reassembly": [
-  "Threads on the host and in the can clean and dry before it goes back on.",
-  "Start it by hand, square to the bore — it should spin on freely. If it binds or goes on crooked, back it off and start again; never force a cross-thread.",
-  "Run it down until it seats firmly against the shoulder or the muzzle device, with no gap you can see or catch a fingernail in. ⛔ A gap means it is not seated — do not fire.",
-  "Snug it firmly by hand, or with the wrench supplied with the can if it came with one. No cheater bar, and no tool on the tube that can crush it.",
-  "Quick-detach: latch or collar fully engaged, then pull and twist the can — it must not move.",
-  "Look through it once more before the first shot."
+  "Clean every TiTrex thread, and put a small amount of anti-seize compound on each, as Precision Armament recommends.",
+  "Thread the mount onto the core by hand, square, without cross-threading.",
+  "Thread the Universal Front Cap or the K-Brake onto the front of the core by hand.",
+  "With the two Universal Wrenches, tighten the mount and the front cap into their final position: 25 ft-lb, plus or minus 5, for the HUB mount.",
+  "Host unloaded and the action open: align the can with the barrel threads and thread it on by hand without cross-threading until it is firmly seated, then use one wrench to seat it properly against the barrel shoulder. A thread-locking compound such as Rocksett may be used on the barrel threads, following its own instructions.",
+  "Check alignment with an alignment rod made for your caliber. If the can is not concentric with the bore, stop and consult a qualified gunsmith."
  ],
- "fncheck": "Host still unloaded: the can is on, seated with no gap, and does not turn when you try it by hand. Check it again at the start of every session and after the first string of fire — a can that heats and cools can work loose. One that has loosened comes off, gets inspected and goes back on clean; one that keeps loosening goes to Precision Armament."
+ "fncheck": "Before each use, the can is tight and seated against the barrel shoulder, as Precision Armament requires: a can that is not seated loses alignment and risks a baffle strike. The mount and the front cap or brake are tight on the core at the torque you set. An alignment rod for your caliber passes concentric with the bore, and the bore is clear of fouling, patches and anything else.",
+ "reassemblyRoutine": [
+  "Host unloaded and the action open: align the can with the barrel threads and thread it on by hand without cross-threading until it is firmly seated, then use one wrench to seat it properly against the barrel shoulder. A thread-locking compound such as Rocksett may be used on the barrel threads, following its own instructions.",
+  "Check alignment with an alignment rod made for your caliber. If the can is not concentric with the bore, stop and consult a qualified gunsmith."
+ ],
+ "fncheckRoutine": "Before each use, the can is tight and seated against the barrel shoulder, as Precision Armament requires: a can that is not seated loses alignment and risks a baffle strike. An alignment rod for your caliber passes concentric with the bore, and the bore is clear of fouling, patches and anything else."
 }

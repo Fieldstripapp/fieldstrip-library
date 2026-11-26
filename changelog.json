@@ -2,6 +2,50 @@
  "_doc": "One entry per published index version, newest first. `added` is the row ids whose guide first appeared at that version, so a client holding version N can ask for everything since N without a redesign.",
  "versions": [
   {
+   "version": 58,
+   "publishedAt": "2026-11-25",
+   "appCommit": "e504a4576ad881b2a6a7c67419c5a8f8fb0cca2a",
+   "counts": {
+    "catalogRows": 1299,
+    "guides": 1266,
+    "plates": 0
+   },
+   "added": [],
+   "changed": [
+    "eotechdcbl556",
+    "eotechdcbl762",
+    "eotechdcbl9pcc",
+    "fn309mrd",
+    "fnps90",
+    "huxwrxflow9m",
+    "precisionarmamenttitrex260ti",
+    "remington597",
+    "remington7400",
+    "sigsauertincan",
+    "taurusttx30",
+    "taurusttx9c",
+    "uspalmeosak"
+   ],
+   "removed": [],
+   "platesAdded": [],
+   "rowsChanged": [
+    "remington7400",
+    "remington597",
+    "fnps90",
+    "fn309mrd",
+    "huxwrxflow9m",
+    "taurusttx30",
+    "taurusttx9c",
+    "eotechdcbl556",
+    "eotechdcbl762",
+    "eotechdcbl9pcc",
+    "uspalmeosak",
+    "precisionarmamenttitrex260ti",
+    "sigsauertincan"
+   ],
+   "rowsRemoved": []
+  },
+  {
    "version": 57,
    "publishedAt": "2026-11-24",
    "appCommit": "4484a9dfaad1d19372ea613acf7174452c4acd2c",

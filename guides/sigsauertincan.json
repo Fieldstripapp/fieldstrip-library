@@ -1,178 +1,174 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of suppressor. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never disassemble a suppressor unless its maker documents it.",
- "bpClass": "BP-SUP-SC",
- "bpTemplateVersion": 1,
  "row": "sigsauertincan",
  "make": "SIG Sauer",
  "model": "TiN CAN",
- "cleanIntro": "No maker procedure exists for the SIG Sauer TiN CAN, so this guide treats it as a sealed can: nothing on it is opened, unscrewed or taken apart, whatever it looks like. Everything an owner can do safely is on the outside — take it off the host correctly, keep the mount and threads free of carbon, check that it is tight, look for the signs of trouble, store it dry, and know when it has to go back to SIG Sauer.\n\nListed in Fieldstrip as .30 cal. The caliber rating marked on the can itself is the limit — not this guide, and not the listing.",
+ "sourcedFrom": "SIG BOLT RIFLE SUPPRESSORS — OPERATOR'S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8102786-01 REV05 (2026)",
+ "sourceSha256": "5da31f9510e6fc87e7dfea4aeca0ee50a446c961d9544698f1062cee36230dbf",
+ "cleanIntro": "The TiN CAN is SIG Sauer's lightweight rifle suppressor for bolt action rifles, rated for common .30 caliber ammunition; SIG recommends using it only on bolt guns. It threads straight onto the barrel on a HUB mount that takes a 7/8-in. wrench. SIG's book is plain about the inside: the TiN CAN needs no internal cleaning, and nothing past unscrewing a HUB tapered mount from the body is authorized. So nothing in this guide opens the can. The maintenance SIG publishes is the threads, the outside of the body and an inspection, at least every 500 cartridges in normal conditions. Changing the HUB tapered mount is a configuration job in SIG's book, not part of its cleaning, and is not in this guide.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Host unloaded and the action open before the can moves",
-   "action": "Unload the host firearm, open the action and look: chamber empty, magazine out or empty. Keep the muzzle pointed somewhere safe the whole time the can is coming off — your hand is about to be in front of it.",
+   "title": "⛔ Host unloaded, chamber checked by eye AND by touch",
+   "action": "Before the can comes off, make the host rifle safe the way its own manual says: unloaded, with the chamber both looked into and felt. SIG asks for this every time a suppressor is installed, tightened or removed.",
    "box": "none",
-   "prose": "This guide is for the suppressor, not the firearm. Clear the host the way the host's own manual describes."
+   "prose": "Both hands are about to be at the muzzle. This book covers the suppressor, not the rifle; for unloading the host, SIG sends you to the host's own operator's manual.",
+   "quote": "ALWAYS ENSURE THE FIREARM IS UNLOADED AND CLEARED BY VISUALLY AND PHYSICALLY INSPECTING THE CHAMBER PRIOR TO INSTALLING, TIGHTENING, OR REMOVING A SUPPRESSOR.",
+   "cite": "SIG BOLT RIFLE SUPPRESSORS — OPERATOR'S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8102786-01 REV05 — 3.1 ATTACHING SUPPRESSOR, WARNING UNLOAD/CLEAR, p.17"
   },
   {
    "phase": "Clear",
-   "title": "Let it cool before a bare hand goes near it",
-   "action": "A suppressor stays hot long after the barrel feels warm, hot enough to burn through an ordinary glove. Wait until it is cool to the touch, or handle it only in heat-resistant gloves, and set it down on something that cannot burn or melt.",
-   "box": "none",
-   "prose": "⛔ Never cool a hot can with water, solvent or compressed air."
+   "title": "⛔ Let it cool before you touch it",
+   "action": "Keep your hands off the suppressor until it has cooled. A can that has just been shot is hot enough to burn bare skin, and it looks no different from a cold one.",
+   "box": "limit",
+   "prose": "Wait it out. Nothing in this guide is urgent enough to justify a burn.",
+   "quote": "NEVER TOUCH SUPPRESSOR WHEN HOT. FAILURE TO COMPLY MAY RESULT IN SEVERE BURNS TO UNPROTECTED SKIN.",
+   "cite": "SIG BOLT RIFLE SUPPRESSORS — OPERATOR'S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8102786-01 REV05 — 4.0 REMOVING SUPPRESSOR FROM FIREARM, WARNING HOT SURFACE, p.24",
+   "warn": "NEVER TOUCH SUPPRESSOR WHEN HOT. FAILURE TO COMPLY MAY RESULT IN SEVERE BURNS TO UNPROTECTED SKIN.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Off the host — and that is the whole strip",
-   "action": "Take it off the way it went on. On ordinary right-hand threads a can screwed straight onto the barrel turns counter-clockwise, seen from behind the gun, to come off. A quick-detach can releases its latch or collar first, then comes off the muzzle device. If carbon has it stuck, use steady hand pressure or a strap wrench on the tube — never pliers, a pipe wrench or a vice, which can crush the tube.",
+   "title": "Break it loose with a 7/8-in. wrench",
+   "action": "Hold the rifle the way SIG asks, with the proper vise and action rod, put a 7/8-in. wrench on the mount end of the suppressor and turn it counter-clockwise until it will turn by hand.",
    "box": "none",
-   "prose": "⛔ Nothing else comes off. The mount, the end caps and whatever is inside stay exactly as they are: this guide carries no procedure from SIG Sauer for this can, and a suppressor is never opened without its maker's. If it will not come off the host, stop and contact SIG Sauer."
+   "prose": "It went on torqued, so it will not start by hand. SIG warns that the wrong equipment here can damage the receiver; if you cannot hold the rifle that way, SIG's customer service will help with the removal.",
+   "caution": "ENSURE THE PROPER EQUIPMENT, VISE, AND ACTION ROD ARE USED DURING REMOVAL. FAILURE TO DO SO MAY RESULT IN DAMAGE TO THE UPPER RECEIVER.",
+   "quote": "Using a 7/8-in. wrench, loosen the suppressor until it can be turned by hand.",
+   "cite": "SIG BOLT RIFLE SUPPRESSORS — OPERATOR'S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8102786-01 REV05 — 4.0 REMOVING SUPPRESSOR FROM FIREARM, step 1, p.25"
   },
   {
-   "phase": "Inspect",
-   "title": "Carbon on the threads and the mount",
-   "action": "With the can off, look at the host's muzzle threads and shoulder, and at the threads or taper and the seating face of the can's mount. Hard carbon there is what stops a can seating square, and what makes one seize on or work loose. It comes off before the can goes back on — the cleaning list covers how.",
+   "phase": "Strip",
+   "title": "Unscrew it the rest of the way off the barrel",
+   "action": "Keep turning the suppressor counter-clockwise by hand until it comes off the barrel.",
    "box": "none",
-   "prose": "The mount is the part of a suppressor that fails dangerously, so it gets the most attention."
+   "prose": "Bring it straight off the threads rather than letting it hang on the last turn. If it gets harder to break loose from one cleaning to the next, carbon is building up between the can and the muzzle, and SIG's answer is to clean there more often.",
+   "caution": "AS CARBON BUILDS UP BETWEEN THE SUPPRESSOR AND THE MUZZLE, IT WILL BECOME PROGRESSIVELY MORE DIFFICULT TO REMOVE THE SUPPRESSOR.",
+   "quote": "Continue to unscrew the suppressor from the barrel until it can be removed.",
+   "cite": "SIG BOLT RIFLE SUPPRESSORS — OPERATOR'S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8102786-01 REV05 — 4.0 REMOVING SUPPRESSOR FROM FIREARM, step 2, p.25"
   },
   {
-   "phase": "Inspect",
-   "title": "Look straight through it",
-   "action": "Hold the can up to a light and look through the bore from each end. You should see one clean, round circle of light, centred. Anything in the way — debris, water, a lip of metal, a torn or off-centre hole — means it does not go back on the gun.",
-   "box": "none",
-   "prose": "Firing into an obstruction can wreck the can and injure the shooter."
+   "phase": "Strip",
+   "title": "⛔ That is as far as it goes: no internal cleaning, no further disassembly",
+   "action": "Nothing else comes apart for cleaning. SIG states that the TiN CAN needs no internal cleaning, and that taking it apart beyond unscrewing its HUB tapered mount is not authorized. Everything below is work on the outside of a closed can.",
+   "box": "limit",
+   "prose": "A can SIG does not want opened is not a can you have failed to open. Damage, or a suspected baffle or end cap strike, goes to SIG's customer service.",
+   "aside": "ENDURE and TINCAN suppressors do not require any internal cleaning.",
+   "quote": "FURTHER DISASSEMBLY OF THE SUPPRESSOR IS NOT AUTHORIZED. FAILURE TO COMPLY MAY DAMAGE SUPPRESSOR.",
+   "cite": "SIG BOLT RIFLE SUPPRESSORS — OPERATOR'S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8102786-01 REV05 — 6.1 REMOVAL, CAUTION, p.30"
   },
   {
-   "phase": "Inspect",
-   "title": "The outside of the tube",
-   "action": "Turn it in your hands and look for dents, bulges, cracks, a bent end cap or any burn-through. A dent can push the inside of the can into the bullet's path.",
+   "phase": "Clean",
+   "title": "Clean the suppressor's threads: nylon brush, never steel",
+   "action": "Clean any residue off the suppressor's threads. Use a nylon brush on carbon; a steel wire brush can damage the Cerakote finish.",
    "box": "none",
-   "prose": "Damage you can see is a reason to stop and contact SIG Sauer, not to keep shooting it and see."
+   "prose": "Clean threads are what let the can come off next time without a fight.",
+   "quote": "Clean the suppressor threads of any residue buildup.",
+   "cite": "SIG BOLT RIFLE SUPPRESSORS — OPERATOR'S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8102786-01 REV05 — 5.1 CLEANING, step 1, p.27",
+   "warn": "DO NOT USE A STEEL WIRE BRUSH AS IT CAN DAMAGE THE CERAKOTE FINISH OF THE SUPRESSOR. USE A NYLON BRUSH FOR REMOVING CARBON BUILDUP.",
+   "warnSrc": "maker"
   },
   {
-   "phase": "Inspect",
-   "title": "Know the signs of a baffle strike",
-   "action": "A baffle strike is a bullet touching the inside of the can. The signs: the exit hole is torn, enlarged or off-centre; there are metal shavings or a bright fresh mark at the front; it suddenly sounds different; bullets start keyholing on the target. Any one of them puts the can out of service.",
+   "phase": "Clean",
+   "title": "Wipe the body with CLP, then wipe it dry",
+   "action": "Wipe the outside of the suppressor body with a rag moistened with CLP to take off any residue, then wipe the body dry.",
    "box": "none",
-   "prose": "The usual causes are a can that was not seated square, a damaged or misaligned mount, or the wrong caliber through it."
+   "prose": "This is a wipe, not a soak. SIG cautions that solvents can harm the surface finish and against over-lubricating, and nothing goes inside the can.",
+   "quote": "Wipe the suppressor body with a rag moistened with CLP to remove any residue. Wipe the body dry.",
+   "cite": "SIG BOLT RIFLE SUPPRESSORS — OPERATOR'S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8102786-01 REV05 — 5.1 CLEANING, step 2, p.27"
   },
   {
-   "phase": "Inspect",
-   "title": "Listen for a new rattle",
-   "action": "Shake it gently by your ear. A new rattle, or anything you can feel shifting inside that did not before, means something has come loose. Do not fire it.",
-   "box": "none",
-   "prose": "A faint sound from carbon flakes is common. Anything you can feel moving is a job for SIG Sauer."
+   "phase": "Clean",
+   "title": "Clean the rifle's muzzle threads: solvent only, no CLP, no lube",
+   "action": "Clean residue off the rifle's muzzle threads with a brush and a dry cleaning solvent similar to the one SIG names (MIL-P-D-680). Put no CLP or other lubricant on the barrel threads.",
+   "box": "limit",
+   "prose": "This is the one place SIG says no to CLP: the body gets a CLP wipe, the barrel threads get solvent and go back bare. Work with eye protection on and the room ventilated.",
+   "quote": "Clean any residue buildup from the rifle's muzzle threads with a brush and a dry cleaning solvent similar to (MIL-P-D-680). Do not use CLP or any other lubricant on the barrel threads.",
+   "cite": "SIG BOLT RIFLE SUPPRESSORS — OPERATOR'S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8102786-01 REV05 — 5.1 CLEANING, step 3, p.27",
+   "warn": "READ AND FOLLOW THE MANUFACTURER’S WARNINGS BEFORE USING SOLVENTS OR CLEANERS. USE IN A WELL-VENTILATED AREA. WEAR EYE PROTECTION.",
+   "warnSrc": "maker"
   },
   {
-   "phase": "Inspect",
-   "title": "When it goes back to SIG Sauer",
-   "action": "Send it to SIG Sauer for inspection if: it shows any sign of a strike; it was fired with an obstruction in it or after a squib load; the tube is dented or cracked; it rattles; it will not come off the host or will not seat square, or the circle of light through it has visibly narrowed. Contact SIG Sauer before you ship it — they will tell you how to send a registered suppressor back legally.",
+   "phase": "Clean",
+   "title": "Inspect: threads, body, and the HUB mount secure in the body",
+   "action": "Check the rifle's muzzle threads and the HUB mount threads for damage. Check the suppressor body for damage. Make sure the HUB mount is secure in the suppressor body.",
    "box": "none",
-   "prose": "For a can whose construction is unknown, the maker is the only way inside it."
+   "prose": "If accuracy has suddenly dropped off or bullets are tumbling into the target, SIG treats that as a possible baffle or end cap strike: stop shooting, unload, check the can is tight on the barrel, and look at the end cap and body.",
+   "aside": "If there is damage or suspected damage contact customer service for repair.",
+   "quote": "Ensure the HUB mount (4) is secure in the suppressor body.",
+   "cite": "SIG BOLT RIFLE SUPPRESSORS — OPERATOR'S MANUAL: HANDLING & SAFETY INSTRUCTIONS — P/N 8102786-01 REV05 — 5.2 INSPECTION, step 3, p.28"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the SIG Sauer TiN CAN, and this guide will not invent one. Fieldstrip does not yet have a guide built from a manual by SIG Sauer for this model, so nothing about how it is built inside is known to this guide — and a can whose construction is unknown is treated as sealed. Fouling inside it, a rattle, a strike, or a can that will not come off goes to SIG Sauer, not onto the bench.",
+ "deepAbsentReason": "SIG's bolt rifle suppressor book states that ENDURE and TINCAN suppressors do not require any internal cleaning (5.1 CLEANING, printed p.27) and, after the HUB tapered mount is unscrewed from the body, that further disassembly of the suppressor is not authorized (6.1 REMOVAL, CAUTION, printed p.30). The book prints no procedure that opens the body: its maintenance is the threads, the outside of the body and an inspection (pp.26–28), which are in the routine lane above. A can with damage or a suspected baffle or end cap strike goes to SIG: the book asks the owner to contact customer service for repair (1.9 BAFFLE STRIKE, printed p.12). This listing therefore has NO deep clean.",
  "cleaning": [
   {
-   "name": "MUZZLE THREADS & SHOULDER",
+   "name": "THREADS",
    "tasks": [
-    "Nylon or brass brush to break the carbon off the threads and the shoulder",
-    "Wipe with a cloth lightly dampened with gun solvent, then a dry cloth",
-    "Threads left clean and DRY — no oil, grease, anti-seize or thread-locker: whether this can wants any of them is a question for its maker, not something to guess"
+    "Suppressor threads cleaned of residue buildup.",
+    "Rifle's muzzle threads cleaned with a brush and a dry cleaning solvent.",
+    "Never CLP or any other lubricant on the barrel threads.",
+    "⛔ Never a steel wire brush: it can damage the Cerakote finish."
    ]
   },
   {
-   "name": "THE CAN'S MOUNT — FROM THE OUTSIDE",
+   "name": "SUPPRESSOR BODY",
    "tasks": [
-    "Brush loose carbon off the mount's threads or taper and its seating face",
-    "A dry cloth over the mount face — nothing pushed into the can",
-    "⛔ The mount stays in the can: it does not come out"
+    "Body wiped with a rag moistened with CLP.",
+    "Body wiped dry.",
+    "Do not over-lubricate; solvents can harm the surface finish."
    ]
   },
   {
-   "name": "QUICK-DETACH SEAT (if yours is QD)",
+   "name": "INSPECTION",
    "tasks": [
-    "Brush the taper or seat on the muzzle device — carbon on it stops the can locking up square",
-    "The latch or collar moves freely by hand; if it binds, stop and contact the maker"
+    "Muzzle threads and HUB mount threads checked for damage.",
+    "Suppressor body checked for damage.",
+    "HUB mount secure in the suppressor body.",
+    "Damage or a suspected baffle or end cap strike: contact SIG customer service."
    ]
   },
   {
-   "name": "OUTSIDE OF THE TUBE",
+   "name": "LEAVE ALONE",
    "tasks": [
-    "Wiped down with a dry cloth",
-    "A can that got wet dries completely, standing on end, before it is stored or fired"
-   ]
-  },
-  {
-   "name": "THE BORE — NOTHING THROUGH IT",
-   "tasks": [
-    "⛔ No patch, rod or bore brush through the can — a patch can lodge inside it",
-    "⛔ No soaking, no solvent fill, no ultrasonic bath: what this can is made of and how it is sealed is unknown, and either can damage it"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored off the host, clean and dry",
-    "Never shut in a case or bag while still damp",
-    "A thread protector back on the host's muzzle",
-    "Round count kept — the maker will ask for it if the can ever goes back"
+    "⛔ No internal cleaning and no further disassembly of the suppressor.",
+    "⛔ Nothing put into the can: no water, oil, grease, wire pulling gel, ablatives or any other liquid.",
+    "⛔ No altered, added or substituted parts."
    ]
   }
  ],
  "cleanMap": {
   "screens": [
    {
-    "s": 3
-   },
-   {
-    "s": 4
-   },
-   {
-    "s": 5
-   },
-   {
-    "s": 6
-   },
-   {
-    "s": 7
-   },
-   {
-    "s": 8
-   },
-   {
     "g": 0,
-    "steps": []
+    "steps": [
+     5,
+     7
+    ]
    },
    {
     "g": 1,
-    "steps": []
+    "steps": [
+     6
+    ]
    },
    {
     "g": 2,
-    "steps": []
+    "steps": [
+     8
+    ]
    },
    {
     "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
-   },
-   {
-    "g": 5,
     "steps": []
    }
   ]
  },
  "reassembly": [
-  "Threads on the host and in the can clean and dry before it goes back on.",
-  "Start it by hand, square to the bore — it should spin on freely. If it binds or goes on crooked, back it off and start again; never force a cross-thread.",
-  "Run it down until it seats firmly against the shoulder or the muzzle device, with no gap you can see or catch a fingernail in. ⛔ A gap means it is not seated — do not fire.",
-  "Snug it firmly by hand, or with the wrench supplied with the can if it came with one. No cheater bar, and no tool on the tube that can crush it.",
-  "Quick-detach: latch or collar fully engaged, then pull and twist the can — it must not move.",
-  "Look through it once more before the first shot."
+  "Host rifle unloaded, chamber checked by eye and by touch.",
+  "Threads of both the muzzle and the suppressor clean, the barrel threads with no lubricant on them.",
+  "The HUB mount in the can matches the barrel: a 90 degree mount only on a barrel with a 90 degree shoulder, a tapered mount only on a tapered barrel. ⛔ Never a taper cap on a tapered barrel to make a 90 degree mount fit. If the mount is the wrong one, section 6.0 of SIG's book covers changing it.",
+  "Muzzle device clear of the baffles: measured from the flange of the HUB mount to the end of the device, less than 1.25 in. SIG recommends attaching the HUB mount directly to the barrel.",
+  "Thread the suppressor clockwise onto the barrel by hand.",
+  "With a 7/8-in. crow's foot wrench on a torque wrench handle, tighten to 25-27 ft-lbf, or to the rifle manufacturer's recommended torque value."
  ],
- "fncheck": "Host still unloaded: the can is on, seated with no gap, and does not turn when you try it by hand. Check it again at the start of every session and after the first string of fire — a can that heats and cools can work loose. One that has loosened comes off, gets inspected and goes back on clean; one that keeps loosening goes to SIG Sauer."
+ "fncheck": "With the host unloaded and the chamber checked: the suppressor is threaded on clockwise and torqued to 25-27 ft-lbf (or the rifle maker's value), its HUB mount matches the barrel's shoulder, and no muzzle device reaches the baffles. During use, check now and then that it is still securely threaded on. If it is dropped or struck, inspect it for damage straight away and make sure it is properly aligned with the barrel. SIG says titanium cans may throw visible sparks when fired, and that the sparks are not a defect. ⛔ Jacketed projectiles to SAAMI specification only: never non-jacketed, frangible, tracer, multi-projectile or shot cartridges. Never fire it with water, debris or anything else inside, never pour water or ablatives into it, and do not keep firing once it has overheated."
 }

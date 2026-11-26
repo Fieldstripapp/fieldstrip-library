@@ -1,97 +1,250 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAR",
- "bpTemplateVersion": 1,
  "row": "remington7400",
  "make": "Remington",
  "model": "Model 7400",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model. Semi-auto rifles of this kind come apart in too many different ways for a general guide to say how yours does, so this one does not take it apart at all: it clears it, cleans the bore and everything you can reach with the action locked open, and looks it over. Done properly, that is a full routine clean.\n\nListed in Fieldstrip as .243 Win, .270 Win, .280 Rem, .30-06, .308 Win, .35 Whelen, 6mm Rem. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 (2001)",
+ "sourceSha256": "73ec765b22b3784d5ac89005fbf3ece5b10460e65bf72f3425d8c5533dc914dc",
+ "cleanIntro": "The regular clean leaves the rifle in one piece: the bore and the chamber with the bolt held back, then the outside. Deep Clean is the only taking-apart Remington prints for this rifle: the fore-end off to reach the action spring and tube, and the trigger plate assembly out on its two pins. The barrel, the bolt and the gas parts stay where they are.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
-   "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "title": "Muzzle safe, red band out of sight",
+   "action": "Point the rifle in a safe direction and keep your finger out of the trigger guard. Push the button behind the trigger until you cannot see its red band. Red showing means the rifle will fire.",
+   "box": "limit",
+   "prose": "Some rifles have a J-shaped key slot in that button. If the button is locked, unlock it with its key. Do not force the key, and never poke the slot with anything else. Keep all ammunition off the bench.",
+   "aside": "If you lose the key, DO NOT attempt to disengage the safety mechanism using a foreign object. This will damage your firearm.",
+   "quote": "To engage the safety mechanism, push the button so that the RED BAND MARKING CANNOT BE SEEN.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — The Safety Mechanism, printed p.7; The Security System, printed p.8",
+   "warn": "Even when the safety mechanism is engaged, careless handling can cause the firearm to fire.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, action back and locked",
-   "action": "If the rifle takes a detachable magazine, take it out before you touch anything else. Pull the charging handle all the way back and lock the action open if your rifle holds open; if it does not, hold it back. Keep your hand and thumb out of the bolt's path the whole time — on some rifles the action can run forward on its own when the magazine follower is pressed.",
+   "title": "Magazine latch forward, magazine out",
+   "action": "Push the magazine latch forward, toward the muzzle, and pull the magazine down out of the rifle.",
    "box": "none",
-   "prose": "If the magazine is fixed, work the action until nothing more comes out, then go on to the next step."
+   "prose": "Magazine first. Work the bolt with a loaded magazine still in and you will feed another round. An empty magazine well says nothing about the chamber.",
+   "quote": "Push the magazine latch forward and pull the magazine from the firearm.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Unload the Firearm, step 3, printed p.10; Picture 7, printed p.9"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Handle back: the chambered round comes out",
+   "action": "Pull the operating handle all the way back so a cartridge in the chamber comes out of the ejection port. Keep your hand out of the port.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Remington with the gun pointed somewhere safe."
+   "prose": "With the magazine out there is nothing to hold the bolt back, so it runs forward when you let go. Keep hold of the handle.",
+   "quote": "Pull the operating handle rearward to remove the cartridge from the chamber.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Unload the Firearm, step 4, printed p.10"
+  },
+  {
+   "phase": "Clear",
+   "title": "Empty the magazine, then hold the bolt back on it",
+   "action": "Away from the rifle, push each cartridge forward and out of the magazine until it is empty. Put the empty magazine back in and pull the handle fully rearward until the follower holds the bolt open.",
+   "box": "none",
+   "prose": "The empty magazine is what holds this rifle open, so it stays in while you clean. The small bolt release at the bottom of the receiver lets the bolt go; keep fingers off it until you mean to use it.",
+   "aside": "Pull the operating handle fully rearward until the bolt is held open by the magazine follower.",
+   "quote": "Remove the cartridges from the magazine.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Unload the Firearm, steps 5–6, printed p.10; The Barrel, I, step 3, printed p.9"
+  },
+  {
+   "phase": "Clear",
+   "title": "Look and feel, chamber and magazine",
+   "action": "Look through the ejection port into the chamber and down at the empty follower. Then feel the chamber with a fingertip.",
+   "box": "none",
+   "prose": "Two places, two looks. Remington prints this check at the head of every cleaning job in the book.",
+   "quote": "Look into the ejection port. Check the chamber and magazine to make sure there are no cartridges in the firearm.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — The Barrel, I, WARNING, printed p.9"
   },
   {
    "phase": "Strip",
-   "title": "No takedown — and that is deliberate",
-   "action": "Leave the rifle in one piece. Top covers, takedown pins, recoil springs, bolt carriers and gas systems all differ across rifles of this kind, and a guide that cannot see your rifle cannot honestly tell you which control does what. Everything in this clean is done with the action locked open.",
+   "title": "The rifle stays whole for this clean",
+   "action": "No screw or pin comes out for the regular clean. Push a cleaning rod in at the muzzle and all the way through until you see it in the ejection port. That proves the bore is open.",
    "box": "none",
-   "prose": "⛔ No pin is pushed, no cover lifted and no screw turned. Anything beyond the outside and the open breech is work for Remington."
+   "prose": "If something is stuck, tap it lightly with the rod from the muzzle. If it will not push out easily, it goes to the factory or a gunsmith Remington recommends.",
+   "quote": "Insert a cleaning rod into the muzzle. Push the rod completely through the barrel until the rod can be seen in the ejection port.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — The Barrel, I, step 4, and II, printed p.9",
+   "warn": "Never try to remove an object from the barrel by loading another cartridge and firing.",
+   "warnSrc": "maker",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the muzzle or by pull-through",
-   "action": "Work from the muzzle with a cleaning rod and a rod guide so the rod never rubs the crown, or feed a pull-through cord in at the open chamber and draw it out of the muzzle. Brush wet with bore solvent, a few passes, then dry patches until they come out clean. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Wet brush, muzzle to chamber",
+   "action": "Eye protection on. Fit a brush of the right caliber to the rod and wet it with gun cleaning solvent. Push it through the barrel several times, going in at the muzzle.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "The barrel does not come off in this book, so the muzzle is the way in. Keep the rod centered and off the crown, and push the brush all the way out before you bring it back.",
+   "quote": "Always clean the barrel from the muzzle to the chamber.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Barrel, steps 2–4 and NOTE, printed p.11"
   },
   {
    "phase": "Clean",
-   "title": "The breech you can reach through the open action",
-   "action": "With the action locked open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach through the ejection port, using a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action: what runs inside cannot be wiped back out, and no oil goes in from the outside either.",
-   "box": "none"
+   "title": "A new patch each pass, until one is clean",
+   "action": "Take the brush off and fit the tip with a patch of the right size. Push patches through, a new one every time, until one comes out clean.",
+   "box": "none",
+   "prose": "A patch used twice only carries the dirt back in.",
+   "quote": "Repeat several times using a new cleaning patch each time, until the patch is not dirty.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Barrel, steps 5–6, printed p.11"
   },
   {
    "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
+   "title": "Oiled patch, then a dry one",
+   "action": "Push one clean patch soaked with Rem Oil through the barrel, then a clean, dry patch to take the extra out. Look through the bore before you put the rod away.",
+   "box": "none",
+   "prose": "Do not skip the dry patch. Oil left standing in a rifle bore raises pressure on the next shot.",
+   "quote": "Push a clean, dry patch through the barrel to remove excess lubricant.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Barrel, steps 7–8, printed p.11",
+   "warn": "After cleaning, make sure the barrel is free of obstructions.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Chamber brush, in through the port",
+   "action": "Safety on, bolt held back by the follower. Wet the chamber brush with solvent, push it into the chamber through the ejection port, and repeat several times.",
+   "box": "none",
+   "prose": "Remington supplied a chamber brush with this rifle. A bore brush is too small to scrub the chamber walls, and a dirty chamber is where a case sticks.",
+   "aside": "Use the chamber brush that comes with the firearm.",
+   "quote": "Push the brush into the chamber through the ejection port.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Chamber, steps 1–4, printed p.12"
+  },
+  {
+   "phase": "Clean",
+   "title": "Chamber dried with patches",
+   "action": "Put a patch on the rear end of the chamber brush and dry the chamber. Use a clean patch each time until one comes out clean.",
+   "box": "none",
+   "prose": "The chamber is left dry, with no oil in it. Look down the bore once more: no bristle, no patch, nothing left behind.",
+   "quote": "Repeat using a clean patch each time, until patch is not dirty.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Chamber, step 5 and WARNING, printed p.12; Lubrication and Maintenance, printed p.11"
+  },
+  {
+   "phase": "Clean",
+   "title": "Outside: a thin coat, and no more",
+   "action": "Wipe the outside of the barrel and the outside metal with a thin coat of Rem Oil on a soft, clean cloth.",
+   "box": "none",
+   "prose": "For storage, clean it carefully and oil it thoroughly. Before you use it again, take all the extra oil off and wipe the chamber and bore fully dry.",
+   "quote": "Over-lubrication should be avoided at all times.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — Lubrication and Maintenance, printed p.11; To Clean the Barrel, step 9, printed p.11",
+   "warn": "Excessive use of a non-recommended lubricant could adversely affect the function and safe operation of your firearm.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Remington.",
+   "title": "Look it over, and know when it is due",
+   "action": "With the bolt held back, look over the bore, the bolt face and as much of the inside as you can see. You want it clean, with no rust and no grit. Clean the bore each time you are going to shoot, and the whole rifle before and after long storage and at least once a year.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until Remington has seen it."
+   "prose": "If anything is worn or damaged, or it has not worked right, stop using it and have it checked by Remington or a gunsmith Remington recommends.",
+   "aside": "Remington recommends that you have your firearm professionally serviced annually.",
+   "quote": "Periodically inspect the internal workings of your firearm to be sure they’re clean and free of rust, unwanted dirt and debris.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — 9th Commandment, printed p.6; maintenance and care, printed p.16",
+   "warn": "So never alter or modify your firearm in any way.",
+   "warnSrc": "maker"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Remington Model 7400, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Remington, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Unloaded, safety on, finger away",
+   "action": "Eye protection on. Push the safety button until the red band is out of sight. Check the chamber and the magazine, by eye and by fingertip: no cartridges anywhere.",
+   "box": "none",
+   "prose": "The safety stays on and the trigger stays untouched for the whole job. The hammer is cocked when the trigger plate comes out.",
+   "quote": "Make sure there are no cartridges in the magazine or chamber.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Trigger Plate Assembly, WARNING and step 1, printed p.12; Picture 18, printed p.12",
+   "warn": "Never pull the trigger when the safety mechanism is engaged.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt released forward, magazine out",
+   "action": "Keep your fingers away from the ejection port and the operating handle. Push the bolt release to close the action. Then push the magazine latch forward and pull the magazine out.",
+   "box": "none",
+   "prose": "The action is closed for this whole job. The bolt runs home hard on its spring.",
+   "quote": "Keep your fingers away from the ejection port and operating handle.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Remove the Magazine, steps 3–5, printed p.9; To Clean the Trigger Plate Assembly, step 2, printed p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Fore-end screw out, fore-end off",
+   "action": "Loosen the screw at the front end of the fore-end and take the fore-end off.",
+   "box": "none",
+   "prose": "The parts list shows a cap and a spacer at the front of the fore-end. Keep them with it, in order. Nothing else at the front of the rifle comes off.",
+   "quote": "Loosen the fore-end screw and remove the fore-end.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Action Spring and Action Tube, step 1, printed p.12; parts list, printed pp.14–15"
+  },
+  {
+   "phase": "Clean",
+   "title": "Action spring and tube, cleaned in place",
+   "action": "Brush the action spring and the action tube with gun cleaning solvent. Dry them with a clean cloth.",
+   "box": "none",
+   "prose": "The spring stays on its tube. The book has no step for taking either one off.",
+   "quote": "Brush action spring and action tube with gun cleaning solvent.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Action Spring and Action Tube, steps 2–3, printed p.12"
+  },
+  {
+   "phase": "Clean",
+   "title": "Thin oil on the spring and tube",
+   "action": "Put a thin coat of Rem Oil on the action spring and the action tube.",
+   "box": "none",
+   "prose": "Thin means a film you can feel but that does not run. It is there against rust.",
+   "quote": "Apply a thin coat of Rem™ Oil to prevent rusting.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Action Spring and Action Tube, step 4, printed p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Two trigger plate pins, tapped out",
+   "action": "Action closed, safety on. Tap the front and rear trigger plate pins out of the receiver with a punch that fits them.",
+   "box": "none",
+   "prose": "Support the receiver so the taps move the pin and not the rifle. Front and rear are listed as separate parts, so lay them down in order.",
+   "quote": "Tap out front and rear trigger plate pins.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Trigger Plate Assembly, steps 1–3, printed p.12; parts list, printed p.15"
+  },
+  {
+   "phase": "Strip",
+   "title": "Rear of the plate up, then out",
+   "action": "Lift the rear of the trigger plate assembly first, then take the assembly out of the receiver.",
+   "box": "none",
+   "prose": "Remington's picture shows the rifle upside down, so the plate lifts up and away. The strip ends here: the assembly is not taken apart.",
+   "quote": "Lift rear of the trigger plate assembly and remove the assembly from the receiver.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Trigger Plate Assembly, step 4 and Picture 16, printed p.12",
+   "warn": "All adjustments to the trigger and trigger plate assembly must be made by the factory or a REMINGTON® AUTHORIZED GUNSMITH.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "The trigger plate, cleaned as one unit",
+   "action": "Spray the assembly with Rem Oil, let it stand for 15 minutes, spray it again to wash it off, then shake off the extra.",
+   "box": "none",
+   "prose": "Keep it whole and keep your finger off the trigger. The hammer is cocked, with nothing to stop it.",
+   "aside": "Let stand for 15 minutes. Spray again to wash off components. Shake off excess lubricant.",
+   "quote": "Spray the trigger plate assembly with Rem™ Oil as shown.",
+   "cite": "Owner's Manual — Instruction Book for Model 7400 Autoloading Centerfire Rifle — Form RD 7056 Rev. Orig 4-01 — To Clean the Trigger Plate Assembly, NOTE, step 5 and WARNING, printed p.12",
+   "warn": "Excessive use of a non-recommended lubricant could adversely affect the function and safe operation of your firearm.",
+   "warnSrc": "maker"
+  }
+ ],
  "cleaning": [
   {
    "name": "BORE",
    "tasks": [
-    "From the muzzle with a rod guide, or a pull-through from the open chamber",
-    "Brush wet with bore solvent, then dry patches until clean",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Bolt held back by the empty magazine, chamber checked again",
+    "Wet brush through several times, muzzle to chamber",
+    "Patches, a new one each pass, until one is clean",
+    "One oiled patch, then one dry patch",
+    "⛔ Bore looked through: nothing left in it"
    ]
   },
   {
-   "name": "THE OPEN BREECH",
+   "name": "CHAMBER",
    "tasks": [
-    "Bolt face and chamber mouth wiped through the ejection port",
-    "Receiver wiped where a cloth reaches",
-    "⛔ No solvent or oil poured or sprayed into the action"
+    "Chamber brush wet with solvent, in through the ejection port, several times",
+    "Dried with clean patches on the rear of the brush",
+    "⛔ No oil left in the chamber"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "OUTSIDE AND STORAGE",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Outside metal wiped with a thin coat of oil",
+    "Before storage: cleaned carefully and oiled thoroughly",
+    "Before use after storage: extra oil off, chamber and bore dry"
    ]
   }
  ],
@@ -100,33 +253,43 @@
    {
     "g": 0,
     "steps": [
-     4
+     6,
+     7,
+     8
     ]
    },
    {
     "g": 1,
     "steps": [
-     5
+     9,
+     10
     ]
    },
    {
     "g": 2,
-    "steps": []
-   },
-   {
-    "g": 3,
     "steps": [
-     6
+     11
     ]
    },
    {
-    "s": 7
+    "s": 12
    }
   ]
  },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Close the action under control, with your hand and thumb out of the bolt's path."
+  "⛔ Check again: no cartridges in the chamber or the magazine. Eye protection on.",
+  "Fore-end back on, and tighten the fore-end screw. The book prints no torque figure.",
+  "Look at the left side of the trigger plate assembly: the end of the disconnector must be below the end of the left connector. ⛔ If it is not, do not put the assembly in.",
+  "Put the trigger plate assembly carefully into the receiver. If it does not go in easily, take it back out and check the disconnector again.",
+  "Line up the holes, then tap in the front and rear trigger plate pins.",
+  "⛔ Safety on, red band out of sight.",
+  "Empty magazine in, pushed up until it is fully latched."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the action: it runs fully back and returns fully forward, and it locks open on an empty magazine if the rifle holds open. Any safety or selector you can see moves through each of its positions. This check never asks you to pull the trigger."
+ "fncheck": "No ammunition near the rifle, safety on with the red band hidden, empty magazine latched in. Pull the operating handle fully rearward: the follower holds the bolt open. Keep your fingers clear of the port and the handle, and push the bolt release: the bolt closes. Open it once more, look into the chamber, and leave it open and unloaded. The book prints no other check, and this one never asks you to pull the trigger.",
+ "reassemblyRoutine": [
+  "Nothing was taken apart, so nothing goes back together.",
+  "⛔ Check the chamber, the bore and the magazine: no cartridges, no patch, no brush. Safety on, red band out of sight.",
+  "To close it, keep your fingers away from the ejection port and the operating handle, and push the bolt release.",
+  "Push the magazine latch forward to take the empty magazine out, or leave it latched in and the action open."
+ ]
 }

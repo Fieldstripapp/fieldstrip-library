@@ -1,188 +1,184 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of suppressor. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never disassemble a suppressor unless its maker documents it.",
- "bpClass": "BP-SUP-PB",
- "bpTemplateVersion": 1,
  "row": "taurusttx9c",
  "make": "Taurus",
  "model": "TTX9C",
- "cleanIntro": "A pistol-caliber can runs dirty — low-pressure handgun loads leave a lot of carbon behind — and on a pistol it may mount through a booster, a spring-loaded piston that lets the can move a little so the pistol still cycles. No procedure from Taurus exists for the Taurus TTX9C, so this guide treats it as sealed: nothing on it is opened, and nothing — booster or piston included — is separated from it.\n\nListed in Fieldstrip as 9mm. ⛔ Never fire a rifle cartridge through a pistol-caliber can, even where the thread fits the barrel.",
+ "sourcedFrom": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 (ABSENT — no copyright year line is printed.)",
+ "sourceSha256": "925bdc9b09e5bd597a1c744a48549a54753171f44f1127448bd2ed85b3f8063f",
+ "cleanIntro": "The TTX9C is a one-piece titanium can for 9mm carbines, 3D printed with its baffles as part of the body. It screws straight onto a 1/2x28 muzzle and nothing on it comes apart. Taurus prints one page of care: the outside, threads and shoulder with a cloth and nylon brush, and the inside by soaking the closed can. Everything about your firearm comes from that firearm's own manual.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Host unloaded and the action open before the can moves",
-   "action": "Unload the host firearm, open the action and look: chamber empty, magazine out or empty. Keep the muzzle pointed somewhere safe the whole time the can is coming off — your hand is about to be in front of it.",
+   "title": "Host unloaded, magazine out, action open",
+   "action": "Point the muzzle somewhere safe, take the magazine out, open the action and look: the chamber must be empty. Leave the action open while the can is being handled. If you are not sure how your firearm clears, use its own manual.",
    "box": "none",
-   "prose": "This guide is for the suppressor, not the firearm. Clear the host the way the host's own manual describes."
+   "prose": "Your hand is about to be at the muzzle. Taurus will not have this can put on over a closed action, and an open one shows you the chamber the whole time.",
+   "quote": "Verify the chamber is empty and the magazine is removed before proceeding.",
+   "cite": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 — Installation, WARNING, printed p.9",
+   "warn": "Do not install the suppressor on a firearm with a closed action.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Let it cool before a bare hand goes near it",
-   "action": "A suppressor stays hot long after the barrel feels warm, hot enough to burn through an ordinary glove. Wait until it is cool to the touch, or handle it only in heat-resistant gloves, and set it down on something that cannot burn or melt.",
+   "title": "Let it cool all the way",
+   "action": "Wait until the can is fully cool before you take hold of it. If it has to come off sooner, wear heat-resistant gloves, and set it down on something that cannot burn. It does not go into a case until it is cold.",
    "box": "none",
-   "prose": "⛔ Never cool a hot can with water, solvent or compressed air."
+   "prose": "A carbine empties 9mm magazines fast, the can stays hot for several minutes after the last shot, and the body is the only part there is to grip.",
+   "aside": "Do not place it on flammable surfaces or store it in a case until fully cooled.",
+   "quote": "The suppressor becomes hot during use. Allow it to cool fully before handling, transporting, or storing. If immediate handling is necessary, use heat-resistant gloves.",
+   "cite": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 — Suppressor Safety, WARNING, printed p.5"
+  },
+  {
+   "phase": "Clear",
+   "title": "Know what it is rated for",
+   "action": "Check what has been going through it. The manual lists 9mm Luger, 380 Auto and 32ACP, and nothing else.",
+   "box": "limit",
+   "prose": "1/2x28 is a common rifle muzzle thread too. The threads fitting does not make the cartridge safe in this can.",
+   "quote": "Our suppressors are caliber specific. This 9mm suppressor is rated for cartridges listed in the specification on page 6.",
+   "cite": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 — Installation, DANGER, printed p.9; Specifications, printed p.6",
+   "warn": "Use outside of these specifications could result in bodily injury, death and property damage.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Strip",
-   "title": "Off the host — and that is the whole strip",
-   "action": "Take it off the way it went on. On ordinary right-hand threads a can screwed straight onto the barrel turns counter-clockwise, seen from behind the gun, to come off. A quick-detach can releases its latch or collar first, then comes off the muzzle device. If it mounts through a booster, unscrew the whole can from the barrel: the piston and spring inside its back end come off with it and stay in it. If carbon has it stuck, use steady hand pressure or a strap wrench on the tube — never pliers, a pipe wrench or a vice, which can crush the tube.",
+   "title": "Unscrew it: turn the body counter-clockwise",
+   "action": "Grip the body and turn it counter-clockwise by hand until it comes off the muzzle threads. Keep it straight as the last threads let go so it does not drag across them.",
    "box": "none",
-   "prose": "⛔ Nothing else comes off. The mount, the end caps and whatever is inside stay exactly as they are: this guide carries no procedure from Taurus for this can, and a suppressor is never opened without its maker's. If it will not come off the host, stop and contact Taurus."
+   "prose": "It is a direct-thread can: no latch, no collar, no mount to release. Taurus gives no tool for taking it off.",
+   "quote": "To remove, rotate the body counter-clockwise until it unthreads from the muzzle.",
+   "cite": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 — Removing the Suppressor, printed p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "⛔ That is the whole strip: it does not come apart",
+   "action": "Stop here. The body and the baffles inside it are printed as one solid piece, so there is no end cap, mount or baffle to take out. Nothing on this can unscrews but the can itself.",
+   "box": "none",
+   "prose": "Altering it in any way ends the warranty, and Taurus calls it dangerous.",
+   "aside": "Monocore design. No disassembly required.",
+   "quote": "The suppressor body and internal baffle stack are produced as a single, seamless monolithic unit. There are no separate baffle discs, end caps, or threaded internal components.",
+   "cite": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 — Monolithically 3D Printed Construction, printed p.7",
+   "warn": "Do not modify this suppressor in any way. Modification voids the warranty and is dangerous.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Outside, threads and mount shoulder",
+   "action": "Use a cloth dampened with solvent on the outside of the can. Take a nylon brush to its threads and to the mount shoulder, the face that seats against the barrel.",
+   "box": "none",
+   "prose": "The shoulder is what sets the can straight on the barrel. Carbon left on it can tilt the can, and a tilted can is how a baffle gets hit.",
+   "quote": "Clean external surfaces, threads, and mount shoulder regularly with a solvent-dampened cloth and nylon brush.",
+   "cite": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 — Cleaning and Maintenance, printed p.12",
+   "warn": "Always read the warning label on any solvent before use. Most cleaning solvents are toxic and/or flammable. Wear appropriate skin and eye protection and work in a well-ventilated area.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Inside: submerge it and soak",
+   "action": "To clean the inside, put the whole can under in a commercial cleaning solution. Leave it for the time that solution's own maker gives.",
+   "box": "none",
+   "prose": "Taurus prints no soak time of its own. Read the label before the can goes in and make sure the solution suits titanium and a Cerakote finish.",
+   "quote": "To clean internally, submerge the suppressor in a commercial cleaning solution and soak for the time specified by the manufacturer.",
+   "cite": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 — Cleaning and Maintenance, printed p.12"
+  },
+  {
+   "phase": "Clean",
+   "title": "Rinse with clean water, dry it completely",
+   "action": "Rinse the can out thoroughly with clean water. Then let it dry all the way through before it goes back on a gun.",
+   "box": "none",
+   "prose": "You cannot see behind the baffles, so give it longer than the outside looks like it needs. Liquid left in there is in the bullet's way.",
+   "quote": "Rinse thoroughly with clean water and allow to dry completely before reinstalling.",
+   "cite": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 — Cleaning and Maintenance, printed p.12"
+  },
+  {
+   "phase": "Clean",
+   "title": "A light coat of oil outside, for storage",
+   "action": "Before it is put away, wipe a light coat of oil over all the outside metal.",
+   "box": "none",
+   "prose": "A thin film is enough. The oil is for the outside only; Taurus puts none inside the can.",
+   "quote": "Apply a light coat of oil to all external metal surfaces before storage.",
+   "cite": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 — Cleaning and Maintenance, printed p.12"
   },
   {
    "phase": "Inspect",
-   "title": "Carbon on the threads and the mount",
-   "action": "With the can off, look at the host's muzzle threads and shoulder, and at the threads or taper and the seating face of the can's mount. Hard carbon there is what stops a can seating square, and what makes one seize on or work loose. It comes off before the can goes back on — the cleaning list covers how.",
-   "box": "none",
-   "prose": "The mount is the part of a suppressor that fails dangerously, so it gets the most attention."
+   "title": "Look it over, and look through it",
+   "action": "Check the body for a crack or a dent and the exit hole for a fresh bright mark or a torn edge. Hold it to the light and look through the bore: one clean round hole, nothing in it. Taurus wants this before every use, not only at cleaning.",
+   "box": "limit",
+   "prose": "A bullet touching the inside is a baffle strike. Any one of these signs means the can does not go back on the gun.",
+   "quote": "Inspect the suppressor before every use. Do not use if the suppressor is cracked, dented, loose, or shows signs of baffle strike damage. Inspect the bore for obstructions before firing.",
+   "cite": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 — Suppressor Safety, WARNING, printed p.5"
   },
   {
    "phase": "Inspect",
-   "title": "Look straight through it",
-   "action": "Hold the can up to a light and look through the bore from each end. You should see one clean, round circle of light, centred. Anything in the way — debris, water, a lip of metal, a torn or off-centre hole — means it does not go back on the gun.",
-   "box": "none",
-   "prose": "Firing into an obstruction can wreck the can and injure the shooter."
-  },
-  {
-   "phase": "Inspect",
-   "title": "A booster can moves a little — that is the booster",
-   "action": "If yours mounts through a booster, the can may move slightly fore and aft on its mount. That is how a booster works. If the movement feels gritty, sticks, or does not spring back, it goes to Taurus — the booster is not taken apart to find out why.",
-   "box": "none",
-   "prose": "A booster that sticks can stop a pistol cycling, and the cause is inside the can."
-  },
-  {
-   "phase": "Inspect",
-   "title": "The outside of the tube",
-   "action": "Turn it in your hands and look for dents, bulges, cracks, a bent end cap or any burn-through. A dent can push the inside of the can into the bullet's path.",
-   "box": "none",
-   "prose": "Damage you can see is a reason to stop and contact Taurus, not to keep shooting it and see."
-  },
-  {
-   "phase": "Inspect",
-   "title": "Know the signs of a baffle strike",
-   "action": "A baffle strike is a bullet touching the inside of the can. The signs: the exit hole is torn, enlarged or off-centre; there are metal shavings or a bright fresh mark at the front; it suddenly sounds different; bullets start keyholing on the target. Any one of them puts the can out of service.",
-   "box": "none",
-   "prose": "The usual causes are a can that was not seated square, a damaged or misaligned mount, or the wrong caliber through it."
-  },
-  {
-   "phase": "Inspect",
-   "title": "Listen for a new rattle",
-   "action": "Shake it gently by your ear. A new rattle, or anything you can feel shifting inside that did not before, means something has come loose. Do not fire it.",
-   "box": "none",
-   "prose": "A faint sound from carbon flakes is common. Anything you can feel moving is a job for Taurus."
-  },
-  {
-   "phase": "Inspect",
-   "title": "When it goes back to Taurus",
-   "action": "Send it to Taurus for inspection if: it shows any sign of a strike; it was fired with an obstruction in it or after a squib load; the tube is dented or cracked; it rattles; it will not come off the host or will not seat square, its booster sticks or will not spring back, or the circle of light through it has visibly narrowed. Contact Taurus before you ship it — they will tell you how to send a registered suppressor back legally.",
-   "box": "none",
-   "prose": "For a can whose construction is unknown, the maker is the only way inside it."
+   "title": "If it needs service: an RMA from Taurus first",
+   "action": "A damaged can goes to Taurus, and only after you have a return authorization from them. Phone 229-235-4020 or 800-327-3776, or write to the support address in the manual. They send the number and tell you where it ships.",
+   "box": "limit",
+   "prose": "There is no owner repair for a one-piece can.",
+   "quote": "DO NOT RETURN YOUR SUPPRESSOR WITHOUT FIRST OBTAINING AN RMA (RETURN MATERIAL AUTHORIZATION).",
+   "cite": "TTX 9c 9MM PCC SUPPRESSOR INSTRUCTION MANUAL — ABSENT — no revision or date code is printed; part number 045-0061-03 — Taurus Limited Lifetime Warranty, printed p.15"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Taurus TTX9C, and this guide will not invent one. Fieldstrip does not yet have a guide built from a manual by Taurus for this model, so nothing about how it is built inside is known to this guide — and a can whose construction is unknown is treated as sealed. Fouling inside it, a rattle, a strike, or a can that will not come off goes to Taurus, not onto the bench.",
+ "deepAbsentReason": "Taurus's book has nothing deeper than the clean above. It says of the TTX9c 'Monocore design. No disassembly required.' (printed p.2), and that the body and baffle stack are a single, seamless monolithic unit with sealed construction and no separate baffle discs, end caps, or threaded internal components (printed p.7). The only inside cleaning it prints is a soak with the can whole, a rinse and a full dry (printed p.12), and that is part of the regular clean. A can that needs more goes to Taurus, with a return authorization first (printed p.15).",
  "cleaning": [
   {
-   "name": "MUZZLE THREADS & SHOULDER",
+   "name": "OUTSIDE, THREADS AND SHOULDER",
    "tasks": [
-    "Nylon or brass brush to break the carbon off the threads and the shoulder",
-    "Wipe with a cloth lightly dampened with gun solvent, then a dry cloth",
-    "Threads left clean and DRY — no oil, grease, anti-seize or thread-locker: whether this can wants any of them is a question for its maker, not something to guess"
+    "Outside wiped with a solvent-dampened cloth",
+    "Threads and mount shoulder: nylon brush and the dampened cloth",
+    "Solvent label read; skin and eyes covered; moving air"
    ]
   },
   {
-   "name": "THE CAN'S MOUNT — FROM THE OUTSIDE",
+   "name": "INSIDE: A SOAK, NEVER APART",
    "tasks": [
-    "Brush loose carbon off the mount's threads or taper and its seating face",
-    "A dry cloth over the mount face — nothing pushed into the can",
-    "⛔ The mount stays in the can: it does not come out"
+    "Whole can submerged in a commercial cleaning solution",
+    "Left for the time on that solution's own label",
+    "Rinsed thoroughly with clean water",
+    "Dried completely before it goes back on",
+    "⛔ Nothing on the can is opened or unscrewed"
    ]
   },
   {
-   "name": "OUTSIDE OF THE TUBE",
+   "name": "BEFORE STORAGE",
    "tasks": [
-    "Wiped down with a dry cloth",
-    "A can that got wet dries completely, standing on end, before it is stored or fired"
-   ]
-  },
-  {
-   "name": "THE BORE — NOTHING THROUGH IT",
-   "tasks": [
-    "⛔ No patch, rod or bore brush through the can — a patch can lodge inside it",
-    "⛔ No soaking, no solvent fill, no ultrasonic bath: what this can is made of and how it is sealed is unknown, and either can damage it"
-   ]
-  },
-  {
-   "name": "AMMUNITION",
-   "tasks": [
-    "Jacketed bullets: exposed lead fouls a can that cannot be opened and cleaned out"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored off the host, clean and dry",
-    "Never shut in a case or bag while still damp",
-    "A thread protector back on the host's muzzle",
-    "Round count kept — the maker will ask for it if the can ever goes back"
+    "Light coat of oil on the outside metal",
+    "Fully cool before it goes in a case"
    ]
   }
  ],
  "cleanMap": {
   "screens": [
    {
-    "s": 3
+    "g": 0,
+    "steps": [
+     5
+    ]
    },
    {
-    "s": 4
+    "g": 1,
+    "steps": [
+     6,
+     7
+    ]
    },
    {
-    "s": 5
-   },
-   {
-    "s": 6
-   },
-   {
-    "s": 7
-   },
-   {
-    "s": 8
+    "g": 2,
+    "steps": [
+     8
+    ]
    },
    {
     "s": 9
    },
    {
-    "g": 0,
-    "steps": []
-   },
-   {
-    "g": 1,
-    "steps": []
-   },
-   {
-    "g": 2,
-    "steps": []
-   },
-   {
-    "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
-   },
-   {
-    "g": 5,
-    "steps": []
+    "s": 10
    }
   ]
  },
  "reassembly": [
-  "Threads on the host and in the can clean and dry before it goes back on.",
-  "Start it by hand, square to the bore — it should spin on freely. If it binds or goes on crooked, back it off and start again; never force a cross-thread.",
-  "Run it down until it seats firmly against the shoulder or the muzzle device, with no gap you can see or catch a fingernail in. ⛔ A gap means it is not seated — do not fire.",
-  "Snug it firmly by hand, or with the wrench supplied with the can if it came with one. No cheater bar, and no tool on the tube that can crush it.",
-  "Quick-detach: latch or collar fully engaged, then pull and twist the can — it must not move.",
-  "Booster can: it still moves fore and aft freely once it is on, and springs back.",
-  "Look through it once more before the first shot."
+  "Host still unloaded, magazine out, action open. ⛔ Do not put the can on over a closed action.",
+  "Barrel threads clean and free of debris. Oil them lightly, then wipe them with a lint-free cloth. The can must be dry all the way through.",
+  "Line the can up with the barrel and thread it on by hand without cross-threading. It should turn smoothly. ⛔ If you feel resistance, stop and take it to a qualified gunsmith.",
+  "Keep turning until it bottoms out squarely on the barrel shoulder, then tighten it firmly by hand only. ⛔ No tools.",
+  "Check it is in line with the bore with a suppressor alignment rod before you fire it. ⛔ A can that is out of line does not get fired."
  ],
- "fncheck": "Host still unloaded: the can is on, seated with no gap, and does not turn when you try it by hand. Check it again at the start of every session and after the first string of fire — a can that heats and cools can work loose. One that has loosened comes off, gets inspected and goes back on clean; one that keeps loosening goes to Taurus."
+ "fncheck": "Host still unloaded, action open: the can is bottomed square on the barrel shoulder, hand tight, and the alignment rod runs through it in line with the bore with nothing in the way. Direct-thread cans loosen as you shoot, so check it and snug it again regularly, with heat-resistant gloves on. The first shot may be louder than the rest; Taurus calls that first-round pop and it is normal."
 }

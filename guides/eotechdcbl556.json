@@ -1,178 +1,208 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of suppressor. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never disassemble a suppressor unless its maker documents it.",
- "bpClass": "BP-SUP-SC",
- "bpTemplateVersion": 1,
  "row": "eotechdcbl556",
  "make": "EOTech",
  "model": "DCBL 556",
- "cleanIntro": "No maker procedure exists for the EOTech DCBL 556, so this guide treats it as a sealed can: nothing on it is opened, unscrewed or taken apart, whatever it looks like. Everything an owner can do safely is on the outside — take it off the host correctly, keep the mount and threads free of carbon, check that it is tight, look for the signs of trouble, store it dry, and know when it has to go back to EOTech.\n\nListed in Fieldstrip as 5.56. The caliber rating marked on the can itself is the limit — not this guide, and not the listing.",
+ "sourcedFrom": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 (2025)",
+ "sourceSha256": "d0b9a09c6fbc26f2209e132c8f6e22b1dcd3d91d60eab25064be8ac262a4fff8",
+ "cleanIntro": "The DCBL 556 is the 5.56 model of EOTech's titanium suppressor line. One part comes off its body: the Hub, the threaded mount at the rear that takes EOTech's KFM flash hider. EOTech prints one cleaning for the whole can, at least every 2,000 rounds: Hub off, threads cleaned, body cleaned with a titanium-safe solvent, blown out and dry, Hub back on. Nothing past the Hub is opened. Everything about unloading your rifle comes from that rifle's own manual.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Host unloaded and the action open before the can moves",
-   "action": "Unload the host firearm, open the action and look: chamber empty, magazine out or empty. Keep the muzzle pointed somewhere safe the whole time the can is coming off — your hand is about to be in front of it.",
+   "title": "Rifle unloaded, magazine out, safety on, chamber checked",
+   "action": "Before the can comes off, unload the rifle, take the magazine out and put the safety on. Then look into the chamber and see that it is clear.",
    "box": "none",
-   "prose": "This guide is for the suppressor, not the firearm. Clear the host the way the host's own manual describes."
+   "prose": "Both hands are about to be at the muzzle. EOTech's book covers the suppressor, not the rifle, so how your rifle is unloaded comes from its own manual.",
+   "quote": "Before removing your suppressor, ensure the firearm is unloaded, the magazine is removed, and the safety is on. Visually check that the chamber is clear.",
+   "cite": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — GET STARTED — Removal, p.7"
   },
   {
    "phase": "Clear",
-   "title": "Let it cool before a bare hand goes near it",
-   "action": "A suppressor stays hot long after the barrel feels warm, hot enough to burn through an ordinary glove. Wait until it is cool to the touch, or handle it only in heat-resistant gloves, and set it down on something that cannot burn or melt.",
+   "title": "⛔ Let it cool, and glove up",
+   "action": "Wait until the suppressor is cool before you touch it, and keep it off skin and clothing until then. Put protective gloves on before you handle it: they keep the lead fouling off your hands.",
    "box": "none",
-   "prose": "⛔ Never cool a hot can with water, solvent or compressed air."
+   "prose": "A can that has just been shot looks exactly like a cold one. Wash your hands when you are finished.",
+   "aside": "Wear protective gloves to reduce the exposure of lead.",
+   "quote": "Ensure your suppressor is cool before touching.",
+   "cite": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — GET STARTED — Removal, p.7",
+   "warn": "The suppressor system can reach extremely hot temperatures. Use caution before handling after use. Avoid contact with skin or clothing when hot.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clear",
+   "title": "What it has been fed, and on how much barrel",
+   "action": "Check that the ammunition matches the suppressor's caliber. EOTech's table lists the DCBL-556 with a 0.283 in. bore and a minimum barrel length of 10.3 in.",
+   "box": "none",
+   "prose": "The same book covers the 762 and the 9PCC, and their figures are not this can's. Go by the marking on the can in your hand.",
+   "quote": "ALWAYS check that your ammunition caliber matches the caliber of your suppressor.",
+   "cite": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — THE BASICS — Safety Warnings, p.6; Specifications, p.5"
   },
   {
    "phase": "Strip",
-   "title": "Off the host — and that is the whole strip",
-   "action": "Take it off the way it went on. On ordinary right-hand threads a can screwed straight onto the barrel turns counter-clockwise, seen from behind the gun, to come off. A quick-detach can releases its latch or collar first, then comes off the muzzle device. If carbon has it stuck, use steady hand pressure or a strap wrench on the tube — never pliers, a pipe wrench or a vice, which can crush the tube.",
+   "title": "Off the rifle: clockwise from a KFM, counter-clockwise from bare threads",
+   "action": "Grip the suppressor firmly and turn it. EOTech's removal page gives two directions: off the KFM muzzle device, turn clockwise, because that adapter uses reverse threads; otherwise turn counter-clockwise. Lift it off the threads and put the muzzle device or thread protector back on the barrel.",
    "box": "none",
-   "prose": "⛔ Nothing else comes off. The mount, the end caps and whatever is inside stay exactly as they are: this guide carries no procedure from EOTech for this can, and a suppressor is never opened without its maker's. If it will not come off the host, stop and contact EOTech."
+   "prose": "It went on hand tight, or about 20 ft-lb, so it should not need a fight. EOTech's installation page also prints clockwise for threading the Hub onto the muzzle device, which does not agree with a reverse thread. If yours gets tighter the way you are turning it, stop, and ask EOTech before you put force on it.",
+   "aside": "Grip the suppressor firmly and turn counter-clockwise.",
+   "quote": "If using the KFM muzzle device, turn clockwise (the adapter uses reverse threads).",
+   "cite": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — GET STARTED — Removal, p.7"
   },
   {
-   "phase": "Inspect",
-   "title": "Carbon on the threads and the mount",
-   "action": "With the can off, look at the host's muzzle threads and shoulder, and at the threads or taper and the seating face of the can's mount. Hard carbon there is what stops a can seating square, and what makes one seize on or work loose. It comes off before the can goes back on — the cleaning list covers how.",
+   "phase": "Strip",
+   "title": "Hub off the body with an armorer's tool",
+   "action": "Fit the armorer's tool to the Hub. Hold the suppressor body and crank the tool counter-clockwise until the Hub breaks loose, then keep turning until it comes away from the body.",
    "box": "none",
-   "prose": "The mount is the part of a suppressor that fails dangerously, so it gets the most attention."
+   "prose": "The Hub went in at about 35 ft-lb, so expect one firm break and then easy turning. EOTech names no other way to start it.",
+   "quote": "Align the tool onto the hub, and while holding the suppressor body, crank the tool counter-clockwise to break it from the suppressor body. Continue to turn until it separates from the body.",
+   "cite": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — MAINTENANCE — Disassembly, p.8"
   },
   {
-   "phase": "Inspect",
-   "title": "Look straight through it",
-   "action": "Hold the can up to a light and look through the bore from each end. You should see one clean, round circle of light, centred. Anything in the way — debris, water, a lip of metal, a torn or off-centre hole — means it does not go back on the gun.",
+   "phase": "Strip",
+   "title": "⛔ That is as far as it goes",
+   "action": "The Hub is the only part EOTech takes off the body. Nothing past it comes apart: EOTech describes the construction as monolithic and forbids going further than its manual shows.",
    "box": "none",
-   "prose": "Firing into an obstruction can wreck the can and injure the shooter."
+   "prose": "A can that rattles, is damaged or will not come apart at the Hub goes to EOTech, not to a bigger tool. EOTech wants a Return Authorization Number and the ATF form before it is shipped.",
+   "aside": "Do not ship the suppressor without a Return Authorization Number and ATF FORM.",
+   "quote": "NEVER disassemble the suppressor beyond what is highlighted in this manual.",
+   "cite": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — THE BASICS — Safety Warnings, p.6",
+   "no": {
+    "q": "NEVER disassemble the suppressor beyond what is highlighted in this manual.",
+    "who": "EOTech",
+    "src": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — THE BASICS — Safety Warnings, p.6"
+   }
   },
   {
-   "phase": "Inspect",
-   "title": "The outside of the tube",
-   "action": "Turn it in your hands and look for dents, bulges, cracks, a bent end cap or any burn-through. A dent can push the inside of the can into the bullet's path.",
+   "phase": "Clean",
+   "title": "Titanium-safe cleaners only",
+   "action": "Read the label on your cleaner before any of it touches the can: the DCBL is titanium, and the cleaner has to be safe on titanium. Keep the gloves on for all of this.",
    "box": "none",
-   "prose": "Damage you can see is a reason to stop and contact EOTech, not to keep shooting it and see."
+   "prose": "Some suppressor cleaners are sold for steel. If the label does not say titanium is fine, pick another one.",
+   "aside": "EOTECH recommends cleaning at least every 2,000 rounds.",
+   "quote": "Because the DCBL suppressors are titanium, be sure to use cleaners that are safe on titanium.",
+   "cite": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — MAINTENANCE — Cleaning, p.8",
+   "warn": "Before cleaning your suppressor, be sure to wear protective gloves to reduce any lead or contamination.",
+   "warnSrc": "maker"
   },
   {
-   "phase": "Inspect",
-   "title": "Know the signs of a baffle strike",
-   "action": "A baffle strike is a bullet touching the inside of the can. The signs: the exit hole is torn, enlarged or off-centre; there are metal shavings or a bright fresh mark at the front; it suddenly sounds different; bullets start keyholing on the target. Any one of them puts the can out of service.",
+   "phase": "Clean",
+   "title": "Clean the body's threads",
+   "action": "Clean the threads on the suppressor body with a brush or a towel.",
    "box": "none",
-   "prose": "The usual causes are a can that was not seated square, a damaged or misaligned mount, or the wrong caliber through it."
+   "prose": "These are the threads the Hub came out of. Fouling left in them is what stops the Hub seating when you tighten it back down.",
+   "quote": "Clean threads on the suppressor body using a brush or towel.",
+   "cite": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — MAINTENANCE — Cleaning, p.8"
   },
   {
-   "phase": "Inspect",
-   "title": "Listen for a new rattle",
-   "action": "Shake it gently by your ear. A new rattle, or anything you can feel shifting inside that did not before, means something has come loose. Do not fire it.",
+   "phase": "Clean",
+   "title": "Solvent for the main body",
+   "action": "Clean the main suppressor body with a solvent that breaks down lead and carbon fouling, used the way the solvent's own instructions say.",
    "box": "none",
-   "prose": "A faint sound from carbon flakes is common. Anything you can feel moving is a job for EOTech."
+   "prose": "EOTech prints no soak time, so the time is the solvent maker's to give. What comes out carries lead: keep it off your skin.",
+   "quote": "To clean the main suppressor body, use a cleaning solvent that breaks down lead and carbon fouling. Follow the instructions of the solvent.",
+   "cite": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — MAINTENANCE — Cleaning, p.8"
   },
   {
-   "phase": "Inspect",
-   "title": "When it goes back to EOTech",
-   "action": "Send it to EOTech for inspection if: it shows any sign of a strike; it was fired with an obstruction in it or after a squib load; the tube is dented or cracked; it rattles; it will not come off the host or will not seat square, or the circle of light through it has visibly narrowed. Contact EOTech before you ship it — they will tell you how to send a registered suppressor back legally.",
+   "phase": "Clean",
+   "title": "Blow it out until no liquid is left inside",
+   "action": "Once the body is clean, blow it out with a compressor and make sure the inside is free of liquids.",
    "box": "none",
-   "prose": "For a can whose construction is unknown, the maker is the only way inside it."
+   "prose": "Wear eye protection and aim it away from you, because what comes out is solvent and lead. Nothing wet goes back on the rifle.",
+   "quote": "Once the body is clean, blow it out with a compressor and ensure the inside is free of liquids.",
+   "cite": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — MAINTENANCE — Cleaning, p.8"
+  },
+  {
+   "phase": "Clean",
+   "title": "Put away somewhere safe and restricted",
+   "action": "When the can is off the rifle, store it in a safe, restricted area, with a muzzle device or thread protector on the barrel.",
+   "box": "none",
+   "prose": "EOTech's legal warning is the reason for restricted: an unlocked suppressor at home with someone not registered to it may be treated as constructive possession.",
+   "quote": "Store your suppressor in a safe, restricted area.",
+   "cite": "EOTECH DCBL SOUND SUPPRESSOR manual — SP2501 REV A, NOVEMBER 2025 — GET STARTED — Removal, p.7"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the EOTech DCBL 556, and this guide will not invent one. Fieldstrip does not yet have a guide built from a manual by EOTech for this model, so nothing about how it is built inside is known to this guide — and a can whose construction is unknown is treated as sealed. Fouling inside it, a rattle, a strike, or a can that will not come off goes to EOTech, not onto the bench.",
+ "deepAbsentReason": "EOTech's book prints one level of maintenance. Its MAINTENANCE page (printed p.8) takes the Hub off the suppressor body, cleans the threads and the body, and puts the Hub back, and all of that is in the routine lane above. The book prints no procedure past the Hub, and its Safety Warnings (printed p.6) state: 'NEVER disassemble the suppressor beyond what is highlighted in this manual.' This listing therefore has no deep clean.",
  "cleaning": [
   {
-   "name": "MUZZLE THREADS & SHOULDER",
+   "name": "BEFORE YOU START",
    "tasks": [
-    "Nylon or brass brush to break the carbon off the threads and the shoulder",
-    "Wipe with a cloth lightly dampened with gun solvent, then a dry cloth",
-    "Threads left clean and DRY — no oil, grease, anti-seize or thread-locker: whether this can wants any of them is a question for its maker, not something to guess"
+    "Interval: at least every 2,000 rounds",
+    "Protective gloves on",
+    "Cleaner safe on titanium",
+    "Hub off the suppressor body"
    ]
   },
   {
-   "name": "THE CAN'S MOUNT — FROM THE OUTSIDE",
+   "name": "THREADS",
    "tasks": [
-    "Brush loose carbon off the mount's threads or taper and its seating face",
-    "A dry cloth over the mount face — nothing pushed into the can",
-    "⛔ The mount stays in the can: it does not come out"
+    "Threads on the suppressor body cleaned with a brush or towel"
    ]
   },
   {
-   "name": "QUICK-DETACH SEAT (if yours is QD)",
+   "name": "SUPPRESSOR BODY",
    "tasks": [
-    "Brush the taper or seat on the muzzle device — carbon on it stops the can locking up square",
-    "The latch or collar moves freely by hand; if it binds, stop and contact the maker"
+    "Main body cleaned with a solvent that breaks down lead and carbon fouling",
+    "Solvent used by its own instructions",
+    "⛔ Never disassemble the suppressor past the Hub"
    ]
   },
   {
-   "name": "OUTSIDE OF THE TUBE",
+   "name": "DRY INSIDE",
    "tasks": [
-    "Wiped down with a dry cloth",
-    "A can that got wet dries completely, standing on end, before it is stored or fired"
-   ]
-  },
-  {
-   "name": "THE BORE — NOTHING THROUGH IT",
-   "tasks": [
-    "⛔ No patch, rod or bore brush through the can — a patch can lodge inside it",
-    "⛔ No soaking, no solvent fill, no ultrasonic bath: what this can is made of and how it is sealed is unknown, and either can damage it"
+    "Body blown out with a compressor",
+    "Inside free of liquids"
    ]
   },
   {
    "name": "STORAGE",
    "tasks": [
-    "Stored off the host, clean and dry",
-    "Never shut in a case or bag while still damp",
-    "A thread protector back on the host's muzzle",
-    "Round count kept — the maker will ask for it if the can ever goes back"
+    "Muzzle device or thread protector back on the barrel",
+    "Suppressor stored in a safe, restricted area",
+    "Hands washed thoroughly"
    ]
   }
  ],
  "cleanMap": {
   "screens": [
    {
-    "s": 3
-   },
-   {
-    "s": 4
-   },
-   {
-    "s": 5
-   },
-   {
-    "s": 6
-   },
-   {
-    "s": 7
-   },
-   {
-    "s": 8
-   },
-   {
     "g": 0,
-    "steps": []
+    "steps": [
+     6
+    ]
    },
    {
     "g": 1,
-    "steps": []
+    "steps": [
+     7
+    ]
    },
    {
     "g": 2,
-    "steps": []
+    "steps": [
+     8
+    ]
    },
    {
     "g": 3,
-    "steps": []
+    "steps": [
+     9
+    ]
    },
    {
     "g": 4,
-    "steps": []
-   },
-   {
-    "g": 5,
-    "steps": []
+    "steps": [
+     10
+    ]
    }
   ]
  },
  "reassembly": [
-  "Threads on the host and in the can clean and dry before it goes back on.",
-  "Start it by hand, square to the bore — it should spin on freely. If it binds or goes on crooked, back it off and start again; never force a cross-thread.",
-  "Run it down until it seats firmly against the shoulder or the muzzle device, with no gap you can see or catch a fingernail in. ⛔ A gap means it is not seated — do not fire.",
-  "Snug it firmly by hand, or with the wrench supplied with the can if it came with one. No cheater bar, and no tool on the tube that can crush it.",
-  "Quick-detach: latch or collar fully engaged, then pull and twist the can — it must not move.",
-  "Look through it once more before the first shot."
+  "Suppressor body clean, and no liquid left inside.",
+  "Line the Hub threads up with the suppressor body's threads and slowly start turning clockwise. Do not cross-thread it.",
+  "Once you feel resistance, tighten the Hub firmly with the armorer's tool, to about 35 ft-lb.",
+  "Rifle unloaded, magazine out, safety on and the chamber looked at before the can goes back on.",
+  "If the KFM flash hider came off the barrel: it goes back on carefully, at about 30 ft-lb.",
+  "Onto a muzzle device: line the Hub threads up with the device's threads and engage them slowly. EOTech's installation page prints a clockwise rotation; its removal page says the KFM adapter uses reverse threads. Go with the direction the threads engage freely by hand. If neither does, stop and ask EOTech.",
+  "Direct thread: line the barrel threads up with the suppressor's and engage them slowly, clockwise.",
+  "Once you feel resistance, grip the suppressor firmly and tighten it hand tight, or to about 20 ft-lb."
  ],
- "fncheck": "Host still unloaded: the can is on, seated with no gap, and does not turn when you try it by hand. Check it again at the start of every session and after the first string of fire — a can that heats and cools can work loose. One that has loosened comes off, gets inspected and goes back on clean; one that keeps loosening goes to EOTech."
+ "fncheck": "EOTech prints no function check for the can. With the rifle still unloaded: the Hub is tight in the body, the can is hand tight or at about 20 ft-lb, it went on without cross-threading, and the inside is free of liquid. Ammunition matches the caliber of the suppressor, and the barrel is at least 10.3 in. ⛔ EOTech warns that improper installation or use may result in serious injury or death: if it does not thread on cleanly, do not fire it, and contact EOTech."
 }

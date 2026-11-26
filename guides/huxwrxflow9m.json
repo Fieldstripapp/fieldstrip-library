@@ -1,152 +1,241 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of suppressor. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never disassemble a suppressor unless its maker documents it.",
- "bpClass": "BP-SUP-SC",
- "bpTemplateVersion": 1,
  "row": "huxwrxflow9m",
  "make": "HUXWRX",
  "model": "FLOW 9 M",
- "cleanIntro": "No maker procedure exists for the HUXWRX FLOW 9 M, so this guide treats it as a sealed can: nothing on it is opened, unscrewed or taken apart, whatever it looks like. Everything an owner can do safely is on the outside — take it off the host correctly, keep the mount and threads free of carbon, check that it is tight, look for the signs of trouble, store it dry, and know when it has to go back to HUXWRX.\n\nListed in Fieldstrip as multi-caliber. The caliber rating marked on the can itself is the limit — not this guide, and not the listing.",
+ "sourcedFrom": "FLOW 9 M PRODUCT MANUAL",
+ "sourceSha256": "0ac413deb7d281b17ad4bf8b4b042e0d4a36f9c45a79c99eeddb6b76f35b761c",
+ "cleanIntro": "The FLOW 9 M is a modular titanium can, and HUXWRX's own product manual covers it. It ships in its short configuration: the suppressor body with the module adapter thread protector on the front, and a booster assembly (booster piston, booster spring, piston adapter and piston O-ring) at the rear with a 1/2x28 piston. The FLOW 9 M Module in the box screws onto the front in place of the thread protector to make it long. HUXWRX's book sets two cycles: the booster assembly cleaned after every session of shooting, and the suppressor itself cleaned every 1,000 to 2,000 rounds. The included pistol wrench does the work on the booster and the barrel. The book prints no cartridge rating for the can: the rating marked on your can is the limit.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Host unloaded and the action open before the can moves",
-   "action": "Unload the host firearm, open the action and look: chamber empty, magazine out or empty. Keep the muzzle pointed somewhere safe the whole time the can is coming off — your hand is about to be in front of it.",
-   "box": "none",
-   "prose": "This guide is for the suppressor, not the firearm. Clear the host the way the host's own manual describes."
+   "title": "Clear the host before the can is touched",
+   "action": "Unload the host firearm before either end of the can is handled: magazine out, chamber empty, and checked by eye. HUXWRX puts this warning first in its book and repeats it at the head of both the installation and the accessory sections, so it applies whether the can is coming off or going on. The host's own manual is the authority on how its action is cleared.",
+   "box": "limit",
+   "prose": "Every removal on this can is wrench work directly in front of the muzzle.",
+   "quote": "Firearm may be loaded. Could result in death or serious injury. Ensure the firearm is unloaded.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — WARNINGS & DEFINITIONS, p.2",
+   "warn": "Unloaded and checked before a wrench goes near the muzzle.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
-   "title": "Let it cool before a bare hand goes near it",
-   "action": "A suppressor stays hot long after the barrel feels warm, hot enough to burn through an ordinary glove. Wait until it is cool to the touch, or handle it only in heat-resistant gloves, and set it down on something that cannot burn or melt.",
+   "title": "Let it cool, and wear gloves",
+   "action": "After firing, the suppressor can be hot enough to cause serious burns. Let it cool, and wear protective gloves when you handle it, as HUXWRX asks. Set it down where it cannot burn or melt anything while it cools.",
    "box": "none",
-   "prose": "⛔ Never cool a hot can with water, solvent or compressed air."
+   "prose": "The gloves also matter for the cleaning that follows: the book warns of lead exposure.",
+   "quote": "Allow the suppressor to cool and wear protective gloves.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — WARNINGS & DEFINITIONS, p.2",
+   "warn": "Hot cans burn. Wait, and wear gloves.",
+   "warnSrc": "ours"
+  },
+  {
+   "phase": "Clear",
+   "title": "The right ammunition, and a thread that matches",
+   "action": "HUXWRX warns that ammunition of the wrong caliber for the suppressor may still fit the firearm, and that firing it can kill or seriously injure. The book prints no cartridge rating for the FLOW 9 M, so the rating marked on your can is the limit. Its installation check is that the barrel and the accessory thread pattern match: the can ships with a 1/2x28 piston. If you are not certain of your can's rating, ask HUXWRX Support before you fire it.",
+   "box": "none",
+   "prose": "Know the caliber and the thread before it goes on a gun.",
+   "quote": "Ensure correct caliber of ammunition for suppressor is being used.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — WARNINGS & DEFINITIONS, p.2",
+   "warn": "Caliber and thread pattern both match, or it does not go on.",
+   "warnSrc": "ours"
+  },
+  {
+   "phase": "Clear",
+   "title": "The booster is for a recoiling barrel",
+   "action": "The FLOW 9 M ships with its booster assembly fitted and greased. HUXWRX says the booster with its spring is what lets the can work on a host whose barrel moves to cycle, such as a tilting-barrel pistol. The book lists direct thread, stiction and 3-lug adapters and a fixed barrel spacer as accessories; to use any of them the booster assembly comes out and the threads are cleaned first. Know which mount is in your can before it goes on a gun.",
+   "box": "none",
+   "prose": "A recoiling-barrel pistol needs the booster with its spring.",
+   "quote": "The booster assembly with spring is necessary to function on weapon systems where the barrel reciprocates to cycle.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — ACCESSORY INSTALLATION & REMOVAL, item 1, p.6",
+   "warn": "Booster with spring on a barrel that reciprocates.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Strip",
-   "title": "Off the host — and that is the whole strip",
-   "action": "Take it off the way it went on. On ordinary right-hand threads a can screwed straight onto the barrel turns counter-clockwise, seen from behind the gun, to come off. A quick-detach can releases its latch or collar first, then comes off the muzzle device. If carbon has it stuck, use steady hand pressure or a strap wrench on the tube — never pliers, a pipe wrench or a vice, which can crush the tube.",
-   "box": "none",
-   "prose": "⛔ Nothing else comes off. The mount, the end caps and whatever is inside stay exactly as they are: this guide carries no procedure from HUXWRX for this can, and a suppressor is never opened without its maker's. If it will not come off the host, stop and contact HUXWRX."
+   "title": "Off the host with the pistol wrench",
+   "action": "If the host is a handgun, lock the slide open first, as the book does to make room for the pistol wrench with a torque wrench on it. The can went on by tightening the piston to the barrel with the included pistol wrench, to 15 to 25 ft-lb, so it comes off the same way: the pistol wrench on the piston, turned to unscrew it from the barrel. Expect it to need the tool rather than a hand on the tube.",
+   "box": "limit",
+   "prose": "The book prints the installation; removal is the same tool on the same part, turned the other way.",
+   "quote": "For handguns, lock the slide open to allow more room for the pistol Wrench with torque wrench attached.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — SUPPRESSOR INSTALLATION, item 1, p.5",
+   "warn": "The wrench goes on the piston, not the tube.",
+   "warnSrc": "ours"
   },
   {
-   "phase": "Inspect",
-   "title": "Carbon on the threads and the mount",
-   "action": "With the can off, look at the host's muzzle threads and shoulder, and at the threads or taper and the seating face of the can's mount. Hard carbon there is what stops a can seating square, and what makes one seize on or work loose. It comes off before the can goes back on — the cleaning list covers how.",
+   "phase": "Strip",
+   "title": "Booster assembly out of the housing",
+   "action": "Put the pistol wrench on the piston base flats and, if it needs an opposing force, an adjustable wrench on the piston flats, then unscrew the booster assembly from the housing. This is the first step of HUXWRX's every-session cleaning. Lay out the booster piston, the booster spring, the piston adapter and the piston O-ring where none of them can roll away. The front of the can stays as it is until the Deep Clean.",
    "box": "none",
-   "prose": "The mount is the part of a suppressor that fails dangerously, so it gets the most attention."
+   "prose": "If a joint will not break free with the wrenches where the book puts them, stop and contact HUXWRX Support rather than adding force.",
+   "quote": "To disassemble the booster assembly from the housing, use the pistol wrench on the piston base flats along with an adjustable wrench on the piston flats if necessary.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — ACCESSORY INSTALLATION & REMOVAL, item 3, p.6",
+   "warn": "Wrenches on the flats the book names. No extra force.",
+   "warnSrc": "ours"
   },
   {
-   "phase": "Inspect",
-   "title": "Look straight through it",
-   "action": "Hold the can up to a light and look through the bore from each end. You should see one clean, round circle of light, centred. Anything in the way — debris, water, a lip of metal, a torn or off-centre hole — means it does not go back on the gun.",
+   "phase": "Clean",
+   "title": "CLP, then wipe every piece clean",
+   "action": "Apply CLP or a similar cleaner to the booster parts, then wipe each piece with a lint-free rag until the debris and carbon are gone. HUXWRX asks for this after every session of shooting, so it belongs to every range trip, not to the Deep Clean. Wear gloves: the book warns of lead exposure.",
    "box": "none",
-   "prose": "Firing into an obstruction can wreck the can and injure the shooter."
+   "prose": "Lint-free, as the book says: fibres left on the piston end up in the joint.",
+   "quote": "Wipe all individual pieces with a lint-free rag, removing all debris and carbon.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — RECOMMENDED CLEANING CYCLE, item 3, p.7"
   },
   {
-   "phase": "Inspect",
-   "title": "The outside of the tube",
-   "action": "Turn it in your hands and look for dents, bulges, cracks, a bent end cap or any burn-through. A dent can push the inside of the can into the bullet's path.",
+   "phase": "Clean",
+   "title": "Check the O-ring",
+   "action": "Look at the piston O-ring for cracking or wear each time the booster is out. HUXWRX sells a Piston O-ring kit as a replacement part, PN 2584, so a worn O-ring is replaced rather than put back.",
    "box": "none",
-   "prose": "Damage you can see is a reason to stop and contact HUXWRX, not to keep shooting it and see."
+   "prose": "The replacement part numbers are in the book's parts list.",
+   "quote": "Inspect o-ring for cracking or wear.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — RECOMMENDED CLEANING CYCLE, item 4, p.7"
   },
   {
-   "phase": "Inspect",
-   "title": "Know the signs of a baffle strike",
-   "action": "A baffle strike is a bullet touching the inside of the can. The signs: the exit hole is torn, enlarged or off-centre; there are metal shavings or a bright fresh mark at the front; it suddenly sounds different; bullets start keyholing on the target. Any one of them puts the can out of service.",
+   "phase": "Clean",
+   "title": "Grease every face",
+   "action": "Apply Ceram-X or another high-temperature grease to all faces of the booster parts: the piston, the spring and the O-ring, and the contact points between the muzzle device and the suppressor. HUXWRX ships the booster greased and asks for grease on it before use.",
    "box": "none",
-   "prose": "The usual causes are a can that was not seated square, a damaged or misaligned mount, or the wrong caliber through it."
+   "prose": "High-temperature grease, as the book specifies.",
+   "quote": "Apply Ceram-X or other high-temp grease to all faces.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — RECOMMENDED CLEANING CYCLE, item 5, p.7"
   },
   {
-   "phase": "Inspect",
-   "title": "Listen for a new rattle",
-   "action": "Shake it gently by your ear. A new rattle, or anything you can feel shifting inside that did not before, means something has come loose. Do not fire it.",
-   "box": "none",
-   "prose": "A faint sound from carbon flakes is common. Anything you can feel moving is a job for HUXWRX."
+   "phase": "Clean",
+   "title": "Barrel and threads inspected and clean",
+   "action": "Look over the host barrel and its threads for debris and any sign of damage, and clean every thread you are about to put back together: the barrel's, the piston's and the housing's. HUXWRX asks for clean threads before every assembly it describes. A damaged thread is a reason not to mount the can.",
+   "box": "limit",
+   "prose": "Clean threads are what let the can seat and torque as the book intends.",
+   "quote": "Inspect barrel and threads for debris and any signs of damage/defect.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — ACCESSORY INSTALLATION & REMOVAL, p.6"
   },
   {
-   "phase": "Inspect",
-   "title": "When it goes back to HUXWRX",
-   "action": "Send it to HUXWRX for inspection if: it shows any sign of a strike; it was fired with an obstruction in it or after a squib load; the tube is dented or cracked; it rattles; it will not come off the host or will not seat square, or the circle of light through it has visibly narrowed. Contact HUXWRX before you ship it — they will tell you how to send a registered suppressor back legally.",
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The can is off the host and the booster assembly is out, cleaned, checked and greased. The suppressor body, the thread protector or the module stay as they are for this clean: HUXWRX's cycle for cleaning the suppressor itself is every 1,000 to 2,000 rounds, which is the Deep Clean.",
    "box": "none",
-   "prose": "For a can whose construction is unknown, the maker is the only way inside it."
+   "prose": "Reassembly for this path is the booster back in and the can back on the host.",
+   "quote": "Clean the booster assembly after each session of shooting",
+   "cite": "FLOW 9 M PRODUCT MANUAL — RECOMMENDED CLEANING CYCLE, p.7",
+   "branch": true
   }
  ],
- "deepAbsentReason": "There is no deep clean for the HUXWRX FLOW 9 M, and this guide will not invent one. Fieldstrip does not yet have a guide built from a manual by HUXWRX for this model, so nothing about how it is built inside is known to this guide — and a can whose construction is unknown is treated as sealed. Fouling inside it, a rattle, a strike, or a can that will not come off goes to HUXWRX, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Front piece off the body",
+   "action": "With the can off the host and the booster out, unscrew whatever is on the front of the suppressor body: the module adapter thread protector in the short configuration, or the extension module in the long one. HUXWRX notes that an adjustable wrench on the piston flats can be used as the opposing force. Both go on by hand, so they should come off with the same.",
+   "box": "none",
+   "prose": "This is the same operation the book uses to change the can's length.",
+   "quote": "An adjustable wrench on the piston flats can be used as an opposing force to remove the extension module and piston base.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — SUPPRESSOR ASSEMBLY, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "This is as far as it comes apart",
+   "action": "The book's teardown ends here: the front piece off the body and the booster assembly out of the housing. HUXWRX publishes no procedure for taking the suppressor body itself apart, and its warning page says not to modify components, because incorrect or modified components can kill or seriously injure. The body is cleaned as it is.",
+   "box": "limit",
+   "prose": "Anything past this is a question for HUXWRX Support, not for the bench.",
+   "quote": "Do not modify components.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — WARNINGS & DEFINITIONS, p.2",
+   "warn": "Nothing past the front piece and the booster.",
+   "warnSrc": "ours"
+  },
+  {
+   "phase": "Clean",
+   "title": "Clean the suppressor every 1,000 to 2,000 rounds",
+   "action": "Every 1,000 to 2,000 rounds, clean the suppressor itself. HUXWRX names its own Suppressor Sauce as the preferred cleaning solution for its suppressors; use the solution as its own instructions direct. This book gives no soak time and no other method, so it is quoted here and nothing is added to it.",
+   "box": "limit",
+   "prose": "Get every thread clean before anything goes back on.",
+   "quote": "After 1000-2000 rounds clean suppressor",
+   "cite": "FLOW 9 M PRODUCT MANUAL — RECOMMENDED CLEANING CYCLE, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Gloves, eye protection, a respirator, and air",
+   "action": "Wear gloves, eye protection and a respiratory mask while you clean, and work where the air moves. HUXWRX warns that cleaning exposes you to lead, and asks you to wash your hands thoroughly afterwards.",
+   "box": "none",
+   "prose": "The lead warning is on the book's warning page as well as its cleaning page.",
+   "quote": "Utilize proper PPE (i.e. Gloves, eye protection, and respiratory mask)",
+   "cite": "FLOW 9 M PRODUCT MANUAL — RECOMMENDED CLEANING CYCLE, p.7"
+  },
+  {
+   "phase": "Clean",
+   "title": "Dispose of used solution properly",
+   "action": "Used cleaning solution carries lead and fouling. Dispose of it the way your local guidelines require, as HUXWRX asks; it does not go down a drain by default.",
+   "box": "none",
+   "prose": "Check your local rules before you pour anything away.",
+   "quote": "Please refer to your local guidelines for proper disposal procedures of used cleaning solutions.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — RECOMMENDED CLEANING CYCLE, p.7"
+  },
+  {
+   "phase": "Strip",
+   "title": "Front piece back on by hand",
+   "action": "With the threads clean, thread the front piece back onto the front of the suppressor body by hand until it seats: the extension module for the long configuration, or the module adapter thread protector for the short one. The book has both go on by hand.",
+   "box": "none",
+   "prose": "Clean threads first, as the book asks before every assembly.",
+   "quote": "Thread the extension module onto the front of the suppressor body by hand until seated.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — SUPPRESSOR ASSEMBLY, item 3, p.5"
+  },
+  {
+   "phase": "Strip",
+   "title": "Booster back in, torqued to specification",
+   "action": "Grease the piston, spring and O-ring with Ceram-X or another high-temperature grease, refit the booster assembly to the housing, and torque it to specification: the book's chart gives the piston adapter to the suppressor at 100 to 115 in-lb. HUXWRX asks for the piston assembly to be firmly torqued before firing.",
+   "box": "limit",
+   "prose": "The torque figures are in the book's accessory torque chart.",
+   "quote": "Reassemble and torque to specifications.",
+   "cite": "FLOW 9 M PRODUCT MANUAL — RECOMMENDED CLEANING CYCLE, item 6, p.7"
+  }
+ ],
  "cleaning": [
   {
-   "name": "MUZZLE THREADS & SHOULDER",
+   "name": "BOOSTER ASSEMBLY — EVERY SESSION",
    "tasks": [
-    "Nylon or brass brush to break the carbon off the threads and the shoulder",
-    "Wipe with a cloth lightly dampened with gun solvent, then a dry cloth",
-    "Threads left clean and DRY — no oil, grease, anti-seize or thread-locker: whether this can wants any of them is a question for its maker, not something to guess"
+    "Booster assembly out of the housing: pistol wrench on the piston base flats, an adjustable wrench on the piston flats if needed",
+    "CLP or a similar cleaner, then every piece wiped with a lint-free rag until the debris and carbon are gone",
+    "The O-ring checked for cracking or wear; a worn one replaced (Piston O-ring kit, PN 2584)",
+    "Ceram-X or another high-temperature grease on all faces",
+    "Reassembled and torqued to specification"
    ]
   },
   {
-   "name": "THE CAN'S MOUNT — FROM THE OUTSIDE",
+   "name": "THREADS & BARREL",
    "tasks": [
-    "Brush loose carbon off the mount's threads or taper and its seating face",
-    "A dry cloth over the mount face — nothing pushed into the can",
-    "⛔ The mount stays in the can: it does not come out"
+    "Barrel and threads inspected for debris and any sign of damage",
+    "Every thread clean before assembly: barrel, piston, housing and the front of the body"
    ]
   },
   {
-   "name": "QUICK-DETACH SEAT (if yours is QD)",
+   "name": "SUPPRESSOR — EVERY 1,000 TO 2,000 ROUNDS",
    "tasks": [
-    "Brush the taper or seat on the muzzle device — carbon on it stops the can locking up square",
-    "The latch or collar moves freely by hand; if it binds, stop and contact the maker"
+    "This group is the Deep Clean: the front piece comes off the body",
+    "Suppressor Sauce is HUXWRX's preferred cleaning solution; use it as its own instructions direct",
+    "Do not modify components: the body is cleaned as it is, never taken apart"
    ]
   },
   {
-   "name": "OUTSIDE OF THE TUBE",
+   "name": "WHILE YOU CLEAN",
    "tasks": [
-    "Wiped down with a dry cloth",
-    "A can that got wet dries completely, standing on end, before it is stored or fired"
-   ]
-  },
-  {
-   "name": "THE BORE — NOTHING THROUGH IT",
-   "tasks": [
-    "⛔ No patch, rod or bore brush through the can — a patch can lodge inside it",
-    "⛔ No soaking, no solvent fill, no ultrasonic bath: what this can is made of and how it is sealed is unknown, and either can damage it"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored off the host, clean and dry",
-    "Never shut in a case or bag while still damp",
-    "A thread protector back on the host's muzzle",
-    "Round count kept — the maker will ask for it if the can ever goes back"
+    "Gloves, eye protection and a respiratory mask",
+    "A well-ventilated area, and hands washed thoroughly afterwards: cleaning exposes you to lead",
+    "Used cleaning solution disposed of as your local guidelines require"
    ]
   }
  ],
  "cleanMap": {
   "screens": [
    {
-    "s": 3
-   },
-   {
-    "s": 4
-   },
-   {
-    "s": 5
-   },
-   {
-    "s": 6
-   },
-   {
-    "s": 7
-   },
-   {
-    "s": 8
-   },
-   {
     "g": 0,
-    "steps": []
+    "steps": [
+     6,
+     7,
+     8
+    ]
    },
    {
     "g": 1,
-    "steps": []
+    "steps": [
+     9
+    ]
    },
    {
     "g": 2,
@@ -155,24 +244,21 @@
    {
     "g": 3,
     "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
-   },
-   {
-    "g": 5,
-    "steps": []
    }
   ]
  },
  "reassembly": [
-  "Threads on the host and in the can clean and dry before it goes back on.",
-  "Start it by hand, square to the bore — it should spin on freely. If it binds or goes on crooked, back it off and start again; never force a cross-thread.",
-  "Run it down until it seats firmly against the shoulder or the muzzle device, with no gap you can see or catch a fingernail in. ⛔ A gap means it is not seated — do not fire.",
-  "Snug it firmly by hand, or with the wrench supplied with the can if it came with one. No cheater bar, and no tool on the tube that can crush it.",
-  "Quick-detach: latch or collar fully engaged, then pull and twist the can — it must not move.",
-  "Look through it once more before the first shot."
+  "Clean every thread before assembly: the front of the body, the housing, the piston and the host barrel.",
+  "Thread the extension module (long configuration) or the module adapter thread protector (short configuration) onto the front of the suppressor body by hand until seated.",
+  "Grease the piston, spring and O-ring with Ceram-X or another high-temperature grease, refit the booster assembly to the housing, and torque the piston adapter to the suppressor at 100 to 115 in-lb.",
+  "Handgun host: lock the slide open. Check the barrel and the piston share a thread pattern, thread the can on until it bottoms out on the crown or shoulder of the barrel, and tighten the piston to the barrel with the pistol wrench, firmly by hand or with a 1/2-inch drive torque wrench to 15 to 25 ft-lb.",
+  "Check bore alignment with an alignment rod before firing."
  ],
- "fncheck": "Host still unloaded: the can is on, seated with no gap, and does not turn when you try it by hand. Check it again at the start of every session and after the first string of fire — a can that heats and cools can work loose. One that has loosened comes off, gets inspected and goes back on clean; one that keeps loosening goes to HUXWRX."
+ "fncheck": "Before the first shot, confirm the piston assembly is firmly torqued, which HUXWRX requires before firing, that the front piece is seated by hand on the body, and that the can bottomed out on the barrel's crown or shoulder and was tightened on the piston with the pistol wrench. Run an alignment rod through to confirm the can is aligned to the bore. On a recoiling-barrel pistol the booster assembly with its spring must be the mount fitted.",
+ "reassemblyRoutine": [
+  "Clean the threads, grease the piston, spring and O-ring with Ceram-X or another high-temperature grease, refit the booster assembly to the housing, and torque the piston adapter to the suppressor at 100 to 115 in-lb.",
+  "Handgun host: lock the slide open. Check the barrel and the piston share a thread pattern, thread the can on until it bottoms out on the crown or shoulder of the barrel, and tighten the piston to the barrel with the pistol wrench, firmly by hand or with a 1/2-inch drive torque wrench to 15 to 25 ft-lb.",
+  "Check bore alignment with an alignment rod before firing."
+ ],
+ "fncheckRoutine": "Before the first shot, confirm the booster assembly you refitted is firmly torqued, which HUXWRX requires before firing, and that the can bottomed out on the barrel's crown or shoulder and was tightened on the piston with the pistol wrench. Run an alignment rod through to confirm the can is aligned to the bore. On a recoiling-barrel pistol the booster assembly with its spring must be the mount fitted."
 }

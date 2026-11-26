@@ -1,8 +1,92 @@
 {
  "_doc": "Everything a client holding version 52 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 52,
- "to": 57,
+ "to": 58,
  "rows": [
+  {
+   "id": "remington7400",
+   "maker": "Remington",
+   "model": "Model 7400",
+   "chambering": "—",
+   "category": "Semi-auto rifle",
+   "family": "NEW-REMINGTON-MODEL7400",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".243 Win",
+    ".270 Win",
+    ".280 Rem",
+    ".30-06",
+    ".308 Win",
+    ".35 Whelen",
+    "6mm Rem"
+   ],
+   "guide": true,
+   "guideId": "remington7400",
+   "guideSha256": "dd045513294bc50028acc9103db07bb6304105b94bee6600ed4379836ff44556",
+   "cal": "{\"chs\":[\".243 Win\",\".270 Win\",\".280 Rem\",\".30-06\",\".308 Win\",\".35 Whelen\",\"6mm Rem\"]}",
+   "calSha256": "236548af17a837020070302152fc1e43cb7a0e97881a4196903e1cb882ff16f2",
+   "calV": 34
+  },
+  {
+   "id": "remington597",
+   "maker": "Remington",
+   "model": "Model 597",
+   "chambering": "—",
+   "category": "Semi-auto rimfire rifle",
+   "family": "NEW-REMINGTON-MODEL597",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR",
+    ".22 WMR",
+    ".17 HMR"
+   ],
+   "guide": true,
+   "guideId": "remington597",
+   "guideSha256": "6bfd7ded6600ee57bb4b59912a28ddf6d8dff7afa6c5303e925782cd7e7baf4b",
+   "cal": "{\"chs\":[\".22 LR\",\".22 WMR\",\".17 HMR\"]}",
+   "calSha256": "7097647b8de6c8272ef3848378082b1bc45546091d5ee3ab758cb4e0bc044213",
+   "calV": 34
+  },
+  {
+   "id": "fnps90",
+   "maker": "FN",
+   "model": "PS90",
+   "chambering": "—",
+   "category": "Semi-auto carbine",
+   "family": "NEW-FN-PS90",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    "5.7x28"
+   ],
+   "guide": true,
+   "guideId": "fnps90",
+   "guideSha256": "95c7f9e46c6dbb5d66b906bda3bfd6b93746fce89af397889e5d59887c2e2dab",
+   "cal": "{\"chs\":[\"5.7x28\"]}",
+   "calSha256": "ec46abf905a5cf81ccd8fc7d95ca775d773603b3a27e6bb8b83ba424f1e6b1bb",
+   "calV": 34
+  },
+  {
+   "id": "fn309mrd",
+   "maker": "FN",
+   "model": "309 MRD",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-FN-309MRD",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "fn309mrd",
+   "guideSha256": "bce8ef0ceb1deb1c052d1e06fbab702cb10edc415cd9d16e781cfae38c2fd26c",
+   "cal": "{\"chs\":[\"9mm\"]}",
+   "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
+   "calV": 38
+  },
   {
    "id": "uspalmstormcat4",
    "maker": "US Palm",
@@ -23,6 +107,42 @@
    "calV": 38
   },
   {
+   "id": "huxwrxflow9m",
+   "maker": "HUXWRX",
+   "model": "FLOW 9 M",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [],
+   "guide": true,
+   "guideId": "huxwrxflow9m",
+   "guideSha256": "1557447bad88fa5c4e093ca06cdc1e31035d2b4d13d80f6022a28a734ad26040",
+   "cal": "{\"rl\":[\"9mm\",\".22 LR\",\".17 HMR\",\"5.7x28\",\".300 BLK\",\".350 Legend\"]}",
+   "calSha256": "893b4274f21c5475d7cae96246551aaa825b1bfbcfe86f394f774992bf1e54a8",
+   "calV": 38
+  },
+  {
+   "id": "taurusttx30",
+   "maker": "Taurus",
+   "model": "TTX30",
+   "chambering": ".30 cal",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "taurusttx30",
+   "guideSha256": "9b6b87789249a4ec01d7f497372a014e4cc3fadb47db537261c6d86cd20ebc33",
+   "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"page: .300 Blackout, 300 Win Mag, .308, 7.62x39mm, 6.5 Creedmoor; manual: .308 win, 7.62x51 NATO, 300 Blackout, 6.5 Creedmoor, 243 Win\"}",
+   "calSha256": "806c3c4b9f3e496209be8a41f1d85a002b377ef15f9993b6268f151ff7aec53b",
+   "calV": 38
+  },
+  {
    "id": "taurusttx22",
    "maker": "Taurus",
    "model": "TTX22",
@@ -37,6 +157,25 @@
    "guideSha256": "31018cb197dbff37783d875b25bc02dbe4e5656412520e940497b1004844a51e",
    "cal": "{\"rl\":[\".22 LR\",\".22 WMR\",\".17 HMR\",\"5.7x28\"]}",
    "calSha256": "fe4e4e3202ced9f5301e2c1350b62cb84d802745b46c73f57241b40b1d3562ea",
+   "calV": 38
+  },
+  {
+   "id": "taurusttx9c",
+   "maker": "Taurus",
+   "model": "TTX9C",
+   "chambering": "9mm",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "taurusttx9c",
+   "guideSha256": "37feea17919560a8e1161094f1199032825b31d91c347bb33f1dde386fb9df2b",
+   "cal": "{\"chs\":[\"9mm\"],\"rs\":\"page: 9mm, .380, .32 ACP, 22LR; the manual omits 22LR\"}",
+   "calSha256": "792905676343ce302aae564e44c3dc45ad728357ec7cf7ec0298db96f485076b",
    "calV": 38
   },
   {
@@ -57,6 +196,101 @@
    "calV": 38
   },
   {
+   "id": "eotechdcbl556",
+   "maker": "EOTech",
+   "model": "DCBL 556",
+   "chambering": "5.56",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": true,
+   "guideId": "eotechdcbl556",
+   "guideSha256": "e96fb1b708f5b28e8d48080be99f4e4a90a63e3b7e446be339038553c027bda6",
+   "cal": "{\"chs\":[\"5.56\"],\"rs\":\"Bore Diameter (Cal) 0.283; max caliber .22 Creedmoor\",\"rt\":\".22 Creedmoor\"}",
+   "calSha256": "0e472923eb72a1a1c79b31f905242c060415e4e8b1a713a006b31c1580211448",
+   "calV": 38
+  },
+  {
+   "id": "eotechdcbl762",
+   "maker": "EOTech",
+   "model": "DCBL 762",
+   "chambering": ".30 cal",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "eotechdcbl762",
+   "guideSha256": "766ba5abf97d368349a5fb7cc3fd7071fa2a1fa5840d97d4e377d5eb4b6300a3",
+   "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"Bore Diameter (Cal) 0.39; max caliber .300 PRC\",\"rt\":\".300 PRC\"}",
+   "calSha256": "bb1e180c27bd002050dd7d0ab73784e5bcdb0eb00eb7bc04c57c040194e427df",
+   "calV": 38
+  },
+  {
+   "id": "eotechdcbl9pcc",
+   "maker": "EOTech",
+   "model": "DCBL 9PCC",
+   "chambering": ".40 cal",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".40 cal"
+   ],
+   "guide": true,
+   "guideId": "eotechdcbl9pcc",
+   "guideSha256": "452aaf3556b1734abf61eeb7a0656f7f0536b72fceec1568efd203ff83e9054c",
+   "cal": "{\"chs\":[\".40 cal\"],\"rs\":\"Bore Diameter (Cal) 0.4; max caliber 8.6 blackout; not for handguns\",\"rt\":\"8.6 BLK\"}",
+   "calSha256": "526a2297d8f012f6f1ad542afc19c4e1054863ae0b757f2e4c7e2b9475e4ffc4",
+   "calV": 38
+  },
+  {
+   "id": "uspalmeosak",
+   "maker": "US Palm",
+   "model": "EOS-AK",
+   "chambering": ".30 cal",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "uspalmeosak",
+   "guideSha256": "1d1066864d1aa26a586f1b4b9366090171a906593bd23cb92b9ac56150899536",
+   "cal": "{\"chs\":[\".30 cal\"],\"rs\":\"Caliber 7.62x39mm; MAX CALIBER RATING 7.62x54R\",\"rt\":\"7.62x54R\"}",
+   "calSha256": "a518da43be517fea384c7a899f6312ccf7fece0062969c5af2723debd8fa9a0a",
+   "calV": 38
+  },
+  {
+   "id": "precisionarmamenttitrex260ti",
+   "maker": "Precision Armament",
+   "model": "TiTrex 260Ti",
+   "chambering": "6.5mm",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "6.5mm"
+   ],
+   "guide": true,
+   "guideId": "precisionarmamenttitrex260ti",
+   "guideSha256": "8068d7920463d40c4977b75e084692267978f0c7b64ac3f653370558ee9efa84",
+   "cal": "{\"chs\":[\"6.5mm\"],\"rs\":\"6.5mm and under; rated for .300 RUM with no barrel-length restrictions\",\"rt\":\".300 RUM\"}",
+   "calSha256": "9e1178594c7d7cf7f7ab9b10f2196c2407a25e4e199bdaeac5fe8ff62a8d82b7",
+   "calV": 38
+  },
+  {
    "id": "sigsauerhexium762",
    "maker": "SIG Sauer",
    "model": "HEXIUM 7.62",
@@ -71,6 +305,25 @@
    "guide": true,
    "guideId": "sigsauerhexium762",
    "guideSha256": "cc7a0a70352a063c92f0ff4603ad5645de2caf648b9754c75242ebb62f58e9f4",
+   "cal": "{\"chs\":[\".30 cal\"]}",
+   "calSha256": "3a2b0fdd1a4e113aabe828c1fe71a577d39ad905e962ff3da626f82a84a9a764",
+   "calV": 39
+  },
+  {
+   "id": "sigsauertincan",
+   "maker": "SIG Sauer",
+   "model": "TiN CAN",
+   "chambering": ".30 cal",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "sigsauertincan",
+   "guideSha256": "67833732969f746f9b4df0425ef18329dce93beae6a551d78c651c7c0bd99574",
    "cal": "{\"chs\":[\".30 cal\"]}",
    "calSha256": "3a2b0fdd1a4e113aabe828c1fe71a577d39ad905e962ff3da626f82a84a9a764",
    "calV": 39
