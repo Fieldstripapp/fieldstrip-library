@@ -1,164 +1,121 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-REV",
- "bpTemplateVersion": 1,
  "row": "smithwessonmodel22classic",
  "make": "Smith & Wesson",
  "model": "Model 22 Classic",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model, so this guide works from what is true of every revolver of its kind, and asks you which kind yours is: one whose cylinder swings out to the side, or one loaded through a gate behind the cylinder. The revolver comes apart only as far as its own design allows by hand; the lockwork never comes out.\n\nListed in Fieldstrip as several chamberings. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "SAFETY & INSTRUCTION MANUAL\nRevolvers\n- Modern Style - J, K, L and N Frame - — p/n 416560000 REV:S&W_REVOLVER_112119 (2019)",
+ "sourceSha256": "0ea9132caffaaf661864b5aa717a9dbc7babe963cf04635ba8b1db67f1d57045",
+ "cleanIntro": "This guide follows Smith & Wesson's book for its modern-style J, K, L and N frame revolvers. Smith & Wesson lists the Model 22 Classic among its N-frame revolvers, but the book never prints the name Model 22 Classic, so check your revolver against the book before you start.\n\nThe book publishes no disassembly at all. Cleaning is done with the revolver whole and the cylinder swung out to the left; the side plate, the barrel and the lockwork stay where they are. Every step below carries the book's own words and the page they sit on.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Make sure this is the book for your revolver",
+   "action": "This procedure comes from Smith & Wesson's manual for modern-style J, K, L and N frame revolvers, and the Model 22 Classic is an N-frame. Smith & Wesson publishes separate manuals for two revolvers this book does not cover, the BODYGUARD 38 and the X-FRAME 460 and 500 Magnum, so satisfy yourself you are not holding one of those. Your revolver's model number is stamped inside the yoke, and you can only read it with the cylinder swung open.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "The book scopes itself by frame, not by model number, which is why it can cover a whole family of revolvers in one document. Read the number in the yoke once the cylinder is open and empty in the steps below; that is the one place your gun states which model it is.",
+   "caution": "There are separate manuals for S&W® BODYGUARD® 38 and X-FRAME 460 & 500 Magnum revolvers - available free upon request or via download from our web site.",
+   "quote": "The internal serial number and the model number appear inside the yoke (FIGURE 3) when the cylinder is in the open position.",
+   "cite": "SAFETY & INSTRUCTION MANUAL\nRevolvers\n- Modern Style - J, K, L and N Frame - — p/n 416560000 REV:S&W_REVOLVER_112119 — Model and Features Identification, p.14"
   },
   {
    "phase": "Clear",
-   "title": "Which revolver is it? Look at the cylinder",
-   "action": "Look at the frame just behind the cylinder, usually on the right. If there is a small hinged gate there that swings open to show one chamber at a time, yours is a loading-gate revolver. If there is no gate, and a release beside the frame lets the whole cylinder swing out to the side, yours is a swing-out revolver. Follow the steps for yours and skip the others.",
+   "title": "Hammer at rest before anything else",
+   "action": "Point the revolver in a safe direction, finger off the trigger and outside the guard, and look at the hammer. If it is forward at rest, go on. If it is cocked, lower it the way the book describes before you open anything: the thumb of your free hand between the hammer and the frame, the thumb of your firing hand on the hammer spur, a press of the trigger only until the hammer comes out of cock, then finger straight out of the guard and the hammer eased forward to rest.",
    "box": "none",
-   "prose": "⛔ If you cannot tell, stop here and contact Smith & Wesson — never pry at a cylinder to find out."
+   "prose": "The finger leaving the guard the instant the hammer moves is the part that protects you: if your thumb slips with the trigger still held back, the revolver fires. If the hammer seems to stop partway down, the book's answer is to thumb it back to full cock with your finger outside the guard and decock again properly.",
+   "quote": "Make sure your finger is off the trigger and the trigger is in the “at rest” or forward position.",
+   "cite": "SAFETY & INSTRUCTION MANUAL\nRevolvers\n- Modern Style - J, K, L and N Frame - — p/n 416560000 REV:S&W_REVOLVER_112119 — Unloading, p.24",
+   "warn": "You must always control the hammer with your thumbs when decocking the handgun.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Swing-out: hammer down, cylinder out, rod pushed",
-   "action": "Only for a swing-out cylinder. With the hammer down and your finger off the trigger, work the cylinder release — it is pushed forward, pulled back or pressed in depending on the design, and you can see which way it is shaped to move — and swing the cylinder out. Point the muzzle up and push the ejector rod firmly to clear every chamber, then let the rod return on its own.",
-   "box": "none"
+   "title": "If yours has the internal lock, the cylinder tells you nothing",
+   "action": "Some Model 22 Classics carry Smith & Wesson's internal key lock, just above the thumbpiece on the left side of the frame; some are built without it. If yours has one, know that a locked revolver can still have its cylinder opened and closed, so the lock is no evidence either way about whether the gun is loaded. Clear it exactly as you would an unlocked one.",
+   "box": "none",
+   "prose": "On a revolver with an exposed hammer the lock shows a flag marked LOCKED when it is engaged. Never test the lock with the trigger: the book forbids it, and if the lock is off the hammer falls.",
+   "quote": "The position of the cylinder has no relationship to the locked status of the revolver.",
+   "cite": "SAFETY & INSTRUCTION MANUAL\nRevolvers\n- Modern Style - J, K, L and N Frame - — p/n 416560000 REV:S&W_REVOLVER_112119 — Internal Lock Mechanism, p.17",
+   "warn": "NEVER ATTEMPT TO DETERMINE WHETHER A REVOLVER IS LOCKED OR UNLOCKED BY PULLING THE TRIGGER.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Loading gate: one chamber at a time",
-   "action": "Only for a loading gate. Open the gate. On some revolvers of this kind the hammer must first be drawn back to its loading notch — a light click partway back — before the cylinder will turn; on others the open gate alone frees it. Turn the cylinder by hand until each chamber in turn lines up with the gate, and push each case out with the ejector rod under the barrel.",
+   "title": "Thumbpiece forward, cylinder out to the left",
+   "action": "With your finger off the trigger and outside the trigger guard and the muzzle in a safe direction, press the thumbpiece fully forward and hold it there, then push the cylinder out to the left. Check that every charge hole is free of live ammunition and that the bore is clear of obstructions.",
    "box": "none",
-   "prose": "⛔ If the cylinder will not turn with the gate open and you do not know whether yours needs the loading notch, stop and contact Smith & Wesson. Never force a cylinder to turn."
+   "prose": "Hold the thumbpiece forward until the cylinder is moving rather than tapping it, or the cylinder will not come out of the frame. Charge holes and bore are two separate checks and the book asks for both: an empty cylinder tells you nothing about what is sitting in the barrel.",
+   "quote": "You must verify that all charge holes (chambers) are free of live ammunition and that the bore is free of obstructions.",
+   "cite": "SAFETY & INSTRUCTION MANUAL\nRevolvers\n- Modern Style - J, K, L and N Frame - — p/n 416560000 REV:S&W_REVOLVER_112119 — Inspecting Your Revolver, p.15",
+   "warn": "Always make sure the revolver is unloaded before you inspect or clean it, and keep the muzzle pointed in a safe direction throughout.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
-   "title": "Every chamber, by eye and by finger — twice",
-   "action": "Look into every chamber and run a fingertip across the rear face of the cylinder. Count them as you go: a chamber you skipped is a chamber you did not check. Then do it all a second time.",
+   "title": "Muzzle up, extractor rod through, then count",
+   "action": "Hold the cylinder fully out, point the barrel upward in a safe direction and press the extractor rod through the cylinder so everything lifts clear. Rounds or cases fired in a moon clip come out still held in the clip, so lift the whole clip away. Take everything out of the gun and count it against the six charge holes.",
    "box": "none",
-   "prose": "⛔ If a case will not come out, stop: never pry or hammer it — contact Smith & Wesson."
+   "prose": "Muzzle up is the whole trick: with the barrel down, a case that only lifts partway slides back into its hole and reads as an empty chamber from the front. A moon clip hides a missing round well, so count the cartridges in the clip as well as the clips themselves.",
+   "caution": "Carefully count the cartridges or spent casings to be sure that you have recovered all of them.",
+   "quote": "With the barrel pointing upward in a safe direction, press the extractor rod through the cylinder and remove all cartridges or casings from the cylinder",
+   "cite": "SAFETY & INSTRUCTION MANUAL\nRevolvers\n- Modern Style - J, K, L and N Frame - — p/n 416560000 REV:S&W_REVOLVER_112119 — Unloading, p.24"
+  },
+  {
+   "phase": "Clear",
+   "title": "Read the barrel, and 45 ACP only in a moon clip",
+   "action": "The cartridge designation marked on the barrel is the instruction for what goes in this cylinder. If your revolver is chambered for a rimless cartridge such as 45 ACP, those rounds go in only held in a moon clip. Nothing marked +P+, and no reloaded or handloaded ammunition that has not been pressure-tested.",
+   "box": "none",
+   "prose": "A rimless case has nothing of its own to stop it at the right depth in a revolver chamber or for the extractor to push against; the clip does both jobs. A cartridge the barrel does not name may still fit a chamber, and fitting is not permission.",
+   "caution": "“Plus-P-Plus” (+P+) ammunition must not be used in Smith & Wesson firearms.",
+   "quote": "If your Smith & Wesson revolver is chambered to accept a rimless cartridge such as 45 ACP or 38 Super, a “moon clip” must be used to ensure proper headspacing and extraction of the cartridge.",
+   "cite": "SAFETY & INSTRUCTION MANUAL\nRevolvers\n- Modern Style - J, K, L and N Frame - — p/n 416560000 REV:S&W_REVOLVER_112119 — Use of Moon Clips in Some S&W Revolvers, p.28"
   },
   {
    "phase": "Strip",
-   "title": "Swing-out: the open cylinder is the whole strip",
-   "action": "Only for a swing-out revolver. With the cylinder swung out, everything an owner cleans is within reach, and that is as far as this revolver comes apart. The crane screw, the sideplate and the lockwork behind it are never touched — on a revolver with no published procedure, those are work for Smith & Wesson.",
-   "box": "none"
-  },
-  {
-   "phase": "Strip",
-   "title": "Loading gate: cylinder out, only if a latch frees the base pin",
-   "action": "Only for a loading-gate revolver. Look at the front of the frame, under the barrel, at what holds the base pin — the long pin the cylinder turns on. If a spring-loaded button crosses the frame there, press it and draw the base pin forward out of the frame; then, with the gate open — and the hammer at its loading notch if yours has one — roll the cylinder out of the frame to the gate side. If a screw holds the base pin, or you see no button, stop: the cylinder stays in and is cleaned through the gate.",
-   "box": "none",
-   "prose": "Note which way round the cylinder came out; it goes back the same way."
-  },
-  {
-   "phase": "Clean",
-   "title": "The bore, from the breech end when it is open",
-   "action": "With a swing-out cylinder open, or a loading-gate cylinder out, the rear of the barrel is exposed: push a brush wet with bore solvent from there through to the muzzle, then dry patches until they come out clean. With a loading-gate cylinder still in, work from the muzzle with a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
-   "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
-  },
-  {
-   "phase": "Clean",
-   "title": "Each chamber on its own",
-   "action": "A bore brush is the wrong size for a chamber. Use a chamber brush or a patch on a jag, one chamber at a time — through the gate if the cylinder is still in. Pay attention to the chamber mouths: lead and copper build a ring there that makes cases stick and extraction stiff.",
-   "box": "none"
-  },
-  {
-   "phase": "Clean",
-   "title": "Cylinder face, forcing cone and the ejector star",
-   "action": "The front face of the cylinder and the rear face of the barrel take the worst of the blast; clean the grey ring off both with a small brush and a little solvent. On a swing-out revolver, push the ejector rod so the star lifts, clean under it, and let it seat: packed powder there stops the cylinder closing. Then a thin film of oil in the bore and chambers for storage and a trace on the crane or the base pin — and none into the lockwork from the outside.",
-   "box": "none"
-  },
-  {
-   "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the forcing cone, the cylinder and the frame for cracks, a bent ejector rod, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Smith & Wesson.",
-   "box": "none",
-   "prose": "Any one of these means the gun is not fired until Smith & Wesson has seen it."
+   "title": "Field strip complete",
+   "action": "An open, empty cylinder is the whole of it. Smith & Wesson publishes no disassembly procedure for this revolver: the cylinder, yoke, extractor, hammer and lockwork all stay in the frame and the side plate stays on. Everything the cleaning below asks for is reachable through the open cylinder.",
+   "box": "limit",
+   "prose": "The book's caution points you at the Field Stripping and Inspection sections, and this book has an Inspection section and no Field Stripping section at all. For this revolver that is the answer, not an omission: there is nothing to strip.",
+   "quote": "Never disassemble your firearm beyond the instructions in the Field Stripping and Inspection sections of this manual.",
+   "cite": "SAFETY & INSTRUCTION MANUAL\nRevolvers\n- Modern Style - J, K, L and N Frame - — p/n 416560000 REV:S&W_REVOLVER_112119 — Cleaning and Maintenance, p.30",
+   "branch": true
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Smith & Wesson Model 22 Classic, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Smith & Wesson, not onto the bench.",
+ "deepAbsentReason": "There is no deep clean in the J, K, L and N frame book this guide follows. Its table of contents (printed p.3) has no field-stripping or disassembly section, and its cleaning pages (printed pp.30-32) work with the revolver whole. The book sends any maintenance or service it does not describe to a qualified gunsmith using genuine Smith & Wesson parts (printed p.31), and a revolver showing wear back to Smith & Wesson or a qualified gunsmith (printed p.32).",
  "cleaning": [
   {
-   "name": "BORE",
+   "name": "BORE AND CHARGE HOLES",
    "tasks": [
-    "From the breech end when the cylinder is open or out; otherwise from the muzzle with a rod guide",
-    "Brush wet with bore solvent, then dry patches until clean",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Before the first shooting, wipe the factory preservative or oil from the bore, the charge holes and the exposed areas with a clean swab or patch",
+    "Remove excessive firing residue from the bore and every charge hole with a properly fitted brass brush dipped in gun cleaning solvent",
+    "Finish with a dry cotton patch through the bore and each charge hole to carry the residue and solvent back out",
+    "Use cleaning supplies made for your caliber, and a cleaning rod long enough to push the brush and jag all the way through the barrel"
    ]
   },
   {
-   "name": "CHAMBERS",
+   "name": "MOON CLIPS",
    "tasks": [
-    "Each chamber on its own, with a chamber brush or a patch on a jag",
-    "The ring at each chamber mouth"
+    "Pull each case straight out of the clip toward its opening; on a full moon clip, pry the first one out and the rest come easier",
+    "Inspect every moon clip after each use",
+    "Do not reuse a clip that is broken, bent or cracked: discard it and replace it with a straight, new one"
    ]
   },
   {
-   "name": "CYLINDER & FRAME",
+   "name": "EXTERIOR, LUBRICATION AND STORAGE",
    "tasks": [
-    "Cylinder face and the barrel's rear face",
-    "Under the ejector star on a swing-out cylinder",
-    "A trace of oil on the crane or the base pin",
-    "⛔ No oil into the lockwork from the outside"
-   ]
-  },
-  {
-   "name": "EXTERIOR",
-   "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Clean the exterior with a non-abrasive cloth and take off every trace of cleaning solution, oil and fingerprints; finger moisture left on the metal can start corrosion",
+    "Do not use ammoniated or other strong alkaline solvents on a Smith & Wesson, and avoid prolonged solvent soaking and prolonged ultrasonic cleaning",
+    "After cleaning, lightly coat the metal parts, inside and out, with a high quality gun oil",
+    "In a cold climate, choose an oil weight that will not congeal and slow the action",
+    "After exposure to sand, dust, extreme humidity or water, clean and lubricate the revolver before it is put away",
+    "For long storage, oil the bore, charge holes and internal mechanism and coat the outside and barrel with an anti-rust oil; do not store it in leather or heavy cloth, and never with a plug in the barrel",
+    "Check for signs of wear every time you clean. If you find wear, do not use the revolver: return it to Smith & Wesson for service or have it checked by a qualified gunsmith"
    ]
   }
  ],
- "cleanMap": {
-  "screens": [
-   {
-    "g": 0,
-    "steps": [
-     7
-    ]
-   },
-   {
-    "g": 1,
-    "steps": [
-     8
-    ]
-   },
-   {
-    "g": 2,
-    "steps": [
-     9
-    ]
-   },
-   {
-    "s": 10
-   },
-   {
-    "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
-   }
-  ]
- },
  "reassembly": [
-  "Swing-out: the cylinder swung closed until its latch clicks — it should close without force.",
-  "Loading gate, if the cylinder came out: the cylinder rolled back in from the gate side, the base pin slid back in from the front until its latch catches, and the gate closed.",
-  "Swing-out, closed: the cylinder is locked and does not spin freely. Loading gate, gate open: the cylinder turns and clicks into line with each chamber in turn."
+  "Nothing came off the revolver, so there is nothing to rebuild. Push the cylinder back into the frame until it locks into place; press it home rather than flicking it shut.",
+  "Turn the closed cylinder gently by hand until it stops in line, so you know it is locked.",
+  "Before the revolver is used again, run a clean patch through the bore and each charge hole to take out oil left there by the cleaning."
  ],
- "fncheck": "Every chamber empty. A swing-out cylinder opens, closes and latches without force. A loading-gate cylinder turns with the gate open and clicks into line with each chamber, and the gate stays shut when closed. This check never asks you to cock the hammer or pull the trigger — whether a revolver of unknown design may be dry-fired is a question for Smith & Wesson."
+ "fncheck": "With every charge hole confirmed empty and the bore clear, close the cylinder and check that it locks into place and that pressing the thumbpiece forward lets it swing out again cleanly. Still empty and pointed in a safe direction, cock the hammer and practise the book's decocking procedure, thumbs controlling the hammer, until it returns all the way to its at-rest position. If your revolver has the internal lock, the key turns about 90 degrees each way with a definite stop and detent, and the LOCKED flag shows only when it is locked; never test it with the trigger."
 }

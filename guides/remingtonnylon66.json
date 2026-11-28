@@ -1,97 +1,144 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAR",
- "bpTemplateVersion": 1,
  "row": "remingtonnylon66",
  "make": "Remington",
  "model": "Nylon 66",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model. Semi-auto rifles of this kind come apart in too many different ways for a general guide to say how yours does, so this one does not take it apart at all: it clears it, cleans the bore and everything you can reach with the action locked open, and looks it over. Done properly, that is a full routine clean.\n\nListed in Fieldstrip as .22 LR, .22 Short. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page",
+ "sourceSha256": "ab6f53141bd0154c88090b0307f130ba5adaf93b5795e3174348fcbf26789499",
+ "cleanIntro": "The Nylon 66 is a tube-fed .22 Long Rifle autoloader with a stock and receiver of DuPont nylon, a magazine tube that loads through the butt plate, and a safety thumbpiece behind the receiver cover. Remington's care sheet asks for little: the nylon is self-lubricating, so the action needs cleaning only after extended shooting or before storage, and then only a partial take-down — receiver cover off, barrel out of the stock, ejector out — and no further.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Muzzle safe, safety thumbpiece back to SAFE",
+   "action": "Point the muzzle in a safe direction and push the safety thumbpiece, just behind the receiver cover, rearward to SAFE. On SAFE the red dot behind the thumbpiece is hidden; if you can see red, the rifle is ready to fire.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "Remington is plain that the safety only guards against an accidental trigger pull and is no excuse for careless handling — everything after this step still treats the rifle as loaded until you have seen and felt an empty chamber.",
+   "quote": "Push safety thumbpiece rearward to SAFE position.",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — TO UNLOAD, instruction sheet, PDF p.4"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, action back and locked",
-   "action": "If the rifle takes a detachable magazine, take it out before you touch anything else. Pull the charging handle all the way back and lock the action open if your rifle holds open; if it does not, hold it back. Keep your hand and thumb out of the bolt's path the whole time — on some rifles the action can run forward on its own when the magazine follower is pressed.",
+   "title": "Magazine tube out through the butt, cartridges out",
+   "action": "Reach into the recess in the butt plate, turn the magazine plug to unlock the tube and pull the inner magazine tube out of the stock. Turn the muzzle up so the cartridges in the stock run out of the magazine, then put the tube back and turn the plug to lock it.",
    "box": "none",
-   "prose": "If the magazine is fixed, work the action until nothing more comes out, then go on to the next step."
+   "prose": "The magazine lives in the buttstock, not under the barrel, so this is the step people skip when they expect a box magazine. Count what falls out against what you loaded — the tube holds fourteen Long Rifle cartridges.",
+   "quote": "Unlock and remove magazine tube from rear of stock. Turn muzzle upwards and allow live cartridges to empty from magazine. Replace magazine tube and lock in place.",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — TO UNLOAD, instruction sheet, PDF p.4"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Bolt handle back, repeatedly — then look in the chamber",
+   "action": "Pull the bolt handle back and let it go, several times, to throw out any cartridge still in the action or the chamber. The colored magazine follower should then show in the ejection port. Look into the chamber through the open ejection port and make sure no cartridge is left in it.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Remington with the gun pointed somewhere safe."
+   "prose": "Draw the bolt back and hold it while you look. If a cartridge is jammed in the chamber, do not pry at it: Remington warns that removing a jammed round carries a risk of accidental discharge, and the cure is the take-down in the next steps and a rod from the muzzle, with the muzzle pointed somewhere safe.",
+   "quote": "Check chamber of barrel from open ejection port to make sure no live cartridge remains in chamber.",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — TO UNLOAD — CAUTION, instruction sheet, PDF p.4"
   },
   {
    "phase": "Strip",
-   "title": "No takedown — and that is deliberate",
-   "action": "Leave the rifle in one piece. Top covers, takedown pins, recoil springs, bolt carriers and gas systems all differ across rifles of this kind, and a guide that cannot see your rifle cannot honestly tell you which control does what. Everything in this clean is done with the action locked open.",
+   "title": "Cock it, then bolt handle out and receiver cover off",
+   "action": "With the rifle empty, cock it by pulling the bolt handle back and releasing it. Pull the bolt handle straight out of the bolt. Unscrew and remove the two cover screws, then slide the receiver cover assembly upward and lift it off the rifle.",
    "box": "none",
-   "prose": "⛔ No pin is pushed, no cover lifted and no screw turned. Anything beyond the outside and the open breech is work for Remington."
+   "prose": "This is the book's step one, and it is only needed after extended shooting or before storage — Remington says the self-lubricating nylon makes cleaning unnecessary for thousands of rounds. Keep the two cover screws together; they are the only thing holding the cover on.",
+   "quote": "Unscrew and remove the two (2) cover screws and slide the receiver cover assembly upward and remove from rifle (Fig. 3).",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — Step 1 and ACTION CLEANING AND CARE, instruction sheet, PDF p.4"
   },
   {
-   "phase": "Clean",
-   "title": "The bore, from the muzzle or by pull-through",
-   "action": "Work from the muzzle with a cleaning rod and a rod guide so the rod never rubs the crown, or feed a pull-through cord in at the open chamber and draw it out of the muzzle. Brush wet with bore solvent, a few passes, then dry patches until they come out clean. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "phase": "Strip",
+   "title": "Barrel lock screw out, barrel bracket up, barrel out of the stock",
+   "action": "Unscrew the barrel lock screw (part 6 on the exploded view). Lift the barrel bracket (part 4) upward, then slide the barrel out of the stock.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "With the barrel free, the bore can be cleaned on the bench and the bolt rails in the stock are open to reach.",
+   "quote": "Unscrew barrel lock screw (See exploded view page 4, part No. 6). Lift barrel bracket (See exploded view page 4, part No. 4) upward",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — Step 2, instruction sheet, PDF p.4 (exploded view, PDF p.5)"
+  },
+  {
+   "phase": "Strip",
+   "title": "Ejector out — and the take-down stops there",
+   "action": "Remove the ejector from the now-exposed left side of the rifle. That is the whole take-down: put the bolt handle back into the bolt, and go no further.",
+   "box": "limit",
+   "prose": "Remington draws the line here and says so. The bolt, springs, sear and trigger parts stay where they are; the book gives no procedure for them, and a Nylon 66 has many parts that are no longer made.",
+   "quote": "No further disassembly is required. Replace bolt handle.",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — ACTION CLEANING AND CARE, instruction sheet, PDF p.4"
   },
   {
    "phase": "Clean",
-   "title": "The breech you can reach through the open action",
-   "action": "With the action locked open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach through the ejection port, using a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action: what runs inside cannot be wiped back out, and no oil goes in from the outside either.",
-   "box": "none"
+   "title": "The bore: patch, brush if it needs it, oiled patch last",
+   "action": "Wipe the bore with a .22 caliber cleaning patch. If it needs more, brush it with a wire brush and powder solvent, then wipe it clean. Finish with a lightly oiled patch.",
+   "box": "none",
+   "prose": "With the barrel out of the stock this is easy to do from either end. Only brush when patches alone will not lift the fouling.",
+   "quote": "Use lightly oiled patch after cleaning",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — BARREL CLEANING AND CARE, instruction sheet, PDF p.4"
   },
   {
    "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
+   "title": "Bolt back and held: scrape the feed guide and rails, clean the bolt face",
+   "action": "Pull the bolt assembly back by its handle and hold it there. Scrape the shooting residue from the cartridge feed guide and from the bolt rails in the stock, then clean the face of the bolt.",
+   "box": "none",
+   "prose": "Scrape, don't flood — the nylon surfaces need no solvent and no oil, and the residue that matters builds up on the feed guide and the rails the bolt rides on.",
+   "quote": "Scrape shooting residue from cartridge feed guide",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — ACTION CLEANING AND CARE, instruction sheet, PDF p.4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Little or no oil — and none on the nylon",
+   "action": "Give the metal action parts a very light coat of oil to keep rust off, and leave the nylon parts dry. Wipe the receiver cover and the barrel with an oiled cloth whenever the rifle has been handled, and always after it has been out in wet weather.",
+   "box": "none",
+   "prose": "Remington says the metal parts work best and stay clean longer with little or no oil. Fingerprints carry moisture that will rust steel, and sudden temperature changes cause condensation, so the wipe-down is what keeps the barrel and cover sound.",
+   "quote": "The nylon parts need no oil. Use oil sparingly on metallic action parts to prevent rust",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — ACTION CLEANING AND CARE, instruction sheet, PDF p.4"
+  },
+  {
+   "phase": "Clean",
+   "title": "Below freezing: oil off, dry graphite on",
+   "action": "If you will shoot in below-freezing weather, remove any excess oil from the action and use dry graphite instead.",
+   "box": "none",
+   "quote": "When shooting in below freezing weather remove any excess oil and use dry graphite.",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — ACTION CLEANING AND CARE, instruction sheet, PDF p.4"
+  },
+  {
+   "phase": "Reassemble",
+   "title": "Back together in reverse order",
+   "action": "Refit the ejector, slide the barrel back into the stock, press the barrel bracket down and tighten the barrel lock screw, then set the receiver cover back on and refit its two cover screws.",
+   "box": "none",
+   "quote": "After cleaning, reassemble parts in reverse order.",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — ACTION CLEANING AND CARE, instruction sheet, PDF p.4"
   },
   {
    "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Remington.",
-   "box": "none",
-   "prose": "Any one of these means the gun is not fired until Remington has seen it."
+   "title": "A gunsmith's look, periodically",
+   "action": "Have the rifle checked by a competent gunsmith from time to time, so worn or damaged parts are found and replaced.",
+   "box": "limit",
+   "prose": "Remington no longer makes the Nylon 66 and says many of its parts may no longer be available. Use only Remington parts, and never alter the trigger, the sear or its notch.",
+   "quote": "Rifle should be checked periodically by a competent gunsmith to ensure proper inspection and any necessary replacement of worn or damaged parts.",
+   "cite": "REMINGTON NYLON 66 AUTOLOADING RIFLE 22 CALIBER — Instructions for Operation & Care of Rifle — none printed — a Remington information packet (cover: 'The following documentation represents all information available on this model'); no form number or date on any page — MAINTENANCE, instruction sheet, PDF p.4",
+   "warn": "DO NOT MAKE CHANGES OR ALTERATIONS TO ANY PARTS OF A FIREARM."
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Remington Nylon 66, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Remington, not onto the bench.",
+ "deepAbsentReason": "Remington's book ends at the partial take-down it gives for cleaning — receiver cover off, barrel out of the stock, ejector out — and says 'No further disassembly is required' (ACTION CLEANING AND CARE, instruction sheet, PDF p.4). It publishes no deeper procedure, so there is no deep clean for this rifle.",
  "cleaning": [
   {
    "name": "BORE",
    "tasks": [
-    "From the muzzle with a rod guide, or a pull-through from the open chamber",
-    "Brush wet with bore solvent, then dry patches until clean",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Wipe with a .22 caliber cleaning patch",
+    "Wire brush with powder solvent only if needed, then wipe clean",
+    "Finish with a lightly oiled patch"
    ]
   },
   {
-   "name": "THE OPEN BREECH",
+   "name": "BOLT AND FEED GUIDE",
    "tasks": [
-    "Bolt face and chamber mouth wiped through the ejection port",
-    "Receiver wiped where a cloth reaches",
-    "⛔ No solvent or oil poured or sprayed into the action"
+    "Bolt assembly pulled back and held",
+    "Residue scraped from the cartridge feed guide and the bolt rails in the stock",
+    "Bolt face cleaned"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "METAL PARTS AND STORAGE",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Oil used sparingly on metal action parts only",
+    "Do not oil the nylon parts",
+    "Receiver cover and barrel wiped with an oiled cloth after handling and after wet weather",
+    "Below freezing: excess oil removed, dry graphite used"
    ]
   }
  ],
@@ -100,33 +147,35 @@
    {
     "g": 0,
     "steps": [
-     4
+     6
     ]
    },
    {
     "g": 1,
     "steps": [
-     5
+     7
     ]
    },
    {
     "g": 2,
-    "steps": []
-   },
-   {
-    "g": 3,
     "steps": [
-     6
+     8,
+     9
     ]
    },
    {
-    "s": 7
+    "s": 10
+   },
+   {
+    "s": 11
    }
   ]
  },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Close the action under control, with your hand and thumb out of the bolt's path."
+  "Refit the ejector in the left side of the rifle.",
+  "Slide the barrel back into the stock, press the barrel bracket down and tighten the barrel lock screw.",
+  "Set the receiver cover assembly back on and refit its two cover screws.",
+  "Make sure the bolt handle is fully seated in the bolt."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the action: it runs fully back and returns fully forward, and it locks open on an empty magazine if the rifle holds open. Any safety or selector you can see moves through each of its positions. This check never asks you to pull the trigger."
+ "fncheck": "Magazine tube out and the chamber empty. Pull the bolt handle back and release it: the bolt runs back and closes fully under its spring. Push the safety thumbpiece forward and the red dot shows; push it rearward to SAFE and the red dot is hidden. Leave it on SAFE. This check never asks you to pull the trigger."
 }

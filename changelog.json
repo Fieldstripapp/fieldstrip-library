@@ -2,6 +2,44 @@
  "_doc": "One entry per published index version, newest first. `added` is the row ids whose guide first appeared at that version, so a client holding version N can ask for everything since N without a redesign.",
  "versions": [
   {
+   "version": 61,
+   "publishedAt": "2026-11-28",
+   "appCommit": "c6bd10f9ba918ae415df05e23214767de6bf1837",
+   "counts": {
+    "catalogRows": 1303,
+    "guides": 1270,
+    "plates": 0
+   },
+   "added": [],
+   "changed": [
+    "bergarapremiercompetitionelite",
+    "bergarapremierplatinumstalker",
+    "czduty40ms",
+    "griffinarmamentduallok5am",
+    "griffinarmamentduallok7am",
+    "pwsbde556kti",
+    "remington770",
+    "remingtonnylon66",
+    "smithwessonmodel22classic",
+    "waltherpd380"
+   ],
+   "removed": [],
+   "platesAdded": [],
+   "rowsChanged": [
+    "griffinarmamentduallok5am",
+    "griffinarmamentduallok7am",
+    "remingtonnylon66",
+    "remington770",
+    "waltherpd380",
+    "smithwessonmodel22classic",
+    "bergarapremierplatinumstalker",
+    "bergarapremiercompetitionelite",
+    "pwsbde556kti",
+    "czduty40ms"
+   ],
+   "rowsRemoved": []
+  },
+  {
    "version": 60,
    "publishedAt": "2026-11-26",
    "appCommit": "0d31ae151dfdb7a2acfe7716e09979194155d755",

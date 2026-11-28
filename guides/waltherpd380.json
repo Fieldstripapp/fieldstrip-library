@@ -1,142 +1,173 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-SAP",
- "bpTemplateVersion": 1,
  "row": "waltherpd380",
  "make": "Walther",
  "model": "PD380",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model, so this guide works from what is true of every pistol of its kind and asks you to look before it asks you to do anything. It clears the pistol, then strips it only if yours shows one of three takedown controls that come apart the same way on every pistol that has them. If yours shows none of them, the slide stays on and the pistol is cleaned locked open — that is a complete clean, not a lesser one.\n\nListed in Fieldstrip as .380 ACP. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' (2023 — back cover 'Copyright © 2023 · Carl WALTHER GmbH')",
+ "sourceSha256": "92c7ca2a9567d368cfd7a299f081986bb8e689b9a0e4c669ae8f894a1ce6d68f",
+ "cleanIntro": "The PD380 is a hammer-fired compact .380 ACP that fires double action or single action, with a manual safety and a takedown lever. Walther publishes one field strip for it — takedown lever down, slide forward off the frame, recoil guide rod out — and tells you never to go further. That makes this a short job with a clear boundary: everything the cleaning section asks for is reachable from those parts.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Muzzle safe, finger out, magazine out",
+   "action": "Point the muzzle in a safe direction and keep your finger off the trigger and outside the trigger guard. Press the magazine release and take the magazine out of the grip before you touch the slide.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "The order matters on any pistol and the book says why: release the slide with a loaded magazine in and you have chambered a new round. The PD380's magazine release is ambidextrous, so either side works. Do this first, every time, before anything else moves.",
+   "quote": "Point the muzzle in a safe direction. Make sure your finger is off the trigger and out of the trigger guard. Press the magazine release and remove the magazine (fig. 15).",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 7 Unloading the pistol, printed p.20 (PDF p.20)",
+   "warn": "ANY TIME YOU RELEASE THE SLIDE WHILE A MAGAZINE CONTAINING CARTRIDGES IS IN THE PISTOL, YOU WILL HAVE CHAMBERED A NEW ROUND IN THE PISTOL."
   },
   {
    "phase": "Clear",
-   "title": "Magazine out first, then the slide",
-   "action": "Press the magazine release and take the magazine out of the grip before you touch the slide. Then pull the slide fully back and lock it open on the slide stop if your pistol has one; if it will not lock, hold it back. The order is the whole point: working the slide with a magazine still in puts a fresh round in the chamber, and that is the classic way an empty pistol stops being empty.",
+   "title": "Slide briskly to the rear, port unobstructed",
+   "action": "Grasp the serrated sides of the slide from the rear with your thumb and fingers and draw it briskly all the way back, so that any cartridge in the chamber is extracted and thrown clear. Keep your hand away from the ejection port while you do it.",
    "box": "none",
-   "prose": "If the magazine will not come out, stop and contact Walther, with the pistol pointed somewhere safe."
+   "prose": "Grip from above or behind, never in front of the muzzle. A hand cupped over the ejection port is the usual reason a round fails to clear — it catches the cartridge and drops it back where it came from.",
+   "quote": "Grasp the serrated sides of the slide from the rear with the thumb and fingers, and briskly draw the slide fully rearward in order to extract any cartridge from the chamber and clear it from the pistol.",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 7 Unloading the pistol, printed p.20 (PDF p.20)"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber and down into the empty magazine well, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Look into the chamber and down the magazine well",
+   "action": "Look into the chamber and down through the magazine well, and confirm no ammunition remains anywhere in the pistol. Then look down the bore for any obstruction.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Walther with the gun pointed somewhere safe."
+   "prose": "The PD380 has a loaded chamber indicator at the upper rear of the ejection port, and the book is plain that it is not the check: light, dirt and tarnished brass can all hide what it shows. The surest check is the one in this step — magazine out, slide back, eyes on the chamber.",
+   "quote": "Visually check the barrel chamber to be sure it is empty. Look into the chamber and down through the magazine well. Verify that no ammunition remains in the pistol.",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 7 Unloading the pistol, printed p.20 (PDF p.20)",
+   "warn": "NEVER RELY UPON THE LOADED CHAMBER INDICATOR ALONE TO VERIFY THE PRESENCE OR ABSENCE OF A ROUND IN THE CHAMBER."
+  },
+  {
+   "phase": "Clear",
+   "title": "Lock it open on an empty magazine, then take the magazine out",
+   "action": "Push the emptied magazine back in and draw the slide back: it should lock in its rearmost position on the slide stop. Then take the empty magazine out again.",
+   "box": "none",
+   "prose": "The slide stop is worked by the magazine follower, so the PD380 only locks open with an empty magazine in place — with no magazine at all you will have to hold the slide back yourself. Look into the chamber once more while it is open.",
+   "quote": "Insert the empty magazine, retract the slide. The slide should be locked back in its rearmost position by the slide stop",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 7 Unloading the pistol, printed p.20 (PDF p.20)"
   },
   {
    "phase": "Strip",
-   "title": "Which takedown does yours have? Look before you touch",
-   "action": "With the pistol empty and the slide locked open, look at the frame just above the trigger. One of three things decides your next step: two small serrated tabs, one on each side of the frame just above the front of the trigger guard; a single lever on the left side of the frame, made to rotate; or a trigger guard whose front end is made to pull down away from the frame. Follow only the step written for what you see, and skip the other two.",
+   "title": "Safety to SAFE, magazine out — before the takedown",
+   "action": "With the pistol unloaded and the muzzle in a safe direction, put the manual safety in the safe position and confirm the magazine is out. Walther's own section 3.2 defines the safe position: rotate the safety lever to the lower position.",
    "box": "none",
-   "prose": "⛔ If you see none of these, more than one, or you are not sure, this is where your strip ends: leave the slide on and go straight to the cleaning steps, which work with the pistol locked open. Never press a trigger, push on a pin or press a button to find out how a pistol comes apart."
+   "prose": "This is Walther's own first line of the disassembly. Section 3.2 and its picture caption name the lever's lower position SAFE and the upper position FIRE; go by those. Wear safety glasses for the strip and the reassembly — the recoil spring is under pressure.",
+   "caution": "ALWAYS FOLLOW THE FIELD STRIPPING INSTRUCTIONS EXACTLY.",
+   "quote": "Keep the muzzle pointed in a safe direction, place manual safety in the safe position and remove the magazine (fig. 20).",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 9.1 Disassembling, printed p.23 (PDF p.23)"
   },
   {
    "phase": "Strip",
-   "title": "Two tabs: release the striker, then slide forward off the frame",
-   "action": "Only if your pistol has the two takedown tabs. Let the slide run forward, point the muzzle at a safe backstop, and press the trigger once — on pistols built this way the striker has to be released before the slide will come off, and you will hear it click. Then grip the pistol so your fingers draw the slide back a few millimetres, pull both tabs down with your other hand and hold them there, and let the slide run forward off the front of the frame.",
+   "title": "Takedown lever straight down",
+   "action": "Pull the takedown lever straight down, and keep holding it down.",
    "box": "none",
-   "prose": "⛔ Only after the chamber has been proven empty twice. If yours is a rimfire (.22) pistol, do not press the trigger: stop here and clean it with the slide on. If the slide will not move forward with both tabs held down, let go and stop — never force it."
+   "prose": "Straight down is the whole instruction — the book does not ask you to turn it or press anything else. Do not let go of it yet: the next step takes the slide off while the lever is still held.",
+   "quote": "Pull the takedown lever straight down (fig. 21).",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 9.1 Disassembling, printed p.23 (PDF p.23)"
   },
   {
    "phase": "Strip",
-   "title": "A takedown lever: turn it down, then ease the slide off",
-   "action": "Only if your pistol has a takedown lever. Rotate the lever down until it stops, usually about a quarter turn. Some pistols let it turn with the slide locked open and others only with the slide forward, and some also have a small button on the right side of the frame that has to be held in while the lever turns. Once it has turned, hold the slide, let it run forward under control, and ease it off the front of the frame.",
+   "title": "Slide forward and off the frame, lever still held",
+   "action": "Still holding the takedown lever down, move the slide forward and take it off the front of the frame.",
    "box": "none",
-   "prose": "⛔ If the lever will not turn by hand either way, stop here and clean the pistol with the slide on. Never use a tool on the lever, and never press the trigger to make it move."
+   "prose": "Control the slide with your hand behind the muzzle, never in front of it. If the slide will not move forward with the lever held down, stop rather than force it — the book gives no other way off.",
+   "quote": "Move the slide forward, and remove it from the frame (fig. 22) while still holding the takedown lever.",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 9.1 Disassembling, printed p.23 (PDF p.23)"
   },
   {
    "phase": "Strip",
-   "title": "A pull-down trigger guard: slide back, up and off",
-   "action": "Only if the front of your trigger guard pulls down. Pull the front of the trigger guard down; on most pistols built this way it then tips a little to one side and rests against the frame, holding itself open. Draw the slide all the way back, lift its rear end up off the frame, and ease it forward off the barrel. The barrel stays fixed to the frame and the recoil spring stays on the barrel — on this pattern neither is taken out.",
+   "title": "Recoil guide rod out from under the barrel, spring under control",
+   "action": "Turn the slide over and remove the recoil guide rod assembly from below the barrel, taking up the spring pressure with your thumb as it comes free.",
    "box": "none",
-   "prose": "Push the trigger guard back into place once the slide is off, so it cannot catch on anything while you clean."
+   "prose": "The spring is still compressed when the slide comes off, so let it out slowly rather than letting it jump. Note which way round the assembly sat under the barrel — it goes back the same way.",
+   "quote": "Remove the recoil guide rod assembly from below the barrel while taking up the spring pressure (fig. 23).",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 9.1 Disassembling, printed p.23 (PDF p.23)"
   },
   {
    "phase": "Strip",
-   "title": "Tabs or lever: spring and barrel out of the slide",
-   "action": "Turn the slide upside down. The recoil spring and its guide rod sit under the barrel and are still under some pressure: push the guide rod gently forward, lift its rear end clear of the barrel, and let it out slowly under your thumb. Note which way round it sat — which end faced the barrel — because it goes back the same way. Then lift the barrel out by its chamber end.",
+   "title": "Field strip complete",
+   "action": "Lay out the main components as the book pictures them: the recoil guide rod, the frame with grip, the barrel, the slide and the magazine. That is the whole of the disassembly Walther publishes for the PD380.",
    "box": "none",
-   "prose": "A pull-down trigger guard pistol skips this step: its barrel stays where it is."
-  },
-  {
-   "phase": "Strip",
-   "title": "That is the whole strip",
-   "action": "Nothing else comes apart. The firing pin or striker, the extractor, the sights and everything inside the frame stay exactly as they are — on a pistol with no published procedure, those are work for Walther. Lay the parts out in the order they came off, on a clean cloth, away from the edge of the bench.",
-   "box": "none",
-   "prose": "If any part came loose that this guide did not ask for, stop and contact Walther before you put the pistol back together."
+   "prose": "The book forbids going past this point, and any maintenance not specified in it goes to a qualified gunsmith using genuine Walther parts. The book's text names no separate step for lifting the barrel out of the slide; this guide does not add one.",
+   "caution": "NEVER DISASSEMBLE YOUR HANDGUN beyond the field stripping procedure outlined in this manual.",
+   "quote": "The main components of the pistol are shown in (fig. 19).",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 9.1 Disassembling, printed p.23 (PDF p.23)",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, from the chamber end whenever you can",
-   "action": "With the barrel out, push a brush wet with bore solvent through from the chamber end, a few passes, then dry patches until they come out clean. If your barrel stayed in, lock the slide open and feed a pull-through cord in at the chamber through the ejection port, or work from the muzzle with a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Bore from the chamber end, brush all the way through",
+   "action": "Starting from the chamber end, push a brass-bristle bore brush wet with a good powder-removing solvent through the bore until the bristles come fully out of the muzzle, then draw it back until they come fully out of the chamber end. Wipe the bore clean with patches or a swab.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "Letting the bristles clear the bore completely before reversing is what keeps them from bending back inside the barrel. On a new pistol the book also asks for the factory preservative to be wiped from the bore, chamber and exposed areas before first use.",
+   "quote": "Starting with the barrel and from chamber end, insert a brush through the bore of the barrel until the bristles completely exit at muzzle end.",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 9.2 Cleaning, printed p.24 (PDF p.24)"
   },
   {
    "phase": "Clean",
-   "title": "Breech face, rails and the feed ramp",
-   "action": "Wipe the breech face — the flat at the back of the slide where the cartridge sits — and the slide's rails and the frame's rails with a cloth and a little solvent, using a small nylon brush on the carbon. Wipe the feed ramp at the bottom of the chamber mouth until it is smooth and bright. Use solvent sparingly and keep it out of the frame's internals and the firing-pin hole: what runs in there cannot be wiped back out.",
-   "box": "none"
+   "title": "Breech face, extractor and the frame",
+   "action": "With a small brush dipped in solvent, take all deposits off the breech face, the chamber end of the barrel, the extractor and the areas around them that see powder and primer residue. Brush the frame lightly with solvent to lift its residue.",
+   "box": "none",
+   "prose": "These are the surfaces that take the gas and the primer spit, and the extractor is the one that decides whether a case comes out — give it its own attention with the small brush.",
+   "quote": "Using a small brush dipped in solvent, remove all deposits from around the breech face, chamber end of the barrel, extractor and adjacent areas which have been exposed to powder or primer residue.",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 9.2 Cleaning, printed p.24 (PDF p.24)"
   },
   {
    "phase": "Clean",
-   "title": "Oil lightly where metal slides on metal",
-   "action": "A thin film of gun oil goes on the slide rails, the frame rails, the outside of the barrel where it rubs the slide, and the barrel's locking surfaces. A drop is enough on each; wipe off anything that runs. No oil goes into the firing-pin hole or into the frame from the outside.",
+   "title": "Oil by the drop, at the points the book names",
+   "action": "Barrel: a light film on all its external surfaces and on the ramp where the locking block cams it. Frame: one drop on the slide guides and one on the trigger bar. Slide: one drop on the safety plunger and one on the disconnector cut. Magazine: a light film on its external metal surfaces.",
    "box": "none",
-   "prose": "Too much oil collects grit and, in the cold, slows the parts it was meant to help."
+   "prose": "Walther's figure 24 marks these points A to F, and \"only one drop\" means one. Over-oiling attracts dirt, unburned powder and carbon. In a cold climate use a lubricant that will not congeal.",
+   "quote": "Put only one drop of lubricant on the slide guides [C], and on the trigger bar [D].",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 9.3 Lubrication, printed p.25 (PDF p.25)",
+   "warn": "Do not put any gun lubricant into the striker channel."
   },
   {
    "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the slide, the frame and the barrel for cracks, the recoil spring for kinks or a broken coil, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Walther.",
-   "box": "none",
-   "prose": "Any one of these means the gun is not fired until Walther has seen it."
+   "title": "Check for wear every time",
+   "action": "Every time you clean the pistol, look it over for signs of wear. If you find wear, do not use it: return it to Walther for service or have it checked by a qualified gunsmith.",
+   "box": "limit",
+   "prose": "The book sets this as part of every clean, not an occasional inspection.",
+   "quote": "Every time you clean the firearm, check it for signs of wear. If wear is noted, do not use the firearm.",
+   "cite": "SAFETY & INSTRUCTION MANUAL — Semi-Automatic Compact Pistol Cal. .380 ACP PD380 — Rev.A — back cover '8.505.82.02-06.2023 Rev.A' — 9.4 Maintenance before Storing, printed p.25 (PDF p.25)"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Walther PD380, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Walther, not onto the bench.",
+ "deepAbsentReason": "Walther's PD380 book publishes one field strip (9.1 Disassembling, printed p.23: takedown lever down, slide forward off the frame, recoil guide rod out) and nothing past it. It tells the owner never to disassemble the handgun beyond that procedure (printed p.8) and sends any maintenance or service not in the manual to a qualified gunsmith using genuine Walther parts (11 Repair of Walther pistols, printed p.27). There is no deeper published procedure, so none is invented here.",
  "cleaning": [
   {
    "name": "BORE",
    "tasks": [
-    "Brush wet with bore solvent, from the chamber end whenever the barrel is out",
-    "Dry patches until clean, then a lightly oiled patch for storage",
-    "A dry patch through before the next shot"
+    "Brass-bristle bore brush and a good powder-removing solvent, from the chamber end",
+    "Bristles fully out at the muzzle before drawing back, fully out at the chamber end before pushing again",
+    "Bore wiped clean with patches or a swab",
+    "New pistol: factory oil wiped from the bore, chamber and exposed areas before first use"
    ]
   },
   {
-   "name": "BREECH, RAILS & FEED RAMP",
+   "name": "BREECH & FRAME",
    "tasks": [
-    "Breech face wiped, carbon off with a nylon brush",
-    "Slide rails and frame rails wiped",
-    "Feed ramp wiped smooth and bright",
-    "⛔ No solvent or oil into the firing-pin hole or the frame's internals"
+    "Small brush and solvent around the breech face",
+    "Chamber end of the barrel and the extractor cleaned of powder and primer residue",
+    "Frame brushed lightly with solvent"
    ]
   },
   {
    "name": "LUBRICATION",
    "tasks": [
-    "A thin film on the slide rails and the frame rails",
-    "A drop on the barrel where it rubs the slide, and on its locking surfaces",
-    "Excess wiped off"
-   ]
-  },
-  {
-   "name": "EXTERIOR",
-   "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
+    "Barrel: light film on all external surfaces and on the locking-block cam ramp",
+    "Frame: one drop on the slide guides, one on the trigger bar",
+    "Slide: one drop on the safety plunger, one on the disconnector cut",
+    "Magazine: light film on the external metal surfaces",
+    "All external metal surfaces filmed and wiped clean",
+    "⛔ No lubricant into the striker channel",
+    "Do not over-lubricate: nothing dripping or running down the pistol"
    ]
   },
   {
    "name": "STORAGE",
    "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Unloaded, with the safety in the safe position",
+    "Never kept in leather or heavy cloth that holds moisture",
+    "Long storage: bore, chamber and internal working mechanism lubricated; slide, barrel and magazine coated against corrosion",
+    "Cleaned again before the pistol is next used"
    ]
   }
  ],
@@ -166,19 +197,14 @@
    {
     "g": 3,
     "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
    }
   ]
  },
  "reassembly": [
-  "Tabs or lever: the barrel back into the slide, then the recoil spring and guide rod back under it, the same way round as they came out.",
-  "Tabs or lever: the slide back onto the frame rails from the front and drawn fully back — it should glide without catching. On a lever pistol, turn the lever back up until it stops.",
-  "Pull-down trigger guard: trigger guard down, the slide fitted over the barrel from the front, drawn fully back, its rear lowered onto the frame and let run forward; then the trigger guard pushed back into place.",
-  "Work the slide several times by hand with an empty magazine in: it should run smoothly, and lock open on the empty magazine if your pistol has a slide stop.",
-  "Take the magazine out again before the function check."
+  "Walther's PD380 book prints no reassembly procedure. What follows is the field strip in reverse and nothing more; if any part will not go back as it came off, stop and contact Walther.",
+  "Recoil guide rod assembly back in below the barrel, the same way round it came out, controlling the spring as it seats.",
+  "Slide back onto the frame from the front and drawn fully rearward; the takedown lever ends where it was before you pulled it down.",
+  "Safety glasses on for the reassembly, as the book asks for every assembly and disassembly."
  ],
- "fncheck": "Magazine out and the chamber empty. Work the slide: it runs fully back and returns fully forward, and it locks open on an empty magazine if your pistol has a slide stop. Any safety or decocker you can see moves through each of its positions on the empty pistol. This check never asks you to press the trigger — whether a pistol of unknown design tolerates dry firing is a question for Walther."
+ "fncheck": "Walther's functional inspection (4.2, printed pp.15–16), on the empty pistol with the muzzle in a safe direction: remove the magazine and retract the slide — when released, the recoil spring returns it fully forward into battery. Insert the empty magazine and retract the slide — it locks back in its rearmost position on the slide stop. Remove the magazine, pull the slide back slightly and release it — it returns fully forward into battery. Finally check the manual safety moves between its lower (SAFE) and upper (FIRE) positions, and store the pistol with it in SAFE."
 }

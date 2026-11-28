@@ -1,178 +1,215 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of suppressor. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never disassemble a suppressor unless its maker documents it.",
- "bpClass": "BP-SUP-SC",
- "bpTemplateVersion": 1,
  "row": "pwsbde556kti",
  "make": "Primary Weapons Systems",
  "model": "BDE556K-Ti",
- "cleanIntro": "No maker procedure exists for the Primary Weapons Systems BDE556K-Ti, so this guide treats it as a sealed can: nothing on it is opened, unscrewed or taken apart, whatever it looks like. Everything an owner can do safely is on the outside — take it off the host correctly, keep the mount and threads free of carbon, check that it is tight, look for the signs of trouble, store it dry, and know when it has to go back to Primary Weapons Systems.\n\nListed in Fieldstrip as 5.56. The caliber rating marked on the can itself is the limit — not this guide, and not the listing.",
+ "sourcedFrom": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") (undated beyond \"V26.1\" on the back page)",
+ "sourceSha256": "dbebee55556929415f0fba03e9e50340d09dd7ce7d9f6ae167ebc3fb0b37f49d",
+ "cleanIntro": "This guide follows Primary Weapons Systems' book for the BDE556-TI, which also covers the short BDE556K-TI and marks the steps that are not for the K; check your model against it. The K is the short configuration: PWS lists it as SKU BDE-556K, rated up to 5.56x45mm, with a removable 1/2-28 direct-thread mount, a 3D-printed titanium entrance chamber and main baffle stack, a 5.56 flat end cap and a DLC-coated exterior. The two CNC-turned modular baffles in the book are for the long model only, and the K has none.\n\nThe routine never opens the can: it comes off the host, you look through the bore, clean the outside with a nylon brush and CLP, and check that everything is tight. Deep Clean is PWS's separation with the two supplied wrenches, every part brushed or soaked in CLP, and the can put back together exactly as it came apart. PWS recommends cleaning, lubricating and checking torque every 500 rounds.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Host unloaded and the action open before the can moves",
-   "action": "Unload the host firearm, open the action and look: chamber empty, magazine out or empty. Keep the muzzle pointed somewhere safe the whole time the can is coming off — your hand is about to be in front of it.",
+   "title": "Muzzle safe, host cleared by its own manual",
+   "action": "Point the host's muzzle in a safe direction and keep it there. Clear the host firearm by its own manual before your hands go near the can: this book teaches the suppressor and prints no clearing procedure for any host.",
    "box": "none",
-   "prose": "This guide is for the suppressor, not the firearm. Clear the host the way the host's own manual describes."
+   "prose": "Your hand is about to be wrapped around the muzzle end. Treat the gun as loaded until you have seen it empty.",
+   "quote": "ALWAYS KEEP THE MUZZLE OF A FIREARM POINTED IN A SAFE DIRECTION REGARDLESS OF WHETHER THE FIREARM IS LOADED.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Warnings, item 1, p.6",
+   "warn": "TREAT ALL FIREARMS AS LOADED AT ALL TIMES.",
+   "warnSrc": "maker"
   },
   {
    "phase": "Clear",
-   "title": "Let it cool before a bare hand goes near it",
-   "action": "A suppressor stays hot long after the barrel feels warm, hot enough to burn through an ordinary glove. Wait until it is cool to the touch, or handle it only in heat-resistant gloves, and set it down on something that cannot burn or melt.",
+   "title": "Rated up to 5.56x45mm",
+   "action": "Before going further, check what this can has been fed. PWS's specifications rate the BDE-556K for calibers up to 5.56x45mm, and nothing bigger.",
    "box": "none",
-   "prose": "⛔ Never cool a hot can with water, solvent or compressed air."
+   "prose": "PWS warns that the wrong ammunition can jam, fail to fire or build excessive pressure.",
+   "quote": "Up to 5.56x45mm",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Specifications, SKU BDE-556K, p.8"
   },
   {
    "phase": "Strip",
-   "title": "Off the host — and that is the whole strip",
-   "action": "Take it off the way it went on. On ordinary right-hand threads a can screwed straight onto the barrel turns counter-clockwise, seen from behind the gun, to come off. A quick-detach can releases its latch or collar first, then comes off the muzzle device. If carbon has it stuck, use steady hand pressure or a strap wrench on the tube — never pliers, a pipe wrench or a vice, which can crush the tube.",
-   "box": "none",
-   "prose": "⛔ Nothing else comes off. The mount, the end caps and whatever is inside stay exactly as they are: this guide carries no procedure from Primary Weapons Systems for this can, and a suppressor is never opened without its maker's. If it will not come off the host, stop and contact Primary Weapons Systems."
+   "title": "Let it cool before you touch it",
+   "action": "Do not handle the can hot. Let the firearm and the suppressor cool completely before you touch either, and set it down where it touches nothing while it cools.",
+   "box": "limit",
+   "prose": "PWS: a suppressor gets far hotter than the 140°F skin-burn limit, and a hot can does not look hot.",
+   "caution": "Suppressor can cause burn, damage, or destroy anything it touches; ensure your suppressor is not in contact with anything while it cools.",
+   "quote": "Do not handle a hot suppressor. Allow the firearm and suppressor to completely cool prior to any contact.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Warnings, Suppressors Get Hot, p.4"
   },
   {
-   "phase": "Inspect",
-   "title": "Carbon on the threads and the mount",
-   "action": "With the can off, look at the host's muzzle threads and shoulder, and at the threads or taper and the seating face of the can's mount. Hard carbon there is what stops a can seating square, and what makes one seize on or work loose. It comes off before the can goes back on — the cleaning list covers how.",
+   "phase": "Strip",
+   "title": "Can off the host",
+   "action": "Unscrew the can from the host. On the supplied mount it comes off the host's 1/2-28 muzzle threads; on a 1.375-24 (HUB) mount the entrance chamber unthreads from the mount. PWS's book prints no removal procedure for the host. If it is carbon-locked, do not force it.",
    "box": "none",
-   "prose": "The mount is the part of a suppressor that fails dangerously, so it gets the most attention."
+   "prose": "Note how tight it was when it came off: it tells you whether it was staying put.",
+   "quote": "Your BDE® ships with a 1/2-28 thread adapter, so you can directly thread the BDE® to your platform of choice.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Mounting Options, Direct Thread, p.13"
   },
   {
-   "phase": "Inspect",
-   "title": "Look straight through it",
-   "action": "Hold the can up to a light and look through the bore from each end. You should see one clean, round circle of light, centred. Anything in the way — debris, water, a lip of metal, a torn or off-centre hole — means it does not go back on the gun.",
+   "phase": "Clean",
+   "title": "Look through the bore",
+   "action": "Look through the can from end to end for anything blocking the bore, including mud or sand.",
    "box": "none",
-   "prose": "Firing into an obstruction can wreck the can and injure the shooter."
+   "prose": "An obstruction in the bore of a suppressor is something a bullet will find.",
+   "quote": "Visually inspect the suppressor for any bore obstructions including natural matter like mud and/or sand.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Maintenance, p.14"
   },
   {
-   "phase": "Inspect",
-   "title": "The outside of the tube",
-   "action": "Turn it in your hands and look for dents, bulges, cracks, a bent end cap or any burn-through. A dent can push the inside of the can into the bullet's path.",
+   "phase": "Clean",
+   "title": "Nylon brush and CLP on the outside",
+   "action": "Clean the outside of the can with a nylon brush and a CLP-type product. The exterior is DLC coated, so some cleaners and solvents must not be used on it. Wear gloves and safety goggles, and work in a well-ventilated place away from open flame.",
    "box": "none",
-   "prose": "Damage you can see is a reason to stop and contact Primary Weapons Systems, not to keep shooting it and see."
+   "prose": "PWS warns that cleaning a suppressor carries potential toxicity.",
+   "caution": "Please be aware that the exterior is DLC (Diamond-like carbon) coated, so certain cleaners and solvents should not be used.",
+   "quote": "To clean any part of this assembly, use a nylon brush with CLP (Cleaner, Lubricant, Preservative) type of product.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Maintenance, p.14",
+   "warn": "When cleaning a suppressor, you should wear gloves and safety goggles.",
+   "warnSrc": "maker"
   },
   {
-   "phase": "Inspect",
-   "title": "Know the signs of a baffle strike",
-   "action": "A baffle strike is a bullet touching the inside of the can. The signs: the exit hole is torn, enlarged or off-centre; there are metal shavings or a bright fresh mark at the front; it suddenly sounds different; bullets start keyholing on the target. Any one of them puts the can out of service.",
+   "phase": "Clean",
+   "title": "Every part tight",
+   "action": "Check that every part of the can is tight, and check the torque every 500 rounds. PWS warns that skipping it can cause malfunctions, baffle strikes and damage to the suppressor and the firearm.",
    "box": "none",
-   "prose": "The usual causes are a can that was not seated square, a damaged or misaligned mount, or the wrong caliber through it."
+   "prose": "PWS ties this to accuracy: a loose part is a can out of line.",
+   "quote": "Regular tightening should be done on all parts of the suppressor to ensure accuracy is maintained.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Maintenance, p.14",
+   "warn": "WE RECOMMEND CLEANING, LUBRICATING AND CHECKING TORQUE SPECS (7 FT. LB.) EVERY 500 ROUNDS.",
+   "warnSrc": "maker"
   },
   {
-   "phase": "Inspect",
-   "title": "Listen for a new rattle",
-   "action": "Shake it gently by your ear. A new rattle, or anything you can feel shifting inside that did not before, means something has come loose. Do not fire it.",
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "The can is off the host, cool, its bore inspected, its outside clean and every part checked tight. That is the routine. Deep Clean is PWS's separation with the two supplied wrenches, every part cleaned, and the can rebuilt as it came apart.",
    "box": "none",
-   "prose": "A faint sound from carbon flakes is common. Anything you can feel moving is a job for Primary Weapons Systems."
-  },
-  {
-   "phase": "Inspect",
-   "title": "When it goes back to Primary Weapons Systems",
-   "action": "Send it to Primary Weapons Systems for inspection if: it shows any sign of a strike; it was fired with an obstruction in it or after a squib load; the tube is dented or cracked; it rattles; it will not come off the host or will not seat square, or the circle of light through it has visibly narrowed. Contact Primary Weapons Systems before you ship it — they will tell you how to send a registered suppressor back legally.",
-   "box": "none",
-   "prose": "For a can whose construction is unknown, the maker is the only way inside it."
+   "prose": "PWS recommends cleaning, lubricating and checking torque every 500 rounds.",
+   "quote": "Your PWS BDE® Suppressor should be routinely checked and maintained for preventative measures.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Maintenance, p.14",
+   "branch": true
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Primary Weapons Systems BDE556K-Ti, and this guide will not invent one. Fieldstrip does not yet have a guide built from a manual by Primary Weapons Systems for this model, so nothing about how it is built inside is known to this guide — and a can whose construction is unknown is treated as sealed. Fouling inside it, a rattle, a strike, or a can that will not come off goes to Primary Weapons Systems, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "The thread mount comes off the K",
+   "action": "With the can off the host and cool, take the two wrenches that came with it. The 1/2-28 thread mount is removable on the K: it unthreads from the entrance chamber. Lay the parts out in the order they come off, so the can goes back together exactly as it was.",
+   "box": "none",
+   "prose": "PWS's parts diagram shows the K's parts: the 1/2-28 thread mount, the 3D-printed entrance chamber, the 3D-printed main baffle stack and the 5.56 flat end cap. The two modular baffles in the diagram are marked for the long model only.",
+   "quote": "The thread mount on your BDE®556-TI and BDE®556K-TI can be removed.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Mounting Options, Suppressor Mount Compatibility, p.13"
+  },
+  {
+   "phase": "Strip",
+   "title": "Wrench notch on the outside, a cloth under it",
+   "action": "Seat the small notch on the large side of the wrench on the outside of the can, and make sure it is securely aligned before you turn. A thin cloth between the wrench and the can protects the finish.",
+   "box": "none",
+   "prose": "A wrench that slips scratches the DLC coating.",
+   "caution": "Ensure that the wrench is securely aligned to avoid scratches to the surface finish.",
+   "quote": "The large side of the wrench has a small notch which aligns to the exterior of the suppressor.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Modifications, p.11"
+  },
+  {
+   "phase": "Strip",
+   "title": "One wrench against the other",
+   "action": "Use the two wrenches in opposite directions, one holding and one turning, to break each threaded joint loose: the end cap from the main baffle stack, and the main baffle stack from the entrance chamber.",
+   "box": "none",
+   "prose": "Carbon locks threads together; two wrenches turn the joint without twisting the rest of the can.",
+   "quote": "The supplied wrenches can be used in opposite directions to make disassembly and reassembly easier.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Modifications, p.12"
+  },
+  {
+   "phase": "Strip",
+   "title": "Each part stays whole — PWS's stopping point",
+   "action": "Stop here. On the bench: thread mount, entrance chamber, main baffle stack and end cap. None of them is taken apart, adjusted or changed.",
+   "box": "limit",
+   "prose": "PWS's separation ends at the parts in its parts diagram.",
+   "quote": "NEVER MANIPULATE, ADJUST, OR CHANGE ANY OF THE INTERNAL COMPONENTS OF YOUR FIREARM AND/OR SUPPRESSOR.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Warnings, item 10, p.6"
+  },
+  {
+   "phase": "Clean",
+   "title": "Nylon brush and CLP on every part",
+   "action": "Clean each part with a nylon brush and a CLP-type product. Keep cleaners and solvents that are not safe on DLC away from the outside of the can. Gloves and safety goggles, in a well-ventilated place away from open flame.",
+   "box": "none",
+   "prose": "Dispose of used solvent safely.",
+   "caution": "Please be aware that the exterior is DLC (Diamond-like carbon) coated, so certain cleaners and solvents should not be used.",
+   "quote": "To clean any part of this assembly, use a nylon brush with CLP (Cleaner, Lubricant, Preservative) type of product.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Maintenance, p.14",
+   "warn": "When cleaning a suppressor, you should wear gloves and safety goggles.",
+   "warnSrc": "maker"
+  },
+  {
+   "phase": "Clean",
+   "title": "Soak for stuck-on carbon",
+   "action": "Carbon that the brush will not shift: soak the individual parts in CLP, then brush again.",
+   "box": "none",
+   "prose": "Soak the parts, not the whole can.",
+   "quote": "You can soak individual parts in CLP for any stuck-on carbon.",
+   "cite": "Primary Weapons Systems BDE556-TI Suppressor — Owners Manual — V26.1 — printed on the back page (\"BDE556-TI OWNERS MANUAL | V26.1\") — Maintenance, p.14"
+  }
+ ],
  "cleaning": [
   {
-   "name": "MUZZLE THREADS & SHOULDER",
+   "name": "EXTERIOR & BORE",
    "tasks": [
-    "Nylon or brass brush to break the carbon off the threads and the shoulder",
-    "Wipe with a cloth lightly dampened with gun solvent, then a dry cloth",
-    "Threads left clean and DRY — no oil, grease, anti-seize or thread-locker: whether this can wants any of them is a question for its maker, not something to guess"
+    "Interval: clean, lubricate and check torque every 500 rounds",
+    "Look through the bore for obstructions, mud and sand included",
+    "Nylon brush and CLP on the outside",
+    "⚠ The exterior is DLC coated: some cleaners and solvents must not be used on it",
+    "Gloves and safety goggles, well-ventilated, away from open flame"
    ]
   },
   {
-   "name": "THE CAN'S MOUNT — FROM THE OUTSIDE",
+   "name": "THREADS & TIGHTNESS",
    "tasks": [
-    "Brush loose carbon off the mount's threads or taper and its seating face",
-    "A dry cloth over the mount face — nothing pushed into the can",
-    "⛔ The mount stays in the can: it does not come out"
+    "Every part of the can tight",
+    "Torque checked every 500 rounds",
+    "Oil or grease on the threads before it goes back on"
    ]
   },
   {
-   "name": "QUICK-DETACH SEAT (if yours is QD)",
+   "name": "DEEP CLEAN: MOUNT, CHAMBER, STACK, END CAP",
    "tasks": [
-    "Brush the taper or seat on the muzzle device — carbon on it stops the can locking up square",
-    "The latch or collar moves freely by hand; if it binds, stop and contact the maker"
-   ]
-  },
-  {
-   "name": "OUTSIDE OF THE TUBE",
-   "tasks": [
-    "Wiped down with a dry cloth",
-    "A can that got wet dries completely, standing on end, before it is stored or fired"
-   ]
-  },
-  {
-   "name": "THE BORE — NOTHING THROUGH IT",
-   "tasks": [
-    "⛔ No patch, rod or bore brush through the can — a patch can lodge inside it",
-    "⛔ No soaking, no solvent fill, no ultrasonic bath: what this can is made of and how it is sealed is unknown, and either can damage it"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored off the host, clean and dry",
-    "Never shut in a case or bag while still damp",
-    "A thread protector back on the host's muzzle",
-    "Round count kept — the maker will ask for it if the can ever goes back"
+    "Deep clean: nylon brush and CLP on the end cap, main baffle stack, entrance chamber and thread mount",
+    "Deep clean: soak individual parts in CLP for stuck-on carbon",
+    "Do not manipulate, adjust or change the internal components: every part stays whole",
+    "⚠ Never thread the end cap directly onto the entrance chamber: the thread pitch is different"
    ]
   }
  ],
  "cleanMap": {
   "screens": [
    {
-    "s": 3
-   },
-   {
-    "s": 4
-   },
-   {
-    "s": 5
-   },
-   {
-    "s": 6
-   },
-   {
-    "s": 7
-   },
-   {
-    "s": 8
-   },
-   {
     "g": 0,
-    "steps": []
+    "steps": [
+     4,
+     5
+    ]
    },
    {
     "g": 1,
-    "steps": []
+    "steps": [
+     6
+    ]
    },
    {
     "g": 2,
-    "steps": []
-   },
-   {
-    "g": 3,
-    "steps": []
-   },
-   {
-    "g": 4,
-    "steps": []
-   },
-   {
-    "g": 5,
     "steps": []
    }
   ]
  },
  "reassembly": [
-  "Threads on the host and in the can clean and dry before it goes back on.",
-  "Start it by hand, square to the bore — it should spin on freely. If it binds or goes on crooked, back it off and start again; never force a cross-thread.",
-  "Run it down until it seats firmly against the shoulder or the muzzle device, with no gap you can see or catch a fingernail in. ⛔ A gap means it is not seated — do not fire.",
-  "Snug it firmly by hand, or with the wrench supplied with the can if it came with one. No cheater bar, and no tool on the tube that can crush it.",
-  "Quick-detach: latch or collar fully engaged, then pull and twist the can — it must not move.",
-  "Look through it once more before the first shot."
+  "Oil or grease on the threads of every part, to stop carbon locking them together.",
+  "Put the parts back in the order they came off: the end cap onto the main baffle stack, the main baffle stack onto the entrance chamber, and the thread mount into the entrance chamber.",
+  "Never thread the end cap directly onto the entrance chamber. PWS warns the thread pitch is different and it will damage the threads on the suppressor and its parts.",
+  "Turn each joint with the two supplied wrenches in opposite directions, the notch securely aligned on the outside of the can and a thin cloth under the wrench to protect the finish.",
+  "Torque: PWS's torque specifications call for a 3/8\" torque wrench, all parts to 25 ft. lbs. and the thread mount to the entrance chamber to 30 ft. lbs. Do not overtighten. PWS's maintenance warning prints a different figure, 7 ft. lb., and the book does not reconcile the two: if you are unsure which applies, ask PWS before you torque.",
+  "Thread the can back onto the host, threads oiled or greased, and check its fit and retention: all hardware tightened and properly fit."
  ],
- "fncheck": "Host still unloaded: the can is on, seated with no gap, and does not turn when you try it by hand. Check it again at the start of every session and after the first string of fire — a can that heats and cools can work loose. One that has loosened comes off, gets inspected and goes back on clean; one that keeps loosening goes to Primary Weapons Systems."
+ "fncheck": "PWS's book publishes no function check. With the host unloaded and cleared, look through the bore with the can mounted: nothing may block the bullet's path. Check that the can is tight on the host and that all hardware is tightened and properly fit; PWS puts checking fit and retention on the owner before every use. If the can is worn, loose or ill-fitting to the host, stop using it.",
+ "reassemblyRoutine": [
+  "Oil or grease on the host's muzzle threads (or the mount's) and the can's threads, to stop carbon locking them together.",
+  "Thread the can back onto the host: the 1/2-28 thread mount onto 1/2-28 muzzle threads, or the entrance chamber onto a 1.375-24 (HUB) mount.",
+  "Check its fit and retention: all hardware tightened and properly fit. PWS puts this check on the owner before every use."
+ ]
 }

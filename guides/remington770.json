@@ -1,98 +1,210 @@
 {
- "bpLabel": "Fieldstrip Best Practices guide. Fieldstrip does not yet have a guide built from a maker's manual for this model, so we built this from general best practices for this type of firearm. It does not represent manufacturer data. If you obtain the factory manual, follow it over this guide. Never take a firearm further apart than this guide goes unless its maker documents it.",
- "bpClass": "FA-BOLT",
- "bpTemplateVersion": 1,
  "row": "remington770",
  "make": "Remington",
  "model": "Model 770",
- "cleanIntro": "Fieldstrip does not yet have a guide built from a maker's manual for this model. Rifles of this kind are opened and closed by hand, which makes them simple to clear and clean — but the way the bolt comes out differs from rifle to rifle, so this guide leaves it in. Everything here is done with the action open: the bore by pull-through or from the muzzle, the parts you can reach, and the outside.\n\nListed in Fieldstrip as .243 Win, .270 Win, 7mm-08, 7mm Rem Mag, .30-06, .308 Win, .300 Win Mag. The chambering marked on the gun itself is the one that counts — not this guide, and not the listing.",
+ "sourcedFrom": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. (not printed (the back cover form number reads '302391 7.15 REV.'))",
+ "sourceSha256": "a91a27e1290532a06862fc0d424e7f1edd75533cd25a953df684f7c11add03b7",
+ "cleanIntro": "Remington prints one book for the Model 710, 715 and 770, and every procedure in it is written for all three. The routine clean is magazine out, bolt out past the bolt stop lever, and the bore cleaned from the chamber end. The deep clean goes as far as the book does and no further: the barrelled action out of the stock on its three takedown screws, the receiver and trigger flushed as one unit, the bolt head off its pin, and the magazine opened. The firing pin assembly and the trigger assembly are never taken apart.",
  "steps": [
   {
    "phase": "Clear",
-   "title": "Ammunition out of the room, muzzle somewhere safe",
-   "action": "Before you start, put every loose cartridge, loaded magazine and box of ammunition in another room — a cleaning bench with live rounds on it is where unintended discharges happen. Keep the muzzle pointed where a shot would hurt no one, and keep your finger outside the trigger guard the whole time. Wear eye protection whenever you use solvent or work near a spring, and work where the air moves.",
+   "title": "Safety lever fully rearward to \"S\"",
+   "action": "Find the safety lever on the right side at the rear of the receiver and pull it fully back toward \"S\" until the safety arm stops.",
    "box": "none",
-   "prose": "A safety, if yours has one, is never a substitute for an empty chamber, and nothing in this guide relies on one."
+   "prose": "On the 770 the safety lifts the sear and blocks the trigger, but it does not lock the bolt, so you can open the action and unload with it engaged — which is exactly how Remington wants it done. Pull it until it stops: a lever left part-way between the two marks is the condition the book warns about. Keep your finger outside the trigger guard from here on.",
+   "quote": "The safety mechanism is located on the shooters right towards the rear of the receiver. To engage the safety mechanism, pull the safety lever fully to the rear toward the “S” position until the safety arm stops.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — The Safety Mechanism, p.7"
   },
   {
    "phase": "Clear",
-   "title": "Magazine out, action open",
-   "action": "If the rifle takes a detachable magazine, take it out first. Then open the action fully: lift the bolt handle and draw it all the way back; on a straight-pull, draw it straight back; on a lever action, swing the lever fully down and forward. Work it closed and open again until nothing more comes out, and leave it open.",
+   "title": "Magazine box out first",
+   "action": "Press the magazine latch release and pull the detachable magazine box down out of the magazine well, then set it aside away from the rifle.",
    "box": "none",
-   "prose": "Keep your hand and thumb out of the bolt's path whenever you close it."
+   "prose": "The magazine comes out before the bolt moves, so that working the bolt cannot strip another cartridge into the chamber. Taking the box out does not make the rifle safe: the 770 has no magazine disconnect, and a round in the chamber will still fire with the magazine out. Empty the box later, away from the rifle, by sliding each cartridge forward and out.",
+   "quote": "3. Remove the magazine box from the firearm by pressing the magazine latch release lever then pulling the magazine box from the magazine well. See Picture 11.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — How To Unload the Firearm, step 3, p.13",
+   "warn": "There is no magazine disconnect on this rifle: it can fire with the magazine removed.",
+   "warnSrc": "ours"
   },
   {
    "phase": "Clear",
-   "title": "Look, then feel — and do it twice",
-   "action": "With the action open, look into the chamber, then into the magazine until you can see its follower with nothing in front of it, then put a fingertip into the chamber: a cartridge that hides in a dark chamber cannot hide from a finger. Close the action under control, open it again, and check the same way a second time.",
+   "title": "Bolt up and fully back, round out, chamber checked",
+   "action": "Raise the bolt handle and draw the bolt fully rearward until any cartridge clears the chamber, lift that cartridge out through the ejection port, and with the bolt open look into the chamber to confirm it is empty and clear.",
    "box": "none",
-   "prose": "⛔ If anything will not come out, stop: never pry it out with a tool, and contact Remington with the gun pointed somewhere safe."
+   "prose": "Fully rearward matters: a short stroke can leave a case half-drawn and hidden in the port. Look into the chamber and the magazine well, then put a fingertip into the chamber as well — a brass rim in a shadowed port is easy to miss by eye. Only when both are empty does the rifle stop being treated as loaded.",
+   "quote": "4. Open the bolt by raising the bolt handle, then pull the bolt fully rearward until the cartridge clears the chamber. 5. Lift the cartridge outward and remove from the receiver through the ejection port. 6. With the bolt open, visually check the chamber to make sure the firearm is completely unloaded and free of obstructions.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — How To Unload the Firearm, steps 4-6, p.13"
   },
   {
    "phase": "Strip",
-   "title": "The bolt stays in — and that is deliberate",
-   "action": "Leave the bolt in the rifle. How a bolt comes out differs from rifle to rifle — a lever beside the action, a button inside the trigger guard, or a release that needs the trigger held — and a guide that cannot see your rifle cannot say which. Everything that follows is done with the action open.",
+   "title": "Bolt stop lever up, bolt out the back",
+   "action": "With the action open, rotate the bolt stop lever on the left side of the receiver counter-clockwise until it stands vertical, then slide the bolt assembly rearward until it clears the receiver.",
    "box": "none",
-   "prose": "⛔ If you do not know where your rifle's bolt release is, never pull the trigger to find out. No screw, stock bolt, trigger or scope mount is touched in this guide."
+   "prose": "The 770's bolt release is the lever on the left of the receiver, not a button and not the trigger — there is no reason to touch the trigger to get the bolt out. Support the bolt as it leaves the raceways so it does not drop onto the bench. With the bolt out, look into the ejection port again: chamber and magazine well should both be empty.",
+   "quote": "5. Disengage the bolt stop by rotating the bolt stop lever until the lever is in the vertical position. See Picture 8. 6. Slide the bolt assembly rearward until it clears the receiver.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Remove the Bolt Assembly, steps 5-6, p.10"
+  },
+  {
+   "phase": "Strip",
+   "title": "Field strip complete",
+   "action": "Magazine box out, bolt assembly out, chamber empty, safety at \"S\". That is the routine field strip: the stock, barrelled action and trigger stay together.",
+   "box": "limit",
+   "prose": "From here the bore is cleaned from the chamber end and the outside is wiped down. The deeper procedure Remington prints — barrelled action out of the stock, receiver and trigger flushed, bolt head off its pin, magazine opened — is the Deep Clean, and Remington is plain that it goes no further than the book describes.",
+   "quote": "CAUTION: The Model 710™, 715™, 770™ firearms should NOT be disassembled beyond what is described in this manual, except by the factory or a Remington Authorized Repair Center.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Disassemble and Clean the Firearm, p.15",
+   "branch": true
   },
   {
    "phase": "Clean",
-   "title": "The bore, by pull-through or from the muzzle",
-   "action": "With the action open, drop a pull-through cord in at the chamber and draw it out of the muzzle — a brush wet with bore solvent first, then dry patches until they come out clean. If the open bolt does not leave the chamber clear for a cord, work from the muzzle with a rod and a rod guide so the rod never rubs the crown. Finish with a lightly oiled patch for storage, and run a dry patch through before you shoot.",
+   "title": "Bore from the chamber end, solvent patch then brush",
+   "action": "Saturate a patch with bore solvent, run it from the chamber end to the muzzle several times, then the correct-caliber brush, then fresh patches until one comes out clean; finish with an oiled patch and a dry one.",
    "box": "none",
-   "prose": "The crown — the edge of the muzzle — is what decides where the shot goes; a rod dragged across it does lasting harm."
+   "prose": "With the bolt out you can work from the chamber, which keeps the rod off the crown and pushes the fouling out of the muzzle instead of back into the action. The first wet patch lifts the loose residue so the brush is working on fouling rather than grit. Patch until one comes out with no residue on it, then run an oiled patch and a dry patch behind it so no oil is left in the bore.",
+   "quote": "11. Pass the patch through bore from the chamber end to the muzzle several times removing loose residue and fouling.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Clean the Barrel, step 11, p.15"
   },
   {
    "phase": "Clean",
-   "title": "The open action",
-   "action": "With the action open, wipe the bolt face, the chamber mouth and the inside of the receiver you can reach with a cloth or a small nylon brush and very little solvent. Do not pour or spray solvent into the action or the trigger: what runs in there cannot be wiped back out. A thin film of oil on the outside of the bolt where it slides is enough.",
-   "box": "none"
-  },
-  {
-   "phase": "Clean",
-   "title": "The outside, and how it is stored",
-   "action": "Wipe the outside with a lightly oiled cloth, and keep solvent off wood, finishes and optics. Store it dry, out of a closed case or bag while it is still damp, and look it over for rust at every clean.",
-   "box": "none"
+   "title": "Light oil outside, and properly oiled for storage",
+   "action": "Wipe a light coat of oil on the outside of the barrel with a soft clean cloth. If the rifle is going into storage, clean it carefully and oil it thoroughly; before it is used again, take the excess oil off and wipe the chamber and bore dry.",
+   "box": "none",
+   "prose": "Remington asks for a light application, not a coat: excess lubricant is something the book warns can affect function. Storage is the exception — thoroughly oiled going in, and all of that removed coming out, because oil left in the bore and chamber is an obstruction you load against.",
+   "quote": "20. Apply a light application of Rem™ Oil to the outside of the barrel with a soft clean cloth.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Clean the Barrel, step 20, p.15"
   },
   {
    "phase": "Inspect",
-   "title": "Look for the things that mean stop",
-   "action": "Hold the barrel up to the light and look through it: you want a clean, unbroken bore with no obstruction, no bulge and no dark ring. Look over the receiver, the barrel and the stock for cracks, and for anything loose or missing. A screw or pin that has worked loose is reported, not tightened — how tight it should be is a question for Remington.",
+   "title": "Look through the bore from the chamber end",
+   "action": "With the bolt still out, look through the receiver and barrel from the chamber end and confirm the bore is clear before anything else goes back in.",
    "box": "none",
-   "prose": "Any one of these means the gun is not fired until Remington has seen it."
+   "prose": "Remington asks for this check after every clean: a patch left in the bore is an obstruction. If anything is in there, push it out from the chamber end with a correct-size cleaning rod; if it will not come out easily, the rifle goes to the factory or a Remington Authorized Repair Center. Never try to shoot an obstruction out.",
+   "quote": "9. To check for an obstruction look through the receiver and barrel from the chamber end.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Check the Barrel for Obstructions, step 9, p.11"
   }
  ],
- "deepAbsentReason": "There is no deep clean for the Remington Model 770, and this guide will not invent one. Fieldstrip does not yet have a guide built from a maker's manual for this model, so nothing about the inside of it can be known from a document. Anything that needs more than this guide goes to Remington, not onto the bench.",
+ "deepSteps": [
+  {
+   "phase": "Strip",
+   "title": "Three takedown screws out, barrelled action out of the stock",
+   "action": "With the magazine and bolt already out, remove the three takedown screws with the Allen wrenches the book names, then lift the barrelled action out of the stock.",
+   "box": "none",
+   "prose": "There are three screws on the 770 — front, middle and rear — and they go back to three different torque figures, so keep them in order as they come out. Lift the action straight up out of the stock rather than rocking it. The maker's wording is quoted as printed, typo included.",
+   "quote": "8. Remove the barred/action from the stock by removing the three takedown screws, using a 1/8” and 1/16” Allen Wrench. See Picture 13.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Disassemble and Clean the Firearm, step 8, p.15"
+  },
+  {
+   "phase": "Clean",
+   "title": "Receiver sprayed and brushed inside, dried, lightly oiled",
+   "action": "Spray and brush every component inside the receiver with action cleaner, dry it completely in the air or with compressed air, then apply a light coat of oil inside and out.",
+   "box": "none",
+   "prose": "With the stock off you can reach the underside of the receiver and the magazine well, where residue collects. Dry before you oil: cleaner left behind thins the oil laid over it.",
+   "quote": "10. Thoroughly spray then brush all components inside the receiver using RemTM Action Cleaner.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Clean the Receiver, step 10, p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "Trigger assembly cleaned on the receiver, never removed",
+   "action": "Leave the trigger assembly on the receiver and clean the two together: spray action cleaner into the trigger assembly at the four points the book shows in Picture 14.",
+   "box": "limit",
+   "prose": "The 770 trigger is set at the factory and is not adjustable, and all repairs to it belong to the factory or a Remington Authorized Repair Center. Taking it off the receiver is not part of any cleaning the book describes.",
+   "quote": "NOTE: Clean and lubricate the receiver and trigger assemblies as a unit. Do not remove the trigger assembly from the receiver.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Clean and Lubricate the Trigger Assembly, note, p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "Work the trigger and the sear to move the cleaner through",
+   "action": "With the safety moved to \"F\", pull the trigger and release it several times; then pull and hold the trigger back, depress the sear with a small punch or screwdriver at point 1 and release it several times; then release the trigger and run the safety between \"F\" and \"S\" several times. Spray the four points again and dry them.",
+   "box": "none",
+   "prose": "Working the parts carries the cleaner through the engagement surfaces instead of only wetting them. Use a punch that fits the sear, not a wide blade that can slip. The bolt is out and the rifle is empty, so the trigger is pulled here because the book directs it, not to test anything live.",
+   "quote": "15. Pull and hold the trigger rearward. While using a small punch or screwdriver, depress the sear (Lubrication Point 1, see Picture 14) and release multiple times. See Picture 15.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Clean and Lubricate the Trigger Assembly, step 15, p.16"
+  },
+  {
+   "phase": "Clean",
+   "title": "One drop of oil at each of the four points",
+   "action": "Put one drop of oil at each of the four trigger-assembly points shown in Picture 14, and no more.",
+   "box": "none",
+   "prose": "One drop means one drop: a flooded trigger collects dirt and slows down in the cold. After the oil the book has you check the trigger, the sear and the safety before the rifle goes back together — that is the next step.",
+   "quote": "18. Place one drop of Rem™ Oil in each of the four (4) points in the trigger assembly specified in Picture 14.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Clean and Lubricate the Trigger Assembly, step 18, p.16"
+  },
+  {
+   "phase": "Inspect",
+   "title": "Trigger returns fully, sear comes up, safety moves freely",
+   "action": "With the safety at \"F\", pull and release the trigger several times and watch it return completely forward each time; then hold the trigger back and depress the sear with the punch — it must spring back fully upward without hesitation; then run the safety between \"F\" and \"S\" — it must move freely and never rest between the two.",
+   "box": "none",
+   "prose": "These are the book's own pass marks. If the trigger does not return fully, or the sear hesitates, the rifle is not in a safe operating condition and is not used until a Remington Authorized Repair Center has repaired it. If the safety sticks between positions, repeat the clean of the trigger once; if it still sticks, the rifle goes to a Remington Authorized Repair Center. When it passes, set the safety to \"S\", spray a little oil on the outside of the trigger assembly and receiver, and wipe off the excess.",
+   "quote": "Pull the trigger rearward and release multiple times. Ensure the trigger returns completely to the forward position each time.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Clean and Lubricate the Trigger Assembly, steps 19-21, p.16"
+  },
+  {
+   "phase": "Strip",
+   "title": "Firing pin assembly out: compress, an eighth turn clockwise, pull",
+   "action": "With the bolt out of the rifle, compress the firing pin spring with pliers across the firing pin head and bolt plug, rotate the bolt plug and firing pin assembly an eighth of a turn clockwise, and pull the bolt plug outward to draw the firing pin assembly out of the bolt body.",
+   "box": "none",
+   "prose": "The eighth turn only releases while the spring is compressed, so keep the pressure on until the assembly is free; letting go part way lets it snap back under load. Point the front of the bolt away from your face while the spring is compressed, and pad the plier jaws so they do not mark the bolt plug.",
+   "quote": "2. Rotate the bolt plug and firing pin assembly clockwise 1/8th of a turn. See Picture 17.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Disassemble the Bolt Assembly, step 2, p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Bolt head pin out, bolt head off the body",
+   "action": "With the firing pin assembly out, push the bolt head pin out with a punch and take the bolt head off the bolt body.",
+   "box": "none",
+   "prose": "Keep the bolt head and its pin together and in sight: without the bolt head pin the rifle is not safe to use, and the book checks for it twice on the way back together. Support the bolt body while you drive the pin rather than hammering it against a hard bench.",
+   "quote": "4. Remove the bolt head from the bolt body by removing the bolt head pin with a punch. See Picture 18.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Disassemble the Bolt Assembly, step 4, p.17",
+   "warn": "Without the bolt head pin in place the rifle is not safe to use.",
+   "warnSrc": "ours"
+  },
+  {
+   "phase": "Clean",
+   "title": "Bolt parts flushed and oiled; firing pin assembly stays whole",
+   "action": "Spray and brush all the bolt components, the firing pin assembly included, with action cleaner, dry them, and apply a light coat of oil to every surface; grease the cocking notch if you wish. Do not take the firing pin assembly apart.",
+   "box": "limit",
+   "prose": "The firing pin, its spring and the bolt plug are cleaned as one part on purpose — there is nothing inside it for the owner to set. Flush it end to end and dry it, because residue left inside slows the firing pin.",
+   "quote": "Caution! Clean the firing pin assembly as a unit. Do not disassemble.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Clean the Bolt and Firing Pin Assemblies, caution, p.17"
+  },
+  {
+   "phase": "Strip",
+   "title": "Magazine bottom pried off: spring, follower out",
+   "action": "Wearing eye protection, put a small flat screwdriver blade between the magazine housing's locking tab and the magazine bottom, gently pry them apart, and take out the bottom, the spring and the follower. Clean them with action cleaner, dry them, and give the metal a light coat of oil.",
+   "box": "none",
+   "prose": "The spring is under compression, so control the bottom as it comes free. Note which way the follower and the spring sit before they come out; on a short-action magazine there is also a spacer at the rear of the housing that goes back in the same place.",
+   "quote": "1. Remove the magazine bottom from housing by placing a small flat screw driver blade between the magazine housing locking tab and magazine bottom. Gently pry the two components apart. See Picture 23.",
+   "cite": "Remington Model 710, 715, 770 Bolt Action Rifles — Owner's Manual — 302391 7.15 REV. — To Disassemble Magazine, step 1, p.18",
+   "warn": "The magazine spring is under compression: wear eye protection.",
+   "warnSrc": "ours"
+  }
+ ],
  "cleaning": [
   {
    "name": "BORE",
    "tasks": [
-    "Pull-through from the open chamber, or from the muzzle with a rod guide",
-    "Brush wet with bore solvent, then dry patches until clean",
-    "A lightly oiled patch for storage; a dry patch before the next shot"
+    "Patch saturated with bore solvent, chamber end to muzzle, several passes",
+    "Correct-caliber brush, sprayed with bore solvent, several passes",
+    "Fresh patches until one comes out with no fouling residue",
+    "A patch with oil, then a clean dry patch to remove the excess"
    ]
   },
   {
-   "name": "THE OPEN ACTION",
+   "name": "EXTERIOR AND STORAGE",
    "tasks": [
-    "Bolt face and chamber mouth wiped",
-    "Receiver wiped where a cloth reaches",
-    "A thin film of oil on the bolt where it slides",
-    "⛔ No solvent poured or sprayed into the action or the trigger"
+    "Light coat of oil on the outside of the barrel with a soft clean cloth",
+    "For storage: carefully cleaned and thoroughly oiled",
+    "Before use again: excess oil removed, chamber and bore wiped dry"
    ]
   },
   {
-   "name": "EXTERIOR",
+   "name": "RECEIVER, TRIGGER, BOLT AND MAGAZINE (deep only)",
    "tasks": [
-    "Wiped with a lightly oiled cloth",
-    "No solvent on wood, finishes or optics"
-   ]
-  },
-  {
-   "name": "STORAGE",
-   "tasks": [
-    "Stored dry — never shut in a closed case while damp",
-    "Looked over for rust at every clean"
+    "Receiver sprayed and brushed inside with action cleaner, dried, lightly oiled inside and out",
+    "Trigger assembly cleaned on the receiver at its four points, one drop of oil at each",
+    "⛔ Never remove the trigger assembly from the receiver",
+    "Bolt components and firing pin assembly flushed, dried and lightly oiled",
+    "⛔ Never take the firing pin assembly apart",
+    "Magazine bottom, spring and follower cleaned, dried and lightly oiled"
    ]
   }
  ],
@@ -101,33 +213,32 @@
    {
     "g": 0,
     "steps": [
-     4
-    ]
-   },
-   {
-    "g": 1,
-    "steps": [
      5
     ]
    },
    {
-    "g": 2,
-    "steps": []
-   },
-   {
-    "g": 3,
+    "g": 1,
     "steps": [
      6
     ]
    },
    {
     "s": 7
+   },
+   {
+    "g": 2,
+    "steps": []
    }
   ]
  },
  "reassembly": [
-  "Nothing was taken apart, so nothing goes back together.",
-  "Close the action under control, with your hand and thumb out of its path."
+  "If the magazine was opened: follower into the housing from the bottom with its cartridge bias to the rear; on a short-action housing the spacer goes in at the rear; the short leg of the spring into the housing with the last bend toward the rear; the magazine bottom on with the Remington \"R\" at the front, pressed until it snaps into place. The follower must move freely — if it does not, reassemble it.",
+  "If the bolt was taken apart: bolt head pushed into the bolt body with the bolt handle 180 degrees from the ejector as seen from the front, and the bolt head pin pushed through body and head.",
+  "Firing pin assembly into the bolt body with the firing pin head about an eighth of a turn clockwise from the small cocked notch, then the bolt plug compressed and turned an eighth of a turn counter-clockwise until the cocking arm sits in the small cocked notch.",
+  "If the stock came off: with the bolt and magazine out, barrelled action into the stock and the takedown screws tightened clockwise — front 55 to 60 inch-pounds, middle 40 to 45 inch-pounds, rear 15 to 20 inch-pounds.",
+  "Look through the bore from the chamber end: it must be free of obstructions before the bolt goes back in.",
+  "Safety to \"S\". The firing pin assembly must be cocked (cocking arm in the small cocked notch) and the bolt head pin must be in place. Bolt stop lever turned up to vertical, bolt lugs aligned with the receiver's lug cuts, bolt slid forward, then the bolt stop pushed down and turned clockwise until it snaps horizontal.",
+  "Magazine box pushed into the magazine well until the latch fully engages, safety at \"S\", then the function test before the rifle is loaded."
  ],
- "fncheck": "Magazine out and the chamber empty. The action opens and closes fully and smoothly: a bolt handle turns fully down, a lever closes flush. Any safety you can see moves through each of its positions. This check never asks you to pull the trigger — on a rimfire, dry firing can damage the chamber edge, and on any rifle whether it tolerates it is a question for Remington."
+ "fncheck": "Remington prints a full function test for the 710, 715 and 770 and it is run unloaded, with eye protection, before the rifle is loaded. Safety at \"S\", bolt fully back — it should stop on the bolt stop — chamber, magazine and bore empty, bolt head pin present. Magazine out, bolt closed and locked: with the safety on, pull the trigger — the firing pin must not release. Safety to \"F\", pull again — it must release, and the trigger must return fully forward every time. With the bolt out, hold the trigger back and depress the sear with a punch: it must come back up without hesitation, and the safety must move freely to full \"S\" and full \"F\". Bolt back in with the safety on: pull the trigger — the firing pin must not release. Finally, an empty magazine latched in, safety at \"F\", close the bolt smartly and lock it: the firing pin must stay cocked and the magazine must stay latched, then a trigger pull releases it. Any failure means the rifle is not fired: it goes to a Remington Authorized Repair Center. Finish with the safety at \"S\"."
 }

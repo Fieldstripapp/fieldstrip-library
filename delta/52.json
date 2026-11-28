@@ -1,8 +1,46 @@
 {
  "_doc": "Everything a client holding version 52 has not got. Rows are whole index records: merge by id, replacing any row already held.",
  "from": 52,
- "to": 60,
+ "to": 61,
  "rows": [
+  {
+   "id": "griffinarmamentduallok5am",
+   "maker": "Griffin Armament",
+   "model": "DUAL-LOK 5 AM",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": true,
+   "guideId": "griffinarmamentduallok5am",
+   "guideSha256": "9c9f9a80db55c7db5bb2d8b0b79071ffc89c66ab93210b8872a632d3b7d7545f",
+   "cal": "{\"chs\":[\"5.56\"]}",
+   "calSha256": "c692a4d8a26905e48beafdb746cfef27349347401977b47ddcf28bcc54d24a1d",
+   "calV": 34
+  },
+  {
+   "id": "griffinarmamentduallok7am",
+   "maker": "Griffin Armament",
+   "model": "DUAL-LOK 7 AM",
+   "chambering": "multi",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    ".30 cal"
+   ],
+   "guide": true,
+   "guideId": "griffinarmamentduallok7am",
+   "guideSha256": "18f8130d0eddf2518a968158458fc2a1c7fa03bb58fe4e76f420e337bb15cc3e",
+   "cal": "{\"chs\":[\".30 cal\"]}",
+   "calSha256": "3a2b0fdd1a4e113aabe828c1fe71a577d39ad905e962ff3da626f82a84a9a764",
+   "calV": 34
+  },
   {
    "id": "remington7400",
    "maker": "Remington",
@@ -50,6 +88,51 @@
    "calV": 34
   },
   {
+   "id": "remingtonnylon66",
+   "maker": "Remington",
+   "model": "Nylon 66",
+   "chambering": "—",
+   "category": "Semi-auto rimfire rifle",
+   "family": "NEW-REMINGTON-NYLON66",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 LR",
+    ".22 Short"
+   ],
+   "guide": true,
+   "guideId": "remingtonnylon66",
+   "guideSha256": "8d4fc8159db4dcfee77482a7743be0c4de58f9c17321864477f8edb161a5a456",
+   "cal": "{\"chs\":[\".22 LR\",\".22 Short\"]}",
+   "calSha256": "65a44b2c7593e7cfe1c75af744a0ab9a9fd7d6708817ee19be4ff91af6305017",
+   "calV": 34
+  },
+  {
+   "id": "remington770",
+   "maker": "Remington",
+   "model": "Model 770",
+   "chambering": "—",
+   "category": "Bolt-action rifle",
+   "family": "NEW-REMINGTON-MODEL770",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".243 Win",
+    ".270 Win",
+    "7mm-08",
+    "7mm Rem Mag",
+    ".30-06",
+    ".308 Win",
+    ".300 Win Mag"
+   ],
+   "guide": true,
+   "guideId": "remington770",
+   "guideSha256": "9d521cdefc96393278ae3ae62d8cc83779c5fc21b78d36a810872e503607dc2e",
+   "cal": "{\"chs\":[\".243 Win\",\".270 Win\",\"7mm-08\",\"7mm Rem Mag\",\".30-06\",\".308 Win\",\".300 Win Mag\"]}",
+   "calSha256": "0320f694a3f02e001b450b17522c7dcc76ff66058e2c975f2a4c83b8f6a67f8c",
+   "calV": 34
+  },
+  {
    "id": "fnps90",
    "maker": "FN",
    "model": "PS90",
@@ -66,6 +149,25 @@
    "guideSha256": "95c7f9e46c6dbb5d66b906bda3bfd6b93746fce89af397889e5d59887c2e2dab",
    "cal": "{\"chs\":[\"5.7x28\"]}",
    "calSha256": "ec46abf905a5cf81ccd8fc7d95ca775d773603b3a27e6bb8b83ba424f1e6b1bb",
+   "calV": 34
+  },
+  {
+   "id": "waltherpd380",
+   "maker": "Walther",
+   "model": "PD380",
+   "chambering": ".380 ACP",
+   "category": "Semi-auto pistol",
+   "family": "NEW-WALTHER-PD380",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    ".380 ACP"
+   ],
+   "guide": true,
+   "guideId": "waltherpd380",
+   "guideSha256": "cee68cc0d05dc70b884a1fb570c624b28faa700f9f02be935af0bdec31b46942",
+   "cal": "{\"chs\":[\".380 ACP\"]}",
+   "calSha256": "a2d78c863cc630671b75e41817f7430e451757745d79ed67a3d0ac88c7a7ed10",
    "calV": 34
   },
   {
@@ -88,6 +190,26 @@
    "calV": 38
   },
   {
+   "id": "smithwessonmodel22classic",
+   "maker": "Smith & Wesson",
+   "model": "Model 22 Classic",
+   "chambering": "multi",
+   "category": "Revolver",
+   "family": "NEW-SMITHWESSO-MODEL22CLASSIC",
+   "tier": 3,
+   "group": "Revolvers",
+   "chamberings": [
+    ".45 ACP",
+    ".45 LC"
+   ],
+   "guide": true,
+   "guideId": "smithwessonmodel22classic",
+   "guideSha256": "3836b64325424149d52dcb61e3c0b5c947385bab7cd03354513759783c812ba7",
+   "cal": "{\"chs\":[\".45 ACP\",\".45 LC\"]}",
+   "calSha256": "278e758d142430301d0d72f88478974f3094a13df25936f697056773ca629423",
+   "calV": 38
+  },
+  {
    "id": "uspalmstormcat4",
    "maker": "US Palm",
    "model": "Storm CAT4",
@@ -104,6 +226,60 @@
    "guideSha256": "4a5dd41d52c09750e7f72f6555b53fc2e441b98b453fe9133e57d3a7c9d6fce9",
    "cal": "{\"chs\":[\"5.56 / .223\"]}",
    "calSha256": "0a14a58185a59bf7b8cbb05dfcb3652cbd2be162d67efade3ed87034c295930d",
+   "calV": 38
+  },
+  {
+   "id": "bergarapremierplatinumstalker",
+   "maker": "Bergara",
+   "model": "Premier Platinum Stalker",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "NEW-BERGARA-PREMIERPLATINU",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".25 Creedmoor",
+    "6.5 Creedmoor",
+    ".308 Win",
+    "6.5 PRC",
+    ".270 Win",
+    "7mm Rem Mag",
+    ".30-06",
+    ".300 Win Mag",
+    "7mm PRC",
+    ".300 PRC",
+    ".375 H&H"
+   ],
+   "guide": true,
+   "guideId": "bergarapremierplatinumstalker",
+   "guideSha256": "e7d19542b8e553a48525b3fc43db1afeadece293095c13fbec6f96336bec35ab",
+   "cal": "{\"chs\":[\".25 Creedmoor\",\"6.5 Creedmoor\",\".308 Win\",\"6.5 PRC\",\".270 Win\",\"7mm Rem Mag\",\".30-06\",\".300 Win Mag\",\"7mm PRC\",\".300 PRC\",\".375 H&H\"]}",
+   "calSha256": "a3e3f0a099e4fef397911c0ae34afb6a817f53cdf729b2b68626abfce0b0554f",
+   "calV": 38
+  },
+  {
+   "id": "bergarapremiercompetitionelite",
+   "maker": "Bergara",
+   "model": "Premier Competition Elite",
+   "chambering": "multi",
+   "category": "Bolt-action rifle",
+   "family": "NEW-BERGARA-PREMIERCOMPETI",
+   "tier": 3,
+   "group": "Rifles",
+   "chamberings": [
+    ".22 Creedmoor",
+    ".25 Creedmoor",
+    "6mm Dasher",
+    "6mm GT",
+    "6mm Creedmoor",
+    "6.5 Creedmoor",
+    ".308 Win"
+   ],
+   "guide": true,
+   "guideId": "bergarapremiercompetitionelite",
+   "guideSha256": "913973acffad49b43fdbe8996a8e85d74fe87e4f2f2e906483320a8b64d284cd",
+   "cal": "{\"chs\":[\".22 Creedmoor\",\".25 Creedmoor\",\"6mm Dasher\",\"6mm GT\",\"6mm Creedmoor\",\"6.5 Creedmoor\",\".308 Win\"]}",
+   "calSha256": "b88b26388f310eaa89f4cb1e3fec438147fa13055c50f6b441f24345d59a82bd",
    "calV": 38
   },
   {
@@ -253,6 +429,25 @@
    "calV": 38
   },
   {
+   "id": "pwsbde556kti",
+   "maker": "Primary Weapons Systems",
+   "model": "BDE556K-Ti",
+   "chambering": "5.56",
+   "category": "Suppressor",
+   "family": "SUP-SEALED",
+   "tier": 3,
+   "group": "Suppressors",
+   "chamberings": [
+    "5.56"
+   ],
+   "guide": true,
+   "guideId": "pwsbde556kti",
+   "guideSha256": "68ef1b3f7f2866dc24ef8db355e5891778eb7d7f8e0a9690c4348155c6e106e0",
+   "cal": "{\"chs\":[\"5.56\"],\"rs\":\"Up to 5.56x45mm NATO\"}",
+   "calSha256": "f6c066293c8f163ffb9d39a98f73151c861893f1e1cd59092819dd42586a2834",
+   "calV": 38
+  },
+  {
    "id": "uspalmeosak",
    "maker": "US Palm",
    "model": "EOS-AK",
@@ -305,6 +500,25 @@
    "guide": true,
    "guideId": "czduty40",
    "guideSha256": "15ec8471bbf3736584e279f732b37b283638497c4433d1c1497f4b06713ec89e",
+   "cal": "{\"chs\":[\"9mm\"]}",
+   "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
+   "calV": 39
+  },
+  {
+   "id": "czduty40ms",
+   "maker": "CZ",
+   "model": "DUTY 4.0 MS",
+   "chambering": "9mm",
+   "category": "Semi-auto pistol",
+   "family": "NEW-CZ-DUTY40MS",
+   "tier": 3,
+   "group": "Pistols",
+   "chamberings": [
+    "9mm"
+   ],
+   "guide": true,
+   "guideId": "czduty40ms",
+   "guideSha256": "25615c423c22541479384e951445eaa636d365c22871588127ae8f03719b9528",
    "cal": "{\"chs\":[\"9mm\"]}",
    "calSha256": "58127f53f2eb9a22564813eafbd4d65d7cf8a8a8949ba59c4bec5f11d5929cbd",
    "calV": 39
